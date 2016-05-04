@@ -1,0 +1,63 @@
+{
+  "id": 169607617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.242882,28.640425,77.242882,28.640425",
+    "geom:latitude":28.640425,
+    "geom:longitude":77.242882,
+    "iso:country":"IN",
+    "sg:address":"4648/21, Ansari Road, Darya Ganj,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2327 8856",
+    "sg:postcode":"110002",
+    "sg:tags":[
+        "wax"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903843,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u7b81Lxn3WQHe8FFGym3z_28.640425_77.242882@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2ab21069896f7334182f7b3d4002a7f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85903843,
+            "region_id":85672123,
+            "venue_id":169607617
+        }
+    ],
+    "wof:id":169607617,
+    "wof:lastmodified":1449033120,
+    "wof:name":"Rajat Metal Company",
+    "wof:parent_id":85903843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [77.242882,28.640425,77.242882,28.640425],
+  "geometry": {"coordinates":[77.242882,28.640425],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169651155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.56574,12.937677,77.56574,12.937677",
+    "geom:latitude":12.937677,
+    "geom:longitude":77.56574,
+    "iso:country":"IN",
+    "sg:address":"3J,  3rd Cross, 7th 'C' Main 3rd Block, Koramangala",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560034",
+    "sg:tags":[
+        "guruji",
+        "search",
+        "indian-search-engine"
+    ],
+    "sg:website":"http://guruji.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930849,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38giWHEv4Jnyr1CAM2KzcF_12.937677_77.565740@1308163238"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4cf9890a06922421597f87bfbfa1098a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930849,
+            "region_id":85672165,
+            "venue_id":169651155
+        }
+    ],
+    "wof:id":169651155,
+    "wof:lastmodified":1449033346,
+    "wof:name":"Guruji",
+    "wof:parent_id":85930849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guruji",
+        "search",
+        "indian-search-engine"
+    ]
+},
+  "bbox": [77.56574,12.937677,77.56574,12.937677],
+  "geometry": {"coordinates":[77.56574,12.937677],"type":"Point"}
+}

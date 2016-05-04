@@ -1,0 +1,62 @@
+{
+  "id": 169601737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.576668,27.080053,78.576668,27.080053",
+    "geom:latitude":27.080053,
+    "geom:longitude":78.576668,
+    "iso:country":"IN",
+    "sg:address":"426, Avas Vikas-i, D.m. Road,",
+    "sg:city":"Bulandshahar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 5732 231 262",
+    "sg:postcode":"203001",
+    "sg:tags":[
+        "wax"
+    ],
+    "sg:website":"http://www.piplapetro.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LuHk6VUU9Qw3woAEmM8XU_27.080053_78.576668@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3130aa8329e9b7c176872242910453bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169601737
+        }
+    ],
+    "wof:id":169601737,
+    "wof:lastmodified":1449034148,
+    "wof:name":"Pipla Petrochem & Organic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [78.576668,27.080053,78.576668,27.080053],
+  "geometry": {"coordinates":[78.576668,27.080053],"type":"Point"}
+}

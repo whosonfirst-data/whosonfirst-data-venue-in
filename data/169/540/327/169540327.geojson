@@ -1,0 +1,62 @@
+{
+  "id": 169540327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.612732,13.020975,77.612732,13.020975",
+    "geom:latitude":13.020975,
+    "geom:longitude":77.612732,
+    "iso:country":"IN",
+    "sg:address":"# 116, Shampura Main Road, Opp. Dr. B.r. Ambedkar Medical College, Kadugondanahalli,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2366 2925",
+    "sg:postcode":"560045",
+    "sg:tags":[
+        "shirt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43cBpp9tI8bRWsVhnBW6Ii_13.020975_77.612732@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e0f8ffb0989635b8b845a3d4688e6cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169540327
+        }
+    ],
+    "wof:id":169540327,
+    "wof:lastmodified":1449033973,
+    "wof:name":"Meghana Exports & Imports Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shirt"
+    ]
+},
+  "bbox": [77.612732,13.020975,77.612732,13.020975],
+  "geometry": {"coordinates":[77.612732,13.020975],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169537925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.558838,12.988112,77.558838,12.988112",
+    "geom:latitude":12.988112,
+    "geom:longitude":77.558838,
+    "iso:country":"IN",
+    "sg:address":"200/1, 2nd Main, Rajajinagar Indl. Town,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2338 1664",
+    "sg:postcode":"560044",
+    "sg:tags":[
+        "component",
+        "pressed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ThOVcOt2ZNoxZIVipmfzR_12.988112_77.558838@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"48d724474dad7d434c864c3195bd56c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169537925
+        }
+    ],
+    "wof:id":169537925,
+    "wof:lastmodified":1449033495,
+    "wof:name":"V.n. Enterprises",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "pressed"
+    ]
+},
+  "bbox": [77.558838,12.988112,77.558838,12.988112],
+  "geometry": {"coordinates":[77.558838,12.988112],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169597163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.846359,19.161934,72.846359,19.161934",
+    "geom:latitude":19.161934,
+    "geom:longitude":72.846359,
+    "iso:country":"IN",
+    "sg:address":"212/4, Jawahar Nagar, Goregaon (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2872 4706",
+    "sg:postcode":"400062",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_552MoDQeSlD2W6CFFTdJS3_19.161934_72.846359@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b4f09aadae36c39abb3771738d5444dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169597163
+        }
+    ],
+    "wof:id":169597163,
+    "wof:lastmodified":1449035927,
+    "wof:name":"P. C. Patel & Sons",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.846359,19.161934,72.846359,19.161934],
+  "geometry": {"coordinates":[72.846359,19.161934],"type":"Point"}
+}

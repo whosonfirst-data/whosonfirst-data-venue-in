@@ -1,0 +1,63 @@
+{
+  "id": 169577021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"79.137306,12.951839,79.137306,12.951839",
+    "geom:latitude":12.951839,
+    "geom:longitude":79.137306,
+    "iso:country":"IN",
+    "sg:address":"21/2, 1st Main Road, Gandhinagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2226 7447",
+    "sg:postcode":"560009",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.gksalesintl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028287,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OvGJcfKcSIFV0uUgxluL7_12.951839_79.137306@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d6a74f936134e989e5e77c08bb156055",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028287,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169577021
+        }
+    ],
+    "wof:id":169577021,
+    "wof:lastmodified":1449036067,
+    "wof:name":"G. K. Sales International",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [79.137306,12.951839,79.137306,12.951839],
+  "geometry": {"coordinates":[79.137306,12.951839],"type":"Point"}
+}

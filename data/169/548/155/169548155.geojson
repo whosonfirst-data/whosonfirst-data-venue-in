@@ -1,0 +1,68 @@
+{
+  "id": 169548155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.704575,10.772859,78.704575,10.772859",
+    "geom:latitude":10.772859,
+    "geom:longitude":78.704575,
+    "iso:country":"IN",
+    "sg:address":"B4, Spic Nagar,",
+    "sg:city":"Tuticorin",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 461 235 6449",
+    "sg:postcode":"628005",
+    "sg:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028441,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SY00XbsCbrN0q7FomCSHU_10.772859_78.704575@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"66cabab89039a686e483e5309cb6c845",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028441,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169548155
+        }
+    ],
+    "wof:id":169548155,
+    "wof:lastmodified":1449034975,
+    "wof:name":"Spic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ]
+},
+  "bbox": [78.704575,10.772859,78.704575,10.772859],
+  "geometry": {"coordinates":[78.704575,10.772859],"type":"Point"}
+}

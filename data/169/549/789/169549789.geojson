@@ -1,0 +1,65 @@
+{
+  "id": 169549789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.338905,28.573948,77.338905,28.573948",
+    "geom:latitude":28.573948,
+    "geom:longitude":77.338905,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 30, O.t. Sector, Industrial Area,",
+    "sg:city":"Ulhasnagar",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Passenger",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 91222544377",
+    "sg:postcode":"421002",
+    "sg:tags":[
+        "acrylic",
+        "sheet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928411,
+        85632469,
+        102031133,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hTe35ofTHyIkPfnNRflqz_28.573948_77.338905@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b8231256e3218b68016ebb710c66dca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031133,
+            "neighbourhood_id":85928411,
+            "region_id":85672205,
+            "venue_id":169549789
+        }
+    ],
+    "wof:id":169549789,
+    "wof:lastmodified":1449033593,
+    "wof:name":"Mahesh Industries",
+    "wof:parent_id":85928411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acrylic",
+        "sheet"
+    ]
+},
+  "bbox": [77.338905,28.573948,77.338905,28.573948],
+  "geometry": {"coordinates":[77.338905,28.573948],"type":"Point"}
+}

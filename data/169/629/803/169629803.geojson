@@ -1,0 +1,63 @@
+{
+  "id": 169629803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.35038,22.537893,88.35038,22.537893",
+    "geom:latitude":22.537893,
+    "geom:longitude":88.35038,
+    "iso:country":"IN",
+    "sg:address":"7a, Lala Lajpat Rai Sarani,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2247 5100",
+    "sg:postcode":"700020",
+    "sg:tags":[
+        "pigment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931935,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rQfgcXEwdvT7PP4KcWmex_22.537893_88.350380@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2c8e5b7db6ec6e2eeea2d8fa66d27827",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931935,
+            "region_id":85672219,
+            "venue_id":169629803
+        }
+    ],
+    "wof:id":169629803,
+    "wof:lastmodified":1449035186,
+    "wof:name":"Sudarshan Chemical Industries Ltd.",
+    "wof:parent_id":85931935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [88.35038,22.537893,88.35038,22.537893],
+  "geometry": {"coordinates":[88.35038,22.537893],"type":"Point"}
+}

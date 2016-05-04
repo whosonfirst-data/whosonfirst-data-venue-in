@@ -1,0 +1,66 @@
+{
+  "id": 169531943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.814095,18.97249,72.814095,18.97249",
+    "geom:latitude":18.97249,
+    "geom:longitude":72.814095,
+    "iso:country":"IN",
+    "sg:address":"35/36, 4flr., Tardeo A.c. Mkt., Tardeo,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2352 4825",
+    "sg:postcode":"400034",
+    "sg:tags":[
+        "decorative",
+        "item"
+    ],
+    "sg:website":"http://www.intexexports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903971,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dLNGsIlazrWv6NPPavKkd_18.972490_72.814095@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f10a56f5e602cc6569ae45a89b7995a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903971,
+            "region_id":85672171,
+            "venue_id":169531943
+        }
+    ],
+    "wof:id":169531943,
+    "wof:lastmodified":1449033472,
+    "wof:name":"Intex Exports",
+    "wof:parent_id":85903971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decorative",
+        "item"
+    ]
+},
+  "bbox": [72.814095,18.97249,72.814095,18.97249],
+  "geometry": {"coordinates":[72.814095,18.97249],"type":"Point"}
+}

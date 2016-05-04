@@ -1,0 +1,53 @@
+{
+  "id": 169564825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.25,13.060746,80.25,13.060746",
+    "geom:latitude":13.060746,
+    "geom:longitude":80.25,
+    "iso:country":"IN",
+    "sg:address":"Khader Nawaz Road, Nungambakkam",
+    "sg:city":"Chennai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2824 0435",
+    "sg:postcode":"600006",
+    "sg:province":"Tamil Nadu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931743,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bFU54dAxOpBkmkdYBDX0P_13.060746_80.250000@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"57242da90dabe705a36c09917a4bcae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931743,
+            "region_id":85672245,
+            "venue_id":169564825
+        }
+    ],
+    "wof:id":169564825,
+    "wof:lastmodified":1449035762,
+    "wof:name":"Acsys Software India Pvt Ltd",
+    "wof:parent_id":85931743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.25,13.060746,80.25,13.060746],
+  "geometry": {"coordinates":[80.25,13.060746],"type":"Point"}
+}

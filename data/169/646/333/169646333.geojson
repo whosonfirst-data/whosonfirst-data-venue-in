@@ -1,0 +1,64 @@
+{
+  "id": 169646333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.40728,22.610758,88.40728,22.610758",
+    "geom:latitude":22.610758,
+    "geom:longitude":88.40728,
+    "iso:country":"IN",
+    "sg:address":"145/1, Jessore Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2574 9450",
+    "sg:postcode":"700089",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.wbcil.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904043,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ylbgamt5GuZBikDDFyH9i_22.610758_88.407280@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"55b7b5c466f50389cbf6005bbd9ad5fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85904043,
+            "region_id":85672219,
+            "venue_id":169646333
+        }
+    ],
+    "wof:id":169646333,
+    "wof:lastmodified":1449032608,
+    "wof:name":"West Bengal Chemical Industries Limited",
+    "wof:parent_id":85904043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [88.40728,22.610758,88.40728,22.610758],
+  "geometry": {"coordinates":[88.40728,22.610758],"type":"Point"}
+}

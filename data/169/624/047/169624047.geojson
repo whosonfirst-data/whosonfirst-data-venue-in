@@ -1,0 +1,64 @@
+{
+  "id": 169624047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"81.331688,21.183992,81.331688,21.183992",
+    "geom:latitude":21.183992,
+    "geom:longitude":81.331688,
+    "iso:country":"IN",
+    "sg:address":"C-392, Sector 10,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 252 8637",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030693,
+        85672231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XVAPrCd3u4omCsSW9MkeQ_21.183992_81.331688@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1e274e947cf6ea734ab5f5cc7e6d02f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030693,
+            "neighbourhood_id":-1,
+            "region_id":85672231,
+            "venue_id":169624047
+        }
+    ],
+    "wof:id":169624047,
+    "wof:lastmodified":1449034959,
+    "wof:name":"Sigma",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [81.331688,21.183992,81.331688,21.183992],
+  "geometry": {"coordinates":[81.331688,21.183992],"type":"Point"}
+}

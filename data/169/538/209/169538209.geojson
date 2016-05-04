@@ -1,0 +1,68 @@
+{
+  "id": 169538209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.608299,12.984385,77.608299,12.984385",
+    "geom:latitude":12.984385,
+    "geom:longitude":77.608299,
+    "iso:country":"IN",
+    "sg:address":"59, Jewellers St, Shivaji Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Musical Instruments",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2555 0642",
+    "sg:postcode":"560001",
+    "sg:tags":[
+        "process",
+        "control",
+        "equipment"
+    ],
+    "sg:website":"http://www.enviroserve.netfirms.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930953,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l7h81HEWiNTk8eiiwDFVf_12.984385_77.608299@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7f6d03bc59a3f8d5fabc83e384ec6f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930953,
+            "region_id":85672165,
+            "venue_id":169538209
+        }
+    ],
+    "wof:id":169538209,
+    "wof:lastmodified":1449033101,
+    "wof:name":"Danfoss Industries / Enviro Serve Pvt. Ltd.",
+    "wof:parent_id":85930953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "process",
+        "control",
+        "equipment"
+    ]
+},
+  "bbox": [77.608299,12.984385,77.608299,12.984385],
+  "geometry": {"coordinates":[77.608299,12.984385],"type":"Point"}
+}

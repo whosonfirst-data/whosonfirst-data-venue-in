@@ -1,0 +1,63 @@
+{
+  "id": 169603045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.572884,13.933999,75.572884,13.933999",
+    "geom:latitude":13.933999,
+    "geom:longitude":75.572884,
+    "iso:country":"IN",
+    "sg:address":"H.o. 33a J.l. Nehru Road, 12th Floor, Suite 13,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2226 6728",
+    "sg:postcode":"700071",
+    "sg:tags":[
+        "chemicals-additives"
+    ],
+    "sg:website":"http://www.prabhupolycolor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028673,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YGxCPOfzmILIP7Qrcxwfa_13.933999_75.572884@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"443d8437969c6ed89bd7eb5e826aff8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028673,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169603045
+        }
+    ],
+    "wof:id":169603045,
+    "wof:lastmodified":1449035455,
+    "wof:name":"Prabhu Polycolor Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemicals-additives"
+    ]
+},
+  "bbox": [75.572884,13.933999,75.572884,13.933999],
+  "geometry": {"coordinates":[75.572884,13.933999],"type":"Point"}
+}

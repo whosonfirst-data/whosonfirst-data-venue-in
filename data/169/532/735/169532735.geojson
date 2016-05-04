@@ -1,0 +1,63 @@
+{
+  "id": 169532735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.817444,18.954645,72.817444,18.954645",
+    "geom:latitude":18.954645,
+    "geom:longitude":72.817444,
+    "iso:country":"IN",
+    "sg:address":"401, Prasad Chambers, Opera House,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2363 1351",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931463,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OKfnvGO6cBVYsmYf1RVVB_18.954645_72.817444@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1d2a6b75771fc0971d713f8444fe2679",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931463,
+            "region_id":85672171,
+            "venue_id":169532735
+        }
+    ],
+    "wof:id":169532735,
+    "wof:lastmodified":1449033798,
+    "wof:name":"Diaman Exports Pvt. Ltd.",
+    "wof:parent_id":85931463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.817444,18.954645,72.817444,18.954645],
+  "geometry": {"coordinates":[72.817444,18.954645],"type":"Point"}
+}

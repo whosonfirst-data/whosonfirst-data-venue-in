@@ -1,0 +1,62 @@
+{
+  "id": 169645335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.926003,30.879322,75.926003,30.879322",
+    "geom:latitude":30.879322,
+    "geom:longitude":75.926003,
+    "iso:country":"IN",
+    "sg:address":"E-625, Focal Point 7,",
+    "sg:city":"Ludhiana",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 161 267 7793",
+    "sg:postcode":"141010",
+    "sg:tags":[
+        "wax"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029555,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bIL4HgrGzwvAY2WQVZgO7_30.879322_75.926003@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"298ab1416f84af9a6fa06bb320dc78b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029555,
+            "neighbourhood_id":-1,
+            "region_id":85672195,
+            "venue_id":169645335
+        }
+    ],
+    "wof:id":169645335,
+    "wof:lastmodified":1449033004,
+    "wof:name":"Vistar Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [75.926003,30.879322,75.926003,30.879322],
+  "geometry": {"coordinates":[75.926003,30.879322],"type":"Point"}
+}

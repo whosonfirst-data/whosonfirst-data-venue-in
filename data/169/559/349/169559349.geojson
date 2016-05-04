@@ -1,0 +1,61 @@
+{
+  "id": 169559349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.215454,10.5847,76.215454,10.5847",
+    "geom:latitude":10.5847,
+    "geom:longitude":76.215454,
+    "iso:country":"IN",
+    "sg:address":"1-c-75, N.i.t.,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 241 8550",
+    "sg:postcode":"121001",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bCGMAoevPyGfBIc8ssYox_10.584700_76.215454@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fc72790b7e7b85753e1f7f76c5587b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672149,
+            "venue_id":169559349
+        }
+    ],
+    "wof:id":169559349,
+    "wof:lastmodified":1449035236,
+    "wof:name":"Chetan Rubber Udyog",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [76.215454,10.5847,76.215454,10.5847],
+  "geometry": {"coordinates":[76.215454,10.5847],"type":"Point"}
+}

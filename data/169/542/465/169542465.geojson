@@ -1,0 +1,64 @@
+{
+  "id": 169542465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.622993,12.928,77.622993,12.928",
+    "geom:latitude":12.928,
+    "geom:longitude":77.622993,
+    "iso:country":"IN",
+    "sg:address":"No. 426, 16th Main 3rd Cross, 3rd Block, Koramangala,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4111 9294",
+    "sg:postcode":"560034",
+    "sg:tags":[
+        "stone"
+    ],
+    "sg:website":"http://www.zoomdevelopers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931027,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4y9C4WKUyFGU9VdZAQvn9Y_12.928000_77.622993@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3eb884a236cd2e36d44dd3e3c842f1ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931027,
+            "region_id":85672165,
+            "venue_id":169542465
+        }
+    ],
+    "wof:id":169542465,
+    "wof:lastmodified":1449035223,
+    "wof:name":"Zoom Mineral Development Pvt. Ltd.",
+    "wof:parent_id":85931027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stone"
+    ]
+},
+  "bbox": [77.622993,12.928,77.622993,12.928],
+  "geometry": {"coordinates":[77.622993,12.928],"type":"Point"}
+}

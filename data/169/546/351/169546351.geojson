@@ -1,0 +1,65 @@
+{
+  "id": 169546351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.091988,19.207666,73.091988,19.207666",
+    "geom:latitude":19.207666,
+    "geom:longitude":73.091988,
+    "iso:country":"IN",
+    "sg:address":"59-f, Sbi Colony, Gandhinagar,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 247 7819",
+    "sg:postcode":"641603",
+    "sg:tags":[
+        "garment",
+        "childrenwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904051,
+        85632469,
+        102030339,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Yfv16pI1vM9HyEPDbjdfF_19.207666_73.091988@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6314fb33457459d14d4d8fa184f33ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030339,
+            "neighbourhood_id":85904051,
+            "region_id":85672171,
+            "venue_id":169546351
+        }
+    ],
+    "wof:id":169546351,
+    "wof:lastmodified":1449032682,
+    "wof:name":"Zion Garments",
+    "wof:parent_id":85904051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "childrenwear"
+    ]
+},
+  "bbox": [73.091988,19.207666,73.091988,19.207666],
+  "geometry": {"coordinates":[73.091988,19.207666],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169538663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.23526,28.65542,77.23526,28.65542",
+    "geom:latitude":28.65542,
+    "geom:longitude":77.23526,
+    "iso:country":"IN",
+    "sg:address":"404-s, Mittal Tower, M.g. Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:orig_category":"Readymade Garments",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2558 4781",
+    "sg:postcode":"560001",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928099,
+        85632469,
+        102030425,
+        85672123,
+        85928105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IUv8f4PyNmb1DvsKMXHig_28.655420_77.235260@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"10efa24bc85bdda5923a30cc99d3654d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928099,
+            "region_id":85672123,
+            "venue_id":169538663
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928105,
+            "region_id":85672123,
+            "venue_id":169538663
+        }
+    ],
+    "wof:id":169538663,
+    "wof:lastmodified":1449033099,
+    "wof:name":"Jeskay Marketing Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.23526,28.65542,77.23526,28.65542],
+  "geometry": {"coordinates":[77.23526,28.65542],"type":"Point"}
+}

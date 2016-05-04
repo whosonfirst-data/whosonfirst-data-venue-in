@@ -1,0 +1,63 @@
+{
+  "id": 169530781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.004158,19.101946,73.004158,19.101946",
+    "geom:latitude":19.101946,
+    "geom:longitude":73.004158,
+    "iso:country":"IN",
+    "sg:address":"C-318, Vashi Plaza Sector-17, Vashi,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2780 1078",
+    "sg:postcode":"400703",
+    "sg:tags":[
+        "container"
+    ],
+    "sg:website":"http://www.snsgroup.biz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031087,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JCP71v2iHqrbMQEbv9Yee_19.101946_73.004158@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e0b1cd43769020a8fcf0e051a5143afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031087,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169530781
+        }
+    ],
+    "wof:id":169530781,
+    "wof:lastmodified":1449034442,
+    "wof:name":"S. N. S. Marine, Inc.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container"
+    ]
+},
+  "bbox": [73.004158,19.101946,73.004158,19.101946],
+  "geometry": {"coordinates":[73.004158,19.101946],"type":"Point"}
+}

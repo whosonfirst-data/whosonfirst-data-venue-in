@@ -1,0 +1,67 @@
+{
+  "id": 169580989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"79.691231,11.40021,79.691231,11.40021",
+    "geom:latitude":11.40021,
+    "geom:longitude":79.691231,
+    "iso:country":"IN",
+    "sg:address":"No.8, West Car Street,",
+    "sg:city":"Sivakasi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 4562 221 349",
+    "sg:postcode":"626123",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "sg:website":"http://www.geocities.com/sugamcorp",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030529,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dxNBtIHvYanB6dkis68jH_11.400210_79.691231@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"51dd905c795b6f33d6536e7e77d6c191",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030529,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169580989
+        }
+    ],
+    "wof:id":169580989,
+    "wof:lastmodified":1449034913,
+    "wof:name":"Jothi Export Import Corporation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [79.691231,11.40021,79.691231,11.40021],
+  "geometry": {"coordinates":[79.691231,11.40021],"type":"Point"}
+}

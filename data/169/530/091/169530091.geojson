@@ -1,0 +1,66 @@
+{
+  "id": 169530091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833084,19.166325,72.833084,19.166325",
+    "geom:latitude":19.166325,
+    "geom:longitude":72.833084,
+    "iso:country":"IN",
+    "sg:address":"S-3/20, Bangur Nagar, Malad (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2844 3331",
+    "sg:postcode":"400064",
+    "sg:tags":[
+        "garment",
+        "childrenwear"
+    ],
+    "sg:website":"http://www.snehalcreation.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BFXEbU2J3aD76BLxHL4YC_19.166325_72.833084@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7d87495c16bd574469dc65d18819fde2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169530091
+        }
+    ],
+    "wof:id":169530091,
+    "wof:lastmodified":1449034443,
+    "wof:name":"Snehal Creation",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "childrenwear"
+    ]
+},
+  "bbox": [72.833084,19.166325,72.833084,19.166325],
+  "geometry": {"coordinates":[72.833084,19.166325],"type":"Point"}
+}

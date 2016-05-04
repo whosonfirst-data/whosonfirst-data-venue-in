@@ -1,0 +1,69 @@
+{
+  "id": 169648773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.434422,17.415429,78.434422,17.415429",
+    "geom:latitude":17.415429,
+    "geom:longitude":78.434422,
+    "iso:country":"IN",
+    "sg:address":"Banjarahills Road No 3",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"500034",
+    "sg:tags":[
+        "yupptv",
+        "live-tv",
+        "online-tv",
+        "internet-television"
+    ],
+    "sg:website":"http://www.yupptv.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930747,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MJa50jmxf0WvEJxM862mm_17.415429_78.434422@1308163237"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"324f959a425dfa37609d5669961368dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930747,
+            "region_id":85672141,
+            "venue_id":169648773
+        }
+    ],
+    "wof:id":169648773,
+    "wof:lastmodified":1449033582,
+    "wof:name":"YUPPTV",
+    "wof:parent_id":85930747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yupptv",
+        "live-tv",
+        "online-tv",
+        "internet-television"
+    ]
+},
+  "bbox": [78.434422,17.415429,78.434422,17.415429],
+  "geometry": {"coordinates":[78.434422,17.415429],"type":"Point"}
+}

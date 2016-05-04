@@ -1,0 +1,63 @@
+{
+  "id": 169560731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.354408,22.577084,88.354408,22.577084",
+    "geom:latitude":22.577084,
+    "geom:longitude":88.354408,
+    "iso:country":"IN",
+    "sg:address":"308/8, Shahzada Bagh,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2365 7137",
+    "sg:postcode":"110035",
+    "sg:tags":[
+        "chemicals-additives"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903957,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Bx7HdL64S5XSrgaus6sEe_22.577084_88.354408@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a9b3d01f6cb02bf2c1fc413f019e09a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903957,
+            "region_id":85672219,
+            "venue_id":169560731
+        }
+    ],
+    "wof:id":169560731,
+    "wof:lastmodified":1449035181,
+    "wof:name":"Durga Rubber & Chemicals",
+    "wof:parent_id":85903957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemicals-additives"
+    ]
+},
+  "bbox": [88.354408,22.577084,88.354408,22.577084],
+  "geometry": {"coordinates":[88.354408,22.577084],"type":"Point"}
+}

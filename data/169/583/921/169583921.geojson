@@ -1,0 +1,64 @@
+{
+  "id": 169583921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.017281,19.018883,73.017281,19.018883",
+    "geom:latitude":19.018883,
+    "geom:longitude":73.017281,
+    "iso:country":"IN",
+    "sg:address":"2985, Sector 42-c,",
+    "sg:city":"Chandigarh",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 172 261 0854",
+    "sg:postcode":"160022",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.laconigroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931651,
+        85632469,
+        102029191,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KnXk9BLBTUflhUNuedzIg_19.018883_73.017281@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ac42564ceae1ffb77f1d77e086f5851a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029191,
+            "neighbourhood_id":85931651,
+            "region_id":85672171,
+            "venue_id":169583921
+        }
+    ],
+    "wof:id":169583921,
+    "wof:lastmodified":1449035265,
+    "wof:name":"Laconi Chemicals Ltd.",
+    "wof:parent_id":85931651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [73.017281,19.018883,73.017281,19.018883],
+  "geometry": {"coordinates":[73.017281,19.018883],"type":"Point"}
+}

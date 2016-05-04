@@ -1,0 +1,60 @@
+{
+  "id": 169622249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.863365,19.394211,72.863365,19.394211",
+    "geom:latitude":19.394211,
+    "geom:longitude":72.863365,
+    "iso:country":"IN",
+    "sg:address":"Rachana Industrial Estate, Gala No.3 & 4, A-wing, Valiv Phata, Sativali Road, Vasai (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 250 248 0032",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Vih6XJL3sLhuqoYUWlO2b_19.394211_72.863365@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"be1cb6ab4498298cd0b1611b00c35625",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169622249
+        }
+    ],
+    "wof:id":169622249,
+    "wof:lastmodified":1449035365,
+    "wof:name":"Shreenath Rubber Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.863365,19.394211,72.863365,19.394211],
+  "geometry": {"coordinates":[72.863365,19.394211],"type":"Point"}
+}

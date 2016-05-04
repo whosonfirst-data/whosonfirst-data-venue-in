@@ -1,0 +1,63 @@
+{
+  "id": 169643395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.565674,12.957035,77.565674,12.957035",
+    "geom:latitude":12.957035,
+    "geom:longitude":77.565674,
+    "iso:country":"IN",
+    "sg:address":"No. 164/3, 5th Main Road, Chamarajpet,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2662 7756",
+    "sg:postcode":"560018",
+    "sg:tags":[
+        "chemical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930907,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EtBOFsYqMYT3f0C5Oj2yB_12.957035_77.565674@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3987665a88addca0508afe4bb83b60bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930907,
+            "region_id":85672165,
+            "venue_id":169643395
+        }
+    ],
+    "wof:id":169643395,
+    "wof:lastmodified":1449035525,
+    "wof:name":"Vijay Tex Chem",
+    "wof:parent_id":85930907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical"
+    ]
+},
+  "bbox": [77.565674,12.957035,77.565674,12.957035],
+  "geometry": {"coordinates":[77.565674,12.957035],"type":"Point"}
+}

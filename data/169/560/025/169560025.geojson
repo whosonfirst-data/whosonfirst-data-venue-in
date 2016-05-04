@@ -1,0 +1,64 @@
+{
+  "id": 169560025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.66877,16.490643,80.66877,16.490643",
+    "geom:latitude":16.490643,
+    "geom:longitude":80.66877,
+    "iso:country":"IN",
+    "sg:address":"13/7, Nethaji Street, Bharathi Nagar, Guindy,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 9809884123897",
+    "sg:postcode":"600032",
+    "sg:tags":[
+        "active",
+        "carbon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028271,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H9SvufoN1bnwUqdKhdyf0_16.490643_80.668770@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9c223f9e738c3129a2d2443a4799b93c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028271,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169560025
+        }
+    ],
+    "wof:id":169560025,
+    "wof:lastmodified":1449035182,
+    "wof:name":"Dairy Youth Consultants",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "active",
+        "carbon"
+    ]
+},
+  "bbox": [80.66877,16.490643,80.66877,16.490643],
+  "geometry": {"coordinates":[80.66877,16.490643],"type":"Point"}
+}

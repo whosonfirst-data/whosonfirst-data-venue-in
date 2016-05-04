@@ -1,0 +1,63 @@
+{
+  "id": 169625923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.279945,13.091447,80.279945,13.091447",
+    "geom:latitude":13.091447,
+    "geom:longitude":80.279945,
+    "iso:country":"IN",
+    "sg:address":"25/2, Narayana Mudali Street,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2538 2137",
+    "sg:postcode":"600079",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931765,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24GaSom93eLzWjA5j3sRrz_13.091447_80.279945@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"de99f93cf9c656d8c2128a980b138492",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931765,
+            "region_id":85672245,
+            "venue_id":169625923
+        }
+    ],
+    "wof:id":169625923,
+    "wof:lastmodified":1449036026,
+    "wof:name":"Sonmull & Sons",
+    "wof:parent_id":85931765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.279945,13.091447,80.279945,13.091447],
+  "geometry": {"coordinates":[80.279945,13.091447],"type":"Point"}
+}

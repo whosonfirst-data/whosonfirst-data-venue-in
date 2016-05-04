@@ -1,0 +1,67 @@
+{
+  "id": 169638935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.449913,17.437162,78.449913,17.437162",
+    "geom:latitude":17.437162,
+    "geom:longitude":78.449913,
+    "iso:country":"IN",
+    "sg:address":"7, I.d.a. Expansion,",
+    "sg:city":"Kakinada",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 884 235 0123",
+    "sg:postcode":"533005",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930753,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FUitvhmWGohMeqr7PKfYv_17.437162_78.449913@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"863784e2c79fa83303f04570c771fab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930753,
+            "region_id":85672141,
+            "venue_id":169638935
+        }
+    ],
+    "wof:id":169638935,
+    "wof:lastmodified":1449032868,
+    "wof:name":"Union Paints",
+    "wof:parent_id":85930753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [78.449913,17.437162,78.449913,17.437162],
+  "geometry": {"coordinates":[78.449913,17.437162],"type":"Point"}
+}

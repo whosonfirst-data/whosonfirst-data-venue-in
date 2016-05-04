@@ -1,0 +1,63 @@
+{
+  "id": 169626271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.135574,28.631302,77.135574,28.631302",
+    "geom:latitude":28.631302,
+    "geom:longitude":77.135574,
+    "iso:country":"IN",
+    "sg:address":"A-91/4, Nariana Industrial Area, Phase-1,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 3052 2228",
+    "sg:postcode":"110028",
+    "sg:tags":[
+        "solvent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927871,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ujWFD3FxiwA1d5nKhWKtY_28.631302_77.135574@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f9e11ad24ee23d64bebf00369f9b128e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927871,
+            "region_id":85672123,
+            "venue_id":169626271
+        }
+    ],
+    "wof:id":169626271,
+    "wof:lastmodified":1449035970,
+    "wof:name":"Spaco Printing Press",
+    "wof:parent_id":85927871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solvent"
+    ]
+},
+  "bbox": [77.135574,28.631302,77.135574,28.631302],
+  "geometry": {"coordinates":[77.135574,28.631302],"type":"Point"}
+}

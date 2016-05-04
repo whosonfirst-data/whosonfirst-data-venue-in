@@ -1,0 +1,63 @@
+{
+  "id": 169617515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.162895,28.649691,77.162895,28.649691",
+    "geom:latitude":28.649691,
+    "geom:longitude":77.162895,
+    "iso:country":"IN",
+    "sg:address":"2254/2a, West Patel Nagar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 6564 6460",
+    "sg:postcode":"110008",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927901,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O5kUOZWdZWYvN35mBWfZe_28.649691_77.162895@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"38022bd26bbb5368cee555b94e5f51e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927901,
+            "region_id":85672123,
+            "venue_id":169617515
+        }
+    ],
+    "wof:id":169617515,
+    "wof:lastmodified":1449032799,
+    "wof:name":"Scada Overseas Exim P. Ltd.",
+    "wof:parent_id":85927901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.162895,28.649691,77.162895,28.649691],
+  "geometry": {"coordinates":[77.162895,28.649691],"type":"Point"}
+}

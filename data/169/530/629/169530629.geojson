@@ -1,0 +1,66 @@
+{
+  "id": 169530629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.826141,19.014938,72.826141,19.014938",
+    "geom:latitude":19.014938,
+    "geom:longitude":72.826141,
+    "iso:country":"IN",
+    "sg:address":"Gammon House, Veer Sarvarkar Marg, Prabhadevi,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2430 6761",
+    "sg:postcode":"400025",
+    "sg:tags":[
+        "construction",
+        "machinery"
+    ],
+    "sg:website":"http://www.gammonindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931467,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cvbNujPpSwfTn6xAty4ki_19.014938_72.826141@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c2bdeadaabdc4bc42bd32c096eaa1411",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931467,
+            "region_id":85672171,
+            "venue_id":169530629
+        }
+    ],
+    "wof:id":169530629,
+    "wof:lastmodified":1449034445,
+    "wof:name":"Gammon India Ltd.",
+    "wof:parent_id":85931467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction",
+        "machinery"
+    ]
+},
+  "bbox": [72.826141,19.014938,72.826141,19.014938],
+  "geometry": {"coordinates":[72.826141,19.014938],"type":"Point"}
+}

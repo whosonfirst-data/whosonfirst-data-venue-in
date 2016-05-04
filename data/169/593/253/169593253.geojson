@@ -1,0 +1,64 @@
+{
+  "id": 169593253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"85.8563,20.302881,85.8563,20.302881",
+    "geom:latitude":20.302881,
+    "geom:longitude":85.8563,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 4527, G.i.d.c. Ind. Estate,",
+    "sg:city":"Ankleshwar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2646 226 218",
+    "sg:postcode":"393002",
+    "sg:tags":[
+        "plant",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030665,
+        85672157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SUSU0ukguFUtmWWd4vy7Z_20.302881_85.856300@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"49c837a592b0fb0f4efc48795b18e58b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030665,
+            "neighbourhood_id":-1,
+            "region_id":85672157,
+            "venue_id":169593253
+        }
+    ],
+    "wof:id":169593253,
+    "wof:lastmodified":1449034879,
+    "wof:name":"Navadia Engineering",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [85.8563,20.302881,85.8563,20.302881],
+  "geometry": {"coordinates":[85.8563,20.302881],"type":"Point"}
+}

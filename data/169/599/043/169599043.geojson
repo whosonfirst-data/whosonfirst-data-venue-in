@@ -1,0 +1,63 @@
+{
+  "id": 169599043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.171356,28.661398,77.171356,28.661398",
+    "geom:latitude":28.661398,
+    "geom:longitude":77.171356,
+    "iso:country":"IN",
+    "sg:address":"227, Than Singh Nagar, Gali No. 11, Anand Parbat,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2876 2022",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928115,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IpgCk21BiNZYiklLmul2s_28.661398_77.171356@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e016a7cbad8b46a2434e9960cac377fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928115,
+            "region_id":85672123,
+            "venue_id":169599043
+        }
+    ],
+    "wof:id":169599043,
+    "wof:lastmodified":1449034206,
+    "wof:name":"Pardeep Industries",
+    "wof:parent_id":85928115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.171356,28.661398,77.171356,28.661398],
+  "geometry": {"coordinates":[77.171356,28.661398],"type":"Point"}
+}

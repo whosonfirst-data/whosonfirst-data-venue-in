@@ -1,0 +1,61 @@
+{
+  "id": 169577889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.082352,28.69352,77.082352,28.69352",
+    "geom:latitude":28.69352,
+    "geom:longitude":77.082352,
+    "iso:country":"IN",
+    "sg:address":"B-1033-34, Mangolpuri,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 6526 4057",
+    "sg:postcode":"110083",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V5F7CMolSfH0fHgKxBXp0_28.693520_77.082352@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3952f5873b32e727205a29599fb14f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169577889
+        }
+    ],
+    "wof:id":169577889,
+    "wof:lastmodified":1449036065,
+    "wof:name":"Govindam Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.082352,28.69352,77.082352,28.69352],
+  "geometry": {"coordinates":[77.082352,28.69352],"type":"Point"}
+}

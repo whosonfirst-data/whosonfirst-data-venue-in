@@ -1,0 +1,63 @@
+{
+  "id": 169582763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.143684,28.667936,77.143684,28.667936",
+    "geom:latitude":28.667936,
+    "geom:longitude":77.143684,
+    "iso:country":"IN",
+    "sg:address":"A-87 (a-3), Road No. 9, V.k.i. Area,",
+    "sg:city":"Jaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 141 233 0885",
+    "sg:postcode":"302013",
+    "sg:tags":[
+        "polymer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927889,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EQgkM2Vg4mwLBRnQyb5ID_28.667936_77.143684@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5891cd4d5fb8142937445feb2268c01d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927889,
+            "region_id":85672123,
+            "venue_id":169582763
+        }
+    ],
+    "wof:id":169582763,
+    "wof:lastmodified":1449034467,
+    "wof:name":"Khetan Synthetics Pvt. Ltd.",
+    "wof:parent_id":85927889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [77.143684,28.667936,77.143684,28.667936],
+  "geometry": {"coordinates":[77.143684,28.667936],"type":"Point"}
+}

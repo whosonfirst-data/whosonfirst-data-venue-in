@@ -1,0 +1,62 @@
+{
+  "id": 169597969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.627274,23.209135,72.627274,23.209135",
+    "geom:latitude":23.209135,
+    "geom:longitude":72.627274,
+    "iso:country":"IN",
+    "sg:address":"2-4-41, M.g. Road,",
+    "sg:city":"Secunderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 6633 7388",
+    "sg:postcode":"500003",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030253,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D4D0wfpP0awe3LCZC7iMQ_23.209135_72.627274@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"320651f49534932e2444231e941b1155",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030253,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169597969
+        }
+    ],
+    "wof:id":169597969,
+    "wof:lastmodified":1449035921,
+    "wof:name":"Padma Agencies",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [72.627274,23.209135,72.627274,23.209135],
+  "geometry": {"coordinates":[72.627274,23.209135],"type":"Point"}
+}

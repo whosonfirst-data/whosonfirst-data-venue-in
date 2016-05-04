@@ -1,0 +1,64 @@
+{
+  "id": 169541497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.726486,12.989101,77.726486,12.989101",
+    "geom:latitude":12.989101,
+    "geom:longitude":77.726486,
+    "iso:country":"IN",
+    "sg:address":"38-40, Epip, Whitefield,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 6658 1500",
+    "sg:postcode":"560066",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"http://www.ionidea.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931165,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IFqe0beHdUPx0V8cVuLBJ_12.989101_77.726486@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cd3595ed3930cf05addca4492f8a6424",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931165,
+            "region_id":85672165,
+            "venue_id":169541497
+        }
+    ],
+    "wof:id":169541497,
+    "wof:lastmodified":1449033044,
+    "wof:name":"Lonidea Enterprise Solutions Pvt. Ltd.",
+    "wof:parent_id":85931165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.726486,12.989101,77.726486,12.989101],
+  "geometry": {"coordinates":[77.726486,12.989101],"type":"Point"}
+}

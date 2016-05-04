@@ -1,0 +1,61 @@
+{
+  "id": 169528039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833305,18.929594,72.833305,18.929594",
+    "geom:latitude":18.929594,
+    "geom:longitude":72.833305,
+    "iso:country":"IN",
+    "sg:address":"49, 2nd Floor Bhupen Chambers, Dalal Street, Fort",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2267 1971",
+    "sg:tags":[
+        "box"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0e7hkCQfKpMlZ1rkzi1Ynr_18.929594_72.833305@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b9450ff2887f6c1b48e1de691cf80444",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169528039
+        }
+    ],
+    "wof:id":169528039,
+    "wof:lastmodified":1449033572,
+    "wof:name":"Minoo Containers Private Limited",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "box"
+    ]
+},
+  "bbox": [72.833305,18.929594,72.833305,18.929594],
+  "geometry": {"coordinates":[72.833305,18.929594],"type":"Point"}
+}

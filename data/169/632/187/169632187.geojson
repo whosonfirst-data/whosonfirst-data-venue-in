@@ -1,0 +1,67 @@
+{
+  "id": 169632187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.277153,13.086432,80.277153,13.086432",
+    "geom:latitude":13.086432,
+    "geom:longitude":80.277153,
+    "iso:country":"IN",
+    "sg:address":"110, Rasappa Chetty Street, Park Town,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2553 0637",
+    "sg:postcode":"600003",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931765,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e9bCJJNvQ9az6hI5kDBQN_13.086432_80.277153@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bd0567ceda692c70f2982135f4b30ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931765,
+            "region_id":85672245,
+            "venue_id":169632187
+        }
+    ],
+    "wof:id":169632187,
+    "wof:lastmodified":1449034794,
+    "wof:name":"Suria Paint & Oil Works",
+    "wof:parent_id":85931765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [80.277153,13.086432,80.277153,13.086432],
+  "geometry": {"coordinates":[80.277153,13.086432],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169537127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.604607,12.98048,77.604607,12.98048",
+    "geom:latitude":12.98048,
+    "geom:longitude":77.604607,
+    "iso:country":"IN",
+    "sg:address":"Unit No. G15, Gem Plaza, No. 66, Infantry Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2558 2532",
+    "sg:postcode":"560001",
+    "sg:tags":[
+        "precious",
+        "stone",
+        "semi"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930953,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PAZXduWLQsrvXwU8kBLhm_12.980480_77.604607@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3cbb1f1d8151e4279d297bed61b94a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930953,
+            "region_id":85672165,
+            "venue_id":169537127
+        }
+    ],
+    "wof:id":169537127,
+    "wof:lastmodified":1449033501,
+    "wof:name":"Soni Gem And Jewel",
+    "wof:parent_id":85930953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "precious",
+        "stone",
+        "semi"
+    ]
+},
+  "bbox": [77.604607,12.98048,77.604607,12.98048],
+  "geometry": {"coordinates":[77.604607,12.98048],"type":"Point"}
+}

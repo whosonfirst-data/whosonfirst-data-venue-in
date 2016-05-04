@@ -1,0 +1,63 @@
+{
+  "id": 169528609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.840126,19.126633,72.840126,19.126633",
+    "geom:latitude":19.126633,
+    "geom:longitude":72.840126,
+    "iso:country":"IN",
+    "sg:address":"401-a, Shivam, 96, J.p. Road, Andheri (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2343 0587",
+    "sg:postcode":"400058",
+    "sg:tags":[
+        "bulk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931515,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Lt9N90AG16bCcghCUEMLs_19.126633_72.840126@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"13966c33fc41e090dac3b50c2371e33f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931515,
+            "region_id":85672171,
+            "venue_id":169528609
+        }
+    ],
+    "wof:id":169528609,
+    "wof:lastmodified":1449033569,
+    "wof:name":"Arihant Chemical Corporation",
+    "wof:parent_id":85931515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk"
+    ]
+},
+  "bbox": [72.840126,19.126633,72.840126,19.126633],
+  "geometry": {"coordinates":[72.840126,19.126633],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 169651093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.212227,13.029347,80.212227,13.029347",
+    "geom:latitude":13.029347,
+    "geom:longitude":80.212227,
+    "iso:country":"IN",
+    "sg:address":"14 wallers road",
+    "sg:city":"chennai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"600002",
+    "sg:website":"http://www.ifline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931715,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iNuBXxthHHGehSrdex8nF_13.029347_80.212227@1308163240"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"53cb9d431e444c3fe9d26d8d93bc7206",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931715,
+            "region_id":85672245,
+            "venue_id":169651093
+        }
+    ],
+    "wof:id":169651093,
+    "wof:lastmodified":1449033344,
+    "wof:name":"Ifline Technologies",
+    "wof:parent_id":85931715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.212227,13.029347,80.212227,13.029347],
+  "geometry": {"coordinates":[80.212227,13.029347],"type":"Point"}
+}

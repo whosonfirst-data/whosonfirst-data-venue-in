@@ -1,0 +1,66 @@
+{
+  "id": 169534271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.82431,18.927296,72.82431,18.927296",
+    "geom:latitude":18.927296,
+    "geom:longitude":72.82431,
+    "iso:country":"IN",
+    "sg:address":"65, Atlanta, Nariman Point,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2282 5200",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "oil",
+        "edible"
+    ],
+    "sg:website":"http://www.rishiroop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WJ1041pa5V9Kr1QqtbrfR_18.927296_72.824310@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e0d01d39fc85f05de4c7c9d6b20408c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169534271
+        }
+    ],
+    "wof:id":169534271,
+    "wof:lastmodified":1449033547,
+    "wof:name":"Rishiroop Group",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "edible"
+    ]
+},
+  "bbox": [72.82431,18.927296,72.82431,18.927296],
+  "geometry": {"coordinates":[72.82431,18.927296],"type":"Point"}
+}

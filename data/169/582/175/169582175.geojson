@@ -1,0 +1,67 @@
+{
+  "id": 169582175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.987335,19.069855,72.987335,19.069855",
+    "geom:latitude":19.069855,
+    "geom:longitude":72.987335,
+    "iso:country":"IN",
+    "sg:address":"307, Bungalow No.279, Sector-28, Vashi,",
+    "sg:city":"Navi Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2765 7290",
+    "sg:postcode":"400705",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931637,
+        85632469,
+        102031087,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MNr08iiYszDcQJqKZupYF_19.069855_72.987335@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"26eae43b642ca40d1f629770d0138654",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031087,
+            "neighbourhood_id":85931637,
+            "region_id":85672171,
+            "venue_id":169582175
+        }
+    ],
+    "wof:id":169582175,
+    "wof:lastmodified":1449034463,
+    "wof:name":"Karshni Colour Industries Pvt. Ltd.",
+    "wof:parent_id":85931637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [72.987335,19.069855,72.987335,19.069855],
+  "geometry": {"coordinates":[72.987335,19.069855],"type":"Point"}
+}

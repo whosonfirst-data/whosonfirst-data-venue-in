@@ -1,0 +1,64 @@
+{
+  "id": 169554273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.167511,22.310783,73.167511,22.310783",
+    "geom:latitude":22.310783,
+    "geom:longitude":73.167511,
+    "iso:country":"IN",
+    "sg:address":"801-b Tower, 8th Floor, Alkapuri Arcade, R.c .dutt Road,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 233 3896",
+    "sg:postcode":"390005",
+    "sg:tags":[
+        "pesticide"
+    ],
+    "sg:website":"http://www.parulchemicalslimited.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933511,
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NWSMif2f88PEFlGvK1iN7_22.310783_73.167511@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"846cfca41f08cbea53ebafe5636fd7f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":85933511,
+            "region_id":85672249,
+            "venue_id":169554273
+        }
+    ],
+    "wof:id":169554273,
+    "wof:lastmodified":1449033369,
+    "wof:name":"Parul Chemicals Limited",
+    "wof:parent_id":85933511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pesticide"
+    ]
+},
+  "bbox": [73.167511,22.310783,73.167511,22.310783],
+  "geometry": {"coordinates":[73.167511,22.310783],"type":"Point"}
+}

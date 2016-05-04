@@ -1,0 +1,64 @@
+{
+  "id": 169634629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.450333,17.414526,78.450333,17.414526",
+    "geom:latitude":17.414526,
+    "geom:longitude":78.450333,
+    "iso:country":"IN",
+    "sg:address":"8-2-594/1/1, Banjara Hills, Road No.1, Opp. Taj Krishna Hotel,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 6613 1400",
+    "sg:postcode":"500034",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.technoindia.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930765,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0j72U4U2FarzLBAtB9Eo28_17.414526_78.450333@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e7a61450c0387256839664cde15d4b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930765,
+            "region_id":85672141,
+            "venue_id":169634629
+        }
+    ],
+    "wof:id":169634629,
+    "wof:lastmodified":1449034258,
+    "wof:name":"Techno India Enterprises",
+    "wof:parent_id":85930765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.450333,17.414526,78.450333,17.414526],
+  "geometry": {"coordinates":[78.450333,17.414526],"type":"Point"}
+}

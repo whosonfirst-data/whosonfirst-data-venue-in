@@ -1,0 +1,63 @@
+{
+  "id": 169607257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.376381,19.873142,75.376381,19.873142",
+    "geom:latitude":19.873142,
+    "geom:longitude":75.376381,
+    "iso:country":"IN",
+    "sg:address":"F-15, Midc Area, Chikalthana,",
+    "sg:city":"Aurangabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 240 248 2450",
+    "sg:postcode":"431210",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http:// www.racpl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030887,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uq1uHlnMORnPJ9wprihEA_19.873142_75.376381@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"72dad9977042dc3838148c68b164d4a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030887,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169607257
+        }
+    ],
+    "wof:id":169607257,
+    "wof:lastmodified":1449033122,
+    "wof:name":"Radiant Agro-chem Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.376381,19.873142,75.376381,19.873142],
+  "geometry": {"coordinates":[75.376381,19.873142],"type":"Point"}
+}

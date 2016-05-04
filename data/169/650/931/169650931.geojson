@@ -1,0 +1,57 @@
+{
+  "id": 169650931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.182297,13.098585,80.182297,13.098585",
+    "geom:latitude":13.098585,
+    "geom:longitude":80.182297,
+    "iso:country":"IN",
+    "sg:address":"No.275,G.S.T Road, Chromepet,",
+    "sg:city":"Chennai ",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"600 044",
+    "sg:website":"http://www.tiriyo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Io38hSDJ5HZEZjd6Ugv5p_13.098585_80.182297@1308163240"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"80d77f5c8e99c1ef52d88c78dfe62b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169650931
+        }
+    ],
+    "wof:id":169650931,
+    "wof:lastmodified":1449034701,
+    "wof:name":"Tiriyo Technologies",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.182297,13.098585,80.182297,13.098585],
+  "geometry": {"coordinates":[80.182297,13.098585],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169544519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.573303,12.945834,77.573303,12.945834",
+    "geom:latitude":12.945834,
+    "geom:longitude":77.573303,
+    "iso:country":"IN",
+    "sg:address":"No. 80/1, H.b. Samaja Road, Basavanagudi,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2662 0024",
+    "sg:postcode":"560004",
+    "sg:tags":[
+        "watch",
+        "clock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930849,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GjNlStxDJQEiRoDmgFIbT_12.945834_77.573303@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c9384e4fade33b744793c7c1ee94b5f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930849,
+            "region_id":85672165,
+            "venue_id":169544519
+        }
+    ],
+    "wof:id":169544519,
+    "wof:lastmodified":1449035964,
+    "wof:name":"Gift Links",
+    "wof:parent_id":85930849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "watch",
+        "clock"
+    ]
+},
+  "bbox": [77.573303,12.945834,77.573303,12.945834],
+  "geometry": {"coordinates":[77.573303,12.945834],"type":"Point"}
+}

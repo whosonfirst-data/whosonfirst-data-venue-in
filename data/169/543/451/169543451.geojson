@@ -1,0 +1,65 @@
+{
+  "id": 169543451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.540352,13.011638,77.540352,13.011638",
+    "geom:latitude":13.011638,
+    "geom:longitude":77.540352,
+    "iso:country":"IN",
+    "sg:address":"# 9-a, Ii Phase, Industrial Area, Peenya,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2839 5512",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "plank",
+        "timber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kMg9lFPsKuu2wffzycdOU_13.011638_77.540352@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d008f72c6125525f279ed6ae4cb9dc2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169543451
+        }
+    ],
+    "wof:id":169543451,
+    "wof:lastmodified":1449033333,
+    "wof:name":"Prameen Industries",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plank",
+        "timber"
+    ]
+},
+  "bbox": [77.540352,13.011638,77.540352,13.011638],
+  "geometry": {"coordinates":[77.540352,13.011638],"type":"Point"}
+}

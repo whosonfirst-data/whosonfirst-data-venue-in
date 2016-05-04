@@ -1,0 +1,69 @@
+{
+  "id": 169552285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.65799,23.076591,72.65799,23.076591",
+    "geom:latitude":23.076591,
+    "geom:longitude":72.65799,
+    "iso:country":"IN",
+    "sg:address":"905/3, Gidc, Makarpura,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 264 4789",
+    "sg:postcode":"390010",
+    "sg:tags":[
+        "transmission",
+        "line",
+        "good",
+        "electrical"
+    ],
+    "sg:website":"http://www.apspvt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZvWizpOeRuBVaVAf4Mk0u_23.076591_72.657990@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6e491d34faa6c152abfd11bb34ec0aff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169552285
+        }
+    ],
+    "wof:id":169552285,
+    "wof:lastmodified":1449034052,
+    "wof:name":"Associated Power Structures Private Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "line",
+        "good",
+        "electrical"
+    ]
+},
+  "bbox": [72.65799,23.076591,72.65799,23.076591],
+  "geometry": {"coordinates":[72.65799,23.076591],"type":"Point"}
+}

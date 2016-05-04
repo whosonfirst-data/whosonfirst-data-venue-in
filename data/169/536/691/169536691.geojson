@@ -1,0 +1,63 @@
+{
+  "id": 169536691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.676544,12.999269,77.676544,12.999269",
+    "geom:latitude":12.999269,
+    "geom:longitude":77.676544,
+    "iso:country":"IN",
+    "sg:address":"B-24, I.t.i. Estate, Mahadevapura,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2851 0520",
+    "sg:postcode":"560048",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931169,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tzaBoC5To5IzOwqeyrO0m_12.999269_77.676544@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8c7affe76411e0915ce9a79c382cce31",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931169,
+            "region_id":85672165,
+            "venue_id":169536691
+        }
+    ],
+    "wof:id":169536691,
+    "wof:lastmodified":1449034657,
+    "wof:name":"Transphone Corporation",
+    "wof:parent_id":85931169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.676544,12.999269,77.676544,12.999269],
+  "geometry": {"coordinates":[77.676544,12.999269],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169549003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.91433,19.049887,72.91433,19.049887",
+    "geom:latitude":19.049887,
+    "geom:longitude":72.91433,
+    "iso:country":"IN",
+    "sg:address":"1-a, City Station Road,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 91294522938",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "machine",
+        "cutting",
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931557,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lZE9tOZbmiarTTjj48oMz_19.049887_72.914330@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2b50b1f80084a4b4952456f98625668e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931557,
+            "region_id":85672171,
+            "venue_id":169549003
+        }
+    ],
+    "wof:id":169549003,
+    "wof:lastmodified":1449033593,
+    "wof:name":"Sunraj Diamond Tools",
+    "wof:parent_id":85931557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "cutting",
+        "diamond"
+    ]
+},
+  "bbox": [72.91433,19.049887,72.91433,19.049887],
+  "geometry": {"coordinates":[72.91433,19.049887],"type":"Point"}
+}

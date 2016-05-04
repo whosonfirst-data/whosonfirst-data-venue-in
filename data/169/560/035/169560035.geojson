@@ -1,0 +1,66 @@
+{
+  "id": 169560035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.189034,28.651609,77.189034,28.651609",
+    "geom:latitude":28.651609,
+    "geom:longitude":77.189034,
+    "iso:country":"IN",
+    "sg:address":"6535, Hardyan Singh Road, Dev Nagar, Karol Bagh,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4133 3333",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "synthetic",
+        "pu/pvc"
+    ],
+    "sg:website":"http://www.dcpindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903883,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hK7kLtormQSPeRW2tipoU_28.651609_77.189034@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b575931ac3e54552a2065221fa9eb0bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903883,
+            "region_id":85672123,
+            "venue_id":169560035
+        }
+    ],
+    "wof:id":169560035,
+    "wof:lastmodified":1449035182,
+    "wof:name":"Dcp Synthetics Pvt. Ltd.",
+    "wof:parent_id":85903883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "synthetic",
+        "pu/pvc"
+    ]
+},
+  "bbox": [77.189034,28.651609,77.189034,28.651609],
+  "geometry": {"coordinates":[77.189034,28.651609],"type":"Point"}
+}

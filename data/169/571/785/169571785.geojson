@@ -1,0 +1,53 @@
+{
+  "id": 169571785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.5998,13.049932,77.5998,13.049932",
+    "geom:latitude":13.049932,
+    "geom:longitude":77.5998,
+    "iso:country":"IN",
+    "sg:address":"Dispensary Road",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 805582338",
+    "sg:postcode":"560001",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931095,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4enroWC7tcFqf97SiSlo02_13.049932_77.599800@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c7e1f68a8e82387283b0ddfbb1d7a910",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931095,
+            "region_id":85672165,
+            "venue_id":169571785
+        }
+    ],
+    "wof:id":169571785,
+    "wof:lastmodified":1449034947,
+    "wof:name":"Haj Corporation Of India",
+    "wof:parent_id":85931095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.5998,13.049932,77.5998,13.049932],
+  "geometry": {"coordinates":[77.5998,13.049932],"type":"Point"}
+}

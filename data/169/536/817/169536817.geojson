@@ -1,0 +1,65 @@
+{
+  "id": 169536817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.550346,13.010792,77.550346,13.010792",
+    "geom:latitude":13.010792,
+    "geom:longitude":77.550346,
+    "iso:country":"IN",
+    "sg:address":"No. 687, 2nd Phase, Maruthi Extension, Peenya Industrial Area,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2837 9492",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "product",
+        "pneumatic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uyNUyP6HF8WPLO3VGPWd9_13.010792_77.550346@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"77492fb11adcf854f898646d0ddc52ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169536817
+        }
+    ],
+    "wof:id":169536817,
+    "wof:lastmodified":1449034660,
+    "wof:name":"Island Hydraulics (p) Pvt. Ltd.",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "pneumatic"
+    ]
+},
+  "bbox": [77.550346,13.010792,77.550346,13.010792],
+  "geometry": {"coordinates":[77.550346,13.010792],"type":"Point"}
+}

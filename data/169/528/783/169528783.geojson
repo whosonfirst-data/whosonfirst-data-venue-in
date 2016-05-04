@@ -1,0 +1,63 @@
+{
+  "id": 169528783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.830627,18.954006,72.830627,18.954006",
+    "geom:latitude":18.954006,
+    "geom:longitude":72.830627,
+    "iso:country":"IN",
+    "sg:address":"15, 2nd Bhoiwada, 1st Floor, Bhuleshwar,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Naval Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2242 1356",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "button"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931435,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TiTh5lSW2BIGe0cnr6SjT_18.954006_72.830627@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e10634d60e42685de47dba0a7c205746",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931435,
+            "region_id":85672171,
+            "venue_id":169528783
+        }
+    ],
+    "wof:id":169528783,
+    "wof:lastmodified":1449033566,
+    "wof:name":"Shrutii Jewellers",
+    "wof:parent_id":85931435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "button"
+    ]
+},
+  "bbox": [72.830627,18.954006,72.830627,18.954006],
+  "geometry": {"coordinates":[72.830627,18.954006],"type":"Point"}
+}

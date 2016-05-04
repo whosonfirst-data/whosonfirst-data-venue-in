@@ -1,0 +1,84 @@
+{
+  "id": 169650077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"139.187075,35.267512,139.187075,35.267512",
+    "geom:latitude":35.267512,
+    "geom:longitude":139.187075,
+    "iso:country":"IN",
+    "sg:address":"37/2, 39 & 40, Whitefield,",
+    "sg:city":"Bangalore ",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560 039",
+    "sg:tags":[
+        "software-development-services",
+        "wimax",
+        "3g",
+        "4g",
+        "mobile-wireless",
+        "telecom-mobility",
+        "mobile-advertising",
+        "networks-management",
+        "web-2-0",
+        "analytics",
+        "product-development",
+        "product-testing"
+    ],
+    "sg:website":"http://www.nalininetworks.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632429,
+        102032335,
+        85672805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3unB8IlwQcGcTwVd4OlTZB_35.267512_139.187075@1308163240"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"83a72467f0ffdfab49606f144f9565ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632429,
+            "locality_id":102032335,
+            "neighbourhood_id":-1,
+            "region_id":85672805,
+            "venue_id":169650077
+        }
+    ],
+    "wof:id":169650077,
+    "wof:lastmodified":1449034700,
+    "wof:name":"Nalini Networks",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software-development-services",
+        "wimax",
+        "3g",
+        "4g",
+        "mobile-wireless",
+        "telecom-mobility",
+        "mobile-advertising",
+        "networks-management",
+        "web-2-0",
+        "analytics",
+        "product-development",
+        "product-testing"
+    ]
+},
+  "bbox": [139.187075,35.267512,139.187075,35.267512],
+  "geometry": {"coordinates":[139.187075,35.267512],"type":"Point"}
+}

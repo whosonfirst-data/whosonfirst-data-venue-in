@@ -1,0 +1,70 @@
+{
+  "id": 169537163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.523521,12.964634,77.523521,12.964634",
+    "geom:latitude":12.964634,
+    "geom:longitude":77.523521,
+    "iso:country":"IN",
+    "sg:address":"7 Moodalapalya, Vijaynagar, Nagabhavi Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2335 8500",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IvTOosoKTlJY1lTbuxKUe_12.964634_77.523521@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9a59b956edc19af6b23b2f93029409b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169537163
+        }
+    ],
+    "wof:id":169537163,
+    "wof:lastmodified":1449033500,
+    "wof:name":"Ess Enn Products",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.523521,12.964634,77.523521,12.964634],
+  "geometry": {"coordinates":[77.523521,12.964634],"type":"Point"}
+}

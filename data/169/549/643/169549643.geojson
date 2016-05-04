@@ -1,0 +1,65 @@
+{
+  "id": 169549643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.215431,28.654741,77.215431,28.654741",
+    "geom:latitude":28.654741,
+    "geom:longitude":77.215431,
+    "iso:country":"IN",
+    "sg:address":"P. B. 1239, Plot No. 201, 'f' Road, New Estate,",
+    "sg:city":"Udhna",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 161 227 8873",
+    "sg:postcode":"394210",
+    "sg:tags":[
+        "plant",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928087,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WrBHVLYnewglb2nQGYq8q_28.654741_77.215431@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2fb44adff9bc78719a0cad0ebac8959d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928087,
+            "region_id":85672123,
+            "venue_id":169549643
+        }
+    ],
+    "wof:id":169549643,
+    "wof:lastmodified":1449033592,
+    "wof:name":"Metal Fab Engineers",
+    "wof:parent_id":85928087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [77.215431,28.654741,77.215431,28.654741],
+  "geometry": {"coordinates":[77.215431,28.654741],"type":"Point"}
+}

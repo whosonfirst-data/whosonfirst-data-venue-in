@@ -1,0 +1,53 @@
+{
+  "id": 169561173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.815643,19.19673,72.815643,19.19673",
+    "geom:latitude":19.19673,
+    "geom:longitude":72.815643,
+    "iso:country":"IN",
+    "sg:address":"Madh Marve Road, Malad (w)",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2882 3331",
+    "sg:postcode":"400095",
+    "sg:province":"Maharashtra",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931623,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Rfj0cIuDFZD7YeBRxxWtW_19.196730_72.815643@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cd769d823316cbc3183035115c444259",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931623,
+            "region_id":85672171,
+            "venue_id":169561173
+        }
+    ],
+    "wof:id":169561173,
+    "wof:lastmodified":1449035020,
+    "wof:name":"Resort, The",
+    "wof:parent_id":85931623,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.815643,19.19673,72.815643,19.19673],
+  "geometry": {"coordinates":[72.815643,19.19673],"type":"Point"}
+}

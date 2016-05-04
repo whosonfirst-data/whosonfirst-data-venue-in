@@ -1,0 +1,63 @@
+{
+  "id": 169624235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.862717,19.291819,72.862717,19.291819",
+    "geom:latitude":19.291819,
+    "geom:longitude":72.862717,
+    "iso:country":"IN",
+    "sg:address":"F/118, Gaurav Garden, Mira Bhayander Road, Mira Road (e),",
+    "sg:city":"Thane",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2812 4444",
+    "sg:postcode":"401107",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931413,
+        85632469,
+        102031079,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07YusCovsSSy3pG27YVHfx_19.291819_72.862717@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"229ac96e6a34edf05f3b4294db0037e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031079,
+            "neighbourhood_id":85931413,
+            "region_id":85672171,
+            "venue_id":169624235
+        }
+    ],
+    "wof:id":169624235,
+    "wof:lastmodified":1449034956,
+    "wof:name":"Silicon Exports Pvt. Ltd.",
+    "wof:parent_id":85931413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.862717,19.291819,72.862717,19.291819],
+  "geometry": {"coordinates":[72.862717,19.291819],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169580929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.229164,28.660191,77.229164,28.660191",
+    "geom:latitude":28.660191,
+    "geom:longitude":77.229164,
+    "iso:country":"IN",
+    "sg:address":"Sp-44, Pitampura,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110088",
+    "sg:tags":[
+        "solvent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928099,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GWL5xdUi1LcR9CDmoAJv5_28.660191_77.229164@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c8fea87397e15e46a9d01cde17e27d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928099,
+            "region_id":85672123,
+            "venue_id":169580929
+        }
+    ],
+    "wof:id":169580929,
+    "wof:lastmodified":1449034915,
+    "wof:name":"Jpr Flexo Graphics",
+    "wof:parent_id":85928099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solvent"
+    ]
+},
+  "bbox": [77.229164,28.660191,77.229164,28.660191],
+  "geometry": {"coordinates":[77.229164,28.660191],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169631315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.291138,28.610256,77.291138,28.610256",
+    "geom:latitude":28.610256,
+    "geom:longitude":77.291138,
+    "iso:country":"IN",
+    "sg:address":"218-a, Patpar Ganj,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2275 4063",
+    "sg:postcode":"110053",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928143,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kexHAjOWOtii13TxdmdKB_28.610256_77.291138@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"aa0bff8e4c133160f8102f4089975a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928143,
+            "region_id":85672123,
+            "venue_id":169631315
+        }
+    ],
+    "wof:id":169631315,
+    "wof:lastmodified":1449033712,
+    "wof:name":"Super Electronics",
+    "wof:parent_id":85928143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.291138,28.610256,77.291138,28.610256],
+  "geometry": {"coordinates":[77.291138,28.610256],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169586531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.313057,28.588718,77.313057,28.588718",
+    "geom:latitude":28.588718,
+    "geom:longitude":77.313057,
+    "iso:country":"IN",
+    "sg:address":"Sector 1, Industrial Area, `",
+    "sg:city":"Pithampur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 7292 507 738",
+    "sg:postcode":"454775",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.mahlevalvetrain.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031133,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Lo1OW3GmMqlRDR5rNEVvd_28.588718_77.313057@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0d5f10ba1249ab70b539587ff6a3677d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031133,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169586531
+        }
+    ],
+    "wof:id":169586531,
+    "wof:lastmodified":1449035573,
+    "wof:name":"Mahle Migma Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [77.313057,28.588718,77.313057,28.588718],
+  "geometry": {"coordinates":[77.313057,28.588718],"type":"Point"}
+}

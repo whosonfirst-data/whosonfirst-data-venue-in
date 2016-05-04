@@ -1,0 +1,62 @@
+{
+  "id": 169578335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.642967,25.335764,74.642967,25.335764",
+    "geom:latitude":25.335764,
+    "geom:longitude":74.642967,
+    "iso:country":"IN",
+    "sg:address":"B-1004, Shastri Nagar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2364 6460",
+    "sg:postcode":"124507",
+    "sg:tags":[
+        "paper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030691,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oXllvE5g2md2Qfzi5zdFU_25.335764_74.642967@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9029ec419b4c2ca77773042bcf8f1762",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030691,
+            "neighbourhood_id":-1,
+            "region_id":85672201,
+            "venue_id":169578335
+        }
+    ],
+    "wof:id":169578335,
+    "wof:lastmodified":1449033520,
+    "wof:name":"Gvn Material Handling Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paper"
+    ]
+},
+  "bbox": [74.642967,25.335764,74.642967,25.335764],
+  "geometry": {"coordinates":[74.642967,25.335764],"type":"Point"}
+}

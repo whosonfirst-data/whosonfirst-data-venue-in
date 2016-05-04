@@ -1,0 +1,65 @@
+{
+  "id": 169616647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"81.220039,21.996655,81.220039,21.996655",
+    "geom:latitude":21.996655,
+    "geom:longitude":81.220039,
+    "iso:country":"IN",
+    "sg:address":"9/2315, Street No. 11, Kailash Nagar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110031",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "sg:website":"http://www.sanya-international.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QexrAgh6j1KR6yPY86xqH_21.996655_81.220039@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"427ed26a1443b8d77f5cb6aa6adb126e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672231,
+            "venue_id":169616647
+        }
+    ],
+    "wof:id":169616647,
+    "wof:lastmodified":1449035101,
+    "wof:name":"Sanya International",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [81.220039,21.996655,81.220039,21.996655],
+  "geometry": {"coordinates":[81.220039,21.996655],"type":"Point"}
+}

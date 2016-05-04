@@ -1,0 +1,58 @@
+{
+  "id": 169650589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.044185,28.524582,77.044185,28.524582",
+    "geom:latitude":28.524582,
+    "geom:longitude":77.044185,
+    "iso:country":"IN",
+    "sg:address":"H - 512, Palam Vihar",
+    "sg:city":"Haryana",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"122017",
+    "sg:website":"http://www.topchalks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928035,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jek8eQFCnoEufIItWUyp3_28.524582_77.044185@1308163241"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3cd89cc5e4b86fc2accbe8c3656c0601",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928035,
+            "region_id":85672133,
+            "venue_id":169650589
+        }
+    ],
+    "wof:id":169650589,
+    "wof:lastmodified":1449034701,
+    "wof:name":"TopChalks",
+    "wof:parent_id":85928035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.044185,28.524582,77.044185,28.524582],
+  "geometry": {"coordinates":[77.044185,28.524582],"type":"Point"}
+}

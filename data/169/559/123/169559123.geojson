@@ -1,0 +1,61 @@
+{
+  "id": 169559123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"79.455971,10.657578,79.455971,10.657578",
+    "geom:latitude":10.657578,
+    "geom:longitude":79.455971,
+    "iso:country":"IN",
+    "sg:address":"4/478, Aruna Nagar,",
+    "sg:city":"Coimbatore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 422 325 0712",
+    "sg:postcode":"623017",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lrXbYY7HFnLBfg467z4pg_10.657578_79.455971@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fc3d5d98551b2458d93ced860268d431",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169559123
+        }
+    ],
+    "wof:id":169559123,
+    "wof:lastmodified":1449035237,
+    "wof:name":"Chemform Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [79.455971,10.657578,79.455971,10.657578],
+  "geometry": {"coordinates":[79.455971,10.657578],"type":"Point"}
+}

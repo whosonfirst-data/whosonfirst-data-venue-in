@@ -1,0 +1,65 @@
+{
+  "id": 169533913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.854584,19.161016,72.854584,19.161016",
+    "geom:latitude":19.161016,
+    "geom:longitude":72.854584,
+    "iso:country":"IN",
+    "sg:address":"105, Bhola Bhagwan Indl. Est., Goregaon (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2685 4357",
+    "sg:postcode":"400063",
+    "sg:tags":[
+        "mould",
+        "dy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wV206swSlra1v3bfX48lf_19.161016_72.854584@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"176c4da0987baa30805ce0e8c1dbed59",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169533913
+        }
+    ],
+    "wof:id":169533913,
+    "wof:lastmodified":1449032642,
+    "wof:name":"Raj Engg. Works",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mould",
+        "dy"
+    ]
+},
+  "bbox": [72.854584,19.161016,72.854584,19.161016],
+  "geometry": {"coordinates":[72.854584,19.161016],"type":"Point"}
+}

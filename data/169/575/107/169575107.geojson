@@ -1,0 +1,63 @@
+{
+  "id": 169575107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.356964,22.573318,88.356964,22.573318",
+    "geom:latitude":22.573318,
+    "geom:longitude":88.356964,
+    "iso:country":"IN",
+    "sg:address":"18/1a, Hindustan Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2247 1104",
+    "sg:postcode":"700026",
+    "sg:tags":[
+        "pigment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903793,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X6QXhrCPbWIsPrLMV7pEV_22.573318_88.356964@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"23c3966440b91ab7b89be5f2eb8ab601",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903793,
+            "region_id":85672219,
+            "venue_id":169575107
+        }
+    ],
+    "wof:id":169575107,
+    "wof:lastmodified":1449033640,
+    "wof:name":"Associated Pigments Limited",
+    "wof:parent_id":85903793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [88.356964,22.573318,88.356964,22.573318],
+  "geometry": {"coordinates":[88.356964,22.573318],"type":"Point"}
+}

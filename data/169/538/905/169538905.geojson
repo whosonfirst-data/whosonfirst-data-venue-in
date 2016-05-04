@@ -1,0 +1,64 @@
+{
+  "id": 169538905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.573448,13.046391,77.573448,13.046391",
+    "geom:latitude":13.046391,
+    "geom:longitude":77.573448,
+    "iso:country":"IN",
+    "sg:address":"17, 2nd Cross, K.g. Halli, Jalahalli West,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Atm",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2838 3643",
+    "sg:postcode":"560015",
+    "sg:tags":[
+        "rectifier"
+    ],
+    "sg:website":"http://www.coltonweld.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931095,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tDFQJxGnWTcLLbOpuzKqr_13.046391_77.573448@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"eb061c291effc9ba1f1102e4ac30bb59",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931095,
+            "region_id":85672165,
+            "venue_id":169538905
+        }
+    ],
+    "wof:id":169538905,
+    "wof:lastmodified":1449033099,
+    "wof:name":"Colton Industries",
+    "wof:parent_id":85931095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rectifier"
+    ]
+},
+  "bbox": [77.573448,13.046391,77.573448,13.046391],
+  "geometry": {"coordinates":[77.573448,13.046391],"type":"Point"}
+}

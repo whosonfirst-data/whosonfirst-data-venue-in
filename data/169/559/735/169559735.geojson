@@ -1,0 +1,63 @@
+{
+  "id": 169559735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.966187,11.018476,76.966187,11.018476",
+    "geom:latitude":11.018476,
+    "geom:longitude":76.966187,
+    "iso:country":"IN",
+    "sg:address":"18/108-a, 7th Street, Tatabad,",
+    "sg:city":"Coimbatore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 422 249 2208",
+    "sg:postcode":"641012",
+    "sg:tags":[
+        "pigment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783699,
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Np28zFN1jraGWuCp7EIjY_11.018476_76.966187@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2a2df0cec64bfd050f2103e43bf2e290",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":85783699,
+            "region_id":85672245,
+            "venue_id":169559735
+        }
+    ],
+    "wof:id":169559735,
+    "wof:lastmodified":1449035239,
+    "wof:name":"Covai Seenu & Company",
+    "wof:parent_id":85783699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [76.966187,11.018476,76.966187,11.018476],
+  "geometry": {"coordinates":[76.966187,11.018476],"type":"Point"}
+}

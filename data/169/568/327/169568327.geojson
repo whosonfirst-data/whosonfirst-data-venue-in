@@ -1,0 +1,52 @@
+{
+  "id": 169568327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.82061,18.915581,72.82061,18.915581",
+    "geom:latitude":18.915581,
+    "geom:longitude":72.82061,
+    "iso:country":"IN",
+    "sg:address":"A Wing, Nariman Point",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2284 1601",
+    "sg:postcode":"400021",
+    "sg:province":"Maharashtra",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903829,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SR6VqbzkmvikqGoWk2KUl_18.915581_72.820610@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8ea0a3b2dcb6ff5a7528de08ca89acaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903829,
+            "region_id":-1,
+            "venue_id":169568327
+        }
+    ],
+    "wof:id":169568327,
+    "wof:lastmodified":1449032610,
+    "wof:name":"Marda Incorporation",
+    "wof:parent_id":85903829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.82061,18.915581,72.82061,18.915581],
+  "geometry": {"coordinates":[72.82061,18.915581],"type":"Point"}
+}

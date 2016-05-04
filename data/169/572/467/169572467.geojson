@@ -1,0 +1,54 @@
+{
+  "id": 169572467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.294388,28.605597,77.294388,28.605597",
+    "geom:latitude":28.605597,
+    "geom:longitude":77.294388,
+    "iso:country":"IN",
+    "sg:address":"Pratap Nagar, Mayur Vihar, Phase I",
+    "sg:city":"Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2275 0311",
+    "sg:postcode":"110091",
+    "sg:province":"Delhi",
+    "sg:website":"http://www.atmautomann.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928047,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67QSZUs4iJPkyehiLWdKmS_28.605597_77.294388@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"75b961821352ccf0798d6acd26fd9f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928047,
+            "region_id":85672123,
+            "venue_id":169572467
+        }
+    ],
+    "wof:id":169572467,
+    "wof:lastmodified":1449034706,
+    "wof:name":"Atm Automann Pvt Ltd",
+    "wof:parent_id":85928047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.294388,28.605597,77.294388,28.605597],
+  "geometry": {"coordinates":[77.294388,28.605597],"type":"Point"}
+}

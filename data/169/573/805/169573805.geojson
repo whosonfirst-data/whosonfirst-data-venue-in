@@ -1,0 +1,52 @@
+{
+  "id": 169573805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.835854,18.954861,72.835854,18.954861",
+    "geom:latitude":18.954861,
+    "geom:longitude":72.835854,
+    "iso:country":"IN",
+    "sg:address":"Bhat Bazar",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2371 5095",
+    "sg:postcode":"400009",
+    "sg:province":"Maharashtra",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1feHjW79sLsDQP39wt52K6_18.954861_72.835854@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"83e84977107e88d15123c24305eba51d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169573805
+        }
+    ],
+    "wof:id":169573805,
+    "wof:lastmodified":1449035112,
+    "wof:name":"Unique Impex",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.835854,18.954861,72.835854,18.954861],
+  "geometry": {"coordinates":[72.835854,18.954861],"type":"Point"}
+}

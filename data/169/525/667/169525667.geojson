@@ -1,0 +1,66 @@
+{
+  "id": 169525667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.820618,18.924555,72.820618,18.924555",
+    "geom:latitude":18.924555,
+    "geom:longitude":72.820618,
+    "iso:country":"IN",
+    "sg:address":"407-a, aradia 4th Floor, 195, Nariman Point,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2283 3224",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "sg:website":"http://www.beckindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2h354sp5Sxb8QM5j1nImrh_18.924555_72.820618@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"08e918c276743751eb4f574106310608",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169525667
+        }
+    ],
+    "wof:id":169525667,
+    "wof:lastmodified":1449035275,
+    "wof:name":"Beck India Ltd",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [72.820618,18.924555,72.820618,18.924555],
+  "geometry": {"coordinates":[72.820618,18.924555],"type":"Point"}
+}

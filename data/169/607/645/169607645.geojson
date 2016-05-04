@@ -1,0 +1,66 @@
+{
+  "id": 169607645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.232796,28.654667,77.232796,28.654667",
+    "geom:latitude":28.654667,
+    "geom:longitude":77.232796,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 1818, 1819 Near Crystal Square, G.i.d.c. Estate,",
+    "sg:city":"Ankleshwar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2646 225 213",
+    "sg:postcode":"393002",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "sg:website":"http://www.rajeshchemical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928099,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cbNtjdHaEdY1dnMb2CE6r_28.654667_77.232796@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"171e17dce3d88f51a0e1b276f84477ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928099,
+            "region_id":85672123,
+            "venue_id":169607645
+        }
+    ],
+    "wof:id":169607645,
+    "wof:lastmodified":1449033122,
+    "wof:name":"Rajesh Chemical Industries",
+    "wof:parent_id":85928099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [77.232796,28.654667,77.232796,28.654667],
+  "geometry": {"coordinates":[77.232796,28.654667],"type":"Point"}
+}

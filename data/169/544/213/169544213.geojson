@@ -1,0 +1,63 @@
+{
+  "id": 169544213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.720337,12.960328,77.720337,12.960328",
+    "geom:latitude":12.960328,
+    "geom:longitude":77.720337,
+    "iso:country":"IN",
+    "sg:address":"#4,1a Epip, Whitefield,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2841 0290",
+    "sg:postcode":"560020",
+    "sg:tags":[
+        "valve"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931155,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AmOMrxFwuHfDeF8KCFXct_12.960328_77.720337@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"291bc56cce715d49d4b5afe9d18c6674",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931155,
+            "region_id":85672165,
+            "venue_id":169544213
+        }
+    ],
+    "wof:id":169544213,
+    "wof:lastmodified":1449035962,
+    "wof:name":"Flow Serve",
+    "wof:parent_id":85931155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "valve"
+    ]
+},
+  "bbox": [77.720337,12.960328,77.720337,12.960328],
+  "geometry": {"coordinates":[77.720337,12.960328],"type":"Point"}
+}

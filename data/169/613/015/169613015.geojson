@@ -1,0 +1,62 @@
+{
+  "id": 169613015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.848396,18.987276,72.848396,18.987276",
+    "geom:latitude":18.987276,
+    "geom:longitude":72.848396,
+    "iso:country":"IN",
+    "sg:address":"115, Cotton Street,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2272 3322",
+    "sg:postcode":"700007",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903961,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1umhuENUf7PPwQLNsV8b23_18.987276_72.848396@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f8e118d2a108122b9b7b50c31661bb1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903961,
+            "region_id":-1,
+            "venue_id":169613015
+        }
+    ],
+    "wof:id":169613015,
+    "wof:lastmodified":1449034210,
+    "wof:name":"S. P. Yarns",
+    "wof:parent_id":85903961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.848396,18.987276,72.848396,18.987276],
+  "geometry": {"coordinates":[72.848396,18.987276],"type":"Point"}
+}

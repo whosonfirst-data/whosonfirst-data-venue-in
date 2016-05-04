@@ -1,0 +1,65 @@
+{
+  "id": 169526971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.868813,19.046179,72.868813,19.046179",
+    "geom:latitude":19.046179,
+    "geom:longitude":72.868813,
+    "iso:country":"IN",
+    "sg:address":"105, Nirmal Industrial Estate, Road No.29, Sion East,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2407 7634",
+    "sg:postcode":"400022",
+    "sg:tags":[
+        "bag",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903847,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gVQmyzyq2JhddwfVn3Jqq_19.046179_72.868813@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2180038c525950f8a898e41356178a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903847,
+            "region_id":85672171,
+            "venue_id":169526971
+        }
+    ],
+    "wof:id":169526971,
+    "wof:lastmodified":1449033700,
+    "wof:name":"Indian Art Industries",
+    "wof:parent_id":85903847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag",
+        "-"
+    ]
+},
+  "bbox": [72.868813,19.046179,72.868813,19.046179],
+  "geometry": {"coordinates":[72.868813,19.046179],"type":"Point"}
+}

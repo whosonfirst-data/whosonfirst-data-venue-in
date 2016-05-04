@@ -1,0 +1,63 @@
+{
+  "id": 169547039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.547226,12.984525,77.547226,12.984525",
+    "geom:latitude":12.984525,
+    "geom:longitude":77.547226,
+    "iso:country":"IN",
+    "sg:address":"8/116 Annapoorna Layout, Gandhi Nagar,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 247 0403",
+    "sg:postcode":"641603",
+    "sg:tags":[
+        "menswear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yeUwvnBjRWJXG1gDJGnFZ_12.984525_77.547226@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5154f537727ceeaf05394b9d92a81450",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169547039
+        }
+    ],
+    "wof:id":169547039,
+    "wof:lastmodified":1449033009,
+    "wof:name":"Simona Fashions",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "menswear"
+    ]
+},
+  "bbox": [77.547226,12.984525,77.547226,12.984525],
+  "geometry": {"coordinates":[77.547226,12.984525],"type":"Point"}
+}

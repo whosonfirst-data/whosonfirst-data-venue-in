@@ -1,0 +1,71 @@
+{
+  "id": 169537361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.570427,12.957186,77.570427,12.957186",
+    "geom:latitude":12.957186,
+    "geom:longitude":77.570427,
+    "iso:country":"IN",
+    "sg:address":"21/5, A.m. Road, Kalasipalayam New Extn.,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 91802127459",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PzS9SrGn99fJUxuKGLCVp_12.957186_77.570427@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"96a21aaa05806cc036331d74877a007d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169537361
+        }
+    ],
+    "wof:id":169537361,
+    "wof:lastmodified":1449033498,
+    "wof:name":"M. N. Radiators",
+    "wof:parent_id":85930903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.570427,12.957186,77.570427,12.957186],
+  "geometry": {"coordinates":[77.570427,12.957186],"type":"Point"}
+}

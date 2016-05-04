@@ -1,0 +1,65 @@
+{
+  "id": 169528373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.83017,19.128242,72.83017,19.128242",
+    "geom:latitude":19.128242,
+    "geom:longitude":72.83017,
+    "iso:country":"IN",
+    "sg:address":"8/116, D.n. Nagar, No. 1, Versova Road, Andheri (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2062 8776",
+    "sg:postcode":"400053",
+    "sg:tags":[
+        "building",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931475,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nCn9om4uMFqIxXBG4XIF6_19.128242_72.830170@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5bc93c4dec4cd3053ceb6c8787a19464",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931475,
+            "region_id":85672171,
+            "venue_id":169528373
+        }
+    ],
+    "wof:id":169528373,
+    "wof:lastmodified":1449033570,
+    "wof:name":"Tirupati Construction",
+    "wof:parent_id":85931475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "supply"
+    ]
+},
+  "bbox": [72.83017,19.128242,72.83017,19.128242],
+  "geometry": {"coordinates":[72.83017,19.128242],"type":"Point"}
+}

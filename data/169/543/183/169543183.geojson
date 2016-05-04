@@ -1,0 +1,65 @@
+{
+  "id": 169543183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.542747,12.972351,77.542747,12.972351",
+    "geom:latitude":12.972351,
+    "geom:longitude":77.542747,
+    "iso:country":"IN",
+    "sg:address":"No. 138, 1st Floor, 4th Main Road, Rajaji Nagar, Industrial Town,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Emissions Testing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4128 7964",
+    "sg:postcode":"560044",
+    "sg:tags":[
+        "measuring",
+        "instrument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NAXeMTFfF6fZ3oTv0MfqL_12.972351_77.542747@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b2766ea6971ec7e4c3a2a6e1a77255b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169543183
+        }
+    ],
+    "wof:id":169543183,
+    "wof:lastmodified":1449033334,
+    "wof:name":"Hy-tek Precision Instruments",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "measuring",
+        "instrument"
+    ]
+},
+  "bbox": [77.542747,12.972351,77.542747,12.972351],
+  "geometry": {"coordinates":[77.542747,12.972351],"type":"Point"}
+}

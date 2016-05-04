@@ -1,0 +1,63 @@
+{
+  "id": 169582637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.016861,28.470045,77.016861,28.470045",
+    "geom:latitude":28.470045,
+    "geom:longitude":77.016861,
+    "iso:country":"IN",
+    "sg:address":"508/9, Shivpuri,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 407 7503",
+    "sg:postcode":"122016",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928471,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LgkPKzc4cpvnfpsoI7FS0_28.470045_77.016861@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b9625e8c27f35c6d24332a06908ef724",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928471,
+            "region_id":85672133,
+            "venue_id":169582637
+        }
+    ],
+    "wof:id":169582637,
+    "wof:lastmodified":1449034460,
+    "wof:name":"Kesaria Rubber Industries (p) Ltd.",
+    "wof:parent_id":85928471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.016861,28.470045,77.016861,28.470045],
+  "geometry": {"coordinates":[77.016861,28.470045],"type":"Point"}
+}

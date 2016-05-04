@@ -1,0 +1,62 @@
+{
+  "id": 169527333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.818382,19.002281,72.818382,19.002281",
+    "geom:latitude":19.002281,
+    "geom:longitude":72.818382,
+    "iso:country":"IN",
+    "sg:address":"Opp. 114, B.d.d., Chawl, Worli,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5573 6792",
+    "sg:postcode":"400013",
+    "sg:tags":[
+        "bead"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903999,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hCWN7i0Fj6u4PaDBIRDT2_19.002281_72.818382@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a7f3108f086e19e7c85d64a51216a54a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903999,
+            "region_id":85672171,
+            "venue_id":169527333
+        }
+    ],
+    "wof:id":169527333,
+    "wof:lastmodified":1449035279,
+    "wof:name":"Shanta Art Prints",
+    "wof:parent_id":85903999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bead"
+    ]
+},
+  "bbox": [72.818382,19.002281,72.818382,19.002281],
+  "geometry": {"coordinates":[72.818382,19.002281],"type":"Point"}
+}

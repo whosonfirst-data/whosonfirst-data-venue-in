@@ -1,0 +1,63 @@
+{
+  "id": 169528033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.880981,19.100666,72.880981,19.100666",
+    "geom:latitude":19.100666,
+    "geom:longitude":72.880981,
+    "iso:country":"IN",
+    "sg:address":"73, Bindal Industrial Estate, \nKurla-andheri Road, Sakinaka,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2851 3554",
+    "sg:postcode":"400072",
+    "sg:tags":[
+        "box"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LoEAu6UoNau5EXoHu1dSE_19.100666_72.880981@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"553a1ce93a759ebd0b8ed9431f72c2c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169528033
+        }
+    ],
+    "wof:id":169528033,
+    "wof:lastmodified":1449033569,
+    "wof:name":"Billawa Enterprises",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "box"
+    ]
+},
+  "bbox": [72.880981,19.100666,72.880981,19.100666],
+  "geometry": {"coordinates":[72.880981,19.100666],"type":"Point"}
+}

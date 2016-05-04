@@ -1,0 +1,67 @@
+{
+  "id": 169549719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.865509,19.106506,72.865509,19.106506",
+    "geom:latitude":19.106506,
+    "geom:longitude":72.865509,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 150, G.i.d.c. Estate, V.u. Nagar,",
+    "sg:city":"Udyognagar",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2692 236 354",
+    "sg:postcode":"388121",
+    "sg:tags":[
+        "feed",
+        "poultry/cattle",
+        "supplement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eR3vCgvzixnTpuT2z2JTs_19.106506_72.865509@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"56a5db8ca7be04ac851e61fa1db7dfa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169549719
+        }
+    ],
+    "wof:id":169549719,
+    "wof:lastmodified":1449033590,
+    "wof:name":"Kaira Poultry And Cattlefeeds Pvt. Ltd.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed",
+        "poultry/cattle",
+        "supplement"
+    ]
+},
+  "bbox": [72.865509,19.106506,72.865509,19.106506],
+  "geometry": {"coordinates":[72.865509,19.106506],"type":"Point"}
+}

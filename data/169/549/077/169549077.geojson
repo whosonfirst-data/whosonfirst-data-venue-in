@@ -1,0 +1,64 @@
+{
+  "id": 169549077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.820831,18.552414,73.820831,18.552414",
+    "geom:latitude":18.552414,
+    "geom:longitude":73.820831,
+    "iso:country":"IN",
+    "sg:address":"69, Anand Nagar University Road,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 242 9616",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "granite"
+    ],
+    "sg:website":"http://www.rdicrajiv.bloombiz.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903811,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sl8Y3xAoXgBzWWQFrdAmm_18.552414_73.820831@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6403f6818460f76f63bad84fb8ff2ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85903811,
+            "region_id":85672171,
+            "venue_id":169549077
+        }
+    ],
+    "wof:id":169549077,
+    "wof:lastmodified":1449033590,
+    "wof:name":"R. D. I. C.",
+    "wof:parent_id":85903811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "granite"
+    ]
+},
+  "bbox": [73.820831,18.552414,73.820831,18.552414],
+  "geometry": {"coordinates":[73.820831,18.552414],"type":"Point"}
+}

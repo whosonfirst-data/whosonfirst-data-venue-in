@@ -1,0 +1,65 @@
+{
+  "id": 169628973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.162895,28.712738,77.162895,28.712738",
+    "geom:latitude":28.712738,
+    "geom:longitude":77.162895,
+    "iso:country":"IN",
+    "sg:address":"C-122, Phase-i, Ashok Vihar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2712 5213",
+    "sg:postcode":"110052",
+    "sg:tags":[
+        "lab",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928079,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sSJBr5w6HvGMGx4lEu1JU_28.712738_77.162895@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f06fb1a93ab2cdb03dd59311e516ec43",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928079,
+            "region_id":85672123,
+            "venue_id":169628973
+        }
+    ],
+    "wof:id":169628973,
+    "wof:lastmodified":1449035333,
+    "wof:name":"Standard Scientific Instrument Co.",
+    "wof:parent_id":85928079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lab",
+        "supply"
+    ]
+},
+  "bbox": [77.162895,28.712738,77.162895,28.712738],
+  "geometry": {"coordinates":[77.162895,28.712738],"type":"Point"}
+}

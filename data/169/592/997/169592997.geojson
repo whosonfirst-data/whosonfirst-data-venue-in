@@ -1,0 +1,66 @@
+{
+  "id": 169592997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.513939,13.022583,77.513939,13.022583",
+    "geom:latitude":13.022583,
+    "geom:longitude":77.513939,
+    "iso:country":"IN",
+    "sg:address":"317, 8th Cross, Peenya Indl. Estate,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2836 5884",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19WJ3F1QbOj3u0tyPFZivv_13.022583_77.513939@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5a5769e17c8e1ae510167b692aa20c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169592997
+        }
+    ],
+    "wof:id":169592997,
+    "wof:lastmodified":1449034585,
+    "wof:name":"Naturae Homoeomed",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [77.513939,13.022583,77.513939,13.022583],
+  "geometry": {"coordinates":[77.513939,13.022583],"type":"Point"}
+}

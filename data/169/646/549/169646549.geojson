@@ -1,0 +1,62 @@
+{
+  "id": 169646549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.040161,26.293344,73.040161,26.293344",
+    "geom:latitude":26.293344,
+    "geom:longitude":73.040161,
+    "iso:country":"IN",
+    "sg:address":"Jodhpur Tower, Paota,",
+    "sg:city":"Jodhpur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 291 255 0851",
+    "sg:postcode":"342010",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903917,
+        85632469,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bQrxk8ENGI2GEBOhGpw3M_26.293344_73.040161@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"338d89d0f5d2eadb2c68b7ac12f1d90c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85903917,
+            "region_id":85672201,
+            "venue_id":169646549
+        }
+    ],
+    "wof:id":169646549,
+    "wof:lastmodified":1449032606,
+    "wof:name":"White & White Minerals",
+    "wof:parent_id":85903917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [73.040161,26.293344,73.040161,26.293344],
+  "geometry": {"coordinates":[73.040161,26.293344],"type":"Point"}
+}

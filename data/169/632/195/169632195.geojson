@@ -1,0 +1,66 @@
+{
+  "id": 169632195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.837494,18.641949,73.837494,18.641949",
+    "geom:latitude":18.641949,
+    "geom:longitude":73.837494,
+    "iso:country":"IN",
+    "sg:address":"Plot No.114, Sector No.7, P.c.n.d.t.a., M.i.d.c., Bhosari,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 3062 0893",
+    "sg:postcode":"411026",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mu8yJ7iXt3KdS8Vw1y1g4_18.641949_73.837494@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b468ca426b84af2572962fcaaf3766a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169632195
+        }
+    ],
+    "wof:id":169632195,
+    "wof:lastmodified":1449034796,
+    "wof:name":"Suraj Coats",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [73.837494,18.641949,73.837494,18.641949],
+  "geometry": {"coordinates":[73.837494,18.641949],"type":"Point"}
+}

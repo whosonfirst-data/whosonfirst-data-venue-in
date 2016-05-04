@@ -1,0 +1,63 @@
+{
+  "id": 169538203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.625542,12.974526,77.625542,12.974526",
+    "geom:latitude":12.974526,
+    "geom:longitude":77.625542,
+    "iso:country":"IN",
+    "sg:address":"No.72,g- Street, Ulsoor,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2530 0747",
+    "sg:postcode":"560008",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931137,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R3IP1qXivaiqARUJ40qNC_12.974526_77.625542@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"88c5d94878830f373769b37a23458908",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931137,
+            "region_id":85672165,
+            "venue_id":169538203
+        }
+    ],
+    "wof:id":169538203,
+    "wof:lastmodified":1449033098,
+    "wof:name":"Innovations",
+    "wof:parent_id":85931137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [77.625542,12.974526,77.625542,12.974526],
+  "geometry": {"coordinates":[77.625542,12.974526],"type":"Point"}
+}

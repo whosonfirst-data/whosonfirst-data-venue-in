@@ -1,0 +1,63 @@
+{
+  "id": 169560289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.384941,19.878508,75.384941,19.878508",
+    "geom:latitude":19.878508,
+    "geom:longitude":75.384941,
+    "iso:country":"IN",
+    "sg:address":"E-26, Midc, Industrial Area,",
+    "sg:city":"Nagpur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 7104 232 656",
+    "sg:postcode":"440001",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.depdopngp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030887,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B2yCzJYLlaxS8O5y8AIWx_19.878508_75.384941@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cd012beb0021674a9ad266d51da43842",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030887,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169560289
+        }
+    ],
+    "wof:id":169560289,
+    "wof:lastmodified":1449035182,
+    "wof:name":"Dep Dop Niraj Chemicals Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.384941,19.878508,75.384941,19.878508],
+  "geometry": {"coordinates":[75.384941,19.878508],"type":"Point"}
+}

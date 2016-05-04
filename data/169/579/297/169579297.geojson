@@ -1,0 +1,63 @@
+{
+  "id": 169579297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.843376,18.507078,73.843376,18.507078",
+    "geom:latitude":18.507078,
+    "geom:longitude":73.843376,
+    "iso:country":"IN",
+    "sg:address":"720/8, Navi Peth,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2433 1417",
+    "sg:postcode":"411030",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931201,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HqOrmOXGL9RUOlaxWcWyf_18.507078_73.843376@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f9dbed328d9cbea30dfb4c9db63f41e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931201,
+            "region_id":85672171,
+            "venue_id":169579297
+        }
+    ],
+    "wof:id":169579297,
+    "wof:lastmodified":1449033741,
+    "wof:name":"Iit Technologies",
+    "wof:parent_id":85931201,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [73.843376,18.507078,73.843376,18.507078],
+  "geometry": {"coordinates":[73.843376,18.507078],"type":"Point"}
+}

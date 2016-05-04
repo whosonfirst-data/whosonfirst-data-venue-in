@@ -1,0 +1,66 @@
+{
+  "id": 169531949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.855888,19.17267,72.855888,19.17267",
+    "geom:latitude":19.17267,
+    "geom:longitude":72.855888,
+    "iso:country":"IN",
+    "sg:address":"327/c, Durian Estate, Goregaon Mulund Link Road, Goregaon East,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"City Walls",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2878 3918",
+    "sg:postcode":"400063",
+    "sg:tags":[
+        "decorative",
+        "laminate"
+    ],
+    "sg:website":"http://www.parallaxdecor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931525,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0inym55ETR80RwPk3EZSlj_19.172670_72.855888@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0101e2db2f6ef25b9c87450986be5656",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931525,
+            "region_id":85672171,
+            "venue_id":169531949
+        }
+    ],
+    "wof:id":169531949,
+    "wof:lastmodified":1449033476,
+    "wof:name":"Parallax Decor Pvt. Ltd.",
+    "wof:parent_id":85931525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decorative",
+        "laminate"
+    ]
+},
+  "bbox": [72.855888,19.17267,72.855888,19.17267],
+  "geometry": {"coordinates":[72.855888,19.17267],"type":"Point"}
+}

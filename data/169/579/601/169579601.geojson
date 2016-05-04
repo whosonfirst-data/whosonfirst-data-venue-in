@@ -1,0 +1,65 @@
+{
+  "id": 169579601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.184074,28.655378,77.184074,28.655378",
+    "geom:latitude":28.655378,
+    "geom:longitude":77.184074,
+    "iso:country":"IN",
+    "sg:address":"406, Double Storey, New Rajinder Nagar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4241 1410",
+    "sg:postcode":"110060",
+    "sg:tags":[
+        "active",
+        "carbon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903883,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NW5EgjbBrONIxwvBcMlNF_28.655378_77.184074@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bb528efb99d0b4d3954902511dc7c5b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903883,
+            "region_id":85672123,
+            "venue_id":169579601
+        }
+    ],
+    "wof:id":169579601,
+    "wof:lastmodified":1449033740,
+    "wof:name":"Indiana Chemicals",
+    "wof:parent_id":85903883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "active",
+        "carbon"
+    ]
+},
+  "bbox": [77.184074,28.655378,77.184074,28.655378],
+  "geometry": {"coordinates":[77.184074,28.655378],"type":"Point"}
+}

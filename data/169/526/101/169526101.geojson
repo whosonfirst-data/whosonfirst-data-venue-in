@@ -1,0 +1,66 @@
+{
+  "id": 169526101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.873344,19.117481,72.873344,19.117481",
+    "geom:latitude":19.117481,
+    "geom:longitude":72.873344,
+    "iso:country":"IN",
+    "sg:address":"F-16, Midc, Marol, Andheri (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2834 5675",
+    "sg:postcode":"400093",
+    "sg:tags":[
+        "product",
+        "audio"
+    ],
+    "sg:website":"http://www.ashaelectronics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BBjdC2yYwmbYTLR4omZJx_19.117481_72.873344@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3e34e210e0d668cfa43f088b4600ed49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169526101
+        }
+    ],
+    "wof:id":169526101,
+    "wof:lastmodified":1449033699,
+    "wof:name":"Asha Electronics Limited",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "audio"
+    ]
+},
+  "bbox": [72.873344,19.117481,72.873344,19.117481],
+  "geometry": {"coordinates":[72.873344,19.117481],"type":"Point"}
+}

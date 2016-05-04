@@ -1,0 +1,63 @@
+{
+  "id": 169575865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.211723,13.062477,80.211723,13.062477",
+    "geom:latitude":13.062477,
+    "geom:longitude":80.211723,
+    "iso:country":"IN",
+    "sg:address":"26, Jawaharlal Nehru Road, Suite No. 26, Ii Floor,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2217 4732",
+    "sg:postcode":"700087",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931711,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lwWRBiNr0Jld2wdhib6ks_13.062477_80.211723@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a1297ba12d268d60c48b567f0b5769f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931711,
+            "region_id":85672245,
+            "venue_id":169575865
+        }
+    ],
+    "wof:id":169575865,
+    "wof:lastmodified":1449033643,
+    "wof:name":"Bayer Chemicals",
+    "wof:parent_id":85931711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.211723,13.062477,80.211723,13.062477],
+  "geometry": {"coordinates":[80.211723,13.062477],"type":"Point"}
+}

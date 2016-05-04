@@ -1,0 +1,65 @@
+{
+  "id": 169646645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.230438,21.325993,76.230438,21.325993",
+    "geom:latitude":21.325993,
+    "geom:longitude":76.230438,
+    "iso:country":"IN",
+    "sg:address":"C-125, B.s. Road, Indl. Area,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 278 1006",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030589,
+        85672239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WGptjc5DjC9fq9dsW3M02_21.325993_76.230438@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"639eee470a786d1ad7b03728b4244b25",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030589,
+            "neighbourhood_id":-1,
+            "region_id":85672239,
+            "venue_id":169646645
+        }
+    ],
+    "wof:id":169646645,
+    "wof:lastmodified":1449032605,
+    "wof:name":"Welkin Paints (p) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [76.230438,21.325993,76.230438,21.325993],
+  "geometry": {"coordinates":[76.230438,21.325993],"type":"Point"}
+}

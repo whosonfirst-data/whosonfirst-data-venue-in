@@ -1,0 +1,68 @@
+{
+  "id": 169542745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.750069,15.565351,73.750069,15.565351",
+    "geom:latitude":15.565351,
+    "geom:longitude":73.750069,
+    "iso:country":"IN",
+    "sg:address":"P.o. Box-7580,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Atm",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2670 2969",
+    "sg:postcode":"560053",
+    "sg:tags":[
+        "product",
+        "allied",
+        "switchgear"
+    ],
+    "sg:website":"http://www.sjswitchgears.tradeindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933351,
+        85632469,
+        102030933,
+        85672255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HErzJ7xSV5DwwX4u3NVKJ_15.565351_73.750069@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"04a532e3ec51dbf4657665551df3126a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030933,
+            "neighbourhood_id":85933351,
+            "region_id":85672255,
+            "venue_id":169542745
+        }
+    ],
+    "wof:id":169542745,
+    "wof:lastmodified":1449035223,
+    "wof:name":"S. J. Switchgears Pvt. Ltd.",
+    "wof:parent_id":85933351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "allied",
+        "switchgear"
+    ]
+},
+  "bbox": [73.750069,15.565351,73.750069,15.565351],
+  "geometry": {"coordinates":[73.750069,15.565351],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169592705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.25,25.066668,73.25,25.066668",
+    "geom:latitude":25.066668,
+    "geom:longitude":73.25,
+    "iso:country":"IN",
+    "sg:address":"Vijaipur,",
+    "sg:city":"Guna",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 7544 273 050",
+    "sg:postcode":"473111",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.nationalfertillizers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tiwFgSdENoB6gwL92jpGR_25.066668_73.250000@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b93bb331dc954e7409ec9f7543fa89f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672201,
+            "venue_id":169592705
+        }
+    ],
+    "wof:id":169592705,
+    "wof:lastmodified":1449034586,
+    "wof:name":"National Fertilizers Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [73.25,25.066668,73.25,25.066668],
+  "geometry": {"coordinates":[73.25,25.066668],"type":"Point"}
+}

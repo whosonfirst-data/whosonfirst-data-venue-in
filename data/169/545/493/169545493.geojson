@@ -1,0 +1,65 @@
+{
+  "id": 169545493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.293106,9.910691,76.293106,9.910691",
+    "geom:latitude":9.910691,
+    "geom:longitude":76.293106,
+    "iso:country":"IN",
+    "sg:address":"Kumaramangalam P.o.,",
+    "sg:city":"Thodupuzha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 4862 200 491",
+    "sg:postcode":"685597",
+    "sg:tags":[
+        "component",
+        "moulded"
+    ],
+    "sg:website":"http://www.toyorubbers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783591,
+        85632469,
+        102030497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NI0wPyAfXuepmjW11u5sW_9.910691_76.293106@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9ccf83da9cb27e1c10a3b6030462e0c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030497,
+            "neighbourhood_id":85783591,
+            "region_id":-1,
+            "venue_id":169545493
+        }
+    ],
+    "wof:id":169545493,
+    "wof:lastmodified":1449033486,
+    "wof:name":"Toyo Rubber",
+    "wof:parent_id":85783591,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "moulded"
+    ]
+},
+  "bbox": [76.293106,9.910691,76.293106,9.910691],
+  "geometry": {"coordinates":[76.293106,9.910691],"type":"Point"}
+}

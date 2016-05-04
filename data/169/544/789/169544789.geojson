@@ -1,0 +1,68 @@
+{
+  "id": 169544789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.632851,12.976278,77.632851,12.976278",
+    "geom:latitude":12.976278,
+    "geom:longitude":77.632851,
+    "iso:country":"IN",
+    "sg:address":"1022/b, 17th D Cross, Indira Nagar, 2nd Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4126 9470",
+    "sg:postcode":"560038",
+    "sg:tags":[
+        "equipment",
+        "electrodes",
+        "welding"
+    ],
+    "sg:website":"http://www.metafusionindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931137,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51VqcxmHf6ngoCNJIlqfUA_12.976278_77.632851@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"442ae1bbc28bf237eef07dcffe3f0c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931137,
+            "region_id":85672165,
+            "venue_id":169544789
+        }
+    ],
+    "wof:id":169544789,
+    "wof:lastmodified":1449035962,
+    "wof:name":"Metafusion Pvt. Ltd.",
+    "wof:parent_id":85931137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electrodes",
+        "welding"
+    ]
+},
+  "bbox": [77.632851,12.976278,77.632851,12.976278],
+  "geometry": {"coordinates":[77.632851,12.976278],"type":"Point"}
+}

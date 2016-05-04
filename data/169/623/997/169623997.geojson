@@ -1,0 +1,63 @@
+{
+  "id": 169623997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.840385,30.672375,76.840385,30.672375",
+    "geom:latitude":30.672375,
+    "geom:longitude":76.840385,
+    "iso:country":"IN",
+    "sg:address":"I-4, D.l.f. Industrial Area, Phase-i,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 411 3669",
+    "sg:postcode":"121003",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.sidhcolours.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030563,
+        85672119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ebaQUBZwKiDouJ99X5NcN_30.672375_76.840385@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cc5193d97f475f766d58681d1e3f07f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030563,
+            "neighbourhood_id":-1,
+            "region_id":85672119,
+            "venue_id":169623997
+        }
+    ],
+    "wof:id":169623997,
+    "wof:lastmodified":1449035000,
+    "wof:name":"Sidh Masterbatches (p) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [76.840385,30.672375,76.840385,30.672375],
+  "geometry": {"coordinates":[76.840385,30.672375],"type":"Point"}
+}

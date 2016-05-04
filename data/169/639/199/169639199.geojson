@@ -1,0 +1,63 @@
+{
+  "id": 169639199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.953705,19.197336,72.953705,19.197336",
+    "geom:latitude":19.197336,
+    "geom:longitude":72.953705,
+    "iso:country":"IN",
+    "sg:address":"Plot No. A-154/155, Wagle Industrial Estate,",
+    "sg:city":"Thane",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2582 1659",
+    "sg:postcode":"400604",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931659,
+        85632469,
+        102028465,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TybpNbXgextzhR5jFfVs1_19.197336_72.953705@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"dc88c46f0ed9b0ffc17f9cfb05ce76b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028465,
+            "neighbourhood_id":85931659,
+            "region_id":85672171,
+            "venue_id":169639199
+        }
+    ],
+    "wof:id":169639199,
+    "wof:lastmodified":1449035950,
+    "wof:name":"Unique Pharmaceutical Labs.",
+    "wof:parent_id":85931659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.953705,19.197336,72.953705,19.197336],
+  "geometry": {"coordinates":[72.953705,19.197336],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169558669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.206543,28.633236,77.206543,28.633236",
+    "geom:latitude":28.633236,
+    "geom:longitude":77.206543,
+    "iso:country":"IN",
+    "sg:address":"F-36, Bhagat Singh Market,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4156 1143",
+    "sg:postcode":"110001",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "sg:website":"http://www.artilin.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928273,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l1PQSq4Jd2oI5ti8JNnlA_28.633236_77.206543@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"efc534c61b0d282f29caeda4c0556a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928273,
+            "region_id":85672123,
+            "venue_id":169558669
+        }
+    ],
+    "wof:id":169558669,
+    "wof:lastmodified":1449033581,
+    "wof:name":"Byo Coatings",
+    "wof:parent_id":85928273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.206543,28.633236,77.206543,28.633236],
+  "geometry": {"coordinates":[77.206543,28.633236],"type":"Point"}
+}

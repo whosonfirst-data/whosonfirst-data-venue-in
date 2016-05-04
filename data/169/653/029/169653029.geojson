@@ -1,0 +1,81 @@
+{
+  "id": 169653029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.52114,12.968308,77.52114,12.968308",
+    "geom:latitude":12.968308,
+    "geom:longitude":77.52114,
+    "iso:country":"IN",
+    "sg:address":"144, 2nd Main, Kasturinagar",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560043",
+    "sg:tags":[
+        "advanced-millennium-technologies",
+        "amt",
+        "bangalore",
+        "taroby",
+        "software-development",
+        "programmers",
+        "outsourcing",
+        "crm",
+        "erp",
+        "cms-systems"
+    ],
+    "sg:website":"http://www.amt.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931093,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PB5xUl85oo8w4OVqpK0j0_12.968308_77.521140@1308163238"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"aea8135cb56659ab52faec57634eb3d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931093,
+            "region_id":85672165,
+            "venue_id":169653029
+        }
+    ],
+    "wof:id":169653029,
+    "wof:lastmodified":1449032917,
+    "wof:name":"Advanced Millennium Technologies",
+    "wof:parent_id":85931093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advanced-millennium-technologies",
+        "amt",
+        "bangalore",
+        "taroby",
+        "software-development",
+        "programmers",
+        "outsourcing",
+        "crm",
+        "erp",
+        "cms-systems"
+    ]
+},
+  "bbox": [77.52114,12.968308,77.52114,12.968308],
+  "geometry": {"coordinates":[77.52114,12.968308],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169583911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.388252,22.533386,88.388252,22.533386",
+    "geom:latitude":22.533386,
+    "geom:longitude":88.388252,
+    "iso:country":"IN",
+    "sg:address":"11/h, East Topsia Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2285 3502",
+    "sg:postcode":"700046",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.labbaikint.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85932037,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ltA5oD6nVwd1I1RixXYIZ_22.533386_88.388252@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"471fe86dc23d728bff104480095c8b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85932037,
+            "region_id":85672219,
+            "venue_id":169583911
+        }
+    ],
+    "wof:id":169583911,
+    "wof:lastmodified":1449035269,
+    "wof:name":"Labbaik International",
+    "wof:parent_id":85932037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.388252,22.533386,88.388252,22.533386],
+  "geometry": {"coordinates":[88.388252,22.533386],"type":"Point"}
+}

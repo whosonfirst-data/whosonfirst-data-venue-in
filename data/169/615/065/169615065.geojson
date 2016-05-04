@@ -1,0 +1,63 @@
+{
+  "id": 169615065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.171432,13.043974,80.171432,13.043974",
+    "geom:latitude":13.043974,
+    "geom:longitude":80.171432,
+    "iso:country":"IN",
+    "sg:address":"32 Arunagiri Road,",
+    "sg:city":"Arni",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 4173 226 389",
+    "sg:postcode":"632301",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927541,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hx5KjRoZM0QqiiphKyEsY_13.043974_80.171432@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ddb2b9fe98e43138d97a8bc5a2443c62",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85927541,
+            "region_id":85672245,
+            "venue_id":169615065
+        }
+    ],
+    "wof:id":169615065,
+    "wof:lastmodified":1449033734,
+    "wof:name":"Sakthi Trading Co.",
+    "wof:parent_id":85927541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [80.171432,13.043974,80.171432,13.043974],
+  "geometry": {"coordinates":[80.171432,13.043974],"type":"Point"}
+}

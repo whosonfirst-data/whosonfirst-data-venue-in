@@ -1,0 +1,63 @@
+{
+  "id": 169526197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.861702,19.25967,72.861702,19.25967",
+    "geom:latitude":19.25967,
+    "geom:longitude":72.861702,
+    "iso:country":"IN",
+    "sg:address":"Shaktinagar, 21/1, C.s.c. Road No. 6, Dahisar (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5579 2822",
+    "sg:postcode":"400068",
+    "sg:tags":[
+        "auto"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931553,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tM9GabvhHtGD9b0iFgJVy_19.259670_72.861702@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"db9198cc19ca65b3dab21839a2b4f89c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931553,
+            "region_id":85672171,
+            "venue_id":169526197
+        }
+    ],
+    "wof:id":169526197,
+    "wof:lastmodified":1449033702,
+    "wof:name":"Megha Auto",
+    "wof:parent_id":85931553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto"
+    ]
+},
+  "bbox": [72.861702,19.25967,72.861702,19.25967],
+  "geometry": {"coordinates":[72.861702,19.25967],"type":"Point"}
+}

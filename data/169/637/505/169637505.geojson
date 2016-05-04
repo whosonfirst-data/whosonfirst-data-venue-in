@@ -1,0 +1,62 @@
+{
+  "id": 169637505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.142319,28.696533,77.142319,28.696533",
+    "geom:latitude":28.696533,
+    "geom:longitude":77.142319,
+    "iso:country":"IN",
+    "sg:address":"E-27, Udyog Kunj, Indl. Area,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 321 7707",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928043,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ExFh5tBrbGQbBdJCKExee_28.696533_77.142319@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d7dbdbb7a807a15eb78b717b7becfa76",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928043,
+            "region_id":85672123,
+            "venue_id":169637505
+        }
+    ],
+    "wof:id":169637505,
+    "wof:lastmodified":1449032689,
+    "wof:name":"Triveni Enterprises",
+    "wof:parent_id":85928043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.142319,28.696533,77.142319,28.696533],
+  "geometry": {"coordinates":[77.142319,28.696533],"type":"Point"}
+}

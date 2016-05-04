@@ -1,0 +1,65 @@
+{
+  "id": 169560609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.729324,30.715973,76.729324,30.715973",
+    "geom:latitude":30.715973,
+    "geom:longitude":76.729324,
+    "iso:country":"IN",
+    "sg:address":"B-81, Sector-60,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 433 6410",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "silica",
+        "gel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927783,
+        85632469,
+        102031103,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K9FuOWIg2fcqiiNN0u3Lu_30.715973_76.729324@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0b403129b84328c9eedfdfab213b79d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031103,
+            "neighbourhood_id":85927783,
+            "region_id":85672195,
+            "venue_id":169560609
+        }
+    ],
+    "wof:id":169560609,
+    "wof:lastmodified":1449035179,
+    "wof:name":"Dks Desiccants Pvt. Ltd.",
+    "wof:parent_id":85927783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silica",
+        "gel"
+    ]
+},
+  "bbox": [76.729324,30.715973,76.729324,30.715973],
+  "geometry": {"coordinates":[76.729324,30.715973],"type":"Point"}
+}

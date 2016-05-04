@@ -1,0 +1,66 @@
+{
+  "id": 169612109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.54245,13.015105,77.54245,13.015105",
+    "geom:latitude":13.015105,
+    "geom:longitude":77.54245,
+    "iso:country":"IN",
+    "sg:address":"C-336, 7th Main Road, Peenya 2nd Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2836 0311",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "natural",
+        "-"
+    ],
+    "sg:website":"http://www.remc.info.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65zg4vb1SGDneuUONxtKdd_13.015105_77.542450@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a620dfb9cdf0dcad6a549b4724287214",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169612109
+        }
+    ],
+    "wof:id":169612109,
+    "wof:lastmodified":1449034130,
+    "wof:name":"Rubber Extrusion & Moulding Co.",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "natural",
+        "-"
+    ]
+},
+  "bbox": [77.54245,13.015105,77.54245,13.015105],
+  "geometry": {"coordinates":[77.54245,13.015105],"type":"Point"}
+}

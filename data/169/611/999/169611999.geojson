@@ -1,0 +1,64 @@
+{
+  "id": 169611999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.23764,28.547859,77.23764,28.547859",
+    "geom:latitude":28.547859,
+    "geom:longitude":77.23764,
+    "iso:country":"IN",
+    "sg:address":"E-69, Greater Kailash-i,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4254 2341",
+    "sg:postcode":"110048",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.royalmotorcycle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928613,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Uz6UirhxFswbrLJOZkEPs_28.547859_77.237640@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"79d5717cd0606a82fde73240bce134c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928613,
+            "region_id":85672123,
+            "venue_id":169611999
+        }
+    ],
+    "wof:id":169611999,
+    "wof:lastmodified":1449035263,
+    "wof:name":"Royal Motor Cycles",
+    "wof:parent_id":85928613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.23764,28.547859,77.23764,28.547859],
+  "geometry": {"coordinates":[77.23764,28.547859],"type":"Point"}
+}

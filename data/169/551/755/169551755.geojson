@@ -1,0 +1,65 @@
+{
+  "id": 169551755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.187622,22.318846,73.187622,22.318846",
+    "geom:latitude":22.318846,
+    "geom:longitude":73.187622,
+    "iso:country":"IN",
+    "sg:address":"118, Saffron Tower, Fateh Gunj,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2871 237 335",
+    "sg:postcode":"362220",
+    "sg:tags":[
+        "coal",
+        "coke"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933519,
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_337r4lYhZ1udypv6CFvx7J_22.318846_73.187622@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2721292d6b1eec2811d1e6ffe12912e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":85933519,
+            "region_id":85672249,
+            "venue_id":169551755
+        }
+    ],
+    "wof:id":169551755,
+    "wof:lastmodified":1449033354,
+    "wof:name":"Verity Coal Corporation",
+    "wof:parent_id":85933519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coal",
+        "coke"
+    ]
+},
+  "bbox": [73.187622,22.318846,73.187622,22.318846],
+  "geometry": {"coordinates":[73.187622,22.318846],"type":"Point"}
+}

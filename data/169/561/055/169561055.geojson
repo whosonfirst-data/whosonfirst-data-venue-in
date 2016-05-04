@@ -1,0 +1,62 @@
+{
+  "id": 169561055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.024757,10.99927,77.024757,10.99927",
+    "geom:latitude":10.99927,
+    "geom:longitude":77.024757,
+    "iso:country":"IN",
+    "sg:address":"Elgi House, 1789, Trichy Road,",
+    "sg:city":"Coimbatore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 422 231 9909",
+    "sg:postcode":"641045",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K5kKba5SIIQ4NePm7qVCr_10.999270_77.024757@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f8675ec6c4a271b39f9315d3a525f3f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169561055
+        }
+    ],
+    "wof:id":169561055,
+    "wof:lastmodified":1449035019,
+    "wof:name":"Elgi Rubber Products Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.024757,10.99927,77.024757,10.99927],
+  "geometry": {"coordinates":[77.024757,10.99927],"type":"Point"}
+}

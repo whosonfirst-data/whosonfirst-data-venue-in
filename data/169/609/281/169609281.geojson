@@ -1,0 +1,67 @@
+{
+  "id": 169609281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.543488,13.010885,77.543488,13.010885",
+    "geom:latitude":13.010885,
+    "geom:longitude":77.543488,
+    "iso:country":"IN",
+    "sg:address":"A-353 (b), 8th Main, Peenya 2nd Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4117 1331",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dlVW9V1YEuZxBBFuqUB06_13.010885_77.543488@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5fc185eba220947d674e3f88504051d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169609281
+        }
+    ],
+    "wof:id":169609281,
+    "wof:lastmodified":1449033921,
+    "wof:name":"Rasayana",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.543488,13.010885,77.543488,13.010885],
+  "geometry": {"coordinates":[77.543488,13.010885],"type":"Point"}
+}

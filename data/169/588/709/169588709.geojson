@@ -1,0 +1,63 @@
+{
+  "id": 169588709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.183067,19.209999,73.183067,19.209999",
+    "geom:latitude":19.209999,
+    "geom:longitude":73.183067,
+    "iso:country":"IN",
+    "sg:address":"Plot #9, Near State Bank Of India, Ambarnath (e),",
+    "sg:city":"Thane",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 251 260 3124",
+    "sg:postcode":"421501",
+    "sg:tags":[
+        "x-ray"
+    ],
+    "sg:website":"http://www.mekentp.maharashtradirectory.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904049,
+        85632469,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FSLkzvJ9TvxiL8abAWBvY_19.209999_73.183067@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"389da271c2ed7e92969b3497a786c1f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85904049,
+            "region_id":85672171,
+            "venue_id":169588709
+        }
+    ],
+    "wof:id":169588709,
+    "wof:lastmodified":1449035308,
+    "wof:name":"Mek Enterprises",
+    "wof:parent_id":85904049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "x-ray"
+    ]
+},
+  "bbox": [73.183067,19.209999,73.183067,19.209999],
+  "geometry": {"coordinates":[73.183067,19.209999],"type":"Point"}
+}

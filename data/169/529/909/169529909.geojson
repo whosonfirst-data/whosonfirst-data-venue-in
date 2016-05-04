@@ -1,0 +1,63 @@
+{
+  "id": 169529909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.998245,19.076548,72.998245,19.076548",
+    "geom:latitude":19.076548,
+    "geom:longitude":72.998245,
+    "iso:country":"IN",
+    "sg:address":"Sector-6, R.h.-ii, C-13, Vashi,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2782 3817",
+    "sg:postcode":"400703",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931637,
+        85632469,
+        102031087,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oO32InDPAsNBK4jOLq2UC_19.076548_72.998245@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cc13031a3d28486612f744ec292b020e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031087,
+            "neighbourhood_id":85931637,
+            "region_id":85672171,
+            "venue_id":169529909
+        }
+    ],
+    "wof:id":169529909,
+    "wof:lastmodified":1449034114,
+    "wof:name":"Galaxy Chamicals",
+    "wof:parent_id":85931637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.998245,19.076548,72.998245,19.076548],
+  "geometry": {"coordinates":[72.998245,19.076548],"type":"Point"}
+}

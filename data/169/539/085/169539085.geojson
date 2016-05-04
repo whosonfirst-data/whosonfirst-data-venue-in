@@ -1,0 +1,64 @@
+{
+  "id": 169539085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.547676,13.009836,77.547676,13.009836",
+    "geom:latitude":13.009836,
+    "geom:longitude":77.547676,
+    "iso:country":"IN",
+    "sg:address":"A-102a, 3rd Main Road, 2nd Stage, Peenya Industrial Estate,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 6558 4696",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.brahad.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lZUbUq7IaHF1riVaYhH4y_13.009836_77.547676@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0b573de14d701615a5d3c4d9837862b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169539085
+        }
+    ],
+    "wof:id":169539085,
+    "wof:lastmodified":1449036037,
+    "wof:name":"Brahad Elastomers (p) Ltd.",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.547676,13.009836,77.547676,13.009836],
+  "geometry": {"coordinates":[77.547676,13.009836],"type":"Point"}
+}

@@ -1,0 +1,54 @@
+{
+  "id": 169572639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.225365,28.632614,77.225365,28.632614",
+    "geom:latitude":28.632614,
+    "geom:longitude":77.225365,
+    "iso:country":"IN",
+    "sg:address":"Fire Brigade Lane",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2341 1540",
+    "sg:postcode":"110001",
+    "sg:province":"Delhi",
+    "sg:website":"http://www.indusvalley-world.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903833,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ah3tyQ04sGVISKZJlSTD9_28.632614_77.225365@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"372ffaf19bd8ffaaf80c1fc0e8a11c76",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903833,
+            "region_id":85672123,
+            "venue_id":169572639
+        }
+    ],
+    "wof:id":169572639,
+    "wof:lastmodified":1449034707,
+    "wof:name":"Indus Valley",
+    "wof:parent_id":85903833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.225365,28.632614,77.225365,28.632614],
+  "geometry": {"coordinates":[77.225365,28.632614],"type":"Point"}
+}

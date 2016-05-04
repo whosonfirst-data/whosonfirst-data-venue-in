@@ -1,0 +1,68 @@
+{
+  "id": 169554245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.187622,22.318846,73.187622,22.318846",
+    "geom:latitude":22.318846,
+    "geom:longitude":73.187622,
+    "iso:country":"IN",
+    "sg:address":"407/408, Saffron Complex, Fathegunj,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 278 3548",
+    "sg:postcode":"390002",
+    "sg:tags":[
+        "personal",
+        "equipment",
+        "safety"
+    ],
+    "sg:website":"http://www.suresafety.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933519,
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z5J57mP0mIUMUk3Atulfo_22.318846_73.187622@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2721292d6b1eec2811d1e6ffe12912e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":85933519,
+            "region_id":85672249,
+            "venue_id":169554245
+        }
+    ],
+    "wof:id":169554245,
+    "wof:lastmodified":1449033372,
+    "wof:name":"Sure Safety",
+    "wof:parent_id":85933519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "equipment",
+        "safety"
+    ]
+},
+  "bbox": [73.187622,22.318846,73.187622,22.318846],
+  "geometry": {"coordinates":[73.187622,22.318846],"type":"Point"}
+}

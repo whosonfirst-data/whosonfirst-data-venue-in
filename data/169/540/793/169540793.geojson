@@ -1,0 +1,63 @@
+{
+  "id": 169540793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.623184,12.932578,77.623184,12.932578",
+    "geom:latitude":12.932578,
+    "geom:longitude":77.623184,
+    "iso:country":"IN",
+    "sg:address":"#41, 2nd Floor, 100 Feet Road, 4th Block, Koramangala,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4131 7558",
+    "sg:postcode":"560034",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930917,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ra5vMLwH3E5wcAR6SmNO7_12.932578_77.623184@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"51cb9c932571b321b31c6f4494134aec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930917,
+            "region_id":85672165,
+            "venue_id":169540793
+        }
+    ],
+    "wof:id":169540793,
+    "wof:lastmodified":1449033976,
+    "wof:name":"Madhu Silk Emporium",
+    "wof:parent_id":85930917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.623184,12.932578,77.623184,12.932578],
+  "geometry": {"coordinates":[77.623184,12.932578],"type":"Point"}
+}

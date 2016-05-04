@@ -1,0 +1,64 @@
+{
+  "id": 169597021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.635033,12.979374,77.635033,12.979374",
+    "geom:latitude":12.979374,
+    "geom:longitude":77.635033,
+    "iso:country":"IN",
+    "sg:address":"#538, 16th Cross, 2nd Stage, Indira Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2526 3735",
+    "sg:postcode":"560038",
+    "sg:tags":[
+        "salt"
+    ],
+    "sg:website":"http://www.ovobelfoods.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2by0RAH6XBbawGaraGPLeY_12.979374_77.635033@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"04d20fc32ab068c70f20f5f413281438",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169597021
+        }
+    ],
+    "wof:id":169597021,
+    "wof:lastmodified":1449035924,
+    "wof:name":"Ovobel Foods Ltd.",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salt"
+    ]
+},
+  "bbox": [77.635033,12.979374,77.635033,12.979374],
+  "geometry": {"coordinates":[77.635033,12.979374],"type":"Point"}
+}

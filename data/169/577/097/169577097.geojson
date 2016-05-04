@@ -1,0 +1,64 @@
+{
+  "id": 169577097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.826141,19.014938,72.826141,19.014938",
+    "geom:latitude":19.014938,
+    "geom:longitude":72.826141,
+    "iso:country":"IN",
+    "sg:address":"Gammon House, Veer Savarker Marg, Prabha Devi,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6661 4000",
+    "sg:postcode":"400025",
+    "sg:tags":[
+        "sulphur"
+    ],
+    "sg:website":"http://www.gammonindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931467,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gRJaCe5jMF0R4UeR8I2Yj_19.014938_72.826141@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c2bdeadaabdc4bc42bd32c096eaa1411",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931467,
+            "region_id":85672171,
+            "venue_id":169577097
+        }
+    ],
+    "wof:id":169577097,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Gammon Nirman Limited",
+    "wof:parent_id":85931467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sulphur"
+    ]
+},
+  "bbox": [72.826141,19.014938,72.826141,19.014938],
+  "geometry": {"coordinates":[72.826141,19.014938],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169638257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.999619,19.069084,72.999619,19.069084",
+    "geom:latitude":19.069084,
+    "geom:longitude":72.999619,
+    "iso:country":"IN",
+    "sg:address":"113, J.k. Chambers, Sector-17, Vashi,",
+    "sg:city":"Navi Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2789 2736",
+    "sg:postcode":"400705",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "sg:website":"http://www.ultratechindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931637,
+        85632469,
+        102031087,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YW99WPUV3VglUfaWk3kgj_19.069084_72.999619@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b1f1c9e06fdf2f2b2cc77b307d4eeea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031087,
+            "neighbourhood_id":85931637,
+            "region_id":85672171,
+            "venue_id":169638257
+        }
+    ],
+    "wof:id":169638257,
+    "wof:lastmodified":1449032864,
+    "wof:name":"Ultratech India Ltd.",
+    "wof:parent_id":85931637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [72.999619,19.069084,72.999619,19.069084],
+  "geometry": {"coordinates":[72.999619,19.069084],"type":"Point"}
+}

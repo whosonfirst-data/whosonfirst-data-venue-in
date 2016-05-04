@@ -1,0 +1,63 @@
+{
+  "id": 169594099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.232941,28.65781,77.232941,28.65781",
+    "geom:latitude":28.65781,
+    "geom:longitude":77.232941,
+    "iso:country":"IN",
+    "sg:address":"Everest House, 12th Floor, Suite No. 12c, 46c, J.l. Nehru Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2288 2449",
+    "sg:postcode":"700071",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928099,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EI3uE3Gfy7dQETsc7MBlT_28.657810_77.232941@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"614c32dfcfbb7fd57f2e9090b792ff3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928099,
+            "region_id":85672123,
+            "venue_id":169594099
+        }
+    ],
+    "wof:id":169594099,
+    "wof:lastmodified":1449033165,
+    "wof:name":"Nidhi Sulphonates",
+    "wof:parent_id":85928099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.232941,28.65781,77.232941,28.65781],
+  "geometry": {"coordinates":[77.232941,28.65781],"type":"Point"}
+}

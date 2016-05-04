@@ -1,0 +1,64 @@
+{
+  "id": 169541619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.708206,12.984798,77.708206,12.984798",
+    "geom:latitude":12.984798,
+    "geom:longitude":77.708206,
+    "iso:country":"IN",
+    "sg:address":"# 10-1a, Itpl Main Road, Hoodi, Whitefield,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2852 4560",
+    "sg:postcode":"560048",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"http://www.thinkgen.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931165,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GkrKCAj6Rt0DJT2ogMdAK_12.984798_77.708206@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1d7a6981053792bce0413dfedba6053f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931165,
+            "region_id":85672165,
+            "venue_id":169541619
+        }
+    ],
+    "wof:id":169541619,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Thinkgen Limited",
+    "wof:parent_id":85931165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.708206,12.984798,77.708206,12.984798],
+  "geometry": {"coordinates":[77.708206,12.984798],"type":"Point"}
+}

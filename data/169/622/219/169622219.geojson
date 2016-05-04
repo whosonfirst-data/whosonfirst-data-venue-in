@@ -1,0 +1,64 @@
+{
+  "id": 169622219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.826622,18.941929,72.826622,18.941929",
+    "geom:latitude":18.941929,
+    "geom:longitude":72.826622,
+    "iso:country":"IN",
+    "sg:address":"113-c, Chruchgate Chamber, 5, New Marine Lines,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2202 8162",
+    "sg:postcode":"400020",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bV57kv6nZzKHIovWj8ilT_18.941929_72.826622@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a94a4953bacb9d76945cc0cfd633efa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903889,
+            "region_id":85672171,
+            "venue_id":169622219
+        }
+    ],
+    "wof:id":169622219,
+    "wof:lastmodified":1449035368,
+    "wof:name":"Shri Chamunda Chemical Co.",
+    "wof:parent_id":85903889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.826622,18.941929,72.826622,18.941929],
+  "geometry": {"coordinates":[72.826622,18.941929],"type":"Point"}
+}

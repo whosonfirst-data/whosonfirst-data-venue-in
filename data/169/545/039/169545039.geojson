@@ -1,0 +1,69 @@
+{
+  "id": 169545039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.594917,12.960691,77.594917,12.960691",
+    "geom:latitude":12.960691,
+    "geom:longitude":77.594917,
+    "iso:country":"IN",
+    "sg:address":"18/3, Andree Road, Shantinagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2210 7166",
+    "sg:postcode":"560062",
+    "sg:tags":[
+        "wooden",
+        "stone",
+        "/",
+        "carving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930939,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1k8lVEQ7HtA7C2yof5hCKL_12.960691_77.594917@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fdb977c664b418ea031ec920ad4a7c1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930939,
+            "region_id":85672165,
+            "venue_id":169545039
+        }
+    ],
+    "wof:id":169545039,
+    "wof:lastmodified":1449033487,
+    "wof:name":"Sublime Solutions",
+    "wof:parent_id":85930939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wooden",
+        "stone",
+        "/",
+        "carving"
+    ]
+},
+  "bbox": [77.594917,12.960691,77.594917,12.960691],
+  "geometry": {"coordinates":[77.594917,12.960691],"type":"Point"}
+}

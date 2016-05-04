@@ -1,0 +1,63 @@
+{
+  "id": 169636921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.926003,30.879322,75.926003,30.879322",
+    "geom:latitude":30.879322,
+    "geom:longitude":75.926003,
+    "iso:country":"IN",
+    "sg:address":"C-50, Focal Point,",
+    "sg:city":"Patiala",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 175 223 2182",
+    "sg:postcode":"147004",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.ssiapta.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029555,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EiPGlLHtlM6CPInkZPTzF_30.879322_75.926003@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"298ab1416f84af9a6fa06bb320dc78b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029555,
+            "neighbourhood_id":-1,
+            "region_id":85672195,
+            "venue_id":169636921
+        }
+    ],
+    "wof:id":169636921,
+    "wof:lastmodified":1449033988,
+    "wof:name":"Tinchem Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.926003,30.879322,75.926003,30.879322],
+  "geometry": {"coordinates":[75.926003,30.879322],"type":"Point"}
+}

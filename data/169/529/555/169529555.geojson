@@ -1,0 +1,63 @@
+{
+  "id": 169529555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.913116,19.118809,72.913116,19.118809",
+    "geom:latitude":19.118809,
+    "geom:longitude":72.913116,
+    "iso:country":"IN",
+    "sg:address":"304, Alpha Hiranandani Gardens,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2570 7596",
+    "sg:postcode":"400076",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931519,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FXerJcKm07rR2uiGVL7l5_19.118809_72.913116@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"72621c988ea7808256ed44bcbc237f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931519,
+            "region_id":85672171,
+            "venue_id":169529555
+        }
+    ],
+    "wof:id":169529555,
+    "wof:lastmodified":1449034116,
+    "wof:name":"Dksh India Pvt Ltd",
+    "wof:parent_id":85931519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.913116,19.118809,72.913116,19.118809],
+  "geometry": {"coordinates":[72.913116,19.118809],"type":"Point"}
+}

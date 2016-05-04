@@ -1,0 +1,63 @@
+{
+  "id": 169626223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.617462,12.975362,77.617462,12.975362",
+    "geom:latitude":12.975362,
+    "geom:longitude":77.617462,
+    "iso:country":"IN",
+    "sg:address":"67, Ulsoor Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2559 8250",
+    "sg:postcode":"560042",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931137,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SxsJpc3DtJAIocedcs7f1_12.975362_77.617462@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"eb8477e6848d3492d29a5d2d365825ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931137,
+            "region_id":85672165,
+            "venue_id":169626223
+        }
+    ],
+    "wof:id":169626223,
+    "wof:lastmodified":1449035968,
+    "wof:name":"Southern Petrochemicals Industries Corpn. Ltd.",
+    "wof:parent_id":85931137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.617462,12.975362,77.617462,12.975362],
+  "geometry": {"coordinates":[77.617462,12.975362],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169652443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.726437,30.704386,76.726437,30.704386",
+    "geom:latitude":30.704386,
+    "geom:longitude":76.726437,
+    "iso:country":"IN",
+    "sg:address":"2008, Phase 7",
+    "sg:city":"Mohali",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"170066",
+    "sg:tags":[
+        "media",
+        "news",
+        "stock-markets"
+    ],
+    "sg:website":"http://www.topnews.in/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927783,
+        85632469,
+        102031103,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mbG17M0165LrTORI5CI2H_30.704386_76.726437@1308163241"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8ec755aa6585853e25b4bfb9aa952567",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031103,
+            "neighbourhood_id":85927783,
+            "region_id":85672195,
+            "venue_id":169652443
+        }
+    ],
+    "wof:id":169652443,
+    "wof:lastmodified":1449034809,
+    "wof:name":"Manas Informatic",
+    "wof:parent_id":85927783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "media",
+        "news",
+        "stock-markets"
+    ]
+},
+  "bbox": [76.726437,30.704386,76.726437,30.704386],
+  "geometry": {"coordinates":[76.726437,30.704386],"type":"Point"}
+}

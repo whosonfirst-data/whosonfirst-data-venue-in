@@ -1,0 +1,64 @@
+{
+  "id": 169530011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.820793,19.008354,72.820793,19.008354",
+    "geom:latitude":19.008354,
+    "geom:longitude":72.820793,
+    "iso:country":"IN",
+    "sg:address":"327, T.v. Industrial Estate, S.k. Ahere Marg, Worli,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2493 1147",
+    "sg:postcode":"400025",
+    "sg:tags":[
+        "chemical",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903999,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LvitC2BYeyKibmYFIDNLV_19.008354_72.820793@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fc930338ad662397d49884a5ae3a4d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903999,
+            "region_id":85672171,
+            "venue_id":169530011
+        }
+    ],
+    "wof:id":169530011,
+    "wof:lastmodified":1449034446,
+    "wof:name":"Enbeegee Impex",
+    "wof:parent_id":85903999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "-"
+    ]
+},
+  "bbox": [72.820793,19.008354,72.820793,19.008354],
+  "geometry": {"coordinates":[72.820793,19.008354],"type":"Point"}
+}

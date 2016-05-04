@@ -1,0 +1,65 @@
+{
+  "id": 169653161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.64359,12.973784,77.64359,12.973784",
+    "geom:latitude":12.973784,
+    "geom:longitude":77.64359,
+    "iso:country":"IN",
+    "sg:address":"Banerghatta Road Suite 28 NSR-GIV Centre Indian Institute Of Management Bangalore",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560076",
+    "sg:tags":[
+        "mobile-search",
+        "community-answers"
+    ],
+    "sg:website":"http://www.zook.in/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dwqQU5G7dEtTXNjlrav5I_12.973784_77.643590@1308163238"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"38caf28adc007219770bd46a84ddcd98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169653161
+        }
+    ],
+    "wof:id":169653161,
+    "wof:lastmodified":1449032917,
+    "wof:name":"Ziva Software",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile-search",
+        "community-answers"
+    ]
+},
+  "bbox": [77.64359,12.973784,77.64359,12.973784],
+  "geometry": {"coordinates":[77.64359,12.973784],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169630939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.390511,22.580229,88.390511,22.580229",
+    "geom:latitude":22.580229,
+    "geom:longitude":88.390511,
+    "iso:country":"IN",
+    "sg:address":"237 J, Manicktala Main Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2354 7649",
+    "sg:postcode":"700054",
+    "sg:tags":[
+        "pigment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903807,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZzHtfVnWoDHZLsYDQcj6F_22.580229_88.390511@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8e235be227059c806cc134a1b85b78bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903807,
+            "region_id":85672219,
+            "venue_id":169630939
+        }
+    ],
+    "wof:id":169630939,
+    "wof:lastmodified":1449033869,
+    "wof:name":"Sunny  Dyes",
+    "wof:parent_id":85903807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [88.390511,22.580229,88.390511,22.580229],
+  "geometry": {"coordinates":[88.390511,22.580229],"type":"Point"}
+}

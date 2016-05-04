@@ -1,0 +1,53 @@
+{
+  "id": 169571629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.169838,28.55913,77.169838,28.55913",
+    "geom:latitude":28.55913,
+    "geom:longitude":77.169838,
+    "iso:country":"IN",
+    "sg:address":"Basant Lok, Vasant Vihar",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2614 6871",
+    "sg:postcode":"110057",
+    "sg:province":"Delhi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927949,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4676KL88gUJETNHrXZdKs9_28.559130_77.169838@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"05b770384b1c9def4d4823da874b096a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927949,
+            "region_id":85672123,
+            "venue_id":169571629
+        }
+    ],
+    "wof:id":169571629,
+    "wof:lastmodified":1449034948,
+    "wof:name":"Krips Consultants",
+    "wof:parent_id":85927949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.169838,28.55913,77.169838,28.55913],
+  "geometry": {"coordinates":[77.169838,28.55913],"type":"Point"}
+}

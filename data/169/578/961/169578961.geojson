@@ -1,0 +1,63 @@
+{
+  "id": 169578961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.298576,28.506479,77.298576,28.506479",
+    "geom:latitude":28.506479,
+    "geom:longitude":77.298576,
+    "iso:country":"IN",
+    "sg:address":"A-17, B-1 Extension, Mohan Cooperative Industrial Estate, Badarpur,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 3088 1910",
+    "sg:postcode":"110044",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928357,
+        85632469,
+        102029189,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vfo6DyebIMLIGx7TFrl10_28.506479_77.298576@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"20c3fd1de6f6c6fc749280c964e1ba29",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928357,
+            "region_id":85672133,
+            "venue_id":169578961
+        }
+    ],
+    "wof:id":169578961,
+    "wof:lastmodified":1449033520,
+    "wof:name":"Hi-tech Rubber Moulds P. Ltd.",
+    "wof:parent_id":85928357,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.298576,28.506479,77.298576,28.506479],
+  "geometry": {"coordinates":[77.298576,28.506479],"type":"Point"}
+}

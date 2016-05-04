@@ -1,0 +1,64 @@
+{
+  "id": 169538951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.594513,12.887074,77.594513,12.887074",
+    "geom:latitude":12.887074,
+    "geom:longitude":77.594513,
+    "iso:country":"IN",
+    "sg:address":"17/3, Arakere, Bannerghatta Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Race Track",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2648 3561",
+    "sg:postcode":"560076",
+    "sg:tags":[
+        "relay"
+    ],
+    "sg:website":"http://www.easunreyrolle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931047,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iVS8dMQvofnjxdIvOiBib_12.887074_77.594513@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8dd31e465422b5e48f3719eebb712b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931047,
+            "region_id":85672165,
+            "venue_id":169538951
+        }
+    ],
+    "wof:id":169538951,
+    "wof:lastmodified":1449033098,
+    "wof:name":"Easun Reyrolle Ltd.",
+    "wof:parent_id":85931047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "relay"
+    ]
+},
+  "bbox": [77.594513,12.887074,77.594513,12.887074],
+  "geometry": {"coordinates":[77.594513,12.887074],"type":"Point"}
+}

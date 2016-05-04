@@ -1,0 +1,61 @@
+{
+  "id": 169558291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.23333,19.799999,75.23333,19.799999",
+    "geom:latitude":19.799999,
+    "geom:longitude":75.23333,
+    "iso:country":"IN",
+    "sg:address":"M-108/4, M.i.d.c., Waluj,",
+    "sg:city":"Aurangabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 240 256 4887",
+    "sg:postcode":"431136",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Tcjn7U3Jk2CF8sl9KQwls_19.799999_75.233330@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5dd270b63971a0ba2bea7cb477f8dd2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169558291
+        }
+    ],
+    "wof:id":169558291,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Bhogle Chemicals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.23333,19.799999,75.23333,19.799999],
+  "geometry": {"coordinates":[75.23333,19.799999],"type":"Point"}
+}

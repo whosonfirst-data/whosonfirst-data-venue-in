@@ -1,0 +1,66 @@
+{
+  "id": 169547753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.543282,13.030668,77.543282,13.030668",
+    "geom:latitude":13.030668,
+    "geom:longitude":77.543282,
+    "iso:country":"IN",
+    "sg:address":"29/20, Raja Rao Street,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 309 2427",
+    "sg:postcode":"641601",
+    "sg:tags":[
+        "underwear",
+        "nightwear"
+    ],
+    "sg:website":"http://www.balatex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930975,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77Aq9z4ZnYsAQtyiUhnbfF_13.030668_77.543282@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e17a0d6a05fd84ed501159906d3176c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930975,
+            "region_id":85672165,
+            "venue_id":169547753
+        }
+    ],
+    "wof:id":169547753,
+    "wof:lastmodified":1449033007,
+    "wof:name":"Bala Textile",
+    "wof:parent_id":85930975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underwear",
+        "nightwear"
+    ]
+},
+  "bbox": [77.543282,13.030668,77.543282,13.030668],
+  "geometry": {"coordinates":[77.543282,13.030668],"type":"Point"}
+}

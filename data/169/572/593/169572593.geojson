@@ -1,0 +1,52 @@
+{
+  "id": 169572593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.287346,13.091829,80.287346,13.091829",
+    "geom:latitude":13.091829,
+    "geom:longitude":80.287346,
+    "iso:country":"IN",
+    "sg:address":"Vanier Street",
+    "sg:city":"Chennai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 4425233933522",
+    "sg:postcode":"600001",
+    "sg:province":"Tamil Nadu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903951,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v6gCDucDFA8afwgpKE28P_13.091829_80.287346@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"78a76556c9e1700b6a450093c44452ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102029537,
+            "neighbourhood_id":85903951,
+            "region_id":85672245,
+            "venue_id":169572593
+        }
+    ],
+    "wof:id":169572593,
+    "wof:lastmodified":1449034706,
+    "wof:name":"Goel Steel Company",
+    "wof:parent_id":85903951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.287346,13.091829,80.287346,13.091829],
+  "geometry": {"coordinates":[80.287346,13.091829],"type":"Point"}
+}

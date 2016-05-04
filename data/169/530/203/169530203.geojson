@@ -1,0 +1,53 @@
+{
+  "id": 169530203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.857025,19.173002,72.857025,19.173002",
+    "geom:latitude":19.173002,
+    "geom:longitude":72.857025,
+    "iso:country":"IN",
+    "sg:address":"203/d, B.t. Compound, Malad (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:orig_category":"Circuit Breaker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2882 0912",
+    "sg:postcode":"400064",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931525,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wfENNmGgzhEIl6zhpqOsu_19.173002_72.857025@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"209338c75946e7f9f09efa3408ab18c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931525,
+            "region_id":85672171,
+            "venue_id":169530203
+        }
+    ],
+    "wof:id":169530203,
+    "wof:lastmodified":1449034442,
+    "wof:name":"Shrisan Enterprise",
+    "wof:parent_id":85931525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.857025,19.173002,72.857025,19.173002],
+  "geometry": {"coordinates":[72.857025,19.173002],"type":"Point"}
+}

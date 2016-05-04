@@ -1,0 +1,62 @@
+{
+  "id": 169578629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.161819,28.674307,77.161819,28.674307",
+    "geom:latitude":28.674307,
+    "geom:longitude":77.161819,
+    "iso:country":"IN",
+    "sg:address":"230/20, Onkar Nagar-b, Trinagar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2738 6247",
+    "sg:postcode":"110035",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sR7q9Dy4dY6YWU3yRqGPg_28.674307_77.161819@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9404e47501635b1dd8116aed592edf2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169578629
+        }
+    ],
+    "wof:id":169578629,
+    "wof:lastmodified":1449033520,
+    "wof:name":"Haryana Plastic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.161819,28.674307,77.161819,28.674307],
+  "geometry": {"coordinates":[77.161819,28.674307],"type":"Point"}
+}

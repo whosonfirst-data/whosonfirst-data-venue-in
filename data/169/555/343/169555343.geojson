@@ -1,0 +1,54 @@
+{
+  "id": 169555343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.212944,28.557159,77.212944,28.557159",
+    "geom:latitude":28.557159,
+    "geom:longitude":77.212944,
+    "iso:country":"IN",
+    "sg:address":"Community Centre Yusuf Sarai",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2685 7305",
+    "sg:postcode":"110049",
+    "sg:province":"Delhi",
+    "sg:website":"http://www.jetairtours.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927961,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pk7kGPVvFxDsHPThCx06K_28.557159_77.212944@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"158ba06f8493f14313fab7e0969dfcd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927961,
+            "region_id":85672123,
+            "venue_id":169555343
+        }
+    ],
+    "wof:id":169555343,
+    "wof:lastmodified":1449035495,
+    "wof:name":"Jetair Tours Pvt Ltd",
+    "wof:parent_id":85927961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.212944,28.557159,77.212944,28.557159],
+  "geometry": {"coordinates":[77.212944,28.557159],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169531297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.824005,19.145943,72.824005,19.145943",
+    "geom:latitude":19.145943,
+    "geom:longitude":72.824005,
+    "iso:country":"IN",
+    "sg:address":"605- Kingston Building, Shastri Nagar,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Hair Removal",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2636 4500",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "cosmetic",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931475,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DUaAA3uhXbLUcPxS5ULgG_19.145943_72.824005@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1dda21bfff6adc8e09025fd59bb929b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931475,
+            "region_id":85672171,
+            "venue_id":169531297
+        }
+    ],
+    "wof:id":169531297,
+    "wof:lastmodified":1449033475,
+    "wof:name":"Shree Ram Joyti Agency",
+    "wof:parent_id":85931475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "accessory"
+    ]
+},
+  "bbox": [72.824005,19.145943,72.824005,19.145943],
+  "geometry": {"coordinates":[72.824005,19.145943],"type":"Point"}
+}

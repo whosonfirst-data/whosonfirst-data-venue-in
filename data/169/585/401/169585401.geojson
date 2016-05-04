@@ -1,0 +1,63 @@
+{
+  "id": 169585401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.379036,22.583866,88.379036,22.583866",
+    "geom:latitude":22.583866,
+    "geom:longitude":88.379036,
+    "iso:country":"IN",
+    "sg:address":"39/1, Canal West Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2555 8027",
+    "sg:postcode":"700004",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903897,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r4UPWlIUzkMiXzhoR1WgH_22.583866_88.379036@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c52ca70f1d09f07d4db21efd7e9f5c8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903897,
+            "region_id":85672219,
+            "venue_id":169585401
+        }
+    ],
+    "wof:id":169585401,
+    "wof:lastmodified":1449034888,
+    "wof:name":"M.g.r. Industries",
+    "wof:parent_id":85903897,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [88.379036,22.583866,88.379036,22.583866],
+  "geometry": {"coordinates":[88.379036,22.583866],"type":"Point"}
+}

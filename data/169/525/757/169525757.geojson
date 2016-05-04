@@ -1,0 +1,69 @@
+{
+  "id": 169525757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.947586,19.182297,72.947586,19.182297",
+    "geom:latitude":19.182297,
+    "geom:longitude":72.947586,
+    "iso:country":"IN",
+    "sg:address":"220, Runwal Commercial Complex, Lbs Marg, Mulund (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2592 2144",
+    "sg:postcode":"400080",
+    "sg:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931655,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dcXIqiPlFiZOonssgSRBL_19.182297_72.947586@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2eb36aaae19334a67592689abb0d3cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931655,
+            "region_id":85672171,
+            "venue_id":169525757
+        }
+    ],
+    "wof:id":169525757,
+    "wof:lastmodified":1449035274,
+    "wof:name":"Sunrise Exports (india)",
+    "wof:parent_id":85931655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ]
+},
+  "bbox": [72.947586,19.182297,72.947586,19.182297],
+  "geometry": {"coordinates":[72.947586,19.182297],"type":"Point"}
+}

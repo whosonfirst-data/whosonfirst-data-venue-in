@@ -1,0 +1,62 @@
+{
+  "id": 169538491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.844032,19.010548,72.844032,19.010548",
+    "geom:latitude":19.010548,
+    "geom:longitude":72.844032,
+    "iso:country":"IN",
+    "sg:address":"51, Avenue Road, 2nd Floor, P.s. Buildings,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pvc Products",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2221 6567",
+    "sg:postcode":"560002",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931545,
+        85632469,
+        102030609,
+        85672171,
+        85931539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XVSQNvZ5e0PaZwGQMvFts_19.010548_72.844032@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b0f4eb9b8f15394c178011cb33db766e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931545,
+            "region_id":85672171,
+            "venue_id":169538491
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931539,
+            "region_id":85672171,
+            "venue_id":169538491
+        }
+    ],
+    "wof:id":169538491,
+    "wof:lastmodified":1449033097,
+    "wof:name":"Dipika Plastic Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.844032,19.010548,72.844032,19.010548],
+  "geometry": {"coordinates":[72.844032,19.010548],"type":"Point"}
+}

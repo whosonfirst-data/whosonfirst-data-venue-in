@@ -1,0 +1,64 @@
+{
+  "id": 169600351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.311623,28.674618,77.311623,28.674618",
+    "geom:latitude":28.674618,
+    "geom:longitude":77.311623,
+    "iso:country":"IN",
+    "sg:address":"A-10/1, Jhilmil Industrial Area,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2258 1097",
+    "sg:postcode":"110095",
+    "sg:tags":[
+        "resin"
+    ],
+    "sg:website":"http://www.peoplesglobal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928061,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qWCcMcARNxpRQsL2JefEn_28.674618_77.311623@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1160dd5e77c353b957816a20a3f241d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928061,
+            "region_id":85672123,
+            "venue_id":169600351
+        }
+    ],
+    "wof:id":169600351,
+    "wof:lastmodified":1449032971,
+    "wof:name":"Peoples Techtronics (p) Ltd.",
+    "wof:parent_id":85928061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [77.311623,28.674618,77.311623,28.674618],
+  "geometry": {"coordinates":[77.311623,28.674618],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169585071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.909912,11.062926,76.909912,11.062926",
+    "geom:latitude":11.062926,
+    "geom:longitude":76.909912,
+    "iso:country":"IN",
+    "sg:address":"5/621, Thadagam Road, Kanuvai,",
+    "sg:city":"Coimbatore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 422 230 6113",
+    "sg:postcode":"641108",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HbtMlZYgkIshypwtLqk9l_11.062926_76.909912@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e4fa610676760787767c8b8da6664ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169585071
+        }
+    ],
+    "wof:id":169585071,
+    "wof:lastmodified":1449034888,
+    "wof:name":"Louisons Rubber Products",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [76.909912,11.062926,76.909912,11.062926],
+  "geometry": {"coordinates":[76.909912,11.062926],"type":"Point"}
+}

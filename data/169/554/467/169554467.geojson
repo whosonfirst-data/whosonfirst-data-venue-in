@@ -1,0 +1,64 @@
+{
+  "id": 169554467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.183594,22.307827,73.183594,22.307827",
+    "geom:latitude":22.307827,
+    "geom:longitude":73.183594,
+    "iso:country":"IN",
+    "sg:address":"601, Silverline, Sayajigunj,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 222 5905",
+    "sg:postcode":"390018",
+    "sg:tags":[
+        "pigment"
+    ],
+    "sg:website":"http://www.ritvi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933519,
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0feJqNpJNbxjbgxKLdFQQn_22.307827_73.183594@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5368f6a8badb867fe4c7313f910cd203",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":85933519,
+            "region_id":85672249,
+            "venue_id":169554467
+        }
+    ],
+    "wof:id":169554467,
+    "wof:lastmodified":1449033372,
+    "wof:name":"Ritvi Group Of Companies",
+    "wof:parent_id":85933519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [73.183594,22.307827,73.183594,22.307827],
+  "geometry": {"coordinates":[73.183594,22.307827],"type":"Point"}
+}

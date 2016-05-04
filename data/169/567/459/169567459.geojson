@@ -1,0 +1,54 @@
+{
+  "id": 169567459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.249855,28.526787,77.249855,28.526787",
+    "geom:latitude":28.526787,
+    "geom:longitude":77.249855,
+    "iso:country":"IN",
+    "sg:address":"Alaknanda",
+    "sg:city":"Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2608 3038",
+    "sg:postcode":"110019",
+    "sg:province":"Delhi",
+    "sg:website":"http://www.camparindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927969,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rqSDhyLFifWaafdPQQk8D_28.526787_77.249855@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c2dd129bc7563d7959ae846bea7db5c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85927969,
+            "region_id":85672123,
+            "venue_id":169567459
+        }
+    ],
+    "wof:id":169567459,
+    "wof:lastmodified":1449035995,
+    "wof:name":"Campari",
+    "wof:parent_id":85927969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.249855,28.526787,77.249855,28.526787],
+  "geometry": {"coordinates":[77.249855,28.526787],"type":"Point"}
+}

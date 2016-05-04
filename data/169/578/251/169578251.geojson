@@ -1,0 +1,65 @@
+{
+  "id": 169578251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.346909,22.49498,88.346909,22.49498",
+    "geom:latitude":22.49498,
+    "geom:longitude":88.346909,
+    "iso:country":"IN",
+    "sg:address":"5-f, Jubilee Park, 3rd Floor,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2411 7274",
+    "sg:postcode":"700033",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85932041,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cYmjb3oRY0c9kPQsNcWVL_22.494980_88.346909@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"363d74fbfdcfa1edb91840743438adbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85932041,
+            "region_id":85672219,
+            "venue_id":169578251
+        }
+    ],
+    "wof:id":169578251,
+    "wof:lastmodified":1449033518,
+    "wof:name":"Gvs Envicon Technologies Pvt. Ltd.",
+    "wof:parent_id":85932041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [88.346909,22.49498,88.346909,22.49498],
+  "geometry": {"coordinates":[88.346909,22.49498],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169560685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.491219,17.440956,78.491219,17.440956",
+    "geom:latitude":17.440956,
+    "geom:longitude":78.491219,
+    "iso:country":"IN",
+    "sg:address":"311, Minerva Complex, 5th Floor, 94, S.d. Road,",
+    "sg:city":"Secunderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2772 2561",
+    "sg:postcode":"500003",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930705,
+        85632469,
+        102028703,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TDhijlzriLha9VVO3RrIo_17.440956_78.491219@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"dd21fa709e7e15292757527018cfc934",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028703,
+            "neighbourhood_id":85930705,
+            "region_id":85672141,
+            "venue_id":169560685
+        }
+    ],
+    "wof:id":169560685,
+    "wof:lastmodified":1449035182,
+    "wof:name":"Dujodwala Products Ltd.",
+    "wof:parent_id":85930705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [78.491219,17.440956,78.491219,17.440956],
+  "geometry": {"coordinates":[78.491219,17.440956],"type":"Point"}
+}

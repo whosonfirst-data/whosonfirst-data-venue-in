@@ -1,0 +1,72 @@
+{
+  "id": 169643803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.829224,18.980431,72.829224,18.980431",
+    "geom:latitude":18.980431,
+    "geom:longitude":72.829224,
+    "iso:country":"IN",
+    "sg:address":"A/43, K.keshavrao Khadye Marg, Jacob Circle,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2307 9290",
+    "sg:postcode":"400011",
+    "sg:tags":[
+        "dye"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903827,
+        85632469,
+        102030609,
+        85672171,
+        85903901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l4Sl5YBZzR3qWSoSnZi6h_18.980431_72.829224@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"40ebdc7ff44c3a4d86ff00bf7daa2b57",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903827,
+            "region_id":85672171,
+            "venue_id":169643803
+        },
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903901,
+            "region_id":85672171,
+            "venue_id":169643803
+        }
+    ],
+    "wof:id":169643803,
+    "wof:lastmodified":1449035524,
+    "wof:name":"Vimal Dyes Corporation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye"
+    ]
+},
+  "bbox": [72.829224,18.980431,72.829224,18.980431],
+  "geometry": {"coordinates":[72.829224,18.980431],"type":"Point"}
+}

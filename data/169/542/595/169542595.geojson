@@ -1,0 +1,64 @@
+{
+  "id": 169542595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.542923,13.014722,77.542923,13.014722",
+    "geom:latitude":13.014722,
+    "geom:longitude":77.542923,
+    "iso:country":"IN",
+    "sg:address":"B-242, 6th Main, 2nd Stage, Peenya Industrial Area,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 6564 9428",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "surgical"
+    ],
+    "sg:website":"http://www.microsharpneedles.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xp5VPmfNkE6AeOEePhO5k_13.014722_77.542923@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2d87e433e300e4aa9e8c6b31e4581c00",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169542595
+        }
+    ],
+    "wof:id":169542595,
+    "wof:lastmodified":1449035222,
+    "wof:name":"Microsharp Needles Pvt. Ltd.",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical"
+    ]
+},
+  "bbox": [77.542923,13.014722,77.542923,13.014722],
+  "geometry": {"coordinates":[77.542923,13.014722],"type":"Point"}
+}

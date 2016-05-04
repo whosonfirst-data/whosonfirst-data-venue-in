@@ -1,0 +1,65 @@
+{
+  "id": 169535361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.939476,19.155956,72.939476,19.155956",
+    "geom:latitude":19.155956,
+    "geom:longitude":72.939476,
+    "iso:country":"IN",
+    "sg:address":"9, Kala Udyog Premises, L.b.s. Marg, Bhandup (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2567 4058",
+    "sg:postcode":"400078",
+    "sg:tags":[
+        "equipment",
+        "good"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931655,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BFUxOubIuAGAnndiVheOv_19.155956_72.939476@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"13770c089a07256b0cb7083aff1975ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931655,
+            "region_id":85672171,
+            "venue_id":169535361
+        }
+    ],
+    "wof:id":169535361,
+    "wof:lastmodified":1449033286,
+    "wof:name":"Shree Vijayan Lock Works",
+    "wof:parent_id":85931655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "good"
+    ]
+},
+  "bbox": [72.939476,19.155956,72.939476,19.155956],
+  "geometry": {"coordinates":[72.939476,19.155956],"type":"Point"}
+}

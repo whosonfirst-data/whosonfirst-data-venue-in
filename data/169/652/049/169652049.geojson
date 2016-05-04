@@ -1,0 +1,58 @@
+{
+  "id": 169652049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.961337,19.210255,72.961337,19.210255",
+    "geom:latitude":19.210255,
+    "geom:longitude":72.961337,
+    "iso:country":"IN",
+    "sg:address":"5 Q, Laxmi Industrial Estate,  New Link Road, Andheri (W)",
+    "sg:city":"Mumbai ",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"400053",
+    "sg:website":"http://www.ideacts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931659,
+        85632469,
+        102028465,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RC2nOTHMOnFQQEIsjLGgf_19.210255_72.961337@1308163242"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9524937ad6dbd596c7edd7d488a5c541",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028465,
+            "neighbourhood_id":85931659,
+            "region_id":85672171,
+            "venue_id":169652049
+        }
+    ],
+    "wof:id":169652049,
+    "wof:lastmodified":1449034809,
+    "wof:name":"ideacts innovations",
+    "wof:parent_id":85931659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.961337,19.210255,72.961337,19.210255],
+  "geometry": {"coordinates":[72.961337,19.210255],"type":"Point"}
+}

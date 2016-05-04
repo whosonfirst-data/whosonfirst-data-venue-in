@@ -1,0 +1,67 @@
+{
+  "id": 169545417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.039185,13.125367,80.039185,13.125367",
+    "geom:latitude":13.125367,
+    "geom:longitude":80.039185,
+    "iso:country":"IN",
+    "sg:address":"Chennai - Tiruvallur High Road\nThiruninravur",
+    "sg:city":"Thirunindravur",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 91446390388",
+    "sg:postcode":"602024",
+    "sg:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JFcqVWP4coNcKLQiKzHhr_13.125367_80.039185@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"91ba651fa73d3ffd40d4559b3957144d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169545417
+        }
+    ],
+    "wof:id":169545417,
+    "wof:lastmodified":1449033486,
+    "wof:name":"Ti Metal Forming",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ]
+},
+  "bbox": [80.039185,13.125367,80.039185,13.125367],
+  "geometry": {"coordinates":[80.039185,13.125367],"type":"Point"}
+}

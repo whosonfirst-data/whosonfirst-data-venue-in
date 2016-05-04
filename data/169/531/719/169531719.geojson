@@ -1,0 +1,64 @@
+{
+  "id": 169531719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.830139,19.195787,72.830139,19.195787",
+    "geom:latitude":19.195787,
+    "geom:longitude":72.830139,
+    "iso:country":"IN",
+    "sg:address":"14/16, B.j. Patel Industrial Estate, Kanchpada, Malad (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2888 0229",
+    "sg:postcode":"400064",
+    "sg:tags":[
+        "curtain"
+    ],
+    "sg:website":"http://www.indianembroidery.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931619,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SwgnphQHIQgJFPfXRbbqf_19.195787_72.830139@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6edb9a46e0ebb6e3d53fce6fb754fd5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931619,
+            "region_id":85672171,
+            "venue_id":169531719
+        }
+    ],
+    "wof:id":169531719,
+    "wof:lastmodified":1449033472,
+    "wof:name":"Hiral Art",
+    "wof:parent_id":85931619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "curtain"
+    ]
+},
+  "bbox": [72.830139,19.195787,72.830139,19.195787],
+  "geometry": {"coordinates":[72.830139,19.195787],"type":"Point"}
+}

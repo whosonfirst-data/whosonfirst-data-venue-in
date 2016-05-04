@@ -1,0 +1,67 @@
+{
+  "id": 169532071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831863,18.951458,72.831863,18.951458",
+    "geom:latitude":18.951458,
+    "geom:longitude":72.831863,
+    "iso:country":"IN",
+    "sg:address":"51-53, Dhanji Street,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2342 2175",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "machine",
+        "cutting",
+        "diamond"
+    ],
+    "sg:website":"http://www.aventools.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PI6tpvyIs8YzrbplisYsF_18.951458_72.831863@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4ae82524ea38977818d992dcf980b990",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169532071
+        }
+    ],
+    "wof:id":169532071,
+    "wof:lastmodified":1449033795,
+    "wof:name":"Aven Tools Centre",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "cutting",
+        "diamond"
+    ]
+},
+  "bbox": [72.831863,18.951458,72.831863,18.951458],
+  "geometry": {"coordinates":[72.831863,18.951458],"type":"Point"}
+}

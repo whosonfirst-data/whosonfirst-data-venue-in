@@ -1,0 +1,67 @@
+{
+  "id": 169625377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.344437,28.641636,77.344437,28.641636",
+    "geom:latitude":28.641636,
+    "geom:longitude":77.344437,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 11, Sector-5, Vaishali,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 437 0555",
+    "sg:postcode":"201010",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928547,
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hgvfBjIwG26ICWJTqNJ9b_28.641636_77.344437@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"56c923e208147a2b2c57505d5d0ffbbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":85928547,
+            "region_id":85672205,
+            "venue_id":169625377
+        }
+    ],
+    "wof:id":169625377,
+    "wof:lastmodified":1449036022,
+    "wof:name":"Sohan Lal Gupta",
+    "wof:parent_id":85928547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.344437,28.641636,77.344437,28.641636],
+  "geometry": {"coordinates":[77.344437,28.641636],"type":"Point"}
+}

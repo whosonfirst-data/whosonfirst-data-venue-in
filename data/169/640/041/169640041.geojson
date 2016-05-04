@@ -1,0 +1,63 @@
+{
+  "id": 169640041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.849701,21.199327,72.849701,21.199327",
+    "geom:latitude":21.199327,
+    "geom:longitude":72.849701,
+    "iso:country":"IN",
+    "sg:address":"U-19, Bombay Market, Umarwada,",
+    "sg:city":"Surat",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 261 231 2195",
+    "sg:postcode":"395010",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.indiamart.com/united-organic/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028539,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E3pkoOSOiddQh4WzWLAN6_21.199327_72.849701@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8492288d1e49c7cf72ee316ca89ed88a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028539,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169640041
+        }
+    ],
+    "wof:id":169640041,
+    "wof:lastmodified":1449034103,
+    "wof:name":"United Organic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [72.849701,21.199327,72.849701,21.199327],
+  "geometry": {"coordinates":[72.849701,21.199327],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 169525721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831917,19.136951,72.831917,19.136951",
+    "geom:latitude":19.136951,
+    "geom:longitude":72.831917,
+    "iso:country":"IN",
+    "sg:address":"1/b-304, New Link Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2877 7807",
+    "sg:postcode":"400064",
+    "sg:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931475,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bjyjtRDpdMqwiSaBAEL6E_19.136951_72.831917@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7e37e252b6fb53afcc00b20f9a5c1c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931475,
+            "region_id":85672171,
+            "venue_id":169525721
+        }
+    ],
+    "wof:id":169525721,
+    "wof:lastmodified":1449035275,
+    "wof:name":"Saaratee Exports",
+    "wof:parent_id":85931475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ]
+},
+  "bbox": [72.831917,19.136951,72.831917,19.136951],
+  "geometry": {"coordinates":[72.831917,19.136951],"type":"Point"}
+}

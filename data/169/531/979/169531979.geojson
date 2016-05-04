@@ -1,0 +1,65 @@
+{
+  "id": 169531979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833961,19.135494,72.833961,19.135494",
+    "geom:latitude":19.135494,
+    "geom:longitude":72.833961,
+    "iso:country":"IN",
+    "sg:address":"20, Ghanshyam Industrial Estate, Veera Desai Road, Andheri West,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "denim",
+        "wear"
+    ],
+    "sg:website":"http://apparelidol.21publish.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931475,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hI0R36UJ9BVlNTxyUPxsx_19.135494_72.833961@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f2761b604c57eb4ce6346c66f521de08",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931475,
+            "region_id":85672171,
+            "venue_id":169531979
+        }
+    ],
+    "wof:id":169531979,
+    "wof:lastmodified":1449033476,
+    "wof:name":"Apparel Idol Inc.",
+    "wof:parent_id":85931475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "denim",
+        "wear"
+    ]
+},
+  "bbox": [72.833961,19.135494,72.833961,19.135494],
+  "geometry": {"coordinates":[72.833961,19.135494],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169549465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.229088,28.654163,77.229088,28.654163",
+    "geom:latitude":28.654163,
+    "geom:longitude":77.229088,
+    "iso:country":"IN",
+    "sg:address":"5, Mali Colony,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 248 7017",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "flower",
+        "dried"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928099,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EmQEp8y0VqPmYfMIqjIN3_28.654163_77.229088@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e2fd17eb979e75e4846e6b7f9e52b84c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928099,
+            "region_id":85672123,
+            "venue_id":169549465
+        }
+    ],
+    "wof:id":169549465,
+    "wof:lastmodified":1449033593,
+    "wof:name":"Chaudhary Herbal Farm House",
+    "wof:parent_id":85928099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower",
+        "dried"
+    ]
+},
+  "bbox": [77.229088,28.654163,77.229088,28.654163],
+  "geometry": {"coordinates":[77.229088,28.654163],"type":"Point"}
+}

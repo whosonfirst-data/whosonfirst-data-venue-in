@@ -1,0 +1,67 @@
+{
+  "id": 169526851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.869133,19.12438,72.869133,19.12438",
+    "geom:latitude":19.12438,
+    "geom:longitude":72.869133,
+    "iso:country":"IN",
+    "sg:address":"G-12 Midc, Andheri East,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2620 2218",
+    "sg:postcode":"400093",
+    "sg:tags":[
+        "bag",
+        "-",
+        "cotton/canvas/synthetic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rlsuZ5ZuGjHpl2rs14D55_19.124380_72.869133@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"43237e21bb392b7d91c26e4f12fcfb4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169526851
+        }
+    ],
+    "wof:id":169526851,
+    "wof:lastmodified":1449033702,
+    "wof:name":"Indo Impex",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag",
+        "-",
+        "cotton/canvas/synthetic"
+    ]
+},
+  "bbox": [72.869133,19.12438,72.869133,19.12438],
+  "geometry": {"coordinates":[72.869133,19.12438],"type":"Point"}
+}

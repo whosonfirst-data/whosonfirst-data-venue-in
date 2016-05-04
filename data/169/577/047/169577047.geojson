@@ -1,0 +1,63 @@
+{
+  "id": 169577047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.351257,22.570007,88.351257,22.570007",
+    "geom:latitude":22.570007,
+    "geom:longitude":88.351257,
+    "iso:country":"IN",
+    "sg:address":"18, R.n. Mukherjee Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2248 9824",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931969,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mMZUr3m3JVrYw3hY9GhNb_22.570007_88.351257@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4fc4188989df66b9a712d5a6f6495dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931969,
+            "region_id":85672219,
+            "venue_id":169577047
+        }
+    ],
+    "wof:id":169577047,
+    "wof:lastmodified":1449036066,
+    "wof:name":"G.s. Solvent Pvt. Ltd.",
+    "wof:parent_id":85931969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [88.351257,22.570007,88.351257,22.570007],
+  "geometry": {"coordinates":[88.351257,22.570007],"type":"Point"}
+}

@@ -1,0 +1,53 @@
+{
+  "id": 169560105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.212135,28.652609,77.212135,28.652609",
+    "geom:latitude":28.652609,
+    "geom:longitude":77.212135,
+    "iso:country":"IN",
+    "sg:address":"Nabi Karim",
+    "sg:city":"Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2367 4757",
+    "sg:postcode":"110051",
+    "sg:province":"Delhi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928087,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OYhREOovMrBUX3QmeTu5D_28.652609_77.212135@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7b0096d7b27b2024ec8fd8950698877c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928087,
+            "region_id":85672123,
+            "venue_id":169560105
+        }
+    ],
+    "wof:id":169560105,
+    "wof:lastmodified":1449035179,
+    "wof:name":"Aggarwal Attachi House",
+    "wof:parent_id":85928087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.212135,28.652609,77.212135,28.652609],
+  "geometry": {"coordinates":[77.212135,28.652609],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169546177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.112198,9.907761,78.112198,9.907761",
+    "geom:latitude":9.907761,
+    "geom:longitude":78.112198,
+    "iso:country":"IN",
+    "sg:address":"No.39, Iii Street, K.p.n. Colony,",
+    "sg:city":"Tiruppur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 223 3114",
+    "sg:postcode":"641601",
+    "sg:tags":[
+        "t-shirt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783663,
+        85632469,
+        102029533,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HmBncGJzoK930XYm45O4g_9.907761_78.112198@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"dfd3fd65b81d34ed18f3b85855a5fba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029533,
+            "neighbourhood_id":85783663,
+            "region_id":85672245,
+            "venue_id":169546177
+        }
+    ],
+    "wof:id":169546177,
+    "wof:lastmodified":1449032681,
+    "wof:name":"The Dolphin International",
+    "wof:parent_id":85783663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "t-shirt"
+    ]
+},
+  "bbox": [78.112198,9.907761,78.112198,9.907761],
+  "geometry": {"coordinates":[78.112198,9.907761],"type":"Point"}
+}

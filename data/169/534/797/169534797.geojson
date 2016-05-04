@@ -1,0 +1,68 @@
+{
+  "id": 169534797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.88385,19.094351,72.88385,19.094351",
+    "geom:latitude":19.094351,
+    "geom:longitude":72.88385,
+    "iso:country":"IN",
+    "sg:address":"4, Kurla Industrial Estate, Narayan Nagar, Ghatkopar (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2509 4241",
+    "sg:postcode":"400086",
+    "sg:tags":[
+        "measuring",
+        "equipment",
+        "electrical"
+    ],
+    "sg:website":"http://www.orioleindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oGBtaJSNjz5jp5ifYEg2o_19.094351_72.883850@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c479bd18b203bc56de5f1f63f8bb0eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169534797
+        }
+    ],
+    "wof:id":169534797,
+    "wof:lastmodified":1449033551,
+    "wof:name":"Oriole Electronics Pvt. Ltd.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "measuring",
+        "equipment",
+        "electrical"
+    ]
+},
+  "bbox": [72.88385,19.094351,72.88385,19.094351],
+  "geometry": {"coordinates":[72.88385,19.094351],"type":"Point"}
+}

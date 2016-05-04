@@ -1,0 +1,63 @@
+{
+  "id": 169551355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.067726,21.059671,73.067726,21.059671",
+    "geom:latitude":21.059671,
+    "geom:longitude":73.067726,
+    "iso:country":"IN",
+    "sg:address":"Channi Jagat Naka,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 277 2015",
+    "sg:postcode":"390002",
+    "sg:tags":[
+        "tile",
+        "brick"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UUSD95qTh8oRyWaQhI4P8_21.059671_73.067726@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d570744dac89aa8a1f2b473b7c13a37d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169551355
+        }
+    ],
+    "wof:id":169551355,
+    "wof:lastmodified":1449033353,
+    "wof:name":"Sona Tiles",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "brick"
+    ]
+},
+  "bbox": [73.067726,21.059671,73.067726,21.059671],
+  "geometry": {"coordinates":[73.067726,21.059671],"type":"Point"}
+}

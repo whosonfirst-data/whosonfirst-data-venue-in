@@ -1,0 +1,63 @@
+{
+  "id": 169585687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.208282,13.003788,80.208282,13.003788",
+    "geom:latitude":13.003788,
+    "geom:longitude":80.208282,
+    "iso:country":"IN",
+    "sg:address":"80-81, M.k.n. Road, Guindy,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2234 6660",
+    "sg:postcode":"600032",
+    "sg:tags":[
+        "dye"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903867,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44h3RAOBQSa4AEaYn4DN0g_13.003788_80.208282@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b9aeb566587958a50e064396493fb495",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903867,
+            "region_id":85672245,
+            "venue_id":169585687
+        }
+    ],
+    "wof:id":169585687,
+    "wof:lastmodified":1449034883,
+    "wof:name":"Madras Dies And Tools",
+    "wof:parent_id":85903867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye"
+    ]
+},
+  "bbox": [80.208282,13.003788,80.208282,13.003788],
+  "geometry": {"coordinates":[80.208282,13.003788],"type":"Point"}
+}

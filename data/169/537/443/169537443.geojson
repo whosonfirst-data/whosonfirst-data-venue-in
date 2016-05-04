@@ -1,0 +1,71 @@
+{
+  "id": 169537443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.627831,12.905565,77.627831,12.905565",
+    "geom:latitude":12.905565,
+    "geom:longitude":77.627831,
+    "iso:country":"IN",
+    "sg:address":"No.-6/6, Begur Road, Bommanahalli,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 3096 9064",
+    "sg:postcode":"560068",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930853,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21xJeUUzrcFJWNy46riX86_12.905565_77.627831@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6268e4b772a646ead338e6419ddea218",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930853,
+            "region_id":85672165,
+            "venue_id":169537443
+        }
+    ],
+    "wof:id":169537443,
+    "wof:lastmodified":1449033500,
+    "wof:name":"Indus Technologies",
+    "wof:parent_id":85930853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.627831,12.905565,77.627831,12.905565],
+  "geometry": {"coordinates":[77.627831,12.905565],"type":"Point"}
+}

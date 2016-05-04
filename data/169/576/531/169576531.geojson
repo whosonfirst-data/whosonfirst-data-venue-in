@@ -1,0 +1,67 @@
+{
+  "id": 169576531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.458725,17.441931,78.458725,17.441931",
+    "geom:latitude":17.441931,
+    "geom:longitude":78.458725,
+    "iso:country":"IN",
+    "sg:address":"140, Govind Building, S.g. Marg,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2203 1044",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930831,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RO0PAH9BbRkVl2fhrQjgz_17.441931_78.458725@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"913e4bd0a45919e44a2b0b34f0da1bbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930831,
+            "region_id":85672141,
+            "venue_id":169576531
+        }
+    ],
+    "wof:id":169576531,
+    "wof:lastmodified":1449035195,
+    "wof:name":"Excigen",
+    "wof:parent_id":85930831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [78.458725,17.441931,78.458725,17.441931],
+  "geometry": {"coordinates":[78.458725,17.441931],"type":"Point"}
+}

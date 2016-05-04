@@ -1,0 +1,63 @@
+{
+  "id": 169536693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.597008,12.910373,77.597008,12.910373",
+    "geom:latitude":12.910373,
+    "geom:longitude":77.597008,
+    "iso:country":"IN",
+    "sg:address":"No. 48, 9th Cross, 3rd Phase, J.p. Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2658 6319",
+    "sg:postcode":"560078",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931061,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gNawWeMX5yNHDKQexAQEk_12.910373_77.597008@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cec37bac65595f725d2d33222c451cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931061,
+            "region_id":85672165,
+            "venue_id":169536693
+        }
+    ],
+    "wof:id":169536693,
+    "wof:lastmodified":1449034656,
+    "wof:name":"Svs Industries",
+    "wof:parent_id":85931061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.597008,12.910373,77.597008,12.910373],
+  "geometry": {"coordinates":[77.597008,12.910373],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169560343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.832695,18.933973,72.832695,18.933973",
+    "geom:latitude":18.933973,
+    "geom:longitude":72.832695,
+    "iso:country":"IN",
+    "sg:address":"Prospect Chambers, 317/21, Dr. D.n. Road, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2204 8881",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "acid"
+    ],
+    "sg:website":"http://www.dmcc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DfI0MQn8Nqfjr78pwwox4_18.933973_72.832695@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6f8cc23afa4d5e08d2d5ace4f0df815e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169560343
+        }
+    ],
+    "wof:id":169560343,
+    "wof:lastmodified":1449035181,
+    "wof:name":"Dharamji Morarji Chemicals Co. Ltd.",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [72.832695,18.933973,72.832695,18.933973],
+  "geometry": {"coordinates":[72.832695,18.933973],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169577959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.35099,22.66576,88.35099,22.66576",
+    "geom:latitude":22.66576,
+    "geom:longitude":88.35099,
+    "iso:country":"IN",
+    "sg:address":"14, G.t. Road, Kheya Ghat, P.o. Uttarpara,",
+    "sg:city":"Hoogly",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 3212 266 318",
+    "sg:postcode":"712258",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904005,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OYtd1ou62pXJ6PiQPTrwE_22.665760_88.350990@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"33c56f9b85a59f522499388139fcd321",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85904005,
+            "region_id":85672219,
+            "venue_id":169577959
+        }
+    ],
+    "wof:id":169577959,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Gripwell",
+    "wof:parent_id":85904005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [88.35099,22.66576,88.35099,22.66576],
+  "geometry": {"coordinates":[88.35099,22.66576],"type":"Point"}
+}

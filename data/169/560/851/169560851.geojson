@@ -1,0 +1,63 @@
+{
+  "id": 169560851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.156105,13.092955,80.156105,13.092955",
+    "geom:latitude":13.092955,
+    "geom:longitude":80.156105,
+    "iso:country":"IN",
+    "sg:address":"69/1, Reddy Street, Ambattur Industrial Estate,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2625 8710",
+    "sg:postcode":"600058",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.dynamicgaskets.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rhnPpUd5kV3v5s0Rj0pIu_13.092955_80.156105@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"784e5218776b5e2e11f32d03d716c66e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169560851
+        }
+    ],
+    "wof:id":169560851,
+    "wof:lastmodified":1449035181,
+    "wof:name":"Dynamic Gaskets Private Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [80.156105,13.092955,80.156105,13.092955],
+  "geometry": {"coordinates":[80.156105,13.092955],"type":"Point"}
+}

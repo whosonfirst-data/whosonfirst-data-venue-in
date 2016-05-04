@@ -1,0 +1,70 @@
+{
+  "id": 169526323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.868813,19.046179,72.868813,19.046179",
+    "geom:latitude":19.046179,
+    "geom:longitude":72.868813,
+    "iso:country":"IN",
+    "sg:address":"205, Nirmal Industrial Estate, Plot No.109-c, Sion(e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2407 6415",
+    "sg:postcode":"400022",
+    "sg:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ],
+    "sg:website":"http://www.welworthindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903847,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jrPs4fXt8rI4pDtOn7D6c_19.046179_72.868813@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2180038c525950f8a898e41356178a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903847,
+            "region_id":85672171,
+            "venue_id":169526323
+        }
+    ],
+    "wof:id":169526323,
+    "wof:lastmodified":1449033699,
+    "wof:name":"Wel Worth Industries (india)",
+    "wof:parent_id":85903847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ]
+},
+  "bbox": [72.868813,19.046179,72.868813,19.046179],
+  "geometry": {"coordinates":[72.868813,19.046179],"type":"Point"}
+}

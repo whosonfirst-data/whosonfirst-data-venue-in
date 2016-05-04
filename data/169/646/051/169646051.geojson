@@ -1,0 +1,62 @@
+{
+  "id": 169646051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.455299,17.469885,78.455299,17.469885",
+    "geom:latitude":17.469885,
+    "geom:longitude":78.455299,
+    "iso:country":"IN",
+    "sg:address":"Unit No. 8, Balanagar, 3,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2307 6255",
+    "sg:postcode":"500037",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AXktAnxp98eHvSubuSEsw_17.469885_78.455299@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"30e166ac5973d0414ad3e96b10af0f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169646051
+        }
+    ],
+    "wof:id":169646051,
+    "wof:lastmodified":1449032607,
+    "wof:name":"Vruddhi Industrial Gases",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [78.455299,17.469885,78.455299,17.469885],
+  "geometry": {"coordinates":[78.455299,17.469885],"type":"Point"}
+}

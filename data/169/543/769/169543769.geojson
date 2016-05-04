@@ -1,0 +1,64 @@
+{
+  "id": 169543769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.585876,12.913976,77.585876,12.913976",
+    "geom:latitude":12.913976,
+    "geom:longitude":77.585876,
+    "iso:country":"IN",
+    "sg:address":"No.- 86, 2nd Cross, 24th Main, J.p. Nagar, 2nd Phase,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2659 6469",
+    "sg:postcode":"560078",
+    "sg:tags":[
+        "transformer"
+    ],
+    "sg:website":"http://www.servomax.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931065,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x4AMXxeZH9WKBHAfdRFuF_12.913976_77.585876@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8416194ba6df37737f6adf973dbcae27",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931065,
+            "region_id":85672165,
+            "venue_id":169543769
+        }
+    ],
+    "wof:id":169543769,
+    "wof:lastmodified":1449033334,
+    "wof:name":"Servomax India Ltd.",
+    "wof:parent_id":85931065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transformer"
+    ]
+},
+  "bbox": [77.585876,12.913976,77.585876,12.913976],
+  "geometry": {"coordinates":[77.585876,12.913976],"type":"Point"}
+}

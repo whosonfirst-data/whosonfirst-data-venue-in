@@ -1,0 +1,63 @@
+{
+  "id": 169529735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.926804,19.11108,72.926804,19.11108",
+    "geom:latitude":19.11108,
+    "geom:longitude":72.926804,
+    "iso:country":"IN",
+    "sg:address":"A-2003, Station Plaza, Station Road, Bhandup (w.),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5597 5473",
+    "sg:postcode":"400078",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931627,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T2MhBgkNKTAFI0BS9QMp8_19.111080_72.926804@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4f1d85d1debd1b12f09fbb79d5e22805",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931627,
+            "region_id":85672171,
+            "venue_id":169529735
+        }
+    ],
+    "wof:id":169529735,
+    "wof:lastmodified":1449034115,
+    "wof:name":"Svis Ar-o-chem",
+    "wof:parent_id":85931627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.926804,19.11108,72.926804,19.11108],
+  "geometry": {"coordinates":[72.926804,19.11108],"type":"Point"}
+}

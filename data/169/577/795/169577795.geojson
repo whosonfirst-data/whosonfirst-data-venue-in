@@ -1,0 +1,67 @@
+{
+  "id": 169577795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.169846,13.093922,80.169846,13.093922",
+    "geom:latitude":13.093922,
+    "geom:longitude":80.169846,
+    "iso:country":"IN",
+    "sg:address":"#86e/2a, Ambattur Industrial Estate,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 4218 0894",
+    "sg:postcode":"600058",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "sg:website":"http://www.indiamart.com/plasto-kote",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t06MlxxY0KnglHS3T3tyo_13.093922_80.169846@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"99c5f0f25ac650d70c5b2e7009352bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169577795
+        }
+    ],
+    "wof:id":169577795,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Goodrite Products",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [80.169846,13.093922,80.169846,13.093922],
+  "geometry": {"coordinates":[80.169846,13.093922],"type":"Point"}
+}

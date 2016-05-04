@@ -1,0 +1,54 @@
+{
+  "id": 169572701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.827545,18.93989,72.827545,18.93989",
+    "geom:latitude":18.93989,
+    "geom:longitude":72.827545,
+    "iso:country":"IN",
+    "sg:address":"New Marine Lines",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2205 6093",
+    "sg:postcode":"400020",
+    "sg:province":"Maharashtra",
+    "sg:website":"http://www.yarnsyndicate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903879,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zFNkqNSw0eYUUauTAnuOG_18.939890_72.827545@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1fa34fa21aa9a4c4e1bae3b5c43da6bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903879,
+            "region_id":85672171,
+            "venue_id":169572701
+        }
+    ],
+    "wof:id":169572701,
+    "wof:lastmodified":1449034706,
+    "wof:name":"Yarn Syndicate Ltd",
+    "wof:parent_id":85903879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.827545,18.93989,72.827545,18.93989],
+  "geometry": {"coordinates":[72.827545,18.93989],"type":"Point"}
+}

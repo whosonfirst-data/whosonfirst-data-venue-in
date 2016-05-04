@@ -1,0 +1,66 @@
+{
+  "id": 169537963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.539658,12.976842,77.539658,12.976842",
+    "geom:latitude":12.976842,
+    "geom:longitude":77.539658,
+    "iso:country":"IN",
+    "sg:address":"1, 14th 'c' Cross, Agrahara, Dasarahalli,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2350 6540",
+    "sg:postcode":"560079",
+    "sg:tags":[
+        "component",
+        "pressed"
+    ],
+    "sg:website":"http://www.tejaswiengineering.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PuIa9Kb6KahQAi83Bo8LM_12.976842_77.539658@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"62a35df22ad2943e2104fd1a1fb91e68",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169537963
+        }
+    ],
+    "wof:id":169537963,
+    "wof:lastmodified":1449033495,
+    "wof:name":"Tejaswi Engineering Services",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "pressed"
+    ]
+},
+  "bbox": [77.539658,12.976842,77.539658,12.976842],
+  "geometry": {"coordinates":[77.539658,12.976842],"type":"Point"}
+}

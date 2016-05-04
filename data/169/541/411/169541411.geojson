@@ -1,0 +1,64 @@
+{
+  "id": 169541411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.567696,12.94817,77.567696,12.94817",
+    "geom:latitude":12.94817,
+    "geom:longitude":77.567696,
+    "iso:country":"IN",
+    "sg:address":"#40/1, 2nd Floor, Bull Temple Road, Basavanagudi,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4155 4246",
+    "sg:postcode":"560004",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"http://www.animisha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930849,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pCiuZdEdblnB2iM0a65zN_12.948170_77.567696@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a262f87932c52e345c0867a1e8ddf1f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930849,
+            "region_id":85672165,
+            "venue_id":169541411
+        }
+    ],
+    "wof:id":169541411,
+    "wof:lastmodified":1449033040,
+    "wof:name":"Animisha Technologies",
+    "wof:parent_id":85930849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.567696,12.94817,77.567696,12.94817],
+  "geometry": {"coordinates":[77.567696,12.94817],"type":"Point"}
+}

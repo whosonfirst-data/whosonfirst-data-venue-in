@@ -1,0 +1,63 @@
+{
+  "id": 169642933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.355385,22.569399,88.355385,22.569399",
+    "geom:latitude":22.569399,
+    "geom:longitude":88.355385,
+    "iso:country":"IN",
+    "sg:address":"27, Weston Street, Suite No. 216,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2211 9007",
+    "sg:postcode":"700012",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931969,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LvvsAOp263o4lu92BAwa3_22.569399_88.355385@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3c3c033f97e87ef634f1e1ed8c1961c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931969,
+            "region_id":85672219,
+            "venue_id":169642933
+        }
+    ],
+    "wof:id":169642933,
+    "wof:lastmodified":1449032877,
+    "wof:name":"Victor Sales Corporation",
+    "wof:parent_id":85931969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.355385,22.569399,88.355385,22.569399],
+  "geometry": {"coordinates":[88.355385,22.569399],"type":"Point"}
+}

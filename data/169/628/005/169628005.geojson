@@ -1,0 +1,64 @@
+{
+  "id": 169628005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.463478,17.370945,78.463478,17.370945",
+    "geom:latitude":17.370945,
+    "geom:longitude":78.463478,
+    "iso:country":"IN",
+    "sg:address":"14/8, 576, Chudi Bazar, Begum Bazar,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2461 3336",
+    "sg:postcode":"500012",
+    "sg:tags":[
+        "acid"
+    ],
+    "sg:website":"http://www.rathiimpex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930797,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vixIhkqgSEFlIVQPmlUqd_17.370945_78.463478@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5d386ca09e1b6dd9c790efe65f49024d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930797,
+            "region_id":85672141,
+            "venue_id":169628005
+        }
+    ],
+    "wof:id":169628005,
+    "wof:lastmodified":1449035334,
+    "wof:name":"Sri Ram Marketing",
+    "wof:parent_id":85930797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [78.463478,17.370945,78.463478,17.370945],
+  "geometry": {"coordinates":[78.463478,17.370945],"type":"Point"}
+}

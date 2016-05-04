@@ -1,0 +1,64 @@
+{
+  "id": 169549941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.131721,28.607563,77.131721,28.607563",
+    "geom:latitude":28.607563,
+    "geom:longitude":77.131721,
+    "iso:country":"IN",
+    "sg:address":"Plot No-90/a, Opp. Town Hall, Hospital Road,",
+    "sg:city":"Ulhasnagar",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 251 325 8787",
+    "sg:postcode":"421003",
+    "sg:tags":[
+        "hospital",
+        "diagnostic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DWGJspDXWBEnt1gdeOimd_28.607563_77.131721@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2f81042e5c11b4b74a16a07b6d68773b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169549941
+        }
+    ],
+    "wof:id":169549941,
+    "wof:lastmodified":1449033592,
+    "wof:name":"Sanjeevani Surgico",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "diagnostic"
+    ]
+},
+  "bbox": [77.131721,28.607563,77.131721,28.607563],
+  "geometry": {"coordinates":[77.131721,28.607563],"type":"Point"}
+}

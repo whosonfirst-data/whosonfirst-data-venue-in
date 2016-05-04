@@ -1,0 +1,62 @@
+{
+  "id": 169606995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.109291,28.71048,77.109291,28.71048",
+    "geom:latitude":28.71048,
+    "geom:longitude":77.109291,
+    "iso:country":"IN",
+    "sg:address":"A-1/291, Sector-6, Rohini,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 6515 3891",
+    "sg:postcode":"110085",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MmbU8J1rah0xz07Tcknpo_28.710480_77.109291@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ae27874351ab98e28f2a476a4479b288",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169606995
+        }
+    ],
+    "wof:id":169606995,
+    "wof:lastmodified":1449033202,
+    "wof:name":"R.v.s. Traders",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.109291,28.71048,77.109291,28.71048],
+  "geometry": {"coordinates":[77.109291,28.71048],"type":"Point"}
+}

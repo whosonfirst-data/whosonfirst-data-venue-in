@@ -1,0 +1,64 @@
+{
+  "id": 169586113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.255707,28.524549,77.255707,28.524549",
+    "geom:latitude":28.524549,
+    "geom:longitude":77.255707,
+    "iso:country":"IN",
+    "sg:address":"N-35, Tara Apartments, Alaknanda,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2262 0128",
+    "sg:postcode":"110019",
+    "sg:tags":[
+        "agrochemicals"
+    ],
+    "sg:website":"http://www.mahamayalifesciences.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927969,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bnaBoZtB64q07BXikLcCa_28.524549_77.255707@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"17429f3cc61237b03e8fe65cdee56537",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85927969,
+            "region_id":85672123,
+            "venue_id":169586113
+        }
+    ],
+    "wof:id":169586113,
+    "wof:lastmodified":1449035576,
+    "wof:name":"Mahamaya Life Sceinces P. Ltd.",
+    "wof:parent_id":85927969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agrochemicals"
+    ]
+},
+  "bbox": [77.255707,28.524549,77.255707,28.524549],
+  "geometry": {"coordinates":[77.255707,28.524549],"type":"Point"}
+}

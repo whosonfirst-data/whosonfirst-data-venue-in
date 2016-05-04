@@ -1,0 +1,63 @@
+{
+  "id": 169619585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.134773,28.630911,77.134773,28.630911",
+    "geom:latitude":28.630911,
+    "geom:longitude":77.134773,
+    "iso:country":"IN",
+    "sg:address":"X-55/101, Loha Mandi, Naraina Industrial Area,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 6572 3535",
+    "sg:postcode":"110028",
+    "sg:tags":[
+        "dye"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927871,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YYu6XqUVsocryjI48bZNF_28.630911_77.134773@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d6b54b66770b1718b9c5340d71a3342d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927871,
+            "region_id":85672123,
+            "venue_id":169619585
+        }
+    ],
+    "wof:id":169619585,
+    "wof:lastmodified":1449033281,
+    "wof:name":"Shine Traders",
+    "wof:parent_id":85927871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye"
+    ]
+},
+  "bbox": [77.134773,28.630911,77.134773,28.630911],
+  "geometry": {"coordinates":[77.134773,28.630911],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169539819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.606613,12.970022,77.606613,12.970022",
+    "geom:latitude":12.970022,
+    "geom:longitude":77.606613,
+    "iso:country":"IN",
+    "sg:address":"#77, 2nd Floor, Brigade Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2557 3582",
+    "sg:postcode":"560025",
+    "sg:tags":[
+        "semiconductor"
+    ],
+    "sg:website":"exceleltechindia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930841,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VevskQFjtzIOnyVF4DGEA_12.970022_77.606613@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"243819bc80a8f4ab3237dac71fe22fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930841,
+            "region_id":85672165,
+            "venue_id":169539819
+        }
+    ],
+    "wof:id":169539819,
+    "wof:lastmodified":1449036037,
+    "wof:name":"Excel Eltech India",
+    "wof:parent_id":85930841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "semiconductor"
+    ]
+},
+  "bbox": [77.606613,12.970022,77.606613,12.970022],
+  "geometry": {"coordinates":[77.606613,12.970022],"type":"Point"}
+}

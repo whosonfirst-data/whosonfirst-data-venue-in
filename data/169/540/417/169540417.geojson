@@ -1,0 +1,63 @@
+{
+  "id": 169540417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.612953,12.983341,77.612953,12.983341",
+    "geom:latitude":12.983341,
+    "geom:longitude":77.612953,
+    "iso:country":"IN",
+    "sg:address":"402, Shree Complex, St. Johns Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2557 0391",
+    "sg:postcode":"560042",
+    "sg:tags":[
+        "silicon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930871,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jFZuZ3oW2kigygeksugvT_12.983341_77.612953@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5a61fa9e0c24b869dbac446da5f7ec98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930871,
+            "region_id":85672165,
+            "venue_id":169540417
+        }
+    ],
+    "wof:id":169540417,
+    "wof:lastmodified":1449033976,
+    "wof:name":"Usha Minechem Industries",
+    "wof:parent_id":85930871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silicon"
+    ]
+},
+  "bbox": [77.612953,12.983341,77.612953,12.983341],
+  "geometry": {"coordinates":[77.612953,12.983341],"type":"Point"}
+}

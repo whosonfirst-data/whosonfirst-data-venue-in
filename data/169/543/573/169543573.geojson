@@ -1,0 +1,65 @@
+{
+  "id": 169543573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.561142,13.036857,77.561142,13.036857",
+    "geom:latitude":13.036857,
+    "geom:longitude":77.561142,
+    "iso:country":"IN",
+    "sg:address":"4/1, M.s.r. Industrial Estate, Mathikere,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4127 5875",
+    "sg:postcode":"560054",
+    "sg:tags":[
+        "tin",
+        "container"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930923,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0T97natJJ5nS5h5b48eau8_13.036857_77.561142@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8a7b3aa821f77c533780a33e951939da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930923,
+            "region_id":85672165,
+            "venue_id":169543573
+        }
+    ],
+    "wof:id":169543573,
+    "wof:lastmodified":1449033336,
+    "wof:name":"Gold Shine Industries",
+    "wof:parent_id":85930923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tin",
+        "container"
+    ]
+},
+  "bbox": [77.561142,13.036857,77.561142,13.036857],
+  "geometry": {"coordinates":[77.561142,13.036857],"type":"Point"}
+}

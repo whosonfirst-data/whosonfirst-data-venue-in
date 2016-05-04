@@ -1,0 +1,63 @@
+{
+  "id": 169638415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.152199,13.098466,80.152199,13.098466",
+    "geom:latitude":13.098466,
+    "geom:longitude":80.152199,
+    "iso:country":"IN",
+    "sg:address":"No. 556, Vanagaram Road, Ambattur,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2625 8251",
+    "sg:postcode":"600053",
+    "sg:tags":[
+        "pigment"
+    ],
+    "sg:website":"http://www.ultramarinepigments.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XCSsueT7wnpyiieI3OcpO_13.098466_80.152199@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d183e5c383e7b9a0dd93975e683e8397",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169638415
+        }
+    ],
+    "wof:id":169638415,
+    "wof:lastmodified":1449032869,
+    "wof:name":"Ultramarine & Pigments Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [80.152199,13.098466,80.152199,13.098466],
+  "geometry": {"coordinates":[80.152199,13.098466],"type":"Point"}
+}

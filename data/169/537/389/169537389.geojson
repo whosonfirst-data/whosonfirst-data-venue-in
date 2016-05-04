@@ -1,0 +1,71 @@
+{
+  "id": 169537389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.709404,12.982682,77.709404,12.982682",
+    "geom:latitude":12.982682,
+    "geom:longitude":77.709404,
+    "iso:country":"IN",
+    "sg:address":"7-c, Doddanakundi Industrial Area,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2852 4002",
+    "sg:postcode":"560048",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931165,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2azP5bOPS4xE8uImADaHqM_12.982682_77.709404@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8b5c9ae11aeddbd49ee50518aece92df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931165,
+            "region_id":85672165,
+            "venue_id":169537389
+        }
+    ],
+    "wof:id":169537389,
+    "wof:lastmodified":1449033501,
+    "wof:name":"Polynex",
+    "wof:parent_id":85931165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.709404,12.982682,77.709404,12.982682],
+  "geometry": {"coordinates":[77.709404,12.982682],"type":"Point"}
+}

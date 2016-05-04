@@ -1,0 +1,68 @@
+{
+  "id": 169610075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.310905,28.639425,77.310905,28.639425",
+    "geom:latitude":28.639425,
+    "geom:longitude":77.310905,
+    "iso:country":"IN",
+    "sg:address":"B-7, Patparganj Industrial Area,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 112214111115",
+    "sg:postcode":"110092",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "sg:website":"http://www.reddylimited.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928351,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GVThOUAE487Eqe29YGp7e_28.639425_77.310905@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"09a20b8d02caeaec5190ad75e155742e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928351,
+            "region_id":85672123,
+            "venue_id":169610075
+        }
+    ],
+    "wof:id":169610075,
+    "wof:lastmodified":1449035909,
+    "wof:name":"Reddy Pharmaceutical Limited",
+    "wof:parent_id":85928351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [77.310905,28.639425,77.310905,28.639425],
+  "geometry": {"coordinates":[77.310905,28.639425],"type":"Point"}
+}

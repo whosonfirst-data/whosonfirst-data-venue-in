@@ -1,0 +1,65 @@
+{
+  "id": 169544341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.628456,12.906845,77.628456,12.906845",
+    "geom:latitude":12.906845,
+    "geom:longitude":77.628456,
+    "iso:country":"IN",
+    "sg:address":"26/2, Begur Road, Hongasndra,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2572 2230",
+    "sg:postcode":"560068",
+    "sg:tags":[
+        "voltage",
+        "stabilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930853,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dattJTDuEXfChxIMpS1yg_12.906845_77.628456@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3efa5395fd15bacca660f6cdd9ebd163",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930853,
+            "region_id":85672165,
+            "venue_id":169544341
+        }
+    ],
+    "wof:id":169544341,
+    "wof:lastmodified":1449035965,
+    "wof:name":"Adithya Trading Corporation",
+    "wof:parent_id":85930853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "voltage",
+        "stabilizer"
+    ]
+},
+  "bbox": [77.628456,12.906845,77.628456,12.906845],
+  "geometry": {"coordinates":[77.628456,12.906845],"type":"Point"}
+}

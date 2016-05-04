@@ -1,0 +1,67 @@
+{
+  "id": 169527731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.874779,19.199841,72.874779,19.199841",
+    "geom:latitude":19.199841,
+    "geom:longitude":72.874779,
+    "iso:country":"IN",
+    "sg:address":"201/b, Senate, Lokhandwala Complex, Kandivli (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6598 5114",
+    "sg:postcode":"400101",
+    "sg:tags":[
+        "spare",
+        "component",
+        "boilers"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931529,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36pvKP2tbmyyMEwrZ354V9_19.199841_72.874779@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bee0d23e7123174b0aa95d210cee7196",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931529,
+            "region_id":85672171,
+            "venue_id":169527731
+        }
+    ],
+    "wof:id":169527731,
+    "wof:lastmodified":1449035279,
+    "wof:name":"R. P. Enterprises",
+    "wof:parent_id":85931529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "component",
+        "boilers"
+    ]
+},
+  "bbox": [72.874779,19.199841,72.874779,19.199841],
+  "geometry": {"coordinates":[72.874779,19.199841],"type":"Point"}
+}

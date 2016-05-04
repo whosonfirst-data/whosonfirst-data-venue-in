@@ -1,0 +1,63 @@
+{
+  "id": 169560501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.587158,12.959534,77.587158,12.959534",
+    "geom:latitude":12.959534,
+    "geom:longitude":77.587158,
+    "iso:country":"IN",
+    "sg:address":"#43, K. S. Gardens, Lal Bagh, 4th Cross Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2223 8246",
+    "sg:postcode":"560027",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mBqKuTZ1ZQpS0IsEkM586_12.959534_77.587158@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bead84bdf101d2a66558fbf479ef4087",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169560501
+        }
+    ],
+    "wof:id":169560501,
+    "wof:lastmodified":1449035182,
+    "wof:name":"Dhruv Chemicals",
+    "wof:parent_id":85930903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.587158,12.959534,77.587158,12.959534],
+  "geometry": {"coordinates":[77.587158,12.959534],"type":"Point"}
+}

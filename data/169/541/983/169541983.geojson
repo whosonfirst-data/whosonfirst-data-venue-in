@@ -1,0 +1,65 @@
+{
+  "id": 169541983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.685104,12.816192,77.685104,12.816192",
+    "geom:latitude":12.816192,
+    "geom:longitude":77.685104,
+    "iso:country":"IN",
+    "sg:address":"# 32-b, Bommasandra Industrial Area,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2783 2110",
+    "sg:postcode":"562158",
+    "sg:tags":[
+        "spring",
+        "coil"
+    ],
+    "sg:website":"http://www.bangcoil.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oRsXO8iyJL6TdGchqMEwy_12.816192_77.685104@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5b167f5a67fc97e786cae6652728c233",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169541983
+        }
+    ],
+    "wof:id":169541983,
+    "wof:lastmodified":1449033044,
+    "wof:name":"Bangalore Coil Manufacturing Co.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spring",
+        "coil"
+    ]
+},
+  "bbox": [77.685104,12.816192,77.685104,12.816192],
+  "geometry": {"coordinates":[77.685104,12.816192],"type":"Point"}
+}

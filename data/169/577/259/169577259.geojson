@@ -1,0 +1,64 @@
+{
+  "id": 169577259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.71489,30.73423,76.71489,30.73423",
+    "geom:latitude":30.73423,
+    "geom:longitude":76.71489,
+    "iso:country":"IN",
+    "sg:address":"59-a, Sector-57,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 432 3330",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "resin"
+    ],
+    "sg:website":"http://www.gbiosciences.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927777,
+        85632469,
+        102031103,
+        85672119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MUuNueEzGbWYRbd5zlfL1_30.734230_76.714890@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e2309778deed76b22d55cd375fb5c9f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031103,
+            "neighbourhood_id":85927777,
+            "region_id":85672119,
+            "venue_id":169577259
+        }
+    ],
+    "wof:id":169577259,
+    "wof:lastmodified":1449036064,
+    "wof:name":"Geno Biosciences",
+    "wof:parent_id":85927777,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [76.71489,30.73423,76.71489,30.73423],
+  "geometry": {"coordinates":[76.71489,30.73423],"type":"Point"}
+}

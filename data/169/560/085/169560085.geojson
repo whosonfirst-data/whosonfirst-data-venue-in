@@ -1,0 +1,64 @@
+{
+  "id": 169560085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.213211,28.5441,77.213211,28.5441",
+    "geom:latitude":28.5441,
+    "geom:longitude":77.213211,
+    "iso:country":"IN",
+    "sg:address":"S-1, Panchshila Park,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2601 5120",
+    "sg:postcode":"110017",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.deepakgroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928665,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r0VbOzbOtCLxAp0Aj9DVV_28.544100_77.213211@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b2e21f5b6986eced452a1695f1faf364",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928665,
+            "region_id":85672123,
+            "venue_id":169560085
+        }
+    ],
+    "wof:id":169560085,
+    "wof:lastmodified":1449035178,
+    "wof:name":"Deepak Fertilisers & Petrochemicals Corp. Ltd.",
+    "wof:parent_id":85928665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.213211,28.5441,77.213211,28.5441],
+  "geometry": {"coordinates":[77.213211,28.5441],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169539899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.54306,12.975243,77.54306,12.975243",
+    "geom:latitude":12.975243,
+    "geom:longitude":77.54306,
+    "iso:country":"IN",
+    "sg:address":"No. 115, 6th Cross, Saraswathinagar, Vijaynagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Light Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2335 8289",
+    "sg:postcode":"560040",
+    "sg:tags":[
+        "sensor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uexptdferdxVUQS8slO9b_12.975243_77.543060@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7638e96362d5f398d84a437957573236",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169539899
+        }
+    ],
+    "wof:id":169539899,
+    "wof:lastmodified":1449036039,
+    "wof:name":"Pentagon Systems & Automation",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sensor"
+    ]
+},
+  "bbox": [77.54306,12.975243,77.54306,12.975243],
+  "geometry": {"coordinates":[77.54306,12.975243],"type":"Point"}
+}

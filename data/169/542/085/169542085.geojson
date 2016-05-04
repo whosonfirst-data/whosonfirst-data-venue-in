@@ -1,0 +1,59 @@
+{
+  "id": 169542085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.571068,12.969995,77.571068,12.969995",
+    "geom:latitude":12.969995,
+    "geom:longitude":77.571068,
+    "iso:country":"IN",
+    "sg:address":"P.b.no. 7937, 51, S.m.lane, Akkipet,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2670 1974",
+    "sg:postcode":"560053",
+    "sg:website":"http://www.esveestationers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42nSXjyBYuez0GjZfxtuR6_12.969995_77.571068@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4447f9a387a98bade738450c6c26d634",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169542085
+        }
+    ],
+    "wof:id":169542085,
+    "wof:lastmodified":1449035220,
+    "wof:name":"Esvee Stationers",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.571068,12.969995,77.571068,12.969995],
+  "geometry": {"coordinates":[77.571068,12.969995],"type":"Point"}
+}

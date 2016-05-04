@@ -1,0 +1,54 @@
+{
+  "id": 169561367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.586052,12.980666,77.586052,12.980666",
+    "geom:latitude":12.980666,
+    "geom:longitude":77.586052,
+    "iso:country":"IN",
+    "sg:address":"Palace Road",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 802200995",
+    "sg:postcode":"560052",
+    "sg:province":"Karnataka",
+    "sg:website":"http://www.csmsoftware.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930877,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7COZs73BdHsa0F3Y02rQXP_12.980666_77.586052@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"24283c123f19b76f9057941e65aebf51",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930877,
+            "region_id":85672165,
+            "venue_id":169561367
+        }
+    ],
+    "wof:id":169561367,
+    "wof:lastmodified":1449035020,
+    "wof:name":"Csm Software",
+    "wof:parent_id":85930877,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.586052,12.980666,77.586052,12.980666],
+  "geometry": {"coordinates":[77.586052,12.980666],"type":"Point"}
+}

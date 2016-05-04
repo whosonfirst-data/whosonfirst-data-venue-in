@@ -1,0 +1,64 @@
+{
+  "id": 169606577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.229439,28.650167,77.229439,28.650167",
+    "geom:latitude":28.650167,
+    "geom:longitude":77.229439,
+    "iso:country":"IN",
+    "sg:address":"352, 1st Floor, Main Road, Chawri Bazar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2327 2719",
+    "sg:postcode":"110006",
+    "sg:tags":[
+        "polymer"
+    ],
+    "sg:website":"http://www.rrdistributors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928095,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HfWdNq1mW1h9uhxqozfcc_28.650167_77.229439@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c0839bf94a5fc3d6f8b974348608bc77",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928095,
+            "region_id":85672123,
+            "venue_id":169606577
+        }
+    ],
+    "wof:id":169606577,
+    "wof:lastmodified":1449033204,
+    "wof:name":"R.r. Distributors Pvt. Ltd.",
+    "wof:parent_id":85928095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [77.229439,28.650167,77.229439,28.650167],
+  "geometry": {"coordinates":[77.229439,28.650167],"type":"Point"}
+}

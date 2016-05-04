@@ -1,0 +1,62 @@
+{
+  "id": 169558759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.154411,21.763212,72.154411,21.763212",
+    "geom:latitude":21.763212,
+    "geom:longitude":72.154411,
+    "iso:country":"IN",
+    "sg:address":"1517, Ghogha Circle,",
+    "sg:city":"Bhavnagar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 278 243 7891",
+    "sg:postcode":"364001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030703,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sQ9FIa9lI1CSY2FFIeb2l_21.763212_72.154411@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3ba21faa43e2181ea835b2c1595cf4c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030703,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169558759
+        }
+    ],
+    "wof:id":169558759,
+    "wof:lastmodified":1449033582,
+    "wof:name":"C G Chemicals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.154411,21.763212,72.154411,21.763212],
+  "geometry": {"coordinates":[72.154411,21.763212],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169549107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.690086,24.591101,73.690086,24.591101",
+    "geom:latitude":24.591101,
+    "geom:longitude":73.690086,
+    "iso:country":"IN",
+    "sg:address":"151, Chetak Marg,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 252 3493",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "handicraft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934019,
+        85632469,
+        102028377,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3is9aR52zlPHOrWxIIvA18_24.591101_73.690086@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5fcba82417ded544c7f35bc407a28138",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028377,
+            "neighbourhood_id":85934019,
+            "region_id":85672201,
+            "venue_id":169549107
+        }
+    ],
+    "wof:id":169549107,
+    "wof:lastmodified":1449033591,
+    "wof:name":"Artistic Craftsm An",
+    "wof:parent_id":85934019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handicraft"
+    ]
+},
+  "bbox": [73.690086,24.591101,73.690086,24.591101],
+  "geometry": {"coordinates":[73.690086,24.591101],"type":"Point"}
+}

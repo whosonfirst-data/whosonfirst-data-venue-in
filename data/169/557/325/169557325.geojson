@@ -1,0 +1,54 @@
+{
+  "id": 169557325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.226662,28.628914,77.226662,28.628914",
+    "geom:latitude":28.628914,
+    "geom:longitude":77.226662,
+    "iso:country":"IN",
+    "sg:address":"Barakhamba Road",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2331 4420",
+    "sg:postcode":"110001",
+    "sg:province":"Delhi",
+    "sg:website":"http://www.indoswe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903833,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dF3x1pBhi1VP04xSSpVaD_28.628914_77.226662@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7b45f6c8a22baeb0250d7013f7a291e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903833,
+            "region_id":85672123,
+            "venue_id":169557325
+        }
+    ],
+    "wof:id":169557325,
+    "wof:lastmodified":1449035036,
+    "wof:name":"Indoswe Engineers Ltd",
+    "wof:parent_id":85903833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.226662,28.628914,77.226662,28.628914],
+  "geometry": {"coordinates":[77.226662,28.628914],"type":"Point"}
+}

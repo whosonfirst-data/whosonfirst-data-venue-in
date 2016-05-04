@@ -1,0 +1,53 @@
+{
+  "id": 169566899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.600624,12.943469,77.600624,12.943469",
+    "geom:latitude":12.943469,
+    "geom:longitude":77.600624,
+    "iso:country":"IN",
+    "sg:address":"Wilson Garden",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 802270628",
+    "sg:postcode":"560027",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930939,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33su3MNm8hrBkPBwd7XfWL_12.943469_77.600624@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"023e95e53188c4ff3c761dd4e5275a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930939,
+            "region_id":85672165,
+            "venue_id":169566899
+        }
+    ],
+    "wof:id":169566899,
+    "wof:lastmodified":1449032755,
+    "wof:name":"Bagla Exports Pvt Ltd",
+    "wof:parent_id":85930939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.600624,12.943469,77.600624,12.943469],
+  "geometry": {"coordinates":[77.600624,12.943469],"type":"Point"}
+}

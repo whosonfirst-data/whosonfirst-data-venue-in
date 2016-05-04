@@ -1,0 +1,63 @@
+{
+  "id": 169547919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.239395,13.035039,80.239395,13.035039",
+    "geom:latitude":13.035039,
+    "geom:longitude":80.239395,
+    "iso:country":"IN",
+    "sg:address":"27, B.t.r Nagar,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"City Walls",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 225 7490",
+    "sg:postcode":"641652",
+    "sg:tags":[
+        "woven"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903981,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lMPxjzl7hbLfo2m2mZFMI_13.035039_80.239395@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e531b47b5897045be201ae1a7359819f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903981,
+            "region_id":85672245,
+            "venue_id":169547919
+        }
+    ],
+    "wof:id":169547919,
+    "wof:lastmodified":1449033008,
+    "wof:name":"Pream Textiles",
+    "wof:parent_id":85903981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woven"
+    ]
+},
+  "bbox": [80.239395,13.035039,80.239395,13.035039],
+  "geometry": {"coordinates":[80.239395,13.035039],"type":"Point"}
+}

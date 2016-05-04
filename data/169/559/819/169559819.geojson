@@ -1,0 +1,63 @@
+{
+  "id": 169559819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.122665,28.649046,77.122665,28.649046",
+    "geom:latitude":28.649046,
+    "geom:longitude":77.122665,
+    "iso:country":"IN",
+    "sg:address":"21-c, Dda Flat, Rajouri Garden,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2631 8318",
+    "sg:postcode":"110021",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927915,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PY5OrgpT6puSGlhbnEKoc_28.649046_77.122665@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6952a592eaefb0c31e128bb58127fc0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85927915,
+            "region_id":85672123,
+            "venue_id":169559819
+        }
+    ],
+    "wof:id":169559819,
+    "wof:lastmodified":1449035236,
+    "wof:name":"Cruz Biotech",
+    "wof:parent_id":85927915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.122665,28.649046,77.122665,28.649046],
+  "geometry": {"coordinates":[77.122665,28.649046],"type":"Point"}
+}

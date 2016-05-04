@@ -1,0 +1,63 @@
+{
+  "id": 169637665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.598831,23.029278,72.598831,23.029278",
+    "geom:latitude":23.029278,
+    "geom:longitude":72.598831,
+    "iso:country":"IN",
+    "sg:address":"14/a, Maskati Market, Kalupur,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 2217 3788",
+    "sg:postcode":"380002",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928703,
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65l82m0ZcxhZOAIPlVLJQ2_23.029278_72.598831@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"de6c41b11423e3b84d5436deb7177555",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":85928703,
+            "region_id":85672249,
+            "venue_id":169637665
+        }
+    ],
+    "wof:id":169637665,
+    "wof:lastmodified":1449032686,
+    "wof:name":"Tushar Enterprise",
+    "wof:parent_id":85928703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.598831,23.029278,72.598831,23.029278],
+  "geometry": {"coordinates":[72.598831,23.029278],"type":"Point"}
+}

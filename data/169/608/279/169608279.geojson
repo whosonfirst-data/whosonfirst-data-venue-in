@@ -1,0 +1,62 @@
+{
+  "id": 169608279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.803749,18.618679,73.803749,18.618679",
+    "geom:latitude":18.618679,
+    "geom:longitude":73.803749,
+    "iso:country":"IN",
+    "sg:address":"Bhoir Colony, Opp. Tata Motors, Chinchwad,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 5630 7237",
+    "sg:tags":[
+        "chemicals-additives"
+    ],
+    "sg:website":"http://www.rajchem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pP7kf7jdZWhj3LAoSWjon_18.618679_73.803749@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5752b4b4b4d81145a4c14173eaef5eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169608279
+        }
+    ],
+    "wof:id":169608279,
+    "wof:lastmodified":1449034084,
+    "wof:name":"Rajlakshmi Chemical Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemicals-additives"
+    ]
+},
+  "bbox": [73.803749,18.618679,73.803749,18.618679],
+  "geometry": {"coordinates":[73.803749,18.618679],"type":"Point"}
+}

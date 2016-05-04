@@ -1,0 +1,62 @@
+{
+  "id": 169546953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.352158,11.097493,77.352158,11.097493",
+    "geom:latitude":11.097493,
+    "geom:longitude":77.352158,
+    "iso:country":"IN",
+    "sg:address":"No. 394, Dharapuram Road,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 242 9345",
+    "sg:postcode":"641604",
+    "sg:tags":[
+        "made-ups"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028425,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Tkkx74v3uOLDHumV73Zg3_11.097493_77.352158@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"05fde82ca6ea438abf6ca9c00a834499",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028425,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169546953
+        }
+    ],
+    "wof:id":169546953,
+    "wof:lastmodified":1449032679,
+    "wof:name":"Reliance Dyeing Works",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "made-ups"
+    ]
+},
+  "bbox": [77.352158,11.097493,77.352158,11.097493],
+  "geometry": {"coordinates":[77.352158,11.097493],"type":"Point"}
+}

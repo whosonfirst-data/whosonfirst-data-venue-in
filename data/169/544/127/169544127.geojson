@@ -1,0 +1,65 @@
+{
+  "id": 169544127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.604958,12.965867,77.604958,12.965867",
+    "geom:latitude":12.965867,
+    "geom:longitude":77.604958,
+    "iso:country":"IN",
+    "sg:address":"14/3, Albert Street, Richmond Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2224 3131",
+    "sg:postcode":"560025",
+    "sg:tags":[
+        "ups",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930841,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fVg3vBWNmFZ2FoWGUiNcg_12.965867_77.604958@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1ad3bf3d4d0b6f1f68fbfcb352595c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930841,
+            "region_id":85672165,
+            "venue_id":169544127
+        }
+    ],
+    "wof:id":169544127,
+    "wof:lastmodified":1449035965,
+    "wof:name":"Indus Communications",
+    "wof:parent_id":85930841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ups",
+        "power"
+    ]
+},
+  "bbox": [77.604958,12.965867,77.604958,12.965867],
+  "geometry": {"coordinates":[77.604958,12.965867],"type":"Point"}
+}

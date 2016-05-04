@@ -1,0 +1,63 @@
+{
+  "id": 169635047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.247696,28.538774,77.247696,28.538774",
+    "geom:latitude":28.538774,
+    "geom:longitude":77.247696,
+    "iso:country":"IN",
+    "sg:address":"A-102, Chittaranjan Park,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2627 5389",
+    "sg:postcode":"110020",
+    "sg:tags":[
+        "x-ray"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903881,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02E6A6k2KeThoxcdb783ST_28.538774_77.247696@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"73be3c8dd9479b69570497d4bcbcaf5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903881,
+            "region_id":85672123,
+            "venue_id":169635047
+        }
+    ],
+    "wof:id":169635047,
+    "wof:lastmodified":1449034099,
+    "wof:name":"Test Equipment",
+    "wof:parent_id":85903881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "x-ray"
+    ]
+},
+  "bbox": [77.247696,28.538774,77.247696,28.538774],
+  "geometry": {"coordinates":[77.247696,28.538774],"type":"Point"}
+}

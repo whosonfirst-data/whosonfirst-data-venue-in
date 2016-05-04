@@ -1,0 +1,63 @@
+{
+  "id": 169583185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.856232,22.72349,75.856232,22.72349",
+    "geom:latitude":22.72349,
+    "geom:longitude":75.856232,
+    "iso:country":"IN",
+    "sg:address":"10-a, Industrial Estate,",
+    "sg:city":"Kota",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 744 245 0559",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.sodiumchemicals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933759,
+        85632469,
+        102030041,
+        85672239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eH5FeXmGUXZCA6ZEt8vhp_22.723490_75.856232@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"84ff856f4c5750aac36a630201310484",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030041,
+            "neighbourhood_id":85933759,
+            "region_id":85672239,
+            "venue_id":169583185
+        }
+    ],
+    "wof:id":169583185,
+    "wof:lastmodified":1449035264,
+    "wof:name":"Kota Chemicals",
+    "wof:parent_id":85933759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.856232,22.72349,75.856232,22.72349],
+  "geometry": {"coordinates":[75.856232,22.72349],"type":"Point"}
+}

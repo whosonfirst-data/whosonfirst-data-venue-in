@@ -1,0 +1,77 @@
+{
+  "id": 169650181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.218932,28.682051,77.218932,28.682051",
+    "geom:latitude":28.682051,
+    "geom:longitude":77.218932,
+    "iso:country":"IN",
+    "sg:address":"20 A Rajpur Road Civil Lines",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110054",
+    "sg:tags":[
+        "news",
+        "analysis",
+        "digital-media",
+        "telecom",
+        "gaming",
+        "internet",
+        "wireless",
+        "mobile"
+    ],
+    "sg:website":"http://www.medianama.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927921,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fj5kiSmqcLXTJHl1fCeBk_28.682051_77.218932@1308163240"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9af42f74a41ed602a2476847d296dd9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85927921,
+            "region_id":85672123,
+            "venue_id":169650181
+        }
+    ],
+    "wof:id":169650181,
+    "wof:lastmodified":1449034701,
+    "wof:name":"MediaNama",
+    "wof:parent_id":85927921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "news",
+        "analysis",
+        "digital-media",
+        "telecom",
+        "gaming",
+        "internet",
+        "wireless",
+        "mobile"
+    ]
+},
+  "bbox": [77.218932,28.682051,77.218932,28.682051],
+  "geometry": {"coordinates":[77.218932,28.682051],"type":"Point"}
+}

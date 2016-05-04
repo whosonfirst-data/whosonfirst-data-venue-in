@@ -1,0 +1,62 @@
+{
+  "id": 169607569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.310188,28.58271,77.310188,28.58271",
+    "geom:latitude":28.58271,
+    "geom:longitude":77.310188,
+    "iso:country":"IN",
+    "sg:address":"953, Sector-15,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"121007",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928529,
+        85632469,
+        102031133,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ITqVlEKWfw7Ko5McRb8qG_28.582710_77.310188@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bb8d606bed8cbdec9e94214cebb4cf36",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031133,
+            "neighbourhood_id":85928529,
+            "region_id":85672205,
+            "venue_id":169607569
+        }
+    ],
+    "wof:id":169607569,
+    "wof:lastmodified":1449033125,
+    "wof:name":"Raja Sulphur Industries",
+    "wof:parent_id":85928529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [77.310188,28.58271,77.310188,28.58271],
+  "geometry": {"coordinates":[77.310188,28.58271],"type":"Point"}
+}

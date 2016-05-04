@@ -1,0 +1,53 @@
+{
+  "id": 169569047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.234917,13.043771,80.234917,13.043771",
+    "geom:latitude":13.043771,
+    "geom:longitude":80.234917,
+    "iso:country":"IN",
+    "sg:address":"T. Nagar",
+    "sg:city":"Chennai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2824 1121",
+    "sg:postcode":"600017",
+    "sg:province":"Tamil Nadu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903981,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nr800P70PgDxKJxwZXNny_13.043771_80.234917@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ac004a4aa169eb7d633f99b1094739a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903981,
+            "region_id":85672245,
+            "venue_id":169569047
+        }
+    ],
+    "wof:id":169569047,
+    "wof:lastmodified":1449035831,
+    "wof:name":"C C S Infotech Ltd",
+    "wof:parent_id":85903981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.234917,13.043771,80.234917,13.043771],
+  "geometry": {"coordinates":[80.234917,13.043771],"type":"Point"}
+}

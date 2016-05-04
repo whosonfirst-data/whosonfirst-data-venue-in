@@ -1,0 +1,66 @@
+{
+  "id": 169542071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.560318,12.940651,77.560318,12.940651",
+    "geom:latitude":12.940651,
+    "geom:longitude":77.560318,
+    "iso:country":"IN",
+    "sg:address":"No. 248, 1st Floor, 9th Main Road, Srinivasanagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560050",
+    "sg:tags":[
+        "steel",
+        "stainless",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930849,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GqJT61dTBlaMpQZvlJ72s_12.940651_77.560318@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"17808401a1c99a3396912d04f9cdb5e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930849,
+            "region_id":85672165,
+            "venue_id":169542071
+        }
+    ],
+    "wof:id":169542071,
+    "wof:lastmodified":1449035223,
+    "wof:name":"Dhanu Electricals",
+    "wof:parent_id":85930849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "stainless",
+        "utensil"
+    ]
+},
+  "bbox": [77.560318,12.940651,77.560318,12.940651],
+  "geometry": {"coordinates":[77.560318,12.940651],"type":"Point"}
+}

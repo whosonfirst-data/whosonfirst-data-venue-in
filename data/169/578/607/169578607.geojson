@@ -1,0 +1,66 @@
+{
+  "id": 169578607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.091698,28.465778,77.091698,28.465778",
+    "geom:latitude":28.465778,
+    "geom:longitude":77.091698,
+    "iso:country":"IN",
+    "sg:address":"Plot No.- 45, Sector- 27-a,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 404 3643",
+    "sg:postcode":"121001",
+    "sg:tags":[
+        "color",
+        "dyes-natural"
+    ],
+    "sg:website":"http://www.indiahenna.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928525,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NvgtmetkhHu8KCMcK9Aad_28.465778_77.091698@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"44d2f4608b15fe509166b04015f0efb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928525,
+            "region_id":85672133,
+            "venue_id":169578607
+        }
+    ],
+    "wof:id":169578607,
+    "wof:lastmodified":1449033519,
+    "wof:name":"Heena Industries Pvt. Ltd.",
+    "wof:parent_id":85928525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "color",
+        "dyes-natural"
+    ]
+},
+  "bbox": [77.091698,28.465778,77.091698,28.465778],
+  "geometry": {"coordinates":[77.091698,28.465778],"type":"Point"}
+}

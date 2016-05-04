@@ -1,0 +1,64 @@
+{
+  "id": 169540619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.582245,12.986644,77.582245,12.986644",
+    "geom:latitude":12.986644,
+    "geom:longitude":77.582245,
+    "iso:country":"IN",
+    "sg:address":"4/2, Crescent Road, High Grounds,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2226 8316",
+    "sg:postcode":"560001",
+    "sg:tags":[
+        "silk"
+    ],
+    "sg:website":"http://www.batavia.trade-india.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930943,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57nYL4gF74En74iWsa6Eiy_12.986644_77.582245@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7d6711948ebaafa160a40ee83a85dcf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930943,
+            "region_id":85672165,
+            "venue_id":169540619
+        }
+    ],
+    "wof:id":169540619,
+    "wof:lastmodified":1449033973,
+    "wof:name":"Batavia Group",
+    "wof:parent_id":85930943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.582245,12.986644,77.582245,12.986644],
+  "geometry": {"coordinates":[77.582245,12.986644],"type":"Point"}
+}

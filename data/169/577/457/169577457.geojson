@@ -1,0 +1,62 @@
+{
+  "id": 169577457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.922089,19.041492,72.922089,19.041492",
+    "geom:latitude":19.041492,
+    "geom:longitude":72.922089,
+    "iso:country":"IN",
+    "sg:address":"35, Sector- 2, Dwarka,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110075",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931557,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kHKuYK1mMz8XRSxvAUn7Q_19.041492_72.922089@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0b53add6ebcc6fb38a993c2d816654b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931557,
+            "region_id":85672171,
+            "venue_id":169577457
+        }
+    ],
+    "wof:id":169577457,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Global Trade",
+    "wof:parent_id":85931557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.922089,19.041492,72.922089,19.041492],
+  "geometry": {"coordinates":[72.922089,19.041492],"type":"Point"}
+}

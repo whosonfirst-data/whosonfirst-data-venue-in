@@ -1,0 +1,68 @@
+{
+  "id": 169579713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.562088,12.958614,77.562088,12.958614",
+    "geom:latitude":12.958614,
+    "geom:longitude":77.562088,
+    "iso:country":"IN",
+    "sg:address":"No 178, Ii Main, Chamarjpet,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2652 5540",
+    "sg:postcode":"560018",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "sg:website":"http://www.indocom.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930907,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qFLo2LsEQV4N74LjaT87A_12.958614_77.562088@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4ad800ce15dd50dff65f7157b272ec62",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930907,
+            "region_id":85672165,
+            "venue_id":169579713
+        }
+    ],
+    "wof:id":169579713,
+    "wof:lastmodified":1449033742,
+    "wof:name":"Indocom Marketing Pvt. Ltd.",
+    "wof:parent_id":85930907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.562088,12.958614,77.562088,12.958614],
+  "geometry": {"coordinates":[77.562088,12.958614],"type":"Point"}
+}

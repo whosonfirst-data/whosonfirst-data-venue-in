@@ -1,0 +1,66 @@
+{
+  "id": 169532067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.863632,19.254427,72.863632,19.254427",
+    "geom:latitude":19.254427,
+    "geom:longitude":72.863632,
+    "iso:country":"IN",
+    "sg:address":"3, Blue Galaxy, A-601, C.s.road, Anand Nagar, Dahisar East,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2848 6797",
+    "sg:postcode":"400068",
+    "sg:tags":[
+        "machine",
+        "cutting",
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ECtD8ZZfs8tVMKc3NNAjJ_19.254427_72.863632@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"761507523b397a79288a94f26fe89845",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169532067
+        }
+    ],
+    "wof:id":169532067,
+    "wof:lastmodified":1449033794,
+    "wof:name":"Paresh Diamond Tools",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "cutting",
+        "diamond"
+    ]
+},
+  "bbox": [72.863632,19.254427,72.863632,19.254427],
+  "geometry": {"coordinates":[72.863632,19.254427],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 169650915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.410278,49.009256,8.410278,49.009256",
+    "geom:latitude":49.009256,
+    "geom:longitude":8.410278,
+    "iso:country":"IN",
+    "sg:address":"#102 A ,santa clara,Intermediate Ring Road,Bangalore",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560047",
+    "sg:tags":[
+        "gps-game",
+        "gps-gaming",
+        "location-based-gaming",
+        "location-based-games",
+        "location-based-services",
+        "playing-outside",
+        "geocaching"
+    ],
+    "sg:website":"http://www.orbster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85682567,
+        85633111,
+        101748527,
+        102063385,
+        85795045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KJzCNPwbb4DmbOtlKUwD4_49.009256_8.410278@1308163238"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"df84db85096bad13d9a65b1a524105d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633111,
+            "county_id":102063385,
+            "locality_id":101748527,
+            "neighbourhood_id":85795045,
+            "region_id":85682567,
+            "venue_id":169650915
+        }
+    ],
+    "wof:id":169650915,
+    "wof:lastmodified":1449034702,
+    "wof:name":"Orbster",
+    "wof:parent_id":85795045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gps-game",
+        "gps-gaming",
+        "location-based-gaming",
+        "location-based-games",
+        "location-based-services",
+        "playing-outside",
+        "geocaching"
+    ]
+},
+  "bbox": [8.410278,49.009256,8.410278,49.009256],
+  "geometry": {"coordinates":[8.410278,49.009256],"type":"Point"}
+}

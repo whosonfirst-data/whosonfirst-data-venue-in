@@ -1,0 +1,53 @@
+{
+  "id": 169568205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.656998,12.968318,77.656998,12.968318",
+    "geom:latitude":12.968318,
+    "geom:longitude":77.656998,
+    "iso:country":"IN",
+    "sg:address":"6th  Floor",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2221 2143",
+    "sg:postcode":"560025",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931035,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14pu2R4apRHtqbZILR8sOo_12.968318_77.656998@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"19ef1441799e3591d1fda17b61b05fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931035,
+            "region_id":85672165,
+            "venue_id":169568205
+        }
+    ],
+    "wof:id":169568205,
+    "wof:lastmodified":1449032612,
+    "wof:name":"Minigranites Ltd",
+    "wof:parent_id":85931035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.656998,12.968318,77.656998,12.968318],
+  "geometry": {"coordinates":[77.656998,12.968318],"type":"Point"}
+}

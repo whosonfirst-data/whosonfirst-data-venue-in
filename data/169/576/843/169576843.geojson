@@ -1,0 +1,63 @@
+{
+  "id": 169576843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.877106,18.517031,73.877106,18.517031",
+    "geom:latitude":18.517031,
+    "geom:longitude":73.877106,
+    "iso:country":"IN",
+    "sg:address":"1020, Bootee Street, Camp,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2611 4602",
+    "sg:postcode":"411001",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903913,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DtH1ts6UCmGutnD6jXWgo_18.517031_73.877106@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8ef603c23ed84338490b48bbacfa71bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85903913,
+            "region_id":85672171,
+            "venue_id":169576843
+        }
+    ],
+    "wof:id":169576843,
+    "wof:lastmodified":1449035194,
+    "wof:name":"Frank International",
+    "wof:parent_id":85903913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [73.877106,18.517031,73.877106,18.517031],
+  "geometry": {"coordinates":[73.877106,18.517031],"type":"Point"}
+}

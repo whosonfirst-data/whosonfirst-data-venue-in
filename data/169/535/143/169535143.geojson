@@ -1,0 +1,66 @@
+{
+  "id": 169535143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.892899,19.034796,72.892899,19.034796",
+    "geom:latitude":19.034796,
+    "geom:longitude":72.892899,
+    "iso:country":"IN",
+    "sg:address":"Rendezvous-502, Chembur,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2521 5320",
+    "sg:postcode":"400071",
+    "sg:tags":[
+        "embroiders",
+        "embroidery"
+    ],
+    "sg:website":"http://www.addyselitefashion.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903847,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40oreeAMNRexfCAWB1CEJo_19.034796_72.892899@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"efd6b32999c0dd1e53e4484385ebb254",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903847,
+            "region_id":85672171,
+            "venue_id":169535143
+        }
+    ],
+    "wof:id":169535143,
+    "wof:lastmodified":1449033289,
+    "wof:name":"Addys Fashion Creations",
+    "wof:parent_id":85903847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "embroiders",
+        "embroidery"
+    ]
+},
+  "bbox": [72.892899,19.034796,72.892899,19.034796],
+  "geometry": {"coordinates":[72.892899,19.034796],"type":"Point"}
+}

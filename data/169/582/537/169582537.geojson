@@ -1,0 +1,61 @@
+{
+  "id": 169582537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.30571,22.555862,88.30571,22.555862",
+    "geom:latitude":22.555862,
+    "geom:longitude":88.30571,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 6902 & 6903, G.i.d.c.,",
+    "sg:city":"Ankleshwar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2646 224 891",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931983,
+        85632469,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4flXzsDM9RAKDOQOUxv9Ov_22.555862_88.305710@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"81878538a8204a263be5fcba21feddaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85931983,
+            "region_id":85672219,
+            "venue_id":169582537
+        }
+    ],
+    "wof:id":169582537,
+    "wof:lastmodified":1449034463,
+    "wof:name":"Kenny Pharma Pvt. Ltd.",
+    "wof:parent_id":85931983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.30571,22.555862,88.30571,22.555862],
+  "geometry": {"coordinates":[88.30571,22.555862],"type":"Point"}
+}

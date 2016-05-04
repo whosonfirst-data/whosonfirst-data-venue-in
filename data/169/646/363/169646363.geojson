@@ -1,0 +1,72 @@
+{
+  "id": 169646363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.115768,9.914664,78.115768,9.914664",
+    "geom:latitude":9.914664,
+    "geom:longitude":78.115768,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 2408, Near Asian Paints, G.i.d.c.,",
+    "sg:city":"Ankleshwar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2646 221 322",
+    "sg:postcode":"393002",
+    "sg:tags":[
+        "pigment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783661,
+        85632469,
+        102029533,
+        85672245,
+        85783667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M0xSwkz7qPGA6qlpsFbRS_9.914664_78.115768@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c1f3a77a3a2ae6c0ce6945ae4dd097ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029533,
+            "neighbourhood_id":85783661,
+            "region_id":85672245,
+            "venue_id":169646363
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029533,
+            "neighbourhood_id":85783667,
+            "region_id":85672245,
+            "venue_id":169646363
+        }
+    ],
+    "wof:id":169646363,
+    "wof:lastmodified":1449032609,
+    "wof:name":"West Coast Pigment Corporation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [78.115768,9.914664,78.115768,9.914664],
+  "geometry": {"coordinates":[78.115768,9.914664],"type":"Point"}
+}

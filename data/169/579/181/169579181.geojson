@@ -1,0 +1,63 @@
+{
+  "id": 169579181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.378532,17.485762,78.378532,17.485762",
+    "geom:latitude":17.485762,
+    "geom:longitude":78.378532,
+    "iso:country":"IN",
+    "sg:address":"7-73/1, Kukatpally,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2371 3368",
+    "sg:postcode":"500072",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930669,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q8eDJfv7VsV7L33A8Q8lr_17.485762_78.378532@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cb81db9cb4d13484142b42c67ea6e00d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930669,
+            "region_id":85672141,
+            "venue_id":169579181
+        }
+    ],
+    "wof:id":169579181,
+    "wof:lastmodified":1449033740,
+    "wof:name":"Hyderabad Rubber Products",
+    "wof:parent_id":85930669,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [78.378532,17.485762,78.378532,17.485762],
+  "geometry": {"coordinates":[78.378532,17.485762],"type":"Point"}
+}

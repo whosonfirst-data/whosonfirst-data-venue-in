@@ -1,0 +1,63 @@
+{
+  "id": 169650879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.653739,12.975531,77.653739,12.975531",
+    "geom:latitude":12.975531,
+    "geom:longitude":77.653739,
+    "iso:country":"IN",
+    "sg:address":"#406, 1st A Main Kasturi Nagar",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560043",
+    "sg:tags":[
+        "mobile-speech-contact-center"
+    ],
+    "sg:website":"http://www.manamtech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931035,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FRg8UQtlTq7DUjVZ5eg6h_12.975531_77.653739@1308163238"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"458337a212b7912d4bbce1f78de30231",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931035,
+            "region_id":85672165,
+            "venue_id":169650879
+        }
+    ],
+    "wof:id":169650879,
+    "wof:lastmodified":1449034699,
+    "wof:name":"Manam Infotech",
+    "wof:parent_id":85931035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile-speech-contact-center"
+    ]
+},
+  "bbox": [77.653739,12.975531,77.653739,12.975531],
+  "geometry": {"coordinates":[77.653739,12.975531],"type":"Point"}
+}

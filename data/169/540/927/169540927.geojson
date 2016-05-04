@@ -1,0 +1,63 @@
+{
+  "id": 169540927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.591629,12.930391,77.591629,12.930391",
+    "geom:latitude":12.930391,
+    "geom:longitude":77.591629,
+    "iso:country":"IN",
+    "sg:address":"#38, 2nd Cross, C. K. C. Garden,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2223 6122",
+    "sg:postcode":"560027",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930887,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZSiisnP9t7h9Snjr27P8j_12.930391_77.591629@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a97167948380743b05e18592158b9310",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930887,
+            "region_id":85672165,
+            "venue_id":169540927
+        }
+    ],
+    "wof:id":169540927,
+    "wof:lastmodified":1449033978,
+    "wof:name":"Sri Veda Silk Fab",
+    "wof:parent_id":85930887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.591629,12.930391,77.591629,12.930391],
+  "geometry": {"coordinates":[77.591629,12.930391],"type":"Point"}
+}

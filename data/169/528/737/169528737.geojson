@@ -1,0 +1,65 @@
+{
+  "id": 169528737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.803802,18.968084,72.803802,18.968084",
+    "geom:latitude":18.968084,
+    "geom:longitude":72.803802,
+    "iso:country":"IN",
+    "sg:address":"G-27, Sagar Darshan, 81-b, Bhulabhai Desai Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2369 3132",
+    "sg:postcode":"400026",
+    "sg:tags":[
+        "bullion-gold",
+        "silver"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903835,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36jwFByK2dEfobYxdEXKjH_18.968084_72.803802@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"73b8f413ef7005be8811a41d670e4da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903835,
+            "region_id":85672171,
+            "venue_id":169528737
+        }
+    ],
+    "wof:id":169528737,
+    "wof:lastmodified":1449033570,
+    "wof:name":"Tejus Jewellers",
+    "wof:parent_id":85903835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bullion-gold",
+        "silver"
+    ]
+},
+  "bbox": [72.803802,18.968084,72.803802,18.968084],
+  "geometry": {"coordinates":[72.803802,18.968084],"type":"Point"}
+}

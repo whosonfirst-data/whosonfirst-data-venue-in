@@ -1,0 +1,62 @@
+{
+  "id": 169558961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.324112,22.499977,88.324112,22.499977",
+    "geom:latitude":22.499977,
+    "geom:longitude":88.324112,
+    "iso:country":"IN",
+    "sg:address":"352, Roy Bahadur Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2403 3736",
+    "sg:postcode":"700053",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5byyKANYhdBSCsday5PwTd_22.499977_88.324112@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"760f8506393423280d53e725cda30c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":-1,
+            "region_id":85672219,
+            "venue_id":169558961
+        }
+    ],
+    "wof:id":169558961,
+    "wof:lastmodified":1449033582,
+    "wof:name":"Century Rubber Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [88.324112,22.499977,88.324112,22.499977],
+  "geometry": {"coordinates":[88.324112,22.499977],"type":"Point"}
+}

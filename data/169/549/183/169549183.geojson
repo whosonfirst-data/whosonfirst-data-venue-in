@@ -1,0 +1,64 @@
+{
+  "id": 169549183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.687653,24.586695,73.687653,24.586695",
+    "geom:latitude":24.586695,
+    "geom:longitude":73.687653,
+    "iso:country":"IN",
+    "sg:address":"103-j, O/s Hathipole,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 242 2182",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "handicraft"
+    ],
+    "sg:website":"http://www.rajasthanarts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934013,
+        85632469,
+        102028377,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DQgYJzAK11WFeZCJ6jYlR_24.586695_73.687653@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"70c19cee8ccec17fddaec0f2d975f115",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028377,
+            "neighbourhood_id":85934013,
+            "region_id":85672201,
+            "venue_id":169549183
+        }
+    ],
+    "wof:id":169549183,
+    "wof:lastmodified":1449033593,
+    "wof:name":"Rajasthan Art Industries",
+    "wof:parent_id":85934013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handicraft"
+    ]
+},
+  "bbox": [73.687653,24.586695,73.687653,24.586695],
+  "geometry": {"coordinates":[73.687653,24.586695],"type":"Point"}
+}

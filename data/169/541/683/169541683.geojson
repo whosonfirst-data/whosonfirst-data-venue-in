@@ -1,0 +1,66 @@
+{
+  "id": 169541683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.539429,13.009407,77.539429,13.009407",
+    "geom:latitude":13.009407,
+    "geom:longitude":77.539429,
+    "iso:country":"IN",
+    "sg:address":"69, 3rd Cross, Ii Stage, Yeshwanthpur Industrial Suburb,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2337 0841",
+    "sg:postcode":"560022",
+    "sg:tags":[
+        "design",
+        "software"
+    ],
+    "sg:website":"http://www.pairee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CbqONmEEbgw3LfWCZEFtv_13.009407_77.539429@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ed8dd92857018ea89a035eaa4cf840ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169541683
+        }
+    ],
+    "wof:id":169541683,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Pairee Infotech Pvt. Ltd.",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "design",
+        "software"
+    ]
+},
+  "bbox": [77.539429,13.009407,77.539429,13.009407],
+  "geometry": {"coordinates":[77.539429,13.009407],"type":"Point"}
+}

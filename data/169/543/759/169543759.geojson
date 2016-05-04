@@ -1,0 +1,72 @@
+{
+  "id": 169543759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.597183,12.887424,77.597183,12.887424",
+    "geom:latitude":12.887424,
+    "geom:longitude":77.597183,
+    "iso:country":"IN",
+    "sg:address":"#366/2, & 366/1, Hulimavu, Bannerghtta Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2658 1134",
+    "sg:postcode":"560076",
+    "sg:tags":[
+        "transformer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930957,
+        85632469,
+        102030819,
+        85672165,
+        85931047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CPWiZPcgeGT7l5lyXMhv1_12.887424_77.597183@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d3c773ccf08b28e49be6cbf9a55538f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930957,
+            "region_id":85672165,
+            "venue_id":169543759
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931047,
+            "region_id":85672165,
+            "venue_id":169543759
+        }
+    ],
+    "wof:id":169543759,
+    "wof:lastmodified":1449033336,
+    "wof:name":"Sri Thirumala Coolers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transformer"
+    ]
+},
+  "bbox": [77.597183,12.887424,77.597183,12.887424],
+  "geometry": {"coordinates":[77.597183,12.887424],"type":"Point"}
+}

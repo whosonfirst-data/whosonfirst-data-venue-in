@@ -1,0 +1,66 @@
+{
+  "id": 169579391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.872452,30.892729,75.872452,30.892729",
+    "geom:latitude":30.892729,
+    "geom:longitude":75.872452,
+    "iso:country":"IN",
+    "sg:address":"1007, Chowk Dholewal, G.t. Road,",
+    "sg:city":"Ludhiana",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 161 254 2449",
+    "sg:postcode":"141003",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029555,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W6vbVYhve6pZqIceZraCs_30.892729_75.872452@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0ba2e2206208566aad47742f16260756",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029555,
+            "neighbourhood_id":-1,
+            "region_id":85672195,
+            "venue_id":169579391
+        }
+    ],
+    "wof:id":169579391,
+    "wof:lastmodified":1449033740,
+    "wof:name":"Imperial Coating International Co. India",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [75.872452,30.892729,75.872452,30.892729],
+  "geometry": {"coordinates":[75.872452,30.892729],"type":"Point"}
+}

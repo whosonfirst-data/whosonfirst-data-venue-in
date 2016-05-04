@@ -1,0 +1,65 @@
+{
+  "id": 169536729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.634216,13.011844,77.634216,13.011844",
+    "geom:latitude":13.011844,
+    "geom:longitude":77.634216,
+    "iso:country":"IN",
+    "sg:address":"79/4, 3rd Cross, M.g. Palya Road, Bommanahalli,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2572 0203",
+    "sg:postcode":"560068",
+    "sg:tags":[
+        "equipment",
+        "playground"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931107,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fCoGyy2BD0QE9GWJb0j8H_13.011844_77.634216@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a03bae6fb918e0cbc78cbf7f93d3478a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931107,
+            "region_id":85672165,
+            "venue_id":169536729
+        }
+    ],
+    "wof:id":169536729,
+    "wof:lastmodified":1449034659,
+    "wof:name":"Pressmach",
+    "wof:parent_id":85931107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "playground"
+    ]
+},
+  "bbox": [77.634216,13.011844,77.634216,13.011844],
+  "geometry": {"coordinates":[77.634216,13.011844],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169591895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.45388,17.430487,78.45388,17.430487",
+    "geom:latitude":17.430487,
+    "geom:longitude":78.45388,
+    "iso:country":"IN",
+    "sg:address":"Panjagutta,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2335 7476",
+    "sg:postcode":"500082",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930753,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hHrn5ZPO2Qz3M9NSw9feM_17.430487_78.453880@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f65b85554e5919426ebab4958cc0108f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930753,
+            "region_id":85672141,
+            "venue_id":169591895
+        }
+    ],
+    "wof:id":169591895,
+    "wof:lastmodified":1449034451,
+    "wof:name":"Nagarjuna Fertilizers And Chemicals Limited",
+    "wof:parent_id":85930753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [78.45388,17.430487,78.45388,17.430487],
+  "geometry": {"coordinates":[78.45388,17.430487],"type":"Point"}
+}

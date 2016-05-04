@@ -1,0 +1,71 @@
+{
+  "id": 169537451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.594101,12.949979,77.594101,12.949979",
+    "geom:latitude":12.949979,
+    "geom:longitude":77.594101,
+    "iso:country":"IN",
+    "sg:address":"52, 5th Cross, Sudhamanagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2222 0475",
+    "sg:postcode":"560027",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930939,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QNQt9pAnr8CAlIZCgfg1E_12.949979_77.594101@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7fb5f2c71ddb8382d2198970689a381d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930939,
+            "region_id":85672165,
+            "venue_id":169537451
+        }
+    ],
+    "wof:id":169537451,
+    "wof:lastmodified":1449033499,
+    "wof:name":"Indian Foundry & Engineering",
+    "wof:parent_id":85930939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.594101,12.949979,77.594101,12.949979],
+  "geometry": {"coordinates":[77.594101,12.949979],"type":"Point"}
+}

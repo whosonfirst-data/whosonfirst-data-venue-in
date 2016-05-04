@@ -1,0 +1,67 @@
+{
+  "id": 169545549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"85.855499,20.299332,85.855499,20.299332",
+    "geom:latitude":20.299332,
+    "geom:longitude":85.855499,
+    "iso:country":"IN",
+    "sg:address":"P.b.no:9,",
+    "sg:city":"Thrissur",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 487 233 5177",
+    "sg:postcode":"680001",
+    "sg:tags":[
+        "exchange",
+        "finance",
+        "foreign"
+    ],
+    "sg:website":"http://www.dhanbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030665,
+        85672157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3820OWPoGQQVYqwSX2SspY_20.299332_85.855499@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9f35416b71883c8218167134257fbf1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030665,
+            "neighbourhood_id":-1,
+            "region_id":85672157,
+            "venue_id":169545549
+        }
+    ],
+    "wof:id":169545549,
+    "wof:lastmodified":1449033483,
+    "wof:name":"The Dhanalakshmi Bank Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exchange",
+        "finance",
+        "foreign"
+    ]
+},
+  "bbox": [85.855499,20.299332,85.855499,20.299332],
+  "geometry": {"coordinates":[85.855499,20.299332],"type":"Point"}
+}

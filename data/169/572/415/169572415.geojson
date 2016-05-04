@@ -1,0 +1,53 @@
+{
+  "id": 169572415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.583885,12.923376,77.583885,12.923376",
+    "geom:latitude":12.923376,
+    "geom:longitude":77.583885,
+    "iso:country":"IN",
+    "sg:address":"36th Cross, 9th Block, Jayanagar",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 806635353",
+    "sg:postcode":"560069",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930887,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1d56xjtt7DbkfzwWQiC2xv_12.923376_77.583885@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"761e9c8cbd60e73c06c43ae8bdf773f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930887,
+            "region_id":85672165,
+            "venue_id":169572415
+        }
+    ],
+    "wof:id":169572415,
+    "wof:lastmodified":1449034707,
+    "wof:name":"Measurements & Controls (i) Ltd",
+    "wof:parent_id":85930887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.583885,12.923376,77.583885,12.923376],
+  "geometry": {"coordinates":[77.583885,12.923376],"type":"Point"}
+}

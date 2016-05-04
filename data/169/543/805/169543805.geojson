@@ -1,0 +1,65 @@
+{
+  "id": 169543805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.600517,12.960838,77.600517,12.960838",
+    "geom:latitude":12.960838,
+    "geom:longitude":77.600517,
+    "iso:country":"IN",
+    "sg:address":"58, Langford Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2222 0288",
+    "sg:postcode":"560025",
+    "sg:tags":[
+        "transporters",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930939,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A0UWBHXJYJ2NjrTtAYzH5_12.960838_77.600517@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c6e0795883aaab858f8da767e01cf83d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930939,
+            "region_id":85672165,
+            "venue_id":169543805
+        }
+    ],
+    "wof:id":169543805,
+    "wof:lastmodified":1449033335,
+    "wof:name":"Kerala Transport Co.",
+    "wof:parent_id":85930939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transporters",
+        "transport"
+    ]
+},
+  "bbox": [77.600517,12.960838,77.600517,12.960838],
+  "geometry": {"coordinates":[77.600517,12.960838],"type":"Point"}
+}

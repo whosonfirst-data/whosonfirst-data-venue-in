@@ -1,0 +1,59 @@
+{
+  "id": 169536137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.865791,19.117825,72.865791,19.117825",
+    "geom:latitude":19.117825,
+    "geom:longitude":72.865791,
+    "iso:country":"IN",
+    "sg:address":"111/1, Road No. 13, Midc, Andheri (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2834 9338",
+    "sg:postcode":"400093",
+    "sg:website":"http://www.osakaeuro.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QWZqNZLhQQTGWf4NtjsuN_19.117825_72.865791@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5f5bb1fc5f1b771b952cbf25c9ca06c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169536137
+        }
+    ],
+    "wof:id":169536137,
+    "wof:lastmodified":1449034660,
+    "wof:name":"Osaka Exports",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.865791,19.117825,72.865791,19.117825],
+  "geometry": {"coordinates":[72.865791,19.117825],"type":"Point"}
+}

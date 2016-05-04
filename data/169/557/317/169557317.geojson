@@ -1,0 +1,53 @@
+{
+  "id": 169557317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.46991,17.374405,78.46991,17.374405",
+    "geom:latitude":17.374405,
+    "geom:longitude":78.46991,
+    "iso:country":"IN",
+    "sg:address":"Abid Road",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2475 8222",
+    "sg:postcode":"500001",
+    "sg:province":"Andhra Pradesh",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930737,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LkeYip4epCSdLDrEReIv2_17.374405_78.469910@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"77079e0914f5016ed53855b2f70ac7f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930737,
+            "region_id":85672141,
+            "venue_id":169557317
+        }
+    ],
+    "wof:id":169557317,
+    "wof:lastmodified":1449035035,
+    "wof:name":"Taj Mahal Hotel",
+    "wof:parent_id":85930737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [78.46991,17.374405,78.46991,17.374405],
+  "geometry": {"coordinates":[78.46991,17.374405],"type":"Point"}
+}

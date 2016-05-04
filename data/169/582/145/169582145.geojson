@@ -1,0 +1,62 @@
+{
+  "id": 169582145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.836662,18.951439,72.836662,18.951439",
+    "geom:latitude":18.951439,
+    "geom:longitude":72.836662,
+    "iso:country":"IN",
+    "sg:address":"217, Samuel Street, Room No.10, 3rd Floor, Vadgadi,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5699 3631",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "solvent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ahCxUqIew2zU7nc7RxEnF_18.951439_72.836662@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c43afed6161f1c6dc6119a64f6b5dca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169582145
+        }
+    ],
+    "wof:id":169582145,
+    "wof:lastmodified":1449034464,
+    "wof:name":"Karan Monomers Private Limited",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solvent"
+    ]
+},
+  "bbox": [72.836662,18.951439,72.836662,18.951439],
+  "geometry": {"coordinates":[72.836662,18.951439],"type":"Point"}
+}

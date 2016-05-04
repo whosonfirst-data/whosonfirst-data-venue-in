@@ -1,0 +1,63 @@
+{
+  "id": 169584783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.312889,28.393011,77.312889,28.393011",
+    "geom:latitude":28.393011,
+    "geom:longitude":77.312889,
+    "iso:country":"IN",
+    "sg:address":"15/3, Mathura Road,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 404 5551",
+    "sg:postcode":"121003",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928393,
+        85632469,
+        102030289,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15xjmndb9NVGah0TUm6EwK_28.393011_77.312889@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d39aac8d18e49c8719d1b80af90caff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030289,
+            "neighbourhood_id":85928393,
+            "region_id":85672133,
+            "venue_id":169584783
+        }
+    ],
+    "wof:id":169584783,
+    "wof:lastmodified":1449033036,
+    "wof:name":"Lmc Enterprises Private Limited",
+    "wof:parent_id":85928393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.312889,28.393011,77.312889,28.393011],
+  "geometry": {"coordinates":[77.312889,28.393011],"type":"Point"}
+}

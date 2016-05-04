@@ -1,0 +1,61 @@
+{
+  "id": 169560919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.545776,30.38122,75.545776,30.38122",
+    "geom:latitude":30.38122,
+    "geom:longitude":75.545776,
+    "iso:country":"IN",
+    "sg:address":"Barnala Road, Bhucho Mandi,",
+    "sg:city":"Bathinda",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 164 274 1663",
+    "sg:postcode":"151101",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GOidcQDoht5SgH55kBaGp_30.381220_75.545776@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"977105e4bb2c306026169f40a8d5db14",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672195,
+            "venue_id":169560919
+        }
+    ],
+    "wof:id":169560919,
+    "wof:lastmodified":1449035181,
+    "wof:name":"Earthgold Bio Technology Ind.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [75.545776,30.38122,75.545776,30.38122],
+  "geometry": {"coordinates":[75.545776,30.38122],"type":"Point"}
+}

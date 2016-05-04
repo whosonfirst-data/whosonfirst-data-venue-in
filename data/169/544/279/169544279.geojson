@@ -1,0 +1,66 @@
+{
+  "id": 169544279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.588295,12.960992,77.588295,12.960992",
+    "geom:latitude":12.960992,
+    "geom:longitude":77.588295,
+    "iso:country":"IN",
+    "sg:address":"#39, 1st Cross, Sudam Nagar, Lalbagh Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 56 991666",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "venetian",
+        "blind"
+    ],
+    "sg:website":"http://www.grorichhorivert.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N83a8SdBgcbCjy085Bu0H_12.960992_77.588295@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d92f4fa1c566094f7a1e2526195c544c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169544279
+        }
+    ],
+    "wof:id":169544279,
+    "wof:lastmodified":1449035963,
+    "wof:name":"Grorich Horivert Private Limited",
+    "wof:parent_id":85930903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venetian",
+        "blind"
+    ]
+},
+  "bbox": [77.588295,12.960992,77.588295,12.960992],
+  "geometry": {"coordinates":[77.588295,12.960992],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169530161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.842896,19.016119,72.842896,19.016119",
+    "geom:latitude":19.016119,
+    "geom:longitude":72.842896,
+    "iso:country":"IN",
+    "sg:address":"95/205, Hind Rajasthan Bldg., D.s.p. Road, Dadar,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2410 2926",
+    "sg:postcode":"400014",
+    "sg:tags":[
+        "garment",
+        "childrenwear"
+    ],
+    "sg:website":"http://www.ricoapparels.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931545,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35tZraErH4bPCp32FTcjlW_19.016119_72.842896@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"af6f0828688b75a7e09804bb2c44f9ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931545,
+            "region_id":85672171,
+            "venue_id":169530161
+        }
+    ],
+    "wof:id":169530161,
+    "wof:lastmodified":1449034442,
+    "wof:name":"Rico Apparels",
+    "wof:parent_id":85931545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "childrenwear"
+    ]
+},
+  "bbox": [72.842896,19.016119,72.842896,19.016119],
+  "geometry": {"coordinates":[72.842896,19.016119],"type":"Point"}
+}

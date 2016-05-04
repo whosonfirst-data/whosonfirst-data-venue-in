@@ -1,0 +1,66 @@
+{
+  "id": 169590493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.580795,12.964335,77.580795,12.964335",
+    "geom:latitude":12.964335,
+    "geom:longitude":77.580795,
+    "iso:country":"IN",
+    "sg:address":"168, Sadar Patrappa Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4132 5137",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "transmission",
+        "belting"
+    ],
+    "sg:website":"http://www.moditrading.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3e16Vc8IuvihXUaQaY65Wh_12.964335_77.580795@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a669d0d30a176b69f9639067552c2ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169590493
+        }
+    ],
+    "wof:id":169590493,
+    "wof:lastmodified":1449034654,
+    "wof:name":"Modi Trading Corporation",
+    "wof:parent_id":85930903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "belting"
+    ]
+},
+  "bbox": [77.580795,12.964335,77.580795,12.964335],
+  "geometry": {"coordinates":[77.580795,12.964335],"type":"Point"}
+}

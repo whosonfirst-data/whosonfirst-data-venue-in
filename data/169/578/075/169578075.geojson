@@ -1,0 +1,61 @@
+{
+  "id": 169578075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.054146,23.144159,72.054146,23.144159",
+    "geom:latitude":23.144159,
+    "geom:longitude":72.054146,
+    "iso:country":"IN",
+    "sg:address":"Plot No: 238/239, Viramgam, G.i.d.c.,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 27152235170",
+    "sg:postcode":"382150",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A2aUoFIAhkxLOVD91SJtK_23.144159_72.054146@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"de81897d3171f4d6c9fab1c6da23f54f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169578075
+        }
+    ],
+    "wof:id":169578075,
+    "wof:lastmodified":1449033520,
+    "wof:name":"Gujarat Agro Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.054146,23.144159,72.054146,23.144159],
+  "geometry": {"coordinates":[72.054146,23.144159],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169647635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.267815,28.666876,77.267815,28.666876",
+    "geom:latitude":28.666876,
+    "geom:longitude":77.267815,
+    "iso:country":"IN",
+    "sg:address":"F-95, New Seelampur,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2217 2786",
+    "sg:postcode":"110053",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R3UbKXXbW9PUwXeZQBSnO_28.666876_77.267815@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c042a47bc650e11c4e56208595110180",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169647635
+        }
+    ],
+    "wof:id":169647635,
+    "wof:lastmodified":1449034239,
+    "wof:name":"Yaseen & Sons",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.267815,28.666876,77.267815,28.666876],
+  "geometry": {"coordinates":[77.267815,28.666876],"type":"Point"}
+}

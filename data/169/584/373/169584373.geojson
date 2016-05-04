@@ -1,0 +1,64 @@
+{
+  "id": 169584373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.881439,19.099947,72.881439,19.099947",
+    "geom:latitude":19.099947,
+    "geom:longitude":72.881439,
+    "iso:country":"IN",
+    "sg:address":"Sakinaka, Kurla-andheri Road, Sakinaka,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 222851914044",
+    "sg:postcode":"400072",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.lathiarubber.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FTa1gdTDWGUOFpOmB1NJa_19.099947_72.881439@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8d0c3c39f0551ceb49a56f7bba1ed902",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169584373
+        }
+    ],
+    "wof:id":169584373,
+    "wof:lastmodified":1449033038,
+    "wof:name":"Lathia Rubber Mfg. Co. Pvt. Ltd.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.881439,19.099947,72.881439,19.099947],
+  "geometry": {"coordinates":[72.881439,19.099947],"type":"Point"}
+}

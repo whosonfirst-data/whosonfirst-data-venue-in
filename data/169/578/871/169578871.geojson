@@ -1,0 +1,61 @@
+{
+  "id": 169578871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"81.331688,21.183992,81.331688,21.183992",
+    "geom:latitude":21.183992,
+    "geom:longitude":81.331688,
+    "iso:country":"IN",
+    "sg:address":"C-227, Sector-10,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 244 1533",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030693,
+        85672231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EKiVNqMEne07Y642ccTVb_21.183992_81.331688@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1e274e947cf6ea734ab5f5cc7e6d02f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030693,
+            "neighbourhood_id":-1,
+            "region_id":85672231,
+            "venue_id":169578871
+        }
+    ],
+    "wof:id":169578871,
+    "wof:lastmodified":1449033519,
+    "wof:name":"Himalaya Chemicals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [81.331688,21.183992,81.331688,21.183992],
+  "geometry": {"coordinates":[81.331688,21.183992],"type":"Point"}
+}

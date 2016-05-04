@@ -1,0 +1,63 @@
+{
+  "id": 169616321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.15918,13.094207,80.15918,13.094207",
+    "geom:latitude":13.094207,
+    "geom:longitude":80.15918,
+    "iso:country":"IN",
+    "sg:address":"No. 36, Ambattur Vanagaram Road, Ayanambakkam,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2653 0220",
+    "sg:postcode":"602102",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.sankar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EgNEeCzOsrPwG3Nv5BSHm_13.094207_80.159180@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0078b6d1b0372c8921fd378f5b4f131a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169616321
+        }
+    ],
+    "wof:id":169616321,
+    "wof:lastmodified":1449035098,
+    "wof:name":"Sankar Sealing Systems Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [80.15918,13.094207,80.15918,13.094207],
+  "geometry": {"coordinates":[80.15918,13.094207],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169607869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.208427,13.012874,80.208427,13.012874",
+    "geom:latitude":13.012874,
+    "geom:longitude":80.208427,
+    "iso:country":"IN",
+    "sg:address":"D-1, Sidco Industrial Estate,",
+    "sg:city":"Mettur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 4298 223 476",
+    "sg:postcode":"636402",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903867,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rbCv2lTzCA9cGcFwH3lha_13.012874_80.208427@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6c292d62de6bec4398a2009ee3102f4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903867,
+            "region_id":85672245,
+            "venue_id":169607869
+        }
+    ],
+    "wof:id":169607869,
+    "wof:lastmodified":1449033125,
+    "wof:name":"Rajeswari Chemicals",
+    "wof:parent_id":85903867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.208427,13.012874,80.208427,13.012874],
+  "geometry": {"coordinates":[80.208427,13.012874],"type":"Point"}
+}

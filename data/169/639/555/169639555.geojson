@@ -1,0 +1,63 @@
+{
+  "id": 169639555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.852341,19.106558,72.852341,19.106558",
+    "geom:latitude":19.106558,
+    "geom:longitude":72.852341,
+    "iso:country":"IN",
+    "sg:address":"Subhash Road, Vile-parle (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2820 1327",
+    "sg:postcode":"400057",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931483,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kEdXeA9p0BPY7tESprvp2_19.106558_72.852341@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cdcb8f3f7394221a4750549a97dc9a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931483,
+            "region_id":85672171,
+            "venue_id":169639555
+        }
+    ],
+    "wof:id":169639555,
+    "wof:lastmodified":1449035953,
+    "wof:name":"United Ink & Varnish Company Pvt. Ltd.",
+    "wof:parent_id":85931483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [72.852341,19.106558,72.852341,19.106558],
+  "geometry": {"coordinates":[72.852341,19.106558],"type":"Point"}
+}

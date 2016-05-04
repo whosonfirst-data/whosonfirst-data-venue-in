@@ -1,0 +1,70 @@
+{
+  "id": 169537435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.521126,13.036057,77.521126,13.036057",
+    "geom:latitude":13.036057,
+    "geom:longitude":77.521126,
+    "iso:country":"IN",
+    "sg:address":"C-425, 1 Stage, Peenya Indl. Area, Behind Peenya Police Station,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2372 4749",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TVg1qB8OO0vi6e6brq7BX_13.036057_77.521126@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"36ab03218d5491f40f486adc52b6bbff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169537435
+        }
+    ],
+    "wof:id":169537435,
+    "wof:lastmodified":1449033500,
+    "wof:name":"Karthik Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.521126,13.036057,77.521126,13.036057],
+  "geometry": {"coordinates":[77.521126,13.036057],"type":"Point"}
+}

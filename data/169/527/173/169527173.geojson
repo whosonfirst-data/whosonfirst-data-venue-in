@@ -1,0 +1,70 @@
+{
+  "id": 169527173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833992,18.950926,72.833992,18.950926",
+    "geom:latitude":18.950926,
+    "geom:longitude":72.833992,
+    "iso:country":"IN",
+    "sg:address":"80/82, Nagdevi Street, 1st Floor,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6635 9400",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "bearing",
+        "bush",
+        "ball",
+        "roller",
+        "/"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BpP26uWQXFtjHl0pFlIEh_18.950926_72.833992@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"da7f406266778875259b2383d901c741",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169527173
+        }
+    ],
+    "wof:id":169527173,
+    "wof:lastmodified":1449035277,
+    "wof:name":"Gunvantrai & Co.",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bearing",
+        "bush",
+        "ball",
+        "roller",
+        "/"
+    ]
+},
+  "bbox": [72.833992,18.950926,72.833992,18.950926],
+  "geometry": {"coordinates":[72.833992,18.950926],"type":"Point"}
+}

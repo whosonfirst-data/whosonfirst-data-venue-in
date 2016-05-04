@@ -1,0 +1,62 @@
+{
+  "id": 169593173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.642967,25.335764,74.642967,25.335764",
+    "geom:latitude":25.335764,
+    "geom:longitude":74.642967,
+    "iso:country":"IN",
+    "sg:address":"B-947, Shastri Nagar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 6543 5665",
+    "sg:postcode":"1100052",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030691,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4a7WkMtKiWOsAlFo5rjMod_25.335764_74.642967@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9029ec419b4c2ca77773042bcf8f1762",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030691,
+            "neighbourhood_id":-1,
+            "region_id":85672201,
+            "venue_id":169593173
+        }
+    ],
+    "wof:id":169593173,
+    "wof:lastmodified":1449034878,
+    "wof:name":"Nav Bharat Auto Products",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [74.642967,25.335764,74.642967,25.335764],
+  "geometry": {"coordinates":[74.642967,25.335764],"type":"Point"}
+}

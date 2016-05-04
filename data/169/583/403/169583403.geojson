@@ -1,0 +1,64 @@
+{
+  "id": 169583403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.066521,28.458338,77.066521,28.458338",
+    "geom:latitude":28.458338,
+    "geom:longitude":77.066521,
+    "iso:country":"IN",
+    "sg:address":"H-24, Sector-41,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 435 7164",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928475,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Zxm9uZYZuHmI7rk8gCsDk_28.458338_77.066521@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d6a95c7083365f823f9f7b741c05bfb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928475,
+            "region_id":85672133,
+            "venue_id":169583403
+        }
+    ],
+    "wof:id":169583403,
+    "wof:lastmodified":1449035269,
+    "wof:name":"Krishana Polymers Technologies",
+    "wof:parent_id":85928475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.066521,28.458338,77.066521,28.458338],
+  "geometry": {"coordinates":[77.066521,28.458338],"type":"Point"}
+}

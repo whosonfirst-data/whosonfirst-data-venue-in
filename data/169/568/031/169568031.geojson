@@ -1,0 +1,53 @@
+{
+  "id": 169568031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.830505,18.511803,73.830505,18.511803",
+    "geom:latitude":18.511803,
+    "geom:longitude":73.830505,
+    "iso:country":"IN",
+    "sg:address":"1st Floor",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2567 7370",
+    "sg:postcode":"400080",
+    "sg:province":"Maharashtra",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903811,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tlDwt2JpBBF1UAPao3cdI_18.511803_73.830505@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"aa116ea3cb21d6d5ea5f5e90bc3e09a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85903811,
+            "region_id":85672171,
+            "venue_id":169568031
+        }
+    ],
+    "wof:id":169568031,
+    "wof:lastmodified":1449032613,
+    "wof:name":"Reliance Wire Products",
+    "wof:parent_id":85903811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [73.830505,18.511803,73.830505,18.511803],
+  "geometry": {"coordinates":[73.830505,18.511803],"type":"Point"}
+}

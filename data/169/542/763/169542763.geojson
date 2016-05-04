@@ -1,0 +1,67 @@
+{
+  "id": 169542763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.588295,12.960992,77.588295,12.960992",
+    "geom:latitude":12.960992,
+    "geom:longitude":77.588295,
+    "iso:country":"IN",
+    "sg:address":"16, 1st Cross, Lal Bagh Road East,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Atm",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2222 0225",
+    "sg:postcode":"560027",
+    "sg:tags":[
+        "product",
+        "allied",
+        "switchgear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_303ehGoGZZS2eSepxDfCl1_12.960992_77.588295@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d92f4fa1c566094f7a1e2526195c544c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169542763
+        }
+    ],
+    "wof:id":169542763,
+    "wof:lastmodified":1449035222,
+    "wof:name":"Saravana Switchgears",
+    "wof:parent_id":85930903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "allied",
+        "switchgear"
+    ]
+},
+  "bbox": [77.588295,12.960992,77.588295,12.960992],
+  "geometry": {"coordinates":[77.588295,12.960992],"type":"Point"}
+}

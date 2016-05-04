@@ -1,0 +1,63 @@
+{
+  "id": 169580823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.228996,28.647358,77.228996,28.647358",
+    "geom:latitude":28.647358,
+    "geom:longitude":77.228996,
+    "iso:country":"IN",
+    "sg:address":"606, Kucha Pati Ram, Bazar Sita Ram,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2323 4359",
+    "sg:postcode":"110006",
+    "sg:tags":[
+        "synthetic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928091,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_427TuIiG2De3gdeF9dEVCY_28.647358_77.228996@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7686c1e92b3f7b8fcabe7389ac6add5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928091,
+            "region_id":85672123,
+            "venue_id":169580823
+        }
+    ],
+    "wof:id":169580823,
+    "wof:lastmodified":1449034917,
+    "wof:name":"Jindal Enterprises",
+    "wof:parent_id":85928091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "synthetic"
+    ]
+},
+  "bbox": [77.228996,28.647358,77.228996,28.647358],
+  "geometry": {"coordinates":[77.228996,28.647358],"type":"Point"}
+}

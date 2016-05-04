@@ -1,0 +1,62 @@
+{
+  "id": 169542445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.918732,15.13854,76.918732,15.13854",
+    "geom:latitude":15.13854,
+    "geom:longitude":76.918732,
+    "iso:country":"IN",
+    "sg:address":"Bellary Road, Venkatala, Yelahanka,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2846 0418",
+    "sg:postcode":"560064",
+    "sg:tags":[
+        "stone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030737,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q4NwNi9V94n0Qif8cegoX_15.138540_76.918732@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"472483234106ebf05fac59cfecf950fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030737,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169542445
+        }
+    ],
+    "wof:id":169542445,
+    "wof:lastmodified":1449035220,
+    "wof:name":"Bangalore Ceramics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stone"
+    ]
+},
+  "bbox": [76.918732,15.13854,76.918732,15.13854],
+  "geometry": {"coordinates":[76.918732,15.13854],"type":"Point"}
+}

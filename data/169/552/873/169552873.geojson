@@ -1,0 +1,66 @@
+{
+  "id": 169552873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.173172,22.302477,73.173172,22.302477",
+    "geom:latitude":22.302477,
+    "geom:longitude":73.173172,
+    "iso:country":"IN",
+    "sg:address":"1, B.p.c. Bldg., Productivity Road, Alkapuri,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 653 5998",
+    "sg:postcode":"390007",
+    "sg:tags":[
+        "fitting",
+        "fixture"
+    ],
+    "sg:website":"http://www.devfurnitures.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933511,
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xHDcgUkTA12xShO1kAmFw_22.302477_73.173172@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c9043211810717278bcc1832d2c125b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":85933511,
+            "region_id":85672249,
+            "venue_id":169552873
+        }
+    ],
+    "wof:id":169552873,
+    "wof:lastmodified":1449034052,
+    "wof:name":"Dev Furnitures",
+    "wof:parent_id":85933511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitting",
+        "fixture"
+    ]
+},
+  "bbox": [73.173172,22.302477,73.173172,22.302477],
+  "geometry": {"coordinates":[73.173172,22.302477],"type":"Point"}
+}

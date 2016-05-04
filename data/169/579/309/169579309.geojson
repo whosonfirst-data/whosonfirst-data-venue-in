@@ -1,0 +1,66 @@
+{
+  "id": 169579309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.455299,17.469885,78.455299,17.469885",
+    "geom:latitude":17.469885,
+    "geom:longitude":78.455299,
+    "iso:country":"IN",
+    "sg:address":"P. B. No. 1, Balanagar,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2307 8169",
+    "sg:postcode":"500037",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CvngHzoF2vs7Ka0cYgiUB_17.469885_78.455299@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"30e166ac5973d0414ad3e96b10af0f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169579309
+        }
+    ],
+    "wof:id":169579309,
+    "wof:lastmodified":1449033740,
+    "wof:name":"Ici India Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [78.455299,17.469885,78.455299,17.469885],
+  "geometry": {"coordinates":[78.455299,17.469885],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169608757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.826805,18.980745,72.826805,18.980745",
+    "geom:latitude":18.980745,
+    "geom:longitude":72.826805,
+    "iso:country":"IN",
+    "sg:address":"608, B.j.marg, Jacob Circle,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2306 3821",
+    "sg:postcode":"400011",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903901,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L3g6PDAPgY8nFhFrIutV4_18.980745_72.826805@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bd64d4bfdf4cc6d4d5172b4c8a17712e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903901,
+            "region_id":85672171,
+            "venue_id":169608757
+        }
+    ],
+    "wof:id":169608757,
+    "wof:lastmodified":1449034084,
+    "wof:name":"Ramniklal S. Gosalia & Co.",
+    "wof:parent_id":85903901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.826805,18.980745,72.826805,18.980745],
+  "geometry": {"coordinates":[72.826805,18.980745],"type":"Point"}
+}

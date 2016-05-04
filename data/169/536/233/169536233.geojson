@@ -1,0 +1,57 @@
+{
+  "id": 169536233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831062,18.972744,72.831062,18.972744",
+    "geom:latitude":18.972744,
+    "geom:longitude":72.831062,
+    "iso:country":"IN",
+    "sg:address":"152-b Kewal Industrial Estate, S.b. Marg, Lower Parel (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2495 2124",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931453,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QPj6rdZz3eJbl5bGPp2Ly_18.972744_72.831062@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"208ae74c39716b000b22b2e916c73cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931453,
+            "region_id":85672171,
+            "venue_id":169536233
+        }
+    ],
+    "wof:id":169536233,
+    "wof:lastmodified":1449034662,
+    "wof:name":"Golden Seam Textiles Pvt. Ltd.",
+    "wof:parent_id":85931453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.831062,18.972744,72.831062,18.972744],
+  "geometry": {"coordinates":[72.831062,18.972744],"type":"Point"}
+}

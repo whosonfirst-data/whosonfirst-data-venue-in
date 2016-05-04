@@ -1,0 +1,63 @@
+{
+  "id": 169644921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.05571,28.668333,77.05571,28.668333",
+    "geom:latitude":28.668333,
+    "geom:longitude":77.05571,
+    "iso:country":"IN",
+    "sg:address":"60/17, Naresh Park Extn., Najafgarh Road, Nangloi,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2594 5503",
+    "sg:postcode":"110041",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W5iLptLj5PYZ6mJWIi1Ak_28.668333_77.055710@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ae5d0b1d1c97be98f03eca94bf76e3bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169644921
+        }
+    ],
+    "wof:id":169644921,
+    "wof:lastmodified":1449034576,
+    "wof:name":"Vinyl Additives & Polymers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [77.05571,28.668333,77.05571,28.668333],
+  "geometry": {"coordinates":[77.05571,28.668333],"type":"Point"}
+}

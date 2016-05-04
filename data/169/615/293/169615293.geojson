@@ -1,0 +1,62 @@
+{
+  "id": 169615293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.160393,11.658484,78.160393,11.658484",
+    "geom:latitude":11.658484,
+    "geom:longitude":78.160393,
+    "iso:country":"IN",
+    "sg:address":"63/2, Dr. Subbarayan Road,",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 427 245 2269",
+    "sg:postcode":"636001",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028771,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v7HZTKxQyo5igi14u36Bv_11.658484_78.160393@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"19a689ef153dfd99389f489f16b4e443",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028771,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169615293
+        }
+    ],
+    "wof:id":169615293,
+    "wof:lastmodified":1449033732,
+    "wof:name":"Sakthi Traders",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [78.160393,11.658484,78.160393,11.658484],
+  "geometry": {"coordinates":[78.160393,11.658484],"type":"Point"}
+}

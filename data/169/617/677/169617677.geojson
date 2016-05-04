@@ -1,0 +1,63 @@
+{
+  "id": 169617677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.236633,28.654295,77.236633,28.654295",
+    "geom:latitude":28.654295,
+    "geom:longitude":77.236633,
+    "iso:country":"IN",
+    "sg:address":"3648, Netaji Subhash Marg, Darya Ganj,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4101 4687",
+    "sg:postcode":"110002",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928105,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L2Wo2uvU8S7GKq216iTbO_28.654295_77.236633@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a7f90581fc6bd3b4bbc53f69787fabe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928105,
+            "region_id":85672123,
+            "venue_id":169617677
+        }
+    ],
+    "wof:id":169617677,
+    "wof:lastmodified":1449032799,
+    "wof:name":"Scientific & Steel Corporation",
+    "wof:parent_id":85928105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.236633,28.654295,77.236633,28.654295],
+  "geometry": {"coordinates":[77.236633,28.654295],"type":"Point"}
+}

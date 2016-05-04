@@ -1,0 +1,65 @@
+{
+  "id": 169538025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.542374,12.971292,77.542374,12.971292",
+    "geom:latitude":12.971292,
+    "geom:longitude":77.542374,
+    "iso:country":"IN",
+    "sg:address":"#11/6, & 11/7, 4th Main Road, Industrial Town, Rajaji Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2330 5720",
+    "sg:postcode":"560044",
+    "sg:tags":[
+        "binder",
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zWLHDkgGivgZqAkYqU9mO_12.971292_77.542374@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f84f3fba1350223f2279bc73e22953ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169538025
+        }
+    ],
+    "wof:id":169538025,
+    "wof:lastmodified":1449033099,
+    "wof:name":"Prints India Process",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "binder",
+        "printer"
+    ]
+},
+  "bbox": [77.542374,12.971292,77.542374,12.971292],
+  "geometry": {"coordinates":[77.542374,12.971292],"type":"Point"}
+}

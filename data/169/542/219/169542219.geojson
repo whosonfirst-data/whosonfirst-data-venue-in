@@ -1,0 +1,68 @@
+{
+  "id": 169542219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.561226,13.075106,77.561226,13.075106",
+    "geom:latitude":13.075106,
+    "geom:longitude":77.561226,
+    "iso:country":"IN",
+    "sg:address":"27, 4th Block, Padarayanpura,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2674 4073",
+    "sg:postcode":"560026",
+    "sg:tags":[
+        "steel",
+        "stainless",
+        "product",
+        "component"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TFRwx1epQ9LDm88ZK7JIm_13.075106_77.561226@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5764a2fed35f2da3fb5e6fed2c5a71a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169542219
+        }
+    ],
+    "wof:id":169542219,
+    "wof:lastmodified":1449035223,
+    "wof:name":"Emaar Products",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "stainless",
+        "product",
+        "component"
+    ]
+},
+  "bbox": [77.561226,13.075106,77.561226,13.075106],
+  "geometry": {"coordinates":[77.561226,13.075106],"type":"Point"}
+}

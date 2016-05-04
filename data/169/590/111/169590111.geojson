@@ -1,0 +1,63 @@
+{
+  "id": 169590111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.492317,17.437592,78.492317,17.437592",
+    "geom:latitude":17.437592,
+    "geom:longitude":78.492317,
+    "iso:country":"IN",
+    "sg:address":"E-47, Foundry Nagar,",
+    "sg:city":"Agra",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 562 234 5273",
+    "sg:postcode":"282006",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930705,
+        85632469,
+        102028703,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bq6YiqbyqiFNavdBzYuPD_17.437592_78.492317@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7b52afcec27f6b1272fcd3e6a7859e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028703,
+            "neighbourhood_id":85930705,
+            "region_id":85672141,
+            "venue_id":169590111
+        }
+    ],
+    "wof:id":169590111,
+    "wof:lastmodified":1449034657,
+    "wof:name":"Mital Chemical Industries",
+    "wof:parent_id":85930705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.492317,17.437592,78.492317,17.437592],
+  "geometry": {"coordinates":[78.492317,17.437592],"type":"Point"}
+}

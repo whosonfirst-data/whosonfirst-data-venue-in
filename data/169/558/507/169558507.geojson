@@ -1,0 +1,63 @@
+{
+  "id": 169558507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.366493,22.53491,88.366493,22.53491",
+    "geom:latitude":22.53491,
+    "geom:longitude":88.366493,
+    "iso:country":"IN",
+    "sg:address":"33, Ballygunge Park,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2281 2183",
+    "sg:postcode":"700019",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903789,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aLgZoBSIZda2z8Q4f7L2A_22.534910_88.366493@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"dc524e1aaf80f756d235e4eb5a3b805a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903789,
+            "region_id":85672219,
+            "venue_id":169558507
+        }
+    ],
+    "wof:id":169558507,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Bortex Vincom Pvt. Ltd.",
+    "wof:parent_id":85903789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.366493,22.53491,88.366493,22.53491],
+  "geometry": {"coordinates":[88.366493,22.53491],"type":"Point"}
+}

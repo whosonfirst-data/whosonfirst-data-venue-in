@@ -1,0 +1,66 @@
+{
+  "id": 169544391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.629204,12.929525,77.629204,12.929525",
+    "geom:latitude":12.929525,
+    "geom:longitude":77.629204,
+    "iso:country":"IN",
+    "sg:address":"147/f, 8th Main, 3rd Block, Koramangala,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2553 7234",
+    "sg:postcode":"560034",
+    "sg:tags":[
+        "voltage",
+        "stabilizer"
+    ],
+    "sg:website":"http://www.wind-it.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931041,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zJuzGhN1ElqXJbJgtfHeK_12.929525_77.629204@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c185cdbed2a22d24d4176934df2cc63b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931041,
+            "region_id":85672165,
+            "venue_id":169544391
+        }
+    ],
+    "wof:id":169544391,
+    "wof:lastmodified":1449035965,
+    "wof:name":"Prismatic Engineering Pvt. Ltd.",
+    "wof:parent_id":85931041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "voltage",
+        "stabilizer"
+    ]
+},
+  "bbox": [77.629204,12.929525,77.629204,12.929525],
+  "geometry": {"coordinates":[77.629204,12.929525],"type":"Point"}
+}

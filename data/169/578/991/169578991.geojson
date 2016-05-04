@@ -1,0 +1,63 @@
+{
+  "id": 169578991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.352448,22.574373,88.352448,22.574373",
+    "geom:latitude":22.574373,
+    "geom:longitude":88.352448,
+    "iso:country":"IN",
+    "sg:address":"15, India Exchange Place,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2220 1578",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903957,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54sovcm4PCeD26rQEhcrCG_22.574373_88.352448@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ecca81a92b8e7c198e29f04f6a4d03c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903957,
+            "region_id":85672219,
+            "venue_id":169578991
+        }
+    ],
+    "wof:id":169578991,
+    "wof:lastmodified":1449033518,
+    "wof:name":"Hji-prop.gmmco. Ltd.",
+    "wof:parent_id":85903957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.352448,22.574373,88.352448,22.574373],
+  "geometry": {"coordinates":[88.352448,22.574373],"type":"Point"}
+}

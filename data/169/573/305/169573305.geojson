@@ -1,0 +1,53 @@
+{
+  "id": 169573305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.566238,12.958765,77.566238,12.958765",
+    "geom:latitude":12.958765,
+    "geom:longitude":77.566238,
+    "iso:country":"IN",
+    "sg:address":"Chamarajpet",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 806605637",
+    "sg:postcode":"560018",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930907,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64PSxLrvS3G49nxTqwNpOD_12.958765_77.566238@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"21f55f6e0f70acd7765050ebe209be3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930907,
+            "region_id":85672165,
+            "venue_id":169573305
+        }
+    ],
+    "wof:id":169573305,
+    "wof:lastmodified":1449035112,
+    "wof:name":"Kay Fluro Electronics Pvt Ltd",
+    "wof:parent_id":85930907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.566238,12.958765,77.566238,12.958765],
+  "geometry": {"coordinates":[77.566238,12.958765],"type":"Point"}
+}

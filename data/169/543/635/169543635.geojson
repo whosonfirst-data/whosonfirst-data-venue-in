@@ -1,0 +1,63 @@
+{
+  "id": 169543635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.592545,12.965964,77.592545,12.965964",
+    "geom:latitude":12.965964,
+    "geom:longitude":77.592545,
+    "iso:country":"IN",
+    "sg:address":"21, 8th Cross, Cubbonpet,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2363 6652",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "toy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930935,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ebhR4YQTiNWSfvfclkJeB_12.965964_77.592545@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3945ba500d09be4af11e08ea556c69c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930935,
+            "region_id":85672165,
+            "venue_id":169543635
+        }
+    ],
+    "wof:id":169543635,
+    "wof:lastmodified":1449033335,
+    "wof:name":"Sap Marketing",
+    "wof:parent_id":85930935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toy"
+    ]
+},
+  "bbox": [77.592545,12.965964,77.592545,12.965964],
+  "geometry": {"coordinates":[77.592545,12.965964],"type":"Point"}
+}

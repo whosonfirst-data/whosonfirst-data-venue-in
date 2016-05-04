@@ -1,0 +1,69 @@
+{
+  "id": 169542341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.524681,13.028806,77.524681,13.028806",
+    "geom:latitude":13.028806,
+    "geom:longitude":77.524681,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 15, Peenya Industrial Area,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2839 4058",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "steel",
+        "stainless",
+        "product",
+        "component"
+    ],
+    "sg:website":"http://www.welcaststeels.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BgfdPOvbEtbYgfFlV4iE3_13.028806_77.524681@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5db4f8eeb56ad804f21efc4547564809",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169542341
+        }
+    ],
+    "wof:id":169542341,
+    "wof:lastmodified":1449035223,
+    "wof:name":"Welcast Steels Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "stainless",
+        "product",
+        "component"
+    ]
+},
+  "bbox": [77.524681,13.028806,77.524681,13.028806],
+  "geometry": {"coordinates":[77.524681,13.028806],"type":"Point"}
+}

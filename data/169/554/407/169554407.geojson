@@ -1,0 +1,64 @@
+{
+  "id": 169554407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.445656,28.664434,77.445656,28.664434",
+    "geom:latitude":28.664434,
+    "geom:longitude":77.445656,
+    "iso:country":"IN",
+    "sg:address":"B/15, Ashok Nagar, Opposite Lions Hall,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 263 4359",
+    "sg:postcode":"390007",
+    "sg:tags":[
+        "pharmaceutical",
+        "formulation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xXKZtE2C19c8w8P9hzXrg_28.664434_77.445656@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a95d5578eba68fd090c4133f5bc2a03f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169554407
+        }
+    ],
+    "wof:id":169554407,
+    "wof:lastmodified":1449033369,
+    "wof:name":"Hamax Pharmaceuticals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "formulation"
+    ]
+},
+  "bbox": [77.445656,28.664434,77.445656,28.664434],
+  "geometry": {"coordinates":[77.445656,28.664434],"type":"Point"}
+}

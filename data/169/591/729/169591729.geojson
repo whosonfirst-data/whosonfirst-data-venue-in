@@ -1,0 +1,65 @@
+{
+  "id": 169591729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.85881,18.517784,73.85881,18.517784",
+    "geom:latitude":18.517784,
+    "geom:longitude":73.85881,
+    "iso:country":"IN",
+    "sg:address":"196/26, Budhwar Peth,",
+    "sg:city":"Solapur",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 217 262 0688",
+    "sg:postcode":"413002",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903913,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E9IRDV3P5bisjnezu884p_18.517784_73.858810@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1ad0c4669d48ae65fc6448444c34e145",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85903913,
+            "region_id":85672171,
+            "venue_id":169591729
+        }
+    ],
+    "wof:id":169591729,
+    "wof:lastmodified":1449034452,
+    "wof:name":"N.h. Polymers",
+    "wof:parent_id":85903913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [73.85881,18.517784,73.85881,18.517784],
+  "geometry": {"coordinates":[73.85881,18.517784],"type":"Point"}
+}

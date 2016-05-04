@@ -1,0 +1,64 @@
+{
+  "id": 169532185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.8722,19.120831,72.8722,19.120831",
+    "geom:latitude":19.120831,
+    "geom:longitude":72.8722,
+    "iso:country":"IN",
+    "sg:address":"Plot -63, Street 13, Midc, Andheri(e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2832 4741",
+    "sg:postcode":"400093",
+    "sg:tags":[
+        "diamond"
+    ],
+    "sg:website":"http://www.sheetals.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G9010jjhk8p2wVgn8KMwu_19.120831_72.872200@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0cca679d3f2aa623565168d38a2ce9db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169532185
+        }
+    ],
+    "wof:id":169532185,
+    "wof:lastmodified":1449033795,
+    "wof:name":"Sheetal Creations Pvt. Ltd.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.8722,19.120831,72.8722,19.120831],
+  "geometry": {"coordinates":[72.8722,19.120831],"type":"Point"}
+}

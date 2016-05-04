@@ -1,0 +1,54 @@
+{
+  "id": 169539721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.586586,12.908399,77.586586,12.908399",
+    "geom:latitude":12.908399,
+    "geom:longitude":77.586586,
+    "iso:country":"IN",
+    "sg:address":"141/1, 23rd 'a' Main, Jp Nagar, 2nd Phase,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:orig_category":"Scrap",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4121 6900",
+    "sg:postcode":"560078",
+    "sg:website":"http://www.diacservices.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931057,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DO2ZOnFzkuuYHfyWqElX2_12.908399_77.586586@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2f613bf6426b9499ec2bf0e2bc1dc418",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931057,
+            "region_id":85672165,
+            "venue_id":169539721
+        }
+    ],
+    "wof:id":169539721,
+    "wof:lastmodified":1449036039,
+    "wof:name":"Diac Services",
+    "wof:parent_id":85931057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.586586,12.908399,77.586586,12.908399],
+  "geometry": {"coordinates":[77.586586,12.908399],"type":"Point"}
+}

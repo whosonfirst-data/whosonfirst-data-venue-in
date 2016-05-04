@@ -1,0 +1,63 @@
+{
+  "id": 169558305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.871582,19.12557,72.871582,19.12557",
+    "geom:latitude":19.12557,
+    "geom:longitude":72.871582,
+    "iso:country":"IN",
+    "sg:address":"Bio Care House Ma-23, S.a. Road, Laxmi Nagar,",
+    "sg:city":"Nagpur",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 712 222 4344",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "sg:website":"http://www.biocareindia.biz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZWjnUDbTwJOzV7hIww4Q6_19.125570_72.871582@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"550b8cadd4f7f3091165b97cc4425a62",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169558305
+        }
+    ],
+    "wof:id":169558305,
+    "wof:lastmodified":1449033581,
+    "wof:name":"Bio Care (india) Pvt. Ltd.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [72.871582,19.12557,72.871582,19.12557],
+  "geometry": {"coordinates":[72.871582,19.12557],"type":"Point"}
+}

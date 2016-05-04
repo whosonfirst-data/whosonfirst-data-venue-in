@@ -1,0 +1,64 @@
+{
+  "id": 169533713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.835426,18.936367,72.835426,18.936367",
+    "geom:latitude":18.936367,
+    "geom:longitude":72.835426,
+    "iso:country":"IN",
+    "sg:address":"18/20, Bora Bazar, 2nd Floor, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2261 9467",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "calendar",
+        "diary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DpCbJXZBYTvh09H51xp2Y_18.936367_72.835426@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"58557328220d87c095fe32b7fcd1b823",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169533713
+        }
+    ],
+    "wof:id":169533713,
+    "wof:lastmodified":1449032644,
+    "wof:name":"Stick Promotion",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "calendar",
+        "diary"
+    ]
+},
+  "bbox": [72.835426,18.936367,72.835426,18.936367],
+  "geometry": {"coordinates":[72.835426,18.936367],"type":"Point"}
+}

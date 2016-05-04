@@ -1,0 +1,70 @@
+{
+  "id": 169526307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.93589,19.133512,72.93589,19.133512",
+    "geom:latitude":19.133512,
+    "geom:longitude":72.93589,
+    "iso:country":"IN",
+    "sg:address":"Kanjur Village Road, Kanjur Marg (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2578 2461",
+    "sg:postcode":"400042",
+    "sg:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ],
+    "sg:website":"http://www.echjay.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931633,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12thbKrcxwTYLUbtwCKFIE_19.133512_72.935890@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"acfc5a9ae0a71324b4e8494e4bafbca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931633,
+            "region_id":85672171,
+            "venue_id":169526307
+        }
+    ],
+    "wof:id":169526307,
+    "wof:lastmodified":1449033699,
+    "wof:name":"Echjay Forging Ltd.",
+    "wof:parent_id":85931633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ]
+},
+  "bbox": [72.93589,19.133512,72.93589,19.133512],
+  "geometry": {"coordinates":[72.93589,19.133512],"type":"Point"}
+}

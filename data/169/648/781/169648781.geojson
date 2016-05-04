@@ -1,0 +1,67 @@
+{
+  "id": 169648781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"83.313183,17.738591,83.313183,17.738591",
+    "geom:latitude":17.738591,
+    "geom:longitude":83.313183,
+    "iso:country":"IN",
+    "sg:address":"#204, Crescent Towers Seethammadhara",
+    "sg:city":"Vizag",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"530013",
+    "sg:tags":[
+        "Legal-Service",
+        "Lawyer",
+        "Advocate"
+    ],
+    "sg:website":"http://www.advocatekhoj.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903995,
+        85632469,
+        102028261,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nHmxSOpHCEtAKiZyUHhWj_17.738591_83.313183@1308163237"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0bfb77c7f5b538e0ec4273cdfeced058",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028261,
+            "neighbourhood_id":85903995,
+            "region_id":85672141,
+            "venue_id":169648781
+        }
+    ],
+    "wof:id":169648781,
+    "wof:lastmodified":1449033584,
+    "wof:name":"AdvocateKhoj",
+    "wof:parent_id":85903995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "Legal-Service",
+        "Lawyer",
+        "Advocate"
+    ]
+},
+  "bbox": [83.313183,17.738591,83.313183,17.738591],
+  "geometry": {"coordinates":[83.313183,17.738591],"type":"Point"}
+}

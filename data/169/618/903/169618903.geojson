@@ -1,0 +1,63 @@
+{
+  "id": 169618903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.185699,13.049108,80.185699,13.049108",
+    "geom:latitude":13.049108,
+    "geom:longitude":80.185699,
+    "iso:country":"IN",
+    "sg:address":"10, Thiru Nagar, Alwarthiru Nagar,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2486 8761",
+    "sg:postcode":"600087",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903779,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32LHyBhP8LMfMvm2WmUduy_13.049108_80.185699@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ac22e2192494747164db8ec585291b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903779,
+            "region_id":85672245,
+            "venue_id":169618903
+        }
+    ],
+    "wof:id":169618903,
+    "wof:lastmodified":1449034736,
+    "wof:name":"Shara Chemicals",
+    "wof:parent_id":85903779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.185699,13.049108,80.185699,13.049108],
+  "geometry": {"coordinates":[80.185699,13.049108],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169541761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.549744,13.000593,77.549744,13.000593",
+    "geom:latitude":13.000593,
+    "geom:longitude":77.549744,
+    "iso:country":"IN",
+    "sg:address":"70/16, 1st 'a' Main Road, West Of Chord Road, Mahalakshmi Layout Entrance,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2349 6255",
+    "sg:postcode":"560086",
+    "sg:tags":[
+        "equipment",
+        "solar"
+    ],
+    "sg:website":"http://www.sunrisesolarsystem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jn7nQRjxdjEWE9UjwnSL0_13.000593_77.549744@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f9b6c963a76969bc1c2e00b772f04bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169541761
+        }
+    ],
+    "wof:id":169541761,
+    "wof:lastmodified":1449033043,
+    "wof:name":"Sunrise Solar Pvt. Ltd.",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "solar"
+    ]
+},
+  "bbox": [77.549744,13.000593,77.549744,13.000593],
+  "geometry": {"coordinates":[77.549744,13.000593],"type":"Point"}
+}

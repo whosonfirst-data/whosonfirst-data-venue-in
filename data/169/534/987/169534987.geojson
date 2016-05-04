@@ -1,0 +1,67 @@
+{
+  "id": 169534987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.938118,19.151548,72.938118,19.151548",
+    "geom:latitude":19.151548,
+    "geom:longitude":72.938118,
+    "iso:country":"IN",
+    "sg:address":"4041, Bhandup Industrial Estate, L.b.s. Road, Bhandup (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2522 7408",
+    "sg:postcode":"400078",
+    "sg:tags":[
+        "component",
+        "product",
+        "electronic"
+    ],
+    "sg:website":"http://www.orionele.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rO6bmZDMyiIBz11zrjnJf_19.151548_72.938118@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"39c702c0cf0ffd533dfcb3b05023f474",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169534987
+        }
+    ],
+    "wof:id":169534987,
+    "wof:lastmodified":1449033549,
+    "wof:name":"Orion Electronics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "product",
+        "electronic"
+    ]
+},
+  "bbox": [72.938118,19.151548,72.938118,19.151548],
+  "geometry": {"coordinates":[72.938118,19.151548],"type":"Point"}
+}

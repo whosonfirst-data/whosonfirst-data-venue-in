@@ -1,0 +1,66 @@
+{
+  "id": 169544585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.651604,12.958296,77.651604,12.958296",
+    "geom:latitude":12.958296,
+    "geom:longitude":77.651604,
+    "iso:country":"IN",
+    "sg:address":"Tower A, Golden Enclave, Airport Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2526 8551",
+    "sg:postcode":"560017",
+    "sg:tags":[
+        "watch",
+        "clock"
+    ],
+    "sg:website":"http://www.titanworld.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931079,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7F2dhFlJrOO8TqmFymgGhT_12.958296_77.651604@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ad4d685bf15a0275a083a2bdec50dbfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931079,
+            "region_id":85672165,
+            "venue_id":169544585
+        }
+    ],
+    "wof:id":169544585,
+    "wof:lastmodified":1449035964,
+    "wof:name":"Titan Industries Limited",
+    "wof:parent_id":85931079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "watch",
+        "clock"
+    ]
+},
+  "bbox": [77.651604,12.958296,77.651604,12.958296],
+  "geometry": {"coordinates":[77.651604,12.958296],"type":"Point"}
+}

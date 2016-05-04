@@ -1,0 +1,65 @@
+{
+  "id": 169550157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"70.826859,22.280378,70.826859,22.280378",
+    "geom:latitude":22.280378,
+    "geom:longitude":70.826859,
+    "iso:country":"IN",
+    "sg:address":"A1-284/2, Gidc,",
+    "sg:city":"Umbergaon",
+    "sg:classifiers":[
+        {
+            "category":"Metro Station",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 260 256 2561",
+    "sg:postcode":"396171",
+    "sg:tags":[
+        "tube",
+        "fitting"
+    ],
+    "sg:website":"http://www.mandevtubes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028901,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zUuzfvV5vHcJbpIs5vKPr_22.280378_70.826859@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a4390088cb5ed1e958b8f6061e211fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028901,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169550157
+        }
+    ],
+    "wof:id":169550157,
+    "wof:lastmodified":1449034478,
+    "wof:name":"Mandev Tubes",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tube",
+        "fitting"
+    ]
+},
+  "bbox": [70.826859,22.280378,70.826859,22.280378],
+  "geometry": {"coordinates":[70.826859,22.280378],"type":"Point"}
+}

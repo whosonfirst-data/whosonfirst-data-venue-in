@@ -1,0 +1,64 @@
+{
+  "id": 169582011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.483124,17.398117,78.483124,17.398117",
+    "geom:latitude":17.398117,
+    "geom:longitude":78.483124,
+    "iso:country":"IN",
+    "sg:address":"200, Old No. 113, Broadway,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2536 7632",
+    "sg:postcode":"600108",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.palpap.kantaflx.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930719,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TpXHf8o6dh5SFU2HVPI1v_17.398117_78.483124@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"11af23b93bcd3104e64a28e0e5268902",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930719,
+            "region_id":85672141,
+            "venue_id":169582011
+        }
+    ],
+    "wof:id":169582011,
+    "wof:lastmodified":1449034466,
+    "wof:name":"Kanta Enterprises",
+    "wof:parent_id":85930719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [78.483124,17.398117,78.483124,17.398117],
+  "geometry": {"coordinates":[78.483124,17.398117],"type":"Point"}
+}

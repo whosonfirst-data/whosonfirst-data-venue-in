@@ -1,0 +1,57 @@
+{
+  "id": 169535953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831482,18.951935,72.831482,18.951935",
+    "geom:latitude":18.951935,
+    "geom:longitude":72.831482,
+    "iso:country":"IN",
+    "sg:address":"15/23, Ganesh Wadi, Zaveri Bazar,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2240 1926",
+    "sg:postcode":"400002",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NThcAVBTEnKDGayBYU87w_18.951935_72.831482@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f7da6a2e5b12e67a4957090261027b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169535953
+        }
+    ],
+    "wof:id":169535953,
+    "wof:lastmodified":1449033286,
+    "wof:name":"C.chhotalal & Co.",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.831482,18.951935,72.831482,18.951935],
+  "geometry": {"coordinates":[72.831482,18.951935],"type":"Point"}
+}

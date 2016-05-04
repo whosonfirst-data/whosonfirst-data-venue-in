@@ -1,0 +1,62 @@
+{
+  "id": 169548481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.277214,13.084446,80.277214,13.084446",
+    "geom:latitude":13.084446,
+    "geom:longitude":80.277214,
+    "iso:country":"IN",
+    "sg:address":"44/2, Pereira Street,",
+    "sg:city":"Tuticorin",
+    "sg:classifiers":[],
+    "sg:orig_category":"Marine Products",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 461 232 4678",
+    "sg:postcode":"628001",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931751,
+        85632469,
+        102029537,
+        85672245,
+        85931819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1m7eRvOIjMkZHH75El4G6J_13.084446_80.277214@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d09cf9e585a1e5f758c5af5a04ad9977",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931751,
+            "region_id":85672245,
+            "venue_id":169548481
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931819,
+            "region_id":85672245,
+            "venue_id":169548481
+        }
+    ],
+    "wof:id":169548481,
+    "wof:lastmodified":1449034974,
+    "wof:name":"Jvs Exports",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.277214,13.084446,80.277214,13.084446],
+  "geometry": {"coordinates":[80.277214,13.084446],"type":"Point"}
+}

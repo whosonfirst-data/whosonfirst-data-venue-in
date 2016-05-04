@@ -1,0 +1,64 @@
+{
+  "id": 169529723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.822289,18.923733,72.822289,18.923733",
+    "geom:latitude":18.923733,
+    "geom:longitude":72.822289,
+    "iso:country":"IN",
+    "sg:address":"1020, Maker V. Nariman Point,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5631 5200",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.popwala.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ww28lE0DGYGN217HinGPa_18.923733_72.822289@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9729b57135d1157f5516074d819c8b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169529723
+        }
+    ],
+    "wof:id":169529723,
+    "wof:lastmodified":1449034114,
+    "wof:name":"Popawala & Co.",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.822289,18.923733,72.822289,18.923733],
+  "geometry": {"coordinates":[72.822289,18.923733],"type":"Point"}
+}

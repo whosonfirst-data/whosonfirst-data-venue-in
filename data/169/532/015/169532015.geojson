@@ -1,0 +1,63 @@
+{
+  "id": 169532015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.842514,19.162565,72.842514,19.162565",
+    "geom:latitude":19.162565,
+    "geom:longitude":72.842514,
+    "iso:country":"IN",
+    "sg:address":"Unit 26, 1st Floor,c-3 Laxmi Indl. Estate, Near Bangur Nagar, Goregaon (west) ,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2872 4915",
+    "sg:postcode":"400090",
+    "sg:tags":[
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DqXTaWL2oA4axatG8NhTa_19.162565_72.842514@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a1342190b6e9f40f61bca2a0caf0c94c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169532015
+        }
+    ],
+    "wof:id":169532015,
+    "wof:lastmodified":1449033794,
+    "wof:name":"Dental Aesthetics",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dental"
+    ]
+},
+  "bbox": [72.842514,19.162565,72.842514,19.162565],
+  "geometry": {"coordinates":[72.842514,19.162565],"type":"Point"}
+}

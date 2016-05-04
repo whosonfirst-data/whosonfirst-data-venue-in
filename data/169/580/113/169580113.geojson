@@ -1,0 +1,62 @@
+{
+  "id": 169580113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.19664,28.692888,77.19664,28.692888",
+    "geom:latitude":28.692888,
+    "geom:longitude":77.19664,
+    "iso:country":"IN",
+    "sg:address":"E-34, 2nd Floor, Connaught Circus,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 112341888075463",
+    "sg:postcode":"110001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FtA3aujqkO02ERsKgof0v_28.692888_77.196640@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"94545f1dea9b64d858245b96c189d6d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169580113
+        }
+    ],
+    "wof:id":169580113,
+    "wof:lastmodified":1449034917,
+    "wof:name":"International Panaacea Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.19664,28.692888,77.19664,28.692888],
+  "geometry": {"coordinates":[77.19664,28.692888],"type":"Point"}
+}

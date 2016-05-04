@@ -1,0 +1,63 @@
+{
+  "id": 169550233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.212357,28.643791,77.212357,28.643791",
+    "geom:latitude":28.643791,
+    "geom:longitude":77.212357,
+    "iso:country":"IN",
+    "sg:address":"140, Golai, Ganj Bazar,",
+    "sg:city":"Unjha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 27672256640",
+    "sg:postcode":"384170",
+    "sg:tags":[
+        "seed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903937,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ra5YY1AyWR4ohjK6RPTsv_28.643791_77.212357@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"df8c0dfd9cf902e5665e32156d01d982",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903937,
+            "region_id":85672123,
+            "venue_id":169550233
+        }
+    ],
+    "wof:id":169550233,
+    "wof:lastmodified":1449034478,
+    "wof:name":"Tribhovandas Ranchhoddas & Sons",
+    "wof:parent_id":85903937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seed"
+    ]
+},
+  "bbox": [77.212357,28.643791,77.212357,28.643791],
+  "geometry": {"coordinates":[77.212357,28.643791],"type":"Point"}
+}

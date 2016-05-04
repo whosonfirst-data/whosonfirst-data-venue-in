@@ -1,0 +1,64 @@
+{
+  "id": 169618357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.847122,19.156956,72.847122,19.156956",
+    "geom:latitude":19.156956,
+    "geom:longitude":72.847122,
+    "iso:country":"IN",
+    "sg:address":"F- 437, Road No.- 12, V.k.i Area,",
+    "sg:city":"Jaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 141 233 0579",
+    "sg:postcode":"302013",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.shaktiminerals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dfh8Ax7vs6BTPr0ezW0k0_19.156956_72.847122@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d356e7f55fd243b61e7a0e08e0dcfb49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169618357
+        }
+    ],
+    "wof:id":169618357,
+    "wof:lastmodified":1449034738,
+    "wof:name":"Shakti Chemical & Mineral Industries",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.847122,19.156956,72.847122,19.156956],
+  "geometry": {"coordinates":[72.847122,19.156956],"type":"Point"}
+}

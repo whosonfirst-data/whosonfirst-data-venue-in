@@ -1,0 +1,63 @@
+{
+  "id": 169532803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.817177,18.960703,72.817177,18.960703",
+    "geom:latitude":18.960703,
+    "geom:longitude":72.817177,
+    "iso:country":"IN",
+    "sg:address":"78/b, Ratandeep, Off No.3, Opera House,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2366 8546",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903971,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LRPwprZRRaO6LC89gtelN_18.960703_72.817177@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8259b622e20c2894558e6efd968e0b58",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903971,
+            "region_id":85672171,
+            "venue_id":169532803
+        }
+    ],
+    "wof:id":169532803,
+    "wof:lastmodified":1449033797,
+    "wof:name":"S. M. Trading Co.",
+    "wof:parent_id":85903971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.817177,18.960703,72.817177,18.960703],
+  "geometry": {"coordinates":[72.817177,18.960703],"type":"Point"}
+}

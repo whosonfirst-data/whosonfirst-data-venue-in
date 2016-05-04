@@ -1,0 +1,63 @@
+{
+  "id": 169627227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"83.338196,17.73288,83.338196,17.73288",
+    "geom:latitude":17.73288,
+    "geom:longitude":83.338196,
+    "iso:country":"IN",
+    "sg:address":"M.i.g., 24-b, D.no. 4-49-16, Lawson's Bay Colony,",
+    "sg:city":"Vishakapattanam",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 891 252 1836",
+    "sg:postcode":"530017",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933245,
+        85632469,
+        102028261,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D3RKbv577WK4sRnltpfqZ_17.732880_83.338196@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2e6360a05c367d11abd21f0b7a6dd9eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028261,
+            "neighbourhood_id":85933245,
+            "region_id":85672141,
+            "venue_id":169627227
+        }
+    ],
+    "wof:id":169627227,
+    "wof:lastmodified":1449036042,
+    "wof:name":"Sree Sree Impex Pvt. Ltd.",
+    "wof:parent_id":85933245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [83.338196,17.73288,83.338196,17.73288],
+  "geometry": {"coordinates":[83.338196,17.73288],"type":"Point"}
+}

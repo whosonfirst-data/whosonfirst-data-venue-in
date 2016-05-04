@@ -1,0 +1,65 @@
+{
+  "id": 169595285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.740868,30.686123,76.740868,30.686123",
+    "geom:latitude":30.686123,
+    "geom:longitude":76.740868,
+    "iso:country":"IN",
+    "sg:address":"A38-h, Sector-64,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 240 3101",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "plant",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931899,
+        85632469,
+        102031103,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zjiy2EPdUOKq4Y95QwqRs_30.686123_76.740868@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"595ff5fecc82e84e71c19771cec1ab7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031103,
+            "neighbourhood_id":85931899,
+            "region_id":85672195,
+            "venue_id":169595285
+        }
+    ],
+    "wof:id":169595285,
+    "wof:lastmodified":1449035635,
+    "wof:name":"Nunerg Engineering Pvt. Ltd.",
+    "wof:parent_id":85931899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [76.740868,30.686123,76.740868,30.686123],
+  "geometry": {"coordinates":[76.740868,30.686123],"type":"Point"}
+}

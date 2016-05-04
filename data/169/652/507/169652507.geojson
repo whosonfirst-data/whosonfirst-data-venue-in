@@ -1,0 +1,75 @@
+{
+  "id": 169652507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.444474,17.413687,78.444474,17.413687",
+    "geom:latitude":17.413687,
+    "geom:longitude":78.444474,
+    "iso:country":"IN",
+    "sg:address":"6-3-655/4,Somajiguda",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"500082",
+    "sg:tags":[
+        "local-search",
+        "city-guide",
+        "reviews",
+        "social-network",
+        "classifieds",
+        "yellow-pages",
+        "directory"
+    ],
+    "sg:website":"http://www.tolmolbol.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930747,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x7fTKNMPoquJRVMJwN7v6_17.413687_78.444474@1308163238"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a54afefa52ffd4eb48f36162d63b9d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930747,
+            "region_id":85672141,
+            "venue_id":169652507
+        }
+    ],
+    "wof:id":169652507,
+    "wof:lastmodified":1449034808,
+    "wof:name":"tolmolbol",
+    "wof:parent_id":85930747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local-search",
+        "city-guide",
+        "reviews",
+        "social-network",
+        "classifieds",
+        "yellow-pages",
+        "directory"
+    ]
+},
+  "bbox": [78.444474,17.413687,78.444474,17.413687],
+  "geometry": {"coordinates":[78.444474,17.413687],"type":"Point"}
+}

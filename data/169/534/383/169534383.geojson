@@ -1,0 +1,71 @@
+{
+  "id": 169534383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831932,18.947191,72.831932,18.947191",
+    "geom:latitude":18.947191,
+    "geom:longitude":72.831932,
+    "iso:country":"IN",
+    "sg:address":"5, Shreeji Bhuvan, 70, Lohar Chawl,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2206 1738",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "lighting",
+        "product",
+        "electrical",
+        "component",
+        "/"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12EUBZACEfVUSAjkf4ksJB_18.947191_72.831932@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"672f51477b3f999f64bcbd9d8c6c134e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169534383
+        }
+    ],
+    "wof:id":169534383,
+    "wof:lastmodified":1449033548,
+    "wof:name":"Parimal Electric Corporation",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "product",
+        "electrical",
+        "component",
+        "/"
+    ]
+},
+  "bbox": [72.831932,18.947191,72.831932,18.947191],
+  "geometry": {"coordinates":[72.831932,18.947191],"type":"Point"}
+}

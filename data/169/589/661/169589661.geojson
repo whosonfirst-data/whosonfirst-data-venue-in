@@ -1,0 +1,63 @@
+{
+  "id": 169589661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.667877,23.024843,72.667877,23.024843",
+    "geom:latitude":23.024843,
+    "geom:longitude":72.667877,
+    "iso:country":"IN",
+    "sg:address":"Plot No 611, 612, Odhav Road, Odhav,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 792297614445",
+    "sg:postcode":"382415",
+    "sg:tags":[
+        "sulphur"
+    ],
+    "sg:website":"http://www.metsominerals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_291WzHzz5wBtNCPJJ4mZvs_23.024843_72.667877@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ceed7d2b97aec672378ceff4ceb9441a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169589661
+        }
+    ],
+    "wof:id":169589661,
+    "wof:lastmodified":1449034449,
+    "wof:name":"Metso Minerals (new Delhi) Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sulphur"
+    ]
+},
+  "bbox": [72.667877,23.024843,72.667877,23.024843],
+  "geometry": {"coordinates":[72.667877,23.024843],"type":"Point"}
+}

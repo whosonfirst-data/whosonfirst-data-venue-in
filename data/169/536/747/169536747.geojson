@@ -1,0 +1,64 @@
+{
+  "id": 169536747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.571487,12.937844,77.571487,12.937844",
+    "geom:latitude":12.937844,
+    "geom:longitude":77.571487,
+    "iso:country":"IN",
+    "sg:address":"No. 44-45, R.v. Road, Basavanagudi,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"City Walls",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2657 6888",
+    "sg:postcode":"560004",
+    "sg:tags":[
+        "plywood"
+    ],
+    "sg:website":"http://www.prestigetrades.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930849,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Uh6g2fT0txz2DLrBQaDmL_12.937844_77.571487@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8a1cc8a22a74bc74ff6b727bcfb53b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930849,
+            "region_id":85672165,
+            "venue_id":169536747
+        }
+    ],
+    "wof:id":169536747,
+    "wof:lastmodified":1449034656,
+    "wof:name":"Prestige Traders",
+    "wof:parent_id":85930849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plywood"
+    ]
+},
+  "bbox": [77.571487,12.937844,77.571487,12.937844],
+  "geometry": {"coordinates":[77.571487,12.937844],"type":"Point"}
+}

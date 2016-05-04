@@ -1,0 +1,70 @@
+{
+  "id": 169537219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.530235,13.052986,77.530235,13.052986",
+    "geom:latitude":13.052986,
+    "geom:longitude":77.530235,
+    "iso:country":"IN",
+    "sg:address":"A-011, Hmt Industrial Estate, S.m. Road, Jalahalli,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2838 5847",
+    "sg:postcode":"560031",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Yrezr3iCi00pKjb2N1of3_13.052986_77.530235@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7ca7d51f7ce82ba65d5841d54f0680ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169537219
+        }
+    ],
+    "wof:id":169537219,
+    "wof:lastmodified":1449033501,
+    "wof:name":"Frontline Precision Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.530235,13.052986,77.530235,13.052986],
+  "geometry": {"coordinates":[77.530235,13.052986],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169597887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.854172,22.716246,75.854172,22.716246",
+    "geom:latitude":22.716246,
+    "geom:longitude":75.854172,
+    "iso:country":"IN",
+    "sg:address":"14, Jawahar Marg,",
+    "sg:city":"Indore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 731 404 8978",
+    "sg:postcode":"452001",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030041,
+        85672239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oThJRxtmMgpYVqzWR8gpy_22.716246_75.854172@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3c04f4c5c33a45d22bcb3de91d343445",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030041,
+            "neighbourhood_id":-1,
+            "region_id":85672239,
+            "venue_id":169597887
+        }
+    ],
+    "wof:id":169597887,
+    "wof:lastmodified":1449035923,
+    "wof:name":"P.p. Polymers India",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [75.854172,22.716246,75.854172,22.716246],
+  "geometry": {"coordinates":[75.854172,22.716246],"type":"Point"}
+}

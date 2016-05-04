@@ -1,0 +1,63 @@
+{
+  "id": 169598337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.451752,17.457298,78.451752,17.457298",
+    "geom:latitude":17.457298,
+    "geom:longitude":78.451752,
+    "iso:country":"IN",
+    "sg:address":"3-112, Fathenagar,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2377 2440",
+    "sg:postcode":"500018",
+    "sg:tags":[
+        "acid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930831,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EpUBZPlRzQMxeN6d9lP12_17.457298_78.451752@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"25ef02294d417ad16a8349df970dc03f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930831,
+            "region_id":85672141,
+            "venue_id":169598337
+        }
+    ],
+    "wof:id":169598337,
+    "wof:lastmodified":1449032858,
+    "wof:name":"Paramount Chemical Industries",
+    "wof:parent_id":85930831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [78.451752,17.457298,78.451752,17.457298],
+  "geometry": {"coordinates":[78.451752,17.457298],"type":"Point"}
+}

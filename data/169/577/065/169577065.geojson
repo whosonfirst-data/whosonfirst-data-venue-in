@@ -1,0 +1,64 @@
+{
+  "id": 169577065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.838936,18.955805,72.838936,18.955805",
+    "geom:latitude":18.955805,
+    "geom:longitude":72.838936,
+    "iso:country":"IN",
+    "sg:address":"11, Clive Row, 2nd Floor, Room No: 15,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2242 2545",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "synthetic",
+        "pu/pvc"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KT79aakiajUyag4q8kbHv_18.955805_72.838936@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3327dfc39af8a32e3a06555af3dd21d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169577065
+        }
+    ],
+    "wof:id":169577065,
+    "wof:lastmodified":1449036070,
+    "wof:name":"Gadia & Gadia",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "synthetic",
+        "pu/pvc"
+    ]
+},
+  "bbox": [72.838936,18.955805,72.838936,18.955805],
+  "geometry": {"coordinates":[72.838936,18.955805],"type":"Point"}
+}

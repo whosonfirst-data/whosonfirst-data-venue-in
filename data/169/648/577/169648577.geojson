@@ -1,0 +1,58 @@
+{
+  "id": 169648577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"139.605025,35.929723,139.605025,35.929723",
+    "geom:latitude":35.929723,
+    "geom:longitude":139.605025,
+    "iso:country":"IN",
+    "sg:address":"2 & 3,21st main BSK 2nd stage",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560070",
+    "sg:website":"http://www.yulop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85909259,
+        85632429,
+        102031851,
+        85672807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pCuRRapIsqigaekiwhedx_35.929723_139.605025@1308163237"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"88ccc370f35edf944f2ae2d1e3d519af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632429,
+            "locality_id":102031851,
+            "neighbourhood_id":85909259,
+            "region_id":85672807,
+            "venue_id":169648577
+        }
+    ],
+    "wof:id":169648577,
+    "wof:lastmodified":1449033587,
+    "wof:name":"Yulop",
+    "wof:parent_id":85909259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [139.605025,35.929723,139.605025,35.929723],
+  "geometry": {"coordinates":[139.605025,35.929723],"type":"Point"}
+}

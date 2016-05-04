@@ -1,0 +1,66 @@
+{
+  "id": 169611421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.82431,18.927296,72.82431,18.927296",
+    "geom:latitude":18.927296,
+    "geom:longitude":72.82431,
+    "iso:country":"IN",
+    "sg:address":"47, Atlanta Nariman Point,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 4040 3200",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "sg:website":"http://www.rishichem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Zep38LjytTgdpekBgvG5z_18.927296_72.824310@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e0d01d39fc85f05de4c7c9d6b20408c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169611421
+        }
+    ],
+    "wof:id":169611421,
+    "wof:lastmodified":1449035262,
+    "wof:name":"Rishichem Dist. Pvt. Ltd.",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [72.82431,18.927296,72.82431,18.927296],
+  "geometry": {"coordinates":[72.82431,18.927296],"type":"Point"}
+}

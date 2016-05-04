@@ -1,0 +1,65 @@
+{
+  "id": 169547259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.350189,11.10778,77.350189,11.10778",
+    "geom:latitude":11.10778,
+    "geom:longitude":77.350189,
+    "iso:country":"IN",
+    "sg:address":"149, Union Mill Road,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 4320 241 800",
+    "sg:postcode":"641601",
+    "sg:tags":[
+        "flower",
+        "dried"
+    ],
+    "sg:website":"http://www.globalplantsnursery.s5.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028425,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_553MszMoEkPFH4Z0OF5Sk1_11.107780_77.350189@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d519f76884a52bacf8054619c004d8b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028425,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169547259
+        }
+    ],
+    "wof:id":169547259,
+    "wof:lastmodified":1449033007,
+    "wof:name":"Global Plants Nursery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower",
+        "dried"
+    ]
+},
+  "bbox": [77.350189,11.10778,77.350189,11.10778],
+  "geometry": {"coordinates":[77.350189,11.10778],"type":"Point"}
+}

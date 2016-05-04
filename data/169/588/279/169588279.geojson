@@ -1,0 +1,64 @@
+{
+  "id": 169588279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.207458,28.649654,77.207458,28.649654",
+    "geom:latitude":28.649654,
+    "geom:longitude":77.207458,
+    "iso:country":"IN",
+    "sg:address":"8, M.m. Road, Motia Khan,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11235130013006",
+    "sg:postcode":"110055",
+    "sg:tags":[
+        "silicon"
+    ],
+    "sg:website":"http://www.teknosgroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903937,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z6YqbjY9eyAO1DrbbJtYn_28.649654_77.207458@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4a5d9f53a6306c50189e9bdcf6d290c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903937,
+            "region_id":85672123,
+            "venue_id":169588279
+        }
+    ],
+    "wof:id":169588279,
+    "wof:lastmodified":1449035308,
+    "wof:name":"Mccoy Silicones Limited",
+    "wof:parent_id":85903937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silicon"
+    ]
+},
+  "bbox": [77.207458,28.649654,77.207458,28.649654],
+  "geometry": {"coordinates":[77.207458,28.649654],"type":"Point"}
+}

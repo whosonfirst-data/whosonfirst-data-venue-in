@@ -1,0 +1,64 @@
+{
+  "id": 169626781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.59877,12.966628,77.59877,12.966628",
+    "geom:latitude":12.966628,
+    "geom:longitude":77.59877,
+    "iso:country":"IN",
+    "sg:address":"H.i.g. - E/34, R.s.s. Nagar,",
+    "sg:city":"Indore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 731 406 2634",
+    "sg:postcode":"452008",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.spotglobo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930933,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zlJwroJS9L4W61X1YnNev_12.966628_77.598770@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b55b98745b3359167bfbaad636ba0691",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930933,
+            "region_id":85672165,
+            "venue_id":169626781
+        }
+    ],
+    "wof:id":169626781,
+    "wof:lastmodified":1449035970,
+    "wof:name":"Spot Globo",
+    "wof:parent_id":85930933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.59877,12.966628,77.59877,12.966628],
+  "geometry": {"coordinates":[77.59877,12.966628],"type":"Point"}
+}

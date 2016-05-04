@@ -1,0 +1,77 @@
+{
+  "id": 169584755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.454147,17.429024,78.454147,17.429024",
+    "geom:latitude":17.429024,
+    "geom:longitude":78.454147,
+    "iso:country":"IN",
+    "sg:address":"509, Topaz Building, Panjagutta,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2341 6036",
+    "sg:postcode":"500082",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "sg:website":"http://www.liquorsindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930723,
+        85632469,
+        102030059,
+        85672141,
+        85930753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ku1Wm9MpnjZKPexjoHdxY_17.429024_78.454147@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"345683ca36a298c6d71c0830915e9c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930723,
+            "region_id":85672141,
+            "venue_id":169584755
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930753,
+            "region_id":85672141,
+            "venue_id":169584755
+        }
+    ],
+    "wof:id":169584755,
+    "wof:lastmodified":1449033038,
+    "wof:name":"Liquors India Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [78.454147,17.429024,78.454147,17.429024],
+  "geometry": {"coordinates":[78.454147,17.429024],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169538513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.582703,12.951085,77.582703,12.951085",
+    "geom:latitude":12.951085,
+    "geom:longitude":77.582703,
+    "iso:country":"IN",
+    "sg:address":"22/26, Krumbigal Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pvc Profiles",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 3242 2311",
+    "sg:postcode":"560004",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165,
+        85930971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CpGVWIzDS0JaDk6ZsW9bq_12.951085_77.582703@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2e83748fa0f5a60879c4bf14e97f7c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169538513
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930971,
+            "region_id":85672165,
+            "venue_id":169538513
+        }
+    ],
+    "wof:id":169538513,
+    "wof:lastmodified":1449033100,
+    "wof:name":"Mirror Profile Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.582703,12.951085,77.582703,12.951085],
+  "geometry": {"coordinates":[77.582703,12.951085],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169644471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.129822,28.73391,77.129822,28.73391",
+    "geom:latitude":28.73391,
+    "geom:longitude":77.129822,
+    "iso:country":"IN",
+    "sg:address":"A-2/6, Sector-15, Rohini,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2789 0910",
+    "sg:postcode":"110085",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://in.geocities.com/engineers-vinayaka/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JiDxgNbf9lLXSz4FFWbUl_28.733910_77.129822@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b1def96d5d283ea8c7e4b0750b7c4b3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169644471
+        }
+    ],
+    "wof:id":169644471,
+    "wof:lastmodified":1449034576,
+    "wof:name":"Vinayaka Engineers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.129822,28.73391,77.129822,28.73391],
+  "geometry": {"coordinates":[77.129822,28.73391],"type":"Point"}
+}

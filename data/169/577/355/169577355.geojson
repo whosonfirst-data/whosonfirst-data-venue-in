@@ -1,0 +1,64 @@
+{
+  "id": 169577355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.098816,19.201656,73.098816,19.201656",
+    "geom:latitude":19.201656,
+    "geom:longitude":73.098816,
+    "iso:country":"IN",
+    "sg:address":"B-27/29, Midc, Dombivili (east),",
+    "sg:city":"Thane",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 251280338086",
+    "sg:postcode":"421203",
+    "sg:tags":[
+        "pigment"
+    ],
+    "sg:website":"http://www.gharda.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904051,
+        85632469,
+        102030339,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rbJ5xnOKJ07Qg2UQcMY3D_19.201656_73.098816@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d2dcef5ad7b4e3cd01ce1b947a2135d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030339,
+            "neighbourhood_id":85904051,
+            "region_id":85672171,
+            "venue_id":169577355
+        }
+    ],
+    "wof:id":169577355,
+    "wof:lastmodified":1449036065,
+    "wof:name":"Gharda Chemicals Limited",
+    "wof:parent_id":85904051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [73.098816,19.201656,73.098816,19.201656],
+  "geometry": {"coordinates":[73.098816,19.201656],"type":"Point"}
+}

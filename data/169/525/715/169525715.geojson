@@ -1,0 +1,69 @@
+{
+  "id": 169525715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.860695,19.274738,72.860695,19.274738",
+    "geom:latitude":19.274738,
+    "geom:longitude":72.860695,
+    "iso:country":"IN",
+    "sg:address":"H-1/104, Poonam Sagar Complex, Opp. Shanti Nagar Sector - 9, Mira Road (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2811 2460",
+    "sg:postcode":"401107",
+    "sg:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931413,
+        85632469,
+        102031079,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ImoWvIY17A6q5k0rKwqo4_19.274738_72.860695@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fbecb616d7b2b29ff5874be7e21dac45",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031079,
+            "neighbourhood_id":85931413,
+            "region_id":85672171,
+            "venue_id":169525715
+        }
+    ],
+    "wof:id":169525715,
+    "wof:lastmodified":1449035274,
+    "wof:name":"Speciality Products",
+    "wof:parent_id":85931413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ]
+},
+  "bbox": [72.860695,19.274738,72.860695,19.274738],
+  "geometry": {"coordinates":[72.860695,19.274738],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169543921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.547615,13.018614,77.547615,13.018614",
+    "geom:latitude":13.018614,
+    "geom:longitude":77.547615,
+    "iso:country":"IN",
+    "sg:address":"239, Mahalakshmi Layout P.o.,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2349 3473",
+    "sg:postcode":"560086",
+    "sg:tags":[
+        "turbine"
+    ],
+    "sg:website":"http://www.cicb-chemicon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930975,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OUw3fB3qwFG7118kMClGU_13.018614_77.547615@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d738885b6d3fc5d4394fc03cbb8d9c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930975,
+            "region_id":85672165,
+            "venue_id":169543921
+        }
+    ],
+    "wof:id":169543921,
+    "wof:lastmodified":1449033335,
+    "wof:name":"Cicb - Chemicon Pvt. Ltd.",
+    "wof:parent_id":85930975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "turbine"
+    ]
+},
+  "bbox": [77.547615,13.018614,77.547615,13.018614],
+  "geometry": {"coordinates":[77.547615,13.018614],"type":"Point"}
+}

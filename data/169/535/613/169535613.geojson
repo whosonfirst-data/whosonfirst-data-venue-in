@@ -1,0 +1,65 @@
+{
+  "id": 169535613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.853058,19.081835,72.853058,19.081835",
+    "geom:latitude":19.081835,
+    "geom:longitude":72.853058,
+    "iso:country":"IN",
+    "sg:address":"11 Gold Mist, Vakola Pipeline Road, Santacruz (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2668 5856",
+    "sg:postcode":"400055",
+    "sg:tags":[
+        "equipment",
+        "good"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931471,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jbuq1ukcGbEalbiCzBRS5_19.081835_72.853058@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"583932b3074a3d0dd3f1e8eb84931185",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931471,
+            "region_id":85672171,
+            "venue_id":169535613
+        }
+    ],
+    "wof:id":169535613,
+    "wof:lastmodified":1449033285,
+    "wof:name":"Rohan Exports",
+    "wof:parent_id":85931471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "good"
+    ]
+},
+  "bbox": [72.853058,19.081835,72.853058,19.081835],
+  "geometry": {"coordinates":[72.853058,19.081835],"type":"Point"}
+}

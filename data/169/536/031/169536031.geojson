@@ -1,0 +1,58 @@
+{
+  "id": 169536031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.824425,18.957396,72.824425,18.957396",
+    "geom:latitude":18.957396,
+    "geom:longitude":72.824425,
+    "iso:country":"IN",
+    "sg:address":"8, Tad Wadi, 3rd Floor, Chira Bazaar,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5634 9285",
+    "sg:postcode":"400002",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931435,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pTEGurGWI7OjKVCtZrLCk_18.957396_72.824425@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"81e92d0e3afb8cdaf4ea6637eb9f3752",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931435,
+            "region_id":85672171,
+            "venue_id":169536031
+        }
+    ],
+    "wof:id":169536031,
+    "wof:lastmodified":1449034658,
+    "wof:name":"Agarwal & Agarwal",
+    "wof:parent_id":85931435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.824425,18.957396,72.824425,18.957396],
+  "geometry": {"coordinates":[72.824425,18.957396],"type":"Point"}
+}

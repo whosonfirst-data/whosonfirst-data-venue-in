@@ -1,0 +1,53 @@
+{
+  "id": 169568745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.562988,13.009232,77.562988,13.009232",
+    "geom:latitude":13.009232,
+    "geom:longitude":77.562988,
+    "iso:country":"IN",
+    "sg:address":"8th Main Road, Malleswaram",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 803347049",
+    "sg:postcode":"560001",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r6ZvWRNfTbsuIlty1tc2S_13.009232_77.562988@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5eca15d4304dd34c71dbbc8aa9c4d485",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169568745
+        }
+    ],
+    "wof:id":169568745,
+    "wof:lastmodified":1449032613,
+    "wof:name":"Fi Sofex Ltd",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.562988,13.009232,77.562988,13.009232],
+  "geometry": {"coordinates":[77.562988,13.009232],"type":"Point"}
+}

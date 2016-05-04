@@ -1,0 +1,59 @@
+{
+  "id": 169536149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.858704,19.250185,72.858704,19.250185",
+    "geom:latitude":19.250185,
+    "geom:longitude":72.858704,
+    "iso:country":"IN",
+    "sg:address":"10, 10-a, 10-b, Krishna Kunj, S.v.road, Malad(w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2889 3908",
+    "sg:postcode":"400064",
+    "sg:website":"http://www.sunstarimpex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931553,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22RnhgDRCgc5cRaAP2gpuM_19.250185_72.858704@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0e77c4735327a659d101ee523e5dbe7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931553,
+            "region_id":85672171,
+            "venue_id":169536149
+        }
+    ],
+    "wof:id":169536149,
+    "wof:lastmodified":1449034656,
+    "wof:name":"Sunrise India",
+    "wof:parent_id":85931553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.858704,19.250185,72.858704,19.250185],
+  "geometry": {"coordinates":[72.858704,19.250185],"type":"Point"}
+}

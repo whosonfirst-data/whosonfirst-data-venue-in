@@ -1,0 +1,58 @@
+{
+  "id": 169651595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.003186,28.435018,77.003186,28.435018",
+    "geom:latitude":28.435018,
+    "geom:longitude":77.003186,
+    "iso:country":"IN",
+    "sg:address":"103 Udyog Vihar Phase I",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"122016 ",
+    "sg:website":"http://MakeMyTrip.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928457,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pcoxALurTaFOiCewRmG07_28.435018_77.003186@1308163241"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b61a087ad72f52256f9e6f75055a6107",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928457,
+            "region_id":85672133,
+            "venue_id":169651595
+        }
+    ],
+    "wof:id":169651595,
+    "wof:lastmodified":1449033346,
+    "wof:name":"MakeMyTrip.com",
+    "wof:parent_id":85928457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.003186,28.435018,77.003186,28.435018],
+  "geometry": {"coordinates":[77.003186,28.435018],"type":"Point"}
+}

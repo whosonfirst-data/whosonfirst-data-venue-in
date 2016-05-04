@@ -1,0 +1,63 @@
+{
+  "id": 169599083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.020462,28.488319,77.020462,28.488319",
+    "geom:latitude":28.488319,
+    "geom:longitude":77.020462,
+    "iso:country":"IN",
+    "sg:address":"C-1/72, Phase-ii, Ashok Vihar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110052",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DmhYoIBVZg7tJm43N1gO3_28.488319_77.020462@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"570af1921efea080fadff1573cc45ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":-1,
+            "region_id":85672133,
+            "venue_id":169599083
+        }
+    ],
+    "wof:id":169599083,
+    "wof:lastmodified":1449034207,
+    "wof:name":"Paras Chemicals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [77.020462,28.488319,77.020462,28.488319],
+  "geometry": {"coordinates":[77.020462,28.488319],"type":"Point"}
+}

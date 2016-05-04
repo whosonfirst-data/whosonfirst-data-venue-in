@@ -1,0 +1,54 @@
+{
+  "id": 169542947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.709404,12.982682,77.709404,12.982682",
+    "geom:latitude":12.982682,
+    "geom:longitude":77.709404,
+    "iso:country":"IN",
+    "sg:address":"No. 2, Kadugodi Industrial Area, Whitefield,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:orig_category":"Telecom Parts",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2845 5656",
+    "sg:postcode":"560067",
+    "sg:website":"http://www.indiasatcom.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931165,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09g8gCQhN53APcttNofrgJ_12.982682_77.709404@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8b5c9ae11aeddbd49ee50518aece92df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931165,
+            "region_id":85672165,
+            "venue_id":169542947
+        }
+    ],
+    "wof:id":169542947,
+    "wof:lastmodified":1449035222,
+    "wof:name":"India Satcom Ltd.",
+    "wof:parent_id":85931165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.709404,12.982682,77.709404,12.982682],
+  "geometry": {"coordinates":[77.709404,12.982682],"type":"Point"}
+}

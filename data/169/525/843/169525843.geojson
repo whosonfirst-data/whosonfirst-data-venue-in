@@ -1,0 +1,65 @@
+{
+  "id": 169525843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.184769,28.6492,77.184769,28.6492",
+    "geom:latitude":28.6492,
+    "geom:longitude":77.184769,
+    "iso:country":"IN",
+    "sg:address":"4a, 52/54, C P Tank Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Unesco World Heritage Site",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2388 9792",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "dryer",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903883,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3483NG8TAxit9jXf0sQZNu_28.649200_77.184769@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"008d106f0392f1f63b5bb5455ab7d938",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903883,
+            "region_id":85672123,
+            "venue_id":169525843
+        }
+    ],
+    "wof:id":169525843,
+    "wof:lastmodified":1449035273,
+    "wof:name":"Special Metal Industries",
+    "wof:parent_id":85903883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dryer",
+        "air"
+    ]
+},
+  "bbox": [77.184769,28.6492,77.184769,28.6492],
+  "geometry": {"coordinates":[77.184769,28.6492],"type":"Point"}
+}

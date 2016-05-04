@@ -1,0 +1,64 @@
+{
+  "id": 169577509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.075172,28.628647,77.075172,28.628647",
+    "geom:latitude":28.628647,
+    "geom:longitude":77.075172,
+    "iso:country":"IN",
+    "sg:address":"50, A & B, Shivaji Marg,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4142 8818",
+    "sg:postcode":"110015",
+    "sg:tags":[
+        "pigment"
+    ],
+    "sg:website":"http://www.glossypaints.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928081,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SP7jsezcwPuGbTWhTM8WK_28.628647_77.075172@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0036300a1ff118defd3db976b04f43e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928081,
+            "region_id":85672123,
+            "venue_id":169577509
+        }
+    ],
+    "wof:id":169577509,
+    "wof:lastmodified":1449036064,
+    "wof:name":"Glossy Color & Paints Pvt. Ltd.",
+    "wof:parent_id":85928081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [77.075172,28.628647,77.075172,28.628647],
+  "geometry": {"coordinates":[77.075172,28.628647],"type":"Point"}
+}

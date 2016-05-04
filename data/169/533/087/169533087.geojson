@@ -1,0 +1,62 @@
+{
+  "id": 169533087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.223778,21.309961,76.223778,21.309961",
+    "geom:latitude":21.309961,
+    "geom:longitude":76.223778,
+    "iso:country":"IN",
+    "sg:address":"21, Dubhash Building, 1st Floor, 173, V.p. Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2385 2537",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030589,
+        85672239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GS8vJKMA0xzYXLbmEUPlA_21.309961_76.223778@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"26e729bc46c69100dde32571f94c7bec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030589,
+            "neighbourhood_id":-1,
+            "region_id":85672239,
+            "venue_id":169533087
+        }
+    ],
+    "wof:id":169533087,
+    "wof:lastmodified":1449032642,
+    "wof:name":"Bhakti Impex",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [76.223778,21.309961,76.223778,21.309961],
+  "geometry": {"coordinates":[76.223778,21.309961],"type":"Point"}
+}

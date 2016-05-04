@@ -1,0 +1,63 @@
+{
+  "id": 169558939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.495407,17.433876,78.495407,17.433876",
+    "geom:latitude":17.433876,
+    "geom:longitude":78.495407,
+    "iso:country":"IN",
+    "sg:address":"7-2-171-173, Main Road, Ghasmandi,",
+    "sg:city":"Secunderabad",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2770 1102",
+    "sg:postcode":"500003",
+    "sg:tags":[
+        "acid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930701,
+        85632469,
+        102028703,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cs9bGasUo6RcIRM2PWe3M_17.433876_78.495407@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3dfe0a5b7c3c8e0181ea48f14bbdb446",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028703,
+            "neighbourhood_id":85930701,
+            "region_id":85672141,
+            "venue_id":169558939
+        }
+    ],
+    "wof:id":169558939,
+    "wof:lastmodified":1449033581,
+    "wof:name":"Chandak Laboratories Pvt. Ltd.",
+    "wof:parent_id":85930701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [78.495407,17.433876,78.495407,17.433876],
+  "geometry": {"coordinates":[78.495407,17.433876],"type":"Point"}
+}

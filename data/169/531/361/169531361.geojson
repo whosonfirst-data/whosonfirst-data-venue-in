@@ -1,0 +1,66 @@
+{
+  "id": 169531361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.942505,19.171915,72.942505,19.171915",
+    "geom:latitude":19.171915,
+    "geom:longitude":72.942505,
+    "iso:country":"IN",
+    "sg:address":"1, Nahur Udyog Premises, Malaviya Marg, Mulund (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Hair Removal",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6500 7075",
+    "sg:postcode":"400080",
+    "sg:tags":[
+        "cosmetic",
+        "accessory"
+    ],
+    "sg:website":"http://www.gargiherbal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931655,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KRnPZPLNa5hJwvPbJdAg0_19.171915_72.942505@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a8958cba47aa60d7bfc4322433801fd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931655,
+            "region_id":85672171,
+            "venue_id":169531361
+        }
+    ],
+    "wof:id":169531361,
+    "wof:lastmodified":1449033475,
+    "wof:name":"Gargi Herbal Skin Care",
+    "wof:parent_id":85931655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "accessory"
+    ]
+},
+  "bbox": [72.942505,19.171915,72.942505,19.171915],
+  "geometry": {"coordinates":[72.942505,19.171915],"type":"Point"}
+}

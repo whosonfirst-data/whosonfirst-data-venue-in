@@ -1,0 +1,58 @@
+{
+  "id": 169535971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.882591,19.107027,72.882591,19.107027",
+    "geom:latitude":19.107027,
+    "geom:longitude":72.882591,
+    "iso:country":"IN",
+    "sg:address":"5/a, 106, Mittal Estate, Sakinaka, Andheri(e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2850 8822",
+    "sg:postcode":"400059",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cz9j44u6RY9RMifmURXJX_19.107027_72.882591@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e75db128e2fc45f1ce77f637ac20a0d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169535971
+        }
+    ],
+    "wof:id":169535971,
+    "wof:lastmodified":1449033286,
+    "wof:name":"Crown Fab International",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.882591,19.107027,72.882591,19.107027],
+  "geometry": {"coordinates":[72.882591,19.107027],"type":"Point"}
+}

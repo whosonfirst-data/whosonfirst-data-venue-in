@@ -1,0 +1,67 @@
+{
+  "id": 169544193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.547676,13.009836,77.547676,13.009836",
+    "geom:latitude":13.009836,
+    "geom:longitude":77.547676,
+    "iso:country":"IN",
+    "sg:address":"B/117, 3rd Main Road, 2nd Stage, Peenya Industrial Estate,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Shopping Mall",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2836 1492",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "equipment",
+        "system",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74dQ55sOKSMX3khmXzNjh1_13.009836_77.547676@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0b573de14d701615a5d3c4d9837862b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169544193
+        }
+    ],
+    "wof:id":169544193,
+    "wof:lastmodified":1449035963,
+    "wof:name":"Vacuum Systems And Products",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "system",
+        "vacuum"
+    ]
+},
+  "bbox": [77.547676,13.009836,77.547676,13.009836],
+  "geometry": {"coordinates":[77.547676,13.009836],"type":"Point"}
+}

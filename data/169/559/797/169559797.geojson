@@ -1,0 +1,54 @@
+{
+  "id": 169559797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.491577,17.441364,78.491577,17.441364",
+    "geom:latitude":17.441364,
+    "geom:longitude":78.491577,
+    "iso:country":"IN",
+    "sg:address":"S D Road",
+    "sg:city":"Secunderabad",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 5633 3922",
+    "sg:postcode":"500003",
+    "sg:province":"Andhra Pradesh",
+    "sg:website":"http://www.corporatetours.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930705,
+        85632469,
+        102028703,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69wD6U0yRQEG390g2J7gKW_17.441364_78.491577@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8c08d7a7157f3fd73a971c417eb06aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028703,
+            "neighbourhood_id":85930705,
+            "region_id":85672141,
+            "venue_id":169559797
+        }
+    ],
+    "wof:id":169559797,
+    "wof:lastmodified":1449035239,
+    "wof:name":"Corporate Tours & Travels",
+    "wof:parent_id":85930705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [78.491577,17.441364,78.491577,17.441364],
+  "geometry": {"coordinates":[78.491577,17.441364],"type":"Point"}
+}

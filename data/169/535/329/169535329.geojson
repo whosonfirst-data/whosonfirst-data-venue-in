@@ -1,0 +1,65 @@
+{
+  "id": 169535329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.926369,19.123192,72.926369,19.123192",
+    "geom:latitude":19.123192,
+    "geom:longitude":72.926369,
+    "iso:country":"IN",
+    "sg:address":"A-2/907, Lok Gaurav, L.b.s.marg, Vikhroli-west,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2345 5960",
+    "sg:postcode":"400079",
+    "sg:tags":[
+        "equipment",
+        "good"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931633,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nf2BNi7fwPU4gPuBxUsut_19.123192_72.926369@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d3f89b3d28efbe46f6d3645e64e921b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931633,
+            "region_id":85672171,
+            "venue_id":169535329
+        }
+    ],
+    "wof:id":169535329,
+    "wof:lastmodified":1449033285,
+    "wof:name":"Yashodhan Traders (exports)",
+    "wof:parent_id":85931633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "good"
+    ]
+},
+  "bbox": [72.926369,19.123192,72.926369,19.123192],
+  "geometry": {"coordinates":[72.926369,19.123192],"type":"Point"}
+}

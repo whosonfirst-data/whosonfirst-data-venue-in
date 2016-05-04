@@ -1,0 +1,64 @@
+{
+  "id": 169529401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.934563,19.156723,72.934563,19.156723",
+    "geom:latitude":19.156723,
+    "geom:longitude":72.934563,
+    "iso:country":"IN",
+    "sg:address":"Lake Road, Bhandup (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 222567802730",
+    "sg:postcode":"400078",
+    "sg:tags":[
+        "charger"
+    ],
+    "sg:website":"http://www.hirect.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931655,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T0WCmhdhbSPl38aplksVn_19.156723_72.934563@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"08e3119cf015290bd48047b51a1709b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931655,
+            "region_id":85672171,
+            "venue_id":169529401
+        }
+    ],
+    "wof:id":169529401,
+    "wof:lastmodified":1449034116,
+    "wof:name":"Hind Rectifiers Ltd.",
+    "wof:parent_id":85931655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "charger"
+    ]
+},
+  "bbox": [72.934563,19.156723,72.934563,19.156723],
+  "geometry": {"coordinates":[72.934563,19.156723],"type":"Point"}
+}

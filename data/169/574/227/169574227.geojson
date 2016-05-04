@@ -1,0 +1,53 @@
+{
+  "id": 169574227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.574356,12.967414,77.574356,12.967414",
+    "geom:latitude":12.967414,
+    "geom:longitude":77.574356,
+    "iso:country":"IN",
+    "sg:address":"A. S. Char Street",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 802879704",
+    "sg:postcode":"560053",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YK2UgmWv68rJ9xeXeiC7J_12.967414_77.574356@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"23c9e0e00373488d2263707a5b883662",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169574227
+        }
+    ],
+    "wof:id":169574227,
+    "wof:lastmodified":1449032662,
+    "wof:name":"Karnataka Chemical Industries",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.574356,12.967414,77.574356,12.967414],
+  "geometry": {"coordinates":[77.574356,12.967414],"type":"Point"}
+}

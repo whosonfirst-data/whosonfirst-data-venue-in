@@ -1,0 +1,65 @@
+{
+  "id": 169533725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.813652,18.974659,72.813652,18.974659",
+    "geom:latitude":18.974659,
+    "geom:longitude":72.813652,
+    "iso:country":"IN",
+    "sg:address":"11, Girnar Bldg, 69, Tardeo Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2496 2439",
+    "sg:postcode":"400034",
+    "sg:tags":[
+        "calendar",
+        "diary"
+    ],
+    "sg:website":"http://www.avpcalendars.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903901,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v8h35JiAydLdblILqzGlu_18.974659_72.813652@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"dcf09d92cc59b33eac646ea975763c4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903901,
+            "region_id":85672171,
+            "venue_id":169533725
+        }
+    ],
+    "wof:id":169533725,
+    "wof:lastmodified":1449032642,
+    "wof:name":"Anil Vishal Printers",
+    "wof:parent_id":85903901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "calendar",
+        "diary"
+    ]
+},
+  "bbox": [72.813652,18.974659,72.813652,18.974659],
+  "geometry": {"coordinates":[72.813652,18.974659],"type":"Point"}
+}

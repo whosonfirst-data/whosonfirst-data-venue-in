@@ -1,0 +1,65 @@
+{
+  "id": 169536401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.912056,19.081377,72.912056,19.081377",
+    "geom:latitude":19.081377,
+    "geom:longitude":72.912056,
+    "iso:country":"IN",
+    "sg:address":"Behind Building No. 3, Sai Baba Nagar, 90 Feet Road, Ghatkopar (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2515 6271",
+    "sg:postcode":"400075",
+    "sg:tags":[
+        "garment",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931531,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rT7hF4sRUyIWiRcgHY4iF_19.081377_72.912056@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8137080c41002d5b5bb08919df577109",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931531,
+            "region_id":85672171,
+            "venue_id":169536401
+        }
+    ],
+    "wof:id":169536401,
+    "wof:lastmodified":1449034660,
+    "wof:name":"Vasudha Engineering",
+    "wof:parent_id":85931531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "accessory"
+    ]
+},
+  "bbox": [72.912056,19.081377,72.912056,19.081377],
+  "geometry": {"coordinates":[72.912056,19.081377],"type":"Point"}
+}

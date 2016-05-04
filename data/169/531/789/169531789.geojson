@@ -1,0 +1,70 @@
+{
+  "id": 169531789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.928932,19.135406,72.928932,19.135406",
+    "geom:latitude":19.135406,
+    "geom:longitude":72.928932,
+    "iso:country":"IN",
+    "sg:address":"L.b.s. Marg, Bhandup (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2561 2566",
+    "sg:postcode":"400078",
+    "sg:tags":[
+        "cutter",
+        "cutting",
+        "tools",
+        "broach"
+    ],
+    "sg:website":"http://www.adorwelding.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931633,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gwBTOtzzScexpYV8gI2iH_19.135406_72.928932@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7be5845a61bad5b8872d74e83c18d86b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931633,
+            "region_id":85672171,
+            "venue_id":169531789
+        }
+    ],
+    "wof:id":169531789,
+    "wof:lastmodified":1449033475,
+    "wof:name":"Ador Welding Limited",
+    "wof:parent_id":85931633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cutter",
+        "cutting",
+        "tools",
+        "broach"
+    ]
+},
+  "bbox": [72.928932,19.135406,72.928932,19.135406],
+  "geometry": {"coordinates":[72.928932,19.135406],"type":"Point"}
+}

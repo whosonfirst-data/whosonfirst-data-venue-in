@@ -1,0 +1,67 @@
+{
+  "id": 169581061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.095299,28.449627,77.095299,28.449627",
+    "geom:latitude":28.449627,
+    "geom:longitude":77.095299,
+    "iso:country":"IN",
+    "sg:address":"F- 52, Sector- 10, Dlf,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 400 9233",
+    "sg:postcode":"121006",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928453,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PcmGJWTF3ESGQWetSJ1wF_28.449627_77.095299@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1103d22b6140af5159c5c4836be68d4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928453,
+            "region_id":85672133,
+            "venue_id":169581061
+        }
+    ],
+    "wof:id":169581061,
+    "wof:lastmodified":1449033381,
+    "wof:name":"Justin International",
+    "wof:parent_id":85928453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [77.095299,28.449627,77.095299,28.449627],
+  "geometry": {"coordinates":[77.095299,28.449627],"type":"Point"}
+}

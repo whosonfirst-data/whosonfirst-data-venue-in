@@ -1,0 +1,65 @@
+{
+  "id": 169538033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.542809,12.982123,77.542809,12.982123",
+    "geom:latitude":12.982123,
+    "geom:longitude":77.542809,
+    "iso:country":"IN",
+    "sg:address":"34, 2nd Stage, 9th Cross, West Of Chord Road, Rajaji Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2349 5751",
+    "sg:postcode":"560086",
+    "sg:tags":[
+        "binder",
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fhVOo4CnHp2oIIbATzWIF_12.982123_77.542809@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e89960b538b95d45f3a0db7b9f6cce2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169538033
+        }
+    ],
+    "wof:id":169538033,
+    "wof:lastmodified":1449033096,
+    "wof:name":"Kruthi Computer Services (p) Ltd",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "binder",
+        "printer"
+    ]
+},
+  "bbox": [77.542809,12.982123,77.542809,12.982123],
+  "geometry": {"coordinates":[77.542809,12.982123],"type":"Point"}
+}

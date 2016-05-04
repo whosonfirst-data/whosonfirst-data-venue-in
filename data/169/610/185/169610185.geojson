@@ -1,0 +1,67 @@
+{
+  "id": 169610185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.22226,28.655928,77.22226,28.655928",
+    "geom:latitude":28.655928,
+    "geom:longitude":77.22226,
+    "iso:country":"IN",
+    "sg:address":"6396, Katra Baryan, Fateh Puri,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2392 7871",
+    "sg:postcode":"110006",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928087,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KuZ4flb3fOgI79yIRsiAW_28.655928_77.222260@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9b45bc57e52f7931a88cdaa41bdb3f2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928087,
+            "region_id":85672123,
+            "venue_id":169610185
+        }
+    ],
+    "wof:id":169610185,
+    "wof:lastmodified":1449035909,
+    "wof:name":"Regal Paints & Brush Pvt. Ltd.",
+    "wof:parent_id":85928087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.22226,28.655928,77.22226,28.655928],
+  "geometry": {"coordinates":[77.22226,28.655928],"type":"Point"}
+}

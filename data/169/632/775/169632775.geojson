@@ -1,0 +1,60 @@
+{
+  "id": 169632775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.069687,28.825224,77.069687,28.825224",
+    "geom:latitude":28.825224,
+    "geom:longitude":77.069687,
+    "iso:country":"IN",
+    "sg:address":"A-57, D.s.i.d.c., Narela,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 6714 3271",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4h9Qiq0gKRGpVmF1IHc8lX_28.825224_77.069687@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"79332a5ae2bccde3d0db0f0b238a868c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169632775
+        }
+    ],
+    "wof:id":169632775,
+    "wof:lastmodified":1449034796,
+    "wof:name":"Surya Plastics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.069687,28.825224,77.069687,28.825224],
+  "geometry": {"coordinates":[77.069687,28.825224],"type":"Point"}
+}

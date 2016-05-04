@@ -1,0 +1,64 @@
+{
+  "id": 169617431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.220299,28.597507,77.220299,28.597507",
+    "geom:latitude":28.597507,
+    "geom:longitude":77.220299,
+    "iso:country":"IN",
+    "sg:address":"1502-a, Modi Tower, Nehru Place,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2646 4137",
+    "sg:postcode":"110019",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.modisugar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928287,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72pfQBwC4qLzucuPQegI1O_28.597507_77.220299@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c42fa071a77a17fde70d545b7710a11c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928287,
+            "region_id":85672123,
+            "venue_id":169617431
+        }
+    ],
+    "wof:id":169617431,
+    "wof:lastmodified":1449032799,
+    "wof:name":"Sbec Sugar Ltd.",
+    "wof:parent_id":85928287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.220299,28.597507,77.220299,28.597507],
+  "geometry": {"coordinates":[77.220299,28.597507],"type":"Point"}
+}

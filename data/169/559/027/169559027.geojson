@@ -1,0 +1,62 @@
+{
+  "id": 169559027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"86.308083,24.184502,86.308083,24.184502",
+    "geom:latitude":24.184502,
+    "geom:longitude":86.308083,
+    "iso:country":"IN",
+    "sg:address":"Main Road, Near Bus Stand,",
+    "sg:city":"Latur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2382 248 152",
+    "sg:postcode":"413512",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030227,
+        85672213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zBdOFTHPY99Je6pepyxh0_24.184502_86.308083@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"862f1e4141950d77884a9a9ffb935070",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030227,
+            "neighbourhood_id":-1,
+            "region_id":85672213,
+            "venue_id":169559027
+        }
+    ],
+    "wof:id":169559027,
+    "wof:lastmodified":1449035237,
+    "wof:name":"Chapsi Automobiles",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [86.308083,24.184502,86.308083,24.184502],
+  "geometry": {"coordinates":[86.308083,24.184502],"type":"Point"}
+}

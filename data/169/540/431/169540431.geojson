@@ -1,0 +1,66 @@
+{
+  "id": 169540431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.587669,12.962282,77.587669,12.962282",
+    "geom:latitude":12.962282,
+    "geom:longitude":77.587669,
+    "iso:country":"IN",
+    "sg:address":"#9, 3rd Cross, Sudhamanagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2223 3427",
+    "sg:postcode":"560027",
+    "sg:tags":[
+        "garment",
+        "silk"
+    ],
+    "sg:website":"http://www.vastragangotrisilkexports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6utVkxlHpRJJAVr16sy6UG_12.962282_77.587669@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b1099b7707177f149f56f5a17644e893",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169540431
+        }
+    ],
+    "wof:id":169540431,
+    "wof:lastmodified":1449033972,
+    "wof:name":"Vastragangotri Silk Exports",
+    "wof:parent_id":85930903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "silk"
+    ]
+},
+  "bbox": [77.587669,12.962282,77.587669,12.962282],
+  "geometry": {"coordinates":[77.587669,12.962282],"type":"Point"}
+}

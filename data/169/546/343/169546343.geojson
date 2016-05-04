@@ -1,0 +1,65 @@
+{
+  "id": 169546343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"79.499046,11.612677,79.499046,11.612677",
+    "geom:latitude":11.612677,
+    "geom:longitude":79.499046,
+    "iso:country":"IN",
+    "sg:address":"370, Kamaraj Road,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 4212211801805",
+    "sg:postcode":"641604",
+    "sg:tags":[
+        "garment",
+        "childrenwear"
+    ],
+    "sg:website":"http://www.centwinexports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029187,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ry1YX2BUaKtO9X8BNWIDL_11.612677_79.499046@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0b81008351d0ebc994791ea08ae55b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029187,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169546343
+        }
+    ],
+    "wof:id":169546343,
+    "wof:lastmodified":1449032680,
+    "wof:name":"Centwin",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "childrenwear"
+    ]
+},
+  "bbox": [79.499046,11.612677,79.499046,11.612677],
+  "geometry": {"coordinates":[79.499046,11.612677],"type":"Point"}
+}

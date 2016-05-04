@@ -1,0 +1,53 @@
+{
+  "id": 169556475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.236923,28.564285,77.236923,28.564285",
+    "geom:latitude":28.564285,
+    "geom:longitude":77.236923,
+    "iso:country":"IN",
+    "sg:address":"Vikram Vihar",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2621 9411",
+    "sg:postcode":"110024",
+    "sg:province":"Delhi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927997,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u7TG19OL1IgGACsDT2slu_28.564285_77.236923@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0b1bd6a554536a94123f68b52cc9655e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927997,
+            "region_id":85672123,
+            "venue_id":169556475
+        }
+    ],
+    "wof:id":169556475,
+    "wof:lastmodified":1449033507,
+    "wof:name":"Harrys Overseas",
+    "wof:parent_id":85927997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.236923,28.564285,77.236923,28.564285],
+  "geometry": {"coordinates":[77.236923,28.564285],"type":"Point"}
+}

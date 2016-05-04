@@ -1,0 +1,65 @@
+{
+  "id": 169537687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.621178,12.93521,77.621178,12.93521",
+    "geom:latitude":12.93521,
+    "geom:longitude":77.621178,
+    "iso:country":"IN",
+    "sg:address":"#58, 17th B Main Road, 6th Block, Koramangala,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2553 5971",
+    "sg:postcode":"560095",
+    "sg:tags":[
+        "component",
+        "pressed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930917,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nzksGkF5VAOxZZdSNElDe_12.935210_77.621178@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5f1fe56cb3af25541193f113c1150529",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930917,
+            "region_id":85672165,
+            "venue_id":169537687
+        }
+    ],
+    "wof:id":169537687,
+    "wof:lastmodified":1449033499,
+    "wof:name":"Brunda Engineering",
+    "wof:parent_id":85930917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "pressed"
+    ]
+},
+  "bbox": [77.621178,12.93521,77.621178,12.93521],
+  "geometry": {"coordinates":[77.621178,12.93521],"type":"Point"}
+}

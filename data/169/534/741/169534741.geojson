@@ -1,0 +1,68 @@
+{
+  "id": 169534741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.937958,19.167665,72.937958,19.167665",
+    "geom:latitude":19.167665,
+    "geom:longitude":72.937958,
+    "iso:country":"IN",
+    "sg:address":"22, Ashok Ind. Estate, Lbs Marg, Mulund (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2562 1398",
+    "sg:postcode":"400080",
+    "sg:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ],
+    "sg:website":"http://www.k2engineers.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931655,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dFA8LzwDU7FHgkfmqdmk2_19.167665_72.937958@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3088478c25b65d33f09f04b6d86de7ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931655,
+            "region_id":85672171,
+            "venue_id":169534741
+        }
+    ],
+    "wof:id":169534741,
+    "wof:lastmodified":1449033545,
+    "wof:name":"K2 Engineers",
+    "wof:parent_id":85931655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ]
+},
+  "bbox": [72.937958,19.167665,72.937958,19.167665],
+  "geometry": {"coordinates":[72.937958,19.167665],"type":"Point"}
+}

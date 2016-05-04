@@ -1,0 +1,62 @@
+{
+  "id": 169646671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.328529,19.87335,75.328529,19.87335",
+    "geom:latitude":19.87335,
+    "geom:longitude":75.328529,
+    "iso:country":"IN",
+    "sg:address":"Kranti Chowk,",
+    "sg:city":"Aurangabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 240 233 2151",
+    "sg:postcode":"431001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030887,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Vjdt5pbAwbq2sby5slZB6_19.873350_75.328529@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e1767720f33670ae12320085586e2fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030887,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169646671
+        }
+    ],
+    "wof:id":169646671,
+    "wof:lastmodified":1449032606,
+    "wof:name":"Welworth",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.328529,19.87335,75.328529,19.87335],
+  "geometry": {"coordinates":[75.328529,19.87335],"type":"Point"}
+}

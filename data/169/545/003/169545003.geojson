@@ -1,0 +1,65 @@
+{
+  "id": 169545003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.613457,12.997891,77.613457,12.997891",
+    "geom:latitude":12.997891,
+    "geom:longitude":77.613457,
+    "iso:country":"IN",
+    "sg:address":"21/2, Robert Son Road, Frazer Town,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4148 7078",
+    "sg:postcode":"560005",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930871,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rJd422ZuN9kjeLDGTlDvG_12.997891_77.613457@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a538648b6eb9c54527fa36d3266be23b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930871,
+            "region_id":85672165,
+            "venue_id":169545003
+        }
+    ],
+    "wof:id":169545003,
+    "wof:lastmodified":1449033488,
+    "wof:name":"Rida Trading Corporation",
+    "wof:parent_id":85930871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [77.613457,12.997891,77.613457,12.997891],
+  "geometry": {"coordinates":[77.613457,12.997891],"type":"Point"}
+}

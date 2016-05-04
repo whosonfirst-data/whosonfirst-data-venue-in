@@ -1,0 +1,67 @@
+{
+  "id": 169559795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.305305,22.483757,88.305305,22.483757",
+    "geom:latitude":22.483757,
+    "geom:longitude":88.305305,
+    "iso:country":"IN",
+    "sg:address":"267, Biren Roy Road (e),",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2402 5975",
+    "sg:postcode":"700041",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85932023,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09luCPIVwMlHMxkoD8thZH_22.483757_88.305305@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f9fac5e2e6dec71766c4728e0da2ec55",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85932023,
+            "region_id":85672219,
+            "venue_id":169559795
+        }
+    ],
+    "wof:id":169559795,
+    "wof:lastmodified":1449035238,
+    "wof:name":"Crs Paints & Resins Pvt. Ltd.",
+    "wof:parent_id":85932023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [88.305305,22.483757,88.305305,22.483757],
+  "geometry": {"coordinates":[88.305305,22.483757],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169577591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.834396,21.143047,72.834396,21.143047",
+    "geom:latitude":21.143047,
+    "geom:longitude":72.834396,
+    "iso:country":"IN",
+    "sg:address":"357, Gidc, Surat,",
+    "sg:city":"Sachin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 261 239 8058",
+    "sg:postcode":"395230",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "sg:website":"http://www.globelapharma.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028539,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6T3P6D4gK3WbYGhHSR5A1W_21.143047_72.834396@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"791eb133559a24bd1891ab370e124742",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028539,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169577591
+        }
+    ],
+    "wof:id":169577591,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Globela Pharma Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [72.834396,21.143047,72.834396,21.143047],
+  "geometry": {"coordinates":[72.834396,21.143047],"type":"Point"}
+}

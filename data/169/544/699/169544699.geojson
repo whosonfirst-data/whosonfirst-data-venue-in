@@ -1,0 +1,63 @@
+{
+  "id": 169544699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.588356,12.914147,77.588356,12.914147",
+    "geom:latitude":12.914147,
+    "geom:longitude":77.588356,
+    "iso:country":"IN",
+    "sg:address":"154, 20th Main, J.p.nagar, Ii Phase,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2659 3970",
+    "sg:postcode":"560078",
+    "sg:tags":[
+        "weighing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931065,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mgyQ0LC44p83drvO8kMCT_12.914147_77.588356@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"30096d330aac48b47a046fca6243ba64",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931065,
+            "region_id":85672165,
+            "venue_id":169544699
+        }
+    ],
+    "wof:id":169544699,
+    "wof:lastmodified":1449035962,
+    "wof:name":"Intech",
+    "wof:parent_id":85931065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "weighing"
+    ]
+},
+  "bbox": [77.588356,12.914147,77.588356,12.914147],
+  "geometry": {"coordinates":[77.588356,12.914147],"type":"Point"}
+}

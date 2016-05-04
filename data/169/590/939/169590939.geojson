@@ -1,0 +1,65 @@
+{
+  "id": 169590939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.384216,31.37492,75.384216,31.37492",
+    "geom:latitude":31.37492,
+    "geom:longitude":75.384216,
+    "iso:country":"IN",
+    "sg:address":"Kapurthala Road, Wariana,",
+    "sg:city":"Jalandhar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 181 265 0477",
+    "sg:postcode":"144002",
+    "sg:tags":[
+        "transmission",
+        "belting"
+    ],
+    "sg:website":"http://www.mohindraindustrial.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029851,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41wO0Q6FmUzdQGo5Kn3DmU_31.374920_75.384216@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8a361782de803db2f4ce5e5cee2a1f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029851,
+            "neighbourhood_id":-1,
+            "region_id":85672195,
+            "venue_id":169590939
+        }
+    ],
+    "wof:id":169590939,
+    "wof:lastmodified":1449034654,
+    "wof:name":"Mohindra Industrial Corporation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "belting"
+    ]
+},
+  "bbox": [75.384216,31.37492,75.384216,31.37492],
+  "geometry": {"coordinates":[75.384216,31.37492],"type":"Point"}
+}

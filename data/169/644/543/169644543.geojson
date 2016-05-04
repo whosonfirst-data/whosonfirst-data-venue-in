@@ -1,0 +1,63 @@
+{
+  "id": 169644543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.439064,17.430166,78.439064,17.430166",
+    "geom:latitude":17.430166,
+    "geom:longitude":78.439064,
+    "iso:country":"IN",
+    "sg:address":"8-3-898/6, Yellareddy Guda, Srinagar Colony,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 6599 9763",
+    "sg:postcode":"500073",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930747,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kxd3CeVzFX2KSkAyYM3fi_17.430166_78.439064@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"18d78cf0e9e09d9b04ddbb7e390eb673",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930747,
+            "region_id":85672141,
+            "venue_id":169644543
+        }
+    ],
+    "wof:id":169644543,
+    "wof:lastmodified":1449034576,
+    "wof:name":"Vinyl Chemicals (p) Ltd.",
+    "wof:parent_id":85930747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.439064,17.430166,78.439064,17.430166],
+  "geometry": {"coordinates":[78.439064,17.430166],"type":"Point"}
+}

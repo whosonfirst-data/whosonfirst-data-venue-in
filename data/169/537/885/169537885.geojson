@@ -1,0 +1,65 @@
+{
+  "id": 169537885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.531845,13.064487,77.531845,13.064487",
+    "geom:latitude":13.064487,
+    "geom:longitude":77.531845,
+    "iso:country":"IN",
+    "sg:address":"143, K.g. Halli Jalahalli West,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2839 8887",
+    "sg:postcode":"560015",
+    "sg:tags":[
+        "component",
+        "pressed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903877,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5og2gEmzuZuFwEZZLZLyFf_13.064487_77.531845@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c6dc43175a3027f1cd28652d49ab75f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903877,
+            "region_id":85672165,
+            "venue_id":169537885
+        }
+    ],
+    "wof:id":169537885,
+    "wof:lastmodified":1449033499,
+    "wof:name":"Rajesh Precision Products",
+    "wof:parent_id":85903877,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "pressed"
+    ]
+},
+  "bbox": [77.531845,13.064487,77.531845,13.064487],
+  "geometry": {"coordinates":[77.531845,13.064487],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169547009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.597008,12.958032,77.597008,12.958032",
+    "geom:latitude":12.958032,
+    "geom:longitude":77.597008,
+    "iso:country":"IN",
+    "sg:address":"59, 2nd Floor, Lakshmi Nagar, City Garden,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 224 6021",
+    "sg:postcode":"641602",
+    "sg:tags":[
+        "menswear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930939,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zb2kGfaBA53gNSEJUe03r_12.958032_77.597008@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"70761e0f52bf2c62f0d84017717bb773",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930939,
+            "region_id":85672165,
+            "venue_id":169547009
+        }
+    ],
+    "wof:id":169547009,
+    "wof:lastmodified":1449033009,
+    "wof:name":"Evertex",
+    "wof:parent_id":85930939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "menswear"
+    ]
+},
+  "bbox": [77.597008,12.958032,77.597008,12.958032],
+  "geometry": {"coordinates":[77.597008,12.958032],"type":"Point"}
+}

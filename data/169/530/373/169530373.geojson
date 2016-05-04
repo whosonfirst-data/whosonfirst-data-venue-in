@@ -1,0 +1,58 @@
+{
+  "id": 169530373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.870155,19.294163,72.870155,19.294163",
+    "geom:latitude":19.294163,
+    "geom:longitude":72.870155,
+    "iso:country":"IN",
+    "sg:address":"B-10, Rashmi Bldg., S V P Rd., Borivali (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2893 7256",
+    "sg:postcode":"400092",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931413,
+        85632469,
+        102031079,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ICmdKGS15SOORhAIPsvxV_19.294163_72.870155@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"193cdd3db012b65d0294a4c0f990fa48",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031079,
+            "neighbourhood_id":85931413,
+            "region_id":85672171,
+            "venue_id":169530373
+        }
+    ],
+    "wof:id":169530373,
+    "wof:lastmodified":1449034443,
+    "wof:name":"C M Computer",
+    "wof:parent_id":85931413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.870155,19.294163,72.870155,19.294163],
+  "geometry": {"coordinates":[72.870155,19.294163],"type":"Point"}
+}

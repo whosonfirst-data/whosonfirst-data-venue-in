@@ -1,0 +1,65 @@
+{
+  "id": 169540135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.63858,13.009579,77.63858,13.009579",
+    "geom:latitude":13.009579,
+    "geom:longitude":77.63858,
+    "iso:country":"IN",
+    "sg:address":"#251, N. S. Palya,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2668 1702",
+    "sg:postcode":"560076",
+    "sg:tags":[
+        "sheet",
+        "component"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931107,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iWN8IDyfKCrrOS3aXEfBX_13.009579_77.638580@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b56802030a99fcf154efc70ec142650d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931107,
+            "region_id":85672165,
+            "venue_id":169540135
+        }
+    ],
+    "wof:id":169540135,
+    "wof:lastmodified":1449033976,
+    "wof:name":"Disha Precisions (p) Ltd.",
+    "wof:parent_id":85931107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheet",
+        "component"
+    ]
+},
+  "bbox": [77.63858,13.009579,77.63858,13.009579],
+  "geometry": {"coordinates":[77.63858,13.009579],"type":"Point"}
+}

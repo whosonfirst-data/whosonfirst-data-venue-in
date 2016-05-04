@@ -1,0 +1,63 @@
+{
+  "id": 169583795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.287582,22.548796,88.287582,22.548796",
+    "geom:latitude":22.548796,
+    "geom:longitude":88.287582,
+    "iso:country":"IN",
+    "sg:address":"A/114, Shalimar Garden Main,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 647 2745",
+    "sg:postcode":"201005",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.kunwerexports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931983,
+        85632469,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LkNvV7nnU8xAWOumGYHHO_22.548796_88.287582@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"12b570d49ffa15daecb65a20cc8a9879",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85931983,
+            "region_id":85672219,
+            "venue_id":169583795
+        }
+    ],
+    "wof:id":169583795,
+    "wof:lastmodified":1449035266,
+    "wof:name":"Kunwer Exports",
+    "wof:parent_id":85931983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.287582,22.548796,88.287582,22.548796],
+  "geometry": {"coordinates":[88.287582,22.548796],"type":"Point"}
+}

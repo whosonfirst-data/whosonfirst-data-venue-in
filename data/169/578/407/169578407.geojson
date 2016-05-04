@@ -1,0 +1,63 @@
+{
+  "id": 169578407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"81.82148,25.463579,81.82148,25.463579",
+    "geom:latitude":25.463579,
+    "geom:longitude":81.82148,
+    "iso:country":"IN",
+    "sg:address":"1, Auckland Place,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2283 1640",
+    "sg:postcode":"700017",
+    "sg:tags":[
+        "polymer"
+    ],
+    "sg:website":"http://www.haldiapetrochemicals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030995,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RIM96EnTkWvTiJCtN253U_25.463579_81.821480@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0f9a5968f2117565a0166cb151e69bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030995,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169578407
+        }
+    ],
+    "wof:id":169578407,
+    "wof:lastmodified":1449033521,
+    "wof:name":"Haldia Petrochemicals Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [81.82148,25.463579,81.82148,25.463579],
+  "geometry": {"coordinates":[81.82148,25.463579],"type":"Point"}
+}

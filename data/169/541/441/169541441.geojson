@@ -1,0 +1,64 @@
+{
+  "id": 169541441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.637558,12.925323,77.637558,12.925323",
+    "geom:latitude":12.925323,
+    "geom:longitude":77.637558,
+    "iso:country":"IN",
+    "sg:address":"#1, 1st Main, 1st Block, 1st Cross, Koromangala,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4193 9400",
+    "sg:postcode":"560034",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"http://www.nousinfosystems.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931041,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lQDy5KC5FyNjLeZI4BqLd_12.925323_77.637558@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d9c1cf26516500175c648fb105215dfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931041,
+            "region_id":85672165,
+            "venue_id":169541441
+        }
+    ],
+    "wof:id":169541441,
+    "wof:lastmodified":1449033040,
+    "wof:name":"Nous Infosystems",
+    "wof:parent_id":85931041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.637558,12.925323,77.637558,12.925323],
+  "geometry": {"coordinates":[77.637558,12.925323],"type":"Point"}
+}

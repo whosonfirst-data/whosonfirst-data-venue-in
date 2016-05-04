@@ -1,0 +1,66 @@
+{
+  "id": 169526683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.842896,19.016119,72.842896,19.016119",
+    "geom:latitude":19.016119,
+    "geom:longitude":72.842896,
+    "iso:country":"IN",
+    "sg:address":"Unit No. 119, Hind Rajasthan Building, Dadar (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 3240 4478",
+    "sg:postcode":"400014",
+    "sg:tags":[
+        "infant",
+        "product"
+    ],
+    "sg:website":"http://www.rinternational.co.in / www.rinternational.tradeindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931545,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MnH6l38g8QFlfc49Zmmpt_19.016119_72.842896@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"af6f0828688b75a7e09804bb2c44f9ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931545,
+            "region_id":85672171,
+            "venue_id":169526683
+        }
+    ],
+    "wof:id":169526683,
+    "wof:lastmodified":1449033700,
+    "wof:name":"R-international",
+    "wof:parent_id":85931545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "infant",
+        "product"
+    ]
+},
+  "bbox": [72.842896,19.016119,72.842896,19.016119],
+  "geometry": {"coordinates":[72.842896,19.016119],"type":"Point"}
+}

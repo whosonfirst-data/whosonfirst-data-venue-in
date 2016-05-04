@@ -1,0 +1,71 @@
+{
+  "id": 169526467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.826721,18.965006,72.826721,18.965006",
+    "geom:latitude":18.965006,
+    "geom:longitude":72.826721,
+    "iso:country":"IN",
+    "sg:address":"Shop No. 8, R.k. Building No. 3, Khetwadi 8th Lane,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2387 3178",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ],
+    "sg:website":"http://www.jmaindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63wwOwSaMuq2nIxi28a3Rd_18.965006_72.826721@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"43f5455332b0099251c8dda98f5c8cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903863,
+            "region_id":85672171,
+            "venue_id":169526467
+        }
+    ],
+    "wof:id":169526467,
+    "wof:lastmodified":1449033702,
+    "wof:name":"Jma Rane Marketing Ltd.",
+    "wof:parent_id":85903863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ]
+},
+  "bbox": [72.826721,18.965006,72.826721,18.965006],
+  "geometry": {"coordinates":[72.826721,18.965006],"type":"Point"}
+}

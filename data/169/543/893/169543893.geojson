@@ -1,0 +1,66 @@
+{
+  "id": 169543893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.599327,12.958181,77.599327,12.958181",
+    "geom:latitude":12.958181,
+    "geom:longitude":77.599327,
+    "iso:country":"IN",
+    "sg:address":"No.50, 7th Cross, Wilson Garden,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Metro Station",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2223 5726",
+    "sg:postcode":"560027",
+    "sg:tags":[
+        "tube",
+        "fitting"
+    ],
+    "sg:website":"http://www.diamondspipes.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930939,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pUmk1MzbdztBHRk2S1yJ2_12.958181_77.599327@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"925d2f2d257c4048e9505d9365d0672a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930939,
+            "region_id":85672165,
+            "venue_id":169543893
+        }
+    ],
+    "wof:id":169543893,
+    "wof:lastmodified":1449033335,
+    "wof:name":"Diamond Pipes & Tubes Pvt. Ltd.",
+    "wof:parent_id":85930939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tube",
+        "fitting"
+    ]
+},
+  "bbox": [77.599327,12.958181,77.599327,12.958181],
+  "geometry": {"coordinates":[77.599327,12.958181],"type":"Point"}
+}

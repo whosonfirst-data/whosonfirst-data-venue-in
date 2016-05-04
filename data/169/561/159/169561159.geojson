@@ -1,0 +1,65 @@
+{
+  "id": 169561159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.804459,18.498739,73.804459,18.498739",
+    "geom:latitude":18.498739,
+    "geom:longitude":73.804459,
+    "iso:country":"IN",
+    "sg:address":"C-87, Woodland, Gandhi Bhawan, Kothrud,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 209881470889",
+    "sg:postcode":"411038",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931203,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42QyCWDaCEJFom08tz14hL_18.498739_73.804459@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1e27e20f15fa4fd925b534a45b2830a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931203,
+            "region_id":85672171,
+            "venue_id":169561159
+        }
+    ],
+    "wof:id":169561159,
+    "wof:lastmodified":1449035018,
+    "wof:name":"Eoc Uk Limited",
+    "wof:parent_id":85931203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [73.804459,18.498739,73.804459,18.498739],
+  "geometry": {"coordinates":[73.804459,18.498739],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169549365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.183754,28.600086,77.183754,28.600086",
+    "geom:latitude":28.600086,
+    "geom:longitude":77.183754,
+    "iso:country":"IN",
+    "sg:address":"60, Panchsheel Marg, Town Hall Road,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 242 0162",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "product",
+        "powder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928333,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Gj6eF4Aie0Der3LLGNSiG_28.600086_77.183754@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3a3daae72c0cc6b0165909a1dac8b62c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928333,
+            "region_id":85672123,
+            "venue_id":169549365
+        }
+    ],
+    "wof:id":169549365,
+    "wof:lastmodified":1449033590,
+    "wof:name":"Krishna Minerals",
+    "wof:parent_id":85928333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "powder"
+    ]
+},
+  "bbox": [77.183754,28.600086,77.183754,28.600086],
+  "geometry": {"coordinates":[77.183754,28.600086],"type":"Point"}
+}

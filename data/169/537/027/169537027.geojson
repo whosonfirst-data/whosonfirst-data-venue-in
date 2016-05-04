@@ -1,0 +1,65 @@
+{
+  "id": 169537027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.547592,13.048993,77.547592,13.048993",
+    "geom:latitude":13.048993,
+    "geom:longitude":77.547592,
+    "iso:country":"IN",
+    "sg:address":"4-15, Hmt Main Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2360 8712",
+    "sg:postcode":"560054",
+    "sg:tags":[
+        "power",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903877,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66GNlcee2o7z8hGW35UnQp_13.048993_77.547592@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"621471635972d04fb8986574d364f4b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903877,
+            "region_id":85672165,
+            "venue_id":169537027
+        }
+    ],
+    "wof:id":169537027,
+    "wof:lastmodified":1449033498,
+    "wof:name":"Fibradite Products Pvt. Ltd.",
+    "wof:parent_id":85903877,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "power",
+        "supply"
+    ]
+},
+  "bbox": [77.547592,13.048993,77.547592,13.048993],
+  "geometry": {"coordinates":[77.547592,13.048993],"type":"Point"}
+}

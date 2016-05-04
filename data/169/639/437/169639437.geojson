@@ -1,0 +1,63 @@
+{
+  "id": 169639437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.078629,28.461004,77.078629,28.461004",
+    "geom:latitude":28.461004,
+    "geom:longitude":77.078629,
+    "iso:country":"IN",
+    "sg:address":"T-3/402, Sushant Estate, Sushant Lok,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 408 9305",
+    "sg:postcode":"122001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928475,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0B3VlKpcX7A2DlFALeIPV4_28.461004_77.078629@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"06a7bf81bfe624de15652f7972174060",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928475,
+            "region_id":85672133,
+            "venue_id":169639437
+        }
+    ],
+    "wof:id":169639437,
+    "wof:lastmodified":1449035954,
+    "wof:name":"Unisol Inc.",
+    "wof:parent_id":85928475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.078629,28.461004,77.078629,28.461004],
+  "geometry": {"coordinates":[77.078629,28.461004],"type":"Point"}
+}

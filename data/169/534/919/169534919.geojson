@@ -1,0 +1,67 @@
+{
+  "id": 169534919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.835846,19.189947,72.835846,19.189947",
+    "geom:latitude":19.189947,
+    "geom:longitude":72.835846,
+    "iso:country":"IN",
+    "sg:address":"Unit 211, Bldg 2, New Sonal Ind Estate, Link Road, Kanchpada, Malad (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2881 1620",
+    "sg:postcode":"400064",
+    "sg:tags":[
+        "component",
+        "product",
+        "electronic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931619,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tWqQifngn435lAHOVYO02_19.189947_72.835846@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4ba2fecaa2bff815305984da9cab2a32",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931619,
+            "region_id":85672171,
+            "venue_id":169534919
+        }
+    ],
+    "wof:id":169534919,
+    "wof:lastmodified":1449033551,
+    "wof:name":"Shree Maa Electronics P. Ltd.",
+    "wof:parent_id":85931619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "product",
+        "electronic"
+    ]
+},
+  "bbox": [72.835846,19.189947,72.835846,19.189947],
+  "geometry": {"coordinates":[72.835846,19.189947],"type":"Point"}
+}

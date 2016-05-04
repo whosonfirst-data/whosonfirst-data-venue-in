@@ -1,0 +1,65 @@
+{
+  "id": 169537825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.510605,13.055175,77.510605,13.055175",
+    "geom:latitude":13.055175,
+    "geom:longitude":77.510605,
+    "iso:country":"IN",
+    "sg:address":"No.- 4, Pipe Line Road, Mallasandra, T. Dasarahalli,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2839 2519",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "component",
+        "pressed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930987,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ViHK4b97Ig8NHFMgHRvLL_13.055175_77.510605@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d0c0c0dda898fa3e472cade71995ba57",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930987,
+            "region_id":85672165,
+            "venue_id":169537825
+        }
+    ],
+    "wof:id":169537825,
+    "wof:lastmodified":1449033497,
+    "wof:name":"Karun Press Tools",
+    "wof:parent_id":85930987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "pressed"
+    ]
+},
+  "bbox": [77.510605,13.055175,77.510605,13.055175],
+  "geometry": {"coordinates":[77.510605,13.055175],"type":"Point"}
+}

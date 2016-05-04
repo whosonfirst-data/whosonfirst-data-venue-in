@@ -1,0 +1,63 @@
+{
+  "id": 169642595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.52446,23.047386,72.52446,23.047386",
+    "geom:latitude":23.047386,
+    "geom:longitude":72.52446,
+    "iso:country":"IN",
+    "sg:address":"913, J.b. Tower, Opp. Doordarshan Tower, Drive In Road,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 2685 7299",
+    "sg:postcode":"380054",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "sg:website":"http://www.drug-pharmaceutical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928681,
+        85632469,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WfDIqM662WVLL7pAd3CtL_23.047386_72.524460@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"114f2bf8e4e3b23ef87cb7499ae95848",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85928681,
+            "region_id":85672249,
+            "venue_id":169642595
+        }
+    ],
+    "wof:id":169642595,
+    "wof:lastmodified":1449032880,
+    "wof:name":"Venus Pharmaceuticals",
+    "wof:parent_id":85928681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [72.52446,23.047386,72.52446,23.047386],
+  "geometry": {"coordinates":[72.52446,23.047386],"type":"Point"}
+}

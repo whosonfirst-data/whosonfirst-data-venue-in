@@ -1,0 +1,62 @@
+{
+  "id": 169634047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.341057,28.660917,77.341057,28.660917",
+    "geom:latitude":28.660917,
+    "geom:longitude":77.341057,
+    "iso:country":"IN",
+    "sg:address":"18/20, Indl. Area, Site-iv,",
+    "sg:city":"Sahibabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 551 5041",
+    "sg:postcode":"201010",
+    "sg:tags":[
+        "polymer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i24fYxpbVwZ7n572KCWaC_28.660917_77.341057@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9d1249af4bfb4f83e2805b0034c77b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169634047
+        }
+    ],
+    "wof:id":169634047,
+    "wof:lastmodified":1449034258,
+    "wof:name":"Systrans Polymers Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [77.341057,28.660917,77.341057,28.660917],
+  "geometry": {"coordinates":[77.341057,28.660917],"type":"Point"}
+}

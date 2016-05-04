@@ -1,0 +1,65 @@
+{
+  "id": 169530657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.529457,23.023809,72.529457,23.023809",
+    "geom:latitude":23.023809,
+    "geom:longitude":72.529457,
+    "iso:country":"IN",
+    "sg:address":"113, Commerce House, 140, N M Road, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2267 1375",
+    "sg:postcode":"400023",
+    "sg:tags":[
+        "project",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928669,
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vGvyusDEfPrMs41bu9key_23.023809_72.529457@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7baca200928f682554e7d21b11f12eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":85928669,
+            "region_id":85672249,
+            "venue_id":169530657
+        }
+    ],
+    "wof:id":169530657,
+    "wof:lastmodified":1449034442,
+    "wof:name":"Vardhan Impex",
+    "wof:parent_id":85928669,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "project",
+        "construction"
+    ]
+},
+  "bbox": [72.529457,23.023809,72.529457,23.023809],
+  "geometry": {"coordinates":[72.529457,23.023809],"type":"Point"}
+}

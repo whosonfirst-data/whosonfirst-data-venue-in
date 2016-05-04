@@ -1,0 +1,64 @@
+{
+  "id": 169583829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.110878,28.62492,77.110878,28.62492",
+    "geom:latitude":28.62492,
+    "geom:longitude":77.110878,
+    "iso:country":"IN",
+    "sg:address":"M-74, Hari Nagar, Clock Tower,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2549 0494",
+    "sg:postcode":"110064",
+    "sg:tags":[
+        "wax"
+    ],
+    "sg:website":"http://www.lcinternational.tradeindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928577,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HilQL4AYaW4anxcBJ0RRi_28.624920_77.110878@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c46f2f692ff971ef6338cab7e2423f8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928577,
+            "region_id":85672123,
+            "venue_id":169583829
+        }
+    ],
+    "wof:id":169583829,
+    "wof:lastmodified":1449035270,
+    "wof:name":"L. C. International",
+    "wof:parent_id":85928577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [77.110878,28.62492,77.110878,28.62492],
+  "geometry": {"coordinates":[77.110878,28.62492],"type":"Point"}
+}

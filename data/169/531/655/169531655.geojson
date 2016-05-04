@@ -1,0 +1,61 @@
+{
+  "id": 169531655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.817574,19.008961,72.817574,19.008961",
+    "geom:latitude":19.008961,
+    "geom:longitude":72.817574,
+    "iso:country":"IN",
+    "sg:address":"E-42, Venus, 11th Floor, Near Flora Hotel, Worli Seaface, Worli,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2497 3460",
+    "sg:tags":[
+        "gift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903999,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72I73dsA2IJIoFvzpXgqG6_19.008961_72.817574@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"89260222b2541737b563eebbb011799d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903999,
+            "region_id":85672171,
+            "venue_id":169531655
+        }
+    ],
+    "wof:id":169531655,
+    "wof:lastmodified":1449033475,
+    "wof:name":"Hemi'scraft",
+    "wof:parent_id":85903999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gift"
+    ]
+},
+  "bbox": [72.817574,19.008961,72.817574,19.008961],
+  "geometry": {"coordinates":[72.817574,19.008961],"type":"Point"}
+}

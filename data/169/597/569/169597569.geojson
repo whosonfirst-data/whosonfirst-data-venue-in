@@ -1,0 +1,62 @@
+{
+  "id": 169597569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833,18.928308,72.833,18.928308",
+    "geom:latitude":18.928308,
+    "geom:longitude":72.833,
+    "iso:country":"IN",
+    "sg:address":"120, Commerce House, 140, N. Master Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2267 3276",
+    "sg:postcode":"400023",
+    "sg:tags":[
+        "fine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DA1Pd7t0PP9Hy7pf7eSAF_18.928308_72.833000@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2909caa2faadbc2250572f2dde822001",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169597569
+        }
+    ],
+    "wof:id":169597569,
+    "wof:lastmodified":1449035926,
+    "wof:name":"Paalam Impex Pvt. Ltd.",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fine"
+    ]
+},
+  "bbox": [72.833,18.928308,72.833,18.928308],
+  "geometry": {"coordinates":[72.833,18.928308],"type":"Point"}
+}

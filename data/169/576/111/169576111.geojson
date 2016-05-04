@@ -1,0 +1,63 @@
+{
+  "id": 169576111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.281296,28.633135,77.281296,28.633135",
+    "geom:latitude":28.633135,
+    "geom:longitude":77.281296,
+    "iso:country":"IN",
+    "sg:address":"G-54, Laxmi Nagar, Vikas Marg,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2204 0126",
+    "sg:postcode":"110092",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "sg:website":"http://www.bestochem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y4Tn27usl83HfCeDIgfNp_28.633135_77.281296@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5cf3fa4d56ddcbda581984c2db203a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169576111
+        }
+    ],
+    "wof:id":169576111,
+    "wof:lastmodified":1449035201,
+    "wof:name":"Bestochem Formulations (i) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [77.281296,28.633135,77.281296,28.633135],
+  "geometry": {"coordinates":[77.281296,28.633135],"type":"Point"}
+}

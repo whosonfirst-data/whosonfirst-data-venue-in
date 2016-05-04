@@ -1,0 +1,64 @@
+{
+  "id": 169639255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.359879,22.591402,88.359879,22.591402",
+    "geom:latitude":22.591402,
+    "geom:longitude":88.359879,
+    "iso:country":"IN",
+    "sg:address":"45, Rabindra Sarani, 2nd Floor, Room No. 5,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2234 1677",
+    "sg:postcode":"700073",
+    "sg:tags":[
+        "wax"
+    ],
+    "sg:website":"http://www.agrounique.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931965,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56RqDWqVtfdhiEgw5pbqKz_22.591402_88.359879@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"973c77a80a814696b58e41ad9b00e5fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931965,
+            "region_id":85672219,
+            "venue_id":169639255
+        }
+    ],
+    "wof:id":169639255,
+    "wof:lastmodified":1449035950,
+    "wof:name":"Unique Traders",
+    "wof:parent_id":85931965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [88.359879,22.591402,88.359879,22.591402],
+  "geometry": {"coordinates":[88.359879,22.591402],"type":"Point"}
+}

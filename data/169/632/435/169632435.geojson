@@ -1,0 +1,63 @@
+{
+  "id": 169632435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.170372,22.309984,73.170372,22.309984",
+    "geom:latitude":22.309984,
+    "geom:longitude":73.170372,
+    "iso:country":"IN",
+    "sg:address":"105, Vindsor Plazza, Alkapuri,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 230 0340",
+    "sg:postcode":"390002",
+    "sg:tags":[
+        "solvent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933511,
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KJtX6jd16tPRD7zlxkXTn_22.309984_73.170372@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"791d8b63a60b2224a8a23f34153d68a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":85933511,
+            "region_id":85672249,
+            "venue_id":169632435
+        }
+    ],
+    "wof:id":169632435,
+    "wof:lastmodified":1449034796,
+    "wof:name":"Sushaiv Chemicals",
+    "wof:parent_id":85933511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solvent"
+    ]
+},
+  "bbox": [73.170372,22.309984,73.170372,22.309984],
+  "geometry": {"coordinates":[73.170372,22.309984],"type":"Point"}
+}

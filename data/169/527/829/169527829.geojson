@@ -1,0 +1,65 @@
+{
+  "id": 169527829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.825813,18.948435,72.825813,18.948435",
+    "geom:latitude":18.948435,
+    "geom:longitude":72.825813,
+    "iso:country":"IN",
+    "sg:address":"644, J. Shankar Heth Road, Dhobi, Talao,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2208 0518",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "publisher",
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_027CcsrAfjTf8eqfCDEZHF_18.948435_72.825813@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9236bf5cc6dbf66ef608b9ec437e6407",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169527829
+        }
+    ],
+    "wof:id":169527829,
+    "wof:lastmodified":1449035279,
+    "wof:name":"Sundersdas Gianchand",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher",
+        "book"
+    ]
+},
+  "bbox": [72.825813,18.948435,72.825813,18.948435],
+  "geometry": {"coordinates":[72.825813,18.948435],"type":"Point"}
+}

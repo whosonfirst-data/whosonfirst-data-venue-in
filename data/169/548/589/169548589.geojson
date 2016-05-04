@@ -1,0 +1,66 @@
+{
+  "id": 169548589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.24984,12.994349,80.24984,12.994349",
+    "geom:latitude":12.994349,
+    "geom:longitude":80.24984,
+    "iso:country":"IN",
+    "sg:address":"121, K V K Nagar West,",
+    "sg:city":"Tuticorin",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 461 653 6918",
+    "sg:postcode":"628008",
+    "sg:tags":[
+        "flower",
+        "dried"
+    ],
+    "sg:website":"http://www.meridianlines.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931729,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I3A9Ia8vfigCvTGj1FBg4_12.994349_80.249840@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e84dee5afd8c58accdaa046e17320155",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931729,
+            "region_id":85672245,
+            "venue_id":169548589
+        }
+    ],
+    "wof:id":169548589,
+    "wof:lastmodified":1449034974,
+    "wof:name":"Meridian Lines",
+    "wof:parent_id":85931729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower",
+        "dried"
+    ]
+},
+  "bbox": [80.24984,12.994349,80.24984,12.994349],
+  "geometry": {"coordinates":[80.24984,12.994349],"type":"Point"}
+}

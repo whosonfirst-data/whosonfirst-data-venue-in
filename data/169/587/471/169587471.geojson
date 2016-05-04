@@ -1,0 +1,61 @@
+{
+  "id": 169587471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.823196,19.065874,72.823196,19.065874",
+    "geom:latitude":19.065874,
+    "geom:longitude":72.823196,
+    "iso:country":"IN",
+    "sg:address":"No. 6, Rajan Village.off Carter Road, Bandra,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2649 5589",
+    "sg:postcode":"400050",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931581,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pvnDaGMWVLBsBfIuErhxI_19.065874_72.823196@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"84885c74d791cac4399d22d6d34602b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931581,
+            "region_id":-1,
+            "venue_id":169587471
+        }
+    ],
+    "wof:id":169587471,
+    "wof:lastmodified":1449033819,
+    "wof:name":"Marian Maritime Private Limited",
+    "wof:parent_id":85931581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [72.823196,19.065874,72.823196,19.065874],
+  "geometry": {"coordinates":[72.823196,19.065874],"type":"Point"}
+}

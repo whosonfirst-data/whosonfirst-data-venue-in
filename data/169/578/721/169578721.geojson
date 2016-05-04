@@ -1,0 +1,62 @@
+{
+  "id": 169578721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.161819,28.674307,77.161819,28.674307",
+    "geom:latitude":28.674307,
+    "geom:longitude":77.161819,
+    "iso:country":"IN",
+    "sg:address":"131/16, Onkar Nagar-b, Tri Nagar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 6548 2664",
+    "sg:postcode":"110035",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v4VmsUyZod7CMJKZefAC8_28.674307_77.161819@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9404e47501635b1dd8116aed592edf2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169578721
+        }
+    ],
+    "wof:id":169578721,
+    "wof:lastmodified":1449033524,
+    "wof:name":"Hemkunt Hydraulic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.161819,28.674307,77.161819,28.674307],
+  "geometry": {"coordinates":[77.161819,28.674307],"type":"Point"}
+}

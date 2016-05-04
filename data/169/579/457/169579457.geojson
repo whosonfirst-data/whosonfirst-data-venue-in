@@ -1,0 +1,63 @@
+{
+  "id": 169579457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.835472,25.161762,75.835472,25.161762",
+    "geom:latitude":25.161762,
+    "geom:longitude":75.835472,
+    "iso:country":"IN",
+    "sg:address":"F-53, Chambal Industrial Area,",
+    "sg:city":"Kota",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 744 242 5217",
+    "sg:postcode":"324003",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933997,
+        85632469,
+        102029669,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zuSBx8yR23JiyD17kSvfQ_25.161762_75.835472@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"de5044f5f4f248091dde03557fd177e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029669,
+            "neighbourhood_id":85933997,
+            "region_id":85672201,
+            "venue_id":169579457
+        }
+    ],
+    "wof:id":169579457,
+    "wof:lastmodified":1449033741,
+    "wof:name":"Indana Rubber Industries",
+    "wof:parent_id":85933997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [75.835472,25.161762,75.835472,25.161762],
+  "geometry": {"coordinates":[75.835472,25.161762],"type":"Point"}
+}

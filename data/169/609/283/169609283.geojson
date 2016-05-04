@@ -1,0 +1,63 @@
+{
+  "id": 169609283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"79.829048,11.93404,79.829048,11.93404",
+    "geom:latitude":11.93404,
+    "geom:longitude":79.829048,
+    "iso:country":"IN",
+    "sg:address":"67a, Needarajappaiyer Street,",
+    "sg:city":"Pondicherry",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 413 222 3271",
+    "sg:postcode":"605001",
+    "sg:tags":[
+        "chemical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934411,
+        85632469,
+        102028985,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Zie3bDS2Omh9tvYSejprg_11.934040_79.829048@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7eb17ec688dba4dbf467b2ba3b73f9a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028985,
+            "neighbourhood_id":85934411,
+            "region_id":85672245,
+            "venue_id":169609283
+        }
+    ],
+    "wof:id":169609283,
+    "wof:lastmodified":1449033921,
+    "wof:name":"Rashmi Exports",
+    "wof:parent_id":85934411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical"
+    ]
+},
+  "bbox": [79.829048,11.93404,79.829048,11.93404],
+  "geometry": {"coordinates":[79.829048,11.93404],"type":"Point"}
+}

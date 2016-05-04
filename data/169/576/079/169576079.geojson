@@ -1,0 +1,67 @@
+{
+  "id": 169576079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"87.302643,22.309549,87.302643,22.309549",
+    "geom:latitude":22.309549,
+    "geom:longitude":87.302643,
+    "iso:country":"IN",
+    "sg:address":"32-1-201, Bowadara Road,",
+    "sg:city":"Vishakapattanam",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 891 250 2087",
+    "sg:postcode":"530004",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "sg:website":"http://www.bergerpaints.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029753,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mG84CA2IGoeqnWeEIDdEO_22.309549_87.302643@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"20d8a0eca0013b1f5457c7448dbb5953",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029753,
+            "neighbourhood_id":-1,
+            "region_id":85672219,
+            "venue_id":169576079
+        }
+    ],
+    "wof:id":169576079,
+    "wof:lastmodified":1449035198,
+    "wof:name":"Berger Paints Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [87.302643,22.309549,87.302643,22.309549],
+  "geometry": {"coordinates":[87.302643,22.309549],"type":"Point"}
+}

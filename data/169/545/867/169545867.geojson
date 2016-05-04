@@ -1,0 +1,63 @@
+{
+  "id": 169545867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.206711,13.039026,80.206711,13.039026",
+    "geom:latitude":13.039026,
+    "geom:longitude":80.206711,
+    "iso:country":"IN",
+    "sg:address":"4-1-165, Patnool Street,",
+    "sg:city":"Tirupati",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 877 228 6398",
+    "sg:postcode":"517507",
+    "sg:tags":[
+        "thread"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931715,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pqqUzP3Zub5eGhrIJZDUr_13.039026_80.206711@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"53a0dd1efd396ca55c181a39c6a1734a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931715,
+            "region_id":85672245,
+            "venue_id":169545867
+        }
+    ],
+    "wof:id":169545867,
+    "wof:lastmodified":1449033487,
+    "wof:name":"S. S. Kasi Thread Makers",
+    "wof:parent_id":85931715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "thread"
+    ]
+},
+  "bbox": [80.206711,13.039026,80.206711,13.039026],
+  "geometry": {"coordinates":[80.206711,13.039026],"type":"Point"}
+}

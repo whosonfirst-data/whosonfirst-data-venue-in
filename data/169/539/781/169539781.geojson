@@ -1,0 +1,62 @@
+{
+  "id": 169539781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.825394,16.162796,74.825394,16.162796",
+    "geom:latitude":16.162796,
+    "geom:longitude":74.825394,
+    "iso:country":"IN",
+    "sg:address":"18, House, I B Cross, R.m.v. Extn.,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2361 0221",
+    "sg:postcode":"560080",
+    "sg:tags":[
+        "seed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030209,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fAVDQ7uSXsj5i7Wz3tOXK_16.162796_74.825394@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bfc112aae1d06255d8a6cbedfe41ff4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030209,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169539781
+        }
+    ],
+    "wof:id":169539781,
+    "wof:lastmodified":1449036037,
+    "wof:name":"Exim Seeds",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seed"
+    ]
+},
+  "bbox": [74.825394,16.162796,74.825394,16.162796],
+  "geometry": {"coordinates":[74.825394,16.162796],"type":"Point"}
+}

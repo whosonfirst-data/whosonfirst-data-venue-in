@@ -1,0 +1,65 @@
+{
+  "id": 169593053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.864761,30.887657,75.864761,30.887657",
+    "geom:latitude":30.887657,
+    "geom:longitude":75.864761,
+    "iso:country":"IN",
+    "sg:address":"Building No. 501/x, Industrial Estate,",
+    "sg:city":"Changanacheri",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 481 272 2896",
+    "sg:postcode":"686106",
+    "sg:tags":[
+        "natural",
+        "-"
+    ],
+    "sg:website":"http://www.rubbercluster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029555,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HSWSibEGiX9hPOJIBshIe_30.887657_75.864761@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7ba0e345825aedf1e3b3047384616cff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029555,
+            "neighbourhood_id":-1,
+            "region_id":85672195,
+            "venue_id":169593053
+        }
+    ],
+    "wof:id":169593053,
+    "wof:lastmodified":1449034877,
+    "wof:name":"Natural Rubber & Fibre Products Mfgs. Consortium Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "natural",
+        "-"
+    ]
+},
+  "bbox": [75.864761,30.887657,75.864761,30.887657],
+  "geometry": {"coordinates":[75.864761,30.887657],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169624725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.126945,28.630474,77.126945,28.630474",
+    "geom:latitude":28.630474,
+    "geom:longitude":77.126945,
+    "iso:country":"IN",
+    "sg:address":"B-8/1, Mayapuri Industrial Area, Phase - 1,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2811 6772",
+    "sg:postcode":"110064",
+    "sg:tags":[
+        "plant",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927871,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AQJ5wzZMXOQnJtaVfJARc_28.630474_77.126945@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"af5092c06bb8a15c943f39760b4d0880",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927871,
+            "region_id":85672123,
+            "venue_id":169624725
+        }
+    ],
+    "wof:id":169624725,
+    "wof:lastmodified":1449034957,
+    "wof:name":"Singhson Engineers",
+    "wof:parent_id":85927871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [77.126945,28.630474,77.126945,28.630474],
+  "geometry": {"coordinates":[77.126945,28.630474],"type":"Point"}
+}

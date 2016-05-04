@@ -1,0 +1,67 @@
+{
+  "id": 169590309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.826805,18.935812,72.826805,18.935812",
+    "geom:latitude":18.935812,
+    "geom:longitude":72.826805,
+    "iso:country":"IN",
+    "sg:address":"312, Churchgate Chambers, 5 New Marine Lines,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2262 0448",
+    "sg:postcode":"400020",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903879,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SfqLfEM5CVWAhz6ip610h_18.935812_72.826805@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"be6b8d61adba414d8852b9cbc6f04b26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903879,
+            "region_id":85672171,
+            "venue_id":169590309
+        }
+    ],
+    "wof:id":169590309,
+    "wof:lastmodified":1449034653,
+    "wof:name":"Mm Agrichem Pvt. Ltd.",
+    "wof:parent_id":85903879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [72.826805,18.935812,72.826805,18.935812],
+  "geometry": {"coordinates":[72.826805,18.935812],"type":"Point"}
+}

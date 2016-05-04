@@ -1,0 +1,63 @@
+{
+  "id": 169615349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"83.010597,25.331367,83.010597,25.331367",
+    "geom:latitude":25.331367,
+    "geom:longitude":83.010597,
+    "iso:country":"IN",
+    "sg:address":"J. 23/51, Bari Bazar,",
+    "sg:city":"Varanasi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 542 221 1614",
+    "sg:postcode":"221001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933059,
+        85632469,
+        102028309,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LZ1HwxuSxUFI4TPqVFOEq_25.331367_83.010597@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bcb86c6183ca6aef3d51c3beeb8f484b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028309,
+            "neighbourhood_id":85933059,
+            "region_id":85672205,
+            "venue_id":169615349
+        }
+    ],
+    "wof:id":169615349,
+    "wof:lastmodified":1449033732,
+    "wof:name":"Samiullah & Co.",
+    "wof:parent_id":85933059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [83.010597,25.331367,83.010597,25.331367],
+  "geometry": {"coordinates":[83.010597,25.331367],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169612359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.195961,28.576874,77.195961,28.576874",
+    "geom:latitude":28.576874,
+    "geom:longitude":77.195961,
+    "iso:country":"IN",
+    "sg:address":"26-a, Sarojini Nagar,",
+    "sg:city":"Kanpur",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 512 223 0402",
+    "sg:postcode":"208005",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928329,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TUuhUreb9V9myUS3A0Gm7_28.576874_77.195961@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2ec33fe5edd6ca89e94760a32f37e12e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928329,
+            "region_id":85672123,
+            "venue_id":169612359
+        }
+    ],
+    "wof:id":169612359,
+    "wof:lastmodified":1449034129,
+    "wof:name":"Ruchi Exports",
+    "wof:parent_id":85928329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [77.195961,28.576874,77.195961,28.576874],
+  "geometry": {"coordinates":[77.195961,28.576874],"type":"Point"}
+}

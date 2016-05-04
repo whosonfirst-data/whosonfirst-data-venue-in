@@ -1,0 +1,63 @@
+{
+  "id": 169558671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.154419,13.122154,80.154419,13.122154",
+    "geom:latitude":13.122154,
+    "geom:longitude":80.154419,
+    "iso:country":"IN",
+    "sg:address":"H.no: 7-1-309/2, Maruthi Street,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 6617 6899",
+    "sg:postcode":"500003",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904059,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CXWR3wGwlY72aaMX0VUKp_13.122154_80.154419@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b0278697b9058d4fdfc9c7362ab49b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85904059,
+            "region_id":85672245,
+            "venue_id":169558671
+        }
+    ],
+    "wof:id":169558671,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Business Solutions",
+    "wof:parent_id":85904059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.154419,13.122154,80.154419,13.122154],
+  "geometry": {"coordinates":[80.154419,13.122154],"type":"Point"}
+}

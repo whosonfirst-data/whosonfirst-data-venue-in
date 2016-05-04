@@ -1,0 +1,64 @@
+{
+  "id": 169560517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.856232,22.72349,75.856232,22.72349",
+    "geom:latitude":22.72349,
+    "geom:longitude":75.856232,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 1706/10, G.i.d.c. Industrial Estate,",
+    "sg:city":"Ankleshwar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2646 221 023",
+    "sg:postcode":"393002",
+    "sg:tags":[
+        "pigment"
+    ],
+    "sg:website":"http://www.dipengroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933759,
+        85632469,
+        102030041,
+        85672239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Pjujv0dVDr5zXDPUwccXm_22.723490_75.856232@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"84ff856f4c5750aac36a630201310484",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030041,
+            "neighbourhood_id":85933759,
+            "region_id":85672239,
+            "venue_id":169560517
+        }
+    ],
+    "wof:id":169560517,
+    "wof:lastmodified":1449035182,
+    "wof:name":"Dipen Industries",
+    "wof:parent_id":85933759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [75.856232,22.72349,75.856232,22.72349],
+  "geometry": {"coordinates":[75.856232,22.72349],"type":"Point"}
+}

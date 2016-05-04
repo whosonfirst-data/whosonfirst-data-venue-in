@@ -1,0 +1,62 @@
+{
+  "id": 169540885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.290985,13.13905,80.290985,13.13905",
+    "geom:latitude":13.13905,
+    "geom:longitude":80.290985,
+    "iso:country":"IN",
+    "sg:address":"31, 1st Floor, J.m. Road Cross,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4123 4424",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931781,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G5al4wCWYvFOM0biAxFey_13.139050_80.290985@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"affed4f5d42a75614bb0a8c2ec86bbac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931781,
+            "region_id":85672245,
+            "venue_id":169540885
+        }
+    ],
+    "wof:id":169540885,
+    "wof:lastmodified":1449033977,
+    "wof:name":"Silk Clothman Pvt. Ltd.",
+    "wof:parent_id":85931781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [80.290985,13.13905,80.290985,13.13905],
+  "geometry": {"coordinates":[80.290985,13.13905],"type":"Point"}
+}

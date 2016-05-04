@@ -1,0 +1,64 @@
+{
+  "id": 169534181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.834503,19.114763,72.834503,19.114763",
+    "geom:latitude":19.114763,
+    "geom:longitude":72.834503,
+    "iso:country":"IN",
+    "sg:address":"25a, Juhu Supreme Shopping Centre, Gulmohar Road No. 9, Jvpd Scheme,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5692 3698",
+    "sg:postcode":"400049",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "sg:website":"http://www.gokuleximp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931479,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_700KRcYgxSu6xeyvuufu9D_19.114763_72.834503@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5470fb7254fb2d41ff6d2cda2df6549e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931479,
+            "region_id":-1,
+            "venue_id":169534181
+        }
+    ],
+    "wof:id":169534181,
+    "wof:lastmodified":1449033548,
+    "wof:name":"Gokul Eximp",
+    "wof:parent_id":85931479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [72.834503,19.114763,72.834503,19.114763],
+  "geometry": {"coordinates":[72.834503,19.114763],"type":"Point"}
+}

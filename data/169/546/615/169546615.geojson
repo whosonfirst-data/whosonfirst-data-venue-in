@@ -1,0 +1,63 @@
+{
+  "id": 169546615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.220467,13.026856,80.220467,13.026856",
+    "geom:latitude":13.026856,
+    "geom:longitude":80.220467,
+    "iso:country":"IN",
+    "sg:address":"No 47, V.k.r. Thottam, B.s.s. Road,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 222 4437",
+    "sg:postcode":"641601",
+    "sg:tags":[
+        "jacket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903867,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pY0TKboUvof5JXJkNMcwZ_13.026856_80.220467@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"dd0caf0dfa780a0c90909b7f8d04aad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903867,
+            "region_id":85672245,
+            "venue_id":169546615
+        }
+    ],
+    "wof:id":169546615,
+    "wof:lastmodified":1449032679,
+    "wof:name":"White Apple Buying Service",
+    "wof:parent_id":85903867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jacket"
+    ]
+},
+  "bbox": [80.220467,13.026856,80.220467,13.026856],
+  "geometry": {"coordinates":[80.220467,13.026856],"type":"Point"}
+}

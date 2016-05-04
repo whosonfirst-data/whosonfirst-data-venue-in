@@ -1,0 +1,66 @@
+{
+  "id": 169579477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.003708,19.132946,73.003708,19.132946",
+    "geom:latitude":19.132946,
+    "geom:longitude":73.003708,
+    "iso:country":"IN",
+    "sg:address":"Midc Industrial Area, R-379, Rabale Village, Thane-belapur Road,",
+    "sg:city":"Thane",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2769 2988",
+    "sg:postcode":"400701",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031115,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eLlTQ4ugw1rJdaIL48hol_19.132946_73.003708@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ce6b752b2fa6cae35f6f8b4ad637428f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031115,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169579477
+        }
+    ],
+    "wof:id":169579477,
+    "wof:lastmodified":1449033739,
+    "wof:name":"Imperial Paints & Chemical Co.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [73.003708,19.132946,73.003708,19.132946],
+  "geometry": {"coordinates":[73.003708,19.132946],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169581991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.267815,28.549292,77.267815,28.549292",
+    "geom:latitude":28.549292,
+    "geom:longitude":77.267815,
+    "iso:country":"IN",
+    "sg:address":"D-142-143, Okhla Industrial Area, Phase-i,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11268190003",
+    "sg:postcode":"110020",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "sg:website":"http://www.nerolac.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928361,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VKQ647lBld1SWH5hiFjHJ_28.549292_77.267815@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ebce011ae1c41c86cfcb9d3ae8c8dfbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928361,
+            "region_id":85672123,
+            "venue_id":169581991
+        }
+    ],
+    "wof:id":169581991,
+    "wof:lastmodified":1449033380,
+    "wof:name":"Kansi Narolac Paints Limited",
+    "wof:parent_id":85928361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.267815,28.549292,77.267815,28.549292],
+  "geometry": {"coordinates":[77.267815,28.549292],"type":"Point"}
+}

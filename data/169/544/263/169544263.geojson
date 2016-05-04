@@ -1,0 +1,63 @@
+{
+  "id": 169544263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.61924,12.974479,77.61924,12.974479",
+    "geom:latitude":12.974479,
+    "geom:longitude":77.61924,
+    "iso:country":"IN",
+    "sg:address":"No. 22, Sunrise Chambers, Ulsoor Rd.,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2558 8965",
+    "sg:postcode":"560010",
+    "sg:tags":[
+        "valve"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931137,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AII5ECElnLlB8Fi9UgfOv_12.974479_77.619240@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7a5c77f81a122fd83f66c12ae06a8ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931137,
+            "region_id":85672165,
+            "venue_id":169544263
+        }
+    ],
+    "wof:id":169544263,
+    "wof:lastmodified":1449035964,
+    "wof:name":"Triton Valves Ltd.",
+    "wof:parent_id":85931137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "valve"
+    ]
+},
+  "bbox": [77.61924,12.974479,77.61924,12.974479],
+  "geometry": {"coordinates":[77.61924,12.974479],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 169594611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.245972,19.152477,73.245972,19.152477",
+    "geom:latitude":19.152477,
+    "geom:longitude":73.245972,
+    "iso:country":"IN",
+    "sg:address":"Plot No. F-20, M.i.d.c., Badlapur,",
+    "sg:city":"Thane",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 251 245 3816",
+    "sg:postcode":"421503",
+    "sg:tags":[
+        "fine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rvQSu9KCztVI6JdxqOx6k_19.152477_73.245972@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8e19123f368fbdfb8210a0d3cb383b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169594611
+        }
+    ],
+    "wof:id":169594611,
+    "wof:lastmodified":1449033165,
+    "wof:name":"Nilchem Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fine"
+    ]
+},
+  "bbox": [73.245972,19.152477,73.245972,19.152477],
+  "geometry": {"coordinates":[73.245972,19.152477],"type":"Point"}
+}

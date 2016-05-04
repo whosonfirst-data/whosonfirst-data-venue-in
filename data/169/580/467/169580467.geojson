@@ -1,0 +1,63 @@
+{
+  "id": 169580467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.125145,28.652155,77.125145,28.652155",
+    "geom:latitude":28.652155,
+    "geom:longitude":77.125145,
+    "iso:country":"IN",
+    "sg:address":"121, Raja Garden,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2546 2160",
+    "sg:postcode":"110015",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928595,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E3od781b8No5nUhIkJ2NU_28.652155_77.125145@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6cdf8552e87ad667f31628e2ae9da10f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928595,
+            "region_id":85672123,
+            "venue_id":169580467
+        }
+    ],
+    "wof:id":169580467,
+    "wof:lastmodified":1449034914,
+    "wof:name":"Jai Industrial Corporation",
+    "wof:parent_id":85928595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.125145,28.652155,77.125145,28.652155],
+  "geometry": {"coordinates":[77.125145,28.652155],"type":"Point"}
+}

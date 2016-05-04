@@ -1,0 +1,63 @@
+{
+  "id": 169533665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.21566,28.653236,77.21566,28.653236",
+    "geom:latitude":28.653236,
+    "geom:longitude":77.21566,
+    "iso:country":"IN",
+    "sg:address":"S.i.s, Bldg., 2nd Floor, S.v.p. Patel, No. 417,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2369 0901",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "diamonds-polished"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928087,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SharhdyL8PPgxo0W7lNlb_28.653236_77.215660@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a8a662073002143313c55a8c8b56eaa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928087,
+            "region_id":85672123,
+            "venue_id":169533665
+        }
+    ],
+    "wof:id":169533665,
+    "wof:lastmodified":1449032642,
+    "wof:name":"Pran Sons",
+    "wof:parent_id":85928087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamonds-polished"
+    ]
+},
+  "bbox": [77.21566,28.653236,77.21566,28.653236],
+  "geometry": {"coordinates":[77.21566,28.653236],"type":"Point"}
+}

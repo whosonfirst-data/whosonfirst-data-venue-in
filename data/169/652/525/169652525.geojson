@@ -1,0 +1,79 @@
+{
+  "id": 169652525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.590524,12.909735,77.590524,12.909735",
+    "geom:latitude":12.909735,
+    "geom:longitude":77.590524,
+    "iso:country":"IN",
+    "sg:address":"154 10th Cross 2nd Main BEL 1st Block Vidyaranyapura",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560097",
+    "sg:tags":[
+        "open-source",
+        "consulting",
+        "bangalore",
+        "india",
+        "global",
+        "opentaps",
+        "po",
+        "project-open",
+        "koha"
+    ],
+    "sg:website":"http://www.venkatmangudi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931065,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dPxVVyLs2klsXJbsmnpHp_12.909735_77.590524@1308163238"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"65adfc0ff2b79a30f8c24576c1019c62",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931065,
+            "region_id":85672165,
+            "venue_id":169652525
+        }
+    ],
+    "wof:id":169652525,
+    "wof:lastmodified":1449034808,
+    "wof:name":"Venkat Mangudi Consulting",
+    "wof:parent_id":85931065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "open-source",
+        "consulting",
+        "bangalore",
+        "india",
+        "global",
+        "opentaps",
+        "po",
+        "project-open",
+        "koha"
+    ]
+},
+  "bbox": [77.590524,12.909735,77.590524,12.909735],
+  "geometry": {"coordinates":[77.590524,12.909735],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169549503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.950203,11.00662,76.950203,11.00662",
+    "geom:latitude":11.00662,
+    "geom:longitude":76.950203,
+    "iso:country":"IN",
+    "sg:address":"2nd Floor, Commerce House, Town Hall Road,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 329 0784",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "sandstone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783699,
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0o3bvn5x9ogymuYqIs69hr_11.006620_76.950203@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"681235a869f993831f37e6e9a2d96fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":85783699,
+            "region_id":85672245,
+            "venue_id":169549503
+        }
+    ],
+    "wof:id":169549503,
+    "wof:lastmodified":1449033596,
+    "wof:name":"Fortune Stones Ltd.",
+    "wof:parent_id":85783699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandstone"
+    ]
+},
+  "bbox": [76.950203,11.00662,76.950203,11.00662],
+  "geometry": {"coordinates":[76.950203,11.00662],"type":"Point"}
+}

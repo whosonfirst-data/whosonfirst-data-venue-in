@@ -1,0 +1,64 @@
+{
+  "id": 169647419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.330002,28.58,77.330002,28.58",
+    "geom:latitude":28.58,
+    "geom:longitude":77.330002,
+    "iso:country":"IN",
+    "sg:address":"44, G.t. Road, Opp: Bharat Dharam Kanta, Greater Noida,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 275 0815",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928405,
+        85632469,
+        102031133,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T32JFboii5BFyLUf64Xqs_28.580000_77.330002@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0f17ec864d835db8c349f9ec593705ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031133,
+            "neighbourhood_id":85928405,
+            "region_id":85672205,
+            "venue_id":169647419
+        }
+    ],
+    "wof:id":169647419,
+    "wof:lastmodified":1449034242,
+    "wof:name":"Yashika Textiles",
+    "wof:parent_id":85928405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [77.330002,28.58,77.330002,28.58],
+  "geometry": {"coordinates":[77.330002,28.58],"type":"Point"}
+}

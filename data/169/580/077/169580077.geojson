@@ -1,0 +1,63 @@
+{
+  "id": 169580077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.817558,18.916954,72.817558,18.916954",
+    "geom:latitude":18.916954,
+    "geom:longitude":72.817558,
+    "iso:country":"IN",
+    "sg:address":"99a, Maker Tower 'f', 9th Floor, Cuffe Parade,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2218 7842",
+    "sg:postcode":"400005",
+    "sg:tags":[
+        "polymer"
+    ],
+    "sg:website":"http://www.petrochem-ir.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903829,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31QTRN2HX7X2XjHHt4B2Ag_18.916954_72.817558@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"23e0ef48365fc7030a3ca68e3a2448d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903829,
+            "region_id":-1,
+            "venue_id":169580077
+        }
+    ],
+    "wof:id":169580077,
+    "wof:lastmodified":1449034912,
+    "wof:name":"Iran Petrochemical Commercial Co (ipcc)",
+    "wof:parent_id":85903829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [72.817558,18.916954,72.817558,18.916954],
+  "geometry": {"coordinates":[72.817558,18.916954],"type":"Point"}
+}

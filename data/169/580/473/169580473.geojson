@@ -1,0 +1,62 @@
+{
+  "id": 169580473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.477013,30.810181,75.477013,30.810181",
+    "geom:latitude":30.810181,
+    "geom:longitude":75.477013,
+    "iso:country":"IN",
+    "sg:address":"Jagraon",
+    "sg:city":"Jagraon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 91162423272",
+    "sg:postcode":"142026",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.ansc.ecode.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Fq4gCWbQou2JgQV90BGF3_30.810181_75.477013@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"71dc147106410532e1977529c28eb1b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672195,
+            "venue_id":169580473
+        }
+    ],
+    "wof:id":169580473,
+    "wof:lastmodified":1449034916,
+    "wof:name":"Jagraon Co-op. Sugar Mills Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.477013,30.810181,75.477013,30.810181],
+  "geometry": {"coordinates":[75.477013,30.810181],"type":"Point"}
+}

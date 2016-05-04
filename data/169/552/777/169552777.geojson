@@ -1,0 +1,64 @@
+{
+  "id": 169552777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"86.504166,21.057049,86.504166,21.057049",
+    "geom:latitude":21.057049,
+    "geom:longitude":86.504166,
+    "iso:country":"IN",
+    "sg:address":"C-703, Bhadralok,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 233 9641",
+    "sg:postcode":"390020",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030725,
+        85672157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nKWvWfEoc86u5Hk8owPeF_21.057049_86.504166@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5b731c4e7d9e43f88fc029e852e1a1bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030725,
+            "neighbourhood_id":-1,
+            "region_id":85672157,
+            "venue_id":169552777
+        }
+    ],
+    "wof:id":169552777,
+    "wof:lastmodified":1449034056,
+    "wof:name":"Harit Rasayan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [86.504166,21.057049,86.504166,21.057049],
+  "geometry": {"coordinates":[86.504166,21.057049],"type":"Point"}
+}

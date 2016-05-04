@@ -1,0 +1,72 @@
+{
+  "id": 169540273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.710266,12.976968,77.710266,12.976968",
+    "geom:latitude":12.976968,
+    "geom:longitude":77.710266,
+    "iso:country":"IN",
+    "sg:address":"82, Epip, White Field,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2841 6483",
+    "sg:postcode":"560066",
+    "sg:tags":[
+        "shirt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931159,
+        85632469,
+        102030819,
+        85672165,
+        85931165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ExLmU48fE5DVyXSp5dxMC_12.976968_77.710266@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2660394643e5ce995f59cced438861aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931159,
+            "region_id":85672165,
+            "venue_id":169540273
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931165,
+            "region_id":85672165,
+            "venue_id":169540273
+        }
+    ],
+    "wof:id":169540273,
+    "wof:lastmodified":1449033977,
+    "wof:name":"Mgk Impex P Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shirt"
+    ]
+},
+  "bbox": [77.710266,12.976968,77.710266,12.976968],
+  "geometry": {"coordinates":[77.710266,12.976968],"type":"Point"}
+}

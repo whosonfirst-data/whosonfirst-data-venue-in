@@ -1,0 +1,67 @@
+{
+  "id": 169545271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.264755,13.074564,80.264755,13.074564",
+    "geom:latitude":13.074564,
+    "geom:longitude":80.264755,
+    "iso:country":"IN",
+    "sg:address":"47, Subban Street,",
+    "sg:city":"Theni",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 4546 263 101",
+    "sg:postcode":"625531",
+    "sg:tags":[
+        "equipment",
+        "pump",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903859,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KNqcd3PKNGoYRV5FF2LyF_13.074564_80.264755@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"851758ac187e38930c6910a062639f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903859,
+            "region_id":85672245,
+            "venue_id":169545271
+        }
+    ],
+    "wof:id":169545271,
+    "wof:lastmodified":1449033486,
+    "wof:name":"Rg Agency",
+    "wof:parent_id":85903859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "pump",
+        "pumping"
+    ]
+},
+  "bbox": [80.264755,13.074564,80.264755,13.074564],
+  "geometry": {"coordinates":[80.264755,13.074564],"type":"Point"}
+}

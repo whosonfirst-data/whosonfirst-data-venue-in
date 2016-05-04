@@ -1,0 +1,64 @@
+{
+  "id": 169553827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.19857,22.255503,73.19857,22.255503",
+    "geom:latitude":22.255503,
+    "geom:longitude":73.19857,
+    "iso:country":"IN",
+    "sg:address":"96, Gidc, Makarpura Road,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 264 4816",
+    "sg:postcode":"390010",
+    "sg:tags":[
+        "product",
+        "powder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WAzZK57Y3pND8VTWGU5vu_22.255503_73.198570@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6e22de04ca9f3972c3459edfa9241aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169553827
+        }
+    ],
+    "wof:id":169553827,
+    "wof:lastmodified":1449032708,
+    "wof:name":"Premier Alchem Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "powder"
+    ]
+},
+  "bbox": [73.19857,22.255503,73.19857,22.255503],
+  "geometry": {"coordinates":[73.19857,22.255503],"type":"Point"}
+}

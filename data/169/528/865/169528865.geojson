@@ -1,0 +1,67 @@
+{
+  "id": 169528865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.830765,18.946476,72.830765,18.946476",
+    "geom:latitude":18.946476,
+    "geom:longitude":72.830765,
+    "iso:country":"IN",
+    "sg:address":"24-a,tawawala Bldg., 147, 1st Floor, Pathak Wadi, Lohar Chawl,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2209 4504",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "cables/cable",
+        "conductor",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b79bP5CwfZjxi3SJUxsxf_18.946476_72.830765@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"91881b15ab6eef02503620bdc6710da2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169528865
+        }
+    ],
+    "wof:id":169528865,
+    "wof:lastmodified":1449033571,
+    "wof:name":"S. Manoj & Company",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cables/cable",
+        "conductor",
+        "accessory"
+    ]
+},
+  "bbox": [72.830765,18.946476,72.830765,18.946476],
+  "geometry": {"coordinates":[72.830765,18.946476],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169525641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.882553,19.116943,72.882553,19.116943",
+    "geom:latitude":19.116943,
+    "geom:longitude":72.882553,
+    "iso:country":"IN",
+    "sg:address":"C-208, Twin Arcade, Military Road, Marol, Andheri (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2920 2886",
+    "sg:postcode":"400059",
+    "sg:tags":[
+        "acid"
+    ],
+    "sg:website":"http://www.amolpharmaceuticals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17XARvf0TDP18EGNm60esz_19.116943_72.882553@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d6847bd0870921cee6b7437fff3a2f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169525641
+        }
+    ],
+    "wof:id":169525641,
+    "wof:lastmodified":1449035275,
+    "wof:name":"Amol Pharmaceuticals Pvt. Ltd.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [72.882553,19.116943,72.882553,19.116943],
+  "geometry": {"coordinates":[72.882553,19.116943],"type":"Point"}
+}

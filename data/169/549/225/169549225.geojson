@@ -1,0 +1,63 @@
+{
+  "id": 169549225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.346405,22.52968,88.346405,22.52968",
+    "geom:latitude":22.52968,
+    "geom:longitude":88.346405,
+    "iso:country":"IN",
+    "sg:address":"22, Ganguar Ghat Road,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 241 8675",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "handmade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931939,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aysUyAGVfuPQB5YU2pCxn_22.529680_88.346405@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"98f1bc0c6cee9053b8d5dd2a0d129c96",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931939,
+            "region_id":85672219,
+            "venue_id":169549225
+        }
+    ],
+    "wof:id":169549225,
+    "wof:lastmodified":1449033591,
+    "wof:name":"Shivam Handicraft",
+    "wof:parent_id":85931939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handmade"
+    ]
+},
+  "bbox": [88.346405,22.52968,88.346405,22.52968],
+  "geometry": {"coordinates":[88.346405,22.52968],"type":"Point"}
+}

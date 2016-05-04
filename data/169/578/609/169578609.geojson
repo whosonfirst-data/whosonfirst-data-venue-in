@@ -1,0 +1,63 @@
+{
+  "id": 169578609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.939064,19.164045,72.939064,19.164045",
+    "geom:latitude":19.164045,
+    "geom:longitude":72.939064,
+    "iso:country":"IN",
+    "sg:address":"120, Udyog Kshetra, Goregaon Link Road, Mulund (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5621 3741",
+    "sg:postcode":"400080",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931655,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VQxnnP63sM5i7N1SfjkRZ_19.164045_72.939064@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"00997fffcde6f05b792cf3804ca1d879",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931655,
+            "region_id":85672171,
+            "venue_id":169578609
+        }
+    ],
+    "wof:id":169578609,
+    "wof:lastmodified":1449033518,
+    "wof:name":"Hem Chem Corporation",
+    "wof:parent_id":85931655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.939064,19.164045,72.939064,19.164045],
+  "geometry": {"coordinates":[72.939064,19.164045],"type":"Point"}
+}

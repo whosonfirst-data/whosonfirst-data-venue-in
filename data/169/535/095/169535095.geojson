@@ -1,0 +1,70 @@
+{
+  "id": 169535095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.863945,19.124256,72.863945,19.124256",
+    "geom:latitude":19.124256,
+    "geom:longitude":72.863945,
+    "iso:country":"IN",
+    "sg:address":"32 J, Laxmi Industrial Estate, Andheri (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2636 1038",
+    "sg:postcode":"400053",
+    "sg:tags":[
+        "chemical",
+        "equipment",
+        "metal",
+        "electroplating"
+    ],
+    "sg:website":"http://www.emechindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931515,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aHZLP8h4eEiRyoAXNmVIC_19.124256_72.863945@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a75a021d008bd13f124a934c681af0b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931515,
+            "region_id":85672171,
+            "venue_id":169535095
+        }
+    ],
+    "wof:id":169535095,
+    "wof:lastmodified":1449033286,
+    "wof:name":"E. Mech Enterprises Pvt. Ltd.",
+    "wof:parent_id":85931515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "equipment",
+        "metal",
+        "electroplating"
+    ]
+},
+  "bbox": [72.863945,19.124256,72.863945,19.124256],
+  "geometry": {"coordinates":[72.863945,19.124256],"type":"Point"}
+}

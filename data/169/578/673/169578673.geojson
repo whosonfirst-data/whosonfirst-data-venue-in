@@ -1,0 +1,64 @@
+{
+  "id": 169578673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.297554,28.618889,77.297554,28.618889",
+    "geom:latitude":28.618889,
+    "geom:longitude":77.297554,
+    "iso:country":"IN",
+    "sg:address":"C-93, Phase 7, Industrial Area,",
+    "sg:city":"Mohali",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 172 509 0538",
+    "sg:postcode":"160055",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.indiamart.com/hitechrubberindia/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928053,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31l98COnOBlrE5Mbn3ehI4_28.618889_77.297554@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b414b48086dde8f137d9d42f7384c32c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928053,
+            "region_id":85672123,
+            "venue_id":169578673
+        }
+    ],
+    "wof:id":169578673,
+    "wof:lastmodified":1449033519,
+    "wof:name":"Hi Tech Rubber Industries",
+    "wof:parent_id":85928053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.297554,28.618889,77.297554,28.618889],
+  "geometry": {"coordinates":[77.297554,28.618889],"type":"Point"}
+}

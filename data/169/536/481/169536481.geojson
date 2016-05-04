@@ -1,0 +1,64 @@
+{
+  "id": 169536481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.842369,18.987749,72.842369,18.987749",
+    "geom:latitude":18.987749,
+    "geom:longitude":72.842369,
+    "iso:country":"IN",
+    "sg:address":"30/2099, Abhyudayanagar, Kalachowki,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2470 7207",
+    "sg:postcode":"400033",
+    "sg:tags":[
+        "garment",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903961,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73b85B8zL3VL2aZVqd3Vm5_18.987749_72.842369@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ebf971ee86da64829668661a821c602a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903961,
+            "region_id":-1,
+            "venue_id":169536481
+        }
+    ],
+    "wof:id":169536481,
+    "wof:lastmodified":1449034659,
+    "wof:name":"Tanishq Enterprises",
+    "wof:parent_id":85903961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "accessory"
+    ]
+},
+  "bbox": [72.842369,18.987749,72.842369,18.987749],
+  "geometry": {"coordinates":[72.842369,18.987749],"type":"Point"}
+}

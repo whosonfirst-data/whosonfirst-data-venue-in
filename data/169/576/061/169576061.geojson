@@ -1,0 +1,62 @@
+{
+  "id": 169576061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.292381,28.664028,77.292381,28.664028",
+    "geom:latitude":28.664028,
+    "geom:longitude":77.292381,
+    "iso:country":"IN",
+    "sg:address":"30/78, Street No. 8, Vishwas Nagar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2238 8895",
+    "sg:postcode":"110032",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gm2b2SS68kS5lwjQhm2gz_28.664028_77.292381@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6913076442fd7dfefd47818ae47024a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169576061
+        }
+    ],
+    "wof:id":169576061,
+    "wof:lastmodified":1449035196,
+    "wof:name":"Bentex Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.292381,28.664028,77.292381,28.664028],
+  "geometry": {"coordinates":[77.292381,28.664028],"type":"Point"}
+}

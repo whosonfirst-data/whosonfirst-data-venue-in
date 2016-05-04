@@ -1,0 +1,68 @@
+{
+  "id": 169560157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.926315,19.122385,72.926315,19.122385",
+    "geom:latitude":19.122385,
+    "geom:longitude":72.926315,
+    "iso:country":"IN",
+    "sg:address":"36, Suyog Industrial Estate, L.b.s.marg, Vikhroli,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2579 0540",
+    "sg:postcode":"400083",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "sg:website":"http://www.delmarketing.indianet.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931633,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hHp06cqvc5hHdWFKe3IiB_19.122385_72.926315@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cd3c78ac2142be4e8f651c22c4c12ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931633,
+            "region_id":85672171,
+            "venue_id":169560157
+        }
+    ],
+    "wof:id":169560157,
+    "wof:lastmodified":1449035181,
+    "wof:name":"D'el Marketing Services",
+    "wof:parent_id":85931633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [72.926315,19.122385,72.926315,19.122385],
+  "geometry": {"coordinates":[72.926315,19.122385],"type":"Point"}
+}

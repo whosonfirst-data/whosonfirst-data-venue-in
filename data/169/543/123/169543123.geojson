@@ -1,0 +1,64 @@
+{
+  "id": 169543123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.627213,12.909937,77.627213,12.909937",
+    "geom:latitude":12.909937,
+    "geom:longitude":77.627213,
+    "iso:country":"IN",
+    "sg:address":"69/4, Shop No.2, Bvn Reddy Builing, Hosur Main Road, Bommanahalli,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Tunnel",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2573 6571",
+    "sg:tags":[
+        "tarpaulin",
+        "tent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930853,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XSwArz9jZaBoCeDozJvhR_12.909937_77.627213@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4a76895b80ba90619614c8892e0cfa99",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930853,
+            "region_id":85672165,
+            "venue_id":169543123
+        }
+    ],
+    "wof:id":169543123,
+    "wof:lastmodified":1449033334,
+    "wof:name":"Techno Pack",
+    "wof:parent_id":85930853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tarpaulin",
+        "tent"
+    ]
+},
+  "bbox": [77.627213,12.909937,77.627213,12.909937],
+  "geometry": {"coordinates":[77.627213,12.909937],"type":"Point"}
+}

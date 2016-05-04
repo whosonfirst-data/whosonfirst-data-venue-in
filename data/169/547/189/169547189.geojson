@@ -1,0 +1,63 @@
+{
+  "id": 169547189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.217819,13.061496,80.217819,13.061496",
+    "geom:latitude":13.061496,
+    "geom:longitude":80.217819,
+    "iso:country":"IN",
+    "sg:address":"23, K.p.n. Colony, 1st Street,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 224 2904",
+    "sg:postcode":"641601",
+    "sg:tags":[
+        "outerwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931711,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25uv62QMBpzuHdqtC1wTxn_13.061496_80.217819@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ef75c06fd732a607a019834534aa9485",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931711,
+            "region_id":85672245,
+            "venue_id":169547189
+        }
+    ],
+    "wof:id":169547189,
+    "wof:lastmodified":1449033007,
+    "wof:name":"East West Agencies",
+    "wof:parent_id":85931711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outerwear"
+    ]
+},
+  "bbox": [80.217819,13.061496,80.217819,13.061496],
+  "geometry": {"coordinates":[80.217819,13.061496],"type":"Point"}
+}

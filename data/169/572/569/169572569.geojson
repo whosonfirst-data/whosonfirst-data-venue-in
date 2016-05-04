@@ -1,0 +1,53 @@
+{
+  "id": 169572569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.85598,19.021233,72.85598,19.021233",
+    "geom:latitude":19.021233,
+    "geom:longitude":72.85598,
+    "iso:country":"IN",
+    "sg:address":"Matunga",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2409 0015",
+    "sg:postcode":"400019",
+    "sg:province":"Maharashtra",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931443,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QWmHLO2bYwjN6QAhzr9ED_19.021233_72.855980@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7fbf63eb39a0f0d05c5424468fa020aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931443,
+            "region_id":85672171,
+            "venue_id":169572569
+        }
+    ],
+    "wof:id":169572569,
+    "wof:lastmodified":1449034709,
+    "wof:name":"Imeco Ultrasonics",
+    "wof:parent_id":85931443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.85598,19.021233,72.85598,19.021233],
+  "geometry": {"coordinates":[72.85598,19.021233],"type":"Point"}
+}

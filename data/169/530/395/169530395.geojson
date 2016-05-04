@@ -1,0 +1,58 @@
+{
+  "id": 169530395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.828979,18.936241,72.828979,18.936241",
+    "geom:latitude":18.936241,
+    "geom:longitude":72.828979,
+    "iso:country":"IN",
+    "sg:address":"301 - B, Jolly Bhavan 2, Churchgate,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2270 3839",
+    "sg:postcode":"400025",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903879,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RGk0u0OjHKAJWYUD4zH61_18.936241_72.828979@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"05f4cc111a616989e72f9407a69f914b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903879,
+            "region_id":85672171,
+            "venue_id":169530395
+        }
+    ],
+    "wof:id":169530395,
+    "wof:lastmodified":1449034445,
+    "wof:name":"Sysnet",
+    "wof:parent_id":85903879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.828979,18.936241,72.828979,18.936241],
+  "geometry": {"coordinates":[72.828979,18.936241],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169528639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.82653,18.983915,72.82653,18.983915",
+    "geom:latitude":18.983915,
+    "geom:longitude":72.82653,
+    "iso:country":"IN",
+    "sg:address":"E Moses Road, Worli, Mumbai",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6662 7000",
+    "sg:postcode":"400018",
+    "sg:tags":[
+        "bulk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903827,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02LvZzOXJ63CoY3m7HRwzO_18.983915_72.826530@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5bd01c608af2ca8f9f1953c503f2ca27",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903827,
+            "region_id":85672171,
+            "venue_id":169528639
+        }
+    ],
+    "wof:id":169528639,
+    "wof:lastmodified":1449033571,
+    "wof:name":"Kopran Limited",
+    "wof:parent_id":85903827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk"
+    ]
+},
+  "bbox": [72.82653,18.983915,72.82653,18.983915],
+  "geometry": {"coordinates":[72.82653,18.983915],"type":"Point"}
+}

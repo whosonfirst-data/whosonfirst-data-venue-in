@@ -1,0 +1,66 @@
+{
+  "id": 169624157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.248474,24.116493,88.248474,24.116493",
+    "geom:latitude":24.116493,
+    "geom:longitude":88.248474,
+    "iso:country":"IN",
+    "sg:address":"1st Floor, Jagdamba House,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2686 1297",
+    "sg:postcode":"400063",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "sg:website":"http://www.sigmakalon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kOyxpqLDhM2qKp3I7vuC2_24.116493_88.248474@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"33cd5ab99ea663e7140042b069f09390",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672219,
+            "venue_id":169624157
+        }
+    ],
+    "wof:id":169624157,
+    "wof:lastmodified":1449034959,
+    "wof:name":"Sigma Marine And Protective Coatings (india) Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [88.248474,24.116493,88.248474,24.116493],
+  "geometry": {"coordinates":[88.248474,24.116493],"type":"Point"}
+}

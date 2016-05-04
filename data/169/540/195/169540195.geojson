@@ -1,0 +1,64 @@
+{
+  "id": 169540195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.553345,12.990632,77.553345,12.990632",
+    "geom:latitude":12.990632,
+    "geom:longitude":77.553345,
+    "iso:country":"IN",
+    "sg:address":"#177/26, Ist Floor, 4th Main Indl. Town, Rajaji Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 6538 3396",
+    "sg:tags":[
+        "sheet",
+        "component"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06b1JhVzQ3kpVtp6y3qZGF_12.990632_77.553345@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"541115e0352e1471342534e13fd7439d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169540195
+        }
+    ],
+    "wof:id":169540195,
+    "wof:lastmodified":1449033977,
+    "wof:name":"K. S. Enterprises",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheet",
+        "component"
+    ]
+},
+  "bbox": [77.553345,12.990632,77.553345,12.990632],
+  "geometry": {"coordinates":[77.553345,12.990632],"type":"Point"}
+}

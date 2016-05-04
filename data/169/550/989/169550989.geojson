@@ -1,0 +1,63 @@
+{
+  "id": 169550989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.180687,22.23374,73.180687,22.23374",
+    "geom:latitude":22.23374,
+    "geom:longitude":73.180687,
+    "iso:country":"IN",
+    "sg:address":"P.o. Maneja,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 264 2651",
+    "sg:postcode":"390013",
+    "sg:tags":[
+        "bearing"
+    ],
+    "sg:website":"http://www.fag.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kuKBoEEGBIufp5ObJCrkB_22.233740_73.180687@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0bedc0ec813b0bbd64865cb24c4223b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169550989
+        }
+    ],
+    "wof:id":169550989,
+    "wof:lastmodified":1449034479,
+    "wof:name":"Fag Bearings India Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bearing"
+    ]
+},
+  "bbox": [73.180687,22.23374,73.180687,22.23374],
+  "geometry": {"coordinates":[73.180687,22.23374],"type":"Point"}
+}

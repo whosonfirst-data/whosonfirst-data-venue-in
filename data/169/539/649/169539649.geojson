@@ -1,0 +1,64 @@
+{
+  "id": 169539649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.591255,12.924932,77.591255,12.924932",
+    "geom:latitude":12.924932,
+    "geom:longitude":77.591255,
+    "iso:country":"IN",
+    "sg:address":"#278, 21st Main, Btm Layout, 1st Phase, 2nd Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4112 7399",
+    "sg:postcode":"560027",
+    "sg:tags":[
+        "scaffolding"
+    ],
+    "sg:website":"http://www.pattufabrics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930991,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u2kxlc2WfyqB1rI7UnQU3_12.924932_77.591255@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2fedeb41108b4659c3493213a1381723",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930991,
+            "region_id":85672165,
+            "venue_id":169539649
+        }
+    ],
+    "wof:id":169539649,
+    "wof:lastmodified":1449036039,
+    "wof:name":"Pattu Fabrics Pvt. Ltd.",
+    "wof:parent_id":85930991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scaffolding"
+    ]
+},
+  "bbox": [77.591255,12.924932,77.591255,12.924932],
+  "geometry": {"coordinates":[77.591255,12.924932],"type":"Point"}
+}

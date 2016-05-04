@@ -1,0 +1,62 @@
+{
+  "id": 169619187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.278908,28.669939,77.278908,28.669939",
+    "geom:latitude":28.669939,
+    "geom:longitude":77.278908,
+    "iso:country":"IN",
+    "sg:address":"554, Main G.t. Road, Shahdara,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2257 0427",
+    "sg:postcode":"110032",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29F9daXs0Skbs9NR9owVHV_28.669939_77.278908@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"44f009789072c5a17842e0760dc3100d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169619187
+        }
+    ],
+    "wof:id":169619187,
+    "wof:lastmodified":1449033281,
+    "wof:name":"Shanker Foundry Stores (p) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [77.278908,28.669939,77.278908,28.669939],
+  "geometry": {"coordinates":[77.278908,28.669939],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169590487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.247337,28.549141,77.247337,28.549141",
+    "geom:latitude":28.549141,
+    "geom:longitude":77.247337,
+    "iso:country":"IN",
+    "sg:address":"1201, Hemkunt Tower 98, Nehru Place,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 6650 4804",
+    "sg:postcode":"110019",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928369,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tUOdMoBKBgov2k1rryolf_28.549141_77.247337@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2689f3e5bbb79ecd26f0587d2f2af701",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928369,
+            "region_id":85672123,
+            "venue_id":169590487
+        }
+    ],
+    "wof:id":169590487,
+    "wof:lastmodified":1449034655,
+    "wof:name":"Modi Revlon Pvt. Ltd.",
+    "wof:parent_id":85928369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.247337,28.549141,77.247337,28.549141],
+  "geometry": {"coordinates":[77.247337,28.549141],"type":"Point"}
+}

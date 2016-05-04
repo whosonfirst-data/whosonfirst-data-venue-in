@@ -1,0 +1,63 @@
+{
+  "id": 169600895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.250031,13.080589,80.250031,13.080589",
+    "geom:latitude":13.080589,
+    "geom:longitude":80.250031,
+    "iso:country":"IN",
+    "sg:address":"No: 33, Flowers Road, Kilpauk,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"600010",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.pinnacleinternational.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903949,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SaoPm3q3wmOMD9aOxwrXp_13.080589_80.250031@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2283de50936c71174ad58bcaedfd4b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903949,
+            "region_id":85672245,
+            "venue_id":169600895
+        }
+    ],
+    "wof:id":169600895,
+    "wof:lastmodified":1449032971,
+    "wof:name":"Pinnacle International",
+    "wof:parent_id":85903949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.250031,13.080589,80.250031,13.080589],
+  "geometry": {"coordinates":[80.250031,13.080589],"type":"Point"}
+}

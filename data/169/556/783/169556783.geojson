@@ -1,0 +1,53 @@
+{
+  "id": 169556783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.260925,13.058558,80.260925,13.058558",
+    "geom:latitude":13.058558,
+    "geom:longitude":80.260925,
+    "iso:country":"IN",
+    "sg:address":"Smith Road",
+    "sg:city":"Chennai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2852 2462",
+    "sg:postcode":"600002",
+    "sg:province":"Tamil Nadu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903975,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hlZGXkTiXZx6VEegbqjO5_13.058558_80.260925@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a614fa9694e80e97a44c528e83275123",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903975,
+            "region_id":85672245,
+            "venue_id":169556783
+        }
+    ],
+    "wof:id":169556783,
+    "wof:lastmodified":1449033507,
+    "wof:name":"Jai Motors Ltd",
+    "wof:parent_id":85903975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.260925,13.058558,80.260925,13.058558],
+  "geometry": {"coordinates":[80.260925,13.058558],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169592375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.353828,22.54845,88.353828,22.54845",
+    "geom:latitude":22.54845,
+    "geom:longitude":88.353828,
+    "iso:country":"IN",
+    "sg:address":"Camac Tower, 3c Camac Street,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2229 4125",
+    "sg:tags":[
+        "resin"
+    ],
+    "sg:website":"http://www.joshgroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931951,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63dWHIYAk1uJDPy5kILAGp_22.548450_88.353828@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b8978206fd30d3f84bee5ef17a728744",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931951,
+            "region_id":85672219,
+            "venue_id":169592375
+        }
+    ],
+    "wof:id":169592375,
+    "wof:lastmodified":1449034581,
+    "wof:name":"National Moulding Compnay Ltd.",
+    "wof:parent_id":85931951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [88.353828,22.54845,88.353828,22.54845],
+  "geometry": {"coordinates":[88.353828,22.54845],"type":"Point"}
+}

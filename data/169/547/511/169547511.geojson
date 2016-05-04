@@ -1,0 +1,63 @@
+{
+  "id": 169547511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"85.89698,20.466084,85.89698,20.466084",
+    "geom:latitude":20.466084,
+    "geom:longitude":85.89698,
+    "iso:country":"IN",
+    "sg:address":"No. 504, Municipal Colony, College Road,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 220 4797",
+    "sg:postcode":"641602",
+    "sg:tags":[
+        "shirt"
+    ],
+    "sg:website":"http://www.crpimpex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030477,
+        85672157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SZDM7y9m8S91JrbuXHDyx_20.466084_85.896980@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"88ff621b67d10b2c6759d4544d651267",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030477,
+            "neighbourhood_id":-1,
+            "region_id":85672157,
+            "venue_id":169547511
+        }
+    ],
+    "wof:id":169547511,
+    "wof:lastmodified":1449033008,
+    "wof:name":"C.r.p. Impex",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shirt"
+    ]
+},
+  "bbox": [85.89698,20.466084,85.89698,20.466084],
+  "geometry": {"coordinates":[85.89698,20.466084],"type":"Point"}
+}

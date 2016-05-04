@@ -1,0 +1,63 @@
+{
+  "id": 169577327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.353294,22.59029,88.353294,22.59029",
+    "geom:latitude":22.59029,
+    "geom:longitude":88.353294,
+    "iso:country":"IN",
+    "sg:address":"135, Maharshi Debendra Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2234 2954",
+    "sg:postcode":"700005",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931965,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02oJ4Mcc6uwGay7xR1xMU5_22.590290_88.353294@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"96c7d5ff12bb3e976fe8f3e8f73a2ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931965,
+            "region_id":85672219,
+            "venue_id":169577327
+        }
+    ],
+    "wof:id":169577327,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Ghanshyam Agencies",
+    "wof:parent_id":85931965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.353294,22.59029,88.353294,22.59029],
+  "geometry": {"coordinates":[88.353294,22.59029],"type":"Point"}
+}

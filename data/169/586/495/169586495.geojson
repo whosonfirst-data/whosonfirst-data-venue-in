@@ -1,0 +1,62 @@
+{
+  "id": 169586495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.643204,23.253496,72.643204,23.253496",
+    "geom:latitude":23.253496,
+    "geom:longitude":72.643204,
+    "iso:country":"IN",
+    "sg:address":"E-111+112, G.i.d.c, Sector-26, Gandhinagar,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 2324 7974",
+    "sg:postcode":"382026",
+    "sg:tags":[
+        "polymer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030253,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wmzwOaMo11UAShet7HgWA_23.253496_72.643204@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bd2e1d679f627f5462d21cbe38a34750",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030253,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169586495
+        }
+    ],
+    "wof:id":169586495,
+    "wof:lastmodified":1449035576,
+    "wof:name":"Mahendra Overseas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [72.643204,23.253496,72.643204,23.253496],
+  "geometry": {"coordinates":[72.643204,23.253496],"type":"Point"}
+}

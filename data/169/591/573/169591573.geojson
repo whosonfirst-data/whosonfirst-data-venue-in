@@ -1,0 +1,64 @@
+{
+  "id": 169591573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.99926,19.069155,72.99926,19.069155",
+    "geom:latitude":19.069155,
+    "geom:longitude":72.99926,
+    "iso:country":"IN",
+    "sg:address":"601-devavrata, Sector-17, Vashi,",
+    "sg:city":"Navi Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2789 5695",
+    "sg:postcode":"400703",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.nschemicals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931637,
+        85632469,
+        102031087,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yzTVClCCnzOZ9doFCTp1V_19.069155_72.999260@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"32a286ede105da65444774ae59ea036b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031087,
+            "neighbourhood_id":85931637,
+            "region_id":85672171,
+            "venue_id":169591573
+        }
+    ],
+    "wof:id":169591573,
+    "wof:lastmodified":1449034450,
+    "wof:name":"N. S. Chemicals",
+    "wof:parent_id":85931637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [72.99926,19.069155,72.99926,19.069155],
+  "geometry": {"coordinates":[72.99926,19.069155],"type":"Point"}
+}

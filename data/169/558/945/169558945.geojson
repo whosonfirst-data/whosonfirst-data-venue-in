@@ -1,0 +1,66 @@
+{
+  "id": 169558945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.266777,13.083131,80.266777,13.083131",
+    "geom:latitude":13.083131,
+    "geom:longitude":80.266777,
+    "iso:country":"IN",
+    "sg:address":"No.5, Naval Hospital Road,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2561 2049",
+    "sg:postcode":"600003",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "sg:website":"http://www.dendriteadhesive.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903859,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XAzTDbhNAGjWsI044Mk60_13.083131_80.266777@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4a8b098fc2442c883586ba09c1d3a09c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903859,
+            "region_id":85672245,
+            "venue_id":169558945
+        }
+    ],
+    "wof:id":169558945,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Chandra's Chemical Enterprises Ltd.",
+    "wof:parent_id":85903859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [80.266777,13.083131,80.266777,13.083131],
+  "geometry": {"coordinates":[80.266777,13.083131],"type":"Point"}
+}

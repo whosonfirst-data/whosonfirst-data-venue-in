@@ -1,0 +1,62 @@
+{
+  "id": 169585991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.247841,13.154818,80.247841,13.154818",
+    "geom:latitude":13.154818,
+    "geom:longitude":80.247841,
+    "iso:country":"IN",
+    "sg:address":"88 Devi Nagar, N.s Road,",
+    "sg:city":"Jaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 141 229 0187",
+    "sg:postcode":"302019",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_505hAwUeWDFLrJTKA9FH8U_13.154818_80.247841@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d25fa10ab36158eda30f5825ce4b58a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169585991
+        }
+    ],
+    "wof:id":169585991,
+    "wof:lastmodified":1449034883,
+    "wof:name":"Magna Corp.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.247841,13.154818,80.247841,13.154818],
+  "geometry": {"coordinates":[80.247841,13.154818],"type":"Point"}
+}

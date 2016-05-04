@@ -1,0 +1,63 @@
+{
+  "id": 169533803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.943199,19.155806,72.943199,19.155806",
+    "geom:latitude":19.155806,
+    "geom:longitude":72.943199,
+    "iso:country":"IN",
+    "sg:address":"35, Vishal Industrial Estate, 1st Floor, Bandup,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2561 7032",
+    "sg:tags":[
+        "mould",
+        "dy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dYIt3CaOrhYjZklYQBRgo_19.155806_72.943199@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"be517dac88b84adb63e5eaac0f434989",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169533803
+        }
+    ],
+    "wof:id":169533803,
+    "wof:lastmodified":1449032645,
+    "wof:name":"Perfect Tool Engineering Co.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mould",
+        "dy"
+    ]
+},
+  "bbox": [72.943199,19.155806,72.943199,19.155806],
+  "geometry": {"coordinates":[72.943199,19.155806],"type":"Point"}
+}

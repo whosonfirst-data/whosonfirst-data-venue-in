@@ -1,0 +1,64 @@
+{
+  "id": 169599613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"70.752899,22.27956,70.752899,22.27956",
+    "geom:latitude":22.27956,
+    "geom:longitude":70.752899,
+    "iso:country":"IN",
+    "sg:address":"Plot No. G-1340, Metoda G.i.d.c., Kalawad Road,",
+    "sg:city":"Rajkot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 281 654 7084",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "sg:website":"http://www.nicecoatindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028901,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NY18iH65k2SsFISEHVp4w_22.279560_70.752899@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a4377df2b12e788e439ed331dbdd96cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028901,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169599613
+        }
+    ],
+    "wof:id":169599613,
+    "wof:lastmodified":1449034207,
+    "wof:name":"Parth Thermotech Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [70.752899,22.27956,70.752899,22.27956],
+  "geometry": {"coordinates":[70.752899,22.27956],"type":"Point"}
+}

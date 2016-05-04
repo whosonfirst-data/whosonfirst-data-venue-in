@@ -1,0 +1,63 @@
+{
+  "id": 169549213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.130455,15.340671,75.130455,15.340671",
+    "geom:latitude":15.340671,
+    "geom:longitude":75.130455,
+    "iso:country":"IN",
+    "sg:address":"52, Arvind Nagar,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 249 0187",
+    "sg:postcode":"313003",
+    "sg:tags":[
+        "handicraft"
+    ],
+    "sg:website":"magicvisionindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030067,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hscTlIoGW4NXh8nkyaMF9_15.340671_75.130455@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1fa5807cdb59d7d5ff03b25518dd8e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030067,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169549213
+        }
+    ],
+    "wof:id":169549213,
+    "wof:lastmodified":1449033590,
+    "wof:name":"Magic Vision India",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handicraft"
+    ]
+},
+  "bbox": [75.130455,15.340671,75.130455,15.340671],
+  "geometry": {"coordinates":[75.130455,15.340671],"type":"Point"}
+}

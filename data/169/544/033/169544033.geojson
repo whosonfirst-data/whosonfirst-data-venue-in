@@ -1,0 +1,66 @@
+{
+  "id": 169544033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.562119,12.957775,77.562119,12.957775",
+    "geom:latitude":12.957775,
+    "geom:longitude":77.562119,
+    "iso:country":"IN",
+    "sg:address":"192, 4th Main Road, Chamarajpet,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2242 1590",
+    "sg:postcode":"560018",
+    "sg:tags":[
+        "underwear",
+        "nightwear"
+    ],
+    "sg:website":"http://www.atcgroupindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930907,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j5HLNuFYw6iNElBUm6rnN_12.957775_77.562119@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"08b7c945c9709c39c4aeadcbb04b47d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930907,
+            "region_id":85672165,
+            "venue_id":169544033
+        }
+    ],
+    "wof:id":169544033,
+    "wof:lastmodified":1449035962,
+    "wof:name":"Atc Hosiery Pvt. Ltd.",
+    "wof:parent_id":85930907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underwear",
+        "nightwear"
+    ]
+},
+  "bbox": [77.562119,12.957775,77.562119,12.957775],
+  "geometry": {"coordinates":[77.562119,12.957775],"type":"Point"}
+}

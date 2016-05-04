@@ -1,0 +1,65 @@
+{
+  "id": 169548607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.090973,8.804863,78.090973,8.804863",
+    "geom:latitude":8.804863,
+    "geom:longitude":78.090973,
+    "iso:country":"IN",
+    "sg:address":"C-78, Sipcot Industrial Complex,",
+    "sg:city":"Tuticorin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Emissions Testing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 461 329 0293",
+    "sg:postcode":"628008",
+    "sg:tags":[
+        "pp",
+        "hdpe",
+        "sack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22cdToOxKkFfPzAQNf7jU4_8.804863_78.090973@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f81563722a0719289ae9171699dbdb7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169548607
+        }
+    ],
+    "wof:id":169548607,
+    "wof:lastmodified":1449034972,
+    "wof:name":"Thim Polybags",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pp",
+        "hdpe",
+        "sack"
+    ]
+},
+  "bbox": [78.090973,8.804863,78.090973,8.804863],
+  "geometry": {"coordinates":[78.090973,8.804863],"type":"Point"}
+}

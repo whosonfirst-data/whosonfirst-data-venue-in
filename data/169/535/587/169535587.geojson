@@ -1,0 +1,65 @@
+{
+  "id": 169535587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.010216,19.073385,73.010216,19.073385",
+    "geom:latitude":19.073385,
+    "geom:longitude":73.010216,
+    "iso:country":"IN",
+    "sg:address":"Pl-444, Sector-22, Turbhe,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2783 4665",
+    "sg:postcode":"400705",
+    "sg:tags":[
+        "equipment",
+        "good"
+    ],
+    "sg:website":"http://www.chain-n-sprockets.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931599,
+        85632469,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PU0MPUvbHWSUEXlU4CRLx_19.073385_73.010216@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"04d468484c031eb4c2c30fba48ccb4d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85931599,
+            "region_id":85672171,
+            "venue_id":169535587
+        }
+    ],
+    "wof:id":169535587,
+    "wof:lastmodified":1449033285,
+    "wof:name":"Jitendra Engneering",
+    "wof:parent_id":85931599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "good"
+    ]
+},
+  "bbox": [73.010216,19.073385,73.010216,19.073385],
+  "geometry": {"coordinates":[73.010216,19.073385],"type":"Point"}
+}

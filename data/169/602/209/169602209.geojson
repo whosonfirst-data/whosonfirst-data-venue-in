@@ -1,0 +1,62 @@
+{
+  "id": 169602209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.023567,19.070747,73.023567,19.070747",
+    "geom:latitude":19.070747,
+    "geom:longitude":73.023567,
+    "iso:country":"IN",
+    "sg:address":"W-102d, Midc, Khairne,",
+    "sg:city":"Thane",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5590 1770",
+    "sg:postcode":"400705",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931599,
+        85632469,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60q6VBt3frHPpTwOfqfPdM_19.070747_73.023567@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bfbc4be2c083c025e2af8c882018eeb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85931599,
+            "region_id":85672171,
+            "venue_id":169602209
+        }
+    ],
+    "wof:id":169602209,
+    "wof:lastmodified":1449034230,
+    "wof:name":"Polyrub Extrusions (india)",
+    "wof:parent_id":85931599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [73.023567,19.070747,73.023567,19.070747],
+  "geometry": {"coordinates":[73.023567,19.070747],"type":"Point"}
+}

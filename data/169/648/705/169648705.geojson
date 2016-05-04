@@ -1,0 +1,67 @@
+{
+  "id": 169648705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.578768,13.033353,77.578768,13.033353",
+    "geom:latitude":13.033353,
+    "geom:longitude":77.578768,
+    "iso:country":"IN",
+    "sg:address":"#539,16th cross Indiranagar 2nd stage",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560038",
+    "sg:tags":[
+        "sales-facilitation",
+        "buyer-seller-interaction",
+        "sales-mediation"
+    ],
+    "sg:website":"http://www.buyerraja.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930999,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tKWpuhsbRN7LOn72Kevdd_13.033353_77.578768@1308163237"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2b820b892825537056263ea8396feb2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930999,
+            "region_id":85672165,
+            "venue_id":169648705
+        }
+    ],
+    "wof:id":169648705,
+    "wof:lastmodified":1449033587,
+    "wof:name":"BuyerRaja",
+    "wof:parent_id":85930999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sales-facilitation",
+        "buyer-seller-interaction",
+        "sales-mediation"
+    ]
+},
+  "bbox": [77.578768,13.033353,77.578768,13.033353],
+  "geometry": {"coordinates":[77.578768,13.033353],"type":"Point"}
+}

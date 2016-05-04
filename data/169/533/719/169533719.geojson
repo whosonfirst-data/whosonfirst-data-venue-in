@@ -1,0 +1,66 @@
+{
+  "id": 169533719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.813889,18.973789,72.813889,18.973789",
+    "geom:latitude":18.973789,
+    "geom:longitude":72.813889,
+    "iso:country":"IN",
+    "sg:address":"14/15, Tardeo Air-condition Market, Tardeo Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2352 3559",
+    "sg:postcode":"400034",
+    "sg:tags":[
+        "calendar",
+        "diary"
+    ],
+    "sg:website":"http://www.calendarsfromindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903971,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4656xVKOmxirQt0aKOMyJJ_18.973789_72.813889@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"287a1e56f7cbd154d987139d1e3b0c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903971,
+            "region_id":85672171,
+            "venue_id":169533719
+        }
+    ],
+    "wof:id":169533719,
+    "wof:lastmodified":1449032640,
+    "wof:name":"Arun Art Printers Pvt. Ltd.",
+    "wof:parent_id":85903971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "calendar",
+        "diary"
+    ]
+},
+  "bbox": [72.813889,18.973789,72.813889,18.973789],
+  "geometry": {"coordinates":[72.813889,18.973789],"type":"Point"}
+}

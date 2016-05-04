@@ -1,0 +1,63 @@
+{
+  "id": 169583433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.281082,28.534166,77.281082,28.534166",
+    "geom:latitude":28.534166,
+    "geom:longitude":77.281082,
+    "iso:country":"IN",
+    "sg:address":"F-778 (b), V.k.i. Area, Road No.13,",
+    "sg:city":"Jaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 141 233 2681",
+    "sg:postcode":"302013",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927991,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23VxYpJtUyu3R3dh4gx9MF_28.534166_77.281082@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4c3470d6d66d16967fd3ed48d09cde5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927991,
+            "region_id":85672123,
+            "venue_id":169583433
+        }
+    ],
+    "wof:id":169583433,
+    "wof:lastmodified":1449035264,
+    "wof:name":"Krishna Technocrat Pvt. Ltd.",
+    "wof:parent_id":85927991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.281082,28.534166,77.281082,28.534166],
+  "geometry": {"coordinates":[77.281082,28.534166],"type":"Point"}
+}

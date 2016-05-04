@@ -1,0 +1,62 @@
+{
+  "id": 169545801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"79.088417,12.873267,79.088417,12.873267",
+    "geom:latitude":12.873267,
+    "geom:longitude":79.088417,
+    "iso:country":"IN",
+    "sg:address":"23 Sripuram,",
+    "sg:city":"Tirunelveli",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 462 233 5503",
+    "sg:postcode":"627001",
+    "sg:tags":[
+        "dried"
+    ],
+    "sg:website":"http://www.indiamart.com/tristarr/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I8kORII3bpkCnF1QHnmmE_12.873267_79.088417@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bf56f04b5483cf2c5bc2b1cbbd50d3ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169545801
+        }
+    ],
+    "wof:id":169545801,
+    "wof:lastmodified":1449033487,
+    "wof:name":"Tristarr Hortitech",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dried"
+    ]
+},
+  "bbox": [79.088417,12.873267,79.088417,12.873267],
+  "geometry": {"coordinates":[79.088417,12.873267],"type":"Point"}
+}

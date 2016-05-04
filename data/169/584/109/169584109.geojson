@@ -1,0 +1,63 @@
+{
+  "id": 169584109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.636223,13.014348,77.636223,13.014348",
+    "geom:latitude":13.014348,
+    "geom:longitude":77.636223,
+    "iso:country":"IN",
+    "sg:address":"26, J.l. Nehru Road, Suite No. 26, 2nd Floor,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2217 4732",
+    "sg:postcode":"700087",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931107,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fpY8Z06PMoGU1vhdawtF5_13.014348_77.636223@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7e523bc56230666c6923e5fa781ba78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931107,
+            "region_id":85672165,
+            "venue_id":169584109
+        }
+    ],
+    "wof:id":169584109,
+    "wof:lastmodified":1449033038,
+    "wof:name":"Lanxess Energizing Chemisry",
+    "wof:parent_id":85931107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.636223,13.014348,77.636223,13.014348],
+  "geometry": {"coordinates":[77.636223,13.014348],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169573489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.26088,13.068354,80.26088,13.068354",
+    "geom:latitude":13.068354,
+    "geom:longitude":80.26088,
+    "iso:country":"IN",
+    "sg:address":"Marshalls Road, Egmore",
+    "sg:city":"Chennai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2854 4701",
+    "sg:postcode":"600008",
+    "sg:province":"Tamil Nadu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903849,
+        85632469,
+        102029537,
+        85672245,
+        85903975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bugRJRe8qkVzzdqoxqPxw_13.068354_80.260880@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"76e6fabdb3fc384f6b00c3e76c6e1aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903849,
+            "region_id":85672245,
+            "venue_id":169573489
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903975,
+            "region_id":85672245,
+            "venue_id":169573489
+        }
+    ],
+    "wof:id":169573489,
+    "wof:lastmodified":1449035116,
+    "wof:name":"Texon Industries Pvt Ltd",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.26088,13.068354,80.26088,13.068354],
+  "geometry": {"coordinates":[80.26088,13.068354],"type":"Point"}
+}

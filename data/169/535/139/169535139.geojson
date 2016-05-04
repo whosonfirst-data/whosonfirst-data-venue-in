@@ -1,0 +1,64 @@
+{
+  "id": 169535139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.939568,19.143456,72.939568,19.143456",
+    "geom:latitude":19.143456,
+    "geom:longitude":72.939568,
+    "iso:country":"IN",
+    "sg:address":"Krishna I-002, Vasant Sagar, Kandivali (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 3251 8003",
+    "sg:postcode":"400101",
+    "sg:tags":[
+        "embroiders",
+        "embroidery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NwjsYsZlOaDZAugcXIUG0_19.143456_72.939568@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"36e63bea7abce2a45ac86807e1ba008d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169535139
+        }
+    ],
+    "wof:id":169535139,
+    "wof:lastmodified":1449033284,
+    "wof:name":"D. J. Exports",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "embroiders",
+        "embroidery"
+    ]
+},
+  "bbox": [72.939568,19.143456,72.939568,19.143456],
+  "geometry": {"coordinates":[72.939568,19.143456],"type":"Point"}
+}

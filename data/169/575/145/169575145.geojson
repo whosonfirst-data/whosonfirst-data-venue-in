@@ -1,0 +1,63 @@
+{
+  "id": 169575145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.648445,23.234776,72.648445,23.234776",
+    "geom:latitude":23.234776,
+    "geom:longitude":72.648445,
+    "iso:country":"IN",
+    "sg:address":"P.b. No. 5, C.c.n.b. Road,",
+    "sg:city":"Alappuzha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 477 224 3601",
+    "sg:postcode":"688001",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.aspinwall-coir.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030253,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6B50QBCi8B74zjVeYe6N82_23.234776_72.648445@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7da98f0ea83a7375fd09472bf9572b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030253,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169575145
+        }
+    ],
+    "wof:id":169575145,
+    "wof:lastmodified":1449033640,
+    "wof:name":"Aspinwall & Co. (travancore) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.648445,23.234776,72.648445,23.234776],
+  "geometry": {"coordinates":[72.648445,23.234776],"type":"Point"}
+}

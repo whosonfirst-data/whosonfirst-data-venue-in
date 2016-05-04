@@ -1,0 +1,67 @@
+{
+  "id": 169650169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.248153,13.029274,80.248153,13.029274",
+    "geom:latitude":13.029274,
+    "geom:longitude":80.248153,
+    "iso:country":"IN",
+    "sg:address":"#4 Chamiers Road Nandanam",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"600 035",
+    "sg:tags":[
+        "jobsite",
+        "online-jobs",
+        "recruitment"
+    ],
+    "sg:website":"http://www.jobsbyref.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931737,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cHEzvMPFZbjUHPEa78aai_13.029274_80.248153@1308163240"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d991389d5cf1cd3cfc74597f8632da0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931737,
+            "region_id":85672245,
+            "venue_id":169650169
+        }
+    ],
+    "wof:id":169650169,
+    "wof:lastmodified":1449034701,
+    "wof:name":"JobsByRef",
+    "wof:parent_id":85931737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jobsite",
+        "online-jobs",
+        "recruitment"
+    ]
+},
+  "bbox": [80.248153,13.029274,80.248153,13.029274],
+  "geometry": {"coordinates":[80.248153,13.029274],"type":"Point"}
+}

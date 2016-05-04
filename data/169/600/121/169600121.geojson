@@ -1,0 +1,63 @@
+{
+  "id": 169600121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.380341,22.618874,88.380341,22.618874",
+    "geom:latitude":22.618874,
+    "geom:longitude":88.380341,
+    "iso:country":"IN",
+    "sg:address":"22a Dumdum Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2546 4266",
+    "sg:postcode":"700002",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85932001,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nkELkQruaqcC13sjWMtA8_22.618874_88.380341@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"47a52296d1ff6bf6b11b12c5a438f7d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85932001,
+            "region_id":85672219,
+            "venue_id":169600121
+        }
+    ],
+    "wof:id":169600121,
+    "wof:lastmodified":1449032970,
+    "wof:name":"Pearl Rubber Ancillaries",
+    "wof:parent_id":85932001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [88.380341,22.618874,88.380341,22.618874],
+  "geometry": {"coordinates":[88.380341,22.618874],"type":"Point"}
+}

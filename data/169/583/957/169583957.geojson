@@ -1,0 +1,63 @@
+{
+  "id": 169583957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.413551,22.593885,88.413551,22.593885",
+    "geom:latitude":22.593885,
+    "geom:longitude":88.413551,
+    "iso:country":"IN",
+    "sg:address":"Ce 129, Salt Lake City, Sector I,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2337 3238",
+    "sg:postcode":"700064",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903943,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eui6fyir8AvIG3hIzzh51_22.593885_88.413551@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f022ad9331eab152a23a7b9f30ab2198",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903943,
+            "region_id":85672219,
+            "venue_id":169583957
+        }
+    ],
+    "wof:id":169583957,
+    "wof:lastmodified":1449035268,
+    "wof:name":"Laketown Consultancy Pvt. Ltd.",
+    "wof:parent_id":85903943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [88.413551,22.593885,88.413551,22.593885],
+  "geometry": {"coordinates":[88.413551,22.593885],"type":"Point"}
+}

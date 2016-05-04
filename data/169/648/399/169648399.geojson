@@ -1,0 +1,62 @@
+{
+  "id": 169648399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"85.913063,20.527792,85.913063,20.527792",
+    "geom:latitude":20.527792,
+    "geom:longitude":85.913063,
+    "iso:country":"IN",
+    "sg:address":"42/2/4, B C Rd.,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2458 1999",
+    "sg:postcode":"700034",
+    "sg:tags":[
+        "acid"
+    ],
+    "sg:website":"http://www.zeninternational.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BsVYUyNck7DR6rBZGlv73_20.527792_85.913063@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"103e3f4aeeb91baf0c37349684ca636e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672157,
+            "venue_id":169648399
+        }
+    ],
+    "wof:id":169648399,
+    "wof:lastmodified":1449033584,
+    "wof:name":"Zen International",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [85.913063,20.527792,85.913063,20.527792],
+  "geometry": {"coordinates":[85.913063,20.527792],"type":"Point"}
+}

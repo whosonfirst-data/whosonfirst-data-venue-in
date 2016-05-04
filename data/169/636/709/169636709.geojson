@@ -1,0 +1,64 @@
+{
+  "id": 169636709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.23233,12.993811,80.23233,12.993811",
+    "geom:latitude":12.993811,
+    "geom:longitude":80.23233,
+    "iso:country":"IN",
+    "sg:address":"12-a, N.s. Road, Ist Floor, Room No.23,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2213 5663",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "sg:website":"http://www.totalagri.com, www.totalagricareconcern.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931725,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y5F3Z5K0TO7F8L9rYCsch_12.993811_80.232330@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"98f4a03ec03baa78a2bdf5d4f6c1503f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931725,
+            "region_id":85672245,
+            "venue_id":169636709
+        }
+    ],
+    "wof:id":169636709,
+    "wof:lastmodified":1449033986,
+    "wof:name":"Total Agri Care Concern Pvt. Ltd.",
+    "wof:parent_id":85931725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [80.23233,12.993811,80.23233,12.993811],
+  "geometry": {"coordinates":[80.23233,12.993811],"type":"Point"}
+}

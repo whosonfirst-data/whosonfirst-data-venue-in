@@ -1,0 +1,65 @@
+{
+  "id": 169546411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.560509,12.904829,77.560509,12.904829",
+    "geom:latitude":12.904829,
+    "geom:longitude":77.560509,
+    "iso:country":"IN",
+    "sg:address":"4/1 Kumarasamy Layout,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 222 3023",
+    "sg:postcode":"641607",
+    "sg:tags":[
+        "garment",
+        "childrenwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930845,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HRgtkvQvYSBHW3UjKffCv_12.904829_77.560509@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ad5fccfb8c06ee67321d2936a7961699",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930845,
+            "region_id":85672165,
+            "venue_id":169546411
+        }
+    ],
+    "wof:id":169546411,
+    "wof:lastmodified":1449032677,
+    "wof:name":"Kanthan Mills",
+    "wof:parent_id":85930845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "childrenwear"
+    ]
+},
+  "bbox": [77.560509,12.904829,77.560509,12.904829],
+  "geometry": {"coordinates":[77.560509,12.904829],"type":"Point"}
+}

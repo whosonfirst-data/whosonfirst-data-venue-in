@@ -1,0 +1,69 @@
+{
+  "id": 169545047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.567329,12.998267,77.567329,12.998267",
+    "geom:latitude":12.998267,
+    "geom:longitude":77.567329,
+    "iso:country":"IN",
+    "sg:address":"#51, 7th Cross, Malleswaram,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80233427578",
+    "sg:postcode":"560003",
+    "sg:tags":[
+        "wooden",
+        "stone",
+        "/",
+        "carving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wC6ub58qi9thGXDVX9PJN_12.998267_77.567329@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"967fac489274bfe7cce8e67fe4a8f209",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169545047
+        }
+    ],
+    "wof:id":169545047,
+    "wof:lastmodified":1449033487,
+    "wof:name":"The Wings",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wooden",
+        "stone",
+        "/",
+        "carving"
+    ]
+},
+  "bbox": [77.567329,12.998267,77.567329,12.998267],
+  "geometry": {"coordinates":[77.567329,12.998267],"type":"Point"}
+}

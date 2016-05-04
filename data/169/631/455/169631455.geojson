@@ -1,0 +1,67 @@
+{
+  "id": 169631455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.548363,13.009717,77.548363,13.009717",
+    "geom:latitude":13.009717,
+    "geom:longitude":77.548363,
+    "iso:country":"IN",
+    "sg:address":"No. A-51, 2nd Main, Peenya 2nd Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2836 0066",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01iGKnk0g2TdWE84SnZqGU_13.009717_77.548363@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2c0e84ba85ce809fa219dca2aadc6c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169631455
+        }
+    ],
+    "wof:id":169631455,
+    "wof:lastmodified":1449033709,
+    "wof:name":"Supercoats Paints Private Limited",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.548363,13.009717,77.548363,13.009717],
+  "geometry": {"coordinates":[77.548363,13.009717],"type":"Point"}
+}

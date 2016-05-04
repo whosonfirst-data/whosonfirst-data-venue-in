@@ -1,0 +1,71 @@
+{
+  "id": 169653427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.087384,28.68183,77.087384,28.68183",
+    "geom:latitude":28.68183,
+    "geom:longitude":77.087384,
+    "iso:country":"IN",
+    "sg:address":"F-2, Udyog Nagar",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110041",
+    "sg:tags":[
+        "web-development-company",
+        "offshore-software-development",
+        "web-promotion",
+        "internet-marketing",
+        "web-design"
+    ],
+    "sg:website":"http://www.vinove.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928203,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oltZUnvTi0jCK2NcC685E_28.681830_77.087384@1308163239"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1eb8649a59ffddb00f15b26791b9ebb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928203,
+            "region_id":85672123,
+            "venue_id":169653427
+        }
+    ],
+    "wof:id":169653427,
+    "wof:lastmodified":1449032917,
+    "wof:name":"Vinove IT Software & Services",
+    "wof:parent_id":85928203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web-development-company",
+        "offshore-software-development",
+        "web-promotion",
+        "internet-marketing",
+        "web-design"
+    ]
+},
+  "bbox": [77.087384,28.68183,77.087384,28.68183],
+  "geometry": {"coordinates":[77.087384,28.68183],"type":"Point"}
+}

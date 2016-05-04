@@ -1,0 +1,64 @@
+{
+  "id": 169575667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.462524,17.402494,78.462524,17.402494",
+    "geom:latitude":17.402494,
+    "geom:longitude":78.462524,
+    "iso:country":"IN",
+    "sg:address":"602 Sapphire, C.g. Road,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 3002 9002",
+    "sg:postcode":"380006",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"www.bajaj-exports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930765,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vKcJKgY7waz1wWCIJuocs_17.402494_78.462524@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b3ad64910a56a230f3b20012e2553549",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930765,
+            "region_id":85672141,
+            "venue_id":169575667
+        }
+    ],
+    "wof:id":169575667,
+    "wof:lastmodified":1449033641,
+    "wof:name":"Bajaj Exports (india)",
+    "wof:parent_id":85930765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.462524,17.402494,78.462524,17.402494],
+  "geometry": {"coordinates":[78.462524,17.402494],"type":"Point"}
+}

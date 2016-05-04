@@ -1,0 +1,58 @@
+{
+  "id": 169542137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.210518,13.111913,80.210518,13.111913",
+    "geom:latitude":13.111913,
+    "geom:longitude":80.210518,
+    "iso:country":"IN",
+    "sg:address":"A-93, Industrial Estate, Rajaji Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2335 1562",
+    "sg:postcode":"560044",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903945,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rf4oCezTRvdXT0gV2sRl3_13.111913_80.210518@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2a99b83c24dd678d5f102bc77b0e9c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903945,
+            "region_id":85672245,
+            "venue_id":169542137
+        }
+    ],
+    "wof:id":169542137,
+    "wof:lastmodified":1449035222,
+    "wof:name":"Chelpark Company Private Limited",
+    "wof:parent_id":85903945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.210518,13.111913,80.210518,13.111913],
+  "geometry": {"coordinates":[80.210518,13.111913],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169535791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833801,19.055853,72.833801,19.055853",
+    "geom:latitude":19.055853,
+    "geom:longitude":72.833801,
+    "iso:country":"IN",
+    "sg:address":"C-33, Hill Road, Bandra (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2645 6561",
+    "sg:postcode":"400050",
+    "sg:tags":[
+        "garment",
+        "ethnic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931581,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vPZBswETpEVMDYUNF9igq_19.055853_72.833801@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"794a0e039df93104e66c2ba6d41347ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931581,
+            "region_id":-1,
+            "venue_id":169535791
+        }
+    ],
+    "wof:id":169535791,
+    "wof:lastmodified":1449033286,
+    "wof:name":"Nand Creation",
+    "wof:parent_id":85931581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "ethnic"
+    ]
+},
+  "bbox": [72.833801,19.055853,72.833801,19.055853],
+  "geometry": {"coordinates":[72.833801,19.055853],"type":"Point"}
+}

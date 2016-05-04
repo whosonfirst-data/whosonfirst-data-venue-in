@@ -1,0 +1,63 @@
+{
+  "id": 169559821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.567505,17.474958,78.567505,17.474958",
+    "geom:latitude":17.474958,
+    "geom:longitude":78.567505,
+    "iso:country":"IN",
+    "sg:address":"Plot No: 2, Kushaiguda,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2713 1491",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.satyamplastics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930661,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XGWV8l5YJuADknkQQTlLR_17.474958_78.567505@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"03593d463b589df0382887e98f47c6ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930661,
+            "region_id":85672141,
+            "venue_id":169559821
+        }
+    ],
+    "wof:id":169559821,
+    "wof:lastmodified":1449035238,
+    "wof:name":"Crystal Polymers & Additives Ltd.",
+    "wof:parent_id":85930661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.567505,17.474958,78.567505,17.474958],
+  "geometry": {"coordinates":[78.567505,17.474958],"type":"Point"}
+}

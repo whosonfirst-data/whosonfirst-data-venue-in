@@ -1,0 +1,61 @@
+{
+  "id": 169633025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.270134,12.999281,80.270134,12.999281",
+    "geom:latitude":12.999281,
+    "geom:longitude":80.270134,
+    "iso:country":"IN",
+    "sg:address":"9, 25th Cross St., Besant Nagar,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2490 0529",
+    "sg:postcode":"600090",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931669,
+        102029537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZNUzwc6n4BHUjJHypmIPK_12.999281_80.270134@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2678d9416f065a5be7d7c3dd034879de",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102029537,
+            "neighbourhood_id":85931669,
+            "region_id":-1,
+            "venue_id":169633025
+        }
+    ],
+    "wof:id":169633025,
+    "wof:lastmodified":1449035938,
+    "wof:name":"Swarnamukhi",
+    "wof:parent_id":85931669,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.270134,12.999281,80.270134,12.999281],
+  "geometry": {"coordinates":[80.270134,12.999281],"type":"Point"}
+}

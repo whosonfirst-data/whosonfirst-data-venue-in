@@ -1,0 +1,63 @@
+{
+  "id": 169588461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.012543,28.430902,77.012543,28.430902",
+    "geom:latitude":28.430902,
+    "geom:longitude":77.012543,
+    "iso:country":"IN",
+    "sg:address":"Plot No.33, Sector-34,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 237 3639",
+    "sg:postcode":"122001",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928457,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E5XpzJHt1HQoaZpTjrwpn_28.430902_77.012543@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"192b5b1c1e6661a8913f1572c7d38274",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928457,
+            "region_id":85672133,
+            "venue_id":169588461
+        }
+    ],
+    "wof:id":169588461,
+    "wof:lastmodified":1449035309,
+    "wof:name":"Meenakshi Polymers (p) Ltd.",
+    "wof:parent_id":85928457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.012543,28.430902,77.012543,28.430902],
+  "geometry": {"coordinates":[77.012543,28.430902],"type":"Point"}
+}

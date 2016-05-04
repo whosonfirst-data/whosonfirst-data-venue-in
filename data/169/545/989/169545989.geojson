@@ -1,0 +1,66 @@
+{
+  "id": 169545989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.782898,26.906893,75.782898,26.906893",
+    "geom:latitude":26.906893,
+    "geom:longitude":75.782898,
+    "iso:country":"IN",
+    "sg:address":"58/1, Lakshmi Nagar,",
+    "sg:city":"Tiruppur",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 220 3234",
+    "sg:postcode":"641602",
+    "sg:tags":[
+        "good",
+        "hosiery"
+    ],
+    "sg:website":"http://www.zeebraravee.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934491,
+        85632469,
+        102030017,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vXw3rYZccJpMSQ7YwbycL_26.906893_75.782898@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f56f6ace502b183ca8fc406d2548d07b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030017,
+            "neighbourhood_id":85934491,
+            "region_id":85672201,
+            "venue_id":169545989
+        }
+    ],
+    "wof:id":169545989,
+    "wof:lastmodified":1449033486,
+    "wof:name":"Zeebra Hosieries",
+    "wof:parent_id":85934491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "good",
+        "hosiery"
+    ]
+},
+  "bbox": [75.782898,26.906893,75.782898,26.906893],
+  "geometry": {"coordinates":[75.782898,26.906893],"type":"Point"}
+}

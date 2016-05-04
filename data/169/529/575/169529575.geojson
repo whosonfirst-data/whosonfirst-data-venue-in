@@ -1,0 +1,64 @@
+{
+  "id": 169529575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.8246,18.944031,72.8246,18.944031",
+    "geom:latitude":18.944031,
+    "geom:longitude":72.8246,
+    "iso:country":"IN",
+    "sg:address":"308a, Niranjan Bldg., Marine Lines West,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2281 4760",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bXRMKKWP4gMm1QRv7zQje_18.944031_72.824600@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"30c65c1de1ab0e6d71281dc45d823d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903889,
+            "region_id":85672171,
+            "venue_id":169529575
+        }
+    ],
+    "wof:id":169529575,
+    "wof:lastmodified":1449034114,
+    "wof:name":"Wecaba Chemicals",
+    "wof:parent_id":85903889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.8246,18.944031,72.8246,18.944031],
+  "geometry": {"coordinates":[72.8246,18.944031],"type":"Point"}
+}

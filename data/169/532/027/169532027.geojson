@@ -1,0 +1,63 @@
+{
+  "id": 169532027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.885597,19.054127,72.885597,19.054127",
+    "geom:latitude":19.054127,
+    "geom:longitude":72.885597,
+    "iso:country":"IN",
+    "sg:address":"514, Bezzola Complex, Sion-trombay Road, Chembur,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5598 7066",
+    "sg:postcode":"400071",
+    "sg:tags":[
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903847,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Qx42SX7g2frQjAQYwb9Wr_19.054127_72.885597@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"be357c121136e68c6f6c1e342e9f7e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903847,
+            "region_id":85672171,
+            "venue_id":169532027
+        }
+    ],
+    "wof:id":169532027,
+    "wof:lastmodified":1449033794,
+    "wof:name":"Alpha-omega Enterprises",
+    "wof:parent_id":85903847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dental"
+    ]
+},
+  "bbox": [72.885597,19.054127,72.885597,19.054127],
+  "geometry": {"coordinates":[72.885597,19.054127],"type":"Point"}
+}

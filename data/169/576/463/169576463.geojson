@@ -1,0 +1,64 @@
+{
+  "id": 169576463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.843246,19.149593,72.843246,19.149593",
+    "geom:latitude":19.149593,
+    "geom:longitude":72.843246,
+    "iso:country":"IN",
+    "sg:address":"184/87, Swami Vivekanand Road, Jogeshwari (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2678 8258",
+    "sg:postcode":"400102",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.excelind.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931511,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02uRio1Oa0kz9MiNHnLCPx_19.149593_72.843246@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"217daa437c0a93c18edfd2d4a041ca3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931511,
+            "region_id":85672171,
+            "venue_id":169576463
+        }
+    ],
+    "wof:id":169576463,
+    "wof:lastmodified":1449035197,
+    "wof:name":"Excel Industries Ltd.",
+    "wof:parent_id":85931511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [72.843246,19.149593,72.843246,19.149593],
+  "geometry": {"coordinates":[72.843246,19.149593],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169544683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.58519,12.910467,77.58519,12.910467",
+    "geom:latitude":12.910467,
+    "geom:longitude":77.58519,
+    "iso:country":"IN",
+    "sg:address":"299-50, 1st Floor, 3rd 'c' Main Road, Sarakki,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 3298 7294",
+    "sg:postcode":"560078",
+    "sg:tags":[
+        "wax"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931057,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PMAeuIIqwmmCLpd5vWnmc_12.910467_77.585190@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d5f53feeb8672708799a2638872e6a58",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931057,
+            "region_id":85672165,
+            "venue_id":169544683
+        }
+    ],
+    "wof:id":169544683,
+    "wof:lastmodified":1449035963,
+    "wof:name":"Wix & Wax India Pvt. Ltd.",
+    "wof:parent_id":85931057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [77.58519,12.910467,77.58519,12.910467],
+  "geometry": {"coordinates":[77.58519,12.910467],"type":"Point"}
+}

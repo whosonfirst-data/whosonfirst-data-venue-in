@@ -1,0 +1,59 @@
+{
+  "id": 169536299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.876801,19.167313,72.876801,19.167313",
+    "geom:latitude":19.167313,
+    "geom:longitude":72.876801,
+    "iso:country":"IN",
+    "sg:address":"Filmcity Road, Malad,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2031 4454",
+    "sg:postcode":"400097",
+    "sg:website":"http://www.rathoregroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931525,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uFoRYkOhPIA8oLexRmRFO_19.167313_72.876801@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"24b6bef42c6d681dd7866459d3b4dba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931525,
+            "region_id":85672171,
+            "venue_id":169536299
+        }
+    ],
+    "wof:id":169536299,
+    "wof:lastmodified":1449034656,
+    "wof:name":"Rathore Exports",
+    "wof:parent_id":85931525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.876801,19.167313,72.876801,19.167313],
+  "geometry": {"coordinates":[72.876801,19.167313],"type":"Point"}
+}

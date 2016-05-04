@@ -1,0 +1,62 @@
+{
+  "id": 169644007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.184982,13.109037,80.184982,13.109037",
+    "geom:latitude":13.109037,
+    "geom:longitude":80.184982,
+    "iso:country":"IN",
+    "sg:address":"No. 705, 28th Street, Korattur,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2635 8794",
+    "sg:postcode":"600080",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00cvaqKbIAvRBBtEdkdHjH_13.109037_80.184982@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c332ce8cac61d63448818cd02e5514d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169644007
+        }
+    ],
+    "wof:id":169644007,
+    "wof:lastmodified":1449034578,
+    "wof:name":"Vikaash Chemicals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.184982,13.109037,80.184982,13.109037],
+  "geometry": {"coordinates":[80.184982,13.109037],"type":"Point"}
+}

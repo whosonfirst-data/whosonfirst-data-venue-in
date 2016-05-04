@@ -1,0 +1,63 @@
+{
+  "id": 169633821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.968315,11.016525,76.968315,11.016525",
+    "geom:latitude":11.016525,
+    "geom:longitude":76.968315,
+    "iso:country":"IN",
+    "sg:address":"188, Dr.nanjappa Road,",
+    "sg:city":"Coimbatore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 422 238 0014",
+    "sg:postcode":"641018",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783699,
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55iXgOHzFi9EI7XyjVjlYn_11.016525_76.968315@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e9568b883e5f7d0742db2bacbddeb4a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":85783699,
+            "region_id":85672245,
+            "venue_id":169633821
+        }
+    ],
+    "wof:id":169633821,
+    "wof:lastmodified":1449035940,
+    "wof:name":"Tamilnad Hardware Stores",
+    "wof:parent_id":85783699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [76.968315,11.016525,76.968315,11.016525],
+  "geometry": {"coordinates":[76.968315,11.016525],"type":"Point"}
+}

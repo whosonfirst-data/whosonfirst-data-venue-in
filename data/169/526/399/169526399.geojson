@@ -1,0 +1,70 @@
+{
+  "id": 169526399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.902267,19.087481,72.902267,19.087481",
+    "geom:latitude":19.087481,
+    "geom:longitude":72.902267,
+    "iso:country":"IN",
+    "sg:address":"5, L.b.s. Marg, Ghatkopar, Sai Raja Rajeshwar Road, Naren Nagar (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2509 4238",
+    "sg:postcode":"400086",
+    "sg:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ],
+    "sg:website":"http://www.bdi-group.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931531,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UHKquOUbWYDfEdb3yDihI_19.087481_72.902267@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1fdc912583530acc539152b234a8b22d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931531,
+            "region_id":85672171,
+            "venue_id":169526399
+        }
+    ],
+    "wof:id":169526399,
+    "wof:lastmodified":1449033699,
+    "wof:name":"B. D. Industries",
+    "wof:parent_id":85931531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ]
+},
+  "bbox": [72.902267,19.087481,72.902267,19.087481],
+  "geometry": {"coordinates":[72.902267,19.087481],"type":"Point"}
+}

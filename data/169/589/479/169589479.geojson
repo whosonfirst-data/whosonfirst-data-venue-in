@@ -1,0 +1,63 @@
+{
+  "id": 169589479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.08091,28.50275,77.08091,28.50275",
+    "geom:latitude":28.50275,
+    "geom:longitude":77.08091,
+    "iso:country":"IN",
+    "sg:address":"583-584, Phase-v, Udyog Vihar,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 234 3993",
+    "sg:postcode":"122016",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928557,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XSpXp8Uaqy5Izdram7pw9_28.502750_77.080910@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a04a202ae0c1fe5564b26da75e1ba9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928557,
+            "region_id":85672133,
+            "venue_id":169589479
+        }
+    ],
+    "wof:id":169589479,
+    "wof:lastmodified":1449034448,
+    "wof:name":"Micro Tools",
+    "wof:parent_id":85928557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.08091,28.50275,77.08091,28.50275],
+  "geometry": {"coordinates":[77.08091,28.50275],"type":"Point"}
+}

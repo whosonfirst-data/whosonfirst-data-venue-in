@@ -1,0 +1,62 @@
+{
+  "id": 169594445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.134674,28.74468,77.134674,28.74468",
+    "geom:latitude":28.74468,
+    "geom:longitude":77.134674,
+    "iso:country":"IN",
+    "sg:address":"C-89, Suraj Park, Bawana Road,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2785 8452",
+    "sg:postcode":"110042",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yPuEtJBHQlQGKKJoQfNtR_28.744680_77.134674@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ed35d619ae4f9c0704506ab74ccfa94e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169594445
+        }
+    ],
+    "wof:id":169594445,
+    "wof:lastmodified":1449033163,
+    "wof:name":"Nikhil Industries (p) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.134674,28.74468,77.134674,28.74468],
+  "geometry": {"coordinates":[77.134674,28.74468],"type":"Point"}
+}

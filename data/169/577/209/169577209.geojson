@@ -1,0 +1,64 @@
+{
+  "id": 169577209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.227501,13.067372,80.227501,13.067372",
+    "geom:latitude":13.067372,
+    "geom:longitude":80.227501,
+    "iso:country":"IN",
+    "sg:address":"96, Nelson Manickam Road,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2374 3435",
+    "sg:postcode":"600029",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.geegeekay.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931747,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06GUZiu7mCrOqEQ30IDeRv_13.067372_80.227501@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"73000aad03b21795e9ebe8d58e7969c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931747,
+            "region_id":85672245,
+            "venue_id":169577209
+        }
+    ],
+    "wof:id":169577209,
+    "wof:lastmodified":1449036068,
+    "wof:name":"Gee Gee Kay Chemical Industry",
+    "wof:parent_id":85931747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.227501,13.067372,80.227501,13.067372],
+  "geometry": {"coordinates":[80.227501,13.067372],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169609007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.282181,28.52483,77.282181,28.52483",
+    "geom:latitude":28.52483,
+    "geom:longitude":77.282181,
+    "iso:country":"IN",
+    "sg:address":"A-3, Okhla Industrial Estate, Phase-i,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4239 5759",
+    "sg:postcode":"110020",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.ranbaxyfinechemicals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928199,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37AHZ5lSI2e59YGTv7Z8YK_28.524830_77.282181@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"724537945bd2f3c78b1b39cb38339804",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928199,
+            "region_id":85672123,
+            "venue_id":169609007
+        }
+    ],
+    "wof:id":169609007,
+    "wof:lastmodified":1449033921,
+    "wof:name":"Ranbaxy Fine Chemicals Limited",
+    "wof:parent_id":85928199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.282181,28.52483,77.282181,28.52483],
+  "geometry": {"coordinates":[77.282181,28.52483],"type":"Point"}
+}

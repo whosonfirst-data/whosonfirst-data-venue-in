@@ -1,0 +1,65 @@
+{
+  "id": 169590741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.621414,12.978995,77.621414,12.978995",
+    "geom:latitude":12.978995,
+    "geom:longitude":77.621414,
+    "iso:country":"IN",
+    "sg:address":"The Millenia Tower B, 4th Floor, Murphy Road, Ulsoor,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4122 8893",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "sg:website":"http://www.momentive.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931137,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jcr6aLA1KNlSlyqClYPuB_12.978995_77.621414@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"65e133bd1fc44ef62f3844cfe1fa5bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931137,
+            "region_id":85672165,
+            "venue_id":169590741
+        }
+    ],
+    "wof:id":169590741,
+    "wof:lastmodified":1449034652,
+    "wof:name":"Momentive Performance Materials",
+    "wof:parent_id":85931137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [77.621414,12.978995,77.621414,12.978995],
+  "geometry": {"coordinates":[77.621414,12.978995],"type":"Point"}
+}

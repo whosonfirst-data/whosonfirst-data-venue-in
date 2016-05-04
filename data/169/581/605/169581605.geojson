@@ -1,0 +1,64 @@
+{
+  "id": 169581605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.21566,28.653236,77.21566,28.653236",
+    "geom:latitude":28.653236,
+    "geom:longitude":77.21566,
+    "iso:country":"IN",
+    "sg:address":"E-186-187, 1st Floor, B.g. Tower, O/s. Delhi Gate,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 2562 2415",
+    "sg:postcode":"380004",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.kalpanachem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928087,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2h6m7NM1uLalAlVfHazjlM_28.653236_77.215660@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a8a662073002143313c55a8c8b56eaa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928087,
+            "region_id":85672123,
+            "venue_id":169581605
+        }
+    ],
+    "wof:id":169581605,
+    "wof:lastmodified":1449033382,
+    "wof:name":"Kalpana Chemicals",
+    "wof:parent_id":85928087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.21566,28.653236,77.21566,28.653236],
+  "geometry": {"coordinates":[77.21566,28.653236],"type":"Point"}
+}

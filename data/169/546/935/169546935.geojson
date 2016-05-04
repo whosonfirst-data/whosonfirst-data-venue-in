@@ -1,0 +1,65 @@
+{
+  "id": 169546935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.530052,12.99134,77.530052,12.99134",
+    "geom:latitude":12.99134,
+    "geom:longitude":77.530052,
+    "iso:country":"IN",
+    "sg:address":"#7, 5th Street North, R.v.e. Layout,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 654 6549",
+    "sg:postcode":"641604",
+    "sg:tags":[
+        "knitted",
+        "knitwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pb03ujNikJTlOBth0BAzd_12.991340_77.530052@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"93630b19cec8cfe64309fe281c2a8539",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169546935
+        }
+    ],
+    "wof:id":169546935,
+    "wof:lastmodified":1449032680,
+    "wof:name":"Psj Exports",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitted",
+        "knitwear"
+    ]
+},
+  "bbox": [77.530052,12.99134,77.530052,12.99134],
+  "geometry": {"coordinates":[77.530052,12.99134],"type":"Point"}
+}

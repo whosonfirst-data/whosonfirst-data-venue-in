@@ -1,0 +1,59 @@
+{
+  "id": 169536197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.827568,18.953436,72.827568,18.953436",
+    "geom:latitude":18.953436,
+    "geom:longitude":72.827568,
+    "iso:country":"IN",
+    "sg:address":"13-75-77, Bhuleshwar Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2241 6253",
+    "sg:postcode":"400002",
+    "sg:website":"http://www.dresswala.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931435,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TXLfRFcZjUfNkxAzoUUGh_18.953436_72.827568@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ccca0d0b5dee0fbfc395477ed973ccf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931435,
+            "region_id":85672171,
+            "venue_id":169536197
+        }
+    ],
+    "wof:id":169536197,
+    "wof:lastmodified":1449034659,
+    "wof:name":"Maganlal Dresswala",
+    "wof:parent_id":85931435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.827568,18.953436,72.827568,18.953436],
+  "geometry": {"coordinates":[72.827568,18.953436],"type":"Point"}
+}

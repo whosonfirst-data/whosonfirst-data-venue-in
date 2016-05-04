@@ -1,0 +1,63 @@
+{
+  "id": 169533509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.248802,28.619921,77.248802,28.619921",
+    "geom:latitude":28.619921,
+    "geom:longitude":77.248802,
+    "iso:country":"IN",
+    "sg:address":"Metro House, 2nd Floor, Mahatma Gandhi Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2208 5092",
+    "sg:postcode":"400020",
+    "sg:tags":[
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927907,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mOK0zjbBPsXd6DdUJX30g_28.619921_77.248802@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e1eb97b6ff1c1003c00980189b87379e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927907,
+            "region_id":85672123,
+            "venue_id":169533509
+        }
+    ],
+    "wof:id":169533509,
+    "wof:lastmodified":1449032640,
+    "wof:name":"Top Diamonds Ltd.",
+    "wof:parent_id":85927907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [77.248802,28.619921,77.248802,28.619921],
+  "geometry": {"coordinates":[77.248802,28.619921],"type":"Point"}
+}

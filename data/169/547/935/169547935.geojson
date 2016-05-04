@@ -1,0 +1,61 @@
+{
+  "id": 169547935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.352158,11.097493,77.352158,11.097493",
+    "geom:latitude":11.097493,
+    "geom:longitude":77.352158,
+    "iso:country":"IN",
+    "sg:address":"209, Dharapuram Road,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"City Walls",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 221 7474",
+    "sg:tags":[
+        "woven"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028425,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SN9k6W1dgUHqduEeaHNHD_11.097493_77.352158@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"05fde82ca6ea438abf6ca9c00a834499",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028425,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169547935
+        }
+    ],
+    "wof:id":169547935,
+    "wof:lastmodified":1449033009,
+    "wof:name":"Anerudh Apparels",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woven"
+    ]
+},
+  "bbox": [77.352158,11.097493,77.352158,11.097493],
+  "geometry": {"coordinates":[77.352158,11.097493],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169634923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"82.990051,25.317606,82.990051,25.317606",
+    "geom:latitude":25.317606,
+    "geom:longitude":82.990051,
+    "iso:country":"IN",
+    "sg:address":"2-108, Gurunagar Colony,",
+    "sg:city":"Chittoor",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 8572 231 110",
+    "sg:postcode":"517001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933049,
+        85632469,
+        102028309,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yk1Ws0NfKuLYvL7W4QLLL_25.317606_82.990051@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"47942d3b9cc06c37446fe868680ed334",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028309,
+            "neighbourhood_id":85933049,
+            "region_id":85672205,
+            "venue_id":169634923
+        }
+    ],
+    "wof:id":169634923,
+    "wof:lastmodified":1449034258,
+    "wof:name":"Teja Groups",
+    "wof:parent_id":85933049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [82.990051,25.317606,82.990051,25.317606],
+  "geometry": {"coordinates":[82.990051,25.317606],"type":"Point"}
+}

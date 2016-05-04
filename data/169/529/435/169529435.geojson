@@ -1,0 +1,64 @@
+{
+  "id": 169529435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.89711,19.111506,72.89711,19.111506",
+    "geom:latitude":19.111506,
+    "geom:longitude":72.89711,
+    "iso:country":"IN",
+    "sg:address":"Building No.- 8, Plot No.- 001/c, Chandivli Chintamani Housing Society, Mhada Colony, Near Sakinaka ",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2847 7724",
+    "sg:postcode":"400072",
+    "sg:tags":[
+        "machinery"
+    ],
+    "sg:website":"http://www.bipinpharmaequipment.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931519,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IMJ1R5RWXcOMDLRGOmGGj_19.111506_72.897110@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"88241a87b0729f12ebbe627bbb21b4ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931519,
+            "region_id":85672171,
+            "venue_id":169529435
+        }
+    ],
+    "wof:id":169529435,
+    "wof:lastmodified":1449034115,
+    "wof:name":"Bipin Pharma Equipment",
+    "wof:parent_id":85931519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machinery"
+    ]
+},
+  "bbox": [72.89711,19.111506,72.89711,19.111506],
+  "geometry": {"coordinates":[72.89711,19.111506],"type":"Point"}
+}

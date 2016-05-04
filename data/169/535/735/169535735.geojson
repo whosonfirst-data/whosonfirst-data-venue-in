@@ -1,0 +1,65 @@
+{
+  "id": 169535735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.818787,19.129412,72.818787,19.129412",
+    "geom:latitude":19.129412,
+    "geom:longitude":72.818787,
+    "iso:country":"IN",
+    "sg:address":"706 Sea Green, 7 Bungalows, Andheri(w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2634 0148",
+    "sg:postcode":"400061",
+    "sg:tags":[
+        "garment",
+        "ethnic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931475,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FumOrtlflZ5QMoL5nhHVV_19.129412_72.818787@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"320437d1b96a053e30fef0825038cdfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931475,
+            "region_id":85672171,
+            "venue_id":169535735
+        }
+    ],
+    "wof:id":169535735,
+    "wof:lastmodified":1449033288,
+    "wof:name":"Vk Exports",
+    "wof:parent_id":85931475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "ethnic"
+    ]
+},
+  "bbox": [72.818787,19.129412,72.818787,19.129412],
+  "geometry": {"coordinates":[72.818787,19.129412],"type":"Point"}
+}

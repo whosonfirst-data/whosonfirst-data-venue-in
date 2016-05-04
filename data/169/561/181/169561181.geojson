@@ -1,0 +1,66 @@
+{
+  "id": 169561181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.88385,19.094351,72.88385,19.094351",
+    "geom:latitude":19.094351,
+    "geom:longitude":72.88385,
+    "iso:country":"IN",
+    "sg:address":"6, Kurla Industrial Estate, Narayan Nagar, Ghtakopar(w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2512 8593",
+    "sg:postcode":"400086",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "sg:website":"http://www.skaywhit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40DN8EJXP7WLJE9g8Q9PZ7_19.094351_72.883850@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c479bd18b203bc56de5f1f63f8bb0eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169561181
+        }
+    ],
+    "wof:id":169561181,
+    "wof:lastmodified":1449035021,
+    "wof:name":"Eskay Dyestuffs & Organic Chemicals Pvt. Ltd.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [72.88385,19.094351,72.88385,19.094351],
+  "geometry": {"coordinates":[72.88385,19.094351],"type":"Point"}
+}

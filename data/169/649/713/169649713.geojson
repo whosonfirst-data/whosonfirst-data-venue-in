@@ -1,0 +1,73 @@
+{
+  "id": 169649713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.654507,12.975855,77.654507,12.975855",
+    "geom:latitude":12.975855,
+    "geom:longitude":77.654507,
+    "iso:country":"IN",
+    "sg:address":"No. 3, First Floor, B. K. Plaza 78, Kaggadasapura Main Road",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560037",
+    "sg:tags":[
+        "product-search",
+        "social-search",
+        "recommendations",
+        "forums",
+        "reviews",
+        "product-research"
+    ],
+    "sg:website":"http://www.wisdomtap.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931035,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Pv65VnMdJ4XvufT47YmLl_12.975855_77.654507@1308163240"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ed62f66761c56abfa345baba3b7a457a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931035,
+            "region_id":85672165,
+            "venue_id":169649713
+        }
+    ],
+    "wof:id":169649713,
+    "wof:lastmodified":1449034943,
+    "wof:name":"WisdomTap",
+    "wof:parent_id":85931035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product-search",
+        "social-search",
+        "recommendations",
+        "forums",
+        "reviews",
+        "product-research"
+    ]
+},
+  "bbox": [77.654507,12.975855,77.654507,12.975855],
+  "geometry": {"coordinates":[77.654507,12.975855],"type":"Point"}
+}

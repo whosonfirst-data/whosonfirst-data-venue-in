@@ -1,0 +1,65 @@
+{
+  "id": 169525957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.872032,19.114668,72.872032,19.114668",
+    "geom:latitude":19.114668,
+    "geom:longitude":72.872032,
+    "iso:country":"IN",
+    "sg:address":"A/303, Emerald Court, Midc, Andheri East,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5600 6681",
+    "sg:postcode":"400059",
+    "sg:tags":[
+        "aluminium",
+        "foil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YlZwJeb0e5D6teujouQZM_19.114668_72.872032@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"40dd96ddbf7e02d6eafc587c0088bdc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169525957
+        }
+    ],
+    "wof:id":169525957,
+    "wof:lastmodified":1449035274,
+    "wof:name":"Sharp Metals",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aluminium",
+        "foil"
+    ]
+},
+  "bbox": [72.872032,19.114668,72.872032,19.114668],
+  "geometry": {"coordinates":[72.872032,19.114668],"type":"Point"}
+}

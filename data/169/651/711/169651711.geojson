@@ -1,0 +1,58 @@
+{
+  "id": 169651711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.631761,12.934672,77.631761,12.934672",
+    "geom:latitude":12.934672,
+    "geom:longitude":77.631761,
+    "iso:country":"IN",
+    "sg:address":"2nd Floor, Prom\u2019s, 3H, 7C Main, 3rd Block Koramangala,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560034",
+    "sg:website":"http://www.aveksa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931041,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vQ6Am5o64s7tVE2uwRDlB_12.934672_77.631761@1308163241"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"810c61f8c35440d93a3f6a39564d2082",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931041,
+            "region_id":85672165,
+            "venue_id":169651711
+        }
+    ],
+    "wof:id":169651711,
+    "wof:lastmodified":1449033346,
+    "wof:name":"Aveksa",
+    "wof:parent_id":85931041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.631761,12.934672,77.631761,12.934672],
+  "geometry": {"coordinates":[77.631761,12.934672],"type":"Point"}
+}

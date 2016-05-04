@@ -1,0 +1,71 @@
+{
+  "id": 169537249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.617104,12.871441,77.617104,12.871441",
+    "geom:latitude":12.871441,
+    "geom:longitude":77.617104,
+    "iso:country":"IN",
+    "sg:address":"263, Begur Road, 1st Cross, 4th Main, Bommanahalli,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 3061 6938",
+    "sg:postcode":"560068",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930979,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4khVKbZWjxeFv9DB6MK5kG_12.871441_77.617104@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5d82fc76024747677a3cc9109c8f0c41",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930979,
+            "region_id":85672165,
+            "venue_id":169537249
+        }
+    ],
+    "wof:id":169537249,
+    "wof:lastmodified":1449033495,
+    "wof:name":"Autocraft",
+    "wof:parent_id":85930979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.617104,12.871441,77.617104,12.871441],
+  "geometry": {"coordinates":[77.617104,12.871441],"type":"Point"}
+}

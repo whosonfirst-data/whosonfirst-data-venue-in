@@ -1,0 +1,64 @@
+{
+  "id": 169600399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.357758,22.566383,88.357758,22.566383",
+    "geom:latitude":22.566383,
+    "geom:longitude":88.357758,
+    "iso:country":"IN",
+    "sg:address":"15, Ganesh Chandra Avenue, 2nd Floor,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2236 2849",
+    "sg:postcode":"700013",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.highspeedcouplings.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931917,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q02xceNsy6G5LcDnNtsNc_22.566383_88.357758@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e2bc3715edd82beba4f4a47e0c91c755",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931917,
+            "region_id":85672219,
+            "venue_id":169600399
+        }
+    ],
+    "wof:id":169600399,
+    "wof:lastmodified":1449032968,
+    "wof:name":"Perfect Industrial Enterprise Engineers Private Limted",
+    "wof:parent_id":85931917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [88.357758,22.566383,88.357758,22.566383],
+  "geometry": {"coordinates":[88.357758,22.566383],"type":"Point"}
+}

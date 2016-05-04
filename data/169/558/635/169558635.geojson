@@ -1,0 +1,63 @@
+{
+  "id": 169558635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.11544,28.617901,77.11544,28.617901",
+    "geom:latitude":28.617901,
+    "geom:longitude":77.11544,
+    "iso:country":"IN",
+    "sg:address":"C-85, Mayapuri Industrial Area, Phase Ii,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2811 5011",
+    "sg:postcode":"110064",
+    "sg:tags":[
+        "acid"
+    ],
+    "sg:website":"http://www.brightelectroplators.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UeYhwrcWemXBPAfsk7Ouz_28.617901_77.115440@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a7b55aa2f1e6f05f69488db20ba34706",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169558635
+        }
+    ],
+    "wof:id":169558635,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Bright Electroplators",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [77.11544,28.617901,77.11544,28.617901],
+  "geometry": {"coordinates":[77.11544,28.617901],"type":"Point"}
+}

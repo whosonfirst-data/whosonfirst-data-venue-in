@@ -1,0 +1,63 @@
+{
+  "id": 169624829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"84.859398,22.243811,84.859398,22.243811",
+    "geom:latitude":22.243811,
+    "geom:longitude":84.859398,
+    "iso:country":"IN",
+    "sg:address":"G-64, Sector-6,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 242 2175",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933795,
+        85632469,
+        102028839,
+        85672157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wXwAJelXg28wYqgMYlRcS_22.243811_84.859398@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"056a9c3d8dd438c3a0e469cfe2714aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028839,
+            "neighbourhood_id":85933795,
+            "region_id":85672157,
+            "venue_id":169624829
+        }
+    ],
+    "wof:id":169624829,
+    "wof:lastmodified":1449034959,
+    "wof:name":"Siva Essential Oils & Chemical",
+    "wof:parent_id":85933795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [84.859398,22.243811,84.859398,22.243811],
+  "geometry": {"coordinates":[84.859398,22.243811],"type":"Point"}
+}

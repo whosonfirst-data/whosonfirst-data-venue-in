@@ -1,0 +1,72 @@
+{
+  "id": 169534391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.857025,19.173002,72.857025,19.173002",
+    "geom:latitude":19.173002,
+    "geom:longitude":72.857025,
+    "iso:country":"IN",
+    "sg:address":"226/c, B.t. Compound, Malad (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2889 4793",
+    "sg:postcode":"400064",
+    "sg:tags":[
+        "lighting",
+        "product",
+        "electrical",
+        "component",
+        "/"
+    ],
+    "sg:website":"http://www.super-industries.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931525,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64CPhn2iTwea1kSEtAsYai_19.173002_72.857025@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"209338c75946e7f9f09efa3408ab18c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931525,
+            "region_id":85672171,
+            "venue_id":169534391
+        }
+    ],
+    "wof:id":169534391,
+    "wof:lastmodified":1449033549,
+    "wof:name":"Super Industries",
+    "wof:parent_id":85931525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "product",
+        "electrical",
+        "component",
+        "/"
+    ]
+},
+  "bbox": [72.857025,19.173002,72.857025,19.173002],
+  "geometry": {"coordinates":[72.857025,19.173002],"type":"Point"}
+}

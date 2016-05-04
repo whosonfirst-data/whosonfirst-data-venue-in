@@ -1,0 +1,62 @@
+{
+  "id": 169635749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.290077,13.092409,80.290077,13.092409",
+    "geom:latitude":13.092409,
+    "geom:longitude":80.290077,
+    "iso:country":"IN",
+    "sg:address":"Mandot House, 44, P.m. Street, Sowcarpet,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2539 1310",
+    "sg:postcode":"600079",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903951,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MjgRqutCkkW2tdKzdVCte_13.092409_80.290077@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5425074d8abb44595088ce79418d7042",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102029537,
+            "neighbourhood_id":85903951,
+            "region_id":85672245,
+            "venue_id":169635749
+        }
+    ],
+    "wof:id":169635749,
+    "wof:lastmodified":1449034099,
+    "wof:name":"The Mandot Group",
+    "wof:parent_id":85903951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [80.290077,13.092409,80.290077,13.092409],
+  "geometry": {"coordinates":[80.290077,13.092409],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169559149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.547615,13.018614,77.547615,13.018614",
+    "geom:latitude":13.018614,
+    "geom:longitude":77.547615,
+    "iso:country":"IN",
+    "sg:address":"239, Mahalakshmipuram Layout P.o.,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2349 1214",
+    "sg:postcode":"560086",
+    "sg:tags":[
+        "plant",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930975,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oYJdYXFIYrz3G3vfW3VwZ_13.018614_77.547615@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d738885b6d3fc5d4394fc03cbb8d9c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930975,
+            "region_id":85672165,
+            "venue_id":169559149
+        }
+    ],
+    "wof:id":169559149,
+    "wof:lastmodified":1449035237,
+    "wof:name":"Chemicon Pvt. Ltd.",
+    "wof:parent_id":85930975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [77.547615,13.018614,77.547615,13.018614],
+  "geometry": {"coordinates":[77.547615,13.018614],"type":"Point"}
+}

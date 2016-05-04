@@ -1,0 +1,66 @@
+{
+  "id": 169528151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833771,18.949526,72.833771,18.949526",
+    "geom:latitude":18.949526,
+    "geom:longitude":72.833771,
+    "iso:country":"IN",
+    "sg:address":"106, Narayan Dhuru Street,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2340 0222",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "builder",
+        "product",
+        "brass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19C4PwkzFnCF2kEPBEGp4q_18.949526_72.833771@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9149ffcc506063729db6086be8730f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169528151
+        }
+    ],
+    "wof:id":169528151,
+    "wof:lastmodified":1449033567,
+    "wof:name":"Ramesh Intl.",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "product",
+        "brass"
+    ]
+},
+  "bbox": [72.833771,18.949526,72.833771,18.949526],
+  "geometry": {"coordinates":[72.833771,18.949526],"type":"Point"}
+}

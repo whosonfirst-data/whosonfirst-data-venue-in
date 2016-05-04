@@ -1,0 +1,58 @@
+{
+  "id": 169542127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.567215,12.996925,77.567215,12.996925",
+    "geom:latitude":12.996925,
+    "geom:longitude":77.567215,
+    "iso:country":"IN",
+    "sg:address":"5th Cross, Malleswaram,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2334 3458",
+    "sg:postcode":"560003",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Asmi6O8Z3NmcetuJcQrft_12.996925_77.567215@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f982c3d64e294682872830b70d41fb51",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169542127
+        }
+    ],
+    "wof:id":169542127,
+    "wof:lastmodified":1449035223,
+    "wof:name":"Atma Stores",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.567215,12.996925,77.567215,12.996925],
+  "geometry": {"coordinates":[77.567215,12.996925],"type":"Point"}
+}

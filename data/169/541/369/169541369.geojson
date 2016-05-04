@@ -1,0 +1,64 @@
+{
+  "id": 169541369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.59388,12.988679,77.59388,12.988679",
+    "geom:latitude":12.988679,
+    "geom:longitude":77.59388,
+    "iso:country":"IN",
+    "sg:address":"Suite No. 508, No. 14, 5th Floor, N.m. Geneva House, Cunningham Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2238 9462",
+    "sg:postcode":"560052",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"http://www.dikshatech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930961,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oQ5H1QKJ3VJe96wsgIT3Y_12.988679_77.593880@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f7e6c4cc0a186554e69b70a4514ae58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930961,
+            "region_id":85672165,
+            "venue_id":169541369
+        }
+    ],
+    "wof:id":169541369,
+    "wof:lastmodified":1449033044,
+    "wof:name":"Diksha Technologies Pvt. Ltd.",
+    "wof:parent_id":85930961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.59388,12.988679,77.59388,12.988679],
+  "geometry": {"coordinates":[77.59388,12.988679],"type":"Point"}
+}

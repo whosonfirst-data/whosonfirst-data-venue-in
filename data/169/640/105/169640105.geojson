@@ -1,0 +1,62 @@
+{
+  "id": 169640105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.058784,28.652134,77.058784,28.652134",
+    "geom:latitude":28.652134,
+    "geom:longitude":77.058784,
+    "iso:country":"IN",
+    "sg:address":"P-17, New Cit Road, 2nd Flr.,",
+    "sg:city":"Howrah",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2236 3918",
+    "sg:postcode":"700073",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ieqdG0ly1Sgsb3ENAtW3t_28.652134_77.058784@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8afaf710121c43b81b4a2355010a9347",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169640105
+        }
+    ],
+    "wof:id":169640105,
+    "wof:lastmodified":1449034102,
+    "wof:name":"United Rubber Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.058784,28.652134,77.058784,28.652134],
+  "geometry": {"coordinates":[77.058784,28.652134],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 169526479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.83593,19.1817,72.83593,19.1817",
+    "geom:latitude":19.1817,
+    "geom:longitude":72.83593,
+    "iso:country":"IN",
+    "sg:address":"605, Jagdamba Complex, Link Road, Malad (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2882 4443",
+    "sg:postcode":"400064",
+    "sg:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ],
+    "sg:website":"http://www.gingplusaqua.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931619,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_076iNmDcxbFsM0L55PQ5g8_19.181700_72.835930@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6fa267bdb81c427035b22751435c364f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931619,
+            "region_id":85672171,
+            "venue_id":169526479
+        }
+    ],
+    "wof:id":169526479,
+    "wof:lastmodified":1449033703,
+    "wof:name":"Ring Plus Aqua Ltd.",
+    "wof:parent_id":85931619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ]
+},
+  "bbox": [72.83593,19.1817,72.83593,19.1817],
+  "geometry": {"coordinates":[72.83593,19.1817],"type":"Point"}
+}

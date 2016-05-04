@@ -1,0 +1,64 @@
+{
+  "id": 169530243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.864822,19.111401,72.864822,19.111401",
+    "geom:latitude":19.111401,
+    "geom:longitude":72.864822,
+    "iso:country":"IN",
+    "sg:address":"3-l, Laxmi Indl. Estate, Link Road, Andheri (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6692 0304",
+    "sg:postcode":"400053",
+    "sg:tags":[
+        "cleaning"
+    ],
+    "sg:website":"http://www.indusengineering.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GNjVLhWJzdnYK02LLsF8v_19.111401_72.864822@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d282e653f4108ac0a94a4dd8585fd5c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169530243
+        }
+    ],
+    "wof:id":169530243,
+    "wof:lastmodified":1449034442,
+    "wof:name":"Indus Engineering Enterprises",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaning"
+    ]
+},
+  "bbox": [72.864822,19.111401,72.864822,19.111401],
+  "geometry": {"coordinates":[72.864822,19.111401],"type":"Point"}
+}

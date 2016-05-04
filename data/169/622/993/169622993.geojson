@@ -1,0 +1,63 @@
+{
+  "id": 169622993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.162178,28.773544,77.162178,28.773544",
+    "geom:latitude":28.773544,
+    "geom:longitude":77.162178,
+    "iso:country":"IN",
+    "sg:address":"Kadipur Industrial Area, Street No. 8, Pataudi Road,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 407 6672",
+    "sg:postcode":"122001",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RnmfhZvJhi9GScHBUvDzI_28.773544_77.162178@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"51c5bdb362bfe085ed53abec2facd05b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169622993
+        }
+    ],
+    "wof:id":169622993,
+    "wof:lastmodified":1449035365,
+    "wof:name":"Shri M. R. Casting Impregnation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [77.162178,28.773544,77.162178,28.773544],
+  "geometry": {"coordinates":[77.162178,28.773544],"type":"Point"}
+}

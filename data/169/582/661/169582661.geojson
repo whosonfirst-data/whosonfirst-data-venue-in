@@ -1,0 +1,61 @@
+{
+  "id": 169582661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.836777,19.107164,72.836777,19.107164",
+    "geom:latitude":19.107164,
+    "geom:longitude":72.836777,
+    "iso:country":"IN",
+    "sg:address":"24, N. S. Road, 1st Floor,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2220 2532",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931479,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08sJ0txGzcOHKLlYOGAwOM_19.107164_72.836777@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c9a83f4f7a9163501173b8f6f69a6241",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931479,
+            "region_id":-1,
+            "venue_id":169582661
+        }
+    ],
+    "wof:id":169582661,
+    "wof:lastmodified":1449034467,
+    "wof:name":"Khaitan Borthers Pvt. Ltd.",
+    "wof:parent_id":85931479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.836777,19.107164,72.836777,19.107164],
+  "geometry": {"coordinates":[72.836777,19.107164],"type":"Point"}
+}

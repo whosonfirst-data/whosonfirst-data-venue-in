@@ -1,0 +1,63 @@
+{
+  "id": 169575319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.837151,18.951572,72.837151,18.951572",
+    "geom:latitude":18.951572,
+    "geom:longitude":72.837151,
+    "iso:country":"IN",
+    "sg:address":"Vadgadi, Masjid Bunder (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2341 2908",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.keswanigroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08bfJ8gOs0e27dRXLEAg2N_18.951572_72.837151@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f425ee7a89e3f7f02d6f3a006972ef85",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169575319
+        }
+    ],
+    "wof:id":169575319,
+    "wof:lastmodified":1449033641,
+    "wof:name":"Auto Steels & Rubber Ind. Pvt. Ltd.",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.837151,18.951572,72.837151,18.951572],
+  "geometry": {"coordinates":[72.837151,18.951572],"type":"Point"}
+}

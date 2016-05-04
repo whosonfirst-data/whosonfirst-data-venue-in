@@ -1,0 +1,64 @@
+{
+  "id": 169541423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.582932,12.92337,77.582932,12.92337",
+    "geom:latitude":12.92337,
+    "geom:longitude":77.582932,
+    "iso:country":"IN",
+    "sg:address":"264/75, 36th Cross, 8th Block, Jayanagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2663 4767",
+    "sg:postcode":"560070",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"http://www.cadem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930887,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40qCMV0RFotKPwuqradNGx_12.923370_77.582932@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9a7f568be46d3f7e049617528b80276f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930887,
+            "region_id":85672165,
+            "venue_id":169541423
+        }
+    ],
+    "wof:id":169541423,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Cadem Technologies Pvt. Ltd.",
+    "wof:parent_id":85930887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.582932,12.92337,77.582932,12.92337],
+  "geometry": {"coordinates":[77.582932,12.92337],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169559981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.176979,28.662821,77.176979,28.662821",
+    "geom:latitude":28.662821,
+    "geom:longitude":77.176979,
+    "iso:country":"IN",
+    "sg:address":"29/29 Street No. 6, Anand Parbat Indl. Area,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 5546 0085",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928115,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0H8QQNkiLuKnYLrd3LYlVc_28.662821_77.176979@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bee6f13774993cbfc06b9a721c3b30d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928115,
+            "region_id":85672123,
+            "venue_id":169559981
+        }
+    ],
+    "wof:id":169559981,
+    "wof:lastmodified":1449035241,
+    "wof:name":"Dang Engineering Works",
+    "wof:parent_id":85928115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.176979,28.662821,77.176979,28.662821],
+  "geometry": {"coordinates":[77.176979,28.662821],"type":"Point"}
+}

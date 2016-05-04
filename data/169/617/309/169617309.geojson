@@ -1,0 +1,63 @@
+{
+  "id": 169617309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.013901,19.113665,73.013901,19.113665",
+    "geom:latitude":19.113665,
+    "geom:longitude":73.013901,
+    "iso:country":"IN",
+    "sg:address":"A-713, T.t.c. Industrial Area, M.i.d.c., Mahape,",
+    "sg:city":"Navi Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2780 1134",
+    "sg:postcode":"400709",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.satyajitchemicals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031115,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cjEy4dN7OYKKkd1NeQF7N_19.113665_73.013901@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bc3f02725e4df9a6c4e9e8c009152b18",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031115,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169617309
+        }
+    ],
+    "wof:id":169617309,
+    "wof:lastmodified":1449032800,
+    "wof:name":"Satyajit Chemicals Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [73.013901,19.113665,73.013901,19.113665],
+  "geometry": {"coordinates":[73.013901,19.113665],"type":"Point"}
+}

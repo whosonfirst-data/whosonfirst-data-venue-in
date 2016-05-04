@@ -1,0 +1,67 @@
+{
+  "id": 169559939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.006554,20.710428,77.006554,20.710428",
+    "geom:latitude":20.710428,
+    "geom:longitude":77.006554,
+    "iso:country":"IN",
+    "sg:address":"G-53, Dawa Bazar,",
+    "sg:city":"Indore",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 731 404 0025",
+    "sg:postcode":"452001",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "sg:website":"http://www.djlabs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031005,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L3zrnDuo8CoX0d87vog5U_20.710428_77.006554@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"36b161aed5da7d0d576316bbe54f6594",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031005,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169559939
+        }
+    ],
+    "wof:id":169559939,
+    "wof:lastmodified":1449035237,
+    "wof:name":"D. J. Laborrtories Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [77.006554,20.710428,77.006554,20.710428],
+  "geometry": {"coordinates":[77.006554,20.710428],"type":"Point"}
+}

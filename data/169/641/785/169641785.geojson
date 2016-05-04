@@ -1,0 +1,63 @@
+{
+  "id": 169641785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.833176,30.681517,76.833176,30.681517",
+    "geom:latitude":30.681517,
+    "geom:longitude":76.833176,
+    "iso:country":"IN",
+    "sg:address":"525, Industrial Area, Phase 2,",
+    "sg:city":"Chandigarh",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 172 265 9932",
+    "sg:postcode":"160002",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.vardhmanchemtech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030563,
+        85672119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OUlD5WZoSIIiotOE8OUzP_30.681517_76.833176@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9a961bf5fe0a595de147db747083472a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030563,
+            "neighbourhood_id":-1,
+            "region_id":85672119,
+            "venue_id":169641785
+        }
+    ],
+    "wof:id":169641785,
+    "wof:lastmodified":1449035171,
+    "wof:name":"Vardhman Chemtech",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [76.833176,30.681517,76.833176,30.681517],
+  "geometry": {"coordinates":[76.833176,30.681517],"type":"Point"}
+}

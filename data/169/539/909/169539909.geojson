@@ -1,0 +1,64 @@
+{
+  "id": 169539909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.641396,12.970181,77.641396,12.970181",
+    "geom:latitude":12.970181,
+    "geom:longitude":77.641396,
+    "iso:country":"IN",
+    "sg:address":"3302, 12th 'a' Main, Hal 2nd Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Light Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2526 1102",
+    "sg:postcode":"560008",
+    "sg:tags":[
+        "sensor"
+    ],
+    "sg:website":"http://www.westechelectronics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CiCNtbw74Q6ER8v1UCzO2_12.970181_77.641396@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bb846dc9dd848efc15341db078e545c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169539909
+        }
+    ],
+    "wof:id":169539909,
+    "wof:lastmodified":1449036039,
+    "wof:name":"Westech Electronics India Pvt. Ltd.",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sensor"
+    ]
+},
+  "bbox": [77.641396,12.970181,77.641396,12.970181],
+  "geometry": {"coordinates":[77.641396,12.970181],"type":"Point"}
+}

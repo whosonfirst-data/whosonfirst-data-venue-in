@@ -1,0 +1,63 @@
+{
+  "id": 169578475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.368683,22.594185,88.368683,22.594185",
+    "geom:latitude":22.594185,
+    "geom:longitude":88.368683,
+    "iso:country":"IN",
+    "sg:address":"2, N.c. Dutta Sarani,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2243 5434",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.hawcoindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903783,
+        85632469,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MVW270j4DzqQYf1Vph5k3_22.594185_88.368683@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"aa853ae5610701b71fb293ce8f61011a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85903783,
+            "region_id":85672219,
+            "venue_id":169578475
+        }
+    ],
+    "wof:id":169578475,
+    "wof:lastmodified":1449033519,
+    "wof:name":"Hardcastle & Waud Manufacturing Co. Ltd.",
+    "wof:parent_id":85903783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.368683,22.594185,88.368683,22.594185],
+  "geometry": {"coordinates":[88.368683,22.594185],"type":"Point"}
+}

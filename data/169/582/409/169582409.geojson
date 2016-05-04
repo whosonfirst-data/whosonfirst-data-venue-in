@@ -1,0 +1,63 @@
+{
+  "id": 169582409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.213631,28.658339,77.213631,28.658339",
+    "geom:latitude":28.658339,
+    "geom:longitude":77.213631,
+    "iso:country":"IN",
+    "sg:address":"521, Lahori Gate, Naya Bazaar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2396 6241",
+    "sg:postcode":"110006",
+    "sg:tags":[
+        "acid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928087,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05BdgCA2Hhay3TYLqxBqcp_28.658339_77.213631@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1daad41e69887dd4c5707f1767f035bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928087,
+            "region_id":85672123,
+            "venue_id":169582409
+        }
+    ],
+    "wof:id":169582409,
+    "wof:lastmodified":1449034464,
+    "wof:name":"Kedar Nath & Co.",
+    "wof:parent_id":85928087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [77.213631,28.658339,77.213631,28.658339],
+  "geometry": {"coordinates":[77.213631,28.658339],"type":"Point"}
+}

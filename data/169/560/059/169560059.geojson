@@ -1,0 +1,65 @@
+{
+  "id": 169560059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.782898,26.906893,75.782898,26.906893",
+    "geom:latitude":26.906893,
+    "geom:longitude":75.782898,
+    "iso:country":"IN",
+    "sg:address":"67-1-8, Ashok Nagar,",
+    "sg:city":"Kakinada",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 884 234 1013",
+    "sg:postcode":"533003",
+    "sg:tags":[
+        "plant",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934491,
+        85632469,
+        102030017,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LNf00T0OxWvc66bLQbeTB_26.906893_75.782898@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f56f6ace502b183ca8fc406d2548d07b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030017,
+            "neighbourhood_id":85934491,
+            "region_id":85672201,
+            "venue_id":169560059
+        }
+    ],
+    "wof:id":169560059,
+    "wof:lastmodified":1449035179,
+    "wof:name":"Decon Engineers",
+    "wof:parent_id":85934491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [75.782898,26.906893,75.782898,26.906893],
+  "geometry": {"coordinates":[75.782898,26.906893],"type":"Point"}
+}

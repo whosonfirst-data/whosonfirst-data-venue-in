@@ -1,0 +1,65 @@
+{
+  "id": 169536713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.553627,12.979583,77.553627,12.979583",
+    "geom:latitude":12.979583,
+    "geom:longitude":77.553627,
+    "iso:country":"IN",
+    "sg:address":"No. 395 6th Block Rajajinagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2335 2156",
+    "sg:postcode":"560010",
+    "sg:tags":[
+        "raw",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ybxqcPKAvxWjsVUmJY0Mn_12.979583_77.553627@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f94a9474f9e554f4e5582558cebd8cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169536713
+        }
+    ],
+    "wof:id":169536713,
+    "wof:lastmodified":1449034659,
+    "wof:name":"Sri Venkateswara Plastic Industries",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "raw",
+        "material"
+    ]
+},
+  "bbox": [77.553627,12.979583,77.553627,12.979583],
+  "geometry": {"coordinates":[77.553627,12.979583],"type":"Point"}
+}

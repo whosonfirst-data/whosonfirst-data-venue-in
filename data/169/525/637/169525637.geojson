@@ -1,0 +1,63 @@
+{
+  "id": 169525637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831917,19.072819,72.831917,19.072819",
+    "geom:latitude":19.072819,
+    "geom:longitude":72.831917,
+    "iso:country":"IN",
+    "sg:address":"D-94, 15th Road, Chembur,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2528 4960",
+    "sg:postcode":"400071",
+    "sg:tags":[
+        "acid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931493,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XENP1ySPGncdvb7XF7u75_19.072819_72.831917@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d09f3f600eba3141916466b79cffc370",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931493,
+            "region_id":85672171,
+            "venue_id":169525637
+        }
+    ],
+    "wof:id":169525637,
+    "wof:lastmodified":1449035272,
+    "wof:name":"Taskar Chemicals Private Limited",
+    "wof:parent_id":85931493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [72.831917,19.072819,72.831917,19.072819],
+  "geometry": {"coordinates":[72.831917,19.072819],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169529417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.899063,19.094736,72.899063,19.094736",
+    "geom:latitude":19.094736,
+    "geom:longitude":72.899063,
+    "iso:country":"IN",
+    "sg:address":"20, S.k.apartments, Ram Mandir Road, Goregaon (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2676 2900",
+    "sg:postcode":"400104",
+    "sg:tags":[
+        "charger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903971,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nWT6xdEdcfaH0NAbzCc4A_19.094736_72.899063@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6314c2e0dbb491c836214521db9635c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903971,
+            "region_id":85672171,
+            "venue_id":169529417
+        }
+    ],
+    "wof:id":169529417,
+    "wof:lastmodified":1449034114,
+    "wof:name":"Uday Electrical Industries",
+    "wof:parent_id":85903971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "charger"
+    ]
+},
+  "bbox": [72.899063,19.094736,72.899063,19.094736],
+  "geometry": {"coordinates":[72.899063,19.094736],"type":"Point"}
+}

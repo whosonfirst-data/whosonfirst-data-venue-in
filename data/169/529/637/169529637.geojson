@@ -1,0 +1,63 @@
+{
+  "id": 169529637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.837563,19.131195,72.837563,19.131195",
+    "geom:latitude":19.131195,
+    "geom:longitude":72.837563,
+    "iso:country":"IN",
+    "sg:address":"104/105/108, Damji Shamji Udyog Bhavan, Veera Desai Road, Andheri (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2673 4914",
+    "sg:postcode":"400053",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931475,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E1OZWyMYrhyAI6aZk2WH9_19.131195_72.837563@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"930c539b5b803e3d646a0812c27dd038",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931475,
+            "region_id":85672171,
+            "venue_id":169529637
+        }
+    ],
+    "wof:id":169529637,
+    "wof:lastmodified":1449034113,
+    "wof:name":"Abc Chemicals Exports Private Limited",
+    "wof:parent_id":85931475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.837563,19.131195,72.837563,19.131195],
+  "geometry": {"coordinates":[72.837563,19.131195],"type":"Point"}
+}

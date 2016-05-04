@@ -1,0 +1,65 @@
+{
+  "id": 169535451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.827728,18.986765,72.827728,18.986765",
+    "geom:latitude":18.986765,
+    "geom:longitude":72.827728,
+    "iso:country":"IN",
+    "sg:address":"A-65, Adarsh Nagar, Worli,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 3094 1503",
+    "sg:postcode":"400030",
+    "sg:tags":[
+        "equipment",
+        "good"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903827,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OLCXMoKvJDrsJNbGftkyY_18.986765_72.827728@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c426fdef67eace371f7e969714721aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903827,
+            "region_id":85672171,
+            "venue_id":169535451
+        }
+    ],
+    "wof:id":169535451,
+    "wof:lastmodified":1449033285,
+    "wof:name":"Ashadeep International",
+    "wof:parent_id":85903827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "good"
+    ]
+},
+  "bbox": [72.827728,18.986765,72.827728,18.986765],
+  "geometry": {"coordinates":[72.827728,18.986765],"type":"Point"}
+}

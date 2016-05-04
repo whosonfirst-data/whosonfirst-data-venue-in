@@ -1,0 +1,64 @@
+{
+  "id": 169626297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.232536,28.658216,77.232536,28.658216",
+    "geom:latitude":28.658216,
+    "geom:longitude":77.232536,
+    "iso:country":"IN",
+    "sg:address":"Plot No:336,338,340, Road No:3, G.i.d.c Estate, Sachin,",
+    "sg:city":"Surat",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 261239771215",
+    "sg:postcode":"394230",
+    "sg:tags":[
+        "reagent"
+    ],
+    "sg:website":"http://www.span.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928099,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jGrpXAXc1Pi0DUVkenl0Q_28.658216_77.232536@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cb64cc1895f37a3836599c90183db6cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928099,
+            "region_id":85672123,
+            "venue_id":169626297
+        }
+    ],
+    "wof:id":169626297,
+    "wof:lastmodified":1449035971,
+    "wof:name":"Span Diagnostics Ltd.",
+    "wof:parent_id":85928099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reagent"
+    ]
+},
+  "bbox": [77.232536,28.658216,77.232536,28.658216],
+  "geometry": {"coordinates":[77.232536,28.658216],"type":"Point"}
+}

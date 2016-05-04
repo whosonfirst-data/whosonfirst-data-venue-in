@@ -1,0 +1,63 @@
+{
+  "id": 169539173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.613739,12.975948,77.613739,12.975948",
+    "geom:latitude":12.975948,
+    "geom:longitude":77.613739,
+    "iso:country":"IN",
+    "sg:address":"No. 7, A.m. Road, J.c. Road Cross,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2670 8802",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930841,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jvLsnQeSJ1S67TgD9KgmC_12.975948_77.613739@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"067d1ef367561356860cc029fdfabbb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930841,
+            "region_id":85672165,
+            "venue_id":169539173
+        }
+    ],
+    "wof:id":169539173,
+    "wof:lastmodified":1449036036,
+    "wof:name":"Vijaydeep Hi-tech Pvt. Ltd.",
+    "wof:parent_id":85930841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.613739,12.975948,77.613739,12.975948],
+  "geometry": {"coordinates":[77.613739,12.975948],"type":"Point"}
+}

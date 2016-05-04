@@ -1,0 +1,66 @@
+{
+  "id": 169528099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833954,18.94875,72.833954,18.94875",
+    "geom:latitude":18.94875,
+    "geom:longitude":72.833954,
+    "iso:country":"IN",
+    "sg:address":"22, Sarang Street, 1st Floor,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2342 1831",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "builder",
+        "product",
+        "brass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E29JgqttuCQ1pp6wW2tzc_18.948750_72.833954@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4ac55738565c871ef58327c2e76431fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169528099
+        }
+    ],
+    "wof:id":169528099,
+    "wof:lastmodified":1449033569,
+    "wof:name":"Winarts Sales Corporation",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "product",
+        "brass"
+    ]
+},
+  "bbox": [72.833954,18.94875,72.833954,18.94875],
+  "geometry": {"coordinates":[72.833954,18.94875],"type":"Point"}
+}

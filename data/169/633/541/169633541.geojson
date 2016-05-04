@@ -1,0 +1,64 @@
+{
+  "id": 169633541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.545532,17.423025,78.545532,17.423025",
+    "geom:latitude":17.423025,
+    "geom:longitude":78.545532,
+    "iso:country":"IN",
+    "sg:address":"# 1-58, Snehapuri Colony, Nacharam P.o.,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2717 4095",
+    "sg:postcode":"500076",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.synergybiotechnologies.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930687,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cSAroMVAr186lq2RRHaCX_17.423025_78.545532@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3942ac67cd209fc3938ce2dbfd7611ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930687,
+            "region_id":85672141,
+            "venue_id":169633541
+        }
+    ],
+    "wof:id":169633541,
+    "wof:lastmodified":1449035937,
+    "wof:name":"Synergy Biotechnologies",
+    "wof:parent_id":85930687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.545532,17.423025,78.545532,17.423025],
+  "geometry": {"coordinates":[78.545532,17.423025],"type":"Point"}
+}

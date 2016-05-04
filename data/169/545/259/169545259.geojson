@@ -1,0 +1,63 @@
+{
+  "id": 169545259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.225937,13.053685,80.225937,13.053685",
+    "geom:latitude":13.053685,
+    "geom:longitude":80.225937,
+    "iso:country":"IN",
+    "sg:address":"No-23, Sidco Industrial Estate, Madurai Road,",
+    "sg:city":"Theni",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 4546 324 131",
+    "sg:postcode":"625531",
+    "sg:tags":[
+        "others"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903935,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xF49ejIOZXwyTPUFGS2fR_13.053685_80.225937@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cf09fd9e3d0b1bcfdaa55da480aecbb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903935,
+            "region_id":85672245,
+            "venue_id":169545259
+        }
+    ],
+    "wof:id":169545259,
+    "wof:lastmodified":1449033483,
+    "wof:name":"Thenmax-india",
+    "wof:parent_id":85903935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "others"
+    ]
+},
+  "bbox": [80.225937,13.053685,80.225937,13.053685],
+  "geometry": {"coordinates":[80.225937,13.053685],"type":"Point"}
+}

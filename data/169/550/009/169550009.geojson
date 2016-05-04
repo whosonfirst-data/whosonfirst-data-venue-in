@@ -1,0 +1,65 @@
+{
+  "id": 169550009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.25856,28.662371,77.25856,28.662371",
+    "geom:latitude":28.662371,
+    "geom:longitude":77.25856,
+    "iso:country":"IN",
+    "sg:address":"Block A-997/1993, Kailash Colony,",
+    "sg:city":"Ulhasnagar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 251 252 0561",
+    "sg:postcode":"421005",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928059,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57mDW0jDGjn8q1qQxb7WQL_28.662371_77.258560@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ff649670063f5d2d747c53be0415669b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928059,
+            "region_id":85672123,
+            "venue_id":169550009
+        }
+    ],
+    "wof:id":169550009,
+    "wof:lastmodified":1449034477,
+    "wof:name":"Mohanlal & Sons",
+    "wof:parent_id":85928059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [77.25856,28.662371,77.25856,28.662371],
+  "geometry": {"coordinates":[77.25856,28.662371],"type":"Point"}
+}

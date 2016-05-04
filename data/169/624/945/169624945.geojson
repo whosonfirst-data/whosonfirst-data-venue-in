@@ -1,0 +1,57 @@
+{
+  "id": 169624945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.189392,28.648792,77.189392,28.648792",
+    "geom:latitude":28.648792,
+    "geom:longitude":77.189392,
+    "iso:country":"IN",
+    "sg:address":"6103, Block-1, Dev Nagar, Padam Singh Road, Karol Bagh,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Leather Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4102 8288",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903883,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k8zmPAZuENBSY4rdl3hKe_28.648792_77.189392@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7796035b9d48a6e52e4d90a1ee00527a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903883,
+            "region_id":85672123,
+            "venue_id":169624945
+        }
+    ],
+    "wof:id":169624945,
+    "wof:lastmodified":1449034956,
+    "wof:name":"Sky Enterprises",
+    "wof:parent_id":85903883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.189392,28.648792,77.189392,28.648792],
+  "geometry": {"coordinates":[77.189392,28.648792],"type":"Point"}
+}

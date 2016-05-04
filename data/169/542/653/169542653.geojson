@@ -1,0 +1,64 @@
+{
+  "id": 169542653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.551308,12.9807,77.551308,12.9807",
+    "geom:latitude":12.9807,
+    "geom:longitude":77.551308,
+    "iso:country":"IN",
+    "sg:address":"2/2, V-block,72nd Cross, Rajaji Nagar, B-10,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Bus Station",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2350 6042",
+    "sg:postcode":"560010",
+    "sg:tags":[
+        "switch"
+    ],
+    "sg:website":"http://www.vensonelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N7Kwo4n3iNh2GpgGj2cZW_12.980700_77.551308@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"800223b752e45a01b3bfd6a6f6967f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169542653
+        }
+    ],
+    "wof:id":169542653,
+    "wof:lastmodified":1449035219,
+    "wof:name":"Venson Compaccs",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "switch"
+    ]
+},
+  "bbox": [77.551308,12.9807,77.551308,12.9807],
+  "geometry": {"coordinates":[77.551308,12.9807],"type":"Point"}
+}

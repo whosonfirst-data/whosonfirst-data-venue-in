@@ -1,0 +1,63 @@
+{
+  "id": 169578903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.458374,28.665884,77.458374,28.665884",
+    "geom:latitude":28.665884,
+    "geom:longitude":77.458374,
+    "iso:country":"IN",
+    "sg:address":"Sj-66a, Shastri Nagar,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 411 0766",
+    "sg:postcode":"201002",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.hindbiochem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qsAZ0bQzo1O8jW1dIHL3n_28.665884_77.458374@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d8c14d5bd510dba581046d91a7ca6829",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169578903
+        }
+    ],
+    "wof:id":169578903,
+    "wof:lastmodified":1449033518,
+    "wof:name":"Hind Biochem",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.458374,28.665884,77.458374,28.665884],
+  "geometry": {"coordinates":[77.458374,28.665884],"type":"Point"}
+}

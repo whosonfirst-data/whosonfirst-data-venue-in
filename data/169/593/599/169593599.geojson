@@ -1,0 +1,62 @@
+{
+  "id": 169593599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.566322,23.025928,72.566322,23.025928",
+    "geom:latitude":23.025928,
+    "geom:longitude":72.566322,
+    "iso:country":"IN",
+    "sg:address":"A/207, Premium House, Opp. Ghandhigram Railway Station, Ellisbridge,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 2658 5537",
+    "sg:tags":[
+        "dye"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928731,
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bnB59A9EgSabhOtZID1ep_23.025928_72.566322@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5a680f69fcc0f6e53fef1ce1ec8f7be6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":85928731,
+            "region_id":85672249,
+            "venue_id":169593599
+        }
+    ],
+    "wof:id":169593599,
+    "wof:lastmodified":1449034878,
+    "wof:name":"Nemichem Industries",
+    "wof:parent_id":85928731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye"
+    ]
+},
+  "bbox": [72.566322,23.025928,72.566322,23.025928],
+  "geometry": {"coordinates":[72.566322,23.025928],"type":"Point"}
+}

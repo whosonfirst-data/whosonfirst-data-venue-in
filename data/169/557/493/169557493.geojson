@@ -1,0 +1,62 @@
+{
+  "id": 169557493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.463394,17.402786,78.463394,17.402786",
+    "geom:latitude":17.402786,
+    "geom:longitude":78.463394,
+    "iso:country":"IN",
+    "sg:address":"Red Hills, Lakdi-ka-pool",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2339 4315",
+    "sg:postcode":"500004",
+    "sg:province":"Andhra Pradesh",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930765,
+        85632469,
+        102030059,
+        85672141,
+        85930719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I5aumAfCgbg2XmJooQOgq_17.402786_78.463394@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"44e4bdcaf56bbd1eed7dd654b25b5835",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930765,
+            "region_id":85672141,
+            "venue_id":169557493
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930719,
+            "region_id":85672141,
+            "venue_id":169557493
+        }
+    ],
+    "wof:id":169557493,
+    "wof:lastmodified":1449035035,
+    "wof:name":"Laxmi Ganapathi Paper Mills Ltd",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [78.463394,17.402786,78.463394,17.402786],
+  "geometry": {"coordinates":[78.463394,17.402786],"type":"Point"}
+}

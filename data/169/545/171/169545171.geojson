@@ -1,0 +1,64 @@
+{
+  "id": 169545171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.591965,12.988405,77.591965,12.988405",
+    "geom:latitude":12.988405,
+    "geom:longitude":77.591965,
+    "iso:country":"IN",
+    "sg:address":"71, Millers Rd, Sona Towers, 1st Floor,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2228 1131",
+    "sg:postcode":"560047",
+    "sg:tags":[
+        "yarn"
+    ],
+    "sg:website":"http://www.valliappa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930961,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_063eevaGoSWLAaxo4YZqRn_12.988405_77.591965@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e0546606691c3c909f5607197e77e273",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930961,
+            "region_id":85672165,
+            "venue_id":169545171
+        }
+    ],
+    "wof:id":169545171,
+    "wof:lastmodified":1449033488,
+    "wof:name":"Valliappa Group",
+    "wof:parent_id":85930961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yarn"
+    ]
+},
+  "bbox": [77.591965,12.988405,77.591965,12.988405],
+  "geometry": {"coordinates":[77.591965,12.988405],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169531565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.832863,18.962204,72.832863,18.962204",
+    "geom:latitude":18.962204,
+    "geom:longitude":72.832863,
+    "iso:country":"IN",
+    "sg:address":"11, Shree Bhuvan, 4 Khetwadi,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6636 2817",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "pulley",
+        "coupling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V7ttJdkHaAf1QvLbjga01_18.962204_72.832863@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"407b8d387a7031777e4e929a9682d6f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903863,
+            "region_id":85672171,
+            "venue_id":169531565
+        }
+    ],
+    "wof:id":169531565,
+    "wof:lastmodified":1449033475,
+    "wof:name":"Shree Mahavir Steel Mart",
+    "wof:parent_id":85903863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pulley",
+        "coupling"
+    ]
+},
+  "bbox": [72.832863,18.962204,72.832863,18.962204],
+  "geometry": {"coordinates":[72.832863,18.962204],"type":"Point"}
+}

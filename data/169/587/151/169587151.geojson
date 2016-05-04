@@ -1,0 +1,67 @@
+{
+  "id": 169587151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.27906,13.088128,80.27906,13.088128",
+    "geom:latitude":13.088128,
+    "geom:longitude":80.27906,
+    "iso:country":"IN",
+    "sg:address":"41, Raghunayakulu Street,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 3048 3058",
+    "sg:postcode":"600003",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931765,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JqKkbhphOmDZ8vttjleIF_13.088128_80.279060@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"26bc8d890209a1e6c4a3a9d3fb6c505a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931765,
+            "region_id":85672245,
+            "venue_id":169587151
+        }
+    ],
+    "wof:id":169587151,
+    "wof:lastmodified":1449033819,
+    "wof:name":"Manish Global Ingredients",
+    "wof:parent_id":85931765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [80.27906,13.088128,80.27906,13.088128],
+  "geometry": {"coordinates":[80.27906,13.088128],"type":"Point"}
+}

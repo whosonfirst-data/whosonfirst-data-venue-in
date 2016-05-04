@@ -1,0 +1,63 @@
+{
+  "id": 169543859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.626762,12.910954,77.626762,12.910954",
+    "geom:latitude":12.910954,
+    "geom:longitude":77.626762,
+    "iso:country":"IN",
+    "sg:address":"# 31, N. G. R. Layout Road, Rupenaagrahara, Hosur Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2573 2585",
+    "sg:postcode":"560068",
+    "sg:tags":[
+        "t-shirt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931027,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HbKBI2rXnPmhwuG9pp9n6_12.910954_77.626762@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"af0774c97cce399bf9210fd54ee83ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931027,
+            "region_id":85672165,
+            "venue_id":169543859
+        }
+    ],
+    "wof:id":169543859,
+    "wof:lastmodified":1449033335,
+    "wof:name":"Valley Apparels",
+    "wof:parent_id":85931027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "t-shirt"
+    ]
+},
+  "bbox": [77.626762,12.910954,77.626762,12.910954],
+  "geometry": {"coordinates":[77.626762,12.910954],"type":"Point"}
+}

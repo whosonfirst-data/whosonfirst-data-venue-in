@@ -1,0 +1,54 @@
+{
+  "id": 169557277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.846809,19.016447,72.846809,19.016447",
+    "geom:latitude":19.016447,
+    "geom:longitude":72.846809,
+    "iso:country":"IN",
+    "sg:address":"Dr. Ambedkar Road, Parel",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2415 0124",
+    "sg:postcode":"400012",
+    "sg:province":"Maharashtra",
+    "sg:website":"http://www.gujaratglass.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931545,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vUPo784hDwO63iEQ2yu7V_19.016447_72.846809@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5c7a11c2acca87f091b799145f6ef7f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931545,
+            "region_id":85672171,
+            "venue_id":169557277
+        }
+    ],
+    "wof:id":169557277,
+    "wof:lastmodified":1449035035,
+    "wof:name":"Gujarat Glass Pvt Ltd",
+    "wof:parent_id":85931545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.846809,19.016447,72.846809,19.016447],
+  "geometry": {"coordinates":[72.846809,19.016447],"type":"Point"}
+}

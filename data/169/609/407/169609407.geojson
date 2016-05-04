@@ -1,0 +1,64 @@
+{
+  "id": 169609407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.114716,28.724575,77.114716,28.724575",
+    "geom:latitude":28.724575,
+    "geom:longitude":77.114716,
+    "iso:country":"IN",
+    "sg:address":"119/1, D-12, Sector-7, Rohini,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 6546 6469",
+    "sg:postcode":"110085",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XoS8coDUBLmbyvK6TkeU1_28.724575_77.114716@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"562f7244365aa3e73332c8712769ee02",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169609407
+        }
+    ],
+    "wof:id":169609407,
+    "wof:lastmodified":1449033919,
+    "wof:name":"Ranson Engineering Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [77.114716,28.724575,77.114716,28.724575],
+  "geometry": {"coordinates":[77.114716,28.724575],"type":"Point"}
+}

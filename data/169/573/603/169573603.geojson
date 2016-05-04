@@ -1,0 +1,53 @@
+{
+  "id": 169573603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.257225,13.073093,80.257225,13.073093",
+    "geom:latitude":13.073093,
+    "geom:longitude":80.257225,
+    "iso:country":"IN",
+    "sg:address":"Egmore",
+    "sg:city":"Chennai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2855 4770",
+    "sg:postcode":"600008",
+    "sg:province":"Tamil Nadu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903849,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oRsjSxaTtZiHAso4fkzT5_13.073093_80.257225@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"db38c7b5b0e3de55876a4c502ff0dd49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903849,
+            "region_id":85672245,
+            "venue_id":169573603
+        }
+    ],
+    "wof:id":169573603,
+    "wof:lastmodified":1449035116,
+    "wof:name":"Zip Industries Ltd",
+    "wof:parent_id":85903849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.257225,13.073093,80.257225,13.073093],
+  "geometry": {"coordinates":[80.257225,13.073093],"type":"Point"}
+}

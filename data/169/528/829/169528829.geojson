@@ -1,0 +1,66 @@
+{
+  "id": 169528829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.885971,19.109644,72.885971,19.109644",
+    "geom:latitude":19.109644,
+    "geom:longitude":72.885971,
+    "iso:country":"IN",
+    "sg:address":"212, Gokul Indl., Estate Marol Andheri East,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 3240 4127",
+    "sg:postcode":"400059",
+    "sg:tags":[
+        "tray",
+        "cable"
+    ],
+    "sg:website":"http://www.fitcosales.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pd8lJzS4UxaCUEHe3492g_19.109644_72.885971@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b000f5cea184e613cdf16adac0599794",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169528829
+        }
+    ],
+    "wof:id":169528829,
+    "wof:lastmodified":1449033571,
+    "wof:name":"Fitco Engineers Pvt. Ltd.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tray",
+        "cable"
+    ]
+},
+  "bbox": [72.885971,19.109644,72.885971,19.109644],
+  "geometry": {"coordinates":[72.885971,19.109644],"type":"Point"}
+}

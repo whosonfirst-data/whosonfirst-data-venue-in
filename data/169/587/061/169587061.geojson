@@ -1,0 +1,64 @@
+{
+  "id": 169587061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.706406,30.684038,76.706406,30.684038",
+    "geom:latitude":30.684038,
+    "geom:longitude":76.706406,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 13, Sohna, Sector-7,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 400 5514",
+    "sg:postcode":"121001",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031103,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OfoTn4AkATS5LJgFutKQz_30.684038_76.706406@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"adbf26a9cd7d5fd6e8803e62107bfdbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031103,
+            "neighbourhood_id":-1,
+            "region_id":85672195,
+            "venue_id":169587061
+        }
+    ],
+    "wof:id":169587061,
+    "wof:lastmodified":1449033823,
+    "wof:name":"Manchanda Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [76.706406,30.684038,76.706406,30.684038],
+  "geometry": {"coordinates":[76.706406,30.684038],"type":"Point"}
+}

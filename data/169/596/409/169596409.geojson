@@ -1,0 +1,64 @@
+{
+  "id": 169596409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.214874,28.533342,77.214874,28.533342",
+    "geom:latitude":28.533342,
+    "geom:longitude":77.214874,
+    "iso:country":"IN",
+    "sg:address":"L-11, 2nd Floor, Malviya Nagar, Opposite Krishna Mandir,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 6467 9099",
+    "sg:postcode":"110017",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "sg:website":"http://www.organoindia.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928647,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59giT7VwTUZxvH5JFspvXx_28.533342_77.214874@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"58501232079d62d18e2de704ecb55d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928647,
+            "region_id":85672123,
+            "venue_id":169596409
+        }
+    ],
+    "wof:id":169596409,
+    "wof:lastmodified":1449034371,
+    "wof:name":"Organo India",
+    "wof:parent_id":85928647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.214874,28.533342,77.214874,28.533342],
+  "geometry": {"coordinates":[77.214874,28.533342],"type":"Point"}
+}

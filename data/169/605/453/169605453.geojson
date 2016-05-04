@@ -1,0 +1,65 @@
+{
+  "id": 169605453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.156891,13.036471,80.156891,13.036471",
+    "geom:latitude":13.036471,
+    "geom:longitude":80.156891,
+    "iso:country":"IN",
+    "sg:address":"986-88/, M.i.e.,",
+    "sg:city":"Bahadurgarh",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 1276 267 748",
+    "sg:postcode":"124507",
+    "sg:tags":[
+        "product",
+        "gum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927569,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GScOqAwpGHYl3RklN7yWB_13.036471_80.156891@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3f930272c9f06321d56dd2b5042bbbc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85927569,
+            "region_id":85672245,
+            "venue_id":169605453
+        }
+    ],
+    "wof:id":169605453,
+    "wof:lastmodified":1449034288,
+    "wof:name":"Quality Gums",
+    "wof:parent_id":85927569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "gum"
+    ]
+},
+  "bbox": [80.156891,13.036471,80.156891,13.036471],
+  "geometry": {"coordinates":[80.156891,13.036471],"type":"Point"}
+}

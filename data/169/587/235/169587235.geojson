@@ -1,0 +1,65 @@
+{
+  "id": 169587235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.143684,28.667936,77.143684,28.667936",
+    "geom:latitude":28.667936,
+    "geom:longitude":77.143684,
+    "iso:country":"IN",
+    "sg:address":"F-735(a), Road No.- 9f-2, V.k.i. Area,",
+    "sg:city":"Jaipur",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 141 235 2174",
+    "sg:postcode":"302013",
+    "sg:tags":[
+        "silica",
+        "gel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927889,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q1Z4aCFU4udhiIiCe3V4i_28.667936_77.143684@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5891cd4d5fb8142937445feb2268c01d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927889,
+            "region_id":85672123,
+            "venue_id":169587235
+        }
+    ],
+    "wof:id":169587235,
+    "wof:lastmodified":1449033821,
+    "wof:name":"Manju Udyog",
+    "wof:parent_id":85927889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silica",
+        "gel"
+    ]
+},
+  "bbox": [77.143684,28.667936,77.143684,28.667936],
+  "geometry": {"coordinates":[77.143684,28.667936],"type":"Point"}
+}

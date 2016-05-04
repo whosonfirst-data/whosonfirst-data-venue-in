@@ -1,0 +1,64 @@
+{
+  "id": 169576723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.794243,30.69022,76.794243,30.69022",
+    "geom:latitude":30.69022,
+    "geom:longitude":76.794243,
+    "iso:country":"IN",
+    "sg:address":"73, New Dlf Industrial Area, Phase-i,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 408 1412",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "sg:website":"http://www.fibrexchem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030563,
+        85672119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EnKusHVQBIWGYFvHHyNlJ_30.690220_76.794243@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7b7c80c583119a665661cc0e6f7ba134",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030563,
+            "neighbourhood_id":-1,
+            "region_id":85672119,
+            "venue_id":169576723
+        }
+    ],
+    "wof:id":169576723,
+    "wof:lastmodified":1449035197,
+    "wof:name":"Fibrex Construction Chemicals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [76.794243,30.69022,76.794243,30.69022],
+  "geometry": {"coordinates":[76.794243,30.69022],"type":"Point"}
+}

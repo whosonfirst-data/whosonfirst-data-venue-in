@@ -1,0 +1,62 @@
+{
+  "id": 169645413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.313957,28.597589,77.313957,28.597589",
+    "geom:latitude":28.597589,
+    "geom:longitude":77.313957,
+    "iso:country":"IN",
+    "sg:address":"50 Samrat Apartment, Vasundra Enclave, Near Sector 7,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2262 5809",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928167,
+        85632469,
+        102031133,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19Nw8KyVAPZhDS1bst6JoH_28.597589_77.313957@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"30275e10171bf492af43954bcc138184",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031133,
+            "neighbourhood_id":85928167,
+            "region_id":85672205,
+            "venue_id":169645413
+        }
+    ],
+    "wof:id":169645413,
+    "wof:lastmodified":1449033001,
+    "wof:name":"Vma Enterprises Pvt. Ltd.",
+    "wof:parent_id":85928167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [77.313957,28.597589,77.313957,28.597589],
+  "geometry": {"coordinates":[77.313957,28.597589],"type":"Point"}
+}

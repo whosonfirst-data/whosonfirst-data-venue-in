@@ -1,0 +1,67 @@
+{
+  "id": 169534811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.834541,19.082394,72.834541,19.082394",
+    "geom:latitude":19.082394,
+    "geom:longitude":72.834541,
+    "iso:country":"IN",
+    "sg:address":"Off Linking Road, Malad (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2875 9559",
+    "sg:postcode":"400064",
+    "sg:tags":[
+        "measuring",
+        "equipment",
+        "electrical"
+    ],
+    "sg:website":"http://www.intraxsystems.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931575,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12oZMktwY2LPm49E9bFQXf_19.082394_72.834541@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8c4be15beba4c97e8bceed6c9e126015",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931575,
+            "region_id":85672171,
+            "venue_id":169534811
+        }
+    ],
+    "wof:id":169534811,
+    "wof:lastmodified":1449033548,
+    "wof:name":"Intrax Systems Pvt. Ltd.",
+    "wof:parent_id":85931575,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "measuring",
+        "equipment",
+        "electrical"
+    ]
+},
+  "bbox": [72.834541,19.082394,72.834541,19.082394],
+  "geometry": {"coordinates":[72.834541,19.082394],"type":"Point"}
+}

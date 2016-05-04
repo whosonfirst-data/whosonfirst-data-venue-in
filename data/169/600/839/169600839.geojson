@@ -1,0 +1,64 @@
+{
+  "id": 169600839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.011826,28.467407,77.011826,28.467407",
+    "geom:latitude":28.467407,
+    "geom:longitude":77.011826,
+    "iso:country":"IN",
+    "sg:address":"A-25/26, Sector-7,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 243 3228",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "polymer"
+    ],
+    "sg:website":"http://www.pinggroups.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928471,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Qar1x1Lglcqs095uOBTJ4_28.467407_77.011826@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"02d6129173c92cc13e1dd3630c5571de",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928471,
+            "region_id":85672133,
+            "venue_id":169600839
+        }
+    ],
+    "wof:id":169600839,
+    "wof:lastmodified":1449032971,
+    "wof:name":"Ping Groups Of Companies",
+    "wof:parent_id":85928471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [77.011826,28.467407,77.011826,28.467407],
+  "geometry": {"coordinates":[77.011826,28.467407],"type":"Point"}
+}

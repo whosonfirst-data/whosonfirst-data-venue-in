@@ -1,0 +1,63 @@
+{
+  "id": 169541449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.563179,13.00893,77.563179,13.00893",
+    "geom:latitude":13.00893,
+    "geom:longitude":77.563179,
+    "iso:country":"IN",
+    "sg:address":"60, 2nd Floor, 8th Main, 18th Cross, Malleswaram,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2331 8942",
+    "sg:postcode":"560003",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xZ5KPi2ZUtOYOpvgDFC88_13.008930_77.563179@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c2f4c96992ea288f8ad1b650e67344eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169541449
+        }
+    ],
+    "wof:id":169541449,
+    "wof:lastmodified":1449033043,
+    "wof:name":"K-corp Services",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.563179,13.00893,77.563179,13.00893],
+  "geometry": {"coordinates":[77.563179,13.00893],"type":"Point"}
+}

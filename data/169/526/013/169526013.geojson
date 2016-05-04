@@ -1,0 +1,66 @@
+{
+  "id": 169526013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.870903,19.113882,72.870903,19.113882",
+    "geom:latitude":19.113882,
+    "geom:longitude":72.870903,
+    "iso:country":"IN",
+    "sg:address":"A-56, New Empire Industrial Estate, J.b. Nagar, Andheri(e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6696 5950",
+    "sg:postcode":"400059",
+    "sg:tags":[
+        "utensil",
+        "aluminium"
+    ],
+    "sg:website":"http://www.krishnaengineering.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G1Ui3vQI5azp9VgUbWHlq_19.113882_72.870903@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9366beb5dfea1d31936176b29d4eb37f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169526013
+        }
+    ],
+    "wof:id":169526013,
+    "wof:lastmodified":1449033703,
+    "wof:name":"Krishna Metal Industries",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "utensil",
+        "aluminium"
+    ]
+},
+  "bbox": [72.870903,19.113882,72.870903,19.113882],
+  "geometry": {"coordinates":[72.870903,19.113882],"type":"Point"}
+}

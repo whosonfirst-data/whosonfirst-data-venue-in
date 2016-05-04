@@ -1,0 +1,63 @@
+{
+  "id": 169580937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.65464,12.344241,76.65464,12.344241",
+    "geom:latitude":12.344241,
+    "geom:longitude":76.65464,
+    "iso:country":"IN",
+    "sg:address":"Jss College Of Pharmacy,",
+    "sg:city":"Ooty",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 423 244 3393",
+    "sg:postcode":"643001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903933,
+        85632469,
+        102029303,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31URe0I4CjMBPZO5yHcS3K_12.344241_76.654640@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"998b97ddd1b94a3cbcf446131170546d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029303,
+            "neighbourhood_id":85903933,
+            "region_id":85672165,
+            "venue_id":169580937
+        }
+    ],
+    "wof:id":169580937,
+    "wof:lastmodified":1449034914,
+    "wof:name":"Jss College Of Pharmacy",
+    "wof:parent_id":85903933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [76.65464,12.344241,76.65464,12.344241],
+  "geometry": {"coordinates":[76.65464,12.344241],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169558449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.182281,28.645647,77.182281,28.645647",
+    "geom:latitude":28.645647,
+    "geom:longitude":77.182281,
+    "iso:country":"IN",
+    "sg:address":"1205, Vikram Tower, 16, Rajendra Place,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2582 5660",
+    "sg:postcode":"110008",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928113,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0asDcCnI37A3ML41odOXOK_28.645647_77.182281@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a0b5b1601421ba43a96a720eb0387aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928113,
+            "region_id":85672123,
+            "venue_id":169558449
+        }
+    ],
+    "wof:id":169558449,
+    "wof:lastmodified":1449033582,
+    "wof:name":"Bohra Industries Ltd.",
+    "wof:parent_id":85928113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.182281,28.645647,77.182281,28.645647],
+  "geometry": {"coordinates":[77.182281,28.645647],"type":"Point"}
+}

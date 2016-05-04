@@ -1,0 +1,71 @@
+{
+  "id": 169537525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.636002,13.015572,77.636002,13.015572",
+    "geom:latitude":13.015572,
+    "geom:longitude":77.636002,
+    "iso:country":"IN",
+    "sg:address":"K.g. Haili,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2838 8313",
+    "sg:postcode":"560015",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931107,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iEaHFg4KsSz7P9rYRniYT_13.015572_77.636002@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1ea4fec7ceacc1b65e7443502e95768d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931107,
+            "region_id":85672165,
+            "venue_id":169537525
+        }
+    ],
+    "wof:id":169537525,
+    "wof:lastmodified":1449033501,
+    "wof:name":"Soundri Enterprises",
+    "wof:parent_id":85931107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.636002,13.015572,77.636002,13.015572],
+  "geometry": {"coordinates":[77.636002,13.015572],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169530709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.943199,19.155806,72.943199,19.155806",
+    "geom:latitude":19.155806,
+    "geom:longitude":72.943199,
+    "iso:country":"IN",
+    "sg:address":"76, Vishal Industrial Estate, Village Road, Bhandup (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2560 0036",
+    "sg:postcode":"400078",
+    "sg:tags":[
+        "electronic",
+        "consumer"
+    ],
+    "sg:website":"http://www.maserindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CBHPdRXCQORn3IrPtPyTl_19.155806_72.943199@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"be517dac88b84adb63e5eaac0f434989",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169530709
+        }
+    ],
+    "wof:id":169530709,
+    "wof:lastmodified":1449034443,
+    "wof:name":"Maser Electronics Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electronic",
+        "consumer"
+    ]
+},
+  "bbox": [72.943199,19.155806,72.943199,19.155806],
+  "geometry": {"coordinates":[72.943199,19.155806],"type":"Point"}
+}

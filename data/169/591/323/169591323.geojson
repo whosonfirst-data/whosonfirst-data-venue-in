@@ -1,0 +1,65 @@
+{
+  "id": 169591323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.293312,28.610155,77.293312,28.610155",
+    "geom:latitude":28.610155,
+    "geom:longitude":77.293312,
+    "iso:country":"IN",
+    "sg:address":"C-47, Shashi Garden, Mayur Vihar Phase-i,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2279 4572",
+    "sg:postcode":"110091",
+    "sg:tags":[
+        "chemical",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928047,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AMCnwzqNuD1dWeYXEfmhm_28.610155_77.293312@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"84ea4211c2cb3c95c64b5a43bb3c4cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928047,
+            "region_id":85672123,
+            "venue_id":169591323
+        }
+    ],
+    "wof:id":169591323,
+    "wof:lastmodified":1449034450,
+    "wof:name":"Multi Agencies",
+    "wof:parent_id":85928047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "-"
+    ]
+},
+  "bbox": [77.293312,28.610155,77.293312,28.610155],
+  "geometry": {"coordinates":[77.293312,28.610155],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 169536023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.808578,18.969763,72.808578,18.969763",
+    "geom:latitude":18.969763,
+    "geom:longitude":72.808578,
+    "iso:country":"IN",
+    "sg:address":"B-35, Sterling Apt., Peddar Road.",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 222232975720",
+    "sg:postcode":"400026",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903835,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AzPN8CeX7Pq5x0AcusR8z_18.969763_72.808578@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3da05666e0682dfa59138446674eede1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903835,
+            "region_id":85672171,
+            "venue_id":169536023
+        }
+    ],
+    "wof:id":169536023,
+    "wof:lastmodified":1449034659,
+    "wof:name":"American Entps",
+    "wof:parent_id":85903835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.808578,18.969763,72.808578,18.969763],
+  "geometry": {"coordinates":[72.808578,18.969763],"type":"Point"}
+}

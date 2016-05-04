@@ -1,0 +1,62 @@
+{
+  "id": 169613783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.179398,13.103124,80.179398,13.103124",
+    "geom:latitude":13.103124,
+    "geom:longitude":80.179398,
+    "iso:country":"IN",
+    "sg:address":"142, Railway Station Road, Korattur,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2226 4131",
+    "sg:postcode":"600080",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2enzM6QCuowvyQGYSUMUaW_13.103124_80.179398@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"241e62c8051c1a2beeea32a24651c422",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169613783
+        }
+    ],
+    "wof:id":169613783,
+    "wof:lastmodified":1449034209,
+    "wof:name":"S. V. & Co.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [80.179398,13.103124,80.179398,13.103124],
+  "geometry": {"coordinates":[80.179398,13.103124],"type":"Point"}
+}

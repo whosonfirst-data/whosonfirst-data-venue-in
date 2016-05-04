@@ -1,0 +1,67 @@
+{
+  "id": 169526779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.881363,19.119831,72.881363,19.119831",
+    "geom:latitude":19.119831,
+    "geom:longitude":72.881363,
+    "iso:country":"IN",
+    "sg:address":"B-603, Sterling Court, Midc, Andheri (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 3090 8955",
+    "sg:postcode":"400093",
+    "sg:tags":[
+        "bag",
+        "-",
+        "cotton/canvas/synthetic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rYqanL0XLAg9DPJmr6ql8_19.119831_72.881363@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"17a3b201518312a08a6d495cfe5f1540",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169526779
+        }
+    ],
+    "wof:id":169526779,
+    "wof:lastmodified":1449033700,
+    "wof:name":"Sri Balaji Creations",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag",
+        "-",
+        "cotton/canvas/synthetic"
+    ]
+},
+  "bbox": [72.881363,19.119831,72.881363,19.119831],
+  "geometry": {"coordinates":[72.881363,19.119831],"type":"Point"}
+}

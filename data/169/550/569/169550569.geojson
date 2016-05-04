@@ -1,0 +1,66 @@
+{
+  "id": 169550569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.189445,28.650185,77.189445,28.650185",
+    "geom:latitude":28.650185,
+    "geom:longitude":77.189445,
+    "iso:country":"IN",
+    "sg:address":"I-87, G. I.d.c. Phase -iv, Anand,",
+    "sg:city":"V.u. Nagar",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Emissions Testing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2692 236 232",
+    "sg:postcode":"388121",
+    "sg:tags":[
+        "measuring",
+        "instrument"
+    ],
+    "sg:website":"http://www.instrumenta.4t.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903883,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_649AduE8E6kIvkiHpT9XlI_28.650185_77.189445@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b2b850a799cf5dd8e8d08ca417ba2673",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903883,
+            "region_id":85672123,
+            "venue_id":169550569
+        }
+    ],
+    "wof:id":169550569,
+    "wof:lastmodified":1449034478,
+    "wof:name":"Instrumenta",
+    "wof:parent_id":85903883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "measuring",
+        "instrument"
+    ]
+},
+  "bbox": [77.189445,28.650185,77.189445,28.650185],
+  "geometry": {"coordinates":[77.189445,28.650185],"type":"Point"}
+}

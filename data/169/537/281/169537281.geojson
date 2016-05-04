@@ -1,0 +1,71 @@
+{
+  "id": 169537281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.540184,13.009779,77.540184,13.009779",
+    "geom:latitude":13.009779,
+    "geom:longitude":77.540184,
+    "iso:country":"IN",
+    "sg:address":"A-68, 2nd Cross, Industrial Estate, Rajajinagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2311 3334",
+    "sg:postcode":"560044",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z7CtdZQbeQCmuq0i6lUnU_13.009779_77.540184@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6c96706245185bca61a1f27ee9b54d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169537281
+        }
+    ],
+    "wof:id":169537281,
+    "wof:lastmodified":1449033500,
+    "wof:name":"Chaitanya Preci - Tech (p) Ltd.",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.540184,13.009779,77.540184,13.009779],
+  "geometry": {"coordinates":[77.540184,13.009779],"type":"Point"}
+}

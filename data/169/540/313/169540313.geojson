@@ -1,0 +1,64 @@
+{
+  "id": 169540313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.592216,12.982874,77.592216,12.982874",
+    "geom:latitude":12.982874,
+    "geom:longitude":77.592216,
+    "iso:country":"IN",
+    "sg:address":"16/2, Ali Asker Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2220 2250",
+    "sg:postcode":"560052",
+    "sg:tags":[
+        "shirt"
+    ],
+    "sg:website":"http://www.indus-league.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930961,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60GrXYZcEGCaXpRSHDJ3Ua_12.982874_77.592216@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"af180667c89ac1d7169666166cb04d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930961,
+            "region_id":85672165,
+            "venue_id":169540313
+        }
+    ],
+    "wof:id":169540313,
+    "wof:lastmodified":1449033973,
+    "wof:name":"Indus-league Clothing Limited",
+    "wof:parent_id":85930961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shirt"
+    ]
+},
+  "bbox": [77.592216,12.982874,77.592216,12.982874],
+  "geometry": {"coordinates":[77.592216,12.982874],"type":"Point"}
+}

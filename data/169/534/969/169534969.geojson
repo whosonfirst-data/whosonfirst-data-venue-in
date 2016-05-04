@@ -1,0 +1,68 @@
+{
+  "id": 169534969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.862946,19.118551,72.862946,19.118551",
+    "geom:latitude":19.118551,
+    "geom:longitude":72.862946,
+    "iso:country":"IN",
+    "sg:address":"B-40, Giriraj Industrial Estate, Mahakali Caves Road, Andheri (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2687 0690",
+    "sg:postcode":"400093",
+    "sg:tags":[
+        "component",
+        "product",
+        "electronic"
+    ],
+    "sg:website":"http://www.nissanelectronics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1shC9DBx3BL7p2ZIhudh6e_19.118551_72.862946@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3e8f76fa4d5c94fd6b11c33db93eefaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169534969
+        }
+    ],
+    "wof:id":169534969,
+    "wof:lastmodified":1449033548,
+    "wof:name":"Nissan Electronics Limited",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "product",
+        "electronic"
+    ]
+},
+  "bbox": [72.862946,19.118551,72.862946,19.118551],
+  "geometry": {"coordinates":[72.862946,19.118551],"type":"Point"}
+}

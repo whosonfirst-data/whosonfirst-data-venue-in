@@ -1,0 +1,63 @@
+{
+  "id": 169652855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.627399,13.039282,77.627399,13.039282",
+    "geom:latitude":13.039282,
+    "geom:longitude":77.627399,
+    "iso:country":"IN",
+    "sg:address":"5th Floor, Tower D #150 Airport Road",
+    "sg:city":"Bangalore ",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560008",
+    "sg:tags":[
+        "web-video"
+    ],
+    "sg:website":"http://corporate.veveo.net/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931099,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BnlJuJM2EQTWUFZRhRh6Q_13.039282_77.627399@1308163238"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cf13189431d8ed5e22d0a53ae08e2ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931099,
+            "region_id":85672165,
+            "venue_id":169652855
+        }
+    ],
+    "wof:id":169652855,
+    "wof:lastmodified":1449034809,
+    "wof:name":"Veveo",
+    "wof:parent_id":85931099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web-video"
+    ]
+},
+  "bbox": [77.627399,13.039282,77.627399,13.039282],
+  "geometry": {"coordinates":[77.627399,13.039282],"type":"Point"}
+}

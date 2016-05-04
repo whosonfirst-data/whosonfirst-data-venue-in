@@ -1,0 +1,64 @@
+{
+  "id": 169628305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.550468,17.392416,78.550468,17.392416",
+    "geom:latitude":17.392416,
+    "geom:longitude":78.550468,
+    "iso:country":"IN",
+    "sg:address":"Unt No. K-5/3 Ida, Uppal,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 6527 6024",
+    "sg:postcode":"500039",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YUbV5KlYQRZz3N0Wl2Z0D_17.392416_78.550468@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"890f07753d1e4b9f2f7e2f1aa1b19b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169628305
+        }
+    ],
+    "wof:id":169628305,
+    "wof:lastmodified":1449035333,
+    "wof:name":"Sri Om Saai Powder Coatings",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [78.550468,17.392416,78.550468,17.392416],
+  "geometry": {"coordinates":[78.550468,17.392416],"type":"Point"}
+}

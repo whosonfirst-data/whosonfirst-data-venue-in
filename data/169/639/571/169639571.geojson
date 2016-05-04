@@ -1,0 +1,66 @@
+{
+  "id": 169639571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.166016,28.552362,77.166016,28.552362",
+    "geom:latitude":28.552362,
+    "geom:longitude":77.166016,
+    "iso:country":"IN",
+    "sg:address":"B-30, Community Centre, Janak Puri,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2559 6362",
+    "sg:postcode":"110058",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "sg:website":"http://www.unitedink.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927949,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LGxczpQebEF2po5gryZNy_28.552362_77.166016@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"59077eff49bba2c80c74c1a86879e347",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927949,
+            "region_id":85672123,
+            "venue_id":169639571
+        }
+    ],
+    "wof:id":169639571,
+    "wof:lastmodified":1449035954,
+    "wof:name":"United Ink & Varnishing Co. Pvt. Ltd.",
+    "wof:parent_id":85927949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [77.166016,28.552362,77.166016,28.552362],
+  "geometry": {"coordinates":[77.166016,28.552362],"type":"Point"}
+}

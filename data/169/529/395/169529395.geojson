@@ -1,0 +1,63 @@
+{
+  "id": 169529395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.913071,19.101727,72.913071,19.101727",
+    "geom:latitude":19.101727,
+    "geom:longitude":72.913071,
+    "iso:country":"IN",
+    "sg:address":"116, Hill View Industrial Estate, Amrut Nagar, Off. L.b.s. Marg, Ghatkopar (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2591 5025",
+    "sg:postcode":"400086",
+    "sg:tags":[
+        "charger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931627,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TPYiLVdqf0cB5pqVC045a_19.101727_72.913071@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"66d7399a86f310771b691fcd5418a4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931627,
+            "region_id":85672171,
+            "venue_id":169529395
+        }
+    ],
+    "wof:id":169529395,
+    "wof:lastmodified":1449034116,
+    "wof:name":"Powertronics Power Solution",
+    "wof:parent_id":85931627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "charger"
+    ]
+},
+  "bbox": [72.913071,19.101727,72.913071,19.101727],
+  "geometry": {"coordinates":[72.913071,19.101727],"type":"Point"}
+}

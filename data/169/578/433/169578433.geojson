@@ -1,0 +1,63 @@
+{
+  "id": 169578433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.341553,28.641075,77.341553,28.641075",
+    "geom:latitude":28.641075,
+    "geom:longitude":77.341553,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 172, Sector-4, Vaishali,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 437 4288",
+    "sg:postcode":"201010",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928547,
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uxageZeIIL8SiPR0u2xdl_28.641075_77.341553@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fd1649146d3d469c47c3e9bc78cc187f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":85928547,
+            "region_id":85672205,
+            "venue_id":169578433
+        }
+    ],
+    "wof:id":169578433,
+    "wof:lastmodified":1449033519,
+    "wof:name":"Hansmukhi Nutraceuticals",
+    "wof:parent_id":85928547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [77.341553,28.641075,77.341553,28.641075],
+  "geometry": {"coordinates":[77.341553,28.641075],"type":"Point"}
+}

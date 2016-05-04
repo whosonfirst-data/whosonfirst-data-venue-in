@@ -1,0 +1,53 @@
+{
+  "id": 169568387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.226143,28.586922,77.226143,28.586922",
+    "geom:latitude":28.586922,
+    "geom:longitude":77.226143,
+    "iso:country":"IN",
+    "sg:address":"Lodi Colony",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2462 4055",
+    "sg:postcode":"110003",
+    "sg:province":"Delhi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928255,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Fe08xUFhWxsWETzcX9RD3_28.586922_77.226143@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b6aa3a255e851d4a7124aac5a1abe26e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928255,
+            "region_id":85672123,
+            "venue_id":169568387
+        }
+    ],
+    "wof:id":169568387,
+    "wof:lastmodified":1449032612,
+    "wof:name":"Transworld Book Services",
+    "wof:parent_id":85928255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.226143,28.586922,77.226143,28.586922],
+  "geometry": {"coordinates":[77.226143,28.586922],"type":"Point"}
+}

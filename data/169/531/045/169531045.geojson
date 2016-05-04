@@ -1,0 +1,65 @@
+{
+  "id": 169531045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.866837,19.042019,72.866837,19.042019",
+    "geom:latitude":19.042019,
+    "geom:longitude":72.866837,
+    "iso:country":"IN",
+    "sg:address":"Unit No. 110, Champaklal Indl. Estate, Sion (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2407 1923",
+    "sg:postcode":"400022",
+    "sg:tags":[
+        "copper",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903847,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cccAmS0PCC62fEffxAj80_19.042019_72.866837@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"98e30ac59a6796554647d43abbd92222",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903847,
+            "region_id":85672171,
+            "venue_id":169531045
+        }
+    ],
+    "wof:id":169531045,
+    "wof:lastmodified":1449033475,
+    "wof:name":"Darbari Wires Pvt. Ltd.",
+    "wof:parent_id":85903847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "copper",
+        "product"
+    ]
+},
+  "bbox": [72.866837,19.042019,72.866837,19.042019],
+  "geometry": {"coordinates":[72.866837,19.042019],"type":"Point"}
+}

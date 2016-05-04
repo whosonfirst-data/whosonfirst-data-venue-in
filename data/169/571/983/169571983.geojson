@@ -1,0 +1,53 @@
+{
+  "id": 169571983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.010979,27.188231,78.010979,27.188231",
+    "geom:latitude":27.188231,
+    "geom:longitude":78.010979,
+    "iso:country":"IN",
+    "sg:address":"Mantola",
+    "sg:city":"Agra",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 562260406",
+    "sg:postcode":"282003",
+    "sg:province":"Uttar Pradesh",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903907,
+        85632469,
+        102031021,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zXlj4El5YNE2YfMYOo3gB_27.188231_78.010979@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ca2e623b28e60ea073156c7fbfdf4569",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031021,
+            "neighbourhood_id":85903907,
+            "region_id":85672205,
+            "venue_id":169571983
+        }
+    ],
+    "wof:id":169571983,
+    "wof:lastmodified":1449034947,
+    "wof:name":"Protocom",
+    "wof:parent_id":85903907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [78.010979,27.188231,78.010979,27.188231],
+  "geometry": {"coordinates":[78.010979,27.188231],"type":"Point"}
+}

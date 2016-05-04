@@ -1,0 +1,65 @@
+{
+  "id": 169537835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.514496,13.047703,77.514496,13.047703",
+    "geom:latitude":13.047703,
+    "geom:longitude":77.514496,
+    "iso:country":"IN",
+    "sg:address":"No. 31, Vidyanagar 1st Main, T. Dasarahalli,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2372 9042",
+    "sg:postcode":"560057",
+    "sg:tags":[
+        "component",
+        "pressed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930987,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33AsnBVbZ0J3f1oP0yf9p1_13.047703_77.514496@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1f53d07db5ea998982cd18780c8a4bde",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930987,
+            "region_id":85672165,
+            "venue_id":169537835
+        }
+    ],
+    "wof:id":169537835,
+    "wof:lastmodified":1449033498,
+    "wof:name":"In-com",
+    "wof:parent_id":85930987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "pressed"
+    ]
+},
+  "bbox": [77.514496,13.047703,77.514496,13.047703],
+  "geometry": {"coordinates":[77.514496,13.047703],"type":"Point"}
+}

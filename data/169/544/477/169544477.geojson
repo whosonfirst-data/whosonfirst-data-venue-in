@@ -1,0 +1,65 @@
+{
+  "id": 169544477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.539154,12.987318,77.539154,12.987318",
+    "geom:latitude":12.987318,
+    "geom:longitude":77.539154,
+    "iso:country":"IN",
+    "sg:address":"No. 103, 1st Main Road, Khb Colony, Basaveshwaranagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2348 9853",
+    "sg:postcode":"560079",
+    "sg:tags":[
+        "voltage",
+        "stabilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uFEfPmHCiJhqX56Kv4MQ9_12.987318_77.539154@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7b9211a5cce611985e743dcf1564c95b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169544477
+        }
+    ],
+    "wof:id":169544477,
+    "wof:lastmodified":1449035962,
+    "wof:name":"Tektronics Power System & Controls",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "voltage",
+        "stabilizer"
+    ]
+},
+  "bbox": [77.539154,12.987318,77.539154,12.987318],
+  "geometry": {"coordinates":[77.539154,12.987318],"type":"Point"}
+}

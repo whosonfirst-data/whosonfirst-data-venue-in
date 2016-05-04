@@ -1,0 +1,63 @@
+{
+  "id": 169591945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.834381,18.980549,72.834381,18.980549",
+    "geom:latitude":18.980549,
+    "geom:longitude":72.834381,
+    "iso:country":"IN",
+    "sg:address":"161, Dr. Ambedkar Road, Byculla,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2372 5674",
+    "sg:postcode":"400027",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903815,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10LlMCRwpRyJ5fK8ny0MWQ_18.980549_72.834381@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"352725e248965921c0f960852dcfd6f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903815,
+            "region_id":85672171,
+            "venue_id":169591945
+        }
+    ],
+    "wof:id":169591945,
+    "wof:lastmodified":1449034449,
+    "wof:name":"Namdeo Umaji Agritech (india) Pvt. Ltd.",
+    "wof:parent_id":85903815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [72.834381,18.980549,72.834381,18.980549],
+  "geometry": {"coordinates":[72.834381,18.980549],"type":"Point"}
+}

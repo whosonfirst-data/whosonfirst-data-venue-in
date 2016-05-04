@@ -1,0 +1,63 @@
+{
+  "id": 169595193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"84.859398,22.243811,84.859398,22.243811",
+    "geom:latitude":22.243811,
+    "geom:longitude":84.859398,
+    "iso:country":"IN",
+    "sg:address":"E-56, Sector-6,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 951204323440",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933795,
+        85632469,
+        102028839,
+        85672157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GPOYqIZrExSL9CPdii3m1_22.243811_84.859398@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"056a9c3d8dd438c3a0e469cfe2714aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028839,
+            "neighbourhood_id":85933795,
+            "region_id":85672157,
+            "venue_id":169595193
+        }
+    ],
+    "wof:id":169595193,
+    "wof:lastmodified":1449035636,
+    "wof:name":"Nudeal Polymers",
+    "wof:parent_id":85933795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [84.859398,22.243811,84.859398,22.243811],
+  "geometry": {"coordinates":[84.859398,22.243811],"type":"Point"}
+}

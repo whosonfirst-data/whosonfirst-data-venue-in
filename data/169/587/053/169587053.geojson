@@ -1,0 +1,63 @@
+{
+  "id": 169587053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.812263,30.739353,76.812263,30.739353",
+    "geom:latitude":30.739353,
+    "geom:longitude":76.812263,
+    "iso:country":"IN",
+    "sg:address":"E-115, Sec-vi,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 452 3938",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931857,
+        85632469,
+        102030563,
+        85672119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RYWlai4f8j2S8VpdiVWVm_30.739353_76.812263@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"01aeaef6defa742bcc230e0702d41390",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030563,
+            "neighbourhood_id":85931857,
+            "region_id":85672119,
+            "venue_id":169587053
+        }
+    ],
+    "wof:id":169587053,
+    "wof:lastmodified":1449033820,
+    "wof:name":"Mandeep Paints And Polymers",
+    "wof:parent_id":85931857,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [76.812263,30.739353,76.812263,30.739353],
+  "geometry": {"coordinates":[76.812263,30.739353],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169577999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.243896,13.055696,80.243896,13.055696",
+    "geom:latitude":13.055696,
+    "geom:longitude":80.243896,
+    "iso:country":"IN",
+    "sg:address":"1b, 1st. Floor, No. 9, New Tank Street, Nungambakkam,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2827 6733",
+    "sg:postcode":"600034",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.guardianchemicals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903935,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53XCfeax86yhTvpQ7Sxnrq_13.055696_80.243896@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fd53ba9c4e01707c9405e8249b6fccdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903935,
+            "region_id":85672245,
+            "venue_id":169577999
+        }
+    ],
+    "wof:id":169577999,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Guardian Anti-corrosives Pvt. Ltd.",
+    "wof:parent_id":85903935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [80.243896,13.055696,80.243896,13.055696],
+  "geometry": {"coordinates":[80.243896,13.055696],"type":"Point"}
+}

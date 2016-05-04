@@ -1,0 +1,64 @@
+{
+  "id": 169633561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.913376,19.119617,72.913376,19.119617",
+    "geom:latitude":19.119617,
+    "geom:longitude":72.913376,
+    "iso:country":"IN",
+    "sg:address":"503, Sigma, Hiranandani Gardens, Powai,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6698 7201",
+    "sg:postcode":"400076",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.multibase.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931519,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PzjpjDs6YDCT762V45Qpu_19.119617_72.913376@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f2700a85f8b44c4742f88f8aa279eac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931519,
+            "region_id":85672171,
+            "venue_id":169633561
+        }
+    ],
+    "wof:id":169633561,
+    "wof:lastmodified":1449035938,
+    "wof:name":"Synergy Multibase Limited",
+    "wof:parent_id":85931519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.913376,19.119617,72.913376,19.119617],
+  "geometry": {"coordinates":[72.913376,19.119617],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169582387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.778671,18.639656,73.778671,18.639656",
+    "geom:latitude":18.639656,
+    "geom:longitude":73.778671,
+    "iso:country":"IN",
+    "sg:address":"Plot No. T-149/2, Midc, Bhosari,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 6611 3412",
+    "sg:postcode":"411026",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931299,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h6yBt9r3sbe1Pzfw8Y76M_18.639656_73.778671@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3b1b463a9f6680bf9f727ad14cfcecb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931299,
+            "region_id":85672171,
+            "venue_id":169582387
+        }
+    ],
+    "wof:id":169582387,
+    "wof:lastmodified":1449034468,
+    "wof:name":"Kedar Coating & Engineering (p) Ltd.",
+    "wof:parent_id":85931299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [73.778671,18.639656,73.778671,18.639656],
+  "geometry": {"coordinates":[73.778671,18.639656],"type":"Point"}
+}

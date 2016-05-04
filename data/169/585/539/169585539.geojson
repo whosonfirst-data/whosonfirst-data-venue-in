@@ -1,0 +1,72 @@
+{
+  "id": 169585539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.575668,13.004248,77.575668,13.004248",
+    "geom:latitude":13.004248,
+    "geom:longitude":77.575668,
+    "iso:country":"IN",
+    "sg:address":"#24, 13th A Cross, Vyalikaval,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2344 1164",
+    "sg:postcode":"560003",
+    "sg:tags":[
+        "silicon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165,
+        85931005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MRDy72fM54TEu8qfZdBib_13.004248_77.575668@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ff67c8473494b09f1d12acee0540ea1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169585539
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931005,
+            "region_id":85672165,
+            "venue_id":169585539
+        }
+    ],
+    "wof:id":169585539,
+    "wof:lastmodified":1449034888,
+    "wof:name":"Maatha Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silicon"
+    ]
+},
+  "bbox": [77.575668,13.004248,77.575668,13.004248],
+  "geometry": {"coordinates":[77.575668,13.004248],"type":"Point"}
+}

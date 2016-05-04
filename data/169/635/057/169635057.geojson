@@ -1,0 +1,72 @@
+{
+  "id": 169635057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.357719,22.586992,88.357719,22.586992",
+    "geom:latitude":22.586992,
+    "geom:longitude":88.357719,
+    "iso:country":"IN",
+    "sg:address":"1-a, Halwasiya Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2259 0596",
+    "sg:postcode":"700007",
+    "sg:tags":[
+        "fine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931965,
+        85632469,
+        102030585,
+        85672219,
+        85903957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Tjoxkne1v4eA4TrEPMn4E_22.586992_88.357719@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6c6b72ead119b2865e1e7af09946e8f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931965,
+            "region_id":85672219,
+            "venue_id":169635057
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903957,
+            "region_id":85672219,
+            "venue_id":169635057
+        }
+    ],
+    "wof:id":169635057,
+    "wof:lastmodified":1449034099,
+    "wof:name":"Texchem (india)",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fine"
+    ]
+},
+  "bbox": [88.357719,22.586992,88.357719,22.586992],
+  "geometry": {"coordinates":[88.357719,22.586992],"type":"Point"}
+}

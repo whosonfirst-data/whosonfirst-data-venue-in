@@ -1,0 +1,62 @@
+{
+  "id": 169613417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.854164,19.155708,72.854164,19.155708",
+    "geom:latitude":19.155708,
+    "geom:longitude":72.854164,
+    "iso:country":"IN",
+    "sg:address":"129, Babulal Compound, A-19, Walbhat Road, Goregaon East,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2685 9948",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L2DQt72qlmg90NzcSgf1W_19.155708_72.854164@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"402b22605b670914c24f22b2f469cab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169613417
+        }
+    ],
+    "wof:id":169613417,
+    "wof:lastmodified":1449034213,
+    "wof:name":"S.c. Rubber Works",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.854164,19.155708,72.854164,19.155708],
+  "geometry": {"coordinates":[72.854164,19.155708],"type":"Point"}
+}

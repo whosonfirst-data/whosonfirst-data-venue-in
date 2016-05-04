@@ -1,0 +1,65 @@
+{
+  "id": 169535397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.864418,19.115932,72.864418,19.115932",
+    "geom:latitude":19.115932,
+    "geom:longitude":72.864418,
+    "iso:country":"IN",
+    "sg:address":"43, Mistry Industrial Complex, Midc, Chakala,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2687 1597",
+    "sg:postcode":"400093",
+    "sg:tags":[
+        "equipment",
+        "good"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wdSfqOwQUMAKrccD2FyRd_19.115932_72.864418@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d15de166fb10ccad8f34f2e5a51dbe2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169535397
+        }
+    ],
+    "wof:id":169535397,
+    "wof:lastmodified":1449033286,
+    "wof:name":"Saibal Engineering Co.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "good"
+    ]
+},
+  "bbox": [72.864418,19.115932,72.864418,19.115932],
+  "geometry": {"coordinates":[72.864418,19.115932],"type":"Point"}
+}

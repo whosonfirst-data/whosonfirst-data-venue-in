@@ -1,0 +1,62 @@
+{
+  "id": 169598987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"70.797173,22.302174,70.797173,22.302174",
+    "geom:latitude":22.302174,
+    "geom:longitude":70.797173,
+    "iso:country":"IN",
+    "sg:address":"10/2 4th Floor, Kasturba Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 56 963009",
+    "sg:postcode":"560001",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028901,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03QPA4imNrnHuJoIZfSoCj_22.302174_70.797173@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fb72812c07bc3a5924284c9a6a14f82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028901,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169598987
+        }
+    ],
+    "wof:id":169598987,
+    "wof:lastmodified":1449032858,
+    "wof:name":"Paras Agro Fertilizers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [70.797173,22.302174,70.797173,22.302174],
+  "geometry": {"coordinates":[70.797173,22.302174],"type":"Point"}
+}

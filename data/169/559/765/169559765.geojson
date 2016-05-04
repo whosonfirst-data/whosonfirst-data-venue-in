@@ -1,0 +1,66 @@
+{
+  "id": 169559765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"83.205086,17.814474,83.205086,17.814474",
+    "geom:latitude":17.814474,
+    "geom:longitude":83.205086,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 17-1, Pendurthy,",
+    "sg:city":"Vishakapattanam",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 891 276 4210",
+    "sg:postcode":"531173",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "sg:website":"http://www.coromandelpaints.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ag4qkkdiqb8iTR63ChIsj_17.814474_83.205086@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"740d5eeb10dbd6097952dda35c6af606",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169559765
+        }
+    ],
+    "wof:id":169559765,
+    "wof:lastmodified":1449035239,
+    "wof:name":"Coromandel Paints Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [83.205086,17.814474,83.205086,17.814474],
+  "geometry": {"coordinates":[83.205086,17.814474],"type":"Point"}
+}

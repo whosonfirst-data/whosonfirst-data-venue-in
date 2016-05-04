@@ -1,0 +1,63 @@
+{
+  "id": 169635471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.269196,13.050577,80.269196,13.050577",
+    "geom:latitude":13.050577,
+    "geom:longitude":80.269196,
+    "iso:country":"IN",
+    "sg:address":"#39, 4th Floor, Vm Street,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2533 1556",
+    "sg:postcode":"600003",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903975,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VMVMcduvbq3yfqlNwDu1X_13.050577_80.269196@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ad97b8c679e464d79da1cc077293b61a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903975,
+            "region_id":85672245,
+            "venue_id":169635471
+        }
+    ],
+    "wof:id":169635471,
+    "wof:lastmodified":1449034099,
+    "wof:name":"The Chennai Chemicals",
+    "wof:parent_id":85903975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.269196,13.050577,80.269196,13.050577],
+  "geometry": {"coordinates":[80.269196,13.050577],"type":"Point"}
+}

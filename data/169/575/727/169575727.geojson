@@ -1,0 +1,63 @@
+{
+  "id": 169575727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.210518,13.111913,80.210518,13.111913",
+    "geom:latitude":13.111913,
+    "geom:longitude":80.210518,
+    "iso:country":"IN",
+    "sg:address":"C-26, Indl. Estate, Rajaji Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2330 4396",
+    "sg:postcode":"560044",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903945,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xKGh46GZHuSKqmdqmRR1n_13.111913_80.210518@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2a99b83c24dd678d5f102bc77b0e9c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903945,
+            "region_id":85672245,
+            "venue_id":169575727
+        }
+    ],
+    "wof:id":169575727,
+    "wof:lastmodified":1449033641,
+    "wof:name":"Bangalore Rubber Industries",
+    "wof:parent_id":85903945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [80.210518,13.111913,80.210518,13.111913],
+  "geometry": {"coordinates":[80.210518,13.111913],"type":"Point"}
+}

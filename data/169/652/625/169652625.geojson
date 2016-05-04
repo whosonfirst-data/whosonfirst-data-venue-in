@@ -1,0 +1,77 @@
+{
+  "id": 169652625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.152135,13.11352,80.152135,13.11352",
+    "geom:latitude":13.11352,
+    "geom:longitude":80.152135,
+    "iso:country":"IN",
+    "sg:address":"\"GNG House\" K-48, Anna Nagar East",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"600 102",
+    "sg:tags":[
+        "software",
+        "web-development",
+        "wed-design",
+        "internet-marketing",
+        "seo",
+        "sem",
+        "search-engine-marketing",
+        "web2-0"
+    ],
+    "sg:website":"http://www.dotcominfoway.fr/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904059,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6we83eENzFnjMOOiPpx8X2_13.113520_80.152135@1308163238"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d7d28d62dcd43e5b9c17b66c7c95913a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85904059,
+            "region_id":85672245,
+            "venue_id":169652625
+        }
+    ],
+    "wof:id":169652625,
+    "wof:lastmodified":1449034810,
+    "wof:name":"Dot Com Infoway France",
+    "wof:parent_id":85904059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software",
+        "web-development",
+        "wed-design",
+        "internet-marketing",
+        "seo",
+        "sem",
+        "search-engine-marketing",
+        "web2-0"
+    ]
+},
+  "bbox": [80.152135,13.11352,80.152135,13.11352],
+  "geometry": {"coordinates":[80.152135,13.11352],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 169585547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"81.34269,21.196381,81.34269,21.196381",
+    "geom:latitude":21.196381,
+    "geom:longitude":81.34269,
+    "iso:country":"IN",
+    "sg:address":"E-82, Sector-6, G.b.nagar,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 242 2483",
+    "sg:tags":[
+        "polymer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030693,
+        85672231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mRSBLT2JNNYbj5I6OgaX1_21.196381_81.342690@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f2a8e36b2d2530c75b9eddb6159e0e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030693,
+            "neighbourhood_id":-1,
+            "region_id":85672231,
+            "venue_id":169585547
+        }
+    ],
+    "wof:id":169585547,
+    "wof:lastmodified":1449034883,
+    "wof:name":"M. T. Polymers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [81.34269,21.196381,81.34269,21.196381],
+  "geometry": {"coordinates":[81.34269,21.196381],"type":"Point"}
+}

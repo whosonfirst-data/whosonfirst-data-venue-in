@@ -1,0 +1,77 @@
+{
+  "id": 169648627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.22797,28.627906,77.22797,28.627906",
+    "geom:latitude":28.627906,
+    "geom:longitude":77.22797,
+    "iso:country":"IN",
+    "sg:address":"7, Barakhambha Road",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110001",
+    "sg:tags":[
+        "mobile",
+        "vas",
+        "community",
+        "social-networking",
+        "connected-devices",
+        "android",
+        "tablets",
+        "smartphones"
+    ],
+    "sg:website":"http://www.buongiorno.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903833,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e6JgezXblcEAl6kVlkqBy_28.627906_77.227970@1308163237"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6b4295f093ddcfd1ca0e6770b5867b26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903833,
+            "region_id":85672123,
+            "venue_id":169648627
+        }
+    ],
+    "wof:id":169648627,
+    "wof:lastmodified":1449033587,
+    "wof:name":"Buongiorno",
+    "wof:parent_id":85903833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "vas",
+        "community",
+        "social-networking",
+        "connected-devices",
+        "android",
+        "tablets",
+        "smartphones"
+    ]
+},
+  "bbox": [77.22797,28.627906,77.22797,28.627906],
+  "geometry": {"coordinates":[77.22797,28.627906],"type":"Point"}
+}

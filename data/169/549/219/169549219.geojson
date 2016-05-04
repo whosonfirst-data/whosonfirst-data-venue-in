@@ -1,0 +1,64 @@
+{
+  "id": 169549219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.691513,24.601099,73.691513,24.601099",
+    "geom:latitude":24.601099,
+    "geom:longitude":73.691513,
+    "iso:country":"IN",
+    "sg:address":"54-55, Sukhadia Circle,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 256 0259",
+    "sg:postcode":"313004",
+    "sg:tags":[
+        "handicraft"
+    ],
+    "sg:website":"http://www.manglam.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934019,
+        85632469,
+        102028377,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64S6WjcskaEBqW4eNy2Gje_24.601099_73.691513@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fbcf5297828a5c19818f63f5d7831789",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028377,
+            "neighbourhood_id":85934019,
+            "region_id":85672201,
+            "venue_id":169549219
+        }
+    ],
+    "wof:id":169549219,
+    "wof:lastmodified":1449033593,
+    "wof:name":"Manglam Arts",
+    "wof:parent_id":85934019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handicraft"
+    ]
+},
+  "bbox": [73.691513,24.601099,73.691513,24.601099],
+  "geometry": {"coordinates":[73.691513,24.601099],"type":"Point"}
+}

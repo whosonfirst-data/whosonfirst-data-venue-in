@@ -1,0 +1,53 @@
+{
+  "id": 169566979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.846268,18.520479,73.846268,18.520479",
+    "geom:latitude":18.520479,
+    "geom:longitude":73.846268,
+    "iso:country":"IN",
+    "sg:address":"Off Jungali Maharaj Road",
+    "sg:city":"Pune",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 205532085",
+    "sg:postcode":"411004",
+    "sg:province":"Maharashtra",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931327,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kcu4ZtJ02f3zV8aDcm1Mh_18.520479_73.846268@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4d2cb916328d9098791605b290ba04bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931327,
+            "region_id":85672171,
+            "venue_id":169566979
+        }
+    ],
+    "wof:id":169566979,
+    "wof:lastmodified":1449032753,
+    "wof:name":"Hotel Pathik",
+    "wof:parent_id":85931327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [73.846268,18.520479,73.846268,18.520479],
+  "geometry": {"coordinates":[73.846268,18.520479],"type":"Point"}
+}

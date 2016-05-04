@@ -1,0 +1,68 @@
+{
+  "id": 169542275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.527306,13.035222,77.527306,13.035222",
+    "geom:latitude":13.035222,
+    "geom:longitude":77.527306,
+    "iso:country":"IN",
+    "sg:address":"Maneshwara Industrial Estae, Tumkur Road, Peenya,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 51 170092",
+    "sg:tags":[
+        "steel",
+        "stainless",
+        "product",
+        "component"
+    ],
+    "sg:website":"http://www.beekaysteel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VF0EvnhgF8PTtACOfIbwL_13.035222_77.527306@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ffedf1847e1d6d8bcc7aa0af12d97b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169542275
+        }
+    ],
+    "wof:id":169542275,
+    "wof:lastmodified":1449035220,
+    "wof:name":"Radice Ispat (india) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "stainless",
+        "product",
+        "component"
+    ]
+},
+  "bbox": [77.527306,13.035222,77.527306,13.035222],
+  "geometry": {"coordinates":[77.527306,13.035222],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169594535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.102272,28.480997,77.102272,28.480997",
+    "geom:latitude":28.480997,
+    "geom:longitude":77.102272,
+    "iso:country":"IN",
+    "sg:address":"Global Business Park 6th Floor, Tower 'b'\nMehrauli Gurgaon Road,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 406 5066",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.nitrexchemicals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928567,
+        85632469,
+        102030161,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0F8H3I8UpFj5fibB6flgWw_28.480997_77.102272@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ccb487bc21004387bc59c729838bbce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928567,
+            "region_id":85672123,
+            "venue_id":169594535
+        }
+    ],
+    "wof:id":169594535,
+    "wof:lastmodified":1449033164,
+    "wof:name":"Nitrex Chemicals India Ltd.",
+    "wof:parent_id":85928567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.102272,28.480997,77.102272,28.480997],
+  "geometry": {"coordinates":[77.102272,28.480997],"type":"Point"}
+}

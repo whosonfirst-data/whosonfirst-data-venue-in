@@ -1,0 +1,63 @@
+{
+  "id": 169648167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.388252,22.533386,88.388252,22.533386",
+    "geom:latitude":22.533386,
+    "geom:longitude":88.388252,
+    "iso:country":"IN",
+    "sg:address":"49-e, Topsia Road (south),",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2343 8303",
+    "sg:postcode":"700046",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85932037,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CVap3Qy1iuvscLHjhaQGy_22.533386_88.388252@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"471fe86dc23d728bff104480095c8b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85932037,
+            "region_id":85672219,
+            "venue_id":169648167
+        }
+    ],
+    "wof:id":169648167,
+    "wof:lastmodified":1449033584,
+    "wof:name":"Zodiac Rubber Industries (p) Ltd.",
+    "wof:parent_id":85932037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [88.388252,22.533386,88.388252,22.533386],
+  "geometry": {"coordinates":[88.388252,22.533386],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169525823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.876801,19.055882,72.876801,19.055882",
+    "geom:latitude":19.055882,
+    "geom:longitude":72.876801,
+    "iso:country":"IN",
+    "sg:address":"6/306, Jogani Indl. Complex, Chunabhatti,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 3096 8812",
+    "sg:postcode":"400022",
+    "sg:tags":[
+        "blower",
+        "air"
+    ],
+    "sg:website":"http://www.buschindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903847,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Zfn6MBsmmFh5p03pnmdaO_19.055882_72.876801@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cfe53f3561019f590a9873058c6bba12",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903847,
+            "region_id":85672171,
+            "venue_id":169525823
+        }
+    ],
+    "wof:id":169525823,
+    "wof:lastmodified":1449035274,
+    "wof:name":"Busch Vacuum Pumps & Systems",
+    "wof:parent_id":85903847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blower",
+        "air"
+    ]
+},
+  "bbox": [72.876801,19.055882,72.876801,19.055882],
+  "geometry": {"coordinates":[72.876801,19.055882],"type":"Point"}
+}

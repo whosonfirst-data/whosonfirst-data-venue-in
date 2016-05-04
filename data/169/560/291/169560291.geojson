@@ -1,0 +1,63 @@
+{
+  "id": 169560291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.839325,18.934137,72.839325,18.934137",
+    "geom:latitude":18.934137,
+    "geom:longitude":72.839325,
+    "iso:country":"IN",
+    "sg:address":"1st Floor, N.t.c. House, N.m. Marg, Ballard Estate,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2261 3440",
+    "sg:postcode":"400038",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.devashishpolymers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KdW8Iag7oRUfc5BeEP84o_18.934137_72.839325@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f8f8bb67cca1f318fd95f997eaa9b08c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169560291
+        }
+    ],
+    "wof:id":169560291,
+    "wof:lastmodified":1449035180,
+    "wof:name":"Devashish Polymers (p) Limited",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.839325,18.934137,72.839325,18.934137],
+  "geometry": {"coordinates":[72.839325,18.934137],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169590549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.034859,28.587196,77.034859,28.587196",
+    "geom:latitude":28.587196,
+    "geom:longitude":77.034859,
+    "iso:country":"IN",
+    "sg:address":"# 235, Sector 18a,",
+    "sg:city":"Chandigarh",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 1762 280 259",
+    "sg:postcode":"160018",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.mohanfibre.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927883,
+        85632469,
+        102031165,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fVclww1jjuCc9cU4IoJnz_28.587196_77.034859@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5ba7deb9a049c6e8c5aaebf6dd6c60ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031165,
+            "neighbourhood_id":85927883,
+            "region_id":85672123,
+            "venue_id":169590549
+        }
+    ],
+    "wof:id":169590549,
+    "wof:lastmodified":1449034653,
+    "wof:name":"Mohan Fibre Products Limited",
+    "wof:parent_id":85927883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.034859,28.587196,77.034859,28.587196],
+  "geometry": {"coordinates":[77.034859,28.587196],"type":"Point"}
+}

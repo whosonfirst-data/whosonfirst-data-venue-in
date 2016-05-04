@@ -1,0 +1,62 @@
+{
+  "id": 169579093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.138969,28.591263,77.138969,28.591263",
+    "geom:latitude":28.591263,
+    "geom:longitude":77.138969,
+    "iso:country":"IN",
+    "sg:address":"5/iv, The Mall,",
+    "sg:city":"Ludhiana",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 161 244 2085",
+    "sg:postcode":"141001",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XiJ1QTgR0WFMRzw095vFL_28.591263_77.138969@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e432e44779bd2e9e11542ffb9db8b841",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169579093
+        }
+    ],
+    "wof:id":169579093,
+    "wof:lastmodified":1449033739,
+    "wof:name":"Hlg Trading",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.138969,28.591263,77.138969,28.591263],
+  "geometry": {"coordinates":[77.138969,28.591263],"type":"Point"}
+}

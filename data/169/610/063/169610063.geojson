@@ -1,0 +1,65 @@
+{
+  "id": 169610063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.231712,28.65394,77.231712,28.65394",
+    "geom:latitude":28.65394,
+    "geom:longitude":77.231712,
+    "iso:country":"IN",
+    "sg:address":"104-105, Dharampura, G.t. Road,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 271 2995",
+    "sg:postcode":"201001",
+    "sg:tags":[
+        "lab",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928099,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A7eKYzRleuPahzui8OvvR_28.653940_77.231712@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bb85bb1cfc41c87d64b0440530d10c67",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928099,
+            "region_id":85672123,
+            "venue_id":169610063
+        }
+    ],
+    "wof:id":169610063,
+    "wof:lastmodified":1449035909,
+    "wof:name":"Real Chemicals",
+    "wof:parent_id":85928099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lab",
+        "supply"
+    ]
+},
+  "bbox": [77.231712,28.65394,77.231712,28.65394],
+  "geometry": {"coordinates":[77.231712,28.65394],"type":"Point"}
+}

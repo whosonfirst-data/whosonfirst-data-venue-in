@@ -1,0 +1,67 @@
+{
+  "id": 169577787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.282944,28.46736,77.282944,28.46736",
+    "geom:latitude":28.46736,
+    "geom:longitude":77.282944,
+    "iso:country":"IN",
+    "sg:address":"Street No. 11, Central Town,",
+    "sg:city":"Jalandhar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 181 223 5957",
+    "sg:postcode":"144001",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "sg:website":"http://www.nerolac.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030289,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sc57UTfCbQznpKiNh00tQ_28.467360_77.282944@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1028c2076ae49878ad1ea697f094a578",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030289,
+            "neighbourhood_id":-1,
+            "region_id":85672133,
+            "venue_id":169577787
+        }
+    ],
+    "wof:id":169577787,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Goodlass Nerolac Paints Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.282944,28.46736,77.282944,28.46736],
+  "geometry": {"coordinates":[77.282944,28.46736],"type":"Point"}
+}

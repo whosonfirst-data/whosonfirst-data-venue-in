@@ -1,0 +1,67 @@
+{
+  "id": 169534231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.934563,19.156723,72.934563,19.156723",
+    "geom:latitude":19.156723,
+    "geom:longitude":72.934563,
+    "iso:country":"IN",
+    "sg:address":"3, Lake Road, Bhandup,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2561 1956",
+    "sg:postcode":"400078",
+    "sg:tags":[
+        "equipment",
+        "moving",
+        "earth"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931655,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bjhU9mpj81Zmb5pudAUkA_19.156723_72.934563@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"08e3119cf015290bd48047b51a1709b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931655,
+            "region_id":85672171,
+            "venue_id":169534231
+        }
+    ],
+    "wof:id":169534231,
+    "wof:lastmodified":1449033549,
+    "wof:name":"Sarvodaya Forgings",
+    "wof:parent_id":85931655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "moving",
+        "earth"
+    ]
+},
+  "bbox": [72.934563,19.156723,72.934563,19.156723],
+  "geometry": {"coordinates":[72.934563,19.156723],"type":"Point"}
+}

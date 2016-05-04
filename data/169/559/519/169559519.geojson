@@ -1,0 +1,61 @@
+{
+  "id": 169559519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.120758,28.049892,76.120758,28.049892",
+    "geom:latitude":28.049892,
+    "geom:longitude":76.120758,
+    "iso:country":"IN",
+    "sg:address":"304, Adarsh Nagar,",
+    "sg:city":"Jaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 141 261 1774",
+    "sg:postcode":"302004",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5afOxo7Z0UztpbrYOC7tfw_28.049892_76.120758@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"88885d465865041c1f5a8bd795379a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672133,
+            "venue_id":169559519
+        }
+    ],
+    "wof:id":169559519,
+    "wof:lastmodified":1449035239,
+    "wof:name":"Cm Aromatics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [76.120758,28.049892,76.120758,28.049892],
+  "geometry": {"coordinates":[76.120758,28.049892],"type":"Point"}
+}

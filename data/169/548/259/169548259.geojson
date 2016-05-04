@@ -1,0 +1,63 @@
+{
+  "id": 169548259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.027893,9.857034,78.027893,9.857034",
+    "geom:latitude":9.857034,
+    "geom:longitude":78.027893,
+    "iso:country":"IN",
+    "sg:address":"Madurai Bypass Road,",
+    "sg:city":"Tuticorin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 461 661 2048",
+    "sg:postcode":"628002",
+    "sg:tags":[
+        "copper",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iOpQqynTo13101nFIgF47_9.857034_78.027893@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5293dfa92ae0679d4ecfff563cd969fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169548259
+        }
+    ],
+    "wof:id":169548259,
+    "wof:lastmodified":1449034972,
+    "wof:name":"Sterlite Industries India Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "copper",
+        "product"
+    ]
+},
+  "bbox": [78.027893,9.857034,78.027893,9.857034],
+  "geometry": {"coordinates":[78.027893,9.857034],"type":"Point"}
+}

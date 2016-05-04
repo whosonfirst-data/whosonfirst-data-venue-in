@@ -1,0 +1,65 @@
+{
+  "id": 169550597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.247902,13.132415,80.247902,13.132415",
+    "geom:latitude":13.132415,
+    "geom:longitude":80.247902,
+    "iso:country":"IN",
+    "sg:address":"#117/a, M. G. R. Nagar,",
+    "sg:city":"Vadalur",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 4142 259 448",
+    "sg:postcode":"607303",
+    "sg:tags":[
+        "equipment",
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903945,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nSuN45faKA6GKzPRNJUOD_13.132415_80.247902@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"34bf575667e96b367977952ed35d4810",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903945,
+            "region_id":85672245,
+            "venue_id":169550597
+        }
+    ],
+    "wof:id":169550597,
+    "wof:lastmodified":1449034478,
+    "wof:name":"Sky Networks",
+    "wof:parent_id":85903945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telecommunication"
+    ]
+},
+  "bbox": [80.247902,13.132415,80.247902,13.132415],
+  "geometry": {"coordinates":[80.247902,13.132415],"type":"Point"}
+}

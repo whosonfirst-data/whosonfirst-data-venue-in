@@ -1,0 +1,63 @@
+{
+  "id": 169581145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.202614,28.675169,77.202614,28.675169",
+    "geom:latitude":28.675169,
+    "geom:longitude":77.202614,
+    "iso:country":"IN",
+    "sg:address":"5539/23, Basti Harphool Singh, Near Sadar Bazar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2361 8354",
+    "sg:postcode":"110006",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903953,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KQVyNHDBdbteWSiLEofcW_28.675169_77.202614@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ad6238ae637458bf22a87f5fde8cc2c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85903953,
+            "region_id":85672123,
+            "venue_id":169581145
+        }
+    ],
+    "wof:id":169581145,
+    "wof:lastmodified":1449033379,
+    "wof:name":"K. C. Jain Brothers",
+    "wof:parent_id":85903953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.202614,28.675169,77.202614,28.675169],
+  "geometry": {"coordinates":[77.202614,28.675169],"type":"Point"}
+}

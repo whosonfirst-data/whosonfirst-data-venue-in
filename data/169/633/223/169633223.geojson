@@ -1,0 +1,65 @@
+{
+  "id": 169633223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.211311,28.645542,77.211311,28.645542",
+    "geom:latitude":28.645542,
+    "geom:longitude":77.211311,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 57/i, 1st Phase, G.i.d.c.,",
+    "sg:city":"Vapi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 260 242 2701",
+    "sg:postcode":"396195",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903937,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j0Ebo22oGLz9AFjoAPKwC_28.645542_77.211311@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0e3eb69cf2e70b47a0ba9cf03c4820db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903937,
+            "region_id":85672123,
+            "venue_id":169633223
+        }
+    ],
+    "wof:id":169633223,
+    "wof:lastmodified":1449035937,
+    "wof:name":"Swastik Intermediates Pvt. Ltd.",
+    "wof:parent_id":85903937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [77.211311,28.645542,77.211311,28.645542],
+  "geometry": {"coordinates":[77.211311,28.645542],"type":"Point"}
+}

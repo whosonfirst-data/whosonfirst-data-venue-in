@@ -1,0 +1,58 @@
+{
+  "id": 169653871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.628558,12.933635,77.628558,12.933635",
+    "geom:latitude":12.933635,
+    "geom:longitude":77.628558,
+    "iso:country":"IN",
+    "sg:address":"486, 12th Main 4th Block Koramangla",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"Bangalore",
+    "sg:website":"http://easysquarefeet.com/esfweb/app/homeAction?event=showHome",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931041,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7k3TAHFkEmQSCtjYh1qvyc_12.933635_77.628558@1308163242"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6f1a9543e545561b1ec3f7c535776b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931041,
+            "region_id":85672165,
+            "venue_id":169653871
+        }
+    ],
+    "wof:id":169653871,
+    "wof:lastmodified":1449032917,
+    "wof:name":"Easy Square Feet",
+    "wof:parent_id":85931041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.628558,12.933635,77.628558,12.933635],
+  "geometry": {"coordinates":[77.628558,12.933635],"type":"Point"}
+}

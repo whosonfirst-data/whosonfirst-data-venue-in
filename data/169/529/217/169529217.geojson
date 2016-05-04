@@ -1,0 +1,69 @@
+{
+  "id": 169529217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.822823,19.006264,72.822823,19.006264",
+    "geom:latitude":19.006264,
+    "geom:longitude":72.822823,
+    "iso:country":"IN",
+    "sg:address":"130, Pandurang Marg, Worli,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2498 7252",
+    "sg:postcode":"400018",
+    "sg:tags":[
+        "equipment",
+        "cctv",
+        "system",
+        "surveillance"
+    ],
+    "sg:website":"http://www.sibt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903999,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PGZYMRJ633IsBQ5kkVv16_19.006264_72.822823@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0924c70f3b0804dd22f2dec82fce6f8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903999,
+            "region_id":85672171,
+            "venue_id":169529217
+        }
+    ],
+    "wof:id":169529217,
+    "wof:lastmodified":1449034115,
+    "wof:name":"Siemens Building Technologies Pvt. Ltd.",
+    "wof:parent_id":85903999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "cctv",
+        "system",
+        "surveillance"
+    ]
+},
+  "bbox": [72.822823,19.006264,72.822823,19.006264],
+  "geometry": {"coordinates":[72.822823,19.006264],"type":"Point"}
+}

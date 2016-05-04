@@ -1,0 +1,62 @@
+{
+  "id": 169527217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.832237,18.950211,72.832237,18.950211",
+    "geom:latitude":18.950211,
+    "geom:longitude":72.832237,
+    "iso:country":"IN",
+    "sg:address":"7, Sutar Chawl, 3rd Floor,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2344 2075",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "balloon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sfikl879JVJMIjxKwKZYd_18.950211_72.832237@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"21e4c31ba02a987eeae5394f3d16f862",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169527217
+        }
+    ],
+    "wof:id":169527217,
+    "wof:lastmodified":1449035279,
+    "wof:name":"Raj Sagar Exports",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "balloon"
+    ]
+},
+  "bbox": [72.832237,18.950211,72.832237,18.950211],
+  "geometry": {"coordinates":[72.832237,18.950211],"type":"Point"}
+}

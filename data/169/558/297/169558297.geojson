@@ -1,0 +1,63 @@
+{
+  "id": 169558297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.168167,28.667292,77.168167,28.667292",
+    "geom:latitude":28.667292,
+    "geom:longitude":77.168167,
+    "iso:country":"IN",
+    "sg:address":"5c/26, New Rohtak Road,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2871 4685",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928115,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q8ApBxr5Tj5Dke8L8igdT_28.667292_77.168167@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"45caafa14160c32d2ee70d60295540c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928115,
+            "region_id":85672123,
+            "venue_id":169558297
+        }
+    ],
+    "wof:id":169558297,
+    "wof:lastmodified":1449033581,
+    "wof:name":"Billsons India",
+    "wof:parent_id":85928115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.168167,28.667292,77.168167,28.667292],
+  "geometry": {"coordinates":[77.168167,28.667292],"type":"Point"}
+}

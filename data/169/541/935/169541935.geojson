@@ -1,0 +1,65 @@
+{
+  "id": 169541935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.609077,12.981288,77.609077,12.981288",
+    "geom:latitude":12.981288,
+    "geom:longitude":77.609077,
+    "iso:country":"IN",
+    "sg:address":"129, Dispensary Road, N.c. Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2555 0263",
+    "sg:postcode":"560001",
+    "sg:tags":[
+        "seasoning",
+        "spice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930953,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pAk1GzsoaGKyqIXKrpr6G_12.981288_77.609077@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b94cd482e5f8c4eab88c400f0eb622aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930953,
+            "region_id":85672165,
+            "venue_id":169541935
+        }
+    ],
+    "wof:id":169541935,
+    "wof:lastmodified":1449033043,
+    "wof:name":"Vasantha Traders",
+    "wof:parent_id":85930953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seasoning",
+        "spice"
+    ]
+},
+  "bbox": [77.609077,12.981288,77.609077,12.981288],
+  "geometry": {"coordinates":[77.609077,12.981288],"type":"Point"}
+}

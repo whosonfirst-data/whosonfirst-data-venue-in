@@ -1,0 +1,63 @@
+{
+  "id": 169580221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.089539,28.638338,77.089539,28.638338",
+    "geom:latitude":28.638338,
+    "geom:longitude":77.089539,
+    "iso:country":"IN",
+    "sg:address":"Wz-1a, Hind Nagar, Chowkhandi Road, Tilak Nagar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 3962 1455",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.jkmasterbatches.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928581,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bBpDzSLbdPr96GJkPJwY1_28.638338_77.089539@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0c817b107dcf4f255093d04330a42da0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928581,
+            "region_id":85672123,
+            "venue_id":169580221
+        }
+    ],
+    "wof:id":169580221,
+    "wof:lastmodified":1449034916,
+    "wof:name":"J. K. P. Masterbatch Pvt. Ltd.",
+    "wof:parent_id":85928581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.089539,28.638338,77.089539,28.638338],
+  "geometry": {"coordinates":[77.089539,28.638338],"type":"Point"}
+}

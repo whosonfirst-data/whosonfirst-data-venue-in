@@ -1,0 +1,64 @@
+{
+  "id": 169587901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.2957,9.961592,76.2957,9.961592",
+    "geom:latitude":9.961592,
+    "geom:longitude":76.2957,
+    "iso:country":"IN",
+    "sg:address":"G-45, Panampilly Nagar,",
+    "sg:city":"Kochi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 484 232 3032",
+    "sg:postcode":"682036",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "sg:website":"http://www.masindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783459,
+        85632469,
+        102030301,
+        85672149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q1HPkphizI0mpJ4UvRUAl_9.961592_76.295700@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e4f18b21fb5cd8caa4d47618abf6ced8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030301,
+            "neighbourhood_id":85783459,
+            "region_id":85672149,
+            "venue_id":169587901
+        }
+    ],
+    "wof:id":169587901,
+    "wof:lastmodified":1449033820,
+    "wof:name":"Mas Enterprises Limited",
+    "wof:parent_id":85783459,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [76.2957,9.961592,76.2957,9.961592],
+  "geometry": {"coordinates":[76.2957,9.961592],"type":"Point"}
+}

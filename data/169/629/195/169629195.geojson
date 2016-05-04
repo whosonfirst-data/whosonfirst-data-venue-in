@@ -1,0 +1,65 @@
+{
+  "id": 169629195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.909378,19.043848,72.909378,19.043848",
+    "geom:latitude":19.043848,
+    "geom:longitude":72.909378,
+    "iso:country":"IN",
+    "sg:address":"742-c, Pace City-ii, Sector-37,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 551 1146",
+    "sg:postcode":"122001",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931557,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70qfzkfF7qmeyXnpwlRV1p_19.043848_72.909378@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fd3ac9e9745c5d0c73ac2badde3d45ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931557,
+            "region_id":85672171,
+            "venue_id":169629195
+        }
+    ],
+    "wof:id":169629195,
+    "wof:lastmodified":1449035185,
+    "wof:name":"Star Light Polycoat",
+    "wof:parent_id":85931557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [72.909378,19.043848,72.909378,19.043848],
+  "geometry": {"coordinates":[72.909378,19.043848],"type":"Point"}
+}

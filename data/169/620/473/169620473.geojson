@@ -1,0 +1,64 @@
+{
+  "id": 169620473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.446243,17.436775,78.446243,17.436775",
+    "geom:latitude":17.436775,
+    "geom:longitude":78.446243,
+    "iso:country":"IN",
+    "sg:address":"# 705, Aditya Trade Centre, Ameerpet,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 6684 4664",
+    "sg:postcode":"500038",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "sg:website":"http://www.shodhana.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930753,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ojWt4AoLOWaQtgzeLIjLl_17.436775_78.446243@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8f9fd94f99273230ba82c395f217c965",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930753,
+            "region_id":85672141,
+            "venue_id":169620473
+        }
+    ],
+    "wof:id":169620473,
+    "wof:lastmodified":1449035674,
+    "wof:name":"Shodhana Laboratories Limited",
+    "wof:parent_id":85930753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [78.446243,17.436775,78.446243,17.436775],
+  "geometry": {"coordinates":[78.446243,17.436775],"type":"Point"}
+}

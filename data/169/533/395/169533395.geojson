@@ -1,0 +1,63 @@
+{
+  "id": 169533395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831406,18.952148,72.831406,18.952148",
+    "geom:latitude":18.952148,
+    "geom:longitude":72.831406,
+    "iso:country":"IN",
+    "sg:address":"245, Mumbadavi Road, Zaveri Bazar,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2342 6331",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "diamond"
+    ],
+    "sg:website":"http://www.kdzsons.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UH58chLHJg9kXR8ez9UfS_18.952148_72.831406@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"eb12f31f7dac9338237b31d372625e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169533395
+        }
+    ],
+    "wof:id":169533395,
+    "wof:lastmodified":1449032645,
+    "wof:name":"Keshavlal Dalpatbhai Zaveri &  Sons (jewellers)",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.831406,18.952148,72.831406,18.952148],
+  "geometry": {"coordinates":[72.831406,18.952148],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 169582391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.455856,28.643034,77.455856,28.643034",
+    "geom:latitude":28.643034,
+    "geom:longitude":77.455856,
+    "iso:country":"IN",
+    "sg:address":"C-172, Bulland Shahar Road, Ind. Area,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 270 0951",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xVQxewbihoQRclbJL7MnX_28.643034_77.455856@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2e9df3bf3ad7eeea107fb531fec39aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169582391
+        }
+    ],
+    "wof:id":169582391,
+    "wof:lastmodified":1449034465,
+    "wof:name":"Kashyap Organics Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.455856,28.643034,77.455856,28.643034],
+  "geometry": {"coordinates":[77.455856,28.643034],"type":"Point"}
+}

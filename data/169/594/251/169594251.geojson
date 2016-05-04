@@ -1,0 +1,64 @@
+{
+  "id": 169594251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831146,18.947405,72.831146,18.947405",
+    "geom:latitude":18.947405,
+    "geom:longitude":72.831146,
+    "iso:country":"IN",
+    "sg:address":"28, Vithaldas Road, 8, Devkaran Mansion,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6631 3162",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.nilechemicals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jD3wN6qdyyvotsOsRLpvz_18.947405_72.831146@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c9256d1ad469d18e6801e00964e1adc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169594251
+        }
+    ],
+    "wof:id":169594251,
+    "wof:lastmodified":1449033163,
+    "wof:name":"Nile Chemicals",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.831146,18.947405,72.831146,18.947405],
+  "geometry": {"coordinates":[72.831146,18.947405],"type":"Point"}
+}

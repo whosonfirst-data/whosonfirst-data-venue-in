@@ -1,0 +1,63 @@
+{
+  "id": 169584419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.568298,12.923807,77.568298,12.923807",
+    "geom:latitude":12.923807,
+    "geom:longitude":77.568298,
+    "iso:country":"IN",
+    "sg:address":"264, G.i.d.c., Phase-2, Dediyasan,",
+    "sg:city":"Mehsana",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2762 224 359",
+    "sg:postcode":"384002",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930845,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0L7tfWAVW2p6ZnjWmQtzdz_12.923807_77.568298@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"90782b53bb9f94544210b4de97a2b124",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930845,
+            "region_id":85672165,
+            "venue_id":169584419
+        }
+    ],
+    "wof:id":169584419,
+    "wof:lastmodified":1449033039,
+    "wof:name":"Laxmi Chemicals",
+    "wof:parent_id":85930845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [77.568298,12.923807,77.568298,12.923807],
+  "geometry": {"coordinates":[77.568298,12.923807],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169599359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.23333,28.571833,77.23333,28.571833",
+    "geom:latitude":28.571833,
+    "geom:longitude":77.23333,
+    "iso:country":"IN",
+    "sg:address":"A-403, Defence Colony,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2433 4333",
+    "sg:postcode":"110024",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927997,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IyudmZ9ks0a9RNYvTF2KG_28.571833_77.233330@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"24c11b438a763ff82d1ad85c62abea0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927997,
+            "region_id":85672123,
+            "venue_id":169599359
+        }
+    ],
+    "wof:id":169599359,
+    "wof:lastmodified":1449034205,
+    "wof:name":"Pasricha Fertilizer",
+    "wof:parent_id":85927997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.23333,28.571833,77.23333,28.571833],
+  "geometry": {"coordinates":[77.23333,28.571833],"type":"Point"}
+}

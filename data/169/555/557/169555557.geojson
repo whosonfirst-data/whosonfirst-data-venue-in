@@ -1,0 +1,53 @@
+{
+  "id": 169555557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.601295,12.954185,77.601295,12.954185",
+    "geom:latitude":12.954185,
+    "geom:longitude":77.601295,
+    "iso:country":"IN",
+    "sg:address":"Shanti Nagar",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 802212110",
+    "sg:postcode":"560027",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930939,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DJQL8sISon2rE5RSrGVAH_12.954185_77.601295@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1c42fc50d7ba017b9489f60401bfa7b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930939,
+            "region_id":85672165,
+            "venue_id":169555557
+        }
+    ],
+    "wof:id":169555557,
+    "wof:lastmodified":1449035496,
+    "wof:name":"Finesse",
+    "wof:parent_id":85930939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.601295,12.954185,77.601295,12.954185],
+  "geometry": {"coordinates":[77.601295,12.954185],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169579497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.350899,26.461264,80.350899,26.461264",
+    "geom:latitude":26.461264,
+    "geom:longitude":80.350899,
+    "iso:country":"IN",
+    "sg:address":"49/29, Genernal Ganj,",
+    "sg:city":"Kanpur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 512 231 0084",
+    "sg:tags":[
+        "chemical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903831,
+        85632469,
+        102029855,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U9rs6U2WWlH0q6FPytdit_26.461264_80.350899@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a33bdd0e1b9861df69607f30da0e126e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029855,
+            "neighbourhood_id":85903831,
+            "region_id":85672205,
+            "venue_id":169579497
+        }
+    ],
+    "wof:id":169579497,
+    "wof:lastmodified":1449033742,
+    "wof:name":"India Teading Corportion",
+    "wof:parent_id":85903831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical"
+    ]
+},
+  "bbox": [80.350899,26.461264,80.350899,26.461264],
+  "geometry": {"coordinates":[80.350899,26.461264],"type":"Point"}
+}

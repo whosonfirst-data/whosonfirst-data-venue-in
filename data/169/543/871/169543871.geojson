@@ -1,0 +1,63 @@
+{
+  "id": 169543871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.599953,12.911668,77.599953,12.911668",
+    "geom:latitude":12.911668,
+    "geom:longitude":77.599953,
+    "iso:country":"IN",
+    "sg:address":"#27, Btm Layout, Bannerghatta Main Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2678 4908",
+    "sg:postcode":"560076",
+    "sg:tags":[
+        "t-shirt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931061,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JgNsLyAAyUou6WWp1akU6_12.911668_77.599953@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7825580f4455ea17fbf0e62ac1bd4297",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931061,
+            "region_id":85672165,
+            "venue_id":169543871
+        }
+    ],
+    "wof:id":169543871,
+    "wof:lastmodified":1449033334,
+    "wof:name":"Yetticate Exports",
+    "wof:parent_id":85931061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "t-shirt"
+    ]
+},
+  "bbox": [77.599953,12.911668,77.599953,12.911668],
+  "geometry": {"coordinates":[77.599953,12.911668],"type":"Point"}
+}

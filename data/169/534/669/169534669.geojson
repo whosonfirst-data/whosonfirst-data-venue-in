@@ -1,0 +1,67 @@
+{
+  "id": 169534669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.832214,19.165554,72.832214,19.165554",
+    "geom:latitude":19.165554,
+    "geom:longitude":72.832214,
+    "iso:country":"IN",
+    "sg:address":"G11/14, Jankalyan, Bangur Nagar, Goregaon (wes),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2872 2583",
+    "sg:postcode":"400090",
+    "sg:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ufmoQlGKY1TgsZdYY2BC8_19.165554_72.832214@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9563c3a80f54f980a8bc0d8fe2445e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169534669
+        }
+    ],
+    "wof:id":169534669,
+    "wof:lastmodified":1449033547,
+    "wof:name":"Arco Engineers And Fabricators",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ]
+},
+  "bbox": [72.832214,19.165554,72.832214,19.165554],
+  "geometry": {"coordinates":[72.832214,19.165554],"type":"Point"}
+}

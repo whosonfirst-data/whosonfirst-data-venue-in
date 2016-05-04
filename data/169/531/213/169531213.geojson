@@ -1,0 +1,63 @@
+{
+  "id": 169531213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.887871,19.051439,72.887871,19.051439",
+    "geom:latitude":19.051439,
+    "geom:longitude":72.887871,
+    "iso:country":"IN",
+    "sg:address":"39a, Sindhi Society, Chembur (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5576 1161",
+    "sg:postcode":"400071",
+    "sg:tags":[
+        "corporate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903847,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IdwUrUueeJe1f9Tf9bpTW_19.051439_72.887871@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"756760e117f0c90e67d1e7e38604b9e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903847,
+            "region_id":85672171,
+            "venue_id":169531213
+        }
+    ],
+    "wof:id":169531213,
+    "wof:lastmodified":1449033472,
+    "wof:name":"Super Gifts",
+    "wof:parent_id":85903847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corporate"
+    ]
+},
+  "bbox": [72.887871,19.051439,72.887871,19.051439],
+  "geometry": {"coordinates":[72.887871,19.051439],"type":"Point"}
+}

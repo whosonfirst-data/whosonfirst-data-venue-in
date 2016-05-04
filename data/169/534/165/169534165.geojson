@@ -1,0 +1,64 @@
+{
+  "id": 169534165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833763,18.928326,72.833763,18.928326",
+    "geom:latitude":18.928326,
+    "geom:longitude":72.833763,
+    "iso:country":"IN",
+    "sg:address":"408, Apeejay Bldg., 4th Floor, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2282 4084",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08nqSJTzi2v7G6KpFDB4S6_18.928326_72.833763@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"487d89ff242137bd148aebeb2b332669",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169534165
+        }
+    ],
+    "wof:id":169534165,
+    "wof:lastmodified":1449033552,
+    "wof:name":"Sumeeka Exports & Imports (p) Ltd.",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [72.833763,18.928326,72.833763,18.928326],
+  "geometry": {"coordinates":[72.833763,18.928326],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169532367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.830498,18.949505,72.830498,18.949505",
+    "geom:latitude":18.949505,
+    "geom:longitude":72.830498,
+    "iso:country":"IN",
+    "sg:address":"276a/278, Zaveri Bazar,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2240 5711",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SaCpHMZrzQUnPyl6uiPSf_18.949505_72.830498@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"24d37bd0bb48c135304974b7fa6b2bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169532367
+        }
+    ],
+    "wof:id":169532367,
+    "wof:lastmodified":1449033795,
+    "wof:name":"Mehta & Sons",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.830498,18.949505,72.830498,18.949505],
+  "geometry": {"coordinates":[72.830498,18.949505],"type":"Point"}
+}

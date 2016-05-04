@@ -1,0 +1,75 @@
+{
+  "id": 169546453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.59082,12.96392,77.59082,12.96392",
+    "geom:latitude":12.96392,
+    "geom:longitude":77.59082,
+    "iso:country":"IN",
+    "sg:address":"5, M.g.r. Nagar, 8th Street, P. N. Orad,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 247 9693",
+    "sg:postcode":"641602",
+    "sg:tags":[
+        "garment",
+        "childrenwear"
+    ],
+    "sg:website":"http://www.glassy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930935,
+        85632469,
+        102030819,
+        85672165,
+        85930903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kwp559WeV21bF8PjXgJUI_12.963920_77.590820@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"17b69ba10a5f1f8a521150dafff4fd94",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930935,
+            "region_id":85672165,
+            "venue_id":169546453
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169546453
+        }
+    ],
+    "wof:id":169546453,
+    "wof:lastmodified":1449032680,
+    "wof:name":"Glassy Garments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "childrenwear"
+    ]
+},
+  "bbox": [77.59082,12.96392,77.59082,12.96392],
+  "geometry": {"coordinates":[77.59082,12.96392],"type":"Point"}
+}

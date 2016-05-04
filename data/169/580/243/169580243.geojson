@@ -1,0 +1,67 @@
+{
+  "id": 169580243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.830498,18.949505,72.830498,18.949505",
+    "geom:latitude":18.949505,
+    "geom:longitude":72.830498,
+    "iso:country":"IN",
+    "sg:address":"J.m.c. House, 2nd Floor, Zaveri Bazar,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2342 4068",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R8aX2TzHKr0J1cwVJVeK2_18.949505_72.830498@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"24d37bd0bb48c135304974b7fa6b2bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169580243
+        }
+    ],
+    "wof:id":169580243,
+    "wof:lastmodified":1449034914,
+    "wof:name":"J. M. C. Exports",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [72.830498,18.949505,72.830498,18.949505],
+  "geometry": {"coordinates":[72.830498,18.949505],"type":"Point"}
+}

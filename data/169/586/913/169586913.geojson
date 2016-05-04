@@ -1,0 +1,65 @@
+{
+  "id": 169586913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.479225,34.312965,73.479225,34.312965",
+    "geom:latitude":34.312965,
+    "geom:longitude":73.479225,
+    "iso:country":"IN",
+    "sg:address":"B-67, N.d.s.e-ii,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2625 6154",
+    "sg:postcode":"110049",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632427,
+        85675735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HVdodN1kcUZrdLHnap3VH_34.312965_73.479225@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fa2623e4fecc52d642cb7d2c0aaf6b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632427,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85675735,
+            "venue_id":169586913
+        }
+    ],
+    "wof:id":169586913,
+    "wof:lastmodified":1449035575,
+    "wof:name":"Malviya Chemicals & Pharmaceuticals Private Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [73.479225,34.312965,73.479225,34.312965],
+  "geometry": {"coordinates":[73.479225,34.312965],"type":"Point"}
+}

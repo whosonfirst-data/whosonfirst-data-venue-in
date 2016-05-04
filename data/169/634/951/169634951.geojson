@@ -1,0 +1,63 @@
+{
+  "id": 169634951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.349007,22.51071,88.349007,22.51071",
+    "geom:latitude":22.51071,
+    "geom:longitude":88.349007,
+    "iso:country":"IN",
+    "sg:address":"38, Lake Temple Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2248 2947",
+    "sg:postcode":"700029",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85932067,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oV2SMDhmCXpEiSTSYJ5IG_22.510710_88.349007@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"76d7100aa28903cba27acb46f94e8e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85932067,
+            "region_id":85672219,
+            "venue_id":169634951
+        }
+    ],
+    "wof:id":169634951,
+    "wof:lastmodified":1449034256,
+    "wof:name":"Tejpur Vanijaya (calcutta) Ltd.",
+    "wof:parent_id":85932067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.349007,22.51071,88.349007,22.51071],
+  "geometry": {"coordinates":[88.349007,22.51071],"type":"Point"}
+}

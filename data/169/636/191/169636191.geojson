@@ -1,0 +1,64 @@
+{
+  "id": 169636191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.953583,11.01152,76.953583,11.01152",
+    "geom:latitude":11.01152,
+    "geom:longitude":76.953583,
+    "iso:country":"IN",
+    "sg:address":"Sudarsanam, 8, Ponnurangam Road, R.s. Puram,",
+    "sg:city":"Coimbatore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 422 254 1312",
+    "sg:postcode":"641002",
+    "sg:tags":[
+        "agrochemicals"
+    ],
+    "sg:website":"http://www.scientificfertiliser.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783699,
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C7kYdvchVwJ82caNcqJeE_11.011520_76.953583@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fcbf3c9825c96c78ad3c4e11f42930a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":85783699,
+            "region_id":85672245,
+            "venue_id":169636191
+        }
+    ],
+    "wof:id":169636191,
+    "wof:lastmodified":1449033987,
+    "wof:name":"The Scientific Fertiliser Company Pvt. Ltd.",
+    "wof:parent_id":85783699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agrochemicals"
+    ]
+},
+  "bbox": [76.953583,11.01152,76.953583,11.01152],
+  "geometry": {"coordinates":[76.953583,11.01152],"type":"Point"}
+}

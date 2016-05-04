@@ -1,0 +1,65 @@
+{
+  "id": 169600389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.856857,19.157955,72.856857,19.157955",
+    "geom:latitude":19.157955,
+    "geom:longitude":72.856857,
+    "iso:country":"IN",
+    "sg:address":"227, Nigos Building, Cama Industrial Estate, Goregaon (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2685 2554",
+    "sg:postcode":"400063",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931507,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AfA1AdrPuhKhjbEvgl69n_19.157955_72.856857@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5c8092d3e6e27934f0c28bcd7c96d172",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931507,
+            "region_id":85672171,
+            "venue_id":169600389
+        }
+    ],
+    "wof:id":169600389,
+    "wof:lastmodified":1449032971,
+    "wof:name":"Perfect Coats",
+    "wof:parent_id":85931507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [72.856857,19.157955,72.856857,19.157955],
+  "geometry": {"coordinates":[72.856857,19.157955],"type":"Point"}
+}

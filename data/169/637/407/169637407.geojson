@@ -1,0 +1,62 @@
+{
+  "id": 169637407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.173683,28.690132,77.173683,28.690132",
+    "geom:latitude":28.690132,
+    "geom:longitude":77.173683,
+    "iso:country":"IN",
+    "sg:address":"B-29/1, Wazirpur Ind. Area,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2737 3020",
+    "sg:postcode":"110052",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wSWD3EhqshPrGi4M8XE3M_28.690132_77.173683@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"50f37253691de9c5ee4a5a8da7d7469d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169637407
+        }
+    ],
+    "wof:id":169637407,
+    "wof:lastmodified":1449032690,
+    "wof:name":"Transport Equipment",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.173683,28.690132,77.173683,28.690132],
+  "geometry": {"coordinates":[77.173683,28.690132],"type":"Point"}
+}

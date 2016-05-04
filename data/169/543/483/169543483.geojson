@@ -1,0 +1,64 @@
+{
+  "id": 169543483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.513618,12.987549,77.513618,12.987549",
+    "geom:latitude":12.987549,
+    "geom:longitude":77.513618,
+    "iso:country":"IN",
+    "sg:address":"53/1, Kottigepalya, Magadi Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2348 3773",
+    "sg:postcode":"560091",
+    "sg:tags":[
+        "plank",
+        "timber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59SFJRJl1en0xK9dewn1uI_12.987549_77.513618@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"432ebb58ec3717ce89be14015782409d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169543483
+        }
+    ],
+    "wof:id":169543483,
+    "wof:lastmodified":1449033336,
+    "wof:name":"Kaiser Spools Private Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plank",
+        "timber"
+    ]
+},
+  "bbox": [77.513618,12.987549,77.513618,12.987549],
+  "geometry": {"coordinates":[77.513618,12.987549],"type":"Point"}
+}

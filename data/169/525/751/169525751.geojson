@@ -1,0 +1,70 @@
+{
+  "id": 169525751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.828773,18.947739,72.828773,18.947739",
+    "geom:latitude":18.947739,
+    "geom:longitude":72.828773,
+    "iso:country":"IN",
+    "sg:address":"60/66, Babu Genu Road, Kalbadevi Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2207 7251",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ],
+    "sg:website":"http://www.sunnyindia.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24ghrJxQkTaocz9pUtYL0C_18.947739_72.828773@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8f692ffdf9c31ccb4f390e0e3feed9cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169525751
+        }
+    ],
+    "wof:id":169525751,
+    "wof:lastmodified":1449035273,
+    "wof:name":"Sunny Exports",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ]
+},
+  "bbox": [72.828773,18.947739,72.828773,18.947739],
+  "geometry": {"coordinates":[72.828773,18.947739],"type":"Point"}
+}

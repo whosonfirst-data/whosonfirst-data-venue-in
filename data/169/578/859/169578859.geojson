@@ -1,0 +1,67 @@
+{
+  "id": 169578859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.222855,28.660044,77.222855,28.660044",
+    "geom:latitude":28.660044,
+    "geom:longitude":77.222855,
+    "iso:country":"IN",
+    "sg:address":"76, C.p. Jank Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2386 3296",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928109,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sBUDFrQsG3I551sXQ8LjZ_28.660044_77.222855@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"83c75b783b6d047076f716c954cbedea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928109,
+            "region_id":85672123,
+            "venue_id":169578859
+        }
+    ],
+    "wof:id":169578859,
+    "wof:lastmodified":1449033521,
+    "wof:name":"Hindustan Colour & Chemical Industry",
+    "wof:parent_id":85928109,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.222855,28.660044,77.222855,28.660044],
+  "geometry": {"coordinates":[77.222855,28.660044],"type":"Point"}
+}

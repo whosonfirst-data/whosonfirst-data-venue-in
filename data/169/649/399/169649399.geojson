@@ -1,0 +1,71 @@
+{
+  "id": 169649399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.588614,13.077409,77.588614,13.077409",
+    "geom:latitude":13.077409,
+    "geom:longitude":77.588614,
+    "iso:country":"IN",
+    "sg:address":"#1300, 13th Cross Indiranagar - Stage 2",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560038",
+    "sg:tags":[
+        "web-services",
+        "news-aggregator",
+        "vamooz",
+        "advertising-technology",
+        "web-design"
+    ],
+    "sg:website":"http://4am.co.in/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927611,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NneU5Kp0aVnbKsx9BZIjc_13.077409_77.588614@1308163239"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6eae2e6f474602e06ab583c1a330190f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85927611,
+            "region_id":85672165,
+            "venue_id":169649399
+        }
+    ],
+    "wof:id":169649399,
+    "wof:lastmodified":1449034941,
+    "wof:name":"4am Design and Technology Labs",
+    "wof:parent_id":85927611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web-services",
+        "news-aggregator",
+        "vamooz",
+        "advertising-technology",
+        "web-design"
+    ]
+},
+  "bbox": [77.588614,13.077409,77.588614,13.077409],
+  "geometry": {"coordinates":[77.588614,13.077409],"type":"Point"}
+}

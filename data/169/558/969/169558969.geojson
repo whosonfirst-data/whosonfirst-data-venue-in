@@ -1,0 +1,63 @@
+{
+  "id": 169558969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.683052,11.402356,76.683052,11.402356",
+    "geom:latitude":11.402356,
+    "geom:longitude":76.683052,
+    "iso:country":"IN",
+    "sg:address":"18-b, Lake Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2466 3865",
+    "sg:postcode":"700029",
+    "sg:tags":[
+        "wax"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934397,
+        85632469,
+        102028381,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D8TJyUne6EFFwIznFkcsF_11.402356_76.683052@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7ad9544e9ba84e05a8e1924bacadeb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028381,
+            "neighbourhood_id":85934397,
+            "region_id":85672245,
+            "venue_id":169558969
+        }
+    ],
+    "wof:id":169558969,
+    "wof:lastmodified":1449033581,
+    "wof:name":"Chem Impex Corporation Private Limited",
+    "wof:parent_id":85934397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [76.683052,11.402356,76.683052,11.402356],
+  "geometry": {"coordinates":[76.683052,11.402356],"type":"Point"}
+}

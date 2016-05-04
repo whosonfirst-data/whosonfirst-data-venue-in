@@ -1,0 +1,53 @@
+{
+  "id": 169570433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.249786,13.048869,80.249786,13.048869",
+    "geom:latitude":13.048869,
+    "geom:longitude":80.249786,
+    "iso:country":"IN",
+    "sg:address":"Mount Road",
+    "sg:city":"Chennai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2846 0283",
+    "sg:postcode":"600002",
+    "sg:province":"Tamil Nadu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903959,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UeMV7rWtTCyBDNerZNcf3_13.048869_80.249786@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2cf79e248d696417476bb29f946fd761",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903959,
+            "region_id":85672245,
+            "venue_id":169570433
+        }
+    ],
+    "wof:id":169570433,
+    "wof:lastmodified":1449034645,
+    "wof:name":"Neptune Refrigeration Co Pvt Ltd",
+    "wof:parent_id":85903959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.249786,13.048869,80.249786,13.048869],
+  "geometry": {"coordinates":[80.249786,13.048869],"type":"Point"}
+}

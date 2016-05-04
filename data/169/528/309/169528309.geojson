@@ -1,0 +1,65 @@
+{
+  "id": 169528309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.835846,18.95343,72.835846,18.95343",
+    "geom:latitude":18.95343,
+    "geom:longitude":72.835846,
+    "iso:country":"IN",
+    "sg:address":"29/31, K.j. Building, 2nd Floor, R. No. 14, Khadak Street, Masjid Bunder Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2345 5816",
+    "sg:postcode":"400009",
+    "sg:tags":[
+        "hardware",
+        "builder"
+    ],
+    "sg:website":"http://www.saifee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CA0bajED7vcsgSiS31SQO_18.953430_72.835846@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"731ab8e1aa64d22d3ebd1710aa8295ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169528309
+        }
+    ],
+    "wof:id":169528309,
+    "wof:lastmodified":1449033569,
+    "wof:name":"Saifee Hardware And Tools Company",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware",
+        "builder"
+    ]
+},
+  "bbox": [72.835846,18.95343,72.835846,18.95343],
+  "geometry": {"coordinates":[72.835846,18.95343],"type":"Point"}
+}

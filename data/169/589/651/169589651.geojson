@@ -1,0 +1,62 @@
+{
+  "id": 169589651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.35672,10.107749,76.35672,10.107749",
+    "geom:latitude":10.107749,
+    "geom:longitude":76.35672,
+    "iso:country":"IN",
+    "sg:address":"2, Railway Station Road,",
+    "sg:city":"Mettupalayam",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 4254 223 074",
+    "sg:postcode":"641301",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031121,
+        85672149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5luZM7oJXdpSYnRVjoDONl_10.107749_76.356720@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"269f98735fc17140498ab3e7b7f616d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031121,
+            "neighbourhood_id":-1,
+            "region_id":85672149,
+            "venue_id":169589651
+        }
+    ],
+    "wof:id":169589651,
+    "wof:lastmodified":1449034447,
+    "wof:name":"Mettupalayam Mills And General Trades P Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [76.35672,10.107749,76.35672,10.107749],
+  "geometry": {"coordinates":[76.35672,10.107749],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169528367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.938057,19.163015,72.938057,19.163015",
+    "geom:latitude":19.163015,
+    "geom:longitude":72.938057,
+    "iso:country":"IN",
+    "sg:address":"Jalaram Park, L.b.s. Marg, Near Bhandup Sonapur, Bhandup (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2591 1142",
+    "sg:postcode":"400078",
+    "sg:tags":[
+        "building",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931655,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VdhJpKQRmmS9s0Ir8t421_19.163015_72.938057@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9ae7adbf414a6165a9b6a9b4c8afa59e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931655,
+            "region_id":85672171,
+            "venue_id":169528367
+        }
+    ],
+    "wof:id":169528367,
+    "wof:lastmodified":1449033569,
+    "wof:name":"Jalaram Jagruti",
+    "wof:parent_id":85931655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "supply"
+    ]
+},
+  "bbox": [72.938057,19.163015,72.938057,19.163015],
+  "geometry": {"coordinates":[72.938057,19.163015],"type":"Point"}
+}

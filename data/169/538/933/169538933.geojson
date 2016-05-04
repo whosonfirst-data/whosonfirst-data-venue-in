@@ -1,0 +1,66 @@
+{
+  "id": 169538933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.579849,12.889522,77.579849,12.889522",
+    "geom:latitude":12.889522,
+    "geom:longitude":77.579849,
+    "iso:country":"IN",
+    "sg:address":"208, R.k.layout, K.g.nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2661 1627",
+    "sg:postcode":"560019",
+    "sg:tags":[
+        "equipment",
+        "refrigeration"
+    ],
+    "sg:website":"http://www.continentilindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931051,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IzascBhryeYacn2lFo3ne_12.889522_77.579849@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ff3d49f70363e169a872b19989086fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931051,
+            "region_id":85672165,
+            "venue_id":169538933
+        }
+    ],
+    "wof:id":169538933,
+    "wof:lastmodified":1449033096,
+    "wof:name":"J. K. Enterprises",
+    "wof:parent_id":85931051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "refrigeration"
+    ]
+},
+  "bbox": [77.579849,12.889522,77.579849,12.889522],
+  "geometry": {"coordinates":[77.579849,12.889522],"type":"Point"}
+}

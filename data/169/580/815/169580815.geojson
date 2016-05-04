@@ -1,0 +1,62 @@
+{
+  "id": 169580815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833992,18.950926,72.833992,18.950926",
+    "geom:latitude":18.950926,
+    "geom:longitude":72.833992,
+    "iso:country":"IN",
+    "sg:address":"46, Room No.12, 2nd Floor, Nagdevi Street,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2345 7810",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66fjldA6XjK5Ezdm0nvW8p_18.950926_72.833992@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"da7f406266778875259b2383d901c741",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169580815
+        }
+    ],
+    "wof:id":169580815,
+    "wof:lastmodified":1449034916,
+    "wof:name":"Jignesh Enterprises",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.833992,18.950926,72.833992,18.950926],
+  "geometry": {"coordinates":[72.833992,18.950926],"type":"Point"}
+}

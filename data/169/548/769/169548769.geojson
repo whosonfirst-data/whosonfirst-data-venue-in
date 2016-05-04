@@ -1,0 +1,56 @@
+{
+  "id": 169548769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"89.610596,28.907995,89.610596,28.907995",
+    "geom:latitude":28.907995,
+    "geom:longitude":89.610596,
+    "iso:country":"IN",
+    "sg:address":"59a, Shanthai Road,",
+    "sg:city":"Tuticorin",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 461 400 0526",
+    "sg:postcode":"628002",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632695,
+        85669747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3scWgv2ZjqF4NPjjkwnWA0_28.907995_89.610596@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"08508a67fd2bb0608c10558bb2fb1c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632695,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85669747,
+            "venue_id":169548769
+        }
+    ],
+    "wof:id":169548769,
+    "wof:lastmodified":1449034973,
+    "wof:name":"Mother Tea Product",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [89.610596,28.907995,89.610596,28.907995],
+  "geometry": {"coordinates":[89.610596,28.907995],"type":"Point"}
+}

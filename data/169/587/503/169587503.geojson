@@ -1,0 +1,63 @@
+{
+  "id": 169587503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.690247,12.817271,77.690247,12.817271",
+    "geom:latitude":12.817271,
+    "geom:longitude":77.690247,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 143-c5, Bommasandra Industrial Area, Hosur Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 91807833478",
+    "sg:postcode":"562158",
+    "sg:tags":[
+        "resin"
+    ],
+    "sg:website":"http://www.polypetindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UmdxqbxpvqxnX4RVEQ9K2_12.817271_77.690247@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c3e918df83be999d58d893e9a9db1e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169587503
+        }
+    ],
+    "wof:id":169587503,
+    "wof:lastmodified":1449033822,
+    "wof:name":"Manjushree Extrusions Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [77.690247,12.817271,77.690247,12.817271],
+  "geometry": {"coordinates":[77.690247,12.817271],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169561013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.01722,28.456097,77.01722,28.456097",
+    "geom:latitude":28.456097,
+    "geom:longitude":77.01722,
+    "iso:country":"IN",
+    "sg:address":"10a/14, Shakti Nagar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4235 2240",
+    "sg:postcode":"110007",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.alternatorsparts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f5Hq6KhXHT3r1PTyyN2oP_28.456097_77.017220@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"07c5f254f7e2af67aa51d238c1a798c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":-1,
+            "region_id":85672133,
+            "venue_id":169561013
+        }
+    ],
+    "wof:id":169561013,
+    "wof:lastmodified":1449035020,
+    "wof:name":"Electraace",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.01722,28.456097,77.01722,28.456097],
+  "geometry": {"coordinates":[77.01722,28.456097],"type":"Point"}
+}

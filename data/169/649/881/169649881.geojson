@@ -1,0 +1,58 @@
+{
+  "id": 169649881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.207821,28.536057,77.207821,28.536057",
+    "geom:latitude":28.536057,
+    "geom:longitude":77.207821,
+    "iso:country":"IN",
+    "sg:address":"68, Okhla Industrial Area Phase 3",
+    "sg:city":"New Delhi ",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110020",
+    "sg:website":"http://www.mapmyindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928647,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Qb1wldUE5MWAMcVbQdmnp_28.536057_77.207821@1308163240"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b9bfa418914a91612de6efcd8710279c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928647,
+            "region_id":85672123,
+            "venue_id":169649881
+        }
+    ],
+    "wof:id":169649881,
+    "wof:lastmodified":1449034943,
+    "wof:name":"MapMyIndia",
+    "wof:parent_id":85928647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.207821,28.536057,77.207821,28.536057],
+  "geometry": {"coordinates":[77.207821,28.536057],"type":"Point"}
+}

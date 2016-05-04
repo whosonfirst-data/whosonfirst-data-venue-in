@@ -1,0 +1,64 @@
+{
+  "id": 169529869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.827209,18.955893,72.827209,18.955893",
+    "geom:latitude":18.955893,
+    "geom:longitude":72.827209,
+    "iso:country":"IN",
+    "sg:address":"56, C.p. Tank Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2382 7671",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.gumprochem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931435,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Udcfwhmg27Tessq7h5wN1_18.955893_72.827209@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8bd7ad174e76c7edd0e612ac8325142a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931435,
+            "region_id":85672171,
+            "venue_id":169529869
+        }
+    ],
+    "wof:id":169529869,
+    "wof:lastmodified":1449034116,
+    "wof:name":"Gumpro Chem",
+    "wof:parent_id":85931435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.827209,18.955893,72.827209,18.955893],
+  "geometry": {"coordinates":[72.827209,18.955893],"type":"Point"}
+}

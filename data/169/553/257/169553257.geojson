@@ -1,0 +1,63 @@
+{
+  "id": 169553257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.185112,22.250093,73.185112,22.250093",
+    "geom:latitude":22.250093,
+    "geom:longitude":73.185112,
+    "iso:country":"IN",
+    "sg:address":"987/2, G.i.d.c., Makarpura, Vadodara",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 264 4555",
+    "sg:tags":[
+        "equipment",
+        "hydraulic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55EtURp9jJ4DRI0ztfQIKm_22.250093_73.185112@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9f98c5698c6b334b3f5d74e7de4b8b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169553257
+        }
+    ],
+    "wof:id":169553257,
+    "wof:lastmodified":1449032706,
+    "wof:name":"Sainath Hydraulic & Mechanical Works",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "hydraulic"
+    ]
+},
+  "bbox": [73.185112,22.250093,73.185112,22.250093],
+  "geometry": {"coordinates":[73.185112,22.250093],"type":"Point"}
+}

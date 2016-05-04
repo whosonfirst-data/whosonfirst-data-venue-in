@@ -1,0 +1,63 @@
+{
+  "id": 169579091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.357155,22.578527,88.357155,22.578527",
+    "geom:latitude":22.578527,
+    "geom:longitude":88.357155,
+    "iso:country":"IN",
+    "sg:address":"10, Tarachand Dutta Street,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2234 2756",
+    "sg:postcode":"700073",
+    "sg:tags":[
+        "fine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903957,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lsOtan8LMYhfuVSrO5CkD_22.578527_88.357155@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"533e2068a7d637fbbb5bf9b535671911",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903957,
+            "region_id":85672219,
+            "venue_id":169579091
+        }
+    ],
+    "wof:id":169579091,
+    "wof:lastmodified":1449033738,
+    "wof:name":"Horizon Commercial Enterprise",
+    "wof:parent_id":85903957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fine"
+    ]
+},
+  "bbox": [88.357155,22.578527,88.357155,22.578527],
+  "geometry": {"coordinates":[88.357155,22.578527],"type":"Point"}
+}

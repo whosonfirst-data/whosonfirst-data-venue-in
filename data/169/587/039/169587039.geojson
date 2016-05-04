@@ -1,0 +1,65 @@
+{
+  "id": 169587039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.066505,12.90584,80.066505,12.90584",
+    "geom:latitude":12.90584,
+    "geom:longitude":80.066505,
+    "iso:country":"IN",
+    "sg:address":"Plot No.- A/248, Part A,",
+    "sg:city":"Bahadurgarh",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 6535 4161",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Boe8DJKrgPmAJSYjTMySH_12.905840_80.066505@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c02413be104a6b2bb1afc66ff5d1a9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169587039
+        }
+    ],
+    "wof:id":169587039,
+    "wof:lastmodified":1449033822,
+    "wof:name":"Manan Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [80.066505,12.90584,80.066505,12.90584],
+  "geometry": {"coordinates":[80.066505,12.90584],"type":"Point"}
+}

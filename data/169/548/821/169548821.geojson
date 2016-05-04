@@ -1,0 +1,64 @@
+{
+  "id": 169548821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.355553,22.567356,88.355553,22.567356",
+    "geom:latitude":22.567356,
+    "geom:longitude":88.355553,
+    "iso:country":"IN",
+    "sg:address":"14, Lalghat,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 252 8441",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "bedspread"
+    ],
+    "sg:website":"http://www.mystiquehandicrafts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931943,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fjtIKZpZEczvCitbocPoY_22.567356_88.355553@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"355ff9ecf3687051d8ea9ab761f4d638",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931943,
+            "region_id":85672219,
+            "venue_id":169548821
+        }
+    ],
+    "wof:id":169548821,
+    "wof:lastmodified":1449034974,
+    "wof:name":"Mystique Textiles & Handicrafts",
+    "wof:parent_id":85931943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bedspread"
+    ]
+},
+  "bbox": [88.355553,22.567356,88.355553,22.567356],
+  "geometry": {"coordinates":[88.355553,22.567356],"type":"Point"}
+}

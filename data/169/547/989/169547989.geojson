@@ -1,0 +1,62 @@
+{
+  "id": 169547989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.347298,11.101378,77.347298,11.101378",
+    "geom:latitude":11.101378,
+    "geom:longitude":77.347298,
+    "iso:country":"IN",
+    "sg:address":"No. 60 A, Kangayam Road,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 242 1737",
+    "sg:postcode":"641604",
+    "sg:tags":[
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028425,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78IVL0AEFFFnnvCJbjsg7T_11.101378_77.347298@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"41315134ddb7478ce2b0c853e7bf12fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028425,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169547989
+        }
+    ],
+    "wof:id":169547989,
+    "wof:lastmodified":1449033009,
+    "wof:name":"Status Exports",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yarn"
+    ]
+},
+  "bbox": [77.347298,11.101378,77.347298,11.101378],
+  "geometry": {"coordinates":[77.347298,11.101378],"type":"Point"}
+}

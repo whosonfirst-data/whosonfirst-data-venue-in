@@ -1,0 +1,63 @@
+{
+  "id": 169600643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.485138,17.406101,78.485138,17.406101",
+    "geom:latitude":17.406101,
+    "geom:longitude":78.485138,
+    "iso:country":"IN",
+    "sg:address":"H.no. 3-6-211, Himayat Nagar,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2326 0498",
+    "sg:postcode":"500029",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930709,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70WdPeTHFiocDo6ErlRhAe_17.406101_78.485138@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"937c9a5b948526e8ba3645e3480cb744",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930709,
+            "region_id":85672141,
+            "venue_id":169600643
+        }
+    ],
+    "wof:id":169600643,
+    "wof:lastmodified":1449032970,
+    "wof:name":"Pharma Veda",
+    "wof:parent_id":85930709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.485138,17.406101,78.485138,17.406101],
+  "geometry": {"coordinates":[78.485138,17.406101],"type":"Point"}
+}

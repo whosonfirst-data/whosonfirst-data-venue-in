@@ -1,0 +1,63 @@
+{
+  "id": 169613547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.858589,30.884144,75.858589,30.884144",
+    "geom:latitude":30.884144,
+    "geom:longitude":75.858589,
+    "iso:country":"IN",
+    "sg:address":"1569, St. No. 11, Dashmseh Nagar, Gill Road,",
+    "sg:city":"Ludhiana",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 161 513 1618",
+    "sg:postcode":"141003",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.ssew.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029555,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N83YLxBh9c6oORAWiG8Hc_30.884144_75.858589@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4f8454347912bd4dd9cb72fc617b5ed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029555,
+            "neighbourhood_id":-1,
+            "region_id":85672195,
+            "venue_id":169613547
+        }
+    ],
+    "wof:id":169613547,
+    "wof:lastmodified":1449034211,
+    "wof:name":"S. S. Engg. Works",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [75.858589,30.884144,75.858589,30.884144],
+  "geometry": {"coordinates":[75.858589,30.884144],"type":"Point"}
+}

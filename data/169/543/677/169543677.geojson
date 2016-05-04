@@ -1,0 +1,65 @@
+{
+  "id": 169543677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.659622,13.024973,77.659622,13.024973",
+    "geom:latitude":13.024973,
+    "geom:longitude":77.659622,
+    "iso:country":"IN",
+    "sg:address":"51/1, Kalkere Main Road, Horamavu,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2566 1353",
+    "sg:postcode":"560043",
+    "sg:tags":[
+        "trolley",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927809,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CI4aj7rxHHOUg8rzxGBTN_13.024973_77.659622@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"334a15ecf7dc9262d77a64d45ed274ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85927809,
+            "region_id":85672165,
+            "venue_id":169543677
+        }
+    ],
+    "wof:id":169543677,
+    "wof:lastmodified":1449033333,
+    "wof:name":"Open Plan",
+    "wof:parent_id":85927809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trolley",
+        "trailer"
+    ]
+},
+  "bbox": [77.659622,13.024973,77.659622,13.024973],
+  "geometry": {"coordinates":[77.659622,13.024973],"type":"Point"}
+}

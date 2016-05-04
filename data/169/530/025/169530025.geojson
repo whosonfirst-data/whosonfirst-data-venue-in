@@ -1,0 +1,65 @@
+{
+  "id": 169530025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.847145,19.185732,72.847145,19.185732",
+    "geom:latitude":19.185732,
+    "geom:longitude":72.847145,
+    "iso:country":"IN",
+    "sg:address":"127, Malad Shopping Centre, Malad - West,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2882 5879",
+    "sg:postcode":"400063",
+    "sg:tags":[
+        "garment",
+        "childrenwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931619,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L593My51PjV8qiHDBB1fk_19.185732_72.847145@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d9a23061e2305d366457b33262e361f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931619,
+            "region_id":85672171,
+            "venue_id":169530025
+        }
+    ],
+    "wof:id":169530025,
+    "wof:lastmodified":1449034445,
+    "wof:name":"Child King",
+    "wof:parent_id":85931619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "childrenwear"
+    ]
+},
+  "bbox": [72.847145,19.185732,72.847145,19.185732],
+  "geometry": {"coordinates":[72.847145,19.185732],"type":"Point"}
+}

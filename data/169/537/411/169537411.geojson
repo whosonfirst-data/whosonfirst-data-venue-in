@@ -1,0 +1,69 @@
+{
+  "id": 169537411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.609085,12.293388,76.609085,12.293388",
+    "geom:latitude":12.293388,
+    "geom:longitude":76.609085,
+    "iso:country":"IN",
+    "sg:address":"3/2, 1/1, 1st Main 1sr Cross, M.c Layout,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2338 8641",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029303,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZC7NLGkdRQauuf2y7IAoM_12.293388_76.609085@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5403358c0f2629093328211c78171ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029303,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169537411
+        }
+    ],
+    "wof:id":169537411,
+    "wof:lastmodified":1449033495,
+    "wof:name":"Jlm Automatics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [76.609085,12.293388,76.609085,12.293388],
+  "geometry": {"coordinates":[76.609085,12.293388],"type":"Point"}
+}

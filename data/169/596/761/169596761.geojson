@@ -1,0 +1,64 @@
+{
+  "id": 169596761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.243866,13.117795,80.243866,13.117795",
+    "geom:latitude":13.117795,
+    "geom:longitude":80.243866,
+    "iso:country":"IN",
+    "sg:address":"19, Azad Street, Gandhi Nagar,",
+    "sg:city":"Madurai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 452 253 2576",
+    "sg:postcode":"625020",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.ororflavours.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903945,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UyJhaZMnlc6ZRFuhQREqN_13.117795_80.243866@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"04ad8e0374689ccb60a3e259058007de",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903945,
+            "region_id":85672245,
+            "venue_id":169596761
+        }
+    ],
+    "wof:id":169596761,
+    "wof:lastmodified":1449034374,
+    "wof:name":"Oror Flavours & Chemicals P. Ltd.",
+    "wof:parent_id":85903945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.243866,13.117795,80.243866,13.117795],
+  "geometry": {"coordinates":[80.243866,13.117795],"type":"Point"}
+}

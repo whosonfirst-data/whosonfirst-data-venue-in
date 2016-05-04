@@ -1,0 +1,62 @@
+{
+  "id": 169642855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.260666,13.061556,80.260666,13.061556",
+    "geom:latitude":13.061556,
+    "geom:longitude":80.260666,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 9, Mie, Part-b,",
+    "sg:city":"Bahadurgarh",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 1276 268 107",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931755,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rHVzEehMrzB2ppym2QwlL_13.061556_80.260666@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6a613ceedc5394977252677dbdc91f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931755,
+            "region_id":85672245,
+            "venue_id":169642855
+        }
+    ],
+    "wof:id":169642855,
+    "wof:lastmodified":1449032878,
+    "wof:name":"Vicksun Speciality Products Pvt. Ltd.",
+    "wof:parent_id":85931755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [80.260666,13.061556,80.260666,13.061556],
+  "geometry": {"coordinates":[80.260666,13.061556],"type":"Point"}
+}

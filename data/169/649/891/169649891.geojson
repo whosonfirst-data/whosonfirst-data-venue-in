@@ -1,0 +1,56 @@
+{
+  "id": 169649891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.832419,18.930787,72.832419,18.930787",
+    "geom:latitude":18.930787,
+    "geom:longitude":72.832419,
+    "iso:country":"IN",
+    "sg:address":"41, Tamarind Lane, Fort",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"400 023",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZbagJptZ5YdfdpLWqmPfL_18.930787_72.832419@1308163240"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d30a92e85a8de87c3304588122cff5be",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169649891
+        }
+    ],
+    "wof:id":169649891,
+    "wof:lastmodified":1449034944,
+    "wof:name":"Source IT",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.832419,18.930787,72.832419,18.930787],
+  "geometry": {"coordinates":[72.832419,18.930787],"type":"Point"}
+}

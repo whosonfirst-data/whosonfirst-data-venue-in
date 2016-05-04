@@ -1,0 +1,65 @@
+{
+  "id": 169530729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.826439,19.20808,72.826439,19.20808",
+    "geom:latitude":19.20808,
+    "geom:longitude":72.826439,
+    "iso:country":"IN",
+    "sg:address":"78-a, Industrial Estate, Charkop Kandivli (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2868 6116",
+    "sg:postcode":"400067",
+    "sg:tags":[
+        "good",
+        "consumer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931623,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RTNDRQowYqVKrk8tCwOxR_19.208080_72.826439@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e22af88caf099fa99fbc5fd91981adae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931623,
+            "region_id":85672171,
+            "venue_id":169530729
+        }
+    ],
+    "wof:id":169530729,
+    "wof:lastmodified":1449034443,
+    "wof:name":"Vijay Bangle Works",
+    "wof:parent_id":85931623,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "good",
+        "consumer"
+    ]
+},
+  "bbox": [72.826439,19.20808,72.826439,19.20808],
+  "geometry": {"coordinates":[72.826439,19.20808],"type":"Point"}
+}

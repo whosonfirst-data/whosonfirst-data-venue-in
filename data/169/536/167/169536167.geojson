@@ -1,0 +1,58 @@
+{
+  "id": 169536167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.850029,19.1019,72.850029,19.1019",
+    "geom:latitude":19.1019,
+    "geom:longitude":72.850029,
+    "iso:country":"IN",
+    "sg:address":"Prarthana Samaj,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 3091 1758",
+    "sg:postcode":"400004",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931483,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FN4yiGv2gSdMnEcvHoNZA_19.101900_72.850029@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f76cb138ad4c713bc46d0483762c09fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931483,
+            "region_id":85672171,
+            "venue_id":169536167
+        }
+    ],
+    "wof:id":169536167,
+    "wof:lastmodified":1449034660,
+    "wof:name":"Babubhai Jagjivandas",
+    "wof:parent_id":85931483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.850029,19.1019,72.850029,19.1019],
+  "geometry": {"coordinates":[72.850029,19.1019],"type":"Point"}
+}

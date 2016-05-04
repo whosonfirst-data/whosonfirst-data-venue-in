@@ -1,0 +1,66 @@
+{
+  "id": 169531575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.852028,19.159634,72.852028,19.159634",
+    "geom:latitude":19.159634,
+    "geom:longitude":72.852028,
+    "iso:country":"IN",
+    "sg:address":"G-7, M.k. Industrial Estate, Sonawala Cross \nRoad No.-2, Goregaon (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2685 2243",
+    "sg:postcode":"400063",
+    "sg:tags":[
+        "pulley",
+        "coupling"
+    ],
+    "sg:website":"http://www.spengg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YtA5AKzmt0vogN0RhYjHu_19.159634_72.852028@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b532e38846fefdcfcb17d7782e74a28b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169531575
+        }
+    ],
+    "wof:id":169531575,
+    "wof:lastmodified":1449033473,
+    "wof:name":"S. P.  Engineers",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pulley",
+        "coupling"
+    ]
+},
+  "bbox": [72.852028,19.159634,72.852028,19.159634],
+  "geometry": {"coordinates":[72.852028,19.159634],"type":"Point"}
+}

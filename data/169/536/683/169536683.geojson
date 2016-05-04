@@ -1,0 +1,63 @@
+{
+  "id": 169536683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.572121,12.984954,77.572121,12.984954",
+    "geom:latitude":12.984954,
+    "geom:longitude":77.572121,
+    "iso:country":"IN",
+    "sg:address":"18, Platform Road, Seshadripuram,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 3271 6181",
+    "sg:postcode":"560020",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mJ3WbmIy9wldJphtWsHx5_12.984954_77.572121@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"645f7fd10a3933268178fc1e50e07823",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169536683
+        }
+    ],
+    "wof:id":169536683,
+    "wof:lastmodified":1449034656,
+    "wof:name":"Sterling Plas-tek Engineers",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.572121,12.984954,77.572121,12.984954],
+  "geometry": {"coordinates":[77.572121,12.984954],"type":"Point"}
+}

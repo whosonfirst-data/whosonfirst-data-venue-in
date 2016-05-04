@@ -1,0 +1,53 @@
+{
+  "id": 169569317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.142044,28.691393,77.142044,28.691393",
+    "geom:latitude":28.691393,
+    "geom:longitude":77.142044,
+    "iso:country":"IN",
+    "sg:address":"Sandesh Vihar",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2718 1113",
+    "sg:postcode":"110014",
+    "sg:province":"Delhi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928043,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UCvkt3rlQizXZaRyQ13a8_28.691393_77.142044@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8a5c566485057a05a7c9d2c4c3669d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928043,
+            "region_id":85672123,
+            "venue_id":169569317
+        }
+    ],
+    "wof:id":169569317,
+    "wof:lastmodified":1449035830,
+    "wof:name":"Sam Exports",
+    "wof:parent_id":85928043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.142044,28.691393,77.142044,28.691393],
+  "geometry": {"coordinates":[77.142044,28.691393],"type":"Point"}
+}

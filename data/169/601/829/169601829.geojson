@@ -1,0 +1,63 @@
+{
+  "id": 169601829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.437927,28.65498,77.437927,28.65498",
+    "geom:latitude":28.65498,
+    "geom:longitude":77.437927,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 62/2/c, Gandhi Nagar Industrial Area,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2308 1366",
+    "sg:postcode":"500037",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.platinumpharmatech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nQRDvaB2uImzGsFGpgnKI_28.654980_77.437927@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e02e189713620f0be0ed189a1dbaaad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169601829
+        }
+    ],
+    "wof:id":169601829,
+    "wof:lastmodified":1449034149,
+    "wof:name":"Platinum Pharma Tech",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.437927,28.65498,77.437927,28.65498],
+  "geometry": {"coordinates":[77.437927,28.65498],"type":"Point"}
+}

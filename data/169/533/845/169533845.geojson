@@ -1,0 +1,65 @@
+{
+  "id": 169533845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.86927,19.11302,72.86927,19.11302",
+    "geom:latitude":19.11302,
+    "geom:longitude":72.86927,
+    "iso:country":"IN",
+    "sg:address":"Andheri Kurla Est., No 116/b 117/a, Veer Desai Road, Andheri (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2636 7266",
+    "sg:postcode":"400053",
+    "sg:tags":[
+        "mould",
+        "dy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JpUIs9SM8PzObnUfNw7Vv_19.113020_72.869270@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"99d537f452b778a075ae3d3b7d6c4725",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169533845
+        }
+    ],
+    "wof:id":169533845,
+    "wof:lastmodified":1449032640,
+    "wof:name":"Amit Arts",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mould",
+        "dy"
+    ]
+},
+  "bbox": [72.86927,19.11302,72.86927,19.11302],
+  "geometry": {"coordinates":[72.86927,19.11302],"type":"Point"}
+}

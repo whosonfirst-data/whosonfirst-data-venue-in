@@ -1,0 +1,64 @@
+{
+  "id": 169580117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.164421,22.293995,73.164421,22.293995",
+    "geom:latitude":22.293995,
+    "geom:longitude":73.164421,
+    "iso:country":"IN",
+    "sg:address":"83 A, Tagore Nagar, Old Padra Road,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 233 4344",
+    "sg:postcode":"390015",
+    "sg:tags":[
+        "plant",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32jO5NGXCM96liS52XmFmI_22.293995_73.164421@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e63018c3d95a47aa800c36420523706e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169580117
+        }
+    ],
+    "wof:id":169580117,
+    "wof:lastmodified":1449034914,
+    "wof:name":"International Process Plants & Equipment Corp.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [73.164421,22.293995,73.164421,22.293995],
+  "geometry": {"coordinates":[73.164421,22.293995],"type":"Point"}
+}

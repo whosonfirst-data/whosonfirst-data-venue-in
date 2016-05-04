@@ -1,0 +1,53 @@
+{
+  "id": 169560493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.350174,22.578161,88.350174,22.578161",
+    "geom:latitude":22.578161,
+    "geom:longitude":88.350174,
+    "iso:country":"IN",
+    "sg:address":"Biplabi Rash Behari Road, 2nd Floor",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2242 2552",
+    "sg:postcode":"700001",
+    "sg:province":"West Bengal",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903957,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26WW5P8m3KzMzO0YSXPDrV_22.578161_88.350174@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ed0a6d1045568ab950f7987fc96152ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903957,
+            "region_id":85672219,
+            "venue_id":169560493
+        }
+    ],
+    "wof:id":169560493,
+    "wof:lastmodified":1449035180,
+    "wof:name":"Sen Brothers Pvt Ltd",
+    "wof:parent_id":85903957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [88.350174,22.578161,88.350174,22.578161],
+  "geometry": {"coordinates":[88.350174,22.578161],"type":"Point"}
+}

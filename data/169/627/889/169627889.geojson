@@ -1,0 +1,63 @@
+{
+  "id": 169627889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.583755,12.961333,77.583755,12.961333",
+    "geom:latitude":12.961333,
+    "geom:longitude":77.583755,
+    "iso:country":"IN",
+    "sg:address":"31-d, Shivalli,",
+    "sg:city":"Manipal",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 820 257 5002",
+    "sg:postcode":"576119",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ofzmZR5lV7Vlm6eXsdA7u_12.961333_77.583755@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b1c45257ef0ac5c8e85577946c2c5837",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169627889
+        }
+    ],
+    "wof:id":169627889,
+    "wof:lastmodified":1449036039,
+    "wof:name":"Sri Mahalakshmi Essential Oil And Allied Industries",
+    "wof:parent_id":85930903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.583755,12.961333,77.583755,12.961333],
+  "geometry": {"coordinates":[77.583755,12.961333],"type":"Point"}
+}

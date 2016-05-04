@@ -1,0 +1,63 @@
+{
+  "id": 169533017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.847969,19.094259,72.847969,19.094259",
+    "geom:latitude":19.094259,
+    "geom:longitude":72.847969,
+    "iso:country":"IN",
+    "sg:address":"77, N.s. Patkar Marg, 2nd Floor, Room No.6a,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2367 9929",
+    "sg:postcode":"400007",
+    "sg:tags":[
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931603,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mwCdkrlOgvd4Z5CEr9RXa_19.094259_72.847969@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"41daf5f11699310804d302e4270acadb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931603,
+            "region_id":85672171,
+            "venue_id":169533017
+        }
+    ],
+    "wof:id":169533017,
+    "wof:lastmodified":1449032643,
+    "wof:name":"Anita Diamonds",
+    "wof:parent_id":85931603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.847969,19.094259,72.847969,19.094259],
+  "geometry": {"coordinates":[72.847969,19.094259],"type":"Point"}
+}

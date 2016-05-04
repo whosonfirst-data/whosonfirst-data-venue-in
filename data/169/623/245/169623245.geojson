@@ -1,0 +1,63 @@
+{
+  "id": 169623245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.580795,20.998306,75.580795,20.998306",
+    "geom:latitude":20.998306,
+    "geom:longitude":75.580795,
+    "iso:country":"IN",
+    "sg:address":"C/o F 7, Old Midc,",
+    "sg:city":"Satara",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2162 244 430",
+    "sg:postcode":"415004",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.passivationindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030007,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ohVBZQPGLtNXpe7LxwvB6_20.998306_75.580795@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f66cc3350d97b6939cad406c30993aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030007,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169623245
+        }
+    ],
+    "wof:id":169623245,
+    "wof:lastmodified":1449034999,
+    "wof:name":"Shrioum Chemicals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.580795,20.998306,75.580795,20.998306],
+  "geometry": {"coordinates":[75.580795,20.998306],"type":"Point"}
+}

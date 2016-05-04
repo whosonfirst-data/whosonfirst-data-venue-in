@@ -1,0 +1,63 @@
+{
+  "id": 169529459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.811752,18.97661,72.811752,18.97661",
+    "geom:latitude":18.97661,
+    "geom:longitude":72.811752,
+    "iso:country":"IN",
+    "sg:address":"56, A Gold Coin, Tardeo Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2494 0897",
+    "sg:postcode":"400034",
+    "sg:tags":[
+        "machinery"
+    ],
+    "sg:website":"http://www.pharmamachineryindia.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903901,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iDL5LF8aqEp5dAeL3mkhF_18.976610_72.811752@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"55a07527d372450f4db6d7ec1d1c2114",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903901,
+            "region_id":85672171,
+            "venue_id":169529459
+        }
+    ],
+    "wof:id":169529459,
+    "wof:lastmodified":1449034114,
+    "wof:name":"Geberix Consultants & Engineers",
+    "wof:parent_id":85903901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machinery"
+    ]
+},
+  "bbox": [72.811752,18.97661,72.811752,18.97661],
+  "geometry": {"coordinates":[72.811752,18.97661],"type":"Point"}
+}

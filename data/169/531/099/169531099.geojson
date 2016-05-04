@@ -1,0 +1,65 @@
+{
+  "id": 169531099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.830475,18.946735,72.830475,18.946735",
+    "geom:latitude":18.946735,
+    "geom:longitude":72.830475,
+    "iso:country":"IN",
+    "sg:address":"Diamond Building, Pathak Wadi, Lohar Chawl, Marine Lines,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2351 2766",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "copper",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cac7ZL8KqHigeDqCfgAtQ_18.946735_72.830475@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b167a6d80f62ff2959b304610b539bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169531099
+        }
+    ],
+    "wof:id":169531099,
+    "wof:lastmodified":1449033475,
+    "wof:name":"Rajani Electric Company",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "copper",
+        "product"
+    ]
+},
+  "bbox": [72.830475,18.946735,72.830475,18.946735],
+  "geometry": {"coordinates":[72.830475,18.946735],"type":"Point"}
+}

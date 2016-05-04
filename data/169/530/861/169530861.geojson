@@ -1,0 +1,67 @@
+{
+  "id": 169530861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.82029,19.006792,72.82029,19.006792",
+    "geom:latitude":19.006792,
+    "geom:longitude":72.82029,
+    "iso:country":"IN",
+    "sg:address":"130, Pandhurang Budhkar Marg, Worli, Opp. Mumbai Doordarshan,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Light Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 222498700005",
+    "sg:postcode":"400018",
+    "sg:tags":[
+        "control",
+        "board",
+        "panel"
+    ],
+    "sg:website":"http://www.siemens.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903999,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FpintTeuwIWQoupB5DWdF_19.006792_72.820290@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6cfb7233ed22e5e09b42a0842fb09f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903999,
+            "region_id":85672171,
+            "venue_id":169530861
+        }
+    ],
+    "wof:id":169530861,
+    "wof:lastmodified":1449034445,
+    "wof:name":"Siemens Ltd.",
+    "wof:parent_id":85903999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "board",
+        "panel"
+    ]
+},
+  "bbox": [72.82029,19.006792,72.82029,19.006792],
+  "geometry": {"coordinates":[72.82029,19.006792],"type":"Point"}
+}

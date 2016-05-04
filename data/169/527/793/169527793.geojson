@@ -1,0 +1,64 @@
+{
+  "id": 169527793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.832787,18.950718,72.832787,18.950718",
+    "geom:latitude":18.950718,
+    "geom:longitude":72.832787,
+    "iso:country":"IN",
+    "sg:address":"9, Mirza Street, Off Abdul Rehman Street,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2342 2125",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "publisher",
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Lc2xAM3EgSYgs59whUHJW_18.950718_72.832787@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"51985a0b377bfc40bc869a0b4e49444d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169527793
+        }
+    ],
+    "wof:id":169527793,
+    "wof:lastmodified":1449035277,
+    "wof:name":"Sarvodaya Book Depot",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher",
+        "book"
+    ]
+},
+  "bbox": [72.832787,18.950718,72.832787,18.950718],
+  "geometry": {"coordinates":[72.832787,18.950718],"type":"Point"}
+}

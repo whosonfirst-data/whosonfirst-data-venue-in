@@ -1,0 +1,63 @@
+{
+  "id": 169584015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.270805,13.083144,80.270805,13.083144",
+    "geom:latitude":13.083144,
+    "geom:longitude":80.270805,
+    "iso:country":"IN",
+    "sg:address":"30, Rajamuthiah Road, Periamet,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2538 9097",
+    "sg:postcode":"600003",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931751,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vo1rqyavj8VHVGoW5nQSJ_13.083144_80.270805@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8fe63f3a49c8920faef6f2ba9731235f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931751,
+            "region_id":85672245,
+            "venue_id":169584015
+        }
+    ],
+    "wof:id":169584015,
+    "wof:lastmodified":1449033037,
+    "wof:name":"Lakshmidas Dwarkadas & Co.",
+    "wof:parent_id":85931751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.270805,13.083144,80.270805,13.083144],
+  "geometry": {"coordinates":[80.270805,13.083144],"type":"Point"}
+}

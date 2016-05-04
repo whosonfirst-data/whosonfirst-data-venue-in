@@ -1,0 +1,61 @@
+{
+  "id": 169583721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.986214,11.164582,76.986214,11.164582",
+    "geom:latitude":11.164582,
+    "geom:longitude":76.986214,
+    "iso:country":"IN",
+    "sg:address":"9/125, Vellamadai,",
+    "sg:city":"Coimbatore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 422 265 4225",
+    "sg:postcode":"641110",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Qsk4TLlGSyynFEBeeMRrE_11.164582_76.986214@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2ffe88a336801dfd5602ce1234d7adeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169583721
+        }
+    ],
+    "wof:id":169583721,
+    "wof:lastmodified":1449035270,
+    "wof:name":"Kukshe International",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [76.986214,11.164582,76.986214,11.164582],
+  "geometry": {"coordinates":[76.986214,11.164582],"type":"Point"}
+}

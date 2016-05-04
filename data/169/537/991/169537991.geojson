@@ -1,0 +1,64 @@
+{
+  "id": 169537991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.663307,12.842039,77.663307,12.842039",
+    "geom:latitude":12.842039,
+    "geom:longitude":77.663307,
+    "iso:country":"IN",
+    "sg:address":"No. 83, Electronic City,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2852 1040",
+    "sg:postcode":"560075",
+    "sg:tags":[
+        "printer"
+    ],
+    "sg:website":"http://www.amdlbct.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930867,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RvbJK28op2Xz8ZZWYpDPR_12.842039_77.663307@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f29d1456811d8d2f0682dfcbb514415e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930867,
+            "region_id":85672165,
+            "venue_id":169537991
+        }
+    ],
+    "wof:id":169537991,
+    "wof:lastmodified":1449033499,
+    "wof:name":"Advanced Micronic Devices Ltd.",
+    "wof:parent_id":85930867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [77.663307,12.842039,77.663307,12.842039],
+  "geometry": {"coordinates":[77.663307,12.842039],"type":"Point"}
+}

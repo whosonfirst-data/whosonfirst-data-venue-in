@@ -1,0 +1,63 @@
+{
+  "id": 169585037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.358841,22.577131,88.358841,22.577131",
+    "geom:latitude":22.577131,
+    "geom:longitude":88.358841,
+    "iso:country":"IN",
+    "sg:address":"26, Zakaria Street,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2234 1413",
+    "sg:postcode":"700073",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903957,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sRQ3Xqr12IPaTAqBbaFDI_22.577131_88.358841@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"797e4603f1f82cd428f4ac693f3e57e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903957,
+            "region_id":85672219,
+            "venue_id":169585037
+        }
+    ],
+    "wof:id":169585037,
+    "wof:lastmodified":1449034888,
+    "wof:name":"M. Dara Exports",
+    "wof:parent_id":85903957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.358841,22.577131,88.358841,22.577131],
+  "geometry": {"coordinates":[88.358841,22.577131],"type":"Point"}
+}

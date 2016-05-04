@@ -1,0 +1,69 @@
+{
+  "id": 169653081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.583398,12.909343,77.583398,12.909343",
+    "geom:latitude":12.909343,
+    "geom:longitude":77.583398,
+    "iso:country":"IN",
+    "sg:address":"#202/3, 29th Main, BTM Layout Ist Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560068",
+    "sg:tags":[
+        "seo",
+        "sem",
+        "web-design",
+        "web-analysis"
+    ],
+    "sg:website":"http://greenlogicindia.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931057,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OhWiGoz0IU0SZaDQE3uPz_12.909343_77.583398@1308163238"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b2424cce09e41bec8192c45b071a635a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931057,
+            "region_id":85672165,
+            "venue_id":169653081
+        }
+    ],
+    "wof:id":169653081,
+    "wof:lastmodified":1449032917,
+    "wof:name":"GreenLogic India Tecnologies",
+    "wof:parent_id":85931057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seo",
+        "sem",
+        "web-design",
+        "web-analysis"
+    ]
+},
+  "bbox": [77.583398,12.909343,77.583398,12.909343],
+  "geometry": {"coordinates":[77.583398,12.909343],"type":"Point"}
+}

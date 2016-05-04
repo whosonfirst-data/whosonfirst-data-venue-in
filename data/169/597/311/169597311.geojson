@@ -1,0 +1,63 @@
+{
+  "id": 169597311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.881149,19.100191,72.881149,19.100191",
+    "geom:latitude":19.100191,
+    "geom:longitude":72.881149,
+    "iso:country":"IN",
+    "sg:address":"401-405, Tower-a, Millennium Plaza,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 408 1244",
+    "sg:postcode":"122022",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h2TTYgGFAUzvbZWaqUKLZ_19.100191_72.881149@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7ede167b2beaa8b559f96eeec489a70e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169597311
+        }
+    ],
+    "wof:id":169597311,
+    "wof:lastmodified":1449035923,
+    "wof:name":"P. I. Industries Limited",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [72.881149,19.100191,72.881149,19.100191],
+  "geometry": {"coordinates":[72.881149,19.100191],"type":"Point"}
+}

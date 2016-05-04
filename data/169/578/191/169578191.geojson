@@ -1,0 +1,63 @@
+{
+  "id": 169578191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.220764,28.658045,77.220764,28.658045",
+    "geom:latitude":28.658045,
+    "geom:longitude":77.220764,
+    "iso:country":"IN",
+    "sg:address":"180-c, Tilak Bazar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2396 2080",
+    "sg:postcode":"110006",
+    "sg:tags":[
+        "acid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928087,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4O9r3ZtdlGsTefgUhv5Yn6_28.658045_77.220764@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3bd3bfd19c9499d60409fb06c9d3989b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928087,
+            "region_id":85672123,
+            "venue_id":169578191
+        }
+    ],
+    "wof:id":169578191,
+    "wof:lastmodified":1449033520,
+    "wof:name":"Gupta Chemicals",
+    "wof:parent_id":85928087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [77.220764,28.658045,77.220764,28.658045],
+  "geometry": {"coordinates":[77.220764,28.658045],"type":"Point"}
+}

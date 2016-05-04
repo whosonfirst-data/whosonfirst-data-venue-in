@@ -1,0 +1,63 @@
+{
+  "id": 169531705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.214607,13.063865,80.214607,13.063865",
+    "geom:latitude":13.063865,
+    "geom:longitude":80.214607,
+    "iso:country":"IN",
+    "sg:address":"157, A To Z Indl. Est.,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2497 4444",
+    "sg:postcode":"400006",
+    "sg:tags":[
+        "curtain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931707,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ExPhBHUTyQVQZTOrWnUQX_13.063865_80.214607@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f622fb92503d8298d258df97f4a75276",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931707,
+            "region_id":85672245,
+            "venue_id":169531705
+        }
+    ],
+    "wof:id":169531705,
+    "wof:lastmodified":1449033475,
+    "wof:name":"Suraaj Linens Pvt. Ltd.",
+    "wof:parent_id":85931707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "curtain"
+    ]
+},
+  "bbox": [80.214607,13.063865,80.214607,13.063865],
+  "geometry": {"coordinates":[80.214607,13.063865],"type":"Point"}
+}

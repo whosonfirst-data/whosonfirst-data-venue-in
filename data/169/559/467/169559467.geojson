@@ -1,0 +1,66 @@
+{
+  "id": 169559467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.242805,9.966926,76.242805,9.966926",
+    "geom:latitude":9.966926,
+    "geom:longitude":76.242805,
+    "iso:country":"IN",
+    "sg:address":"Princess St. Fort Kochi,",
+    "sg:city":"Kochi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 484 221 5411",
+    "sg:postcode":"682001",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783487,
+        85632469,
+        102030497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_163n2yyrxLEf99AtANzVke_9.966926_76.242805@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"992d350a34ea61c4804accbb111d7daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030497,
+            "neighbourhood_id":85783487,
+            "region_id":-1,
+            "venue_id":169559467
+        }
+    ],
+    "wof:id":169559467,
+    "wof:lastmodified":1449035239,
+    "wof:name":"Cochin Art Gallery",
+    "wof:parent_id":85783487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [76.242805,9.966926,76.242805,9.966926],
+  "geometry": {"coordinates":[76.242805,9.966926],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169626595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.013573,19.099918,73.013573,19.099918",
+    "geom:latitude":19.099918,
+    "geom:longitude":73.013573,
+    "iso:country":"IN",
+    "sg:address":"R-104, Midc (t.t.c. Indus. Area) Thane Belapur,",
+    "sg:city":"Navi Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2769 6797",
+    "sg:postcode":"400093",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031087,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ttQvmGxs6LysIbmWUb9S2_19.099918_73.013573@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"33ab8e730d2dcad4266599b7ac79338c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031087,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169626595
+        }
+    ],
+    "wof:id":169626595,
+    "wof:lastmodified":1449035972,
+    "wof:name":"Spa Pharmaceuticals & Chemicals Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [73.013573,19.099918,73.013573,19.099918],
+  "geometry": {"coordinates":[73.013573,19.099918],"type":"Point"}
+}

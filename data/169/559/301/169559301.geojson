@@ -1,0 +1,54 @@
+{
+  "id": 169559301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.239845,13.049805,80.239845,13.049805",
+    "geom:latitude":13.049805,
+    "geom:longitude":80.239845,
+    "iso:country":"IN",
+    "sg:address":"Habibullah Road, T. Nagar",
+    "sg:city":"Chennai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2824 1923",
+    "sg:postcode":"600017",
+    "sg:province":"Tamil Nadu",
+    "sg:website":"http://www.maars-soft.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903935,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Zedf9bv9itrJoDe7XFNmn_13.049805_80.239845@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"61625d648c93a7deace151e072d6f936",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903935,
+            "region_id":85672245,
+            "venue_id":169559301
+        }
+    ],
+    "wof:id":169559301,
+    "wof:lastmodified":1449035237,
+    "wof:name":"Maars Software International Ltd",
+    "wof:parent_id":85903935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.239845,13.049805,80.239845,13.049805],
+  "geometry": {"coordinates":[80.239845,13.049805],"type":"Point"}
+}

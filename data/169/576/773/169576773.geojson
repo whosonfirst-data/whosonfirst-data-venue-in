@@ -1,0 +1,68 @@
+{
+  "id": 169576773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.586052,12.980666,77.586052,12.980666",
+    "geom:latitude":12.980666,
+    "geom:longitude":77.586052,
+    "iso:country":"IN",
+    "sg:address":"17/2, Palace Road, High Grounds,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2238 4322",
+    "sg:postcode":"560052",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "sg:website":"http://www.fmc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930877,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PG3WKQ3KvN7jfDqJMDi6z_12.980666_77.586052@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"24283c123f19b76f9057941e65aebf51",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930877,
+            "region_id":85672165,
+            "venue_id":169576773
+        }
+    ],
+    "wof:id":169576773,
+    "wof:lastmodified":1449035196,
+    "wof:name":"Fmc India Private Limited",
+    "wof:parent_id":85930877,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [77.586052,12.980666,77.586052,12.980666],
+  "geometry": {"coordinates":[77.586052,12.980666],"type":"Point"}
+}

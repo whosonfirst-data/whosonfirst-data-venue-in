@@ -1,0 +1,68 @@
+{
+  "id": 169545669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.211082,10.51891,76.211082,10.51891",
+    "geom:latitude":10.51891,
+    "geom:longitude":76.211082,
+    "iso:country":"IN",
+    "sg:address":"Post Office Road,",
+    "sg:city":"Thrissur",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 4882 444 114",
+    "sg:postcode":"680001",
+    "sg:tags":[
+        "steel",
+        "stainless",
+        "utensil"
+    ],
+    "sg:website":"http://www.akpmetals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783429,
+        85632469,
+        102028409,
+        85672149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Iyp2bhMgoJjyCfWtTbwZO_10.518910_76.211082@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"402715e9183438274c887b49bd4cb6a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028409,
+            "neighbourhood_id":85783429,
+            "region_id":85672149,
+            "venue_id":169545669
+        }
+    ],
+    "wof:id":169545669,
+    "wof:lastmodified":1449033484,
+    "wof:name":"A.k.p. Metals & Wares",
+    "wof:parent_id":85783429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "stainless",
+        "utensil"
+    ]
+},
+  "bbox": [76.211082,10.51891,76.211082,10.51891],
+  "geometry": {"coordinates":[76.211082,10.51891],"type":"Point"}
+}

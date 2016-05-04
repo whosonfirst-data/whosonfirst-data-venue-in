@@ -1,0 +1,54 @@
+{
+  "id": 169560317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.613197,12.937392,77.613197,12.937392",
+    "geom:latitude":12.937392,
+    "geom:longitude":77.613197,
+    "iso:country":"IN",
+    "sg:address":"4th Cross, 5th Block, Koramangala",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 805526061",
+    "sg:postcode":"560095",
+    "sg:province":"Karnataka",
+    "sg:website":"http://www.iseva.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930917,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ulzMWo203VBCCq7fR946Q_12.937392_77.613197@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c955697c347649135850b8c3d8a30b97",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930917,
+            "region_id":85672165,
+            "venue_id":169560317
+        }
+    ],
+    "wof:id":169560317,
+    "wof:lastmodified":1449035181,
+    "wof:name":"Iseva Systems Pvt Ltd",
+    "wof:parent_id":85930917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.613197,12.937392,77.613197,12.937392],
+  "geometry": {"coordinates":[77.613197,12.937392],"type":"Point"}
+}

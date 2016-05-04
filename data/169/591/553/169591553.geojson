@@ -1,0 +1,66 @@
+{
+  "id": 169591553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.215714,28.656052,77.215714,28.656052",
+    "geom:latitude":28.656052,
+    "geom:longitude":77.215714,
+    "iso:country":"IN",
+    "sg:address":"P.o. Bag No. 20. B.m.c. Chowk,",
+    "sg:city":"Jalandhar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 181 245 8134",
+    "sg:postcode":"144001",
+    "sg:tags":[
+        "transmission",
+        "belting"
+    ],
+    "sg:website":"http://www.nk-rubber.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928087,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZJ32vII2UBnVTHOkgjUmf_28.656052_77.215714@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1154b66a9723a08da4643b31d84a7a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928087,
+            "region_id":85672123,
+            "venue_id":169591553
+        }
+    ],
+    "wof:id":169591553,
+    "wof:lastmodified":1449034449,
+    "wof:name":"N. K. Rubber Industries",
+    "wof:parent_id":85928087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "belting"
+    ]
+},
+  "bbox": [77.215714,28.656052,77.215714,28.656052],
+  "geometry": {"coordinates":[77.215714,28.656052],"type":"Point"}
+}

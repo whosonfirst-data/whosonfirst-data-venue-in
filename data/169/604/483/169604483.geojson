@@ -1,0 +1,64 @@
+{
+  "id": 169604483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.270569,28.572609,77.270569,28.572609",
+    "geom:latitude":28.572609,
+    "geom:longitude":77.270569,
+    "iso:country":"IN",
+    "sg:address":"18, Community Centre, New Friends Colony,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4167 2760",
+    "sg:postcode":"110025",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.proecenergy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928007,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4alsSRv8LIZpLA7SHu7kmA_28.572609_77.270569@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3e13a81ccf36b9823bf02d29abf6b15a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928007,
+            "region_id":85672123,
+            "venue_id":169604483
+        }
+    ],
+    "wof:id":169604483,
+    "wof:lastmodified":1449035571,
+    "wof:name":"Proec Energy Ltd.",
+    "wof:parent_id":85928007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.270569,28.572609,77.270569,28.572609],
+  "geometry": {"coordinates":[77.270569,28.572609],"type":"Point"}
+}

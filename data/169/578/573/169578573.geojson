@@ -1,0 +1,66 @@
+{
+  "id": 169578573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.443222,17.415855,78.443222,17.415855",
+    "geom:latitude":17.415855,
+    "geom:longitude":78.443222,
+    "iso:country":"IN",
+    "sg:address":"No. 8-2-601, Road No. 10, Banjara Hills,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 8418 244 640",
+    "sg:postcode":"500078",
+    "sg:tags":[
+        "plant",
+        "processing"
+    ],
+    "sg:website":"http://www.hblnife.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930747,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1idcYwew4FZT17LBwR0Sfd_17.415855_78.443222@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9ea5fd4b2dfd23f224b07f75dd0d2799",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930747,
+            "region_id":85672141,
+            "venue_id":169578573
+        }
+    ],
+    "wof:id":169578573,
+    "wof:lastmodified":1449033520,
+    "wof:name":"Hbl Nife Power Systems Limited",
+    "wof:parent_id":85930747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [78.443222,17.415855,78.443222,17.415855],
+  "geometry": {"coordinates":[78.443222,17.415855],"type":"Point"}
+}

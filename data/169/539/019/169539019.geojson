@@ -1,0 +1,65 @@
+{
+  "id": 169539019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.600204,12.914347,77.600204,12.914347",
+    "geom:latitude":12.914347,
+    "geom:longitude":77.600204,
+    "iso:country":"IN",
+    "sg:address":"172/1, Bannerghatta Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Palace",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2668 6456",
+    "sg:postcode":"560076",
+    "sg:tags":[
+        "rolling",
+        "shutter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931061,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qvlOyP9p4DJKj07739Y1i_12.914347_77.600204@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"347653902250def02cae471240e2c946",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931061,
+            "region_id":85672165,
+            "venue_id":169539019
+        }
+    ],
+    "wof:id":169539019,
+    "wof:lastmodified":1449036037,
+    "wof:name":"Anugraha Engineering",
+    "wof:parent_id":85931061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rolling",
+        "shutter"
+    ]
+},
+  "bbox": [77.600204,12.914347,77.600204,12.914347],
+  "geometry": {"coordinates":[77.600204,12.914347],"type":"Point"}
+}

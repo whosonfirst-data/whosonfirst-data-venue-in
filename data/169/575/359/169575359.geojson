@@ -1,0 +1,63 @@
+{
+  "id": 169575359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.581841,12.921774,77.581841,12.921774",
+    "geom:latitude":12.921774,
+    "geom:longitude":77.581841,
+    "iso:country":"IN",
+    "sg:address":"A-1/7, 1st Phase, G.i.d.c.,",
+    "sg:city":"Vapi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 260 395 1325",
+    "sg:postcode":"396195",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930887,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RsqdI3dCztJsPLbN9YY46_12.921774_77.581841@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"520e691360af9b0a38408508a4e0c443",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930887,
+            "region_id":85672165,
+            "venue_id":169575359
+        }
+    ],
+    "wof:id":169575359,
+    "wof:lastmodified":1449033641,
+    "wof:name":"Avik Pharmaceutical Ltd.",
+    "wof:parent_id":85930887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [77.581841,12.921774,77.581841,12.921774],
+  "geometry": {"coordinates":[77.581841,12.921774],"type":"Point"}
+}

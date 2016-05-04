@@ -1,0 +1,64 @@
+{
+  "id": 169546367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.926964,11.017478,76.926964,11.017478",
+    "geom:latitude":11.017478,
+    "geom:longitude":76.926964,
+    "iso:country":"IN",
+    "sg:address":"4/40 College Pudur,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 242 3995",
+    "sg:postcode":"641605",
+    "sg:tags":[
+        "garment",
+        "childrenwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JyWST5sKCU72pFa0dYCAu_11.017478_76.926964@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a50228d9c8fd7a8d149741c348eb6cbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169546367
+        }
+    ],
+    "wof:id":169546367,
+    "wof:lastmodified":1449032679,
+    "wof:name":"Style & Fashion",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "childrenwear"
+    ]
+},
+  "bbox": [76.926964,11.017478,76.926964,11.017478],
+  "geometry": {"coordinates":[76.926964,11.017478],"type":"Point"}
+}

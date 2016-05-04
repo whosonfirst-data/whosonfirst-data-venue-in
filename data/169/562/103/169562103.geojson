@@ -1,0 +1,53 @@
+{
+  "id": 169562103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.609398,12.974674,77.609398,12.974674",
+    "geom:latitude":12.974674,
+    "geom:longitude":77.609398,
+    "iso:country":"IN",
+    "sg:address":"M.g.road",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 805091101",
+    "sg:postcode":"560001",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930841,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BAhFgLC1FCfz80o85cyeM_12.974674_77.609398@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b0e8d642c7db5fe0df8c544177638d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930841,
+            "region_id":85672165,
+            "venue_id":169562103
+        }
+    ],
+    "wof:id":169562103,
+    "wof:lastmodified":1449034436,
+    "wof:name":"Abv Engineers & Consultants Pvt Ltd",
+    "wof:parent_id":85930841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.609398,12.974674,77.609398,12.974674],
+  "geometry": {"coordinates":[77.609398,12.974674],"type":"Point"}
+}

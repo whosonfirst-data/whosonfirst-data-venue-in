@@ -1,0 +1,65 @@
+{
+  "id": 169537971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.58017,12.930788,77.58017,12.930788",
+    "geom:latitude":12.930788,
+    "geom:longitude":77.58017,
+    "iso:country":"IN",
+    "sg:address":"60, 27th Cross, 4th Block, Jayanagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2663 1385",
+    "sg:postcode":"560011",
+    "sg:tags":[
+        "pressure",
+        "cooker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930887,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74Vnnukn31u4RJ9YS8JQae_12.930788_77.580170@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2a850db7cc0fb8fc020a27dec4729326",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930887,
+            "region_id":85672165,
+            "venue_id":169537971
+        }
+    ],
+    "wof:id":169537971,
+    "wof:lastmodified":1449033498,
+    "wof:name":"Vardhaman Steel Centre",
+    "wof:parent_id":85930887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pressure",
+        "cooker"
+    ]
+},
+  "bbox": [77.58017,12.930788,77.58017,12.930788],
+  "geometry": {"coordinates":[77.58017,12.930788],"type":"Point"}
+}

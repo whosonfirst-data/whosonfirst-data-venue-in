@@ -1,0 +1,66 @@
+{
+  "id": 169528741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.853394,19.056545,72.853394,19.056545",
+    "geom:latitude":19.056545,
+    "geom:longitude":72.853394,
+    "iso:country":"IN",
+    "sg:address":"C-22, Bandra Kurla Complex, Bandra (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2657 2242",
+    "sg:postcode":"400051",
+    "sg:tags":[
+        "bullion-gold",
+        "silver"
+    ],
+    "sg:website":"http://www.mmtclimited.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931567,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46rcnxqnUt2ekg3vh16Ax1_19.056545_72.853394@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"42f05a708755e309882a570de2ac5d4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931567,
+            "region_id":85672171,
+            "venue_id":169528741
+        }
+    ],
+    "wof:id":169528741,
+    "wof:lastmodified":1449033567,
+    "wof:name":"Mmtc Limited",
+    "wof:parent_id":85931567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bullion-gold",
+        "silver"
+    ]
+},
+  "bbox": [72.853394,19.056545,72.853394,19.056545],
+  "geometry": {"coordinates":[72.853394,19.056545],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169538263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.56572,12.997085,77.56572,12.997085",
+    "geom:latitude":12.997085,
+    "geom:longitude":77.56572,
+    "iso:country":"IN",
+    "sg:address":"No. 99/1, 1st Main Road, Seshadripuram, P.b. 2012,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Musical Instruments",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2336 1755",
+    "sg:postcode":"560020",
+    "sg:tags":[
+        "process",
+        "control",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MXkO4eNNvvCP3BXL2x2YX_12.997085_77.565720@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a1677e40e1b731bfe5340219ca4b00c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169538263
+        }
+    ],
+    "wof:id":169538263,
+    "wof:lastmodified":1449033101,
+    "wof:name":"Mass Fab (india) Private Limited",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "process",
+        "control",
+        "equipment"
+    ]
+},
+  "bbox": [77.56572,12.997085,77.56572,12.997085],
+  "geometry": {"coordinates":[77.56572,12.997085],"type":"Point"}
+}

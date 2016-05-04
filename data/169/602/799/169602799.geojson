@@ -1,0 +1,65 @@
+{
+  "id": 169602799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.018021,21.605633,73.018021,21.605633",
+    "geom:latitude":21.605633,
+    "geom:longitude":73.018021,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 317, G.i.d.c.,",
+    "sg:city":"Panoli",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2646 272 637",
+    "sg:postcode":"394116",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "sg:website":"http://www.gujaratgiycon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030931,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cGvQ5oYR66RGyVHYFVNtj_21.605633_73.018021@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"841a7a53538e8d2c05a4c0e841d4cfea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030931,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169602799
+        }
+    ],
+    "wof:id":169602799,
+    "wof:lastmodified":1449034230,
+    "wof:name":"Pooja Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [73.018021,21.605633,73.018021,21.605633],
+  "geometry": {"coordinates":[73.018021,21.605633],"type":"Point"}
+}

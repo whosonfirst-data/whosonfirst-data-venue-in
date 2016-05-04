@@ -1,0 +1,63 @@
+{
+  "id": 169529425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.933823,19.171724,72.933823,19.171724",
+    "geom:latitude":19.171724,
+    "geom:longitude":72.933823,
+    "iso:country":"IN",
+    "sg:address":"7/139, Jai Shastri Nagar, Mulund Colony,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2764 1847",
+    "sg:postcode":"400082",
+    "sg:tags":[
+        "machinery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931655,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jM2sUMDNxWPgH2SFJRcsO_19.171724_72.933823@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ba6d79f747f99a04a2ef3c4d79b0457d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931655,
+            "region_id":85672171,
+            "venue_id":169529425
+        }
+    ],
+    "wof:id":169529425,
+    "wof:lastmodified":1449034115,
+    "wof:name":"Sabari Plastic Pvt. Ltd.",
+    "wof:parent_id":85931655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machinery"
+    ]
+},
+  "bbox": [72.933823,19.171724,72.933823,19.171724],
+  "geometry": {"coordinates":[72.933823,19.171724],"type":"Point"}
+}

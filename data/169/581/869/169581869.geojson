@@ -1,0 +1,66 @@
+{
+  "id": 169581869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.08091,28.50275,77.08091,28.50275",
+    "geom:latitude":28.50275,
+    "geom:longitude":77.08091,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 800, Phase-5, Udyog Vihar,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 400 1436",
+    "sg:postcode":"122016",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "sg:website":"http://www.kanegradeindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928557,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i3FgxexQScL3vxnd1SHdT_28.502750_77.080910@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a04a202ae0c1fe5564b26da75e1ba9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928557,
+            "region_id":85672133,
+            "venue_id":169581869
+        }
+    ],
+    "wof:id":169581869,
+    "wof:lastmodified":1449033382,
+    "wof:name":"Kanegrade Flavours & Ingredients Pvt. Ltd.",
+    "wof:parent_id":85928557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [77.08091,28.50275,77.08091,28.50275],
+  "geometry": {"coordinates":[77.08091,28.50275],"type":"Point"}
+}

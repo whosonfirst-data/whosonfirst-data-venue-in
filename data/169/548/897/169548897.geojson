@@ -1,0 +1,61 @@
+{
+  "id": 169548897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.841331,19.058933,72.841331,19.058933",
+    "geom:latitude":19.058933,
+    "geom:longitude":72.841331,
+    "iso:country":"IN",
+    "sg:address":"111, M.m. Complex, City Station Road,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 252 2328",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931581,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zdE7DOb6vuU68BIGpsPYn_19.058933_72.841331@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7fb02a9bfa709f7f22c98aa6cd6334e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931581,
+            "region_id":-1,
+            "venue_id":169548897
+        }
+    ],
+    "wof:id":169548897,
+    "wof:lastmodified":1449034974,
+    "wof:name":"Sneh Exports",
+    "wof:parent_id":85931581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.841331,19.058933,72.841331,19.058933],
+  "geometry": {"coordinates":[72.841331,19.058933],"type":"Point"}
+}

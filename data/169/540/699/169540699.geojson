@@ -1,0 +1,61 @@
+{
+  "id": 169540699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.224442,8.304649,77.224442,8.304649",
+    "geom:latitude":8.304649,
+    "geom:longitude":77.224442,
+    "iso:country":"IN",
+    "sg:address":"No. 103/10, Lakshmi Market, J.m. Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2227 1825",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pjaugJfiv0P8ARgzc3lP7_8.304649_77.224442@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"809f9f76c921e472e1bcb6c0c731841a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169540699
+        }
+    ],
+    "wof:id":169540699,
+    "wof:lastmodified":1449033973,
+    "wof:name":"Punmiya Silks",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.224442,8.304649,77.224442,8.304649],
+  "geometry": {"coordinates":[77.224442,8.304649],"type":"Point"}
+}

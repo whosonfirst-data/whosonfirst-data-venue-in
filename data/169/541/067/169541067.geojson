@@ -1,0 +1,63 @@
+{
+  "id": 169541067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.606499,12.983521,77.606499,12.983521",
+    "geom:latitude":12.983521,
+    "geom:longitude":77.606499,
+    "iso:country":"IN",
+    "sg:address":"36, Jumma Masjid Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2227 5618",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930953,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W58xlUuSVGWHG3lynqXo4_12.983521_77.606499@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"94c7a479e3298f658abcdd7327e49986",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930953,
+            "region_id":85672165,
+            "venue_id":169541067
+        }
+    ],
+    "wof:id":169541067,
+    "wof:lastmodified":1449033039,
+    "wof:name":"Vijay Textiles",
+    "wof:parent_id":85930953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.606499,12.983521,77.606499,12.983521],
+  "geometry": {"coordinates":[77.606499,12.983521],"type":"Point"}
+}

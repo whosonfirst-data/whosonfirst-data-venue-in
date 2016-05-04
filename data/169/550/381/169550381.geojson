@@ -1,0 +1,62 @@
+{
+  "id": 169550381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.049973,28.703995,77.049973,28.703995",
+    "geom:latitude":28.703995,
+    "geom:longitude":77.049973,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 1201, 7/2a, Phase-i, G. I. D. C.",
+    "sg:city":"V.u. Nagar",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"388120",
+    "sg:tags":[
+        "case",
+        "bag"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vcrxwaBXBsX9tplx5Will_28.703995_77.049973@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fc7c073b9a52304caf27ff7f4e148a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169550381
+        }
+    ],
+    "wof:id":169550381,
+    "wof:lastmodified":1449034477,
+    "wof:name":"Shiv-shakti Plastic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "case",
+        "bag"
+    ]
+},
+  "bbox": [77.049973,28.703995,77.049973,28.703995],
+  "geometry": {"coordinates":[77.049973,28.703995],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169528691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.859512,19.115732,72.859512,19.115732",
+    "geom:latitude":19.115732,
+    "geom:longitude":72.859512,
+    "iso:country":"IN",
+    "sg:address":"403/404, 4th Floor, Sigma Andheri(e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2570 6622",
+    "sg:postcode":"400076",
+    "sg:tags":[
+        "bulk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JXBIfA0eCBKOtuXZAuLjr_19.115732_72.859512@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d10d638f3da978d2a940ded84d0ff0a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169528691
+        }
+    ],
+    "wof:id":169528691,
+    "wof:lastmodified":1449033566,
+    "wof:name":"Ferring Pharmaceuticals Pvt. Ltd.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk"
+    ]
+},
+  "bbox": [72.859512,19.115732,72.859512,19.115732],
+  "geometry": {"coordinates":[72.859512,19.115732],"type":"Point"}
+}

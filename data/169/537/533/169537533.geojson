@@ -1,0 +1,71 @@
+{
+  "id": 169537533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.552559,13.051134,77.552559,13.051134",
+    "geom:latitude":13.051134,
+    "geom:longitude":77.552559,
+    "iso:country":"IN",
+    "sg:address":"# 1180, Ramachandrapura, Jalahalli Post,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 6535 4383",
+    "sg:postcode":"560013",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903877,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BmJaIFjnpEihAilPrdYQG_13.051134_77.552559@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"adb78ab4927ac675cc01124bbffa80a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903877,
+            "region_id":85672165,
+            "venue_id":169537533
+        }
+    ],
+    "wof:id":169537533,
+    "wof:lastmodified":1449033496,
+    "wof:name":"Sri Manjunatha Precision Works",
+    "wof:parent_id":85903877,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.552559,13.051134,77.552559,13.051134],
+  "geometry": {"coordinates":[77.552559,13.051134],"type":"Point"}
+}

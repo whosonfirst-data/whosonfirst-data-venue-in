@@ -1,0 +1,62 @@
+{
+  "id": 169608521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"85.829109,20.327137,85.829109,20.327137",
+    "geom:latitude":20.327137,
+    "geom:longitude":85.829109,
+    "iso:country":"IN",
+    "sg:address":"147, I.e. Mancheswar,",
+    "sg:city":"Bhubaneswar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 674 324 4366",
+    "sg:postcode":"751010",
+    "sg:tags":[
+        "polymer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030665,
+        85672157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lBkw4mGGkekho5H4ckJP1_20.327137_85.829109@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"648fa1afd8a8e7632ca94fdc95e9170d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030665,
+            "neighbourhood_id":-1,
+            "region_id":85672157,
+            "venue_id":169608521
+        }
+    ],
+    "wof:id":169608521,
+    "wof:lastmodified":1449034086,
+    "wof:name":"Rakhi Polymer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [85.829109,20.327137,85.829109,20.327137],
+  "geometry": {"coordinates":[85.829109,20.327137],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169579329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.949989,11.001755,76.949989,11.001755",
+    "geom:latitude":11.001755,
+    "geom:longitude":76.949989,
+    "iso:country":"IN",
+    "sg:address":"19, Srinivasaragavan Street, R. S. Puram,",
+    "sg:city":"Coimbatore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 422 247 0994",
+    "sg:postcode":"641002",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783699,
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4noQbGUfWWQ1AGZ5AQQbh1_11.001755_76.949989@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ef7dada8167d7d4ffe612fe3be6b0466",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":85783699,
+            "region_id":85672245,
+            "venue_id":169579329
+        }
+    ],
+    "wof:id":169579329,
+    "wof:lastmodified":1449033741,
+    "wof:name":"Imperial Instruments And Chemicals",
+    "wof:parent_id":85783699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [76.949989,11.001755,76.949989,11.001755],
+  "geometry": {"coordinates":[76.949989,11.001755],"type":"Point"}
+}

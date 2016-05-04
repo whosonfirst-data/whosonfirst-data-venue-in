@@ -1,0 +1,63 @@
+{
+  "id": 169577069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.586052,12.980666,77.586052,12.980666",
+    "geom:latitude":12.980666,
+    "geom:longitude":77.586052,
+    "iso:country":"IN",
+    "sg:address":"21, Palace Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2228 0812",
+    "sg:postcode":"560052",
+    "sg:tags":[
+        "wax"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930877,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oTbBQ5LSByQzmlZGJrX9g_12.980666_77.586052@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"24283c123f19b76f9057941e65aebf51",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930877,
+            "region_id":85672165,
+            "venue_id":169577069
+        }
+    ],
+    "wof:id":169577069,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Gail India Limited",
+    "wof:parent_id":85930877,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [77.586052,12.980666,77.586052,12.980666],
+  "geometry": {"coordinates":[77.586052,12.980666],"type":"Point"}
+}

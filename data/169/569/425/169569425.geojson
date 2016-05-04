@@ -1,0 +1,52 @@
+{
+  "id": 169569425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833771,18.949526,72.833771,18.949526",
+    "geom:latitude":18.949526,
+    "geom:longitude":72.833771,
+    "iso:country":"IN",
+    "sg:address":"Narayan Dhuru Street",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2340 1288",
+    "sg:postcode":"400003",
+    "sg:province":"Maharashtra",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XYjlSPosTIQEzVPT3t5Fq_18.949526_72.833771@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9149ffcc506063729db6086be8730f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169569425
+        }
+    ],
+    "wof:id":169569425,
+    "wof:lastmodified":1449035830,
+    "wof:name":"Jyoti Engineering Combine",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.833771,18.949526,72.833771,18.949526],
+  "geometry": {"coordinates":[72.833771,18.949526],"type":"Point"}
+}

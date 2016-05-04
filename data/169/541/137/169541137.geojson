@@ -1,0 +1,63 @@
+{
+  "id": 169541137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.540031,13.0098,77.540031,13.0098",
+    "geom:latitude":13.0098,
+    "geom:longitude":77.540031,
+    "iso:country":"IN",
+    "sg:address":"M. M. Manor, P.b. No. 5643, 95, 5th Cross, S.s.i. Area, Rajajinagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2330 3558",
+    "sg:postcode":"560010",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mPRC6Ks4QkX60AOL5jeqZ_13.009800_77.540031@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2b9a50f019646151e9a629b3b17484cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169541137
+        }
+    ],
+    "wof:id":169541137,
+    "wof:lastmodified":1449033045,
+    "wof:name":"Suvarna Silk House",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.540031,13.0098,77.540031,13.0098],
+  "geometry": {"coordinates":[77.540031,13.0098],"type":"Point"}
+}

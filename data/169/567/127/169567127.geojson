@@ -1,0 +1,54 @@
+{
+  "id": 169567127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.24929,13.0861,80.24929,13.0861",
+    "geom:latitude":13.0861,
+    "geom:longitude":80.24929,
+    "iso:country":"IN",
+    "sg:address":"Purasawallam",
+    "sg:city":"Chennai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2641 7025",
+    "sg:postcode":"600007",
+    "sg:province":"Tamil Nadu",
+    "sg:website":"http://www.naturalgranite.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903949,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a4Urm3INlL374rN8GI2no_13.086100_80.249290@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d277fcfcad5db7840ef7b412788b58b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903949,
+            "region_id":85672245,
+            "venue_id":169567127
+        }
+    ],
+    "wof:id":169567127,
+    "wof:lastmodified":1449035998,
+    "wof:name":"Natural Granite",
+    "wof:parent_id":85903949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.24929,13.0861,80.24929,13.0861],
+  "geometry": {"coordinates":[80.24929,13.0861],"type":"Point"}
+}

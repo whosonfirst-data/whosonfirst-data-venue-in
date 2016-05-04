@@ -1,0 +1,58 @@
+{
+  "id": 169652017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.601286,12.963067,77.601286,12.963067",
+    "geom:latitude":12.963067,
+    "geom:longitude":77.601286,
+    "iso:country":"IN",
+    "sg:address":"No.1 Rhenius Street Off Richmond Road",
+    "sg:city":"Bangalore ",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560 025",
+    "sg:website":"http://www.comat.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930933,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KpTsvHbC2Vok2c5NCpWVR_12.963067_77.601286@1308163242"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"afca9872e275f5c5415b4cc694a2b4b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930933,
+            "region_id":85672165,
+            "venue_id":169652017
+        }
+    ],
+    "wof:id":169652017,
+    "wof:lastmodified":1449034809,
+    "wof:name":"Comat Technologies",
+    "wof:parent_id":85930933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.601286,12.963067,77.601286,12.963067],
+  "geometry": {"coordinates":[77.601286,12.963067],"type":"Point"}
+}

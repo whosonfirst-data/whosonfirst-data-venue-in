@@ -1,0 +1,63 @@
+{
+  "id": 169527679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.904549,19.09861,72.904549,19.09861",
+    "geom:latitude":19.09861,
+    "geom:longitude":72.904549,
+    "iso:country":"IN",
+    "sg:address":"A-13/52, Siddharth Nagar, Goregaon-west,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 251 248 9754",
+    "sg:postcode":"400062",
+    "sg:tags":[
+        "biscuit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931531,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O0Vxj7KGajpr9b6oo1OZD_19.098610_72.904549@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e8b6697c90fb5fa401e29396ec8ab649",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931531,
+            "region_id":85672171,
+            "venue_id":169527679
+        }
+    ],
+    "wof:id":169527679,
+    "wof:lastmodified":1449035279,
+    "wof:name":"Saijee Impex",
+    "wof:parent_id":85931531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit"
+    ]
+},
+  "bbox": [72.904549,19.09861,72.904549,19.09861],
+  "geometry": {"coordinates":[72.904549,19.09861],"type":"Point"}
+}

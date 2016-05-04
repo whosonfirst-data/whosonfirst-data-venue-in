@@ -1,0 +1,63 @@
+{
+  "id": 169543779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.210518,13.111913,80.210518,13.111913",
+    "geom:latitude":13.111913,
+    "geom:longitude":80.210518,
+    "iso:country":"IN",
+    "sg:address":"C-30, Indl. Estate, Rajajinagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2311 2288",
+    "sg:postcode":"560044",
+    "sg:tags":[
+        "transformer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903945,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X5w2b1DBvQqHaAwOHgGpm_13.111913_80.210518@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2a99b83c24dd678d5f102bc77b0e9c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903945,
+            "region_id":85672245,
+            "venue_id":169543779
+        }
+    ],
+    "wof:id":169543779,
+    "wof:lastmodified":1449033334,
+    "wof:name":"Volt Amps",
+    "wof:parent_id":85903945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transformer"
+    ]
+},
+  "bbox": [80.210518,13.111913,80.210518,13.111913],
+  "geometry": {"coordinates":[80.210518,13.111913],"type":"Point"}
+}

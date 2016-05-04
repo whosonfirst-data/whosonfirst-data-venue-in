@@ -1,0 +1,64 @@
+{
+  "id": 169606127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.162895,28.523521,77.162895,28.523521",
+    "geom:latitude":28.523521,
+    "geom:longitude":77.162895,
+    "iso:country":"IN",
+    "sg:address":"B-4/3180, Vasant Kunj,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2355 9235",
+    "sg:postcode":"110070",
+    "sg:tags":[
+        "resin"
+    ],
+    "sg:website":"http://www.rpcoatings.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903905,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lG3MyeA83h3EUbBB3H3E3_28.523521_77.162895@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cd1bc0fe4c62e2824545b19a0564b795",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903905,
+            "region_id":85672123,
+            "venue_id":169606127
+        }
+    ],
+    "wof:id":169606127,
+    "wof:lastmodified":1449033203,
+    "wof:name":"R. P. Coatings P. Ltd.",
+    "wof:parent_id":85903905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [77.162895,28.523521,77.162895,28.523521],
+  "geometry": {"coordinates":[77.162895,28.523521],"type":"Point"}
+}

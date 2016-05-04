@@ -1,0 +1,63 @@
+{
+  "id": 169617595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.86097,19.199005,72.86097,19.199005",
+    "geom:latitude":19.199005,
+    "geom:longitude":72.86097,
+    "iso:country":"IN",
+    "sg:address":"N.s.e. Complex, Off Western Express Highway, Goregaon East,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2685 4547",
+    "sg:postcode":"400063",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931529,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rRqrJIhy6A6PH8we3JaZn_19.199005_72.860970@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9ebb0d6d93b6426683972daf81bd24b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931529,
+            "region_id":85672171,
+            "venue_id":169617595
+        }
+    ],
+    "wof:id":169617595,
+    "wof:lastmodified":1449032803,
+    "wof:name":"Schlumberger Aisa Services Ltd.",
+    "wof:parent_id":85931529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.86097,19.199005,72.86097,19.199005],
+  "geometry": {"coordinates":[72.86097,19.199005],"type":"Point"}
+}

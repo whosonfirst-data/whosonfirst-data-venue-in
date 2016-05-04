@@ -1,0 +1,61 @@
+{
+  "id": 169586185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.881462,30.335127,76.881462,30.335127",
+    "geom:latitude":30.335127,
+    "geom:longitude":76.881462,
+    "iso:country":"IN",
+    "sg:address":"62, Hsidc Industrial Estate,",
+    "sg:city":"Sonepat",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2003 9170",
+    "sg:postcode":"131029",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ou0H9YkcjqTrOuiNopb5Z_30.335127_76.881462@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"47c300643f31d31916e21df4f7e63747",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672133,
+            "venue_id":169586185
+        }
+    ],
+    "wof:id":169586185,
+    "wof:lastmodified":1449035573,
+    "wof:name":"Mahabir Silicons",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [76.881462,30.335127,76.881462,30.335127],
+  "geometry": {"coordinates":[76.881462,30.335127],"type":"Point"}
+}

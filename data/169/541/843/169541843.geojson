@@ -1,0 +1,64 @@
+{
+  "id": 169541843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.845245,18.964659,72.845245,18.964659",
+    "geom:latitude":18.964659,
+    "geom:longitude":72.845245,
+    "iso:country":"IN",
+    "sg:address":"34/1, Church Road, Shantinagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4322 2222",
+    "sg:postcode":"560027",
+    "sg:tags":[
+        "seasoning",
+        "spice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903927,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yAtqaf6wM3lIHIR6D3AG3_18.964659_72.845245@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"450fe286f9a88a4ad84f9f7fb950ec07",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903927,
+            "region_id":-1,
+            "venue_id":169541843
+        }
+    ],
+    "wof:id":169541843,
+    "wof:lastmodified":1449033040,
+    "wof:name":"Deccan Traders",
+    "wof:parent_id":85903927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seasoning",
+        "spice"
+    ]
+},
+  "bbox": [72.845245,18.964659,72.845245,18.964659],
+  "geometry": {"coordinates":[72.845245,18.964659],"type":"Point"}
+}

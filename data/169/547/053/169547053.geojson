@@ -1,0 +1,62 @@
+{
+  "id": 169547053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.336945,11.116403,77.336945,11.116403",
+    "geom:latitude":11.116403,
+    "geom:longitude":77.336945,
+    "iso:country":"IN",
+    "sg:address":"43, Ramaiah Colony,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 242 0442",
+    "sg:postcode":"641602",
+    "sg:tags":[
+        "menswear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028425,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20kvNcgyZMN5GuLQvDPSMd_11.116403_77.336945@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6f6b6038e3d6bb007d02d1777b674844",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028425,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169547053
+        }
+    ],
+    "wof:id":169547053,
+    "wof:lastmodified":1449033007,
+    "wof:name":"Pandit Hosiery Mills",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "menswear"
+    ]
+},
+  "bbox": [77.336945,11.116403,77.336945,11.116403],
+  "geometry": {"coordinates":[77.336945,11.116403],"type":"Point"}
+}

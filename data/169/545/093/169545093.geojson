@@ -1,0 +1,66 @@
+{
+  "id": 169545093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.561752,13.006732,77.561752,13.006732",
+    "geom:latitude":13.006732,
+    "geom:longitude":77.561752,
+    "iso:country":"IN",
+    "sg:address":"19, 12th Main Road, Malleswaram West,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2334 1567",
+    "sg:postcode":"560055",
+    "sg:tags":[
+        "instrument",
+        "writing"
+    ],
+    "sg:website":"http://www.brilindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ghS53WDckxcU2xAHcr1uL_13.006732_77.561752@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1e8c8a2d2d2f93e3b90a7090f9d40d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169545093
+        }
+    ],
+    "wof:id":169545093,
+    "wof:lastmodified":1449033484,
+    "wof:name":"Industrial Research Corporation",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "writing"
+    ]
+},
+  "bbox": [77.561752,13.006732,77.561752,13.006732],
+  "geometry": {"coordinates":[77.561752,13.006732],"type":"Point"}
+}

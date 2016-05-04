@@ -1,0 +1,63 @@
+{
+  "id": 169579099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.320488,28.341431,77.320488,28.341431",
+    "geom:latitude":28.341431,
+    "geom:longitude":77.320488,
+    "iso:country":"IN",
+    "sg:address":"36, Opp. Panchayat Bhawan, Ballbgarh,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 224 3469",
+    "sg:postcode":"121004",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.horizonrubber.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903787,
+        85632469,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Gi2N2jKTKxnJs1B6vLs49_28.341431_77.320488@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e48889b465b4ab843eec848cdd6b185b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85903787,
+            "region_id":85672133,
+            "venue_id":169579099
+        }
+    ],
+    "wof:id":169579099,
+    "wof:lastmodified":1449033740,
+    "wof:name":"Horizon Rubber Products Ltd.",
+    "wof:parent_id":85903787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.320488,28.341431,77.320488,28.341431],
+  "geometry": {"coordinates":[77.320488,28.341431],"type":"Point"}
+}

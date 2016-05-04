@@ -1,0 +1,53 @@
+{
+  "id": 169566301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.198647,13.094926,80.198647,13.094926",
+    "geom:latitude":13.094926,
+    "geom:longitude":80.198647,
+    "iso:country":"IN",
+    "sg:address":"18th Main Road, Annanagar",
+    "sg:city":"Chennai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2628 3527",
+    "sg:postcode":"600040",
+    "sg:province":"Tamil Nadu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931701,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3k9sxB6G5ZY4mGoW7VYryH_13.094926_80.198647@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"addea1781e9970eed68cd56b89489381",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931701,
+            "region_id":85672245,
+            "venue_id":169566301
+        }
+    ],
+    "wof:id":169566301,
+    "wof:lastmodified":1449032754,
+    "wof:name":"Acme Packers & Forwarders",
+    "wof:parent_id":85931701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.198647,13.094926,80.198647,13.094926],
+  "geometry": {"coordinates":[80.198647,13.094926],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169528585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.826859,18.947308,72.826859,18.947308",
+    "geom:latitude":18.947308,
+    "geom:longitude":72.826859,
+    "iso:country":"IN",
+    "sg:address":"48, Amrut Niwas, 165, Lohar Chawl,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2201 3276",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "bulk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wS06GRrvfhT4qrOr3dJKa_18.947308_72.826859@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c6463fdb233d02c4dce47eee1e91fca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903889,
+            "region_id":85672171,
+            "venue_id":169528585
+        }
+    ],
+    "wof:id":169528585,
+    "wof:lastmodified":1449033569,
+    "wof:name":"Synchrotech Services Pvt. Ltd.",
+    "wof:parent_id":85903889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk"
+    ]
+},
+  "bbox": [72.826859,18.947308,72.826859,18.947308],
+  "geometry": {"coordinates":[72.826859,18.947308],"type":"Point"}
+}

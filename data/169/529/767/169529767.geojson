@@ -1,0 +1,64 @@
+{
+  "id": 169529767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.913071,19.101727,72.913071,19.101727",
+    "geom:latitude":19.101727,
+    "geom:longitude":72.913071,
+    "iso:country":"IN",
+    "sg:address":"Hill View Indl. Est., No. 419, Amrut Nagar, Off. L. B. S. Marg, Ghatkopar (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5596 9325",
+    "sg:postcode":"400086",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.ankushenterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931627,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fJbqWaBgPd8QvCSt1xNhY_19.101727_72.913071@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"66d7399a86f310771b691fcd5418a4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931627,
+            "region_id":85672171,
+            "venue_id":169529767
+        }
+    ],
+    "wof:id":169529767,
+    "wof:lastmodified":1449034114,
+    "wof:name":"Ankush Enterprises",
+    "wof:parent_id":85931627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.913071,19.101727,72.913071,19.101727],
+  "geometry": {"coordinates":[72.913071,19.101727],"type":"Point"}
+}

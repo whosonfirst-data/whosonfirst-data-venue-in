@@ -1,0 +1,53 @@
+{
+  "id": 169564169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.321495,28.602245,77.321495,28.602245",
+    "geom:latitude":28.602245,
+    "geom:longitude":77.321495,
+    "iso:country":"IN",
+    "sg:address":"Ndse Part I",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2462 2546",
+    "sg:postcode":"110049",
+    "sg:province":"Delhi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928167,
+        85632469,
+        102031133,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cZ72gCeRbC1xsCZK6rBtq_28.602245_77.321495@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"af231d20845938a9086ab116efa7e237",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031133,
+            "neighbourhood_id":85928167,
+            "region_id":85672205,
+            "venue_id":169564169
+        }
+    ],
+    "wof:id":169564169,
+    "wof:lastmodified":1449035765,
+    "wof:name":"Century Pulp & Paper Ltd",
+    "wof:parent_id":85928167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.321495,28.602245,77.321495,28.602245],
+  "geometry": {"coordinates":[77.321495,28.602245],"type":"Point"}
+}

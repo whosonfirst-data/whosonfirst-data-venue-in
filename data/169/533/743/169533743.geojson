@@ -1,0 +1,65 @@
+{
+  "id": 169533743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.852615,19.126532,72.852615,19.126532",
+    "geom:latitude":19.126532,
+    "geom:longitude":72.852615,
+    "iso:country":"IN",
+    "sg:address":"25, Sona Udyog Indl. Estate, Andheri E,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2838 7113",
+    "sg:postcode":"400069",
+    "sg:tags":[
+        "calendar",
+        "diary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931515,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72EABFYrjLtvbxcMX4MPpq_19.126532_72.852615@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b5d2959177456c4ebd50d18c606de1d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931515,
+            "region_id":85672171,
+            "venue_id":169533743
+        }
+    ],
+    "wof:id":169533743,
+    "wof:lastmodified":1449032644,
+    "wof:name":"Kuloday Technopack Pvt. Ltd.",
+    "wof:parent_id":85931515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "calendar",
+        "diary"
+    ]
+},
+  "bbox": [72.852615,19.126532,72.852615,19.126532],
+  "geometry": {"coordinates":[72.852615,19.126532],"type":"Point"}
+}

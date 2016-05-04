@@ -1,0 +1,67 @@
+{
+  "id": 169625983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.621216,13.021733,77.621216,13.021733",
+    "geom:latitude":13.021733,
+    "geom:longitude":77.621216,
+    "iso:country":"IN",
+    "sg:address":"No. 145, Vinayaka Temple Road, 1st Floor, K.g. Halli,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2543 6828",
+    "sg:postcode":"560045",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931099,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70vR2ciJagHe2wSqDR3Vx8_13.021733_77.621216@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5f9533aa93fa4e595316bb25e24ca870",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931099,
+            "region_id":85672165,
+            "venue_id":169625983
+        }
+    ],
+    "wof:id":169625983,
+    "wof:lastmodified":1449036025,
+    "wof:name":"Sony Paints & Chemicals",
+    "wof:parent_id":85931099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.621216,13.021733,77.621216,13.021733],
+  "geometry": {"coordinates":[77.621216,13.021733],"type":"Point"}
+}

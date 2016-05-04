@@ -1,0 +1,63 @@
+{
+  "id": 169596485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.806847,12.949685,74.806847,12.949685",
+    "geom:latitude":12.949685,
+    "geom:longitude":74.806847,
+    "iso:country":"IN",
+    "sg:address":"Plot No. N-2, Baikampady Indl. Area,",
+    "sg:city":"Mangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 824 240 7570",
+    "sg:postcode":"575011",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933561,
+        85632469,
+        102029439,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75dFOEBCzUXDHE7wq7JKjx_12.949685_74.806847@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2632355422fbf54a4068ea97f23a2a43",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029439,
+            "neighbourhood_id":85933561,
+            "region_id":85672165,
+            "venue_id":169596485
+        }
+    ],
+    "wof:id":169596485,
+    "wof:lastmodified":1449034370,
+    "wof:name":"Organo Sublimo Extracts",
+    "wof:parent_id":85933561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [74.806847,12.949685,74.806847,12.949685],
+  "geometry": {"coordinates":[74.806847,12.949685],"type":"Point"}
+}

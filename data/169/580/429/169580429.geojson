@@ -1,0 +1,62 @@
+{
+  "id": 169580429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.181641,28.707069,77.181641,28.707069",
+    "geom:latitude":28.707069,
+    "geom:longitude":77.181641,
+    "iso:country":"IN",
+    "sg:address":"B/35/3a, G.t. Karnal Road, Ind. Area,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2712 9671",
+    "sg:postcode":"110033",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iEuZC18r7t7HuRJsLLLnS_28.707069_77.181641@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0ac5b8a904d1458b961ee92ccb943004",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169580429
+        }
+    ],
+    "wof:id":169580429,
+    "wof:lastmodified":1449034916,
+    "wof:name":"Jaggo Overseas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.181641,28.707069,77.181641,28.707069],
+  "geometry": {"coordinates":[77.181641,28.707069],"type":"Point"}
+}

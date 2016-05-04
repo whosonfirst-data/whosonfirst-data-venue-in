@@ -1,0 +1,63 @@
+{
+  "id": 169575229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.27356,28.567049,77.27356,28.567049",
+    "geom:latitude":28.567049,
+    "geom:longitude":77.27356,
+    "iso:country":"IN",
+    "sg:address":"B-324, New Friends Colony,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110025",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.atschemicals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928007,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59jeAyYlS07z9lf3DVBoU8_28.567049_77.273560@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"33b1174353fa72d68712911f6ff2d791",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928007,
+            "region_id":85672123,
+            "venue_id":169575229
+        }
+    ],
+    "wof:id":169575229,
+    "wof:lastmodified":1449033641,
+    "wof:name":"Ats Business Services Pvt. Ltd.",
+    "wof:parent_id":85928007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.27356,28.567049,77.27356,28.567049],
+  "geometry": {"coordinates":[77.27356,28.567049],"type":"Point"}
+}

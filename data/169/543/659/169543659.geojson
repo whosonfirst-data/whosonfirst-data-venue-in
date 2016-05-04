@@ -1,0 +1,66 @@
+{
+  "id": 169543659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"83.197464,17.682808,83.197464,17.682808",
+    "geom:latitude":17.682808,
+    "geom:longitude":83.197464,
+    "iso:country":"IN",
+    "sg:address":"E-15, Auto Tower, 9, J.c. Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Social",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2299 5010",
+    "sg:postcode":"560029",
+    "sg:tags":[
+        "part",
+        "spare",
+        "tractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028261,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7j6WTy1MURO00iK6NHhK37_17.682808_83.197464@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c30d39425646718c50c8aa8413a33fc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028261,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169543659
+        }
+    ],
+    "wof:id":169543659,
+    "wof:lastmodified":1449033334,
+    "wof:name":"Aman Auto Parts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "part",
+        "spare",
+        "tractor"
+    ]
+},
+  "bbox": [83.197464,17.682808,83.197464,17.682808],
+  "geometry": {"coordinates":[83.197464,17.682808],"type":"Point"}
+}

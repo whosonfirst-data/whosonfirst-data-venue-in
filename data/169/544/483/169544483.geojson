@@ -1,0 +1,63 @@
+{
+  "id": 169544483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.644806,12.968687,77.644806,12.968687",
+    "geom:latitude":12.968687,
+    "geom:longitude":77.644806,
+    "iso:country":"IN",
+    "sg:address":"3367/ S, 13th Main, Hal 2nd Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"City Walls",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2528 9211",
+    "sg:postcode":"560008",
+    "sg:tags":[
+        "hanging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p2xGbPgy2cg6VgKDuXIkm_12.968687_77.644806@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5f6adae735e5eb3cd98061909e87b684",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169544483
+        }
+    ],
+    "wof:id":169544483,
+    "wof:lastmodified":1449035964,
+    "wof:name":"Spundhann - The Art People",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging"
+    ]
+},
+  "bbox": [77.644806,12.968687,77.644806,12.968687],
+  "geometry": {"coordinates":[77.644806,12.968687],"type":"Point"}
+}

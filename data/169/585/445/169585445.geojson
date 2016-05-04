@@ -1,0 +1,62 @@
+{
+  "id": 169585445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.835594,18.951937,72.835594,18.951937",
+    "geom:latitude":18.951937,
+    "geom:longitude":72.835594,
+    "iso:country":"IN",
+    "sg:address":"112-v.v. Chandan Street, Off No:20, Masjid Bunder(w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2344 0684",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31yV9YKVjk0BEToPxfW87b_18.951937_72.835594@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5b43c30235c6e0e79b97bd58d0ae1af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169585445
+        }
+    ],
+    "wof:id":169585445,
+    "wof:lastmodified":1449034885,
+    "wof:name":"M.k. Intermediates",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.835594,18.951937,72.835594,18.951937],
+  "geometry": {"coordinates":[72.835594,18.951937],"type":"Point"}
+}

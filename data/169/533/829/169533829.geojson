@@ -1,0 +1,66 @@
+{
+  "id": 169533829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.856331,19.161161,72.856331,19.161161",
+    "geom:latitude":19.161161,
+    "geom:longitude":72.856331,
+    "iso:country":"IN",
+    "sg:address":"A-26, Laghu Udyog Ind. Estate, I B Patel Road, Goregaon (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5623 5128",
+    "sg:postcode":"400063",
+    "sg:tags":[
+        "mould",
+        "dy"
+    ],
+    "sg:website":"http://www.planetmould.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931507,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VbwE4zKvTohq8pjxTWXNF_19.161161_72.856331@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7e790c5b99b52bd20b7161ea8d07862a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931507,
+            "region_id":85672171,
+            "venue_id":169533829
+        }
+    ],
+    "wof:id":169533829,
+    "wof:lastmodified":1449032644,
+    "wof:name":"Planet Dies & Tools Pvt. Ltd.",
+    "wof:parent_id":85931507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mould",
+        "dy"
+    ]
+},
+  "bbox": [72.856331,19.161161,72.856331,19.161161],
+  "geometry": {"coordinates":[72.856331,19.161161],"type":"Point"}
+}

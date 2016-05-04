@@ -1,0 +1,65 @@
+{
+  "id": 169533811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.858429,19.170286,72.858429,19.170286",
+    "geom:latitude":19.170286,
+    "geom:longitude":72.858429,
+    "iso:country":"IN",
+    "sg:address":"26, Kohinoor Industrial Estate, Goregaon(east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2878 3858",
+    "sg:postcode":"400063",
+    "sg:tags":[
+        "mould",
+        "dy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931525,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gbicaCHS5gLztWeSzqBqm_19.170286_72.858429@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e74112fc2717787172d247f3fba67e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931525,
+            "region_id":85672171,
+            "venue_id":169533811
+        }
+    ],
+    "wof:id":169533811,
+    "wof:lastmodified":1449032642,
+    "wof:name":"Radian International",
+    "wof:parent_id":85931525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mould",
+        "dy"
+    ]
+},
+  "bbox": [72.858429,19.170286,72.858429,19.170286],
+  "geometry": {"coordinates":[72.858429,19.170286],"type":"Point"}
+}

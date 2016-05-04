@@ -1,0 +1,74 @@
+{
+  "id": 169533929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.88884,19.109495,72.88884,19.109495",
+    "geom:latitude":19.109495,
+    "geom:longitude":72.88884,
+    "iso:country":"IN",
+    "sg:address":"J-1, Ansa Industrial Estate, Sakinaka, Andheri (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2852 4373",
+    "sg:postcode":"400072",
+    "sg:tags":[
+        "mould",
+        "dy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931519,
+        85632469,
+        102030609,
+        85672171,
+        85931605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22aMwcxZQTdc5EEVIsoQfI_19.109495_72.888840@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0709a695732828b016853edc52941957",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931519,
+            "region_id":85672171,
+            "venue_id":169533929
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169533929
+        }
+    ],
+    "wof:id":169533929,
+    "wof:lastmodified":1449032643,
+    "wof:name":"Mould Craft India",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mould",
+        "dy"
+    ]
+},
+  "bbox": [72.88884,19.109495,72.88884,19.109495],
+  "geometry": {"coordinates":[72.88884,19.109495],"type":"Point"}
+}

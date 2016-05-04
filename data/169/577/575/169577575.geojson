@@ -1,0 +1,63 @@
+{
+  "id": 169577575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.216988,28.644205,77.216988,28.644205",
+    "geom:latitude":28.644205,
+    "geom:longitude":77.216988,
+    "iso:country":"IN",
+    "sg:address":"401, Raja House, 30-31, Nehru Place,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2647 0184",
+    "sg:postcode":"110019",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903937,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K2tzdGay0yTBdR1utqqnV_28.644205_77.216988@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b5b5b0889443bfda518803fedb2ce955",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903937,
+            "region_id":85672123,
+            "venue_id":169577575
+        }
+    ],
+    "wof:id":169577575,
+    "wof:lastmodified":1449036065,
+    "wof:name":"Golden Rolls Pvt. Ltd.",
+    "wof:parent_id":85903937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.216988,28.644205,77.216988,28.644205],
+  "geometry": {"coordinates":[77.216988,28.644205],"type":"Point"}
+}

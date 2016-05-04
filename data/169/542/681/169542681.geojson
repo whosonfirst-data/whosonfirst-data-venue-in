@@ -1,0 +1,64 @@
+{
+  "id": 169542681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.66449,12.856229,77.66449,12.856229",
+    "geom:latitude":12.856229,
+    "geom:longitude":77.66449,
+    "iso:country":"IN",
+    "sg:address":"64, Electronic City, Hosur Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Bus Station",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2852 0711",
+    "sg:postcode":"561229",
+    "sg:tags":[
+        "switch"
+    ],
+    "sg:website":"http://www.teknic.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930867,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IHiExtlmCONP8rTpjRhJ2_12.856229_77.664490@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c55723dedb2e6b2136039f6ec864fd07",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930867,
+            "region_id":85672165,
+            "venue_id":169542681
+        }
+    ],
+    "wof:id":169542681,
+    "wof:lastmodified":1449035223,
+    "wof:name":"Teknic Euchner Electronics Pvt. Ltd.",
+    "wof:parent_id":85930867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "switch"
+    ]
+},
+  "bbox": [77.66449,12.856229,77.66449,12.856229],
+  "geometry": {"coordinates":[77.66449,12.856229],"type":"Point"}
+}

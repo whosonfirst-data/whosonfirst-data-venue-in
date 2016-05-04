@@ -1,0 +1,64 @@
+{
+  "id": 169547875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.279114,28.636297,77.279114,28.636297",
+    "geom:latitude":28.636297,
+    "geom:longitude":77.279114,
+    "iso:country":"IN",
+    "sg:address":"No. 156 Lakshmi Nagar Main Road,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 4212203001005",
+    "sg:postcode":"641602",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NYbJVuSgWRmc315p2Af0n_28.636297_77.279114@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a4d50c4585577ef2a260377d71db09ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169547875
+        }
+    ],
+    "wof:id":169547875,
+    "wof:lastmodified":1449033009,
+    "wof:name":"Jupiter Knitting Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [77.279114,28.636297,77.279114,28.636297],
+  "geometry": {"coordinates":[77.279114,28.636297],"type":"Point"}
+}

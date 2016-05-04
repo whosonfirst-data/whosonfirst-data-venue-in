@@ -1,0 +1,66 @@
+{
+  "id": 169526107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.851776,19.163532,72.851776,19.163532",
+    "geom:latitude":19.163532,
+    "geom:longitude":72.851776,
+    "iso:country":"IN",
+    "sg:address":"Unit No. 109/111, 7, Udyog Nagar, S.v. Road, Goregaon(w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2875 9160",
+    "sg:postcode":"400062",
+    "sg:tags":[
+        "product",
+        "audio"
+    ],
+    "sg:website":"http://www.jetspeed.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45MvNK1QHKKZmJnsDR9NUu_19.163532_72.851776@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9f3f15d37e2f97ad819195455eddb43c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169526107
+        }
+    ],
+    "wof:id":169526107,
+    "wof:lastmodified":1449033697,
+    "wof:name":"Jet-speed Audio Pvt. Ltd.",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "audio"
+    ]
+},
+  "bbox": [72.851776,19.163532,72.851776,19.163532],
+  "geometry": {"coordinates":[72.851776,19.163532],"type":"Point"}
+}

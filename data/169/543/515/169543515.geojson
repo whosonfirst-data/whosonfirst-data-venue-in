@@ -1,0 +1,65 @@
+{
+  "id": 169543515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.619621,13.025422,77.619621,13.025422",
+    "geom:latitude":13.025422,
+    "geom:longitude":77.619621,
+    "iso:country":"IN",
+    "sg:address":"# 33/1, N.t.y. Layout, Mysore Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2674 4090",
+    "sg:postcode":"560026",
+    "sg:tags":[
+        "plank",
+        "timber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931099,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o9UFVGqkuM4TpcpyzB38C_13.025422_77.619621@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d4f0719da814c35e87be31c3bbe3a99e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931099,
+            "region_id":85672165,
+            "venue_id":169543515
+        }
+    ],
+    "wof:id":169543515,
+    "wof:lastmodified":1449033334,
+    "wof:name":"Sri Ganesh Timber Co.",
+    "wof:parent_id":85931099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plank",
+        "timber"
+    ]
+},
+  "bbox": [77.619621,13.025422,77.619621,13.025422],
+  "geometry": {"coordinates":[77.619621,13.025422],"type":"Point"}
+}

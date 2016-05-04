@@ -1,0 +1,67 @@
+{
+  "id": 169575611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.539108,17.377199,78.539108,17.377199",
+    "geom:latitude":17.377199,
+    "geom:longitude":78.539108,
+    "iso:country":"IN",
+    "sg:address":"2-73/2, Chaitanya Puri,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2404 7661",
+    "sg:postcode":"500060",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930827,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QOdj1g9yE79bOf1piySPA_17.377199_78.539108@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8bb2aceb818262d4b6ef3f8fc70a416d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930827,
+            "region_id":85672141,
+            "venue_id":169575611
+        }
+    ],
+    "wof:id":169575611,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Bactolac Formulations Pvt. Ltd.",
+    "wof:parent_id":85930827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [78.539108,17.377199,78.539108,17.377199],
+  "geometry": {"coordinates":[78.539108,17.377199],"type":"Point"}
+}

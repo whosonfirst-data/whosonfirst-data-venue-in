@@ -1,0 +1,63 @@
+{
+  "id": 169529857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.846001,19.000666,72.846001,19.000666",
+    "geom:latitude":19.000666,
+    "geom:longitude":72.846001,
+    "iso:country":"IN",
+    "sg:address":"Acharya Donde Marg, Parel,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2412 9320",
+    "sg:postcode":"400012",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903941,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pHTpUGUDk4BOzEAiEhCqq_19.000666_72.846001@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"36149baf1abde3dec13a276eec9a2d93",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903941,
+            "region_id":85672171,
+            "venue_id":169529857
+        }
+    ],
+    "wof:id":169529857,
+    "wof:lastmodified":1449034115,
+    "wof:name":"Haffkine Biopharmaceutical Corporation Ltd",
+    "wof:parent_id":85903941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.846001,19.000666,72.846001,19.000666],
+  "geometry": {"coordinates":[72.846001,19.000666],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169558417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.854912,19.029301,72.854912,19.029301",
+    "geom:latitude":19.029301,
+    "geom:longitude":72.854912,
+    "iso:country":"IN",
+    "sg:address":"60, Shradhanand Marg,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2321 5078",
+    "sg:postcode":"110006",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931443,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17tj2DX1GGmHfBdqzhtNqS_19.029301_72.854912@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"318e48dcb938457f1d8e4d18a82a23ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931443,
+            "region_id":85672171,
+            "venue_id":169558417
+        }
+    ],
+    "wof:id":169558417,
+    "wof:lastmodified":1449033581,
+    "wof:name":"Bmpl International",
+    "wof:parent_id":85931443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.854912,19.029301,72.854912,19.029301],
+  "geometry": {"coordinates":[72.854912,19.029301],"type":"Point"}
+}

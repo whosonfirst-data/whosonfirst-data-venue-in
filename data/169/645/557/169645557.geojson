@@ -1,0 +1,64 @@
+{
+  "id": 169645557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.189445,28.650185,77.189445,28.650185",
+    "geom:latitude":28.650185,
+    "geom:longitude":77.189445,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 76, H.s.i.d.c, Industrial Area, Sec.-18, Delhi Road,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 234 2390",
+    "sg:postcode":"122015",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"www.cometa2.front.ru",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903883,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZrpxCIu3XxGQr1YPg0F9J_28.650185_77.189445@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b2b850a799cf5dd8e8d08ca417ba2673",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903883,
+            "region_id":85672123,
+            "venue_id":169645557
+        }
+    ],
+    "wof:id":169645557,
+    "wof:lastmodified":1449033005,
+    "wof:name":"Volga (india) Rubber Pvt. Ltd.",
+    "wof:parent_id":85903883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.189445,28.650185,77.189445,28.650185],
+  "geometry": {"coordinates":[77.189445,28.650185],"type":"Point"}
+}

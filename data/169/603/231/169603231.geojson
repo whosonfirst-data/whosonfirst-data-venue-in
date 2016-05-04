@@ -1,0 +1,61 @@
+{
+  "id": 169603231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.096603,22.408138,73.096603,22.408138",
+    "geom:latitude":22.408138,
+    "geom:longitude":73.096603,
+    "iso:country":"IN",
+    "sg:address":"129/6, G. I. D. C., Nandesari,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 284 0235",
+    "sg:postcode":"391340",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ObGS1cta1ps7cySBhfEVr_22.408138_73.096603@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a9ec7e7aebf9d6ad0ef3491769972da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169603231
+        }
+    ],
+    "wof:id":169603231,
+    "wof:lastmodified":1449035454,
+    "wof:name":"Prarthana Chemicals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [73.096603,22.408138,73.096603,22.408138],
+  "geometry": {"coordinates":[73.096603,22.408138],"type":"Point"}
+}

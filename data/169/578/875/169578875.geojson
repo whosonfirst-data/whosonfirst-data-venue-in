@@ -1,0 +1,62 @@
+{
+  "id": 169578875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.320808,19.855721,75.320808,19.855721",
+    "geom:latitude":19.855721,
+    "geom:longitude":75.320808,
+    "iso:country":"IN",
+    "sg:address":"Plot No. A-54, Midc,",
+    "sg:city":"Badlapur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 251 269 0200",
+    "sg:postcode":"421503",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030887,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zYvMv1Dm6QHchYGzYqcjs_19.855721_75.320808@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ee960c9ca12592ef26f48848e59da1ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030887,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169578875
+        }
+    ],
+    "wof:id":169578875,
+    "wof:lastmodified":1449033520,
+    "wof:name":"Himalaya Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [75.320808,19.855721,75.320808,19.855721],
+  "geometry": {"coordinates":[75.320808,19.855721],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 169652329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.307562,28.586492,77.307562,28.586492",
+    "geom:latitude":28.586492,
+    "geom:longitude":77.307562,
+    "iso:country":"IN",
+    "sg:address":"B-14/15, Phase-II Noida- (U.P.)",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"201 305",
+    "sg:website":"http://www.dixoninfo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928529,
+        85632469,
+        102031133,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56PqHFBOesS2E2QKWS5s7b_28.586492_77.307562@1308163241"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"92e268706c7333381a536296739075aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031133,
+            "neighbourhood_id":85928529,
+            "region_id":85672205,
+            "venue_id":169652329
+        }
+    ],
+    "wof:id":169652329,
+    "wof:lastmodified":1449034807,
+    "wof:name":"Dixon Technologies",
+    "wof:parent_id":85928529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.307562,28.586492,77.307562,28.586492],
+  "geometry": {"coordinates":[77.307562,28.586492],"type":"Point"}
+}

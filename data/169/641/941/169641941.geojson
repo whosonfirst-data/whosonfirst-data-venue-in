@@ -1,0 +1,64 @@
+{
+  "id": 169641941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.436829,17.441137,78.436829,17.441137",
+    "geom:latitude":17.441137,
+    "geom:longitude":78.436829,
+    "iso:country":"IN",
+    "sg:address":"78-a, Vengal Rao Nagar,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2381 2046",
+    "sg:postcode":"500038",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "sg:website":"http://www.vasudhapharma.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930753,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xqdRzCFf92xKVrEi4CTrA_17.441137_78.436829@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"514aa60fe197902f4997e19580b20d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930753,
+            "region_id":85672141,
+            "venue_id":169641941
+        }
+    ],
+    "wof:id":169641941,
+    "wof:lastmodified":1449035169,
+    "wof:name":"Vasudha Pharma Chem Limited",
+    "wof:parent_id":85930753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [78.436829,17.441137,78.436829,17.441137],
+  "geometry": {"coordinates":[78.436829,17.441137],"type":"Point"}
+}

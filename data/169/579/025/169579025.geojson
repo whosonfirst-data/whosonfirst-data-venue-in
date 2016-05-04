@@ -1,0 +1,63 @@
+{
+  "id": 169579025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.312965,28.500196,77.312965,28.500196",
+    "geom:latitude":28.500196,
+    "geom:longitude":77.312965,
+    "iso:country":"IN",
+    "sg:address":"32/1 B.b.d.bag,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2466 8506",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928357,
+        85632469,
+        102029189,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y9AVHlC6jE7lU8qcyQdmn_28.500196_77.312965@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5d180a2e95c423166ac45eb03244ea37",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928357,
+            "region_id":85672133,
+            "venue_id":169579025
+        }
+    ],
+    "wof:id":169579025,
+    "wof:lastmodified":1449033743,
+    "wof:name":"Hoffsman Commerical Corp.",
+    "wof:parent_id":85928357,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.312965,28.500196,77.312965,28.500196],
+  "geometry": {"coordinates":[77.312965,28.500196],"type":"Point"}
+}

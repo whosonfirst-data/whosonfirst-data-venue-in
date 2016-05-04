@@ -1,0 +1,62 @@
+{
+  "id": 169620225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.677986,10.799141,78.677986,10.799141",
+    "geom:latitude":10.799141,
+    "geom:longitude":78.677986,
+    "iso:country":"IN",
+    "sg:address":"3/220, Roshan Mahulla,",
+    "sg:city":"Agra",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 562 225 1417",
+    "sg:postcode":"282004",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028441,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CADbgB29UWChZd4QmDF6N_10.799141_78.677986@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"49a2bc99b2bfa53636be086e42c45b4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028441,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169620225
+        }
+    ],
+    "wof:id":169620225,
+    "wof:lastmodified":1449035674,
+    "wof:name":"Shivam Chemicals And Minerals Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.677986,10.799141,78.677986,10.799141],
+  "geometry": {"coordinates":[78.677986,10.799141],"type":"Point"}
+}

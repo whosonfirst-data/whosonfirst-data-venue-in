@@ -1,0 +1,53 @@
+{
+  "id": 169573109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833107,19.072195,72.833107,19.072195",
+    "geom:latitude":19.072195,
+    "geom:longitude":72.833107,
+    "iso:country":"IN",
+    "sg:address":"Dhurandhar Marg, 14th Road, Khar (west)",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2604 1456",
+    "sg:postcode":"400052",
+    "sg:province":"Maharashtra",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931493,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DmcI0VGUACt1ScByNpkWe_19.072195_72.833107@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1803402bebe666f892ef04d3ba6d97e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931493,
+            "region_id":85672171,
+            "venue_id":169573109
+        }
+    ],
+    "wof:id":169573109,
+    "wof:lastmodified":1449035112,
+    "wof:name":"Rohm & Haas (india) Pvt Ltd",
+    "wof:parent_id":85931493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.833107,19.072195,72.833107,19.072195],
+  "geometry": {"coordinates":[72.833107,19.072195],"type":"Point"}
+}

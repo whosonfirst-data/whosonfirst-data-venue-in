@@ -1,0 +1,63 @@
+{
+  "id": 169604963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.452629,28.691135,77.452629,28.691135",
+    "geom:latitude":28.691135,
+    "geom:longitude":77.452629,
+    "iso:country":"IN",
+    "sg:address":"A-2/5, Kavi Nagar Industrial Area, Sector-17,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 656 3723",
+    "sg:tags":[
+        "plant",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w0PPH0Va2lFjaEg2yiTdT_28.691135_77.452629@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0bd0ddf43a19b56fc4bcd61b655f95a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169604963
+        }
+    ],
+    "wof:id":169604963,
+    "wof:lastmodified":1449035568,
+    "wof:name":"Prompt Mechanical Instruments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [77.452629,28.691135,77.452629,28.691135],
+  "geometry": {"coordinates":[77.452629,28.691135],"type":"Point"}
+}

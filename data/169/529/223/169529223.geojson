@@ -1,0 +1,69 @@
+{
+  "id": 169529223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.857239,19.118752,72.857239,19.118752",
+    "geom:latitude":19.118752,
+    "geom:longitude":72.857239,
+    "iso:country":"IN",
+    "sg:address":"23, Sethi Industrial Estate, Andheri(e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"400093",
+    "sg:tags":[
+        "equipment",
+        "cctv",
+        "system",
+        "surveillance"
+    ],
+    "sg:website":"http://www.eviska.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Qi9tF1lS9R7heTudD9GIb_19.118752_72.857239@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"eb54541e3b1b160754667b697290b320",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169529223
+        }
+    ],
+    "wof:id":169529223,
+    "wof:lastmodified":1449034112,
+    "wof:name":"Pace Marketing Services",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "cctv",
+        "system",
+        "surveillance"
+    ]
+},
+  "bbox": [72.857239,19.118752,72.857239,19.118752],
+  "geometry": {"coordinates":[72.857239,19.118752],"type":"Point"}
+}

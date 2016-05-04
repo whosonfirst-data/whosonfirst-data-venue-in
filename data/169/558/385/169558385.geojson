@@ -1,0 +1,63 @@
+{
+  "id": 169558385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.357292,22.556393,88.357292,22.556393",
+    "geom:latitude":22.556393,
+    "geom:longitude":88.357292,
+    "iso:country":"IN",
+    "sg:address":"46-f, Rafi Ahmed Kidwai Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2229 5463",
+    "sg:postcode":"700016",
+    "sg:tags":[
+        "pigment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931931,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bUDVz6exUsQujfDK7oOkZ_22.556393_88.357292@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b375074ad9bddd730156218683cff58f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931931,
+            "region_id":85672219,
+            "venue_id":169558385
+        }
+    ],
+    "wof:id":169558385,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Blue Bird Chemical",
+    "wof:parent_id":85931931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [88.357292,22.556393,88.357292,22.556393],
+  "geometry": {"coordinates":[88.357292,22.556393],"type":"Point"}
+}

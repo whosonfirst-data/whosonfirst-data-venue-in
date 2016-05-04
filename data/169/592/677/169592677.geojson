@@ -1,0 +1,62 @@
+{
+  "id": 169592677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.925385,22.533955,72.925385,22.533955",
+    "geom:latitude":22.533955,
+    "geom:longitude":72.925385,
+    "iso:country":"IN",
+    "sg:address":"I/62, G.i.d.c., Vitthal Udyognagar,",
+    "sg:city":"Anand",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2692 236 377",
+    "sg:postcode":"388121",
+    "sg:tags":[
+        "polymer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030947,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Cd1HYFtu0X7ZprmfxDXbv_22.533955_72.925385@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4a0a0a2daac3371494cf81672af277b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030947,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169592677
+        }
+    ],
+    "wof:id":169592677,
+    "wof:lastmodified":1449034582,
+    "wof:name":"National Polymers Co.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [72.925385,22.533955,72.925385,22.533955],
+  "geometry": {"coordinates":[72.925385,22.533955],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169529015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.822784,19.141706,72.822784,19.141706",
+    "geom:latitude":19.141706,
+    "geom:longitude":72.822784,
+    "iso:country":"IN",
+    "sg:address":"1603/4, Magnum Tower, Lokhandwala Complex, Andheri (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tobacco Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2636 2563",
+    "sg:postcode":"400053",
+    "sg:tags":[
+        "carbon",
+        "graphite"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931475,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nf5sbTlGAtw4l2YqPWtc9_19.141706_72.822784@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f968e6e993f4ae85d057d12e6f7d3680",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931475,
+            "region_id":85672171,
+            "venue_id":169529015
+        }
+    ],
+    "wof:id":169529015,
+    "wof:lastmodified":1449034114,
+    "wof:name":"Access Marketing",
+    "wof:parent_id":85931475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carbon",
+        "graphite"
+    ]
+},
+  "bbox": [72.822784,19.141706,72.822784,19.141706],
+  "geometry": {"coordinates":[72.822784,19.141706],"type":"Point"}
+}

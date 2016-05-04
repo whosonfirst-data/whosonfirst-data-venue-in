@@ -1,0 +1,66 @@
+{
+  "id": 169531329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.851768,19.1663,72.851768,19.1663",
+    "geom:latitude":19.1663,
+    "geom:longitude":72.851768,
+    "iso:country":"IN",
+    "sg:address":"Mumbai Central,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Hair Removal",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2300 3523",
+    "sg:postcode":"400008",
+    "sg:tags":[
+        "cosmetic",
+        "accessory"
+    ],
+    "sg:website":"http://www.lamarnatural.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LDDVg2v9ClDt3zT6C35jh_19.166300_72.851768@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"788771ea34a783b2d606231a9c5d9d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169531329
+        }
+    ],
+    "wof:id":169531329,
+    "wof:lastmodified":1449033473,
+    "wof:name":"Lamar Natural Products Pvt. Ltd.",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "accessory"
+    ]
+},
+  "bbox": [72.851768,19.1663,72.851768,19.1663],
+  "geometry": {"coordinates":[72.851768,19.1663],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169579651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.282181,28.567865,77.282181,28.567865",
+    "geom:latitude":28.567865,
+    "geom:longitude":77.282181,
+    "iso:country":"IN",
+    "sg:address":"614/37, Zakir Nagar, Okhla,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2698 4081",
+    "sg:postcode":"110025",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.thesedaysindia.com, http://www.ochoalabs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927987,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UgfCdEBVGJc8HUmX4Oaxu_28.567865_77.282181@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2d1537fede97b21ad6935e33176400fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927987,
+            "region_id":85672123,
+            "venue_id":169579651
+        }
+    ],
+    "wof:id":169579651,
+    "wof:lastmodified":1449033741,
+    "wof:name":"Indinon Group",
+    "wof:parent_id":85927987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.282181,28.567865,77.282181,28.567865],
+  "geometry": {"coordinates":[77.282181,28.567865],"type":"Point"}
+}

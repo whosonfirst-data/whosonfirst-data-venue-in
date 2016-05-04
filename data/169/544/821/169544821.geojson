@@ -1,0 +1,67 @@
+{
+  "id": 169544821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.503555,12.990177,77.503555,12.990177",
+    "geom:latitude":12.990177,
+    "geom:longitude":77.503555,
+    "iso:country":"IN",
+    "sg:address":"47, Magadi Road, Sunkadakatte,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2853 6302",
+    "sg:postcode":"560091",
+    "sg:tags":[
+        "equipment",
+        "electrodes",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931093,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UlYNF5pZM5io3hzZU1g3i_12.990177_77.503555@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"42a046c2a6bb8be2d94b8d77c477dd6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931093,
+            "region_id":85672165,
+            "venue_id":169544821
+        }
+    ],
+    "wof:id":169544821,
+    "wof:lastmodified":1449035965,
+    "wof:name":"Weldaids Private Limited",
+    "wof:parent_id":85931093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electrodes",
+        "welding"
+    ]
+},
+  "bbox": [77.503555,12.990177,77.503555,12.990177],
+  "geometry": {"coordinates":[77.503555,12.990177],"type":"Point"}
+}

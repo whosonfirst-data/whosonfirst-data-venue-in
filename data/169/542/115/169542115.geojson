@@ -1,0 +1,58 @@
+{
+  "id": 169542115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.578346,12.979042,77.578346,12.979042",
+    "geom:latitude":12.979042,
+    "geom:longitude":77.578346,
+    "iso:country":"IN",
+    "sg:address":"162, 6th Cross, Gandhinagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2226 0655",
+    "sg:postcode":"560009",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55CdnJBfwf9FAGEChopeFj_12.979042_77.578346@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b42146a8c6140efe48a583625a61b248",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169542115
+        }
+    ],
+    "wof:id":169542115,
+    "wof:lastmodified":1449035219,
+    "wof:name":"Apache Hansa Pvt. Ltd.",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.578346,12.979042,77.578346,12.979042],
+  "geometry": {"coordinates":[77.578346,12.979042],"type":"Point"}
+}

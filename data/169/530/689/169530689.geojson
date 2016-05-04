@@ -1,0 +1,65 @@
+{
+  "id": 169530689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.851593,19.011715,72.851593,19.011715",
+    "geom:latitude":19.011715,
+    "geom:longitude":72.851593,
+    "iso:country":"IN",
+    "sg:address":"C/23, Royal Industrial Estate, Naigaon Cross Road, Wadala,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2413 7151",
+    "sg:postcode":"400031",
+    "sg:tags":[
+        "electronic",
+        "consumer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903993,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aA1RPjnWnUuZRJ0S0uq1C_19.011715_72.851593@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6125e8c9189b9664e41a3e353c10afd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903993,
+            "region_id":85672171,
+            "venue_id":169530689
+        }
+    ],
+    "wof:id":169530689,
+    "wof:lastmodified":1449034445,
+    "wof:name":"Photoquip India Limited",
+    "wof:parent_id":85903993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electronic",
+        "consumer"
+    ]
+},
+  "bbox": [72.851593,19.011715,72.851593,19.011715],
+  "geometry": {"coordinates":[72.851593,19.011715],"type":"Point"}
+}

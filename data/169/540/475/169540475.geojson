@@ -1,0 +1,64 @@
+{
+  "id": 169540475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.615662,12.932185,77.615662,12.932185",
+    "geom:latitude":12.932185,
+    "geom:longitude":77.615662,
+    "iso:country":"IN",
+    "sg:address":"3, Koramangala Industrial Layout,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2553 8101",
+    "sg:postcode":"560095",
+    "sg:tags":[
+        "silk"
+    ],
+    "sg:website":"http://www.easternsilk.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930917,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u8LFnJL2aGNwMtYn3Yibv_12.932185_77.615662@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b6af7b02b5c0a394624c1a9874e04d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930917,
+            "region_id":85672165,
+            "venue_id":169540475
+        }
+    ],
+    "wof:id":169540475,
+    "wof:lastmodified":1449033976,
+    "wof:name":"Esi Limited",
+    "wof:parent_id":85930917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.615662,12.932185,77.615662,12.932185],
+  "geometry": {"coordinates":[77.615662,12.932185],"type":"Point"}
+}

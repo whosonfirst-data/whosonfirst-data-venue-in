@@ -1,0 +1,63 @@
+{
+  "id": 169559863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.039902,28.453859,77.039902,28.453859",
+    "geom:latitude":28.453859,
+    "geom:longitude":77.039902,
+    "iso:country":"IN",
+    "sg:address":"109, Housing Board Colony, Near Patel Nagar, Jharsa Road,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 232 8794",
+    "sg:postcode":"122001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928503,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27Jkn7NwcUny7TmJr9Bj8M_28.453859_77.039902@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bd8915a434605f709d9769feca755d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928503,
+            "region_id":85672133,
+            "venue_id":169559863
+        }
+    ],
+    "wof:id":169559863,
+    "wof:lastmodified":1449035239,
+    "wof:name":"D. D. Metals",
+    "wof:parent_id":85928503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.039902,28.453859,77.039902,28.453859],
+  "geometry": {"coordinates":[77.039902,28.453859],"type":"Point"}
+}

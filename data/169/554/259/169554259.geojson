@@ -1,0 +1,65 @@
+{
+  "id": 169554259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.232666,22.284618,73.232666,22.284618",
+    "geom:latitude":22.284618,
+    "geom:longitude":73.232666,
+    "iso:country":"IN",
+    "sg:address":"79, Vasant Engg. Compd., O/o. Yamuna Mill, Dabhoi Road, Pratap Nagar",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 258 0144",
+    "sg:tags":[
+        "personal",
+        "equipment",
+        "safety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00YR1peRThfN0y1edRJWD5_22.284618_73.232666@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a4be3ebf492695be957d07970dda4ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169554259
+        }
+    ],
+    "wof:id":169554259,
+    "wof:lastmodified":1449033369,
+    "wof:name":"Rinaro Safety Products",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "equipment",
+        "safety"
+    ]
+},
+  "bbox": [73.232666,22.284618,73.232666,22.284618],
+  "geometry": {"coordinates":[73.232666,22.284618],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169558419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.290474,28.675814,77.290474,28.675814",
+    "geom:latitude":28.675814,
+    "geom:longitude":77.290474,
+    "iso:country":"IN",
+    "sg:address":"1/7783-a, East Gorakh Park, Hanuman Road, Shahdara,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2282 2437",
+    "sg:postcode":"110032",
+    "sg:tags":[
+        "lab",
+        "supply"
+    ],
+    "sg:website":"http://www.bloomingimpex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wLJZOP5FHQh0IWJcN28YK_28.675814_77.290474@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5fb524c99e0c91610f0a4a5d11647b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169558419
+        }
+    ],
+    "wof:id":169558419,
+    "wof:lastmodified":1449033582,
+    "wof:name":"Blooming Impex",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lab",
+        "supply"
+    ]
+},
+  "bbox": [77.290474,28.675814,77.290474,28.675814],
+  "geometry": {"coordinates":[77.290474,28.675814],"type":"Point"}
+}

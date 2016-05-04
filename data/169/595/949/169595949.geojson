@@ -1,0 +1,63 @@
+{
+  "id": 169595949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.607758,12.913362,77.607758,12.913362",
+    "geom:latitude":12.913362,
+    "geom:longitude":77.607758,
+    "iso:country":"IN",
+    "sg:address":"1652, 16 A Main, 8th Cross, Jp Nagar, 2nd Phase,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2658 8881",
+    "sg:postcode":"560078",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930853,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AiGA0nB2yUhvV0iUEtAP3_12.913362_77.607758@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"46f100e9619a39e9b7278dde97b26719",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930853,
+            "region_id":85672165,
+            "venue_id":169595949
+        }
+    ],
+    "wof:id":169595949,
+    "wof:lastmodified":1449035637,
+    "wof:name":"Omega Exim",
+    "wof:parent_id":85930853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.607758,12.913362,77.607758,12.913362],
+  "geometry": {"coordinates":[77.607758,12.913362],"type":"Point"}
+}

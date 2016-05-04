@@ -1,0 +1,65 @@
+{
+  "id": 169623071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.897728,19.063545,72.897728,19.063545",
+    "geom:latitude":19.063545,
+    "geom:longitude":72.897728,
+    "iso:country":"IN",
+    "sg:address":"10/115, Shell Colony, Chembur,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Crops",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2523 2370",
+    "sg:postcode":"400071",
+    "sg:tags":[
+        "fodder",
+        "additive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931489,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mCsl4apGtaG1hP2ACN55u_19.063545_72.897728@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2171446dd15a9d10741e998ba97dab2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931489,
+            "region_id":85672171,
+            "venue_id":169623071
+        }
+    ],
+    "wof:id":169623071,
+    "wof:lastmodified":1449034998,
+    "wof:name":"Shubh Impex",
+    "wof:parent_id":85931489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fodder",
+        "additive"
+    ]
+},
+  "bbox": [72.897728,19.063545,72.897728,19.063545],
+  "geometry": {"coordinates":[72.897728,19.063545],"type":"Point"}
+}

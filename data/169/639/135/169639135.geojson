@@ -1,0 +1,68 @@
+{
+  "id": 169639135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.094604,28.679468,77.094604,28.679468",
+    "geom:latitude":28.679468,
+    "geom:longitude":77.094604,
+    "iso:country":"IN",
+    "sg:address":"K-95, Udyog Nagar, Peeragarhi Chowk,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2547 3064",
+    "sg:postcode":"110041",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "sg:website":"http://www.sircaunique.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928203,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dZRAyTpz2FEfmhSU26KTJ_28.679468_77.094604@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"46e178e55f162dc1b834535a5a3ba28d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928203,
+            "region_id":85672123,
+            "venue_id":169639135
+        }
+    ],
+    "wof:id":169639135,
+    "wof:lastmodified":1449035950,
+    "wof:name":"Unique International",
+    "wof:parent_id":85928203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.094604,28.679468,77.094604,28.679468],
+  "geometry": {"coordinates":[77.094604,28.679468],"type":"Point"}
+}

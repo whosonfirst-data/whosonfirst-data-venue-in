@@ -1,0 +1,66 @@
+{
+  "id": 169599215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.644775,13.023806,77.644775,13.023806",
+    "geom:latitude":13.023806,
+    "geom:longitude":77.644775,
+    "iso:country":"IN",
+    "sg:address":"Krishna Bhavan, S. V. P. Road, No. 517,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2382 6337",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "sg:website":"http://www.parthexports.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931031,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bxto17HDZQXODOQaZnu3Y_13.023806_77.644775@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"de17a42cb4491b59c5051341cc4c8333",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931031,
+            "region_id":85672165,
+            "venue_id":169599215
+        }
+    ],
+    "wof:id":169599215,
+    "wof:lastmodified":1449034211,
+    "wof:name":"Parth Exports",
+    "wof:parent_id":85931031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [77.644775,13.023806,77.644775,13.023806],
+  "geometry": {"coordinates":[77.644775,13.023806],"type":"Point"}
+}

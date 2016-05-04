@@ -1,0 +1,67 @@
+{
+  "id": 169649885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.249855,28.589896,77.249855,28.589896",
+    "geom:latitude":28.589896,
+    "geom:longitude":77.249855,
+    "iso:country":"IN",
+    "sg:address":"C62 Nizamuddin East",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110013",
+    "sg:tags":[
+        "online-shopping",
+        "etailing",
+        "ecommerce"
+    ],
+    "sg:website":"http://www.autsun.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928065,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QhEcXM8TVHX5bB6JOAcQF_28.589896_77.249855@1308163240"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f16af371f354ad53f08b4f93f59892a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928065,
+            "region_id":85672123,
+            "venue_id":169649885
+        }
+    ],
+    "wof:id":169649885,
+    "wof:lastmodified":1449034943,
+    "wof:name":"AUTSUN.COM",
+    "wof:parent_id":85928065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "online-shopping",
+        "etailing",
+        "ecommerce"
+    ]
+},
+  "bbox": [77.249855,28.589896,77.249855,28.589896],
+  "geometry": {"coordinates":[77.249855,28.589896],"type":"Point"}
+}

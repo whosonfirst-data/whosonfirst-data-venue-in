@@ -1,0 +1,65 @@
+{
+  "id": 169578123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.820824,18.923998,72.820824,18.923998",
+    "geom:latitude":18.923998,
+    "geom:longitude":72.820824,
+    "iso:country":"IN",
+    "sg:address":"703, Dalamal Tower, Nariman Point,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2287 5274",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OthlMob2hIrX9fGuOGxje_18.923998_72.820824@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1157df95b472699ca45adefc0b77851a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169578123
+        }
+    ],
+    "wof:id":169578123,
+    "wof:lastmodified":1449033519,
+    "wof:name":"Gujrat Dyestuff Industries",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [72.820824,18.923998,72.820824,18.923998],
+  "geometry": {"coordinates":[72.820824,18.923998],"type":"Point"}
+}

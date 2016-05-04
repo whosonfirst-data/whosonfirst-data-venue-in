@@ -1,0 +1,65 @@
+{
+  "id": 169577005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.217239,28.643753,77.217239,28.643753",
+    "geom:latitude":28.643753,
+    "geom:longitude":77.217239,
+    "iso:country":"IN",
+    "sg:address":"2204/4, Chuna Mandi, Paharganj,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 5535 2305",
+    "sg:postcode":"110055",
+    "sg:tags":[
+        "natural",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903937,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gQnfIyU9Jp1PCpx7tSaWj_28.643753_77.217239@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"725a653d31f424bbf365c5b6cf579bb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903937,
+            "region_id":85672123,
+            "venue_id":169577005
+        }
+    ],
+    "wof:id":169577005,
+    "wof:lastmodified":1449036070,
+    "wof:name":"G. S. Walia & Sons",
+    "wof:parent_id":85903937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "natural",
+        "-"
+    ]
+},
+  "bbox": [77.217239,28.643753,77.217239,28.643753],
+  "geometry": {"coordinates":[77.217239,28.643753],"type":"Point"}
+}

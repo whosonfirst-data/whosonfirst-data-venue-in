@@ -1,0 +1,63 @@
+{
+  "id": 169559783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.428535,22.639385,88.428535,22.639385",
+    "geom:latitude":22.639385,
+    "geom:longitude":88.428535,
+    "iso:country":"IN",
+    "sg:address":"458/2, Jessore Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2551 7678",
+    "sg:postcode":"700055",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931993,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KjA7DRP8ziZVgywrz09QQ_22.639385_88.428535@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d9667411ddab4564ac133df5e5d85cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931993,
+            "region_id":85672219,
+            "venue_id":169559783
+        }
+    ],
+    "wof:id":169559783,
+    "wof:lastmodified":1449035237,
+    "wof:name":"Crompton Rubber Products",
+    "wof:parent_id":85931993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [88.428535,22.639385,88.428535,22.639385],
+  "geometry": {"coordinates":[88.428535,22.639385],"type":"Point"}
+}

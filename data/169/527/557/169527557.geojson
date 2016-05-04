@@ -1,0 +1,64 @@
+{
+  "id": 169527557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.821571,18.914289,72.821571,18.914289",
+    "geom:latitude":18.914289,
+    "geom:longitude":72.821571,
+    "iso:country":"IN",
+    "sg:address":"34, Arcade, W.t.c., Cuffeparade,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2215 5586",
+    "sg:postcode":"400005",
+    "sg:tags":[
+        "linen",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903829,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LVOgUoGdbXrOQLz55JIxd_18.914289_72.821571@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"86dec227cb658817b7caf02d4b1f51ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903829,
+            "region_id":-1,
+            "venue_id":169527557
+        }
+    ],
+    "wof:id":169527557,
+    "wof:lastmodified":1449035279,
+    "wof:name":"Walton Exports Pvt. Ltd.",
+    "wof:parent_id":85903829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "linen",
+        "bed"
+    ]
+},
+  "bbox": [72.821571,18.914289,72.821571,18.914289],
+  "geometry": {"coordinates":[72.821571,18.914289],"type":"Point"}
+}

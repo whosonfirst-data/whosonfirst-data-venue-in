@@ -1,0 +1,66 @@
+{
+  "id": 169531001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.924881,19.028112,72.924881,19.028112",
+    "geom:latitude":19.028112,
+    "geom:longitude":72.924881,
+    "iso:country":"IN",
+    "sg:address":"2nd Floor, Kamalini Building, Next To Grand Central Hotel, Central Avenue Road, Chembur,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Tower",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2527 4336",
+    "sg:tags":[
+        "plant",
+        "cooling",
+        "chilling"
+    ],
+    "sg:website":"http://www.equestplast.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QmPMUM1dgJeL2WWhk1ST5_19.028112_72.924881@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7eb2395270b376e69bff113e53a2bf09",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169531001
+        }
+    ],
+    "wof:id":169531001,
+    "wof:lastmodified":1449033472,
+    "wof:name":"E Quest Technologies Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "cooling",
+        "chilling"
+    ]
+},
+  "bbox": [72.924881,19.028112,72.924881,19.028112],
+  "geometry": {"coordinates":[72.924881,19.028112],"type":"Point"}
+}

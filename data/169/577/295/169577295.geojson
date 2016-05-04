@@ -1,0 +1,64 @@
+{
+  "id": 169577295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.019127,19.025885,73.019127,19.025885",
+    "geom:latitude":19.025885,
+    "geom:longitude":73.019127,
+    "iso:country":"IN",
+    "sg:address":"Plot No-23, Sector-1, Nerul,",
+    "sg:city":"Navi Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2770 7836",
+    "sg:postcode":"400706",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.geofire.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931651,
+        85632469,
+        102029191,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SHdBCVvqhgRg67qRu7WU0_19.025885_73.019127@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f940633cfb4efcd9c145d854742326a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029191,
+            "neighbourhood_id":85931651,
+            "region_id":85672171,
+            "venue_id":169577295
+        }
+    ],
+    "wof:id":169577295,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Geo Fire Remedies Pvt. Ltd.",
+    "wof:parent_id":85931651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [73.019127,19.025885,73.019127,19.025885],
+  "geometry": {"coordinates":[73.019127,19.025885],"type":"Point"}
+}

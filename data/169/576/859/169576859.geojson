@@ -1,0 +1,63 @@
+{
+  "id": 169576859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.868294,19.116081,72.868294,19.116081",
+    "geom:latitude":19.116081,
+    "geom:longitude":72.868294,
+    "iso:country":"IN",
+    "sg:address":"No. A-9, Street No. 5, Cross Road 'b', M.i.d.c., Andheri,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2820 2847",
+    "sg:postcode":"400093",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Kt3HrqJXDX19DE79hvead_19.116081_72.868294@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"59beee78148a65d8d71d0a248b64bc42",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169576859
+        }
+    ],
+    "wof:id":169576859,
+    "wof:lastmodified":1449035198,
+    "wof:name":"Frezco Corpn.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.868294,19.116081,72.868294,19.116081],
+  "geometry": {"coordinates":[72.868294,19.116081],"type":"Point"}
+}

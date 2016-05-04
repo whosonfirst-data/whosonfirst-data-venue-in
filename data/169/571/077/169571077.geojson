@@ -1,0 +1,54 @@
+{
+  "id": 169571077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.826363,18.930841,72.826363,18.930841",
+    "geom:latitude":18.930841,
+    "geom:longitude":72.826363,
+    "iso:country":"IN",
+    "sg:address":"198, Jamshedji Tata Road, Churchgate",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2202 1525",
+    "sg:postcode":"400020",
+    "sg:province":"Maharashtra",
+    "sg:website":"http://www.mipak.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931425,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ocLBj62wZ2OWqafAcYZWE_18.930841_72.826363@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8428b80e09d566a1013eb79a1b62d5c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931425,
+            "region_id":85672171,
+            "venue_id":169571077
+        }
+    ],
+    "wof:id":169571077,
+    "wof:lastmodified":1449034946,
+    "wof:name":"Mipak Plastics Pvt Ltd",
+    "wof:parent_id":85931425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.826363,18.930841,72.826363,18.930841],
+  "geometry": {"coordinates":[72.826363,18.930841],"type":"Point"}
+}

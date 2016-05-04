@@ -1,0 +1,62 @@
+{
+  "id": 169577579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.177956,28.687447,77.177956,28.687447",
+    "geom:latitude":28.687447,
+    "geom:longitude":77.177956,
+    "iso:country":"IN",
+    "sg:address":"A-4/233, Janta Flats, Paschim Vihar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2527 6382",
+    "sg:postcode":"110063",
+    "sg:tags":[
+        "wax"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nGp4wTttvtf46SS0a3BUR_28.687447_77.177956@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"db5d85a827f14e375ac9a0682d3994b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169577579
+        }
+    ],
+    "wof:id":169577579,
+    "wof:lastmodified":1449036065,
+    "wof:name":"Globe Trading Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [77.177956,28.687447,77.177956,28.687447],
+  "geometry": {"coordinates":[77.177956,28.687447],"type":"Point"}
+}

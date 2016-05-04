@@ -1,0 +1,63 @@
+{
+  "id": 169540799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.634003,12.927445,77.634003,12.927445",
+    "geom:latitude":12.927445,
+    "geom:longitude":77.634003,
+    "iso:country":"IN",
+    "sg:address":"#369, 6th Main 1st Block, Koramangala,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 91807822118",
+    "sg:postcode":"560034",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931041,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Py2UO0wfSmEatUF5L5mWG_12.927445_77.634003@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d764aaeb85541ee6fe53f36cdda852de",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931041,
+            "region_id":85672165,
+            "venue_id":169540799
+        }
+    ],
+    "wof:id":169540799,
+    "wof:lastmodified":1449033978,
+    "wof:name":"Madhu Silk Pvt. Ltd.",
+    "wof:parent_id":85931041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.634003,12.927445,77.634003,12.927445],
+  "geometry": {"coordinates":[77.634003,12.927445],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169572743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.822906,18.930225,72.822906,18.930225",
+    "geom:latitude":18.930225,
+    "geom:longitude":72.822906,
+    "iso:country":"IN",
+    "sg:address":"177, Babubhai Chinai Road",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2204 7131",
+    "sg:postcode":"400020",
+    "sg:province":"Maharashtra",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903879,
+        85632469,
+        102030609,
+        85672171,
+        85931461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HdZSvKc7fsrRXJvclngtM_18.930225_72.822906@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fb70798d38a4cde194c327a77d90b0e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903879,
+            "region_id":85672171,
+            "venue_id":169572743
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169572743
+        }
+    ],
+    "wof:id":169572743,
+    "wof:lastmodified":1449034709,
+    "wof:name":"Pg International",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.822906,18.930225,72.822906,18.930225],
+  "geometry": {"coordinates":[72.822906,18.930225],"type":"Point"}
+}

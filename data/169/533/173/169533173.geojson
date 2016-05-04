@@ -1,0 +1,63 @@
+{
+  "id": 169533173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.815964,18.957668,72.815964,18.957668",
+    "geom:latitude":18.957668,
+    "geom:longitude":72.815964,
+    "iso:country":"IN",
+    "sg:address":"Parekh Market No.613, Opera House,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2386 9290",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931463,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sJhUL8ZJOYXUypMQkqkaJ_18.957668_72.815964@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a7d81df9c49ff2a753a5f21f5094c2cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931463,
+            "region_id":85672171,
+            "venue_id":169533173
+        }
+    ],
+    "wof:id":169533173,
+    "wof:lastmodified":1449032641,
+    "wof:name":"Kothari Trading Corpn.",
+    "wof:parent_id":85931463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.815964,18.957668,72.815964,18.957668],
+  "geometry": {"coordinates":[72.815964,18.957668],"type":"Point"}
+}

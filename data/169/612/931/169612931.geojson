@@ -1,0 +1,61 @@
+{
+  "id": 169612931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.26667,26.633333,76.26667,26.633333",
+    "geom:latitude":26.633333,
+    "geom:longitude":76.26667,
+    "iso:country":"IN",
+    "sg:address":"P-13, Raipur, Ramgarh,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2430 4607",
+    "sg:postcode":"700084",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fPYpsWlIbBckeFo8iPp1Q_26.633333_76.266670@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4a86ac1fde154a8513fab822af3f7a5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672201,
+            "venue_id":169612931
+        }
+    ],
+    "wof:id":169612931,
+    "wof:lastmodified":1449034132,
+    "wof:name":"Rus Impex",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [76.26667,26.633333,76.26667,26.633333],
+  "geometry": {"coordinates":[76.26667,26.633333],"type":"Point"}
+}

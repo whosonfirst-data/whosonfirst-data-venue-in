@@ -1,0 +1,65 @@
+{
+  "id": 169583397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.666855,23.028616,72.666855,23.028616",
+    "geom:latitude":23.028616,
+    "geom:longitude":72.666855,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 63, G.v.m.m.a., Odhav,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 2290 2525",
+    "sg:postcode":"382415",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "sg:website":"http://www.acidproof.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fuGnQUyJSdccBkRQEefeK_23.028616_72.666855@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"074a9cd92484f7257ed5149873b42f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169583397
+        }
+    ],
+    "wof:id":169583397,
+    "wof:lastmodified":1449035266,
+    "wof:name":"Kothari Acid Proof Tiles Co.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [72.666855,23.028616,72.666855,23.028616],
+  "geometry": {"coordinates":[72.666855,23.028616],"type":"Point"}
+}

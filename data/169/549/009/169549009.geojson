@@ -1,0 +1,72 @@
+{
+  "id": 169549009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.133087,28.694988,77.133087,28.694988",
+    "geom:latitude":28.694988,
+    "geom:longitude":77.133087,
+    "iso:country":"IN",
+    "sg:address":"F-16a, Road No. 3, Mia,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 249 2123",
+    "sg:postcode":"313003",
+    "sg:tags":[
+        "indicator",
+        "electronic",
+        "controller",
+        "liquid",
+        "level"
+    ],
+    "sg:website":"http://www.peplelectronics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928043,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z9reD05jyf9KVrN7N1TDx_28.694988_77.133087@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"03f7944ffe374dbd501c17a09ef676eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928043,
+            "region_id":85672123,
+            "venue_id":169549009
+        }
+    ],
+    "wof:id":169549009,
+    "wof:lastmodified":1449033592,
+    "wof:name":"Pyrotech Electronics Pvt. Ltd.",
+    "wof:parent_id":85928043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "indicator",
+        "electronic",
+        "controller",
+        "liquid",
+        "level"
+    ]
+},
+  "bbox": [77.133087,28.694988,77.133087,28.694988],
+  "geometry": {"coordinates":[77.133087,28.694988],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169528439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.840424,19.10812,72.840424,19.10812",
+    "geom:latitude":19.10812,
+    "geom:longitude":72.840424,
+    "iso:country":"IN",
+    "sg:address":"406 S.v. Road. Vile Parle (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2611 4316",
+    "sg:postcode":"400056",
+    "sg:tags":[
+        "building"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931603,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Gr5jHCMqCjrbunlED5A1w_19.108120_72.840424@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"31c2e48f0ee2cb4f2af8f97bc3d928db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931603,
+            "region_id":85672171,
+            "venue_id":169528439
+        }
+    ],
+    "wof:id":169528439,
+    "wof:lastmodified":1449033570,
+    "wof:name":"Hemchand & Co.",
+    "wof:parent_id":85931603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building"
+    ]
+},
+  "bbox": [72.840424,19.10812,72.840424,19.10812],
+  "geometry": {"coordinates":[72.840424,19.10812],"type":"Point"}
+}

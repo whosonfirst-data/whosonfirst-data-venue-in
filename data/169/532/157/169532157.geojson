@@ -1,0 +1,62 @@
+{
+  "id": 169532157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.837868,19.086216,72.837868,19.086216",
+    "geom:latitude":19.086216,
+    "geom:longitude":72.837868,
+    "iso:country":"IN",
+    "sg:address":"502, Regal, S.v.road, Santacruz (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2661 5219",
+    "sg:postcode":"400054",
+    "sg:tags":[
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931575,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21fTkR5BE5iSt4LdSuyHVR_19.086216_72.837868@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"04900c87406132b6668ee8bb4db66392",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931575,
+            "region_id":85672171,
+            "venue_id":169532157
+        }
+    ],
+    "wof:id":169532157,
+    "wof:lastmodified":1449033796,
+    "wof:name":"Donil Jewellers",
+    "wof:parent_id":85931575,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.837868,19.086216,72.837868,19.086216],
+  "geometry": {"coordinates":[72.837868,19.086216],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 169549923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.242668,28.553358,77.242668,28.553358",
+    "geom:latitude":28.553358,
+    "geom:longitude":77.242668,
+    "iso:country":"IN",
+    "sg:address":"A-996/1991, Kailash Colony,",
+    "sg:city":"Ulhasnagar",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 251 254 7605",
+    "sg:postcode":"421502",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928369,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03ZeKOEWDceej0oVCdWXCW_28.553358_77.242668@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"85fcb5711319d6a148374d6f2ee03c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928369,
+            "region_id":85672123,
+            "venue_id":169549923
+        }
+    ],
+    "wof:id":169549923,
+    "wof:lastmodified":1449033593,
+    "wof:name":"Panesar Engineering",
+    "wof:parent_id":85928369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.242668,28.553358,77.242668,28.553358],
+  "geometry": {"coordinates":[77.242668,28.553358],"type":"Point"}
+}

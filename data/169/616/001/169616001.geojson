@@ -1,0 +1,64 @@
+{
+  "id": 169616001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.849701,21.199327,72.849701,21.199327",
+    "geom:latitude":21.199327,
+    "geom:longitude":72.849701,
+    "iso:country":"IN",
+    "sg:address":"T-11, Bombay Textile Market, Umarwada",
+    "sg:city":"Surat",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 261 283 4193",
+    "sg:postcode":"395010",
+    "sg:tags":[
+        "product",
+        "gum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028539,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KkQaKtMgp5iw6xoVAl4QZ_21.199327_72.849701@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8492288d1e49c7cf72ee316ca89ed88a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028539,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169616001
+        }
+    ],
+    "wof:id":169616001,
+    "wof:lastmodified":1449035100,
+    "wof:name":"Sandorang Surat Dyes",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "gum"
+    ]
+},
+  "bbox": [72.849701,21.199327,72.849701,21.199327],
+  "geometry": {"coordinates":[72.849701,21.199327],"type":"Point"}
+}

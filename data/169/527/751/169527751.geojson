@@ -1,0 +1,67 @@
+{
+  "id": 169527751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.876289,19.050102,72.876289,19.050102",
+    "geom:latitude":19.050102,
+    "geom:longitude":72.876289,
+    "iso:country":"IN",
+    "sg:address":"B-14, Everard Nagar, Sion,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5608 3357",
+    "sg:postcode":"400022",
+    "sg:tags":[
+        "spare",
+        "component",
+        "boilers"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903847,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PYj2C2h16Xov8LvOv87Ft_19.050102_72.876289@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6abda928f1eaf5ac67b929498a267ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903847,
+            "region_id":85672171,
+            "venue_id":169527751
+        }
+    ],
+    "wof:id":169527751,
+    "wof:lastmodified":1449035277,
+    "wof:name":"Red Ray Engineers",
+    "wof:parent_id":85903847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "component",
+        "boilers"
+    ]
+},
+  "bbox": [72.876289,19.050102,72.876289,19.050102],
+  "geometry": {"coordinates":[72.876289,19.050102],"type":"Point"}
+}

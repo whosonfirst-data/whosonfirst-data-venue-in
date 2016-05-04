@@ -1,0 +1,74 @@
+{
+  "id": 169541999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.621788,12.928975,77.621788,12.928975",
+    "geom:latitude":12.928975,
+    "geom:longitude":77.621788,
+    "iso:country":"IN",
+    "sg:address":"# 99, 4th Cross, 2nd Block, Koramangala, Madiwala,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 57 681877",
+    "sg:postcode":"560034",
+    "sg:tags":[
+        "spring",
+        "coil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930917,
+        85632469,
+        102030819,
+        85672165,
+        85931027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eCReNKqtBevMi5THWNVTx_12.928975_77.621788@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e56d0b66b1cd0ccc6d16ba773a305bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930917,
+            "region_id":85672165,
+            "venue_id":169541999
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931027,
+            "region_id":85672165,
+            "venue_id":169541999
+        }
+    ],
+    "wof:id":169541999,
+    "wof:lastmodified":1449033044,
+    "wof:name":"Nab Contractors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spring",
+        "coil"
+    ]
+},
+  "bbox": [77.621788,12.928975,77.621788,12.928975],
+  "geometry": {"coordinates":[77.621788,12.928975],"type":"Point"}
+}

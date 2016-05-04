@@ -1,0 +1,63 @@
+{
+  "id": 169566245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.94091,26.847851,80.94091,26.847851",
+    "geom:latitude":26.847851,
+    "geom:longitude":80.94091,
+    "iso:country":"IN",
+    "sg:address":"Fazal Ganj",
+    "sg:city":"Kanpur",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 512215128",
+    "sg:postcode":"208012",
+    "sg:province":"Uttar Pradesh",
+    "sg:website":"http://www.hansmetals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933223,
+        85632469,
+        102029557,
+        85672205,
+        85933213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29WKqPmInmdL1y7tchWYdZ_26.847851_80.940910@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"87f9aec2125e56d56188d2ade0f09191",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029557,
+            "neighbourhood_id":85933223,
+            "region_id":85672205,
+            "venue_id":169566245
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029557,
+            "neighbourhood_id":85933213,
+            "region_id":85672205,
+            "venue_id":169566245
+        }
+    ],
+    "wof:id":169566245,
+    "wof:lastmodified":1449032756,
+    "wof:name":"Hans Metals Ltd",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.94091,26.847851,80.94091,26.847851],
+  "geometry": {"coordinates":[80.94091,26.847851],"type":"Point"}
+}

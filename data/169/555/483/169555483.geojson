@@ -1,0 +1,53 @@
+{
+  "id": 169555483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.608345,12.982174,77.608345,12.982174",
+    "geom:latitude":12.982174,
+    "geom:longitude":77.608345,
+    "iso:country":"IN",
+    "sg:address":"Commercial Street",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 8053278335096",
+    "sg:postcode":"560001",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930953,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jltcHVhesLu0CgadRbZV5_12.982174_77.608345@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c9bdae3503d4d26983e3fee157488dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930953,
+            "region_id":85672165,
+            "venue_id":169555483
+        }
+    ],
+    "wof:id":169555483,
+    "wof:lastmodified":1449035496,
+    "wof:name":"Sri Krishna Diamond & Jewellery",
+    "wof:parent_id":85930953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.608345,12.982174,77.608345,12.982174],
+  "geometry": {"coordinates":[77.608345,12.982174],"type":"Point"}
+}

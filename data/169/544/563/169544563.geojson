@@ -1,0 +1,66 @@
+{
+  "id": 169544563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.602982,12.961187,77.602982,12.961187",
+    "geom:latitude":12.961187,
+    "geom:longitude":77.602982,
+    "iso:country":"IN",
+    "sg:address":"24/2, Norris Road, Richmond Town,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2223 9216",
+    "sg:postcode":"560025",
+    "sg:tags":[
+        "watch",
+        "clock"
+    ],
+    "sg:website":"http://www.saintwatches.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930939,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z5nyyl96bxA8y6s8hUBd3_12.961187_77.602982@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"36c04b4bb17f35812ddddd47901c0650",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930939,
+            "region_id":85672165,
+            "venue_id":169544563
+        }
+    ],
+    "wof:id":169544563,
+    "wof:lastmodified":1449035962,
+    "wof:name":"Saint Watches Private Limited",
+    "wof:parent_id":85930939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "watch",
+        "clock"
+    ]
+},
+  "bbox": [77.602982,12.961187,77.602982,12.961187],
+  "geometry": {"coordinates":[77.602982,12.961187],"type":"Point"}
+}

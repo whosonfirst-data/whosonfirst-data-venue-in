@@ -1,0 +1,64 @@
+{
+  "id": 169638733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.231201,13.030189,80.231201,13.030189",
+    "geom:latitude":13.030189,
+    "geom:longitude":80.231201,
+    "iso:country":"IN",
+    "sg:address":"Yes Kamal Building, Plot No.636, G.i.d.c.,",
+    "sg:city":"Vapi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 260 245 3504",
+    "sg:postcode":"396195",
+    "sg:tags":[
+        "resin"
+    ],
+    "sg:website":"http://www.uniformsynthetics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903981,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49YaRyflZVVRbxfEDQa7Di_13.030189_80.231201@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6d1d2da761ec6cbb5c2ebebe6ec48b09",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903981,
+            "region_id":85672245,
+            "venue_id":169638733
+        }
+    ],
+    "wof:id":169638733,
+    "wof:lastmodified":1449032865,
+    "wof:name":"Uniform Synthetics",
+    "wof:parent_id":85903981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [80.231201,13.030189,80.231201,13.030189],
+  "geometry": {"coordinates":[80.231201,13.030189],"type":"Point"}
+}

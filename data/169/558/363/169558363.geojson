@@ -1,0 +1,63 @@
+{
+  "id": 169558363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.542618,12.971989,77.542618,12.971989",
+    "geom:latitude":12.971989,
+    "geom:longitude":77.542618,
+    "iso:country":"IN",
+    "sg:address":"79, Gandhi Nagar, 5th Fourth Cross,",
+    "sg:city":"Dharmapuri",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 4342 262 130",
+    "sg:postcode":"636701",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xIm5mejFXqNQe4sAueUDa_12.971989_77.542618@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"71606605831fe77e76892027d3d29959",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169558363
+        }
+    ],
+    "wof:id":169558363,
+    "wof:lastmodified":1449033582,
+    "wof:name":"Bismiroma Aromatic Chemicals",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.542618,12.971989,77.542618,12.971989],
+  "geometry": {"coordinates":[77.542618,12.971989],"type":"Point"}
+}

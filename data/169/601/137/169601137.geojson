@@ -1,0 +1,64 @@
+{
+  "id": 169601137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.572884,13.933999,75.572884,13.933999",
+    "geom:latitude":13.933999,
+    "geom:longitude":75.572884,
+    "iso:country":"IN",
+    "sg:address":"46c, J L Nehru Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2288 8844",
+    "sg:postcode":"700071",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028673,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DCzamhmKhgBtKib8s5d2y_13.933999_75.572884@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"443d8437969c6ed89bd7eb5e826aff8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028673,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169601137
+        }
+    ],
+    "wof:id":169601137,
+    "wof:lastmodified":1449034150,
+    "wof:name":"Pidlite Industries Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [75.572884,13.933999,75.572884,13.933999],
+  "geometry": {"coordinates":[75.572884,13.933999],"type":"Point"}
+}

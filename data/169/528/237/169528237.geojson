@@ -1,0 +1,63 @@
+{
+  "id": 169528237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.155228,8.801814,78.155228,8.801814",
+    "geom:latitude":8.801814,
+    "geom:longitude":78.155228,
+    "iso:country":"IN",
+    "sg:address":"53, Victoria Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2374 4123",
+    "sg:postcode":"400010",
+    "sg:tags":[
+        "tile",
+        "brick"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EsXujGBcWYeFKhOU3Hw1F_8.801814_78.155228@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"69c49a2f2f447f2fea08fbc302971dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169528237
+        }
+    ],
+    "wof:id":169528237,
+    "wof:lastmodified":1449033565,
+    "wof:name":"Ali Al Ghani Associates",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "brick"
+    ]
+},
+  "bbox": [78.155228,8.801814,78.155228,8.801814],
+  "geometry": {"coordinates":[78.155228,8.801814],"type":"Point"}
+}

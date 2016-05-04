@@ -1,0 +1,72 @@
+{
+  "id": 169537175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.547203,12.986368,77.547203,12.986368",
+    "geom:latitude":12.986368,
+    "geom:longitude":77.547203,
+    "iso:country":"IN",
+    "sg:address":"#82, 2nd Main, 2nd Block, 3rd Stage, Basaveshwara Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2322 6272",
+    "sg:postcode":"560079",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "sg:website":"http://www.essennauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mY5OWU6vSIwz2aXquMCJW_12.986368_77.547203@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6bd3dd3d3608af7c7ec21d24eb7ec677",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169537175
+        }
+    ],
+    "wof:id":169537175,
+    "wof:lastmodified":1449033498,
+    "wof:name":"Ess Enn Auto Cnc (p) Ltd.",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.547203,12.986368,77.547203,12.986368],
+  "geometry": {"coordinates":[77.547203,12.986368],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169637405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.176041,26.238924,78.176041,26.238924",
+    "geom:latitude":26.238924,
+    "geom:longitude":78.176041,
+    "iso:country":"IN",
+    "sg:address":"29/1, Ranipura,",
+    "sg:city":"Indore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 731 272 1210",
+    "sg:postcode":"452007",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "sg:website":"http://www.trioindustries.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933741,
+        85632469,
+        85672239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LszzadJw31cDhrImaQ3Nl_26.238924_78.176041@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a012fe704ff037fc5eaf4dd04fbfa610",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85933741,
+            "region_id":85672239,
+            "venue_id":169637405
+        }
+    ],
+    "wof:id":169637405,
+    "wof:lastmodified":1449032690,
+    "wof:name":"Trio Industries",
+    "wof:parent_id":85933741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [78.176041,26.238924,78.176041,26.238924],
+  "geometry": {"coordinates":[78.176041,26.238924],"type":"Point"}
+}

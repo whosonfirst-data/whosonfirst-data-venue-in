@@ -1,0 +1,58 @@
+{
+  "id": 169535977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.90506,19.06007,72.90506,19.06007",
+    "geom:latitude":19.06007,
+    "geom:longitude":72.90506,
+    "iso:country":"IN",
+    "sg:address":"H-5, N. G. Acharya Marg, Chembur (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2859 2341",
+    "sg:postcode":"400071",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931501,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46GAc2TDMPem5wL49pL4jG_19.060070_72.905060@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bdaab2cb7c9e83c3062aee7c6e443a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931501,
+            "region_id":85672171,
+            "venue_id":169535977
+        }
+    ],
+    "wof:id":169535977,
+    "wof:lastmodified":1449033289,
+    "wof:name":"Devyani Embroideries",
+    "wof:parent_id":85931501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.90506,19.06007,72.90506,19.06007],
+  "geometry": {"coordinates":[72.90506,19.06007],"type":"Point"}
+}

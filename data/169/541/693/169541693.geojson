@@ -1,0 +1,65 @@
+{
+  "id": 169541693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.62397,12.929994,77.62397,12.929994",
+    "geom:latitude":12.929994,
+    "geom:longitude":77.62397,
+    "iso:country":"IN",
+    "sg:address":"702, 6th 'a' Cross, 3rd Block, Koramangala,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2553 9309",
+    "sg:postcode":"560034",
+    "sg:tags":[
+        "design",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930917,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lUOwIZV0BzlrCSohoEEbY_12.929994_77.623970@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2d63cb51add27dcd6bbca16e548ee26f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930917,
+            "region_id":85672165,
+            "venue_id":169541693
+        }
+    ],
+    "wof:id":169541693,
+    "wof:lastmodified":1449033040,
+    "wof:name":"Infotech Global India Ltd.",
+    "wof:parent_id":85930917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "design",
+        "software"
+    ]
+},
+  "bbox": [77.62397,12.929994,77.62397,12.929994],
+  "geometry": {"coordinates":[77.62397,12.929994],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169611163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.011108,28.469488,77.011108,28.469488",
+    "geom:latitude":28.469488,
+    "geom:longitude":77.011108,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 423, Sector-7, Urban Estate,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 407 6138",
+    "sg:postcode":"122001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928471,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YfJWDWoCU80gYxCuOltG7_28.469488_77.011108@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"91c92dbfad35ff02a4d5609a03cd88d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928471,
+            "region_id":85672133,
+            "venue_id":169611163
+        }
+    ],
+    "wof:id":169611163,
+    "wof:lastmodified":1449035263,
+    "wof:name":"Rijuchem Enterprise",
+    "wof:parent_id":85928471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.011108,28.469488,77.011108,28.469488],
+  "geometry": {"coordinates":[77.011108,28.469488],"type":"Point"}
+}

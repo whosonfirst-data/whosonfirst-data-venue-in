@@ -1,0 +1,63 @@
+{
+  "id": 169597411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.473419,17.365749,78.473419,17.365749",
+    "geom:latitude":17.365749,
+    "geom:longitude":78.473419,
+    "iso:country":"IN",
+    "sg:address":"21-2-156, Gulzar Houz,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2457 7705",
+    "sg:postcode":"500002",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930797,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DErA5w9JizE4gZIMC4x86_17.365749_78.473419@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"347e0198be3d85c0c0547c1cf613e4be",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930797,
+            "region_id":85672141,
+            "venue_id":169597411
+        }
+    ],
+    "wof:id":169597411,
+    "wof:lastmodified":1449035920,
+    "wof:name":"P. Kishanlal Dawasaz",
+    "wof:parent_id":85930797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.473419,17.365749,78.473419,17.365749],
+  "geometry": {"coordinates":[78.473419,17.365749],"type":"Point"}
+}

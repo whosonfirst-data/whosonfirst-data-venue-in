@@ -1,0 +1,66 @@
+{
+  "id": 169531271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.828629,18.939135,72.828629,18.939135",
+    "geom:latitude":18.939135,
+    "geom:longitude":72.828629,
+    "iso:country":"IN",
+    "sg:address":"211, Dalamal Chambers, New Marine Lines,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Hair Removal",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2200 1993",
+    "sg:postcode":"400020",
+    "sg:tags":[
+        "cosmetic",
+        "accessory"
+    ],
+    "sg:website":"http://www.dewherbalcosmetics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931457,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FrFv1s0x5krOhAZ9WH64O_18.939135_72.828629@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"130df78e5792f8bc0d6260e4fe1ea997",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931457,
+            "region_id":85672171,
+            "venue_id":169531271
+        }
+    ],
+    "wof:id":169531271,
+    "wof:lastmodified":1449033473,
+    "wof:name":"Dew Cosmetics",
+    "wof:parent_id":85931457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "accessory"
+    ]
+},
+  "bbox": [72.828629,18.939135,72.828629,18.939135],
+  "geometry": {"coordinates":[72.828629,18.939135],"type":"Point"}
+}

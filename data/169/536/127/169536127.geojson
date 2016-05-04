@@ -1,0 +1,58 @@
+{
+  "id": 169536127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.863731,19.042917,72.863731,19.042917",
+    "geom:latitude":19.042917,
+    "geom:longitude":72.863731,
+    "iso:country":"IN",
+    "sg:address":"5-6, Mira Mansion, Sion Circle,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2407 5514",
+    "sg:postcode":"4000022",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903847,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2B8EhlOcSOEHDyxKSGgGfA_19.042917_72.863731@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b8e4701437b8eff949e737865a5c39cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903847,
+            "region_id":85672171,
+            "venue_id":169536127
+        }
+    ],
+    "wof:id":169536127,
+    "wof:lastmodified":1449034660,
+    "wof:name":"Saroj",
+    "wof:parent_id":85903847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.863731,19.042917,72.863731,19.042917],
+  "geometry": {"coordinates":[72.863731,19.042917],"type":"Point"}
+}

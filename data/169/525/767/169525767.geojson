@@ -1,0 +1,70 @@
+{
+  "id": 169525767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.826706,18.933573,72.826706,18.933573",
+    "geom:latitude":18.933573,
+    "geom:longitude":72.826706,
+    "iso:country":"IN",
+    "sg:address":"Resham Bhavan, 4th Floor, 78, Veer Nariman Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 3027 3025",
+    "sg:postcode":"400020",
+    "sg:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ],
+    "sg:website":"http://www.mahyco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903879,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mOeZ04rznDLQNqq73Lagl_18.933573_72.826706@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"075907a0d9547bac8b614c19e84535d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903879,
+            "region_id":85672171,
+            "venue_id":169525767
+        }
+    ],
+    "wof:id":169525767,
+    "wof:lastmodified":1449035273,
+    "wof:name":"Mahyco Seeds Ltd.",
+    "wof:parent_id":85903879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ]
+},
+  "bbox": [72.826706,18.933573,72.826706,18.933573],
+  "geometry": {"coordinates":[72.826706,18.933573],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169531289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.860413,19.132292,72.860413,19.132292",
+    "geom:latitude":19.132292,
+    "geom:longitude":72.860413,
+    "iso:country":"IN",
+    "sg:address":"8/d, 3, Al-noor Co-operative Society, Amrut  Nagar, Jogeshwari (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Hair Removal",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2679 1836",
+    "sg:tags":[
+        "cosmetic",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931515,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UTJe0xgZvme1VWArfCLll_19.132292_72.860413@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bf7c8481263455a6e66d6841ff198cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931515,
+            "region_id":85672171,
+            "venue_id":169531289
+        }
+    ],
+    "wof:id":169531289,
+    "wof:lastmodified":1449033476,
+    "wof:name":"Al Sharifain Pharmacy",
+    "wof:parent_id":85931515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "accessory"
+    ]
+},
+  "bbox": [72.860413,19.132292,72.860413,19.132292],
+  "geometry": {"coordinates":[72.860413,19.132292],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169543927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.558838,12.988112,77.558838,12.988112",
+    "geom:latitude":12.988112,
+    "geom:longitude":77.558838,
+    "iso:country":"IN",
+    "sg:address":"28/29, 2nd Main Road, Rajajinagar, Industrial Town,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2340 4341",
+    "sg:postcode":"560044",
+    "sg:tags":[
+        "turbine"
+    ],
+    "sg:website":"http://www.turbotechindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qGBj2nKiTdzxa3s0wySHH_12.988112_77.558838@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"48d724474dad7d434c864c3195bd56c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169543927
+        }
+    ],
+    "wof:id":169543927,
+    "wof:lastmodified":1449033337,
+    "wof:name":"Turbotech Precision Engineering Pvt. Ltd.",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "turbine"
+    ]
+},
+  "bbox": [77.558838,12.988112,77.558838,12.988112],
+  "geometry": {"coordinates":[77.558838,12.988112],"type":"Point"}
+}

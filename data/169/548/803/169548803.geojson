@@ -1,0 +1,67 @@
+{
+  "id": 169548803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.487984,17.406265,78.487984,17.406265",
+    "geom:latitude":17.406265,
+    "geom:longitude":78.487984,
+    "iso:country":"IN",
+    "sg:address":"220, Ashok Nagar,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 242 3563",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "bag",
+        "paper",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930709,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZlbXuZtnraxrX2utnWSum_17.406265_78.487984@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9534e5077c95fba85b39922ea8a83393",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930709,
+            "region_id":85672141,
+            "venue_id":169548803
+        }
+    ],
+    "wof:id":169548803,
+    "wof:lastmodified":1449034979,
+    "wof:name":"Agro International",
+    "wof:parent_id":85930709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag",
+        "paper",
+        "-"
+    ]
+},
+  "bbox": [78.487984,17.406265,78.487984,17.406265],
+  "geometry": {"coordinates":[78.487984,17.406265],"type":"Point"}
+}

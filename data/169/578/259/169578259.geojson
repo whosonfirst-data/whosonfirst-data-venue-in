@@ -1,0 +1,65 @@
+{
+  "id": 169578259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.540352,13.011638,77.540352,13.011638",
+    "geom:latitude":13.011638,
+    "geom:longitude":77.540352,
+    "iso:country":"IN",
+    "sg:address":"No. A-345, 9th Main Road, Peenya, 2nd Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2836 0448",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59rAjmNIaW14DZ31GjUVZN_13.011638_77.540352@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d008f72c6125525f279ed6ae4cb9dc2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169578259
+        }
+    ],
+    "wof:id":169578259,
+    "wof:lastmodified":1449033519,
+    "wof:name":"H & R Flavours & Fragrances Pvt. Ltd.",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [77.540352,13.011638,77.540352,13.011638],
+  "geometry": {"coordinates":[77.540352,13.011638],"type":"Point"}
+}

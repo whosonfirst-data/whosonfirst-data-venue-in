@@ -1,0 +1,62 @@
+{
+  "id": 169550241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.010269,19.075367,73.010269,19.075367",
+    "geom:latitude":19.075367,
+    "geom:longitude":73.010269,
+    "iso:country":"IN",
+    "sg:address":"49, Apmc Market,",
+    "sg:city":"Unjha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2767 255 853",
+    "sg:postcode":"384170",
+    "sg:tags":[
+        "seed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931599,
+        85632469,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rng5hTGRTCMSYoJT8qDec_19.075367_73.010269@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cf5baf951ced03b6532d959f8131959d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85931599,
+            "region_id":85672171,
+            "venue_id":169550241
+        }
+    ],
+    "wof:id":169550241,
+    "wof:lastmodified":1449034479,
+    "wof:name":"Decent Export",
+    "wof:parent_id":85931599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seed"
+    ]
+},
+  "bbox": [73.010269,19.075367,73.010269,19.075367],
+  "geometry": {"coordinates":[73.010269,19.075367],"type":"Point"}
+}

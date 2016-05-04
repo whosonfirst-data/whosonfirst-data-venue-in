@@ -1,0 +1,63 @@
+{
+  "id": 169589459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.849991,18.519896,73.849991,18.519896",
+    "geom:latitude":18.519896,
+    "geom:longitude":73.849991,
+    "iso:country":"IN",
+    "sg:address":"2347, 'c' Shaniwar Peth,",
+    "sg:city":"Kolapur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 231 252 6468",
+    "sg:postcode":"416002",
+    "sg:tags":[
+        "agrochemicals"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931327,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tmmVgsNCNyVMukUmGmlWW_18.519896_73.849991@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"00ae9be6e0165680cd37a6ed341b393f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931327,
+            "region_id":85672171,
+            "venue_id":169589459
+        }
+    ],
+    "wof:id":169589459,
+    "wof:lastmodified":1449034447,
+    "wof:name":"Micro Agro Chem Industries",
+    "wof:parent_id":85931327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agrochemicals"
+    ]
+},
+  "bbox": [73.849991,18.519896,73.849991,18.519896],
+  "geometry": {"coordinates":[73.849991,18.519896],"type":"Point"}
+}

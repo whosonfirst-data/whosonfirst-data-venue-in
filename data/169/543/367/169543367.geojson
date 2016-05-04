@@ -1,0 +1,63 @@
+{
+  "id": 169543367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.551582,13.049199,77.551582,13.049199",
+    "geom:latitude":13.049199,
+    "geom:longitude":77.551582,
+    "iso:country":"IN",
+    "sg:address":"# 25/1, Hmt Main Road, Mathikere,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 6419 0512",
+    "sg:postcode":"560054",
+    "sg:tags":[
+        "thermocouple"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903877,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fBpX2f8tJzF8dc6tgWAZq_13.049199_77.551582@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a32564fb87503714f234e788d6c9b585",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903877,
+            "region_id":85672165,
+            "venue_id":169543367
+        }
+    ],
+    "wof:id":169543367,
+    "wof:lastmodified":1449033334,
+    "wof:name":"Heat Power Controls",
+    "wof:parent_id":85903877,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "thermocouple"
+    ]
+},
+  "bbox": [77.551582,13.049199,77.551582,13.049199],
+  "geometry": {"coordinates":[77.551582,13.049199],"type":"Point"}
+}

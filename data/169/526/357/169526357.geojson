@@ -1,0 +1,68 @@
+{
+  "id": 169526357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.843468,19.083488,72.843468,19.083488",
+    "geom:latitude":19.083488,
+    "geom:longitude":72.843468,
+    "iso:country":"IN",
+    "sg:address":"Laxmi Nivas, No. 355, V. P. Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2385 1779",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931575,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_675OLqXBuPVcOee0s3vbdD_19.083488_72.843468@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9a025c0980686977dc2d3f903be611ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931575,
+            "region_id":85672171,
+            "venue_id":169526357
+        }
+    ],
+    "wof:id":169526357,
+    "wof:lastmodified":1449033702,
+    "wof:name":"Sahni Auto Parts Co.",
+    "wof:parent_id":85931575,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ]
+},
+  "bbox": [72.843468,19.083488,72.843468,19.083488],
+  "geometry": {"coordinates":[72.843468,19.083488],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 169653381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.387327,22.51328,88.387327,22.51328",
+    "geom:latitude":22.51328,
+    "geom:longitude":88.387327,
+    "iso:country":"IN",
+    "sg:address":"108, Rajdanga Road",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"700037",
+    "sg:tags":[
+        "video",
+        "fropper",
+        "streaming",
+        "clips"
+    ],
+    "sg:website":"http://www.videofropper.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85932079,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TRWTrUDVKGPu2cafUsu0O_22.513280_88.387327@1308163239"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d95832ca800ebb7a0a3ea7de3026112c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85932079,
+            "region_id":85672219,
+            "venue_id":169653381
+        }
+    ],
+    "wof:id":169653381,
+    "wof:lastmodified":1449032915,
+    "wof:name":"Videofropper",
+    "wof:parent_id":85932079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "fropper",
+        "streaming",
+        "clips"
+    ]
+},
+  "bbox": [88.387327,22.51328,88.387327,22.51328],
+  "geometry": {"coordinates":[88.387327,22.51328],"type":"Point"}
+}

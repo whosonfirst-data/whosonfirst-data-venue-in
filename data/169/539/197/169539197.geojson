@@ -1,0 +1,62 @@
+{
+  "id": 169539197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.685104,12.816192,77.685104,12.816192",
+    "geom:latitude":12.816192,
+    "geom:longitude":77.685104,
+    "iso:country":"IN",
+    "sg:address":"241, Bommasandra Industrial Area,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2783 6825",
+    "sg:postcode":"560099",
+    "sg:tags":[
+        "machinery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VF4fyydnOgbAiQPG0qYec_12.816192_77.685104@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5b167f5a67fc97e786cae6652728c233",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169539197
+        }
+    ],
+    "wof:id":169539197,
+    "wof:lastmodified":1449036039,
+    "wof:name":"Synergie Manufacturing Systems",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machinery"
+    ]
+},
+  "bbox": [77.685104,12.816192,77.685104,12.816192],
+  "geometry": {"coordinates":[77.685104,12.816192],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169635651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"83.27253,17.689043,83.27253,17.689043",
+    "geom:latitude":17.689043,
+    "geom:longitude":83.27253,
+    "iso:country":"IN",
+    "sg:address":"P.b. No. 1401, Opposite Naval Dokyard,",
+    "sg:city":"Vishakapattanam",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 891257834042",
+    "sg:postcode":"530014",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028261,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WqQgD5ykJf2k5fDLrNmGe_17.689043_83.272530@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"004bcf944dee5dea8ff39cdb777c6ff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028261,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169635651
+        }
+    ],
+    "wof:id":169635651,
+    "wof:lastmodified":1449034097,
+    "wof:name":"The Andhra Petrochemicals Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [83.27253,17.689043,83.27253,17.689043],
+  "geometry": {"coordinates":[83.27253,17.689043],"type":"Point"}
+}

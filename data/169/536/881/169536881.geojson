@@ -1,0 +1,68 @@
+{
+  "id": 169536881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.539429,13.009407,77.539429,13.009407",
+    "geom:latitude":13.009407,
+    "geom:longitude":77.539429,
+    "iso:country":"IN",
+    "sg:address":"#26/3, Indl. Suburb, Rajaji Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2337 8918",
+    "sg:postcode":"560055",
+    "sg:tags":[
+        "polishing",
+        "polish",
+        "material/machinery"
+    ],
+    "sg:website":"http://www.parijatha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e2qhUwUzMUEdEnYNqGmia_13.009407_77.539429@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ed8dd92857018ea89a035eaa4cf840ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169536881
+        }
+    ],
+    "wof:id":169536881,
+    "wof:lastmodified":1449034660,
+    "wof:name":"Sree Parijatha Machinery Works",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "polish",
+        "material/machinery"
+    ]
+},
+  "bbox": [77.539429,13.009407,77.539429,13.009407],
+  "geometry": {"coordinates":[77.539429,13.009407],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169537943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.7145,12.991755,77.7145,12.991755",
+    "geom:latitude":12.991755,
+    "geom:longitude":77.7145,
+    "iso:country":"IN",
+    "sg:address":"No.6/400, Hoody Village, Whitefield Road, Mahadevapura Post,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2852 4803",
+    "sg:postcode":"560048",
+    "sg:tags":[
+        "component",
+        "pressed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931165,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hHIXNmkXFZhDzkVkvrvel_12.991755_77.714500@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"950f98cc344a652125158b8ae52ddcc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931165,
+            "region_id":85672165,
+            "venue_id":169537943
+        }
+    ],
+    "wof:id":169537943,
+    "wof:lastmodified":1449033499,
+    "wof:name":"Stat Coat Systems",
+    "wof:parent_id":85931165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "pressed"
+    ]
+},
+  "bbox": [77.7145,12.991755,77.7145,12.991755],
+  "geometry": {"coordinates":[77.7145,12.991755],"type":"Point"}
+}

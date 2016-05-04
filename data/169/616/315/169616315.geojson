@@ -1,0 +1,65 @@
+{
+  "id": 169616315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.132698,28.642492,77.132698,28.642492",
+    "geom:latitude":28.642492,
+    "geom:longitude":77.132698,
+    "iso:country":"IN",
+    "sg:address":"B-83, Mansarover Garden,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4141 4514",
+    "sg:postcode":"110015",
+    "sg:tags":[
+        "transmission",
+        "belting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928595,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OSha8iToMncDyzsHe9kLX_28.642492_77.132698@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6d769b3f2ce1d003a33d5e2f50707a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928595,
+            "region_id":85672123,
+            "venue_id":169616315
+        }
+    ],
+    "wof:id":169616315,
+    "wof:lastmodified":1449035103,
+    "wof:name":"Sara Belt-tech Co.",
+    "wof:parent_id":85928595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "belting"
+    ]
+},
+  "bbox": [77.132698,28.642492,77.132698,28.642492],
+  "geometry": {"coordinates":[77.132698,28.642492],"type":"Point"}
+}

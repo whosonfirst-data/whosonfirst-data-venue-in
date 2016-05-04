@@ -1,0 +1,64 @@
+{
+  "id": 169578017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.903427,18.53022,73.903427,18.53022",
+    "geom:latitude":18.53022,
+    "geom:longitude":73.903427,
+    "iso:country":"IN",
+    "sg:address":"P.o. Petrochmicals, 39/346,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 26522326812",
+    "sg:postcode":"391346",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.gacl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931221,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v0nHhMK9pLZSfRtbvn2jB_18.530220_73.903427@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a101973f91479063fe54a2515bae5aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931221,
+            "region_id":85672171,
+            "venue_id":169578017
+        }
+    ],
+    "wof:id":169578017,
+    "wof:lastmodified":1449033520,
+    "wof:name":"Gujarat Alkalies And Chemicals Limited",
+    "wof:parent_id":85931221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [73.903427,18.53022,73.903427,18.53022],
+  "geometry": {"coordinates":[73.903427,18.53022],"type":"Point"}
+}

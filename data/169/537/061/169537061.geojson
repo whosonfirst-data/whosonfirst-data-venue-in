@@ -1,0 +1,67 @@
+{
+  "id": 169537061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.645195,12.967229,77.645195,12.967229",
+    "geom:latitude":12.967229,
+    "geom:longitude":77.645195,
+    "iso:country":"IN",
+    "sg:address":"No. 329, 14th Main, R.m.v. Extension,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2361 2825",
+    "sg:postcode":"560080",
+    "sg:tags":[
+        "transmission",
+        "equipment",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iFiDVbvrOLhiSasxIWcMn_12.967229_77.645195@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d26341d228086977dc0745fe90660f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169537061
+        }
+    ],
+    "wof:id":169537061,
+    "wof:lastmodified":1449033498,
+    "wof:name":"Cauvery Hydro Energy Ltd.",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "equipment",
+        "power"
+    ]
+},
+  "bbox": [77.645195,12.967229,77.645195,12.967229],
+  "geometry": {"coordinates":[77.645195,12.967229],"type":"Point"}
+}

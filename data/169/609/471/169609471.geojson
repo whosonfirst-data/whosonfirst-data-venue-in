@@ -1,0 +1,64 @@
+{
+  "id": 169609471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"79.071213,21.138538,79.071213,21.138538",
+    "geom:latitude":21.138538,
+    "geom:longitude":79.071213,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 1, Bajaj Nagar, South Ambazari Road,",
+    "sg:city":"Nagpur",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 712 223 0024",
+    "sg:postcode":"440010",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "sg:website":"http://www.rasoyaproteins.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933709,
+        85632469,
+        102029277,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64VfPtY4rJznPXtXPSwSPi_21.138538_79.071213@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f014b66ff62056b0d8d0a067a25e57f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029277,
+            "neighbourhood_id":85933709,
+            "region_id":85672171,
+            "venue_id":169609471
+        }
+    ],
+    "wof:id":169609471,
+    "wof:lastmodified":1449033920,
+    "wof:name":"Rasoya Proteins Ltd.",
+    "wof:parent_id":85933709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [79.071213,21.138538,79.071213,21.138538],
+  "geometry": {"coordinates":[79.071213,21.138538],"type":"Point"}
+}

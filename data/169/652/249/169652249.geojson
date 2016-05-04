@@ -1,0 +1,58 @@
+{
+  "id": 169652249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.277869,28.534464,77.277869,28.534464",
+    "geom:latitude":28.534464,
+    "geom:longitude":77.277869,
+    "iso:country":"IN",
+    "sg:address":"43B, Okhla Industrial Estate",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110020",
+    "sg:website":"http://www.moserbaerpv.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927991,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tFzNTS1bPJX6dC33jPVi4_28.534464_77.277869@1308163242"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e4cb5bf2039670a9af3dafa459f90b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927991,
+            "region_id":85672123,
+            "venue_id":169652249
+        }
+    ],
+    "wof:id":169652249,
+    "wof:lastmodified":1449034807,
+    "wof:name":"Moser Baer Photo Voltaic",
+    "wof:parent_id":85927991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.277869,28.534464,77.277869,28.534464],
+  "geometry": {"coordinates":[77.277869,28.534464],"type":"Point"}
+}

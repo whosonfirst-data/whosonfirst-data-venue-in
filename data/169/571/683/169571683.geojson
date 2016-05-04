@@ -1,0 +1,53 @@
+{
+  "id": 169571683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.347305,22.541525,88.347305,22.541525",
+    "geom:latitude":22.541525,
+    "geom:longitude":88.347305,
+    "iso:country":"IN",
+    "sg:address":"G C Avenue",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2237 5007",
+    "sg:postcode":"700013",
+    "sg:province":"West Bengal",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931951,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35mMEBIsLMsgsAqUMZm0Bd_22.541525_88.347305@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"07ccdc3533386ea310c04dc38035630f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931951,
+            "region_id":85672219,
+            "venue_id":169571683
+        }
+    ],
+    "wof:id":169571683,
+    "wof:lastmodified":1449034947,
+    "wof:name":"Mazumdar Exports Pvt Ltd",
+    "wof:parent_id":85931951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [88.347305,22.541525,88.347305,22.541525],
+  "geometry": {"coordinates":[88.347305,22.541525],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169651319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.65031,13.014823,77.65031,13.014823",
+    "geom:latitude":13.014823,
+    "geom:longitude":77.65031,
+    "iso:country":"IN",
+    "sg:address":"8th Main, Malleshwaram",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560055",
+    "sg:tags":[
+        "architects-and-interior-designs"
+    ],
+    "sg:website":"http://www.earthenhive.webs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931031,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zCXRMgWsNA877PdhJoELA_13.014823_77.650310@1308163241"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f29d8086488d0ea3a503b47643da2557",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931031,
+            "region_id":85672165,
+            "venue_id":169651319
+        }
+    ],
+    "wof:id":169651319,
+    "wof:lastmodified":1449033346,
+    "wof:name":"Earthenhive Architects",
+    "wof:parent_id":85931031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architects-and-interior-designs"
+    ]
+},
+  "bbox": [77.65031,13.014823,77.65031,13.014823],
+  "geometry": {"coordinates":[77.65031,13.014823],"type":"Point"}
+}

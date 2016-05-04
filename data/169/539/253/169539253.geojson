@@ -1,0 +1,64 @@
+{
+  "id": 169539253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.544128,12.97228,77.544128,12.97228",
+    "geom:latitude":12.97228,
+    "geom:longitude":77.544128,
+    "iso:country":"IN",
+    "sg:address":"#2326, 3rd Main, Rpc Layout,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2338 9399",
+    "sg:postcode":"560040",
+    "sg:tags":[
+        "sandstone"
+    ],
+    "sg:website":"http://www.bilwaexports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nYWIB4XK27fYg1VskqdJo_12.972280_77.544128@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"83ac78f812d60f33abc96c82d3da7f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169539253
+        }
+    ],
+    "wof:id":169539253,
+    "wof:lastmodified":1449036039,
+    "wof:name":"Sri Bilwa Exports Pvt. Ltd.",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandstone"
+    ]
+},
+  "bbox": [77.544128,12.97228,77.544128,12.97228],
+  "geometry": {"coordinates":[77.544128,12.97228],"type":"Point"}
+}

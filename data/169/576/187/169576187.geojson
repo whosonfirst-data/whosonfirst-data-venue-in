@@ -1,0 +1,62 @@
+{
+  "id": 169576187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.215492,10.584864,76.215492,10.584864",
+    "geom:latitude":10.584864,
+    "geom:longitude":76.215492,
+    "iso:country":"IN",
+    "sg:address":"S-492/a, G.k.-i,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2924 9547",
+    "sg:postcode":"110048",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.bhagawatiinternational.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uPcN7QuSm6F0KBPNfTJmU_10.584864_76.215492@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4e4d85a2e991c108d2c4f0c6b3074577",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672149,
+            "venue_id":169576187
+        }
+    ],
+    "wof:id":169576187,
+    "wof:lastmodified":1449035195,
+    "wof:name":"Bhagawati Gases Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [76.215492,10.584864,76.215492,10.584864],
+  "geometry": {"coordinates":[76.215492,10.584864],"type":"Point"}
+}

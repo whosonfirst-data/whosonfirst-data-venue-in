@@ -1,0 +1,63 @@
+{
+  "id": 169577525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.838867,25.150496,75.838867,25.150496",
+    "geom:latitude":25.150496,
+    "geom:longitude":75.838867,
+    "iso:country":"IN",
+    "sg:address":"4-c-6, Talwandi,",
+    "sg:city":"Kota",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 744 242 3036",
+    "sg:postcode":"324005",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933997,
+        85632469,
+        102029669,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wG4v9UWA6b4sOmC6DO4ym_25.150496_75.838867@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0fc9793ea47c2c2c49f80838df9afde1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029669,
+            "neighbourhood_id":85933997,
+            "region_id":85672201,
+            "venue_id":169577525
+        }
+    ],
+    "wof:id":169577525,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Goel Metachem Pvt. Ltd.",
+    "wof:parent_id":85933997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.838867,25.150496,75.838867,25.150496],
+  "geometry": {"coordinates":[75.838867,25.150496],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169600281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831688,19.139118,72.831688,19.139118",
+    "geom:latitude":19.139118,
+    "geom:longitude":72.831688,
+    "iso:country":"IN",
+    "sg:address":"C/32, Shastrinagar, New Link Rd., Andheri (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5627 3372",
+    "sg:postcode":"400053",
+    "sg:tags":[
+        "salt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931475,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jb2xrDy6exLIOh0RIR5RN_19.139118_72.831688@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5510e1b34c999defb0b75d2998699dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931475,
+            "region_id":85672171,
+            "venue_id":169600281
+        }
+    ],
+    "wof:id":169600281,
+    "wof:lastmodified":1449032971,
+    "wof:name":"Peony",
+    "wof:parent_id":85931475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salt"
+    ]
+},
+  "bbox": [72.831688,19.139118,72.831688,19.139118],
+  "geometry": {"coordinates":[72.831688,19.139118],"type":"Point"}
+}

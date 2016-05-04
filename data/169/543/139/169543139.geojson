@@ -1,0 +1,66 @@
+{
+  "id": 169543139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.632851,12.976278,77.632851,12.976278",
+    "geom:latitude":12.976278,
+    "geom:longitude":77.632851,
+    "iso:country":"IN",
+    "sg:address":"1029/d, 17 E Cross, Indiranagar Ii Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Emissions Testing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2525 7658",
+    "sg:postcode":"560038",
+    "sg:tags":[
+        "measuring",
+        "instrument"
+    ],
+    "sg:website":"http://www.burnishing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931137,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FVwMsOLqaG4XJQ2KjLbW4_12.976278_77.632851@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"442ae1bbc28bf237eef07dcffe3f0c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931137,
+            "region_id":85672165,
+            "venue_id":169543139
+        }
+    ],
+    "wof:id":169543139,
+    "wof:lastmodified":1449033335,
+    "wof:name":"Engineering Associates",
+    "wof:parent_id":85931137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "measuring",
+        "instrument"
+    ]
+},
+  "bbox": [77.632851,12.976278,77.632851,12.976278],
+  "geometry": {"coordinates":[77.632851,12.976278],"type":"Point"}
+}

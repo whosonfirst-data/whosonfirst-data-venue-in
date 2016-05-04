@@ -1,0 +1,65 @@
+{
+  "id": 169616377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.36763,22.564837,88.36763,22.564837",
+    "geom:latitude":22.564837,
+    "geom:longitude":88.36763,
+    "iso:country":"IN",
+    "sg:address":"33, Dixon Lane,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2227 0387",
+    "sg:postcode":"700014",
+    "sg:tags":[
+        "lab",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903793,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iaJnWPgLHhdshMi4CBF7g_22.564837_88.367630@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c09018f7426b54075e3accc279efdae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903793,
+            "region_id":85672219,
+            "venue_id":169616377
+        }
+    ],
+    "wof:id":169616377,
+    "wof:lastmodified":1449035100,
+    "wof:name":"Sarada Glass & Chemicals",
+    "wof:parent_id":85903793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lab",
+        "supply"
+    ]
+},
+  "bbox": [88.36763,22.564837,88.36763,22.564837],
+  "geometry": {"coordinates":[88.36763,22.564837],"type":"Point"}
+}

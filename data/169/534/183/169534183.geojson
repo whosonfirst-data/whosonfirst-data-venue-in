@@ -1,0 +1,65 @@
+{
+  "id": 169534183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.844322,18.987658,72.844322,18.987658",
+    "geom:latitude":18.987658,
+    "geom:longitude":72.844322,
+    "iso:country":"IN",
+    "sg:address":"150/151, Reay Road, West Mumbai,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2372 7378",
+    "sg:postcode":"400033",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "sg:website":"http://www.itc-colors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903961,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cK3MxC2qFOoHZJ4YRRMVc_18.987658_72.844322@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3dd04a99470013c313b6e4c1841eddc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903961,
+            "region_id":-1,
+            "venue_id":169534183
+        }
+    ],
+    "wof:id":169534183,
+    "wof:lastmodified":1449033548,
+    "wof:name":"Itc Colors",
+    "wof:parent_id":85903961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [72.844322,18.987658,72.844322,18.987658],
+  "geometry": {"coordinates":[72.844322,18.987658],"type":"Point"}
+}

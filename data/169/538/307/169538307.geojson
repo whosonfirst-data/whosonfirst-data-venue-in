@@ -1,0 +1,68 @@
+{
+  "id": 169538307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.573555,13.029205,77.573555,13.029205",
+    "geom:latitude":13.029205,
+    "geom:longitude":77.573555,
+    "iso:country":"IN",
+    "sg:address":"2, P.c. Lane, S.j.p. Road Cross,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2227 8825",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "equipment",
+        "pump",
+        "pumping"
+    ],
+    "sg:website":"http://www.eurekapumps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931123,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VPrXiQJz3OE2jbidpcgho_13.029205_77.573555@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8522b9a30032245b99618ce65f839652",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931123,
+            "region_id":85672165,
+            "venue_id":169538307
+        }
+    ],
+    "wof:id":169538307,
+    "wof:lastmodified":1449033099,
+    "wof:name":"Eureka Pumps",
+    "wof:parent_id":85931123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "pump",
+        "pumping"
+    ]
+},
+  "bbox": [77.573555,13.029205,77.573555,13.029205],
+  "geometry": {"coordinates":[77.573555,13.029205],"type":"Point"}
+}

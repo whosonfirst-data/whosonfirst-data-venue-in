@@ -1,0 +1,65 @@
+{
+  "id": 169540213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.615082,12.964886,77.615082,12.964886",
+    "geom:latitude":12.964886,
+    "geom:longitude":77.615082,
+    "iso:country":"IN",
+    "sg:address":"75, 7th Cross Victoria Layout,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2536 0669",
+    "sg:postcode":"560004",
+    "sg:tags":[
+        "agent",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930841,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tLUlndLRdGsf6ETJkZIJX_12.964886_77.615082@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"397e58d60940417661baee2239c1279c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930841,
+            "region_id":85672165,
+            "venue_id":169540213
+        }
+    ],
+    "wof:id":169540213,
+    "wof:lastmodified":1449033972,
+    "wof:name":"Consolidation & Groupage Service",
+    "wof:parent_id":85930841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping"
+    ]
+},
+  "bbox": [77.615082,12.964886,77.615082,12.964886],
+  "geometry": {"coordinates":[77.615082,12.964886],"type":"Point"}
+}

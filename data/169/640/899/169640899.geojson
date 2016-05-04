@@ -1,0 +1,63 @@
+{
+  "id": 169640899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.967178,19.23184,72.967178,19.23184",
+    "geom:latitude":19.23184,
+    "geom:longitude":72.967178,
+    "iso:country":"IN",
+    "sg:address":"D-397, Midc, Ttc Area, Village Kukshet, Dist. Thane,",
+    "sg:city":"Navi Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 3008 6937",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.vadilalgases.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931387,
+        85632469,
+        102028465,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rKtYgoHmipaEkzD6AWpDk_19.231840_72.967178@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4022c375817b5a90f03abeefc4e27e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028465,
+            "neighbourhood_id":85931387,
+            "region_id":85672171,
+            "venue_id":169640899
+        }
+    ],
+    "wof:id":169640899,
+    "wof:lastmodified":1449034105,
+    "wof:name":"Vadilal Chemicals Ltd.",
+    "wof:parent_id":85931387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [72.967178,19.23184,72.967178,19.23184],
+  "geometry": {"coordinates":[72.967178,19.23184],"type":"Point"}
+}

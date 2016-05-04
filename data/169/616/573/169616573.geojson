@@ -1,0 +1,63 @@
+{
+  "id": 169616573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.020607,19.041838,73.020607,19.041838",
+    "geom:latitude":19.041838,
+    "geom:longitude":73.020607,
+    "iso:country":"IN",
+    "sg:address":"D-24, Sector-3,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 255 6328",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931651,
+        85632469,
+        102029191,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NkzOkCRjZNj3C5QXJ614i_19.041838_73.020607@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"df6f6c2e31f52f10a996c8591f4d988a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029191,
+            "neighbourhood_id":85931651,
+            "region_id":85672171,
+            "venue_id":169616573
+        }
+    ],
+    "wof:id":169616573,
+    "wof:lastmodified":1449035100,
+    "wof:name":"Sariman Chemical Corp.",
+    "wof:parent_id":85931651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [73.020607,19.041838,73.020607,19.041838],
+  "geometry": {"coordinates":[73.020607,19.041838],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169610297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.862991,19.277353,72.862991,19.277353",
+    "geom:latitude":19.277353,
+    "geom:longitude":72.862991,
+    "iso:country":"IN",
+    "sg:address":"A-12/003, Sector 7, Shanti Nagar, Mira Road,",
+    "sg:city":"Mira Bhayandar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2813 0689",
+    "sg:postcode":"401107",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931413,
+        85632469,
+        102031079,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71USyo2Sj4ksRjTTmub2xp_19.277353_72.862991@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"484f03d823f30c42c42f0c0072e25982",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031079,
+            "neighbourhood_id":85931413,
+            "region_id":85672171,
+            "venue_id":169610297
+        }
+    ],
+    "wof:id":169610297,
+    "wof:lastmodified":1449035912,
+    "wof:name":"Rejoice Exports",
+    "wof:parent_id":85931413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.862991,19.277353,72.862991,19.277353],
+  "geometry": {"coordinates":[72.862991,19.277353],"type":"Point"}
+}

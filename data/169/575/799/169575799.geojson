@@ -1,0 +1,62 @@
+{
+  "id": 169575799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.229385,16.701422,74.229385,16.701422",
+    "geom:latitude":16.701422,
+    "geom:longitude":74.229385,
+    "iso:country":"IN",
+    "sg:address":"1514 C, 2nd Floor, Laxmipuri,",
+    "sg:city":"Kolapur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 231 264 1453",
+    "sg:postcode":"416002",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029701,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AUa1L6GnFrIGYPwQKIVn2_16.701422_74.229385@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ebde1a06cc6cca31bd445815d5e0680d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029701,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169575799
+        }
+    ],
+    "wof:id":169575799,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Balaji Rubber Products",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [74.229385,16.701422,74.229385,16.701422],
+  "geometry": {"coordinates":[74.229385,16.701422],"type":"Point"}
+}

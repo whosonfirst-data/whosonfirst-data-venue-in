@@ -1,0 +1,54 @@
+{
+  "id": 169569791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.626404,12.927756,77.626404,12.927756",
+    "geom:latitude":12.927756,
+    "geom:longitude":77.626404,
+    "iso:country":"IN",
+    "sg:address":"3rd Block, Koramangala",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 805523071",
+    "sg:postcode":"560034",
+    "sg:province":"Karnataka",
+    "sg:website":"http://www.cadeltech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931041,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tZeDhaD5Ro3cTSD6G6ENd_12.927756_77.626404@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1b9b78ab0231b2bd8482ef4cb76ebd3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931041,
+            "region_id":85672165,
+            "venue_id":169569791
+        }
+    ],
+    "wof:id":169569791,
+    "wof:lastmodified":1449035831,
+    "wof:name":"Cadel Technologies Pvt Ltd",
+    "wof:parent_id":85931041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.626404,12.927756,77.626404,12.927756],
+  "geometry": {"coordinates":[77.626404,12.927756],"type":"Point"}
+}

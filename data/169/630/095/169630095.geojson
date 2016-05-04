@@ -1,0 +1,65 @@
+{
+  "id": 169630095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.172356,28.699236,77.172356,28.699236",
+    "geom:latitude":28.699236,
+    "geom:longitude":77.172356,
+    "iso:country":"IN",
+    "sg:address":"J-6, Udyog Nagar Indl. Area,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2594 7213",
+    "sg:postcode":"110041",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928079,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RhRaJne4SyvoDubCQXo0e_28.699236_77.172356@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f8b2dc35f599db197013a80c1281c80d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928079,
+            "region_id":85672123,
+            "venue_id":169630095
+        }
+    ],
+    "wof:id":169630095,
+    "wof:lastmodified":1449033870,
+    "wof:name":"Sumit Enterprises",
+    "wof:parent_id":85928079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [77.172356,28.699236,77.172356,28.699236],
+  "geometry": {"coordinates":[77.172356,28.699236],"type":"Point"}
+}

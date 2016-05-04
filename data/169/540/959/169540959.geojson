@@ -1,0 +1,63 @@
+{
+  "id": 169540959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.580643,12.968945,77.580643,12.968945",
+    "geom:latitude":12.968945,
+    "geom:longitude":77.580643,
+    "iso:country":"IN",
+    "sg:address":"No. 46, 1st Floor, M.b.t. Street, Jumma Masjid Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2222 7861",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DCbNDkq1YzpuNYjBUJ1D1_12.968945_77.580643@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4d8dd21c6c802a4af2ad51e74993a78b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169540959
+        }
+    ],
+    "wof:id":169540959,
+    "wof:lastmodified":1449033978,
+    "wof:name":"Riviya Creations",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.580643,12.968945,77.580643,12.968945],
+  "geometry": {"coordinates":[77.580643,12.968945],"type":"Point"}
+}

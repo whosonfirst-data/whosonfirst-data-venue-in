@@ -1,0 +1,62 @@
+{
+  "id": 169617783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.942612,11.007342,76.942612,11.007342",
+    "geom:latitude":11.007342,
+    "geom:longitude":76.942612,
+    "iso:country":"IN",
+    "sg:address":"99-b, P.m. Samy Colony, Street No. 2, R.s. Puram,",
+    "sg:city":"Coimbatore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 422 247 1586",
+    "sg:postcode":"641002",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02BgMNEMFX7yWqhTmo8cZg_11.007342_76.942612@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5a8362fda721c25ccdb5735de2787125",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169617783
+        }
+    ],
+    "wof:id":169617783,
+    "wof:lastmodified":1449032798,
+    "wof:name":"Sb International",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [76.942612,11.007342,76.942612,11.007342],
+  "geometry": {"coordinates":[76.942612,11.007342],"type":"Point"}
+}

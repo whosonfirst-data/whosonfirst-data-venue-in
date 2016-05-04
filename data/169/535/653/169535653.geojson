@@ -1,0 +1,64 @@
+{
+  "id": 169535653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.83181,18.948246,72.83181,18.948246",
+    "geom:latitude":18.948246,
+    "geom:longitude":72.83181,
+    "iso:country":"IN",
+    "sg:address":"3b, Mangaldas Bldg., 193 B, 1st Floor, 29, Mangaldas Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2201 3737",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "equipment",
+        "good"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kbhxdfPy7AjZMkZ4F1VfX_18.948246_72.831810@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8440811167a1d693092bd965e21b9a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169535653
+        }
+    ],
+    "wof:id":169535653,
+    "wof:lastmodified":1449033284,
+    "wof:name":"Monte Carlo Impex Pvt. Ltd.",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "good"
+    ]
+},
+  "bbox": [72.83181,18.948246,72.83181,18.948246],
+  "geometry": {"coordinates":[72.83181,18.948246],"type":"Point"}
+}

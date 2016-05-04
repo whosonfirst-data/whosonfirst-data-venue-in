@@ -1,0 +1,63 @@
+{
+  "id": 169637353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.932617,18.519018,73.932617,18.519018",
+    "geom:latitude":18.519018,
+    "geom:longitude":73.932617,
+    "iso:country":"IN",
+    "sg:address":"206, Mundhwa,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2687 9278",
+    "sg:postcode":"411036",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931291,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_048uwMmkIOSvElMIqAsdjc_18.519018_73.932617@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d4a2c3fe3109c1b181e814ccb3f05589",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931291,
+            "region_id":85672171,
+            "venue_id":169637353
+        }
+    ],
+    "wof:id":169637353,
+    "wof:lastmodified":1449032688,
+    "wof:name":"Trimurti Chemicals",
+    "wof:parent_id":85931291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [73.932617,18.519018,73.932617,18.519018],
+  "geometry": {"coordinates":[73.932617,18.519018],"type":"Point"}
+}

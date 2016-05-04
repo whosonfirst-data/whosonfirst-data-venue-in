@@ -1,0 +1,67 @@
+{
+  "id": 169651761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.322391,28.588884,77.322391,28.588884",
+    "geom:latitude":28.588884,
+    "geom:longitude":77.322391,
+    "iso:country":"IN",
+    "sg:address":"B 121, Sector 5",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"201 301",
+    "sg:tags":[
+        "telecom-opportunities",
+        "robust-platforms",
+        "telecom-media"
+    ],
+    "sg:website":"http://www.one97world.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928405,
+        85632469,
+        102031133,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O1jbZmHoy4oz95QwcriFX_28.588884_77.322391@1308163242"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bd182f2db5dfa1343cc0fd13bee215e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031133,
+            "neighbourhood_id":85928405,
+            "region_id":85672205,
+            "venue_id":169651761
+        }
+    ],
+    "wof:id":169651761,
+    "wof:lastmodified":1449033345,
+    "wof:name":"One97 Communications",
+    "wof:parent_id":85928405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecom-opportunities",
+        "robust-platforms",
+        "telecom-media"
+    ]
+},
+  "bbox": [77.322391,28.588884,77.322391,28.588884],
+  "geometry": {"coordinates":[77.322391,28.588884],"type":"Point"}
+}

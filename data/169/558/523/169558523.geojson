@@ -1,0 +1,63 @@
+{
+  "id": 169558523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.578865,12.92725,77.578865,12.92725",
+    "geom:latitude":12.92725,
+    "geom:longitude":77.578865,
+    "iso:country":"IN",
+    "sg:address":"34/2, First Floor, Sanjay Place,",
+    "sg:city":"Agra",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 562 653 5222",
+    "sg:postcode":"282002",
+    "sg:tags":[
+        "acid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930887,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OnRG0xnUNVUqCtFy2w9Ue_12.927250_77.578865@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"58e408993241620b1d76001caffa66c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930887,
+            "region_id":85672165,
+            "venue_id":169558523
+        }
+    ],
+    "wof:id":169558523,
+    "wof:lastmodified":1449033581,
+    "wof:name":"Boski Chemicals & Minerals Pvt. Ltd.",
+    "wof:parent_id":85930887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [77.578865,12.92725,77.578865,12.92725],
+  "geometry": {"coordinates":[77.578865,12.92725],"type":"Point"}
+}

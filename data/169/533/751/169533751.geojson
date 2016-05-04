@@ -1,0 +1,65 @@
+{
+  "id": 169533751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.82357,18.954981,72.82357,18.954981",
+    "geom:latitude":18.954981,
+    "geom:longitude":72.82357,
+    "iso:country":"IN",
+    "sg:address":"167, Khadilkar Road, 2nd Floor, Zaveri Bazar,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2385 3121",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "calendar",
+        "diary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931435,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67VXlWgLrWDcXYn6Sks0Mf_18.954981_72.823570@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c0be912f9bc04ff65f9821c25b1844c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931435,
+            "region_id":85672171,
+            "venue_id":169533751
+        }
+    ],
+    "wof:id":169533751,
+    "wof:lastmodified":1449032641,
+    "wof:name":"Mangalam Cards & Arts",
+    "wof:parent_id":85931435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "calendar",
+        "diary"
+    ]
+},
+  "bbox": [72.82357,18.954981,72.82357,18.954981],
+  "geometry": {"coordinates":[72.82357,18.954981],"type":"Point"}
+}

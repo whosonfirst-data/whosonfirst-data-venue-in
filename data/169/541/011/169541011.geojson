@@ -1,0 +1,63 @@
+{
+  "id": 169541011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.592545,12.965964,77.592545,12.965964",
+    "geom:latitude":12.965964,
+    "geom:longitude":77.592545,
+    "iso:country":"IN",
+    "sg:address":"#11, 2nd Floor, 8th Cross, Coubbonpet,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2212 5160",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930935,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CvklhJnsaMY2e2AZqen60_12.965964_77.592545@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3945ba500d09be4af11e08ea556c69c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930935,
+            "region_id":85672165,
+            "venue_id":169541011
+        }
+    ],
+    "wof:id":169541011,
+    "wof:lastmodified":1449033043,
+    "wof:name":"Sapathagiri Silk Soceity",
+    "wof:parent_id":85930935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.592545,12.965964,77.592545,12.965964],
+  "geometry": {"coordinates":[77.592545,12.965964],"type":"Point"}
+}

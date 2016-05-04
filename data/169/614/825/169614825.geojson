@@ -1,0 +1,63 @@
+{
+  "id": 169614825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.872368,18.515097,73.872368,18.515097",
+    "geom:latitude":18.515097,
+    "geom:longitude":73.872368,
+    "iso:country":"IN",
+    "sg:address":"403, Quarter Gate, Nana Peth,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2634 5367",
+    "sg:postcode":"411002",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903913,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SpyH621TpnA314iVJkUDG_18.515097_73.872368@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6f1409d8d9f020c7f0469a1edbf25d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85903913,
+            "region_id":85672171,
+            "venue_id":169614825
+        }
+    ],
+    "wof:id":169614825,
+    "wof:lastmodified":1449036057,
+    "wof:name":"Sai International",
+    "wof:parent_id":85903913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [73.872368,18.515097,73.872368,18.515097],
+  "geometry": {"coordinates":[73.872368,18.515097],"type":"Point"}
+}

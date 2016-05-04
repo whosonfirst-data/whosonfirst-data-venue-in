@@ -1,0 +1,64 @@
+{
+  "id": 169577701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.597313,12.971099,77.597313,12.971099",
+    "geom:latitude":12.971099,
+    "geom:longitude":77.597313,
+    "iso:country":"IN",
+    "sg:address":"1a, Grant Lane, 1st Floor, Room No. 117,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 3294 5267",
+    "sg:postcode":"700012",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.www.goodgripfriction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930949,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i3RF8gBSzEpH9z64rwYgN_12.971099_77.597313@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0a6e821b360834011281a60311b96a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930949,
+            "region_id":85672165,
+            "venue_id":169577701
+        }
+    ],
+    "wof:id":169577701,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Good Grip Friction Products",
+    "wof:parent_id":85930949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.597313,12.971099,77.597313,12.971099],
+  "geometry": {"coordinates":[77.597313,12.971099],"type":"Point"}
+}

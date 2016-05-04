@@ -1,0 +1,64 @@
+{
+  "id": 169560123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.341057,28.660917,77.341057,28.660917",
+    "geom:latitude":28.660917,
+    "geom:longitude":77.341057,
+    "iso:country":"IN",
+    "sg:address":"A-48/8, Site Iv, Indl. Area, Ghaziabad,",
+    "sg:city":"Sahibabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 289 6529",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "sg:website":"http://www.debonoindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Nr8LmF8EORKindPOVxIf5_28.660917_77.341057@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9d1249af4bfb4f83e2805b0034c77b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169560123
+        }
+    ],
+    "wof:id":169560123,
+    "wof:lastmodified":1449035179,
+    "wof:name":"De Bono Flexcom (i) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [77.341057,28.660917,77.341057,28.660917],
+  "geometry": {"coordinates":[77.341057,28.660917],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169603519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.356583,22.592241,88.356583,22.592241",
+    "geom:latitude":22.592241,
+    "geom:longitude":88.356583,
+    "iso:country":"IN",
+    "sg:address":"65-a, Nimtala Ghat Street, Plot- A,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2335 2288",
+    "sg:postcode":"700097",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931965,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MRPxtkZyGCufFwO8NXVyc_22.592241_88.356583@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f958892ac6aa265e61ec8a7129b75026",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931965,
+            "region_id":85672219,
+            "venue_id":169603519
+        }
+    ],
+    "wof:id":169603519,
+    "wof:lastmodified":1449035454,
+    "wof:name":"Prem Plastofab Plast P. Ltd.",
+    "wof:parent_id":85931965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.356583,22.592241,88.356583,22.592241],
+  "geometry": {"coordinates":[88.356583,22.592241],"type":"Point"}
+}

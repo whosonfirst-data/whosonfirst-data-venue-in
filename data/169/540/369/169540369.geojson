@@ -1,0 +1,66 @@
+{
+  "id": 169540369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.64267,13.021512,77.64267,13.021512",
+    "geom:latitude":13.021512,
+    "geom:longitude":77.64267,
+    "iso:country":"IN",
+    "sg:address":"210 3rd Block, 80 Feet Road, Hbr Layout,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2543 4775",
+    "sg:postcode":"560043",
+    "sg:tags":[
+        "shoes/footwear",
+        "upper"
+    ],
+    "sg:website":"http://www.solesshoes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931031,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eDbeekjOI6smIaHu9xAYm_13.021512_77.642670@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"629762df810e4e1b8360b994b8aeb187",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931031,
+            "region_id":85672165,
+            "venue_id":169540369
+        }
+    ],
+    "wof:id":169540369,
+    "wof:lastmodified":1449033979,
+    "wof:name":"Soles",
+    "wof:parent_id":85931031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shoes/footwear",
+        "upper"
+    ]
+},
+  "bbox": [77.64267,13.021512,77.64267,13.021512],
+  "geometry": {"coordinates":[77.64267,13.021512],"type":"Point"}
+}

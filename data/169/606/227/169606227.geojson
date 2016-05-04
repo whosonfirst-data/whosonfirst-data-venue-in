@@ -1,0 +1,63 @@
+{
+  "id": 169606227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.830299,18.938086,72.830299,18.938086",
+    "geom:latitude":18.938086,
+    "geom:longitude":72.830299,
+    "iso:country":"IN",
+    "sg:address":"111, Mahatma Gandhi Road, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 222267411985463",
+    "sg:postcode":"400023",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931457,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YVYMxeyEK9hN1LIwZ2A9u_18.938086_72.830299@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"518f727b6d247a4cf1ccfffa8b0bb433",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931457,
+            "region_id":85672171,
+            "venue_id":169606227
+        }
+    ],
+    "wof:id":169606227,
+    "wof:lastmodified":1449033200,
+    "wof:name":"R. Ratilal & Co.",
+    "wof:parent_id":85931457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [72.830299,18.938086,72.830299,18.938086],
+  "geometry": {"coordinates":[72.830299,18.938086],"type":"Point"}
+}

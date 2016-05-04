@@ -1,0 +1,63 @@
+{
+  "id": 169591539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.504494,17.458738,78.504494,17.458738",
+    "geom:latitude":17.458738,
+    "geom:longitude":78.504494,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 4, Brooke Bond Colony, Karkhana,",
+    "sg:city":"Secunderabad",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 6591 9743",
+    "sg:postcode":"500015",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930697,
+        85632469,
+        102028703,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ho3cr87gGXZFiM0ZCfSTJ_17.458738_78.504494@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5f38f1b8beb8e9616979a8e2746f3077",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028703,
+            "neighbourhood_id":85930697,
+            "region_id":85672141,
+            "venue_id":169591539
+        }
+    ],
+    "wof:id":169591539,
+    "wof:lastmodified":1449034454,
+    "wof:name":"Mythri Crop Care (p) Limited",
+    "wof:parent_id":85930697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [78.504494,17.458738,78.504494,17.458738],
+  "geometry": {"coordinates":[78.504494,17.458738],"type":"Point"}
+}

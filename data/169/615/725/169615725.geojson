@@ -1,0 +1,66 @@
+{
+  "id": 169615725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.480247,17.385683,78.480247,17.385683",
+    "geom:latitude":17.385683,
+    "geom:longitude":78.480247,
+    "iso:country":"IN",
+    "sg:address":"4-3-352, Bank Street, Koti,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 5578 2850",
+    "sg:postcode":"500095",
+    "sg:tags":[
+        "synthetic",
+        "pu/pvc"
+    ],
+    "sg:website":"http://www.sanghigroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930737,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gFVGCSm18XNwc7QQzNZx5_17.385683_78.480247@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"42348de27978ae4236828f74e83f62b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930737,
+            "region_id":85672141,
+            "venue_id":169615725
+        }
+    ],
+    "wof:id":169615725,
+    "wof:lastmodified":1449033731,
+    "wof:name":"Sanghi Industries Limited",
+    "wof:parent_id":85930737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "synthetic",
+        "pu/pvc"
+    ]
+},
+  "bbox": [78.480247,17.385683,78.480247,17.385683],
+  "geometry": {"coordinates":[78.480247,17.385683],"type":"Point"}
+}

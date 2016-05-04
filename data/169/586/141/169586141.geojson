@@ -1,0 +1,67 @@
+{
+  "id": 169586141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.841209,34.124176,74.841209,34.124176",
+    "geom:latitude":34.124176,
+    "geom:longitude":74.841209,
+    "iso:country":"IN",
+    "sg:address":"5-l/156, Nit,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 405 4009",
+    "sg:postcode":"121002",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934123,
+        85632427,
+        102028565,
+        85672137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72WOmKmWPE9ioeKFq7gt3O_34.124176_74.841209@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9e99c7fb2a62d5be8014cb08889a70c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632427,
+            "locality_id":102028565,
+            "neighbourhood_id":85934123,
+            "region_id":85672137,
+            "venue_id":169586141
+        }
+    ],
+    "wof:id":169586141,
+    "wof:lastmodified":1449035575,
+    "wof:name":"Maharani Paints (i) Pvt. Ltd.",
+    "wof:parent_id":85934123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [74.841209,34.124176,74.841209,34.124176],
+  "geometry": {"coordinates":[74.841209,34.124176],"type":"Point"}
+}

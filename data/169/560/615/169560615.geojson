@@ -1,0 +1,64 @@
+{
+  "id": 169560615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.057884,28.4489,77.057884,28.4489",
+    "geom:latitude":28.4489,
+    "geom:longitude":77.057884,
+    "iso:country":"IN",
+    "sg:address":"B-39, 91st Floor, Sector 40,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 433 1944",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "wax"
+    ],
+    "sg:website":"http://www.dmgpolypack.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928511,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wtB6pJ81qRs6vAadyKQlk_28.448900_77.057884@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ae930444ccbab5df1d47e8f3aa098e9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928511,
+            "region_id":85672133,
+            "venue_id":169560615
+        }
+    ],
+    "wof:id":169560615,
+    "wof:lastmodified":1449035180,
+    "wof:name":"Dmg Polypack",
+    "wof:parent_id":85928511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [77.057884,28.4489,77.057884,28.4489],
+  "geometry": {"coordinates":[77.057884,28.4489],"type":"Point"}
+}

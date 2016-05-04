@@ -1,0 +1,65 @@
+{
+  "id": 169575853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.129822,28.73391,77.129822,28.73391",
+    "geom:latitude":28.73391,
+    "geom:longitude":77.129822,
+    "iso:country":"IN",
+    "sg:address":"E-1/6/40, Sec-15, Rohini,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2785 6363",
+    "sg:postcode":"110085",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "sg:website":"http://www.bansalfab.8m.com/bansalaroma.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4scsEmJC5UKjsZdW2sexrQ_28.733910_77.129822@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b1def96d5d283ea8c7e4b0750b7c4b3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169575853
+        }
+    ],
+    "wof:id":169575853,
+    "wof:lastmodified":1449033641,
+    "wof:name":"Bansal Aroma",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [77.129822,28.73391,77.129822,28.73391],
+  "geometry": {"coordinates":[77.129822,28.73391],"type":"Point"}
+}

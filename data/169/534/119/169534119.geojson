@@ -1,0 +1,63 @@
+{
+  "id": 169534119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.828979,18.937618,72.828979,18.937618",
+    "geom:latitude":18.937618,
+    "geom:longitude":72.828979,
+    "iso:country":"IN",
+    "sg:address":"Marine Chambers No. 303, 3rd Floor, New Marine Lines,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5631 0883",
+    "sg:postcode":"400020",
+    "sg:tags":[
+        "dye"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931457,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59gbRaqI7RZks8BLWuPOvL_18.937618_72.828979@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"723b035b31e859c962eb5e7baf3532d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931457,
+            "region_id":85672171,
+            "venue_id":169534119
+        }
+    ],
+    "wof:id":169534119,
+    "wof:lastmodified":1449033549,
+    "wof:name":"Globe (india) Enterprises",
+    "wof:parent_id":85931457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye"
+    ]
+},
+  "bbox": [72.828979,18.937618,72.828979,18.937618],
+  "geometry": {"coordinates":[72.828979,18.937618],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169647137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.234802,13.027658,80.234802,13.027658",
+    "geom:latitude":13.027658,
+    "geom:longitude":80.234802,
+    "iso:country":"IN",
+    "sg:address":"10 Mount Road, Saidapet,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2235 0271",
+    "sg:postcode":"600015",
+    "sg:tags":[
+        "x-ray"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903981,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LJSyvIV3Go0WPHth85XXN_13.027658_80.234802@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"686086f567fa56cf51af589af8cc404f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903981,
+            "region_id":85672245,
+            "venue_id":169647137
+        }
+    ],
+    "wof:id":169647137,
+    "wof:lastmodified":1449034241,
+    "wof:name":"X-ray Medico Surgical",
+    "wof:parent_id":85903981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "x-ray"
+    ]
+},
+  "bbox": [80.234802,13.027658,80.234802,13.027658],
+  "geometry": {"coordinates":[80.234802,13.027658],"type":"Point"}
+}

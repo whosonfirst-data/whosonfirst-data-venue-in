@@ -1,0 +1,63 @@
+{
+  "id": 169531517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.828903,18.938452,72.828903,18.938452",
+    "geom:latitude":18.938452,
+    "geom:longitude":72.828903,
+    "iso:country":"IN",
+    "sg:address":"Court Cambers, New Marine Lines,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2200 0523",
+    "sg:postcode":"400020",
+    "sg:tags":[
+        "cotton"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931457,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EQuQz2NYvWJgF9pzJ8VP3_18.938452_72.828903@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"abcb4025dd68d57655d2db79e6a08233",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931457,
+            "region_id":85672171,
+            "venue_id":169531517
+        }
+    ],
+    "wof:id":169531517,
+    "wof:lastmodified":1449033475,
+    "wof:name":"Binny Limited",
+    "wof:parent_id":85931457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cotton"
+    ]
+},
+  "bbox": [72.828903,18.938452,72.828903,18.938452],
+  "geometry": {"coordinates":[72.828903,18.938452],"type":"Point"}
+}

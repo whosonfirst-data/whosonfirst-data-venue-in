@@ -1,0 +1,65 @@
+{
+  "id": 169528245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.845711,19.137587,72.845711,19.137587",
+    "geom:latitude":19.137587,
+    "geom:longitude":72.845711,
+    "iso:country":"IN",
+    "sg:address":"101, Lovely Home, Vaishali Nagar, Jogeshwari-west,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2678 6641",
+    "sg:postcode":"400102",
+    "sg:tags":[
+        "tile",
+        "brick"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931511,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H9Fl3mIfCOc55sOkdhKvn_19.137587_72.845711@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3429ec9559615db6ec90f19b7198d40b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931511,
+            "region_id":85672171,
+            "venue_id":169528245
+        }
+    ],
+    "wof:id":169528245,
+    "wof:lastmodified":1449033571,
+    "wof:name":"Opal Stone Inds.",
+    "wof:parent_id":85931511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "brick"
+    ]
+},
+  "bbox": [72.845711,19.137587,72.845711,19.137587],
+  "geometry": {"coordinates":[72.845711,19.137587],"type":"Point"}
+}

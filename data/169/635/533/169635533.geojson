@@ -1,0 +1,64 @@
+{
+  "id": 169635533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.013901,19.113665,73.013901,19.113665",
+    "geom:latitude":19.113665,
+    "geom:longitude":73.013901,
+    "iso:country":"IN",
+    "sg:address":"A-714, T.t.c. Industrial Area, Midc, Mahape,",
+    "sg:city":"Navi Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2778 0745",
+    "sg:postcode":"400701",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031115,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iqh2c16lpC40U15NY7LEs_19.113665_73.013901@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bc3f02725e4df9a6c4e9e8c009152b18",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031115,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169635533
+        }
+    ],
+    "wof:id":169635533,
+    "wof:lastmodified":1449034096,
+    "wof:name":"Texochem Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [73.013901,19.113665,73.013901,19.113665],
+  "geometry": {"coordinates":[73.013901,19.113665],"type":"Point"}
+}

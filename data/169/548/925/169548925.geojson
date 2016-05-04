@@ -1,0 +1,67 @@
+{
+  "id": 169548925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.133087,28.694988,77.133087,28.694988",
+    "geom:latitude":28.694988,
+    "geom:longitude":77.133087,
+    "iso:country":"IN",
+    "sg:address":"G-337, Road No 12, Mia,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Light Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 249 3742",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "control",
+        "board",
+        "panel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928043,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f1P8w3a998kLc60T4KhCK_28.694988_77.133087@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"03f7944ffe374dbd501c17a09ef676eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928043,
+            "region_id":85672123,
+            "venue_id":169548925
+        }
+    ],
+    "wof:id":169548925,
+    "wof:lastmodified":1449034972,
+    "wof:name":"Drive Controls",
+    "wof:parent_id":85928043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "board",
+        "panel"
+    ]
+},
+  "bbox": [77.133087,28.694988,77.133087,28.694988],
+  "geometry": {"coordinates":[77.133087,28.694988],"type":"Point"}
+}

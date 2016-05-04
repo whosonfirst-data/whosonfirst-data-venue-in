@@ -1,0 +1,63 @@
+{
+  "id": 169549131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.692757,24.575169,73.692757,24.575169",
+    "geom:latitude":24.575169,
+    "geom:longitude":73.692757,
+    "iso:country":"IN",
+    "sg:address":"Lake Palace Road,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 242 2842",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "handicraft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934005,
+        85632469,
+        102028377,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x5254bw20VndOJyjeRDaT_24.575169_73.692757@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0d118bd92523f471a6b84effc65a9306",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028377,
+            "neighbourhood_id":85934005,
+            "region_id":85672201,
+            "venue_id":169549131
+        }
+    ],
+    "wof:id":169549131,
+    "wof:lastmodified":1449033590,
+    "wof:name":"Brahma Arts & Textiles",
+    "wof:parent_id":85934005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handicraft"
+    ]
+},
+  "bbox": [73.692757,24.575169,73.692757,24.575169],
+  "geometry": {"coordinates":[73.692757,24.575169],"type":"Point"}
+}

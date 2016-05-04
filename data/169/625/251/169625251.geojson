@@ -1,0 +1,61 @@
+{
+  "id": 169625251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.27092,22.489367,88.27092,22.489367",
+    "geom:latitude":22.489367,
+    "geom:longitude":88.27092,
+    "iso:country":"IN",
+    "sg:address":"2, Ho Chimin Sarani,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2282 2976",
+    "sg:postcode":"700071",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pLHdfBpM05phc3M7VJPoG_22.489367_88.270920@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fd566baf7c12a1f691f5e7f75f225664",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672219,
+            "venue_id":169625251
+        }
+    ],
+    "wof:id":169625251,
+    "wof:lastmodified":1449036020,
+    "wof:name":"Skill Dye Chemical Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.27092,22.489367,88.27092,22.489367],
+  "geometry": {"coordinates":[88.27092,22.489367],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169642317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.784363,18.651051,73.784363,18.651051",
+    "geom:latitude":18.651051,
+    "geom:longitude":73.784363,
+    "iso:country":"IN",
+    "sg:address":"21, Opp. M.i.d.c. Office,",
+    "sg:city":"Badlapur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 251 269 0380",
+    "sg:postcode":"421503",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931265,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Q8PeFJQBgRUs88TiT6Jz3_18.651051_73.784363@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f706f7c0d38211839e64a2057d785d49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931265,
+            "region_id":85672171,
+            "venue_id":169642317
+        }
+    ],
+    "wof:id":169642317,
+    "wof:lastmodified":1449032877,
+    "wof:name":"Venus Fluorides & Chemicals",
+    "wof:parent_id":85931265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [73.784363,18.651051,73.784363,18.651051],
+  "geometry": {"coordinates":[73.784363,18.651051],"type":"Point"}
+}

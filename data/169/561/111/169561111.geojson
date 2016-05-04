@@ -1,0 +1,64 @@
+{
+  "id": 169561111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831947,19.007002,72.831947,19.007002",
+    "geom:latitude":19.007002,
+    "geom:longitude":72.831947,
+    "iso:country":"IN",
+    "sg:address":"414, Senapati Bapat Marg, Lower Parel,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6655 5453",
+    "sg:postcode":"400013",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.empirechemicals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931467,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DN7bAQfV1cQojwViNlcrm_19.007002_72.831947@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3759cc7b958b70a253eeddf25a7c2aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931467,
+            "region_id":85672171,
+            "venue_id":169561111
+        }
+    ],
+    "wof:id":169561111,
+    "wof:lastmodified":1449035024,
+    "wof:name":"Empire Industries Limited",
+    "wof:parent_id":85931467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.831947,19.007002,72.831947,19.007002],
+  "geometry": {"coordinates":[72.831947,19.007002],"type":"Point"}
+}

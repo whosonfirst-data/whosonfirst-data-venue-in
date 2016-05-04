@@ -1,0 +1,67 @@
+{
+  "id": 169580423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.888016,31.655563,74.888016,31.655563",
+    "geom:latitude":31.655563,
+    "geom:longitude":74.888016,
+    "iso:country":"IN",
+    "sg:address":"Unit No. 1 : Majitha Road, Bye Pass,",
+    "sg:city":"Amritsar",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 183 242 3310",
+    "sg:postcode":"143004",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "sg:website":"http://www.jacksonlaboratories.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030955,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y7bMydFQmRr6HAnTb4jEb_31.655563_74.888016@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bc62173ad25a46003af2f669dc23e0f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030955,
+            "neighbourhood_id":-1,
+            "region_id":85672195,
+            "venue_id":169580423
+        }
+    ],
+    "wof:id":169580423,
+    "wof:lastmodified":1449034911,
+    "wof:name":"Jackson Laboratories (p) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [74.888016,31.655563,74.888016,31.655563],
+  "geometry": {"coordinates":[74.888016,31.655563],"type":"Point"}
+}

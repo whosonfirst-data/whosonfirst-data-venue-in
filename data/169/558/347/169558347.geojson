@@ -1,0 +1,63 @@
+{
+  "id": 169558347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.831604,26.886431,75.831604,26.886431",
+    "geom:latitude":26.886431,
+    "geom:longitude":75.831604,
+    "iso:country":"IN",
+    "sg:address":"176/4, Jawaher Nager, Jacobpura,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 232 3356",
+    "sg:postcode":"122001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934539,
+        85632469,
+        102030017,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dgWf2yXHdOz3pHMlOvPeP_26.886431_75.831604@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b0d2808f819f99d452195d738ac8300e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030017,
+            "neighbourhood_id":85934539,
+            "region_id":85672201,
+            "venue_id":169558347
+        }
+    ],
+    "wof:id":169558347,
+    "wof:lastmodified":1449033581,
+    "wof:name":"Birla Chemicals",
+    "wof:parent_id":85934539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.831604,26.886431,75.831604,26.886431],
+  "geometry": {"coordinates":[75.831604,26.886431],"type":"Point"}
+}

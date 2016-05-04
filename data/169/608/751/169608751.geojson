@@ -1,0 +1,63 @@
+{
+  "id": 169608751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.990608,28.610878,76.990608,28.610878",
+    "geom:latitude":28.610878,
+    "geom:longitude":76.990608,
+    "iso:country":"IN",
+    "sg:address":"1-7-241/11 Ist Floor, S. D. Road,",
+    "sg:city":"Secunderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2784 6311",
+    "sg:postcode":"500003",
+    "sg:tags":[
+        "agrochemicals"
+    ],
+    "sg:website":"http://www.rallis.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4StUCRyIHFE4FpfJF8ZvuM_28.610878_76.990608@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5d45b968c81fe77a38e9054a203e3f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169608751
+        }
+    ],
+    "wof:id":169608751,
+    "wof:lastmodified":1449034080,
+    "wof:name":"Rallis India Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agrochemicals"
+    ]
+},
+  "bbox": [76.990608,28.610878,76.990608,28.610878],
+  "geometry": {"coordinates":[76.990608,28.610878],"type":"Point"}
+}

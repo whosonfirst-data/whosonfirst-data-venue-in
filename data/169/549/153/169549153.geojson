@@ -1,0 +1,63 @@
+{
+  "id": 169549153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.528107,17.365723,78.528107,17.365723",
+    "geom:latitude":17.365723,
+    "geom:longitude":78.528107,
+    "iso:country":"IN",
+    "sg:address":"N.h. 8, Bhuwana,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 244 1931",
+    "sg:postcode":"313004",
+    "sg:tags":[
+        "handicraft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927619,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AD0OGG9Ojh9OHXv6AWniR_17.365723_78.528107@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9b4df68c0d58bc1d15a5ff6ca90fee55",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85927619,
+            "region_id":85672141,
+            "venue_id":169549153
+        }
+    ],
+    "wof:id":169549153,
+    "wof:lastmodified":1449033592,
+    "wof:name":"Rita Art Palace",
+    "wof:parent_id":85927619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handicraft"
+    ]
+},
+  "bbox": [78.528107,17.365723,78.528107,17.365723],
+  "geometry": {"coordinates":[78.528107,17.365723],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169546387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.599937,12.914554,77.599937,12.914554",
+    "geom:latitude":12.914554,
+    "geom:longitude":77.599937,
+    "iso:country":"IN",
+    "sg:address":"No. 1, Om Shakthi Nagar,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 237 4511",
+    "sg:postcode":"641601",
+    "sg:tags":[
+        "garment",
+        "childrenwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931061,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41QxcrEjoPEvnKOhQJGR02_12.914554_77.599937@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cc6af4fd21c08388641d5d51aa91ed23",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931061,
+            "region_id":85672165,
+            "venue_id":169546387
+        }
+    ],
+    "wof:id":169546387,
+    "wof:lastmodified":1449032681,
+    "wof:name":"Shakthi Exports",
+    "wof:parent_id":85931061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "childrenwear"
+    ]
+},
+  "bbox": [77.599937,12.914554,77.599937,12.914554],
+  "geometry": {"coordinates":[77.599937,12.914554],"type":"Point"}
+}

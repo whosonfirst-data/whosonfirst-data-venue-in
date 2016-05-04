@@ -1,0 +1,63 @@
+{
+  "id": 169652821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.651347,12.973873,77.651347,12.973873",
+    "geom:latitude":12.973873,
+    "geom:longitude":77.651347,
+    "iso:country":"IN",
+    "sg:address":"601, 6th Floor  Prestige Solitaire, Brunton Road",
+    "sg:city":"Bangalore ",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560 001",
+    "sg:tags":[
+        "mobile-business-platform"
+    ],
+    "sg:website":"http://www.roamware.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yd75h1QV02LPnKUHg7old_12.973873_77.651347@1308163238"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1ca858afa23e21e4836c77ab298445fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169652821
+        }
+    ],
+    "wof:id":169652821,
+    "wof:lastmodified":1449034808,
+    "wof:name":"Roamware",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile-business-platform"
+    ]
+},
+  "bbox": [77.651347,12.973873,77.651347,12.973873],
+  "geometry": {"coordinates":[77.651347,12.973873],"type":"Point"}
+}

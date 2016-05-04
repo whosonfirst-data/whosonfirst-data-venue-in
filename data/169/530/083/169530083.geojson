@@ -1,0 +1,66 @@
+{
+  "id": 169530083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.867653,19.136621,72.867653,19.136621",
+    "geom:latitude":19.136621,
+    "geom:longitude":72.867653,
+    "iso:country":"IN",
+    "sg:address":"B-21, Harmony Blgd., Ram Ngr, Borivali (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2806 1160",
+    "sg:postcode":"400092",
+    "sg:tags":[
+        "garment",
+        "childrenwear"
+    ],
+    "sg:website":"http://www.pragatifashions.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931515,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Pcic1kR9NIyJimph8sLEL_19.136621_72.867653@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"adea811c2f0e2f1c4c7b30c97066a427",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931515,
+            "region_id":85672171,
+            "venue_id":169530083
+        }
+    ],
+    "wof:id":169530083,
+    "wof:lastmodified":1449034443,
+    "wof:name":"Agent Amit",
+    "wof:parent_id":85931515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "childrenwear"
+    ]
+},
+  "bbox": [72.867653,19.136621,72.867653,19.136621],
+  "geometry": {"coordinates":[72.867653,19.136621],"type":"Point"}
+}

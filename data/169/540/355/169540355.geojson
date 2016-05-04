@@ -1,0 +1,66 @@
+{
+  "id": 169540355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.606888,12.985353,77.606888,12.985353",
+    "geom:latitude":12.985353,
+    "geom:longitude":77.606888,
+    "iso:country":"IN",
+    "sg:address":"73, Jumma Masjid (o.p.h.) Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2559 2014",
+    "sg:postcode":"560051",
+    "sg:tags":[
+        "shoes/footwear",
+        "upper"
+    ],
+    "sg:website":"http://www.pcsindia.com/kefco",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930953,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t8AC3fZgohO3dli0GES1P_12.985353_77.606888@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cd43736c671680e901c8f5eb933b2f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930953,
+            "region_id":85672165,
+            "venue_id":169540355
+        }
+    ],
+    "wof:id":169540355,
+    "wof:lastmodified":1449033977,
+    "wof:name":"Kerala Footwear (kefco)",
+    "wof:parent_id":85930953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shoes/footwear",
+        "upper"
+    ]
+},
+  "bbox": [77.606888,12.985353,77.606888,12.985353],
+  "geometry": {"coordinates":[77.606888,12.985353],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169559039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.35202,22.543602,88.35202,22.543602",
+    "geom:latitude":22.543602,
+    "geom:longitude":88.35202,
+    "iso:country":"IN",
+    "sg:address":"8, Camac Street, shantiniketan, 5th Floor, Room No.7,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2282 7101",
+    "sg:postcode":"700017",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931951,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2csXrHVHoUxVNOHyrrYkiv_22.543602_88.352020@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"174895e55c7711c3fce2b68fd8f710dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931951,
+            "region_id":85672219,
+            "venue_id":169559039
+        }
+    ],
+    "wof:id":169559039,
+    "wof:lastmodified":1449035239,
+    "wof:name":"Chemetall-rai",
+    "wof:parent_id":85931951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [88.35202,22.543602,88.35202,22.543602],
+  "geometry": {"coordinates":[88.35202,22.543602],"type":"Point"}
+}

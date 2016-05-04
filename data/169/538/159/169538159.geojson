@@ -1,0 +1,63 @@
+{
+  "id": 169538159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.552391,12.923539,77.552391,12.923539",
+    "geom:latitude":12.923539,
+    "geom:longitude":77.552391,
+    "iso:country":"IN",
+    "sg:address":"No.12, 2nd Cross, 3rd Phas, P.i.a,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2839 2393",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931103,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04Oy2lpKmYNPLi6aTr7X1s_12.923539_77.552391@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9b888a376bb12c9c9cf050db21db57f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931103,
+            "region_id":85672165,
+            "venue_id":169538159
+        }
+    ],
+    "wof:id":169538159,
+    "wof:lastmodified":1449033098,
+    "wof:name":"Girish Paper Packaging Pvt. Ltd.",
+    "wof:parent_id":85931103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [77.552391,12.923539,77.552391,12.923539],
+  "geometry": {"coordinates":[77.552391,12.923539],"type":"Point"}
+}

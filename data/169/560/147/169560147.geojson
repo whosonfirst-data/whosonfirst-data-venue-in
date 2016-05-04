@@ -1,0 +1,63 @@
+{
+  "id": 169560147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.019287,19.070274,73.019287,19.070274",
+    "geom:latitude":19.070274,
+    "geom:longitude":73.019287,
+    "iso:country":"IN",
+    "sg:address":"C-68, Midc, Thane Belapur Road, Turbhe,",
+    "sg:city":"Navi Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2761 9992",
+    "sg:postcode":"400613",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.mbt-india.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931599,
+        85632469,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KCVcm5d6z61gD5dIohxkd_19.070274_73.019287@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"63d14fe22ca70b621570533e813908c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85931599,
+            "region_id":85672171,
+            "venue_id":169560147
+        }
+    ],
+    "wof:id":169560147,
+    "wof:lastmodified":1449035181,
+    "wof:name":"Degussa Construction Chemicals (m.b.t)",
+    "wof:parent_id":85931599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [73.019287,19.070274,73.019287,19.070274],
+  "geometry": {"coordinates":[73.019287,19.070274],"type":"Point"}
+}

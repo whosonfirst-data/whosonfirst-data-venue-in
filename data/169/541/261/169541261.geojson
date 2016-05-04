@@ -1,0 +1,63 @@
+{
+  "id": 169541261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.841995,18.980114,72.841995,18.980114",
+    "geom:latitude":18.980114,
+    "geom:longitude":72.841995,
+    "iso:country":"IN",
+    "sg:address":"No. 216/1, 2nd Floor, 4th Cross, Lalbagh Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4124 0412",
+    "sg:postcode":"560027",
+    "sg:tags":[
+        "snack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903815,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P5i3xgjPhMhWhUPSgtIEI_18.980114_72.841995@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"95c3f7bfb9a4464060aa2a4665b8842b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903815,
+            "region_id":85672171,
+            "venue_id":169541261
+        }
+    ],
+    "wof:id":169541261,
+    "wof:lastmodified":1449033040,
+    "wof:name":"Rama Trading Corporation",
+    "wof:parent_id":85903815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack"
+    ]
+},
+  "bbox": [72.841995,18.980114,72.841995,18.980114],
+  "geometry": {"coordinates":[72.841995,18.980114],"type":"Point"}
+}

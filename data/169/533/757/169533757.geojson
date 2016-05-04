@@ -1,0 +1,64 @@
+{
+  "id": 169533757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833817,18.930189,72.833817,18.930189",
+    "geom:latitude":18.930189,
+    "geom:longitude":72.833817,
+    "iso:country":"IN",
+    "sg:address":"22, Bombay Samachar Marg, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2265 5976",
+    "sg:postcode":"400023",
+    "sg:tags":[
+        "calendar",
+        "diary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51r5t56DUrWLN4p8pM7Um1_18.930189_72.833817@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"309a49cf45868b1fb2b380b0f10934cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169533757
+        }
+    ],
+    "wof:id":169533757,
+    "wof:lastmodified":1449032642,
+    "wof:name":"Greet Arts India",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "calendar",
+        "diary"
+    ]
+},
+  "bbox": [72.833817,18.930189,72.833817,18.930189],
+  "geometry": {"coordinates":[72.833817,18.930189],"type":"Point"}
+}

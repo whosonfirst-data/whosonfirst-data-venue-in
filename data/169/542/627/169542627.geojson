@@ -1,0 +1,64 @@
+{
+  "id": 169542627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.566315,13.007462,77.566315,13.007462",
+    "geom:latitude":13.007462,
+    "geom:longitude":77.566315,
+    "iso:country":"IN",
+    "sg:address":"17th Cross, Maleswaram,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Bus Station",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2344 5516",
+    "sg:postcode":"560003",
+    "sg:tags":[
+        "switch"
+    ],
+    "sg:website":"http://www.dbups.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SyzHDgPw1X76tMCs3avxt_13.007462_77.566315@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c32b617dcf40821be411ea1d78e43527",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169542627
+        }
+    ],
+    "wof:id":169542627,
+    "wof:lastmodified":1449035224,
+    "wof:name":"Db Power Electronics Pvt. Ltd.",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "switch"
+    ]
+},
+  "bbox": [77.566315,13.007462,77.566315,13.007462],
+  "geometry": {"coordinates":[77.566315,13.007462],"type":"Point"}
+}

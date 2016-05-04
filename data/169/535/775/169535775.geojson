@@ -1,0 +1,66 @@
+{
+  "id": 169535775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.828346,18.94651,72.828346,18.94651",
+    "geom:latitude":18.94651,
+    "geom:longitude":72.828346,
+    "iso:country":"IN",
+    "sg:address":"202, Mahaveer Building, 44/46, Popatwadi, Kalbadevi,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2643 8107",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "garment",
+        "ethnic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nLCd88sx0a9zZ741U13jl_18.946510_72.828346@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b2742659c066c42a306330809bbe15a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903889,
+            "region_id":85672171,
+            "venue_id":169535775
+        }
+    ],
+    "wof:id":169535775,
+    "wof:lastmodified":1449033286,
+    "wof:name":"Laljee's",
+    "wof:parent_id":85903889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "ethnic"
+    ]
+},
+  "bbox": [72.828346,18.94651,72.828346,18.94651],
+  "geometry": {"coordinates":[72.828346,18.94651],"type":"Point"}
+}

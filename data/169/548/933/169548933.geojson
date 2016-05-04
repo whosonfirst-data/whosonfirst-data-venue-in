@@ -1,0 +1,67 @@
+{
+  "id": 169548933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.844681,19.039501,72.844681,19.039501",
+    "geom:latitude":19.039501,
+    "geom:longitude":72.844681,
+    "iso:country":"IN",
+    "sg:address":"E-329, Mia Road No-12,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Light Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 249 2122",
+    "sg:postcode":"313003",
+    "sg:tags":[
+        "control",
+        "board",
+        "panel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903903,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gHGhrYs0ssxCA2SmOfXqV_19.039501_72.844681@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"48c1eb4fe22e3748168cff6e5a43103d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903903,
+            "region_id":85672171,
+            "venue_id":169548933
+        }
+    ],
+    "wof:id":169548933,
+    "wof:lastmodified":1449034973,
+    "wof:name":"Pyroetch Electronics Pvt. Ltd .",
+    "wof:parent_id":85903903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "board",
+        "panel"
+    ]
+},
+  "bbox": [72.844681,19.039501,72.844681,19.039501],
+  "geometry": {"coordinates":[72.844681,19.039501],"type":"Point"}
+}

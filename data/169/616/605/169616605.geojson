@@ -1,0 +1,64 @@
+{
+  "id": 169616605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.127991,19.260674,73.127991,19.260674",
+    "geom:latitude":19.260674,
+    "geom:longitude":73.127991,
+    "iso:country":"IN",
+    "sg:address":"W-28, M.i.d.c., Phase-1, Dombivili(e),",
+    "sg:city":"Thane",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 251 287 1774",
+    "sg:postcode":"421204",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029887,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tVXUVK8Ll3QGaYAWXcu3f_19.260674_73.127991@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9eca53fef3660a6ca8db695107750a37",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029887,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169616605
+        }
+    ],
+    "wof:id":169616605,
+    "wof:lastmodified":1449035100,
+    "wof:name":"Saptavarna Colourants P. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [73.127991,19.260674,73.127991,19.260674],
+  "geometry": {"coordinates":[73.127991,19.260674],"type":"Point"}
+}

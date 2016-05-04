@@ -1,0 +1,65 @@
+{
+  "id": 169617101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.638245,12.33071,76.638245,12.33071",
+    "geom:latitude":12.33071,
+    "geom:longitude":76.638245,
+    "iso:country":"IN",
+    "sg:address":"41, Vivekananda Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2273 0807",
+    "sg:postcode":"700007",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903989,
+        85632469,
+        102029303,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Y3H7E1HTAfF51KhA649Tf_12.330710_76.638245@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8fa27748e9de277eb3455497f370572d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029303,
+            "neighbourhood_id":85903989,
+            "region_id":85672165,
+            "venue_id":169617101
+        }
+    ],
+    "wof:id":169617101,
+    "wof:lastmodified":1449032799,
+    "wof:name":"Saurabh Marketing Concern",
+    "wof:parent_id":85903989,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [76.638245,12.33071,76.638245,12.33071],
+  "geometry": {"coordinates":[76.638245,12.33071],"type":"Point"}
+}

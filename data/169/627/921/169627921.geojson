@@ -1,0 +1,62 @@
+{
+  "id": 169627921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.503311,17.375153,78.503311,17.375153",
+    "geom:latitude":17.375153,
+    "geom:longitude":78.503311,
+    "iso:country":"IN",
+    "sg:address":"12/71, Municipal Colony, Malakpet,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2454 9569",
+    "sg:postcode":"500036",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zWheX3kjUkg9USlTDF9Vo_17.375153_78.503311@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5b91e343e6b8e7ac67379fdb155a436e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169627921
+        }
+    ],
+    "wof:id":169627921,
+    "wof:lastmodified":1449036041,
+    "wof:name":"Sri Annapurna Chemical Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [78.503311,17.375153,78.503311,17.375153],
+  "geometry": {"coordinates":[78.503311,17.375153],"type":"Point"}
+}

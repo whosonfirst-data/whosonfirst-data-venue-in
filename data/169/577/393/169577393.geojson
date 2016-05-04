@@ -1,0 +1,66 @@
+{
+  "id": 169577393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.81813,19.00596,72.81813,19.00596",
+    "geom:latitude":19.00596,
+    "geom:longitude":72.81813,
+    "iso:country":"IN",
+    "sg:address":"252, Dr. A.b Road, Worli,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2495 9523",
+    "sg:postcode":"400025",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903999,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EQlQ4d81Uzk0coU3s22xl_19.005960_72.818130@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"63b86b5b946290c07eb58e1ca8ee9261",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903999,
+            "region_id":85672171,
+            "venue_id":169577393
+        }
+    ],
+    "wof:id":169577393,
+    "wof:lastmodified":1449036065,
+    "wof:name":"Glaxosmithkline",
+    "wof:parent_id":85903999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [72.81813,19.00596,72.81813,19.00596],
+  "geometry": {"coordinates":[72.81813,19.00596],"type":"Point"}
+}

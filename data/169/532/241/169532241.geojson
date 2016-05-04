@@ -1,0 +1,62 @@
+{
+  "id": 169532241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.834389,19.059034,72.834389,19.059034",
+    "geom:latitude":19.059034,
+    "geom:longitude":72.834389,
+    "iso:country":"IN",
+    "sg:address":"6, Mangal Darshan, Waterfield Road, Bandra (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2642 8616",
+    "sg:postcode":"400050",
+    "sg:tags":[
+        "diamond"
+    ],
+    "sg:website":"http://www.notandas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931581,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fU0nXYgCEGIubHUgRlQwA_19.059034_72.834389@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"dfa622e9743f043f8cea6719884bdd3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931581,
+            "region_id":-1,
+            "venue_id":169532241
+        }
+    ],
+    "wof:id":169532241,
+    "wof:lastmodified":1449033798,
+    "wof:name":"Notandas & Sons",
+    "wof:parent_id":85931581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.834389,19.059034,72.834389,19.059034],
+  "geometry": {"coordinates":[72.834389,19.059034],"type":"Point"}
+}

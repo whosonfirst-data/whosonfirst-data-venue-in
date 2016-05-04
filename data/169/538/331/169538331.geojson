@@ -1,0 +1,67 @@
+{
+  "id": 169538331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.612503,12.971674,77.612503,12.971674",
+    "geom:latitude":12.971674,
+    "geom:longitude":77.612503,
+    "iso:country":"IN",
+    "sg:address":"No. 6, Rose Lane, Richmond Town,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2212 3547",
+    "sg:postcode":"560025",
+    "sg:tags":[
+        "equipment",
+        "pump",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930841,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TjftpxDNN5o7FWCOBOn3f_12.971674_77.612503@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fad7b357a9e95a174069050ba8f6ebb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930841,
+            "region_id":85672165,
+            "venue_id":169538331
+        }
+    ],
+    "wof:id":169538331,
+    "wof:lastmodified":1449033099,
+    "wof:name":"A.t.e. Marketing Pvt. Ltd.",
+    "wof:parent_id":85930841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "pump",
+        "pumping"
+    ]
+},
+  "bbox": [77.612503,12.971674,77.612503,12.971674],
+  "geometry": {"coordinates":[77.612503,12.971674],"type":"Point"}
+}

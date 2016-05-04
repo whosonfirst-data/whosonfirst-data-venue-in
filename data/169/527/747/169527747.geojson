@@ -1,0 +1,67 @@
+{
+  "id": 169527747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.892693,19.081566,72.892693,19.081566",
+    "geom:latitude":19.081566,
+    "geom:longitude":72.892693,
+    "iso:country":"IN",
+    "sg:address":"P. B. No. 9208, Kurla Kirol Road, Ghatkopar(w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2509 4145",
+    "sg:postcode":"400086",
+    "sg:tags":[
+        "spare",
+        "component",
+        "boilers"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931531,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T6y33L7etwsk0N80X6G7j_19.081566_72.892693@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"43780ddbd9ce54227f0f408dfe331da2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931531,
+            "region_id":85672171,
+            "venue_id":169527747
+        }
+    ],
+    "wof:id":169527747,
+    "wof:lastmodified":1449035278,
+    "wof:name":"Millars India Ltd.",
+    "wof:parent_id":85931531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "component",
+        "boilers"
+    ]
+},
+  "bbox": [72.892693,19.081566,72.892693,19.081566],
+  "geometry": {"coordinates":[72.892693,19.081566],"type":"Point"}
+}

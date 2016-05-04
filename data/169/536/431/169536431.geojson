@@ -1,0 +1,66 @@
+{
+  "id": 169536431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.856239,19.117952,72.856239,19.117952",
+    "geom:latitude":19.117952,
+    "geom:longitude":72.856239,
+    "iso:country":"IN",
+    "sg:address":"101, Everest House, 6, Suren Road, Andheri (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5692 6800",
+    "sg:postcode":"400093",
+    "sg:tags":[
+        "garment",
+        "accessory"
+    ],
+    "sg:website":"http://www.pankajmercantile.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nftqQP2ZEkZ9ZYfJKEOP1_19.117952_72.856239@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7898bf92701a08de4d804c9e2ed2486f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169536431
+        }
+    ],
+    "wof:id":169536431,
+    "wof:lastmodified":1449034656,
+    "wof:name":"Pankaj Mercantile Company",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "accessory"
+    ]
+},
+  "bbox": [72.856239,19.117952,72.856239,19.117952],
+  "geometry": {"coordinates":[72.856239,19.117952],"type":"Point"}
+}

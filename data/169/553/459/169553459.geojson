@@ -1,0 +1,62 @@
+{
+  "id": 169553459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.200127,13.109693,80.200127,13.109693",
+    "geom:latitude":13.109693,
+    "geom:longitude":80.200127,
+    "iso:country":"IN",
+    "sg:address":"D/29, Ganesh Industrial Estate, Near V.i.p. Road,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 251 0137",
+    "sg:tags":[
+        "insulation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903945,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KOAotqnGa3p7i2hrhmTQL_13.109693_80.200127@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6de8fa30f2b1b5dea60dc6b2bb508e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903945,
+            "region_id":85672245,
+            "venue_id":169553459
+        }
+    ],
+    "wof:id":169553459,
+    "wof:lastmodified":1449032706,
+    "wof:name":"Gayatri Industries",
+    "wof:parent_id":85903945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation"
+    ]
+},
+  "bbox": [80.200127,13.109693,80.200127,13.109693],
+  "geometry": {"coordinates":[80.200127,13.109693],"type":"Point"}
+}

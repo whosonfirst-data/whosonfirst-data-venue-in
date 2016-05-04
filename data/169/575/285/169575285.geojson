@@ -1,0 +1,63 @@
+{
+  "id": 169575285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.845024,18.511486,73.845024,18.511486",
+    "geom:latitude":18.511486,
+    "geom:longitude":73.845024,
+    "iso:country":"IN",
+    "sg:address":"2038, Sadashiv Peth, Tilak Road,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2447 5340",
+    "sg:postcode":"411030",
+    "sg:tags":[
+        "fine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931201,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MJFqrRbAI60Sp46Ctc96c_18.511486_73.845024@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"841e8cd5df3a6610db7dc10625b6fec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931201,
+            "region_id":85672171,
+            "venue_id":169575285
+        }
+    ],
+    "wof:id":169575285,
+    "wof:lastmodified":1449033641,
+    "wof:name":"Auro Pharmaceuticals & Fine Chemicals Pvt. Ltd.",
+    "wof:parent_id":85931201,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fine"
+    ]
+},
+  "bbox": [73.845024,18.511486,73.845024,18.511486],
+  "geometry": {"coordinates":[73.845024,18.511486],"type":"Point"}
+}

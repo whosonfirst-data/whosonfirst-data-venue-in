@@ -1,0 +1,62 @@
+{
+  "id": 169527597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.83886,19.085688,72.83886,19.085688",
+    "geom:latitude":19.085688,
+    "geom:longitude":72.83886,
+    "iso:country":"IN",
+    "sg:address":"Dhiraj Apartments, Poddar Rd, Malad ( East)",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2883 9061",
+    "sg:postcode":"400097",
+    "sg:tags":[
+        "bedspread"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931575,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aCobUwKY65K66m46G5aED_19.085688_72.838860@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c2777da1979eb5fe99c4b828f0ca5d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931575,
+            "region_id":85672171,
+            "venue_id":169527597
+        }
+    ],
+    "wof:id":169527597,
+    "wof:lastmodified":1449035279,
+    "wof:name":"Poddar International",
+    "wof:parent_id":85931575,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bedspread"
+    ]
+},
+  "bbox": [72.83886,19.085688,72.83886,19.085688],
+  "geometry": {"coordinates":[72.83886,19.085688],"type":"Point"}
+}

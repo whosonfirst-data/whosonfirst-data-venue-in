@@ -1,0 +1,62 @@
+{
+  "id": 169532035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833809,18.936348,72.833809,18.936348",
+    "geom:latitude":18.936348,
+    "geom:longitude":72.833809,
+    "iso:country":"IN",
+    "sg:address":"167, 2nd Floor, D.n. Road, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2262 5460",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18p8rt2Katggj3xg6aRGUU_18.936348_72.833809@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"41b8eebc04f6c64cd438458e57689dd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169532035
+        }
+    ],
+    "wof:id":169532035,
+    "wof:lastmodified":1449033796,
+    "wof:name":"Medensco",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dental"
+    ]
+},
+  "bbox": [72.833809,18.936348,72.833809,18.936348],
+  "geometry": {"coordinates":[72.833809,18.936348],"type":"Point"}
+}

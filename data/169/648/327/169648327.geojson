@@ -1,0 +1,63 @@
+{
+  "id": 169648327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.121674,28.64926,77.121674,28.64926",
+    "geom:latitude":28.64926,
+    "geom:longitude":77.121674,
+    "iso:country":"IN",
+    "sg:address":"M.r.s.s. Limited Building, 5, B.j. Road,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2611 4017",
+    "sg:postcode":"411001",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927915,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LEOsZvByYxButTeNhYc31_28.649260_77.121674@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f5599d1c277e3b5abfd4cd5bab2768b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85927915,
+            "region_id":85672123,
+            "venue_id":169648327
+        }
+    ],
+    "wof:id":169648327,
+    "wof:lastmodified":1449033583,
+    "wof:name":"Zuari Industries Limited",
+    "wof:parent_id":85927915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.121674,28.64926,77.121674,28.64926],
+  "geometry": {"coordinates":[77.121674,28.64926],"type":"Point"}
+}

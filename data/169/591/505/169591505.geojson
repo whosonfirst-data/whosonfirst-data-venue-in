@@ -1,0 +1,63 @@
+{
+  "id": 169591505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.349396,22.569002,88.349396,22.569002",
+    "geom:latitude":22.569002,
+    "geom:longitude":88.349396,
+    "iso:country":"IN",
+    "sg:address":"15-b, Hemanta Basu Sarani,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2248 8581",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "acid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931969,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jlqa96QGsA9RNcsd0cNq3_22.569002_88.349396@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ee1bb52e4507ba2e7fb0a7d80818a5b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931969,
+            "region_id":85672219,
+            "venue_id":169591505
+        }
+    ],
+    "wof:id":169591505,
+    "wof:lastmodified":1449034452,
+    "wof:name":"Murlidhar Ratanlal Exports Ltd.",
+    "wof:parent_id":85931969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [88.349396,22.569002,88.349396,22.569002],
+  "geometry": {"coordinates":[88.349396,22.569002],"type":"Point"}
+}

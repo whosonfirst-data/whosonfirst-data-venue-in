@@ -1,0 +1,63 @@
+{
+  "id": 169536887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.643227,13.020908,77.643227,13.020908",
+    "geom:latitude":13.020908,
+    "geom:longitude":77.643227,
+    "iso:country":"IN",
+    "sg:address":"712, 4th B Cross, 7th Main, I Block, Kalyan Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2545 9858",
+    "sg:postcode":"560043",
+    "sg:tags":[
+        "polish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931031,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iRQnKLbO2hF7zzW31NNub_13.020908_77.643227@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"95f65ceca9127146c22553c4f7fd398d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931031,
+            "region_id":85672165,
+            "venue_id":169536887
+        }
+    ],
+    "wof:id":169536887,
+    "wof:lastmodified":1449034660,
+    "wof:name":"Ashwini Abrasives",
+    "wof:parent_id":85931031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polish"
+    ]
+},
+  "bbox": [77.643227,13.020908,77.643227,13.020908],
+  "geometry": {"coordinates":[77.643227,13.020908],"type":"Point"}
+}

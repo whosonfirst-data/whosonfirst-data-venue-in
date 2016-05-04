@@ -1,0 +1,71 @@
+{
+  "id": 169534397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.883682,19.100567,72.883682,19.100567",
+    "geom:latitude":19.100567,
+    "geom:longitude":72.883682,
+    "iso:country":"IN",
+    "sg:address":"Roop Industries,kurla Andheri Road, Near Sakinaka,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2851 1341",
+    "sg:postcode":"400072",
+    "sg:tags":[
+        "lighting",
+        "product",
+        "electrical",
+        "component",
+        "/"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UWvAtUbuG0E83acnMEiDw_19.100567_72.883682@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5da65f14a6ebbdc76d05fb6184dcf8b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169534397
+        }
+    ],
+    "wof:id":169534397,
+    "wof:lastmodified":1449033547,
+    "wof:name":"Armlite (india) Products",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "product",
+        "electrical",
+        "component",
+        "/"
+    ]
+},
+  "bbox": [72.883682,19.100567,72.883682,19.100567],
+  "geometry": {"coordinates":[72.883682,19.100567],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169558465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.174988,28.668705,77.174988,28.668705",
+    "geom:latitude":28.668705,
+    "geom:longitude":77.174988,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 29/20, Street No-6, Anand Parbat Industrial Area, New Rohtak Road,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2574 1173",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.bombayrubber.tradeindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928115,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wwxUIxxLtwTbapKYAGoRY_28.668705_77.174988@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"23b25507b485cdc9e7d2736c49e82820",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928115,
+            "region_id":85672123,
+            "venue_id":169558465
+        }
+    ],
+    "wof:id":169558465,
+    "wof:lastmodified":1449033581,
+    "wof:name":"Bombay Rubber Industries",
+    "wof:parent_id":85928115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.174988,28.668705,77.174988,28.668705],
+  "geometry": {"coordinates":[77.174988,28.668705],"type":"Point"}
+}

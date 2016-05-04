@@ -1,0 +1,64 @@
+{
+  "id": 169577237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.800735,18.507673,73.800735,18.507673",
+    "geom:latitude":18.507673,
+    "geom:longitude":73.800735,
+    "iso:country":"IN",
+    "sg:address":"Adwait Society, Kothrud,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2541 2383",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931203,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eqeSfIYKA5NYdWDBlOAVc_18.507673_73.800735@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"386f1a99abb15688bc7ef5b15f95cbfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931203,
+            "region_id":85672171,
+            "venue_id":169577237
+        }
+    ],
+    "wof:id":169577237,
+    "wof:lastmodified":1449036065,
+    "wof:name":"Geeta Enterprises",
+    "wof:parent_id":85931203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [73.800735,18.507673,73.800735,18.507673],
+  "geometry": {"coordinates":[73.800735,18.507673],"type":"Point"}
+}

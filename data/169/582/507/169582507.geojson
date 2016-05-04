@@ -1,0 +1,67 @@
+{
+  "id": 169582507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.099609,28.666533,77.099609,28.666533",
+    "geom:latitude":28.666533,
+    "geom:longitude":77.099609,
+    "iso:country":"IN",
+    "sg:address":"A-4/23, Paschim Vihar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2526 0678",
+    "sg:postcode":"110063",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928207,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05ejzjWtqHUWWzus4fi0iQ_28.666533_77.099609@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2fb8e68550216d7e9d5c51c2c160bf09",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928207,
+            "region_id":85672123,
+            "venue_id":169582507
+        }
+    ],
+    "wof:id":169582507,
+    "wof:lastmodified":1449034464,
+    "wof:name":"Kembiotic Laboratories (india) Pvt. Ltd.",
+    "wof:parent_id":85928207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [77.099609,28.666533,77.099609,28.666533],
+  "geometry": {"coordinates":[77.099609,28.666533],"type":"Point"}
+}

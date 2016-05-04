@@ -1,0 +1,65 @@
+{
+  "id": 169531987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.877525,19.057535,72.877525,19.057535",
+    "geom:latitude":19.057535,
+    "geom:longitude":72.877525,
+    "iso:country":"IN",
+    "sg:address":"Unit No. 208 Bldg. No. 9, Jogani Indl. Estate, Chunabhatti,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5582 9801",
+    "sg:postcode":"400022",
+    "sg:tags":[
+        "denim",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903847,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JAUKEvZbPdjgGVEUoQNZm_19.057535_72.877525@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d66fa86e39a189b0c52ac8ce2d064c2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903847,
+            "region_id":85672171,
+            "venue_id":169531987
+        }
+    ],
+    "wof:id":169531987,
+    "wof:lastmodified":1449033475,
+    "wof:name":"G. Enterprises",
+    "wof:parent_id":85903847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "denim",
+        "wear"
+    ]
+},
+  "bbox": [72.877525,19.057535,72.877525,19.057535],
+  "geometry": {"coordinates":[72.877525,19.057535],"type":"Point"}
+}

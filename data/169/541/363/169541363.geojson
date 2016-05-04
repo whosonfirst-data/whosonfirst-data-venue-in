@@ -1,0 +1,62 @@
+{
+  "id": 169541363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.261475,12.927182,78.261475,12.927182",
+    "geom:latitude":12.927182,
+    "geom:longitude":78.261475,
+    "iso:country":"IN",
+    "sg:address":"87 Kr Road",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2650 0255",
+    "sg:postcode":"560004",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"http://www.coreobjects.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QsrIteYMdYKeHBYOEcpjH_12.927182_78.261475@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c2b9e4da766dce8febca5b34ac4d8954",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169541363
+        }
+    ],
+    "wof:id":169541363,
+    "wof:lastmodified":1449033044,
+    "wof:name":"Coreobjects India Pvt Ltd",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [78.261475,12.927182,78.261475,12.927182],
+  "geometry": {"coordinates":[78.261475,12.927182],"type":"Point"}
+}

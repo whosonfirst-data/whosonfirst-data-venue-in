@@ -1,0 +1,66 @@
+{
+  "id": 169609135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.327522,28.654827,77.327522,28.654827",
+    "geom:latitude":28.654827,
+    "geom:longitude":77.327522,
+    "iso:country":"IN",
+    "sg:address":"A-11/1, Site-4, Link Road, Industrial Area,",
+    "sg:city":"Sahibabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 289 6651",
+    "sg:postcode":"201010",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "sg:website":"http://www.rapidcoat.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928573,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_623hctxkXtJFztHygcGSV3_28.654827_77.327522@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"97869acd5158a74306a73a0929ea2456",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928573,
+            "region_id":85672123,
+            "venue_id":169609135
+        }
+    ],
+    "wof:id":169609135,
+    "wof:lastmodified":1449033919,
+    "wof:name":"Rapid Coat Division",
+    "wof:parent_id":85928573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [77.327522,28.654827,77.327522,28.654827],
+  "geometry": {"coordinates":[77.327522,28.654827],"type":"Point"}
+}

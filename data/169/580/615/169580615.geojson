@@ -1,0 +1,63 @@
+{
+  "id": 169580615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.787102,13.334578,74.787102,13.334578",
+    "geom:latitude":13.334578,
+    "geom:longitude":74.787102,
+    "iso:country":"IN",
+    "sg:address":"R-50, Industrial Area-b,",
+    "sg:city":"Ludhiana",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 161 253 2925",
+    "sg:postcode":"141003",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.jainrubber.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029431,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SIl7QQkSyvp4yOT4H7MWl_13.334578_74.787102@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7d2c276e2755a4162b569d4aaf9089ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029431,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169580615
+        }
+    ],
+    "wof:id":169580615,
+    "wof:lastmodified":1449034914,
+    "wof:name":"Jaintex Rubber Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [74.787102,13.334578,74.787102,13.334578],
+  "geometry": {"coordinates":[74.787102,13.334578],"type":"Point"}
+}

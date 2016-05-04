@@ -1,0 +1,53 @@
+{
+  "id": 169560763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"79.833725,11.92842,79.833725,11.92842",
+    "geom:latitude":11.92842,
+    "geom:longitude":79.833725,
+    "iso:country":"IN",
+    "sg:address":"Romain Rolland Street",
+    "sg:city":"Pondicherry",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 413331568",
+    "sg:postcode":"605001",
+    "sg:province":"Pondicherry",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934401,
+        85632469,
+        102028985,
+        85672241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DlNvUc3HzvRtSzZMyMuS3_11.928420_79.833725@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"55aec2e1cdbc5a3f976906ce7074b630",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028985,
+            "neighbourhood_id":85934401,
+            "region_id":85672241,
+            "venue_id":169560763
+        }
+    ],
+    "wof:id":169560763,
+    "wof:lastmodified":1449035182,
+    "wof:name":"Indologic Pvt Ltd",
+    "wof:parent_id":85934401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [79.833725,11.92842,79.833725,11.92842],
+  "geometry": {"coordinates":[79.833725,11.92842],"type":"Point"}
+}

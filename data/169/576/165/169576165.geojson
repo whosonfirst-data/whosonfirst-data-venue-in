@@ -1,0 +1,63 @@
+{
+  "id": 169576165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.330765,22.485071,88.330765,22.485071",
+    "geom:latitude":22.485071,
+    "geom:longitude":88.330765,
+    "iso:country":"IN",
+    "sg:address":"24-b, B.l. Saha Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2400 0552",
+    "sg:postcode":"400053",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85932023,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UPFHo7RKd5FSG0vPJZ0Vd_22.485071_88.330765@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7cbabdb56442f26fa3f575efd4cc98b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85932023,
+            "region_id":85672219,
+            "venue_id":169576165
+        }
+    ],
+    "wof:id":169576165,
+    "wof:lastmodified":1449035200,
+    "wof:name":"Bharat Kernels Pvt. Ltd.",
+    "wof:parent_id":85932023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.330765,22.485071,88.330765,22.485071],
+  "geometry": {"coordinates":[88.330765,22.485071],"type":"Point"}
+}

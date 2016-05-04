@@ -1,0 +1,65 @@
+{
+  "id": 169535159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.835007,18.933912,72.835007,18.933912",
+    "geom:latitude":18.933912,
+    "geom:longitude":72.835007,
+    "iso:country":"IN",
+    "sg:address":"Kamanwala Chamber, 2nd Floor, Sir P.m. Road, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2266 1364",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "embroiders",
+        "embroidery"
+    ],
+    "sg:website":"http://www.armayesh.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LCP50svh6DOMzq9iYWv1i_18.933912_72.835007@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"09a698807cf86d407706600e6d361a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169535159
+        }
+    ],
+    "wof:id":169535159,
+    "wof:lastmodified":1449033283,
+    "wof:name":"Armayesh Global",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "embroiders",
+        "embroidery"
+    ]
+},
+  "bbox": [72.835007,18.933912,72.835007,18.933912],
+  "geometry": {"coordinates":[72.835007,18.933912],"type":"Point"}
+}

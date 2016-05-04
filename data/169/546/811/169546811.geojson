@@ -1,0 +1,63 @@
+{
+  "id": 169546811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.759102,10.735522,78.759102,10.735522",
+    "geom:latitude":10.735522,
+    "geom:longitude":78.759102,
+    "iso:country":"IN",
+    "sg:address":"10, Anna Nagar, K.p.n. Colony,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 220 3453",
+    "sg:postcode":"641601",
+    "sg:tags":[
+        "knitted",
+        "knitwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aUbikGLXSX129Fw3zfKl0_10.735522_78.759102@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"894b646a79ead9c774ae7405a327a25a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169546811
+        }
+    ],
+    "wof:id":169546811,
+    "wof:lastmodified":1449032678,
+    "wof:name":"Ahill Apparel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitted",
+        "knitwear"
+    ]
+},
+  "bbox": [78.759102,10.735522,78.759102,10.735522],
+  "geometry": {"coordinates":[78.759102,10.735522],"type":"Point"}
+}

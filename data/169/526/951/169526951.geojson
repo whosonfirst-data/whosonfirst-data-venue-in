@@ -1,0 +1,66 @@
+{
+  "id": 169526951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.859169,19.04858,72.859169,19.04858",
+    "geom:latitude":19.04858,
+    "geom:longitude":72.859169,
+    "iso:country":"IN",
+    "sg:address":"66/67, Gold Feild Plaza, Dharavi,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2401 2390",
+    "sg:postcode":"400017",
+    "sg:tags":[
+        "bag",
+        "-"
+    ],
+    "sg:website":"http://www.kashwallets.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931567,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4onbl3RHQjeVNMmZUcmAbh_19.048580_72.859169@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"103b23a42028455aeff21c060388c44c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931567,
+            "region_id":85672171,
+            "venue_id":169526951
+        }
+    ],
+    "wof:id":169526951,
+    "wof:lastmodified":1449033698,
+    "wof:name":"Manik Leather Creations",
+    "wof:parent_id":85931567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag",
+        "-"
+    ]
+},
+  "bbox": [72.859169,19.04858,72.859169,19.04858],
+  "geometry": {"coordinates":[72.859169,19.04858],"type":"Point"}
+}

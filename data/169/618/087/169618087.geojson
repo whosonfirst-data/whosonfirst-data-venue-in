@@ -1,0 +1,63 @@
+{
+  "id": 169618087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.256386,13.028029,80.256386,13.028029",
+    "geom:latitude":13.028029,
+    "geom:longitude":80.256386,
+    "iso:country":"IN",
+    "sg:address":"#3, 3rd Cross Road, Ra Puram,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2432 6062",
+    "sg:postcode":"600028",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931737,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3k8SiBdbSCoaiwOKXQLjrV_13.028029_80.256386@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e70fb4fc88228890ada01d43f729ebae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931737,
+            "region_id":85672245,
+            "venue_id":169618087
+        }
+    ],
+    "wof:id":169618087,
+    "wof:lastmodified":1449034737,
+    "wof:name":"Shaashwat Consultants",
+    "wof:parent_id":85931737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.256386,13.028029,80.256386,13.028029],
+  "geometry": {"coordinates":[80.256386,13.028029],"type":"Point"}
+}

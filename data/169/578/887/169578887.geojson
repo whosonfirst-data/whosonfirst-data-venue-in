@@ -1,0 +1,63 @@
+{
+  "id": 169578887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.06472,28.619104,77.06472,28.619104",
+    "geom:latitude":28.619104,
+    "geom:longitude":77.06472,
+    "iso:country":"IN",
+    "sg:address":"A - 107/1 Hastsal Village, Uttam Nagar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2563 2505",
+    "sg:postcode":"110059",
+    "sg:tags":[
+        "chemicals-additives"
+    ],
+    "sg:website":"http://www.himalayanpolycolours.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cBf6CqBKdJtMK2CZGJtX3_28.619104_77.064720@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a76b09dfb4d8a49709435c90edc213ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169578887
+        }
+    ],
+    "wof:id":169578887,
+    "wof:lastmodified":1449033521,
+    "wof:name":"Himalayan Poly Colours",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemicals-additives"
+    ]
+},
+  "bbox": [77.06472,28.619104,77.06472,28.619104],
+  "geometry": {"coordinates":[77.06472,28.619104],"type":"Point"}
+}

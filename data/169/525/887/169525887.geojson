@@ -1,0 +1,64 @@
+{
+  "id": 169525887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.939415,19.120413,72.939415,19.120413",
+    "geom:latitude":19.120413,
+    "geom:longitude":72.939415,
+    "iso:country":"IN",
+    "sg:address":"65/1733, Kannamwar Nagar, No.2, Vikhroli (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2500 5413",
+    "sg:postcode":"400083",
+    "sg:tags":[
+        "equipment",
+        "air-conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SRgver5eYBj6MGbqw0vSy_19.120413_72.939415@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fdcc046839e30b5e1d3e4c6a67d8b5ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169525887
+        }
+    ],
+    "wof:id":169525887,
+    "wof:lastmodified":1449035274,
+    "wof:name":"Economic Sales",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "air-conditioning"
+    ]
+},
+  "bbox": [72.939415,19.120413,72.939415,19.120413],
+  "geometry": {"coordinates":[72.939415,19.120413],"type":"Point"}
+}

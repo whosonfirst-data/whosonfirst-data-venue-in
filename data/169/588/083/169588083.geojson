@@ -1,0 +1,63 @@
+{
+  "id": 169588083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.243027,28.583153,77.243027,28.583153",
+    "geom:latitude":28.583153,
+    "geom:longitude":77.243027,
+    "iso:country":"IN",
+    "sg:address":"N-19/a, Jangpura Extn.,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2431 1548",
+    "sg:postcode":"110014",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928001,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i0NmyJCCggGae3RQBmJhg_28.583153_77.243027@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8fb6e6d38444e24057d3df697e25e31b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928001,
+            "region_id":85672123,
+            "venue_id":169588083
+        }
+    ],
+    "wof:id":169588083,
+    "wof:lastmodified":1449035309,
+    "wof:name":"Mayank Industries",
+    "wof:parent_id":85928001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [77.243027,28.583153,77.243027,28.583153],
+  "geometry": {"coordinates":[77.243027,28.583153],"type":"Point"}
+}

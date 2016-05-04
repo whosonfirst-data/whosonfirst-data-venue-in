@@ -1,0 +1,63 @@
+{
+  "id": 169579577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.805656,18.964346,72.805656,18.964346",
+    "geom:latitude":18.964346,
+    "geom:longitude":72.805656,
+    "iso:country":"IN",
+    "sg:address":"410, Gaurav Tower-i, Malviya Nagar,",
+    "sg:city":"Jaipur",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 141 255 3200",
+    "sg:postcode":"302017",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903835,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WoiBfoKEjK8ScJ0pdHpiQ_18.964346_72.805656@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"25e6d6eafdc0cddd8ea3ee1d24f90034",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903835,
+            "region_id":85672171,
+            "venue_id":169579577
+        }
+    ],
+    "wof:id":169579577,
+    "wof:lastmodified":1449033741,
+    "wof:name":"Indian Potash Limited",
+    "wof:parent_id":85903835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [72.805656,18.964346,72.805656,18.964346],
+  "geometry": {"coordinates":[72.805656,18.964346],"type":"Point"}
+}

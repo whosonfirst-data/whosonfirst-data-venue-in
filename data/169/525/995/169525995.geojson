@@ -1,0 +1,65 @@
+{
+  "id": 169525995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.820793,19.008354,72.820793,19.008354",
+    "geom:latitude":19.008354,
+    "geom:longitude":72.820793,
+    "iso:country":"IN",
+    "sg:address":"215, T.v.industrial Estate, S.k.ahire Marg, Worli,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2493 9288",
+    "sg:postcode":"400025",
+    "sg:tags":[
+        "aluminium",
+        "foil"
+    ],
+    "sg:website":"http://www.nalcoindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903999,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w5h8dqYa0FQcgoWgesPpB_19.008354_72.820793@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fc930338ad662397d49884a5ae3a4d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903999,
+            "region_id":85672171,
+            "venue_id":169525995
+        }
+    ],
+    "wof:id":169525995,
+    "wof:lastmodified":1449035274,
+    "wof:name":"National Aluminium Company Limited",
+    "wof:parent_id":85903999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aluminium",
+        "foil"
+    ]
+},
+  "bbox": [72.820793,19.008354,72.820793,19.008354],
+  "geometry": {"coordinates":[72.820793,19.008354],"type":"Point"}
+}

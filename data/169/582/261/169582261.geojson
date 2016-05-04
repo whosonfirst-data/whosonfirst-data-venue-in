@@ -1,0 +1,63 @@
+{
+  "id": 169582261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.218956,28.564728,77.218956,28.564728",
+    "geom:latitude":28.564728,
+    "geom:longitude":77.218956,
+    "iso:country":"IN",
+    "sg:address":"A-25, South Extension, Part-ii,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4163 7426",
+    "sg:postcode":"110049",
+    "sg:tags":[
+        "wax"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928655,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61z7k7sjhVknpJRBMnXkEw_28.564728_77.218956@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"10ffeab4b79ea467aba00848de92a59b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928655,
+            "region_id":85672123,
+            "venue_id":169582261
+        }
+    ],
+    "wof:id":169582261,
+    "wof:lastmodified":1449034462,
+    "wof:name":"Kavya International",
+    "wof:parent_id":85928655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [77.218956,28.564728,77.218956,28.564728],
+  "geometry": {"coordinates":[77.218956,28.564728],"type":"Point"}
+}

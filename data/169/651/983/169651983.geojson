@@ -1,0 +1,71 @@
+{
+  "id": 169651983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.073715,28.638243,77.073715,28.638243",
+    "geom:latitude":28.638243,
+    "geom:longitude":77.073715,
+    "iso:country":"IN",
+    "sg:address":"E132, Shastri Nagar",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"201010",
+    "sg:tags":[
+        "marketing",
+        "sales",
+        "lead-generation",
+        "prospecting",
+        "telemarketing"
+    ],
+    "sg:website":"http://www.salesinsightservices.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928081,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TGEJ7uZdtJIZasaWBdAWm_28.638243_77.073715@1308163242"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9e38584b63579bec05a4235b2ace79f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928081,
+            "region_id":85672123,
+            "venue_id":169651983
+        }
+    ],
+    "wof:id":169651983,
+    "wof:lastmodified":1449033346,
+    "wof:name":"SalesInsight",
+    "wof:parent_id":85928081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing",
+        "sales",
+        "lead-generation",
+        "prospecting",
+        "telemarketing"
+    ]
+},
+  "bbox": [77.073715,28.638243,77.073715,28.638243],
+  "geometry": {"coordinates":[77.073715,28.638243],"type":"Point"}
+}

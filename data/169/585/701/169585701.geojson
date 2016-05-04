@@ -1,0 +1,62 @@
+{
+  "id": 169585701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.504387,15.856154,74.504387,15.856154",
+    "geom:latitude":15.856154,
+    "geom:longitude":74.504387,
+    "iso:country":"IN",
+    "sg:address":"64, Chruch Street, Camp,",
+    "sg:city":"Belgaum",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 831 553 1685",
+    "sg:postcode":"590001",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030739,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yXsvTYyPND72eUAvKPzJG_15.856154_74.504387@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ece12fea7de1a1064b1c6ea085e23f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030739,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169585701
+        }
+    ],
+    "wof:id":169585701,
+    "wof:lastmodified":1449034888,
+    "wof:name":"Maashu Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [74.504387,15.856154,74.504387,15.856154],
+  "geometry": {"coordinates":[74.504387,15.856154],"type":"Point"}
+}

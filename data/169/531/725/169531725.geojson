@@ -1,0 +1,63 @@
+{
+  "id": 169531725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.128304,12.970979,80.128304,12.970979",
+    "geom:latitude":12.970979,
+    "geom:longitude":80.128304,
+    "iso:country":"IN",
+    "sg:address":"7-b, First Floor, 204, S. Gandhi Marg,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2208 9279",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "curtain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904039,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a1ktFpa0mpnl1aHEcFYvF_12.970979_80.128304@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5ca19aff550d521301b3f1ea6b32119c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85904039,
+            "region_id":85672245,
+            "venue_id":169531725
+        }
+    ],
+    "wof:id":169531725,
+    "wof:lastmodified":1449033473,
+    "wof:name":"Impact Exports",
+    "wof:parent_id":85904039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "curtain"
+    ]
+},
+  "bbox": [80.128304,12.970979,80.128304,12.970979],
+  "geometry": {"coordinates":[80.128304,12.970979],"type":"Point"}
+}

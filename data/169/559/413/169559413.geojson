@@ -1,0 +1,65 @@
+{
+  "id": 169559413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.924553,19.119467,72.924553,19.119467",
+    "geom:latitude":19.119467,
+    "geom:longitude":72.924553,
+    "iso:country":"IN",
+    "sg:address":"2, Vardhman Complex, L.b.s. Marg, Vikhroli (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2578 5880",
+    "sg:postcode":"400083",
+    "sg:tags":[
+        "chemical",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931627,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ADbtrV0mO6tGlXYscswWW_19.119467_72.924553@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"caad53f82ad1d786bfc97e90774f7b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931627,
+            "region_id":85672171,
+            "venue_id":169559413
+        }
+    ],
+    "wof:id":169559413,
+    "wof:lastmodified":1449035237,
+    "wof:name":"Clark Rubbers Ltd.",
+    "wof:parent_id":85931627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "-"
+    ]
+},
+  "bbox": [72.924553,19.119467,72.924553,19.119467],
+  "geometry": {"coordinates":[72.924553,19.119467],"type":"Point"}
+}

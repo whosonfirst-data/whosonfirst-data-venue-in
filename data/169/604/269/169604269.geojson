@@ -1,0 +1,64 @@
+{
+  "id": 169604269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.286125,28.683308,77.286125,28.683308",
+    "geom:latitude":28.683308,
+    "geom:longitude":77.286125,
+    "iso:country":"IN",
+    "sg:address":"1/7200, Shivaji Park, Shahdara,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2232 6203",
+    "sg:postcode":"110032",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45keiQwiv2FglDBvAVG2NN_28.683308_77.286125@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9773ad6e580fb42c2f02cdd750985100",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169604269
+        }
+    ],
+    "wof:id":169604269,
+    "wof:lastmodified":1449035570,
+    "wof:name":"Prime Products",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [77.286125,28.683308,77.286125,28.683308],
+  "geometry": {"coordinates":[77.286125,28.683308],"type":"Point"}
+}

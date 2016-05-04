@@ -1,0 +1,54 @@
+{
+  "id": 169569101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.116875,28.668196,77.116875,28.668196",
+    "geom:latitude":28.668196,
+    "geom:longitude":77.116875,
+    "iso:country":"IN",
+    "sg:address":"Punjabi Bagh",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 112541532",
+    "sg:postcode":"110035",
+    "sg:province":"Delhi",
+    "sg:website":"http://www.jaganlamp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928207,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_619zeYeZNAdkRnJYnODkWK_28.668196_77.116875@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7d55801e9ea08ebe095b8181855a2486",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928207,
+            "region_id":85672123,
+            "venue_id":169569101
+        }
+    ],
+    "wof:id":169569101,
+    "wof:lastmodified":1449035831,
+    "wof:name":"Jagan Lamps Ltd",
+    "wof:parent_id":85928207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.116875,28.668196,77.116875,28.668196],
+  "geometry": {"coordinates":[77.116875,28.668196],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169531667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.844734,19.205853,72.844734,19.205853",
+    "geom:latitude":19.205853,
+    "geom:longitude":72.844734,
+    "iso:country":"IN",
+    "sg:address":"14, Turakhia Park, Kandivali-west,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2864 6093",
+    "sg:postcode":"400067",
+    "sg:tags":[
+        "crockery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931623,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M7LFtsaxYXzxtoznbS9jL_19.205853_72.844734@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b441c0ebe549d269c56d034243d0a53a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931623,
+            "region_id":85672171,
+            "venue_id":169531667
+        }
+    ],
+    "wof:id":169531667,
+    "wof:lastmodified":1449033475,
+    "wof:name":"Om Shreenath Inc.",
+    "wof:parent_id":85931623,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crockery"
+    ]
+},
+  "bbox": [72.844734,19.205853,72.844734,19.205853],
+  "geometry": {"coordinates":[72.844734,19.205853],"type":"Point"}
+}

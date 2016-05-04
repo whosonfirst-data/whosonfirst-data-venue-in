@@ -1,0 +1,63 @@
+{
+  "id": 169593811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.222191,28.657869,77.222191,28.657869",
+    "geom:latitude":28.657869,
+    "geom:longitude":77.222191,
+    "iso:country":"IN",
+    "sg:address":"397, Khari Baoli,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2396 2164",
+    "sg:postcode":"110006",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928087,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wXN86pxfZvdrA8WQQfj1U_28.657869_77.222191@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fcbbff07e93f31252fc42f19780e8cac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928087,
+            "region_id":85672123,
+            "venue_id":169593811
+        }
+    ],
+    "wof:id":169593811,
+    "wof:lastmodified":1449034877,
+    "wof:name":"New India Colour Company Limited",
+    "wof:parent_id":85928087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.222191,28.657869,77.222191,28.657869],
+  "geometry": {"coordinates":[77.222191,28.657869],"type":"Point"}
+}

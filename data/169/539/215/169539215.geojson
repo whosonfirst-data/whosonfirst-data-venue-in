@@ -1,0 +1,64 @@
+{
+  "id": 169539215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.177032,30.818724,75.177032,30.818724",
+    "geom:latitude":30.818724,
+    "geom:longitude":75.177032,
+    "iso:country":"IN",
+    "sg:address":"3, Megestic Circle,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2527 8199",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "sandalwood",
+        "artifact"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029365,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NLvxukixSltvpB6eyLFSz_30.818724_75.177032@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f1547819e9b38517c75ef8917da54fb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029365,
+            "neighbourhood_id":-1,
+            "region_id":85672195,
+            "venue_id":169539215
+        }
+    ],
+    "wof:id":169539215,
+    "wof:lastmodified":1449036039,
+    "wof:name":"Fragrance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandalwood",
+        "artifact"
+    ]
+},
+  "bbox": [75.177032,30.818724,75.177032,30.818724],
+  "geometry": {"coordinates":[75.177032,30.818724],"type":"Point"}
+}

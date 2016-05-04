@@ -1,0 +1,68 @@
+{
+  "id": 169544657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.547493,12.987282,77.547493,12.987282",
+    "geom:latitude":12.987282,
+    "geom:longitude":77.547493,
+    "iso:country":"IN",
+    "sg:address":"138, 1st Floor, 4th Main Ind. Town, Rajajinagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2330 4333",
+    "sg:postcode":"560044",
+    "sg:tags":[
+        "chemical",
+        "plant",
+        "treatment"
+    ],
+    "sg:website":"http://www.webseva.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04yT0nDBvr0l5rQJwXw3oW_12.987282_77.547493@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b37493209bda814d97158469d96ae7b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169544657
+        }
+    ],
+    "wof:id":169544657,
+    "wof:lastmodified":1449035963,
+    "wof:name":"Samyuktha Technologies Pvt. Ltd.",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "plant",
+        "treatment"
+    ]
+},
+  "bbox": [77.547493,12.987282,77.547493,12.987282],
+  "geometry": {"coordinates":[77.547493,12.987282],"type":"Point"}
+}

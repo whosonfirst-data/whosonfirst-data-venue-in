@@ -1,0 +1,65 @@
+{
+  "id": 169540201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.626312,12.896649,77.626312,12.896649",
+    "geom:latitude":12.896649,
+    "geom:longitude":77.626312,
+    "iso:country":"IN",
+    "sg:address":"90/7, Begur Road, Hongasandra,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2573 3127",
+    "sg:postcode":"560068",
+    "sg:tags":[
+        "sheet",
+        "component"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930881,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mKhCdeLbJbgLMbwxQak2H_12.896649_77.626312@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7f57801eb1c151f5363400d281fe0bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930881,
+            "region_id":85672165,
+            "venue_id":169540201
+        }
+    ],
+    "wof:id":169540201,
+    "wof:lastmodified":1449033978,
+    "wof:name":"Sara Presstech",
+    "wof:parent_id":85930881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheet",
+        "component"
+    ]
+},
+  "bbox": [77.626312,12.896649,77.626312,12.896649],
+  "geometry": {"coordinates":[77.626312,12.896649],"type":"Point"}
+}

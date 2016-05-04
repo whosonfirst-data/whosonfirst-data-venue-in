@@ -1,0 +1,66 @@
+{
+  "id": 169530187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.875153,19.126781,72.875153,19.126781",
+    "geom:latitude":19.126781,
+    "geom:longitude":72.875153,
+    "iso:country":"IN",
+    "sg:address":"145, Sdf-v, Seepz, Andheri (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2829 0244",
+    "sg:postcode":"400096",
+    "sg:tags":[
+        "board",
+        "circuit"
+    ],
+    "sg:website":"http://www.finelineindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IEbHJWFEjPvO4vkX7ZSu8_19.126781_72.875153@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c957f5d60df28263ef4f7252e672a6ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169530187
+        }
+    ],
+    "wof:id":169530187,
+    "wof:lastmodified":1449034442,
+    "wof:name":"Fine-line Circuits Limited",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "board",
+        "circuit"
+    ]
+},
+  "bbox": [72.875153,19.126781,72.875153,19.126781],
+  "geometry": {"coordinates":[72.875153,19.126781],"type":"Point"}
+}

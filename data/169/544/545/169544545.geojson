@@ -1,0 +1,66 @@
+{
+  "id": 169544545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.54715,13.009912,77.54715,13.009912",
+    "geom:latitude":13.009912,
+    "geom:longitude":77.54715,
+    "iso:country":"IN",
+    "sg:address":"B-178, 4th Main, 2nd Stage, Peenya Industrial Area,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2332 4736",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "watch",
+        "clock"
+    ],
+    "sg:website":"http://www.laben-instruments.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MyaC1ix8J0Ac6P7Dm4myo_13.009912_77.547150@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"18e38d7f4a38387e335baf320ca7971b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169544545
+        }
+    ],
+    "wof:id":169544545,
+    "wof:lastmodified":1449035962,
+    "wof:name":"Lab Engineering Industires",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "watch",
+        "clock"
+    ]
+},
+  "bbox": [77.54715,13.009912,77.54715,13.009912],
+  "geometry": {"coordinates":[77.54715,13.009912],"type":"Point"}
+}

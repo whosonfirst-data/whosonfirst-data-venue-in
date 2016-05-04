@@ -1,0 +1,61 @@
+{
+  "id": 169581751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.025909,13.585075,80.025909,13.585075",
+    "geom:latitude":13.585075,
+    "geom:longitude":80.025909,
+    "iso:country":"IN",
+    "sg:address":"89, Thirupalli Street,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2529 2246",
+    "sg:postcode":"600079",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kU25eH2nqEP3iDXTJazbK_13.585075_80.025909@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8cf7bdd7aeb5bf964f01f040171b8aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169581751
+        }
+    ],
+    "wof:id":169581751,
+    "wof:lastmodified":1449033379,
+    "wof:name":"Kailash Poly Coaters",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [80.025909,13.585075,80.025909,13.585075],
+  "geometry": {"coordinates":[80.025909,13.585075],"type":"Point"}
+}

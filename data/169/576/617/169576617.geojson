@@ -1,0 +1,64 @@
+{
+  "id": 169576617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.265221,13.053772,80.265221,13.053772",
+    "geom:latitude":13.053772,
+    "geom:longitude":80.265221,
+    "iso:country":"IN",
+    "sg:address":"137, Peters Road, P.b. No.661, Royapettah,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2431 2450",
+    "sg:postcode":"600014",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.fennerindia.com/mhs.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903975,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bozATnczwiVTDXtMWegvf_13.053772_80.265221@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2ebb796628adbb4d4cc66594836c3a2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903975,
+            "region_id":85672245,
+            "venue_id":169576617
+        }
+    ],
+    "wof:id":169576617,
+    "wof:lastmodified":1449035195,
+    "wof:name":"Fenner India Ltd.",
+    "wof:parent_id":85903975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [80.265221,13.053772,80.265221,13.053772],
+  "geometry": {"coordinates":[80.265221,13.053772],"type":"Point"}
+}

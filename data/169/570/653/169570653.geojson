@@ -1,0 +1,53 @@
+{
+  "id": 169570653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.13665,28.699112,77.13665,28.699112",
+    "geom:latitude":28.699112,
+    "geom:longitude":77.13665,
+    "iso:country":"IN",
+    "sg:address":"Kapil Vihar",
+    "sg:city":"Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2710 7473",
+    "sg:postcode":"110034",
+    "sg:province":"Delhi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928043,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2amsOXJRXmp8f2Eh6ziTWe_28.699112_77.136650@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"72f8884777baebe3025ebcbbe2299bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928043,
+            "region_id":85672123,
+            "venue_id":169570653
+        }
+    ],
+    "wof:id":169570653,
+    "wof:lastmodified":1449034644,
+    "wof:name":"Smt",
+    "wof:parent_id":85928043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.13665,28.699112,77.13665,28.699112],
+  "geometry": {"coordinates":[77.13665,28.699112],"type":"Point"}
+}

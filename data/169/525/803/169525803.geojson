@@ -1,0 +1,69 @@
+{
+  "id": 169525803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.847275,19.13637,72.847275,19.13637",
+    "geom:latitude":19.13637,
+    "geom:longitude":72.847275,
+    "iso:country":"IN",
+    "sg:address":"107/108, Balaji Arcade, S.v. Road, Kandivli (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2864 9308",
+    "sg:postcode":"400067",
+    "sg:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931511,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Rdbx0xbcDEns5QAp6PSTr_19.136370_72.847275@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"90ec15c586d920367b8f8e820a28e579",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931511,
+            "region_id":85672171,
+            "venue_id":169525803
+        }
+    ],
+    "wof:id":169525803,
+    "wof:lastmodified":1449035274,
+    "wof:name":"Ronaq Agri Impex Co. Pvt. Ltd.",
+    "wof:parent_id":85931511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ]
+},
+  "bbox": [72.847275,19.13637,72.847275,19.13637],
+  "geometry": {"coordinates":[72.847275,19.13637],"type":"Point"}
+}

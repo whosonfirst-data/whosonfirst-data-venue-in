@@ -1,0 +1,66 @@
+{
+  "id": 169544099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.706429,12.983394,77.706429,12.983394",
+    "geom:latitude":12.983394,
+    "geom:longitude":77.706429,
+    "iso:country":"IN",
+    "sg:address":"No. 69, 2nd Main, Garudacharpalya, Mahadevapura Post,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2851 0512",
+    "sg:postcode":"560048",
+    "sg:tags":[
+        "ups",
+        "power"
+    ],
+    "sg:website":"http://www.quantumaeon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931165,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VJx83LHn5eISQwpj1W0db_12.983394_77.706429@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"98b3b56cf9d975cfd6878d40e77b76d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931165,
+            "region_id":85672165,
+            "venue_id":169544099
+        }
+    ],
+    "wof:id":169544099,
+    "wof:lastmodified":1449035964,
+    "wof:name":"Quantum Power Systems",
+    "wof:parent_id":85931165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ups",
+        "power"
+    ]
+},
+  "bbox": [77.706429,12.983394,77.706429,12.983394],
+  "geometry": {"coordinates":[77.706429,12.983394],"type":"Point"}
+}

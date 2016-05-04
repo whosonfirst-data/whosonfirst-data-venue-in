@@ -1,0 +1,61 @@
+{
+  "id": 169529617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833191,19.106518,72.833191,19.106518",
+    "geom:latitude":19.106518,
+    "geom:longitude":72.833191,
+    "iso:country":"IN",
+    "sg:address":"Makharia House, 3rd Floor, 327, S.v.p. Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2342 9990",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931479,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jeJ2lXoIMnIpbLM8udbm9_19.106518_72.833191@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d7c29eb4e4ba80e0ee23d51812305189",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931479,
+            "region_id":-1,
+            "venue_id":169529617
+        }
+    ],
+    "wof:id":169529617,
+    "wof:lastmodified":1449034113,
+    "wof:name":"Advent Dyes & Chemicals",
+    "wof:parent_id":85931479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.833191,19.106518,72.833191,19.106518],
+  "geometry": {"coordinates":[72.833191,19.106518],"type":"Point"}
+}

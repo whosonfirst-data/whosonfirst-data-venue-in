@@ -1,0 +1,64 @@
+{
+  "id": 169558873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.111839,28.694216,77.111839,28.694216",
+    "geom:latitude":28.694216,
+    "geom:longitude":77.111839,
+    "iso:country":"IN",
+    "sg:address":"B-60, Pushpanjali Enclave, Pitampura,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2703 0492",
+    "sg:postcode":"110035",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.cemcongroup.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927911,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63o2TN7W1WSfE9tLDHfh2n_28.694216_77.111839@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"84ae0c6fe4f406faeb78a7f1d0239800",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85927911,
+            "region_id":85672123,
+            "venue_id":169558873
+        }
+    ],
+    "wof:id":169558873,
+    "wof:lastmodified":1449033581,
+    "wof:name":"Cemcon Engineering Co. Pvt. Ltd.",
+    "wof:parent_id":85927911,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.111839,28.694216,77.111839,28.694216],
+  "geometry": {"coordinates":[77.111839,28.694216],"type":"Point"}
+}

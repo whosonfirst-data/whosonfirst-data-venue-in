@@ -1,0 +1,62 @@
+{
+  "id": 169574073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.361122,22.588083,88.361122,22.588083",
+    "geom:latitude":22.588083,
+    "geom:longitude":88.361122,
+    "iso:country":"IN",
+    "sg:address":"Nanda Mullick Lane",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2530 6091",
+    "sg:postcode":"700006",
+    "sg:province":"West Bengal",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931965,
+        85632469,
+        102030585,
+        85672219,
+        85903957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ElCUzlKnWUxBVlp78HFrc_22.588083_88.361122@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"eee335cac3529d03cdbe2785ae924c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931965,
+            "region_id":85672219,
+            "venue_id":169574073
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903957,
+            "region_id":85672219,
+            "venue_id":169574073
+        }
+    ],
+    "wof:id":169574073,
+    "wof:lastmodified":1449032661,
+    "wof:name":"Shree Ambica Iron Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [88.361122,22.588083,88.361122,22.588083],
+  "geometry": {"coordinates":[88.361122,22.588083],"type":"Point"}
+}

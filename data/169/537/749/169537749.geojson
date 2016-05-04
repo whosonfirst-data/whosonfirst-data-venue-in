@@ -1,0 +1,65 @@
+{
+  "id": 169537749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.566498,12.991776,77.566498,12.991776",
+    "geom:latitude":12.991776,
+    "geom:longitude":77.566498,
+    "iso:country":"IN",
+    "sg:address":"No.43, 7th Main, Srirampuram,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2332 4486",
+    "sg:postcode":"560021",
+    "sg:tags":[
+        "component",
+        "pressed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eDNEGTf8BSHa79kSXePfd_12.991776_77.566498@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7644890774b581d8dd4edf8defe837df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169537749
+        }
+    ],
+    "wof:id":169537749,
+    "wof:lastmodified":1449033499,
+    "wof:name":"Miracel Tech",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "pressed"
+    ]
+},
+  "bbox": [77.566498,12.991776,77.566498,12.991776],
+  "geometry": {"coordinates":[77.566498,12.991776],"type":"Point"}
+}

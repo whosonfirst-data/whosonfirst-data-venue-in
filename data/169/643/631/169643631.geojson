@@ -1,0 +1,64 @@
+{
+  "id": 169643631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.443756,17.437305,78.443756,17.437305",
+    "geom:latitude":17.437305,
+    "geom:longitude":78.443756,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 27/a, Model Colony, Sunder Nagar,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2381 3768",
+    "sg:postcode":"500038",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "sg:website":"http://www.vijlakpharma.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930753,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34rwfH44wcgIUE3N0D9rFy_17.437305_78.443756@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a91c8b89d6684d610240cd41be6ee388",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930753,
+            "region_id":85672141,
+            "venue_id":169643631
+        }
+    ],
+    "wof:id":169643631,
+    "wof:lastmodified":1449035522,
+    "wof:name":"Vijlak Pharma Ltd.",
+    "wof:parent_id":85930753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [78.443756,17.437305,78.443756,17.437305],
+  "geometry": {"coordinates":[78.443756,17.437305],"type":"Point"}
+}

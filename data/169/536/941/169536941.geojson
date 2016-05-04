@@ -1,0 +1,63 @@
+{
+  "id": 169536941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.556358,12.991282,77.556358,12.991282",
+    "geom:latitude":12.991282,
+    "geom:longitude":77.556358,
+    "iso:country":"IN",
+    "sg:address":"No. 89, 3rd Main Road, Industrial Town, Rajaji Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2335 2941",
+    "sg:postcode":"560044",
+    "sg:tags":[
+        "polymer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RDwHOQVqifgsouez92Bty_12.991282_77.556358@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"429a9fe468f8acbf13a7fdfb87fa54b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169536941
+        }
+    ],
+    "wof:id":169536941,
+    "wof:lastmodified":1449034659,
+    "wof:name":"Anu Poly Industries",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [77.556358,12.991282,77.556358,12.991282],
+  "geometry": {"coordinates":[77.556358,12.991282],"type":"Point"}
+}

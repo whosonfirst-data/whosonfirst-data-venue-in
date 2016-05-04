@@ -1,0 +1,59 @@
+{
+  "id": 169536379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.815231,18.956123,72.815231,18.956123",
+    "geom:latitude":18.956123,
+    "geom:longitude":72.815231,
+    "iso:country":"IN",
+    "sg:address":"7, Kala Bhavan, 3, Mathew Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2361 0533",
+    "sg:postcode":"400004",
+    "sg:website":"http://www.nagreeka.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931463,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H1i2NxbA2LtyB5MUGoEhE_18.956123_72.815231@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"190c0dd368b1d6b0e803866870ee7abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931463,
+            "region_id":85672171,
+            "venue_id":169536379
+        }
+    ],
+    "wof:id":169536379,
+    "wof:lastmodified":1449034658,
+    "wof:name":"Nagreeka Exports Ltd.",
+    "wof:parent_id":85931463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.815231,18.956123,72.815231,18.956123],
+  "geometry": {"coordinates":[72.815231,18.956123],"type":"Point"}
+}

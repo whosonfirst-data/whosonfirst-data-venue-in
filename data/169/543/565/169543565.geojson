@@ -1,0 +1,64 @@
+{
+  "id": 169543565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.763603,10.790658,78.763603,10.790658",
+    "geom:latitude":10.790658,
+    "geom:longitude":78.763603,
+    "iso:country":"IN",
+    "sg:address":"121, 3rd Cross, 2nd Main, Prakashnagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2352 6548",
+    "sg:postcode":"560021",
+    "sg:tags":[
+        "tin",
+        "container"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028441,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_753176Yo79ULYTImc8kUdq_10.790658_78.763603@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b3a5acdd42c27397efa3a44d6ee5a302",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028441,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169543565
+        }
+    ],
+    "wof:id":169543565,
+    "wof:lastmodified":1449033336,
+    "wof:name":"Gopal Packing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tin",
+        "container"
+    ]
+},
+  "bbox": [78.763603,10.790658,78.763603,10.790658],
+  "geometry": {"coordinates":[78.763603,10.790658],"type":"Point"}
+}

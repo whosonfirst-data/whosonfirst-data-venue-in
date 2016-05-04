@@ -1,0 +1,61 @@
+{
+  "id": 169640403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.083015,28.669899,77.083015,28.669899",
+    "geom:latitude":28.669899,
+    "geom:longitude":77.083015,
+    "iso:country":"IN",
+    "sg:address":"Gh-2/84-a, Paschim Vihar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110063",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rUvpxpB9gJavG9dMW3m6y_28.669899_77.083015@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9179feb5e202ec272ca4df8ec898196e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169640403
+        }
+    ],
+    "wof:id":169640403,
+    "wof:lastmodified":1449034104,
+    "wof:name":"Universal Exports",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.083015,28.669899,77.083015,28.669899],
+  "geometry": {"coordinates":[77.083015,28.669899],"type":"Point"}
+}

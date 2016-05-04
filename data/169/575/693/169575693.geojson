@@ -1,0 +1,61 @@
+{
+  "id": 169575693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.312157,26.09318,74.312157,26.09318",
+    "geom:latitude":26.09318,
+    "geom:longitude":74.312157,
+    "iso:country":"IN",
+    "sg:address":"F-195, Ricco Industrial Area, Beawar,",
+    "sg:city":"Ajmer",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 1462 226 225",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030751,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_546TLwRgGnnTVVD3BhehYS_26.093180_74.312157@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a17382e3dcdc249d3e812db737c664e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030751,
+            "neighbourhood_id":-1,
+            "region_id":85672201,
+            "venue_id":169575693
+        }
+    ],
+    "wof:id":169575693,
+    "wof:lastmodified":1449033640,
+    "wof:name":"Bagwas Chemical Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [74.312157,26.09318,74.312157,26.09318],
+  "geometry": {"coordinates":[74.312157,26.09318],"type":"Point"}
+}

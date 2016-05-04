@@ -1,0 +1,63 @@
+{
+  "id": 169543687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.644081,12.969625,77.644081,12.969625",
+    "geom:latitude":12.969625,
+    "geom:longitude":77.644081,
+    "iso:country":"IN",
+    "sg:address":"No. 1804, 5th Cross, Hal 3rd Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2528 6816",
+    "sg:postcode":"560075",
+    "sg:tags":[
+        "transformer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SxJeRBRH9Fdq7VdmOMUJA_12.969625_77.644081@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"dbc0da025109d9e7ad71714b343f0eb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169543687
+        }
+    ],
+    "wof:id":169543687,
+    "wof:lastmodified":1449033333,
+    "wof:name":"Delta Insulations & Allied Engineering",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transformer"
+    ]
+},
+  "bbox": [77.644081,12.969625,77.644081,12.969625],
+  "geometry": {"coordinates":[77.644081,12.969625],"type":"Point"}
+}

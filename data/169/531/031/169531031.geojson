@@ -1,0 +1,67 @@
+{
+  "id": 169531031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.835846,19.189947,72.835846,19.189947",
+    "geom:latitude":19.189947,
+    "geom:longitude":72.835846,
+    "iso:country":"IN",
+    "sg:address":"123, New Sonal Industrial Estate No.2, Kanchpada, Link Road, Malad (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Tower",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2880 5089",
+    "sg:postcode":"400064",
+    "sg:tags":[
+        "plant",
+        "cooling",
+        "chilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931619,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kThW2nw0klCk35OgSgWpM_19.189947_72.835846@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4ba2fecaa2bff815305984da9cab2a32",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931619,
+            "region_id":85672171,
+            "venue_id":169531031
+        }
+    ],
+    "wof:id":169531031,
+    "wof:lastmodified":1449033473,
+    "wof:name":"Blue Chip Cooling Towers Pvt. Ltd.",
+    "wof:parent_id":85931619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "cooling",
+        "chilling"
+    ]
+},
+  "bbox": [72.835846,19.189947,72.835846,19.189947],
+  "geometry": {"coordinates":[72.835846,19.189947],"type":"Point"}
+}

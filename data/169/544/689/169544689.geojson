@@ -1,0 +1,63 @@
+{
+  "id": 169544689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.607216,12.972761,77.607216,12.972761",
+    "geom:latitude":12.972761,
+    "geom:longitude":77.607216,
+    "iso:country":"IN",
+    "sg:address":"39/a, S.m. Road, T. Dasarahalli P.o.,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2839 4693",
+    "sg:postcode":"560057",
+    "sg:tags":[
+        "weighing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930841,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16Gsu7WBAdoFvWk1FUyRmM_12.972761_77.607216@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f9d23f1e17cb44c31ad7d63ca0b19424",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930841,
+            "region_id":85672165,
+            "venue_id":169544689
+        }
+    ],
+    "wof:id":169544689,
+    "wof:lastmodified":1449035965,
+    "wof:name":"Pentonic Systems",
+    "wof:parent_id":85930841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "weighing"
+    ]
+},
+  "bbox": [77.607216,12.972761,77.607216,12.972761],
+  "geometry": {"coordinates":[77.607216,12.972761],"type":"Point"}
+}

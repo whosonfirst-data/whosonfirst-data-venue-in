@@ -1,0 +1,68 @@
+{
+  "id": 169528159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.823448,18.952213,72.823448,18.952213",
+    "geom:latitude":18.952213,
+    "geom:longitude":72.823448,
+    "iso:country":"IN",
+    "sg:address":"111/19, Thakurdwar Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2207 7017",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "builder",
+        "product",
+        "brass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TGHAm1YIOmaAGI1VhYNpF_18.952213_72.823448@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1f67e7e2a972943050cf6cc4914f109f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903889,
+            "region_id":85672171,
+            "venue_id":169528159
+        }
+    ],
+    "wof:id":169528159,
+    "wof:lastmodified":1449033566,
+    "wof:name":"Ranka Enterprises",
+    "wof:parent_id":85903889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "product",
+        "brass"
+    ]
+},
+  "bbox": [72.823448,18.952213,72.823448,18.952213],
+  "geometry": {"coordinates":[72.823448,18.952213],"type":"Point"}
+}

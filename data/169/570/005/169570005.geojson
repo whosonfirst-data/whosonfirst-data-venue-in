@@ -1,0 +1,52 @@
+{
+  "id": 169570005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.287247,13.091187,80.287247,13.091187",
+    "geom:latitude":13.091187,
+    "geom:longitude":80.287247,
+    "iso:country":"IN",
+    "sg:address":"Errabalu Street",
+    "sg:city":"Chennai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2522 4938",
+    "sg:postcode":"600001",
+    "sg:province":"Tamil Nadu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903951,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jhC6PHrk24g6txhPO0EsX_13.091187_80.287247@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c0affbe7bc6dd4d6e6289faaba78296c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102029537,
+            "neighbourhood_id":85903951,
+            "region_id":85672245,
+            "venue_id":169570005
+        }
+    ],
+    "wof:id":169570005,
+    "wof:lastmodified":1449034647,
+    "wof:name":"Mill Stores (madras) Pvt Ltd",
+    "wof:parent_id":85903951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.287247,13.091187,80.287247,13.091187],
+  "geometry": {"coordinates":[80.287247,13.091187],"type":"Point"}
+}

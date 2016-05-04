@@ -1,0 +1,66 @@
+{
+  "id": 169544149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.616066,13.000596,77.616066,13.000596",
+    "geom:latitude":13.000596,
+    "geom:longitude":77.616066,
+    "iso:country":"IN",
+    "sg:address":"No.-77/1, M.m. Road, Fraser Town,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2548 8407",
+    "sg:postcode":"560005",
+    "sg:tags":[
+        "ups",
+        "power"
+    ],
+    "sg:website":"http://www.teamtronix.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930871,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19VTGR6uHpTUjVJFKFuJ2a_13.000596_77.616066@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a250543d6e4240f59e177271771dac10",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930871,
+            "region_id":85672165,
+            "venue_id":169544149
+        }
+    ],
+    "wof:id":169544149,
+    "wof:lastmodified":1449035961,
+    "wof:name":"Teamtronix India Pvt. Ltd.",
+    "wof:parent_id":85930871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ups",
+        "power"
+    ]
+},
+  "bbox": [77.616066,13.000596,77.616066,13.000596],
+  "geometry": {"coordinates":[77.616066,13.000596],"type":"Point"}
+}

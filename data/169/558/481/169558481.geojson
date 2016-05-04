@@ -1,0 +1,63 @@
+{
+  "id": 169558481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.188957,28.607586,77.188957,28.607586",
+    "geom:latitude":28.607586,
+    "geom:longitude":77.188957,
+    "iso:country":"IN",
+    "sg:address":"8-a, National Highway, Lalpar,",
+    "sg:city":"Morbi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2822 240 405",
+    "sg:postcode":"363641",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928295,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NSElpOIsmt5pcWufwGWh2_28.607586_77.188957@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8e131d857568ffe6b0b1bbe77abeb4df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928295,
+            "region_id":85672123,
+            "venue_id":169558481
+        }
+    ],
+    "wof:id":169558481,
+    "wof:lastmodified":1449033582,
+    "wof:name":"Bond Impex Pvt. Ltd.",
+    "wof:parent_id":85928295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.188957,28.607586,77.188957,28.607586],
+  "geometry": {"coordinates":[77.188957,28.607586],"type":"Point"}
+}

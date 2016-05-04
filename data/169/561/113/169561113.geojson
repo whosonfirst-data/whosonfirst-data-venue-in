@@ -1,0 +1,63 @@
+{
+  "id": 169561113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.477318,17.393213,78.477318,17.393213",
+    "geom:latitude":17.393213,
+    "geom:longitude":78.477318,
+    "iso:country":"IN",
+    "sg:address":"43, 2nd Floor, Unity House, Abids,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2320 4887",
+    "sg:postcode":"500001",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930739,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wvzCKH1LKped10oaulba8_17.393213_78.477318@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"febfe7d9acf44d389648a8449cd7cb15",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930739,
+            "region_id":85672141,
+            "venue_id":169561113
+        }
+    ],
+    "wof:id":169561113,
+    "wof:lastmodified":1449035021,
+    "wof:name":"Enal Drugs Pvt. Ltd.",
+    "wof:parent_id":85930739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [78.477318,17.393213,78.477318,17.393213],
+  "geometry": {"coordinates":[78.477318,17.393213],"type":"Point"}
+}

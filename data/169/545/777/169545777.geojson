@@ -1,0 +1,65 @@
+{
+  "id": 169545777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.23893,10.486208,76.23893,10.486208",
+    "geom:latitude":10.486208,
+    "geom:longitude":76.23893,
+    "iso:country":"IN",
+    "sg:address":"51a, High Road,",
+    "sg:city":"Tirunelveli",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 462 233 4684",
+    "sg:postcode":"627001",
+    "sg:tags":[
+        "farm",
+        "machine",
+        "agriculture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m6U2VAXAiKBVzKjwwM5QE_10.486208_76.238930@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"443e215e1189e661c41f3c66d1ca5320",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672149,
+            "venue_id":169545777
+        }
+    ],
+    "wof:id":169545777,
+    "wof:lastmodified":1449033486,
+    "wof:name":"Tractors & Trailers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "machine",
+        "agriculture"
+    ]
+},
+  "bbox": [76.23893,10.486208,76.23893,10.486208],
+  "geometry": {"coordinates":[76.23893,10.486208],"type":"Point"}
+}

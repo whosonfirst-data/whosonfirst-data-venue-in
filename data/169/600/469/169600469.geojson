@@ -1,0 +1,61 @@
+{
+  "id": 169600469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.376381,19.873142,75.376381,19.873142",
+    "geom:latitude":19.873142,
+    "geom:longitude":75.376381,
+    "iso:country":"IN",
+    "sg:address":"W -26, Midc, Chikalthana,",
+    "sg:city":"Aurangabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 240 247 0018",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030887,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KKvMri8dOH0ZCEFkNfr4C_19.873142_75.376381@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"72dad9977042dc3838148c68b164d4a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030887,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169600469
+        }
+    ],
+    "wof:id":169600469,
+    "wof:lastmodified":1449032973,
+    "wof:name":"Peekay Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [75.376381,19.873142,75.376381,19.873142],
+  "geometry": {"coordinates":[75.376381,19.873142],"type":"Point"}
+}

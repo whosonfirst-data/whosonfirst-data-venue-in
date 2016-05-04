@@ -1,0 +1,65 @@
+{
+  "id": 169536809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.54615,13.010093,77.54615,13.010093",
+    "geom:latitude":13.010093,
+    "geom:longitude":77.54615,
+    "iso:country":"IN",
+    "sg:address":"71, 6th Main, 2nd Stage, W.c.r. Mahalakshmipuram,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2359 3753",
+    "sg:postcode":"560086",
+    "sg:tags":[
+        "product",
+        "pneumatic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2is4ZEJkW3OzEoZHUyxGTJ_13.010093_77.546150@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d983123eb345ada4fa84fdea741acfd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169536809
+        }
+    ],
+    "wof:id":169536809,
+    "wof:lastmodified":1449034659,
+    "wof:name":"Karnataka Medical Corporation",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "pneumatic"
+    ]
+},
+  "bbox": [77.54615,13.010093,77.54615,13.010093],
+  "geometry": {"coordinates":[77.54615,13.010093],"type":"Point"}
+}

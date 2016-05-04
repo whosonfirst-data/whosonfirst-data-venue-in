@@ -1,0 +1,59 @@
+{
+  "id": 169543297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.627029,12.928762,77.627029,12.928762",
+    "geom:latitude":12.928762,
+    "geom:longitude":77.627029,
+    "iso:country":"IN",
+    "sg:address":"No. 147, 12th Main, 3rd Block, Koramangala,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2553 8622",
+    "sg:postcode":"560034",
+    "sg:website":"http://www.cheslind.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931041,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D7D8QFPP3O3dezWi7EkI0_12.928762_77.627029@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ab9193d4b6d858634293ba9d71337435",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931041,
+            "region_id":85672165,
+            "venue_id":169543297
+        }
+    ],
+    "wof:id":169543297,
+    "wof:lastmodified":1449033337,
+    "wof:name":"Cheslind Textiles Limited",
+    "wof:parent_id":85931041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.627029,12.928762,77.627029,12.928762],
+  "geometry": {"coordinates":[77.627029,12.928762],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169642657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.862839,30.919415,75.862839,30.919415",
+    "geom:latitude":30.919415,
+    "geom:longitude":75.862839,
+    "iso:country":"IN",
+    "sg:address":"B-6/144, Madhopuri 2,",
+    "sg:city":"Ludhiana",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 161 270 2299",
+    "sg:postcode":"141008",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029555,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xDxlGy7oX6HhrnjJpGAIj_30.919415_75.862839@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b30be382e030a2d23644a0dfef404113",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029555,
+            "neighbourhood_id":-1,
+            "region_id":85672195,
+            "venue_id":169642657
+        }
+    ],
+    "wof:id":169642657,
+    "wof:lastmodified":1449032876,
+    "wof:name":"Venus Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.862839,30.919415,75.862839,30.919415],
+  "geometry": {"coordinates":[75.862839,30.919415],"type":"Point"}
+}

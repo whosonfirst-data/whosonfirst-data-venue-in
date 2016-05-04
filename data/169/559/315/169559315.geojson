@@ -1,0 +1,64 @@
+{
+  "id": 169559315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.062523,19.030165,73.062523,19.030165",
+    "geom:latitude":19.030165,
+    "geom:longitude":73.062523,
+    "iso:country":"IN",
+    "sg:address":"111, Industrial Area, Sion,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2409 0124",
+    "sg:postcode":"400022",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.chokseychem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931641,
+        85632469,
+        102031185,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HOXOe2GC6ZMt2hPmuWtel_19.030165_73.062523@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6022346159069b5ec9fbd4b0524afd1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031185,
+            "neighbourhood_id":85931641,
+            "region_id":85672171,
+            "venue_id":169559315
+        }
+    ],
+    "wof:id":169559315,
+    "wof:lastmodified":1449035238,
+    "wof:name":"Choksey Chemicals Pvt. Ltd.",
+    "wof:parent_id":85931641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [73.062523,19.030165,73.062523,19.030165],
+  "geometry": {"coordinates":[73.062523,19.030165],"type":"Point"}
+}

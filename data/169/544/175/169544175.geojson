@@ -1,0 +1,67 @@
+{
+  "id": 169544175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.541878,13.057908,77.541878,13.057908",
+    "geom:latitude":13.057908,
+    "geom:longitude":77.541878,
+    "iso:country":"IN",
+    "sg:address":"Jalahally,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Shopping Mall",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2219 5464",
+    "sg:postcode":"560013",
+    "sg:tags":[
+        "equipment",
+        "system",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903877,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zGcpPQt8g76gseMFnRmUs_13.057908_77.541878@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"81056c3af61de0675e4898ec609007c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903877,
+            "region_id":85672165,
+            "venue_id":169544175
+        }
+    ],
+    "wof:id":169544175,
+    "wof:lastmodified":1449035964,
+    "wof:name":"Bel Passive Vacuum Devices",
+    "wof:parent_id":85903877,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "system",
+        "vacuum"
+    ]
+},
+  "bbox": [77.541878,13.057908,77.541878,13.057908],
+  "geometry": {"coordinates":[77.541878,13.057908],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169594309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.240967,28.636009,77.240967,28.636009",
+    "geom:latitude":28.636009,
+    "geom:longitude":77.240967,
+    "iso:country":"IN",
+    "sg:address":"D/159, 1st Floor, B G Tower, O/s Delhi Darwaja,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 2562 1690",
+    "sg:postcode":"380004",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928017,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jsoRuX6b4V3r5S7WjfdH4_28.636009_77.240967@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7227d9b54f07fb3faf65d5d92a95b84d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928017,
+            "region_id":85672123,
+            "venue_id":169594309
+        }
+    ],
+    "wof:id":169594309,
+    "wof:lastmodified":1449033164,
+    "wof:name":"Nim Chemicals",
+    "wof:parent_id":85928017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.240967,28.636009,77.240967,28.636009],
+  "geometry": {"coordinates":[77.240967,28.636009],"type":"Point"}
+}

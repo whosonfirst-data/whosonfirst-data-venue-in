@@ -1,0 +1,66 @@
+{
+  "id": 169527777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.914482,19.052114,72.914482,19.052114",
+    "geom:latitude":19.052114,
+    "geom:longitude":72.914482,
+    "iso:country":"IN",
+    "sg:address":"308, Arjun Centre, Govandi,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2555 5589",
+    "sg:postcode":"400088",
+    "sg:tags":[
+        "publisher",
+        "book"
+    ],
+    "sg:website":"http://www.sitabook.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931557,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vqGLOkCGBjJqYBXJQNonc_19.052114_72.914482@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"23a74161889ba150879ef76da5fb0eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931557,
+            "region_id":85672171,
+            "venue_id":169527777
+        }
+    ],
+    "wof:id":169527777,
+    "wof:lastmodified":1449035278,
+    "wof:name":"Sita Books & Periodicals Pvt. Ltd.",
+    "wof:parent_id":85931557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher",
+        "book"
+    ]
+},
+  "bbox": [72.914482,19.052114,72.914482,19.052114],
+  "geometry": {"coordinates":[72.914482,19.052114],"type":"Point"}
+}

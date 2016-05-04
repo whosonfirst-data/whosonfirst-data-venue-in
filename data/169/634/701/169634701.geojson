@@ -1,0 +1,63 @@
+{
+  "id": 169634701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.834602,18.942142,72.834602,18.942142",
+    "geom:latitude":18.942142,
+    "geom:longitude":72.834602,
+    "iso:country":"IN",
+    "sg:address":"192, Dr. D.n. Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2207 4739",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931585,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yiaJW2kFrEXiaYFnbr13B_18.942142_72.834602@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2df10109f37bac4dc2bf82ed9aaf97c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931585,
+            "region_id":-1,
+            "venue_id":169634701
+        }
+    ],
+    "wof:id":169634701,
+    "wof:lastmodified":1449034257,
+    "wof:name":"Technochem Chemicals",
+    "wof:parent_id":85931585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [72.834602,18.942142,72.834602,18.942142],
+  "geometry": {"coordinates":[72.834602,18.942142],"type":"Point"}
+}

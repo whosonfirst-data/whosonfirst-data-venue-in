@@ -1,0 +1,62 @@
+{
+  "id": 169632685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.963196,8.42346,76.963196,8.42346",
+    "geom:latitude":8.42346,
+    "geom:longitude":76.963196,
+    "iso:country":"IN",
+    "sg:address":"647, Trivandrum Street,",
+    "sg:city":"Rajapalayam",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 4563 227 879",
+    "sg:postcode":"626117",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028407,
+        85672149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PvPYiqjtFdnlHtiWQ3khJ_8.423460_76.963196@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"50ab778a93856ed3f79f1403297a30f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028407,
+            "neighbourhood_id":-1,
+            "region_id":85672149,
+            "venue_id":169632685
+        }
+    ],
+    "wof:id":169632685,
+    "wof:lastmodified":1449034796,
+    "wof:name":"Suriyaa Chemical Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [76.963196,8.42346,76.963196,8.42346],
+  "geometry": {"coordinates":[76.963196,8.42346],"type":"Point"}
+}

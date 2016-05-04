@@ -1,0 +1,65 @@
+{
+  "id": 169528335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.830475,18.946735,72.830475,18.946735",
+    "geom:latitude":18.946735,
+    "geom:longitude":72.830475,
+    "iso:country":"IN",
+    "sg:address":"134, Lohar Chawl, Diamond Building,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2208 0792",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "hardware",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pfwK9lEsIXNVtdlMqJQK5_18.946735_72.830475@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b167a6d80f62ff2959b304610b539bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169528335
+        }
+    ],
+    "wof:id":169528335,
+    "wof:lastmodified":1449033569,
+    "wof:name":"T. Najmuddin & Co.",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware",
+        "builder"
+    ]
+},
+  "bbox": [72.830475,18.946735,72.830475,18.946735],
+  "geometry": {"coordinates":[72.830475,18.946735],"type":"Point"}
+}

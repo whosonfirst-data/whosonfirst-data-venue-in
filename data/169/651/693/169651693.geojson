@@ -1,0 +1,58 @@
+{
+  "id": 169651693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.411949,17.417116,78.411949,17.417116",
+    "geom:latitude":17.417116,
+    "geom:longitude":78.411949,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 7 A, MLA Colony Road No. 12, Banjara Hills",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"500034",
+    "sg:website":"http://www.ybrantdigital.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930761,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eLTIpXyq6wnhnXR9a8lNK_17.417116_78.411949@1308163241"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3a79fbd7fc3868a031a136f7c9c03aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930761,
+            "region_id":85672141,
+            "venue_id":169651693
+        }
+    ],
+    "wof:id":169651693,
+    "wof:lastmodified":1449033343,
+    "wof:name":"Ybrant Digital",
+    "wof:parent_id":85930761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [78.411949,17.417116,78.411949,17.417116],
+  "geometry": {"coordinates":[78.411949,17.417116],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169529775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.869194,19.111139,72.869194,19.111139",
+    "geom:latitude":19.111139,
+    "geom:longitude":72.869194,
+    "iso:country":"IN",
+    "sg:address":"2/12 Amar Niketan, J B Nagar, Andheri (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2836 1166",
+    "sg:postcode":"400059",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SBlft8uvcnX7kNnVWnBk3_19.111139_72.869194@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f0fc8962859ee75af03f8ad240d4c83d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169529775
+        }
+    ],
+    "wof:id":169529775,
+    "wof:lastmodified":1449034116,
+    "wof:name":"Amus Corpn.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.869194,19.111139,72.869194,19.111139],
+  "geometry": {"coordinates":[72.869194,19.111139],"type":"Point"}
+}

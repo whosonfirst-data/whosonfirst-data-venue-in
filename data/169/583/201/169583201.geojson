@@ -1,0 +1,63 @@
+{
+  "id": 169583201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.308693,28.584785,77.308693,28.584785",
+    "geom:latitude":28.584785,
+    "geom:longitude":77.308693,
+    "iso:country":"IN",
+    "sg:address":"1, Udyog Marg,",
+    "sg:city":"Kota",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 744 242 5192",
+    "sg:postcode":"324003",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928529,
+        85632469,
+        102031133,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mXwglPr44VpqtfOAjdG8l_28.584785_77.308693@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3d8489edce73bdc8875f454a84532ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031133,
+            "neighbourhood_id":85928529,
+            "region_id":85672205,
+            "venue_id":169583201
+        }
+    ],
+    "wof:id":169583201,
+    "wof:lastmodified":1449035269,
+    "wof:name":"Kota Oxygen Pvt. Ltd.",
+    "wof:parent_id":85928529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [77.308693,28.584785,77.308693,28.584785],
+  "geometry": {"coordinates":[77.308693,28.584785],"type":"Point"}
+}

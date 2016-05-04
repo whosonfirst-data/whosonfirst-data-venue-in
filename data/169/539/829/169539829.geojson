@@ -1,0 +1,63 @@
+{
+  "id": 169539829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.470978,17.347868,78.470978,17.347868",
+    "geom:latitude":17.347868,
+    "geom:longitude":78.470978,
+    "iso:country":"IN",
+    "sg:address":"149/150, 1st Floor, S.p. Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4114 0787",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "semiconductor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930807,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XkACvpMbV09awv0r4U5nb_17.347868_78.470978@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8c30995a0b13f9a0096fd02aeceda52f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930807,
+            "region_id":85672141,
+            "venue_id":169539829
+        }
+    ],
+    "wof:id":169539829,
+    "wof:lastmodified":1449036039,
+    "wof:name":"Arun Electronics & Communications",
+    "wof:parent_id":85930807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "semiconductor"
+    ]
+},
+  "bbox": [78.470978,17.347868,78.470978,17.347868],
+  "geometry": {"coordinates":[78.470978,17.347868],"type":"Point"}
+}

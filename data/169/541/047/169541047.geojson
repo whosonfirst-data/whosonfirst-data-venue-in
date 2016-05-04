@@ -1,0 +1,62 @@
+{
+  "id": 169541047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.61071,12.920397,77.61071,12.920397",
+    "geom:latitude":12.920397,
+    "geom:longitude":77.61071,
+    "iso:country":"IN",
+    "sg:address":"# 11, Taverekere Main Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2553 6669",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931027,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_739qMSrGU0fovbxd1R0WjU_12.920397_77.610710@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8f3f0b32031f38523cd39ce2f686b47b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931027,
+            "region_id":85672165,
+            "venue_id":169541047
+        }
+    ],
+    "wof:id":169541047,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Zenith Textiles",
+    "wof:parent_id":85931027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.61071,12.920397,77.61071,12.920397],
+  "geometry": {"coordinates":[77.61071,12.920397],"type":"Point"}
+}

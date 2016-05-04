@@ -1,0 +1,62 @@
+{
+  "id": 169533103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.875595,19.103189,72.875595,19.103189",
+    "geom:latitude":19.103189,
+    "geom:longitude":72.875595,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 47/ia/1, Shivaji Nagar, Govandi,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"400043",
+    "sg:tags":[
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aba3iOBS95puN8ZBVYZes_19.103189_72.875595@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9aa7a80e2e03f2fa73d58506b0f9dec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169533103
+        }
+    ],
+    "wof:id":169533103,
+    "wof:lastmodified":1449032643,
+    "wof:name":"Blue Diamonds",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.875595,19.103189,72.875595,19.103189],
+  "geometry": {"coordinates":[72.875595,19.103189],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169544627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.520042,13.027766,77.520042,13.027766",
+    "geom:latitude":13.027766,
+    "geom:longitude":77.520042,
+    "iso:country":"IN",
+    "sg:address":"50-a, Ring Road, Iind Phase, Peenya,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2839 6320",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "water",
+        "softener",
+        "purifier"
+    ],
+    "sg:website":"http://www.millipore.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34eIN0IVbmbb0az9Kn0DD7_13.027766_77.520042@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"08a740eb0dbe50de37d9578bf241f186",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169544627
+        }
+    ],
+    "wof:id":169544627,
+    "wof:lastmodified":1449035964,
+    "wof:name":"Millipore India Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "softener",
+        "purifier"
+    ]
+},
+  "bbox": [77.520042,13.027766,77.520042,13.027766],
+  "geometry": {"coordinates":[77.520042,13.027766],"type":"Point"}
+}

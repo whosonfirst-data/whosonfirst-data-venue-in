@@ -1,0 +1,63 @@
+{
+  "id": 169647263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.642967,25.335764,74.642967,25.335764",
+    "geom:latitude":25.335764,
+    "geom:longitude":74.642967,
+    "iso:country":"IN",
+    "sg:address":"S-d/74, Shastri Nagar,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 410 3214",
+    "sg:postcode":"201002",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.botanicals.trustpass.alibaba.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030691,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NlAnv7BA4AylWq7FcfQNF_25.335764_74.642967@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9029ec419b4c2ca77773042bcf8f1762",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030691,
+            "neighbourhood_id":-1,
+            "region_id":85672201,
+            "venue_id":169647263
+        }
+    ],
+    "wof:id":169647263,
+    "wof:lastmodified":1449034241,
+    "wof:name":"Xenium Botanicals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [74.642967,25.335764,74.642967,25.335764],
+  "geometry": {"coordinates":[74.642967,25.335764],"type":"Point"}
+}

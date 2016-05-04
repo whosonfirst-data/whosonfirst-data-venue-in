@@ -1,0 +1,63 @@
+{
+  "id": 169605301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.570221,12.92438,77.570221,12.92438",
+    "geom:latitude":12.92438,
+    "geom:longitude":77.570221,
+    "iso:country":"IN",
+    "sg:address":"No. 1996, 9th Main Road, Banashankari 2nd Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2676 3349",
+    "sg:postcode":"560070",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930845,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rqyQPZQYmUfA6M2TGWVAu_12.924380_77.570221@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"62306e499ccc2b13afc87be09d9e6d1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930845,
+            "region_id":85672165,
+            "venue_id":169605301
+        }
+    ],
+    "wof:id":169605301,
+    "wof:lastmodified":1449034288,
+    "wof:name":"Pyro Technologies",
+    "wof:parent_id":85930845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.570221,12.92438,77.570221,12.92438],
+  "geometry": {"coordinates":[77.570221,12.92438],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 169534495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.836685,19.054655,72.836685,19.054655",
+    "geom:latitude":19.054655,
+    "geom:longitude":72.836685,
+    "iso:country":"IN",
+    "sg:address":"14, Rizvi Chambers, 10-e, Hill Road, Bandra (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2642 5883",
+    "sg:postcode":"400050",
+    "sg:tags":[
+        "lighting",
+        "product",
+        "electrical",
+        "component",
+        "/"
+    ],
+    "sg:website":"http://www.redlightings.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931581,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iWixczn5370VMLe2w3ihW_19.054655_72.836685@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"529dfea878ef4544cf5fd3b6718cbf18",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931581,
+            "region_id":-1,
+            "venue_id":169534495
+        }
+    ],
+    "wof:id":169534495,
+    "wof:lastmodified":1449033547,
+    "wof:name":"Red Lighting's",
+    "wof:parent_id":85931581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "product",
+        "electrical",
+        "component",
+        "/"
+    ]
+},
+  "bbox": [72.836685,19.054655,72.836685,19.054655],
+  "geometry": {"coordinates":[72.836685,19.054655],"type":"Point"}
+}

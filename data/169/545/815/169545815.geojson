@@ -1,0 +1,65 @@
+{
+  "id": 169545815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"79.083572,21.169006,79.083572,21.169006",
+    "geom:latitude":21.169006,
+    "geom:longitude":79.083572,
+    "iso:country":"IN",
+    "sg:address":"No. 95, N.g.o. New Colony,",
+    "sg:city":"Tirunelveli",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 462 255 1777",
+    "sg:postcode":"627007",
+    "sg:tags":[
+        "merchant",
+        "exporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903845,
+        85632469,
+        102029277,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4O5LHncIhd322bubF7ifJm_21.169006_79.083572@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b04b768ba3a27c8240a78a51141ab5f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029277,
+            "neighbourhood_id":85903845,
+            "region_id":85672171,
+            "venue_id":169545815
+        }
+    ],
+    "wof:id":169545815,
+    "wof:lastmodified":1449033486,
+    "wof:name":"Karunya Impex",
+    "wof:parent_id":85903845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchant",
+        "exporter"
+    ]
+},
+  "bbox": [79.083572,21.169006,79.083572,21.169006],
+  "geometry": {"coordinates":[79.083572,21.169006],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169536419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.854614,19.172113,72.854614,19.172113",
+    "geom:latitude":19.172113,
+    "geom:longitude":72.854614,
+    "iso:country":"IN",
+    "sg:address":"B-50, Pravasi Industrial Estate, Goregaon (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2878 5093",
+    "sg:postcode":"400063",
+    "sg:tags":[
+        "garment",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931525,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ryOkOsvgcfNsNCFnZQU4D_19.172113_72.854614@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1b16a34f902af9b592ded05e5f8233b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931525,
+            "region_id":85672171,
+            "venue_id":169536419
+        }
+    ],
+    "wof:id":169536419,
+    "wof:lastmodified":1449034661,
+    "wof:name":"Shree Clothing Co.",
+    "wof:parent_id":85931525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "accessory"
+    ]
+},
+  "bbox": [72.854614,19.172113,72.854614,19.172113],
+  "geometry": {"coordinates":[72.854614,19.172113],"type":"Point"}
+}

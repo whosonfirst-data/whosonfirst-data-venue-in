@@ -1,0 +1,63 @@
+{
+  "id": 169529813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.82634,18.933634,72.82634,18.933634",
+    "geom:latitude":18.933634,
+    "geom:longitude":72.82634,
+    "iso:country":"IN",
+    "sg:address":"Parekh Mahal, 6th Floor, Veer Nariman Road, Churchgate,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2204 4460",
+    "sg:postcode":"400020",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903879,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ph5yGlQHHp4OYp1RXVlsN_18.933634_72.826340@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a094ea6eda93f76798110ae34d6f8019",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903879,
+            "region_id":85672171,
+            "venue_id":169529813
+        }
+    ],
+    "wof:id":169529813,
+    "wof:lastmodified":1449034114,
+    "wof:name":"Mafatlal Dyes & Chemicals Limited",
+    "wof:parent_id":85903879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.82634,18.933634,72.82634,18.933634],
+  "geometry": {"coordinates":[72.82634,18.933634],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169545535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.216187,10.341599,76.216187,10.341599",
+    "geom:latitude":10.341599,
+    "geom:longitude":76.216187,
+    "iso:country":"IN",
+    "sg:address":"Kodungallur Road, P.b. No.2, Irinjalajuda",
+    "sg:city":"Thrissur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 4882 825 222",
+    "sg:postcode":"680121",
+    "sg:tags":[
+        "oil",
+        "edible"
+    ],
+    "sg:website":"http://www.kplindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030037,
+        85672149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NXY3kzKIpdqgfDCaNdUiN_10.341599_76.216187@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d5e14dd734a20ac7bcdf5bbe81a64aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030037,
+            "neighbourhood_id":-1,
+            "region_id":85672149,
+            "venue_id":169545535
+        }
+    ],
+    "wof:id":169545535,
+    "wof:lastmodified":1449033484,
+    "wof:name":"Kpl Oil Mills (p) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "edible"
+    ]
+},
+  "bbox": [76.216187,10.341599,76.216187,10.341599],
+  "geometry": {"coordinates":[76.216187,10.341599],"type":"Point"}
+}

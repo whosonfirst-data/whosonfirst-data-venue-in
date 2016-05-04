@@ -1,0 +1,53 @@
+{
+  "id": 169562823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.407059,22.602322,88.407059,22.602322",
+    "geom:latitude":22.602322,
+    "geom:longitude":88.407059,
+    "iso:country":"IN",
+    "sg:address":"North Block, 3rd Floor",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2229 1291",
+    "sg:postcode":"700016",
+    "sg:province":"West Bengal",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903943,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zf1435UYRLs3QBYHoKQHu_22.602322_88.407059@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3d217267fa49a15c71c397c229e049a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903943,
+            "region_id":85672219,
+            "venue_id":169562823
+        }
+    ],
+    "wof:id":169562823,
+    "wof:lastmodified":1449034440,
+    "wof:name":"Century Aluminium Manufacturing Co Ltd",
+    "wof:parent_id":85903943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [88.407059,22.602322,88.407059,22.602322],
+  "geometry": {"coordinates":[88.407059,22.602322],"type":"Point"}
+}

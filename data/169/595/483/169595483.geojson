@@ -1,0 +1,63 @@
+{
+  "id": 169595483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.317902,28.598679,77.317902,28.598679",
+    "geom:latitude":28.598679,
+    "geom:longitude":77.317902,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 19, M3-04, Habitat, Vasundra Enclave,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4303 8999",
+    "sg:postcode":"110096",
+    "sg:tags":[
+        "wax"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928167,
+        85632469,
+        102031133,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pxPoN3VcVm1GTXqrhhm74_28.598679_77.317902@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8f306a7858c187fe5d57ceaf9ce530b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031133,
+            "neighbourhood_id":85928167,
+            "region_id":85672205,
+            "venue_id":169595483
+        }
+    ],
+    "wof:id":169595483,
+    "wof:lastmodified":1449035638,
+    "wof:name":"Nutech Systems",
+    "wof:parent_id":85928167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [77.317902,28.598679,77.317902,28.598679],
+  "geometry": {"coordinates":[77.317902,28.598679],"type":"Point"}
+}

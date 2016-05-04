@@ -1,0 +1,63 @@
+{
+  "id": 169532475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.825882,18.955709,72.825882,18.955709",
+    "geom:latitude":18.955709,
+    "geom:longitude":72.825882,
+    "iso:country":"IN",
+    "sg:address":"67-a, Tank Building, Bhuleshwar,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2242 4533",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931435,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TTicllGIkyOd1kYJVE2VG_18.955709_72.825882@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8d05539f6632d659301f4532c8ca843c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931435,
+            "region_id":85672171,
+            "venue_id":169532475
+        }
+    ],
+    "wof:id":169532475,
+    "wof:lastmodified":1449033796,
+    "wof:name":"Tulika Jewellers",
+    "wof:parent_id":85931435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.825882,18.955709,72.825882,18.955709],
+  "geometry": {"coordinates":[72.825882,18.955709],"type":"Point"}
+}

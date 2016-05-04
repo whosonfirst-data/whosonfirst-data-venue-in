@@ -1,0 +1,64 @@
+{
+  "id": 169580825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.225838,28.632812,77.225838,28.632812",
+    "geom:latitude":28.632812,
+    "geom:longitude":77.225838,
+    "iso:country":"IN",
+    "sg:address":"110, Babar Road, Opp. World Trade Centre,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2341 1800",
+    "sg:postcode":"110001",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.jindalexportslimited.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903833,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1d5VdHuulPe2ukRmg2DqUR_28.632812_77.225838@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a944160d9eb1d3f71f2e25aee1aaaf03",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903833,
+            "region_id":85672123,
+            "venue_id":169580825
+        }
+    ],
+    "wof:id":169580825,
+    "wof:lastmodified":1449034910,
+    "wof:name":"Jindal Exports & Imports Pvt. Ltd.",
+    "wof:parent_id":85903833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.225838,28.632812,77.225838,28.632812],
+  "geometry": {"coordinates":[77.225838,28.632812],"type":"Point"}
+}

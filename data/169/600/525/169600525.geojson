@@ -1,0 +1,64 @@
+{
+  "id": 169600525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.379204,22.532759,88.379204,22.532759",
+    "geom:latitude":22.532759,
+    "geom:longitude":88.379204,
+    "iso:country":"IN",
+    "sg:address":"24/d, Kustia Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2343 8583",
+    "sg:postcode":"700039",
+    "sg:tags":[
+        "dye"
+    ],
+    "sg:website":"http://www.perkindye.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903969,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LFvswucfprVAA3Os75Ds7_22.532759_88.379204@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"baa2056a37b51e64749a26b0abbccc2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903969,
+            "region_id":85672219,
+            "venue_id":169600525
+        }
+    ],
+    "wof:id":169600525,
+    "wof:lastmodified":1449032971,
+    "wof:name":"Perkin Dyechem Pvt. Ltd.",
+    "wof:parent_id":85903969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye"
+    ]
+},
+  "bbox": [88.379204,22.532759,88.379204,22.532759],
+  "geometry": {"coordinates":[88.379204,22.532759],"type":"Point"}
+}

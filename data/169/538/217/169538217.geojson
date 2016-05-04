@@ -1,0 +1,66 @@
+{
+  "id": 169538217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.555511,12.932187,77.555511,12.932187",
+    "geom:latitude":12.932187,
+    "geom:longitude":77.555511,
+    "iso:country":"IN",
+    "sg:address":"#2234, 23rd Crs, K.r. Road, Banashankari 2nd Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Musical Instruments",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 6614 6565",
+    "sg:tags":[
+        "process",
+        "control",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931173,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XZgF8Pnayyh0GzltaoO9D_12.932187_77.555511@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f57e6c53f9737c16682740a93a1e2faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931173,
+            "region_id":85672165,
+            "venue_id":169538217
+        }
+    ],
+    "wof:id":169538217,
+    "wof:lastmodified":1449033101,
+    "wof:name":"Honeywell Automation India Ltd",
+    "wof:parent_id":85931173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "process",
+        "control",
+        "equipment"
+    ]
+},
+  "bbox": [77.555511,12.932187,77.555511,12.932187],
+  "geometry": {"coordinates":[77.555511,12.932187],"type":"Point"}
+}

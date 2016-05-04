@@ -1,0 +1,63 @@
+{
+  "id": 169527931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.912666,19.092699,72.912666,19.092699",
+    "geom:latitude":19.092699,
+    "geom:longitude":72.912666,
+    "iso:country":"IN",
+    "sg:address":"321-b, Bhaveshwar Arcade, L.b.s. Marg, Ghatkopar (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2500 4386",
+    "sg:postcode":"400086",
+    "sg:tags":[
+        "box"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931531,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vTHufvqHXzCv2qXVX7iEc_19.092699_72.912666@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7d4ff3bd88f0324f516b8793abef232d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931531,
+            "region_id":85672171,
+            "venue_id":169527931
+        }
+    ],
+    "wof:id":169527931,
+    "wof:lastmodified":1449035279,
+    "wof:name":"Chheda Packagers",
+    "wof:parent_id":85931531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "box"
+    ]
+},
+  "bbox": [72.912666,19.092699,72.912666,19.092699],
+  "geometry": {"coordinates":[72.912666,19.092699],"type":"Point"}
+}

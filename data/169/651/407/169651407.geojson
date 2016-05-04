@@ -1,0 +1,58 @@
+{
+  "id": 169651407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.629558,12.933242,77.629558,12.933242",
+    "geom:latitude":12.933242,
+    "geom:longitude":77.629558,
+    "iso:country":"IN",
+    "sg:address":"#57,11th Main,BTM Layout 1st Stage",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560029",
+    "sg:website":"http://www.iteanz.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931041,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_642ZG6LC2QemhjAXBp2leU_12.933242_77.629558@1308163241"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f9e7e24848ecf8ce51bf985afca52ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931041,
+            "region_id":85672165,
+            "venue_id":169651407
+        }
+    ],
+    "wof:id":169651407,
+    "wof:lastmodified":1449033347,
+    "wof:name":"itEANz Consultancy Services Pvt Ltd",
+    "wof:parent_id":85931041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.629558,12.933242,77.629558,12.933242],
+  "geometry": {"coordinates":[77.629558,12.933242],"type":"Point"}
+}

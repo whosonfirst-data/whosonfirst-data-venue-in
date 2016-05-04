@@ -1,0 +1,63 @@
+{
+  "id": 169622463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.243156,28.575699,77.243156,28.575699",
+    "geom:latitude":28.575699,
+    "geom:longitude":77.243156,
+    "iso:country":"IN",
+    "sg:address":"4, Krishna Market,",
+    "sg:city":"Amritsar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 183 255 1026",
+    "sg:postcode":"143001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927997,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IF28A5GZ2wzkPLAnZZci8_28.575699_77.243156@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"380a37dda852689801ecaf3c3fd464c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927997,
+            "region_id":85672123,
+            "venue_id":169622463
+        }
+    ],
+    "wof:id":169622463,
+    "wof:lastmodified":1449035367,
+    "wof:name":"Shri Harivansh Dyes And Chemicals",
+    "wof:parent_id":85927997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.243156,28.575699,77.243156,28.575699],
+  "geometry": {"coordinates":[77.243156,28.575699],"type":"Point"}
+}

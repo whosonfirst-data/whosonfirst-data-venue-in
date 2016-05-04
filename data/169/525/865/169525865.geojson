@@ -1,0 +1,75 @@
+{
+  "id": 169525865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.835533,19.170605,72.835533,19.170605",
+    "geom:latitude":19.170605,
+    "geom:longitude":72.835533,
+    "iso:country":"IN",
+    "sg:address":"270/2142, Motilal Nagar No. 1, Link Road, Goregoan-west,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2874 7748",
+    "sg:postcode":"400104",
+    "sg:tags":[
+        "air-compressing",
+        "air-separation"
+    ],
+    "sg:website":"www.sumanauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171,
+        85931619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FF3NYVE6kZNifntHQrXxd_19.170605_72.835533@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6f9230f40e6ff81561c73871defc2b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169525865
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931619,
+            "region_id":85672171,
+            "venue_id":169525865
+        }
+    ],
+    "wof:id":169525865,
+    "wof:lastmodified":1449035275,
+    "wof:name":"Technik Engineers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air-compressing",
+        "air-separation"
+    ]
+},
+  "bbox": [72.835533,19.170605,72.835533,19.170605],
+  "geometry": {"coordinates":[72.835533,19.170605],"type":"Point"}
+}

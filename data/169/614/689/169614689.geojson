@@ -1,0 +1,63 @@
+{
+  "id": 169614689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.184372,28.57143,77.184372,28.57143",
+    "geom:latitude":28.57143,
+    "geom:longitude":77.184372,
+    "iso:country":"IN",
+    "sg:address":"G-38, Palika Bhavan,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2610 9037",
+    "sg:postcode":"110060",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928651,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56CXWjLkL4x9GdKHTSEkg0_28.571430_77.184372@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"263823a37263ea486913b00bc77adfa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928651,
+            "region_id":85672123,
+            "venue_id":169614689
+        }
+    ],
+    "wof:id":169614689,
+    "wof:lastmodified":1449036061,
+    "wof:name":"Sai Engg.",
+    "wof:parent_id":85928651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.184372,28.57143,77.184372,28.57143],
+  "geometry": {"coordinates":[77.184372,28.57143],"type":"Point"}
+}

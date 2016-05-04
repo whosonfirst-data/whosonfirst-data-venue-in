@@ -1,0 +1,63 @@
+{
+  "id": 169526161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.818298,18.956848,72.818298,18.956848",
+    "geom:latitude":18.956848,
+    "geom:longitude":72.818298,
+    "iso:country":"IN",
+    "sg:address":"16, 1st Bhatwadi, Girgaum,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2385 3737",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "auto"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931435,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jJpKwoFeIADBUOS8B5zxS_18.956848_72.818298@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"64a6b94b9947d9389ef58113afb0105c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931435,
+            "region_id":85672171,
+            "venue_id":169526161
+        }
+    ],
+    "wof:id":169526161,
+    "wof:lastmodified":1449033699,
+    "wof:name":"Allied Spares & Auto Parts Mfg. Co. Pvt. Ltd.",
+    "wof:parent_id":85931435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto"
+    ]
+},
+  "bbox": [72.818298,18.956848,72.818298,18.956848],
+  "geometry": {"coordinates":[72.818298,18.956848],"type":"Point"}
+}

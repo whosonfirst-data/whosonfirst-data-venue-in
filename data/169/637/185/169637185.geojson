@@ -1,0 +1,64 @@
+{
+  "id": 169637185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.792572,18.641396,73.792572,18.641396",
+    "geom:latitude":18.641396,
+    "geom:longitude":73.792572,
+    "iso:country":"IN",
+    "sg:address":"103, G.i.d.c.",
+    "sg:city":"Pandesara",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"394221",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931299,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30Wp7lbwukRVpenOFyPvWq_18.641396_73.792572@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"49d77cfb9c8bcb45b44913c9d7830234",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931299,
+            "region_id":85672171,
+            "venue_id":169637185
+        }
+    ],
+    "wof:id":169637185,
+    "wof:lastmodified":1449032686,
+    "wof:name":"Tribeni Dyes",
+    "wof:parent_id":85931299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [73.792572,18.641396,73.792572,18.641396],
+  "geometry": {"coordinates":[73.792572,18.641396],"type":"Point"}
+}

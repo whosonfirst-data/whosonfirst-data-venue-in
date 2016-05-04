@@ -1,0 +1,68 @@
+{
+  "id": 169647749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.249519,28.545706,77.249519,28.545706",
+    "geom:latitude":28.545706,
+    "geom:longitude":77.249519,
+    "iso:country":"IN",
+    "sg:address":"11/8, Nehru Encalve (east), First Floor,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2621 8666",
+    "sg:postcode":"110019",
+    "sg:tags":[
+        "material",
+        "protection",
+        "corrosion"
+    ],
+    "sg:website":"http://www.zavenir.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928369,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Oj1bIq5KHq7ULIfa4Y2ix_28.545706_77.249519@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9123190aa89ad40790b840e30669f3be",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928369,
+            "region_id":85672123,
+            "venue_id":169647749
+        }
+    ],
+    "wof:id":169647749,
+    "wof:lastmodified":1449034239,
+    "wof:name":"Zavenir Daubert India Private Limited",
+    "wof:parent_id":85928369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material",
+        "protection",
+        "corrosion"
+    ]
+},
+  "bbox": [77.249519,28.545706,77.249519,28.545706],
+  "geometry": {"coordinates":[77.249519,28.545706],"type":"Point"}
+}

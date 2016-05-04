@@ -1,0 +1,54 @@
+{
+  "id": 169563219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.279366,13.086493,80.279366,13.086493",
+    "geom:latitude":13.086493,
+    "geom:longitude":80.279366,
+    "iso:country":"IN",
+    "sg:address":"West Perumalmaistry Street",
+    "sg:city":"Madurai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 452234211210",
+    "sg:postcode":"625001",
+    "sg:province":"Tamil Nadu",
+    "sg:website":"http://www.hotelparkplaza.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931765,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Yk1nQqgRSdSsHV7GQLyc6_13.086493_80.279366@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b935605ca07248124271369608d7d18d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931765,
+            "region_id":85672245,
+            "venue_id":169563219
+        }
+    ],
+    "wof:id":169563219,
+    "wof:lastmodified":1449032734,
+    "wof:name":"Hotel Park Plaza",
+    "wof:parent_id":85931765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.279366,13.086493,80.279366,13.086493],
+  "geometry": {"coordinates":[80.279366,13.086493],"type":"Point"}
+}

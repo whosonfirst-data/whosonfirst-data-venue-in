@@ -1,0 +1,63 @@
+{
+  "id": 169541003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.575668,12.96982,77.575668,12.96982",
+    "geom:latitude":12.96982,
+    "geom:longitude":77.575668,
+    "iso:country":"IN",
+    "sg:address":"# 10, Santhusapet, A.s. Char Street Cross, (behind D.c.plaza),",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2287 1679",
+    "sg:postcode":"560053",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TkA1Kh6e4ROVJhkZq7i15_12.969820_77.575668@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bb296c861105238865d42d9d3b597168",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169541003
+        }
+    ],
+    "wof:id":169541003,
+    "wof:lastmodified":1449033045,
+    "wof:name":"Sharada Exports",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.575668,12.96982,77.575668,12.96982],
+  "geometry": {"coordinates":[77.575668,12.96982],"type":"Point"}
+}

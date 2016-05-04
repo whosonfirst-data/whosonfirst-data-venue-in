@@ -1,0 +1,61 @@
+{
+  "id": 169634895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.277466,9.979193,76.277466,9.979193",
+    "geom:latitude":9.979193,
+    "geom:longitude":76.277466,
+    "iso:country":"IN",
+    "sg:address":"Cloth Basar Road, Ernakulam,",
+    "sg:city":"Ernakulam",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 484 236 8485",
+    "sg:postcode":"682031",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783505,
+        102030497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LdhfNebFFs0bYcYSM8DfC_9.979193_76.277466@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3ebb92dd714cde9382550ea11204dbd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030497,
+            "neighbourhood_id":85783505,
+            "region_id":-1,
+            "venue_id":169634895
+        }
+    ],
+    "wof:id":169634895,
+    "wof:lastmodified":1449034256,
+    "wof:name":"Teepees",
+    "wof:parent_id":85783505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [76.277466,9.979193,76.277466,9.979193],
+  "geometry": {"coordinates":[76.277466,9.979193],"type":"Point"}
+}

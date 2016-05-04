@@ -1,0 +1,72 @@
+{
+  "id": 169534489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831299,18.929146,72.831299,18.929146",
+    "geom:latitude":18.929146,
+    "geom:longitude":72.831299,
+    "iso:country":"IN",
+    "sg:address":"145, M.g. Road, Kalaghoda,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2267 1505",
+    "sg:postcode":"400023",
+    "sg:tags":[
+        "lighting",
+        "product",
+        "electrical",
+        "component",
+        "/"
+    ],
+    "sg:website":"http://www.kapoorlampshade.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931425,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p3MXkJW1P1vPbm1Oi8j0V_18.929146_72.831299@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f5160bc8ab085d20b81a1674721051e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931425,
+            "region_id":85672171,
+            "venue_id":169534489
+        }
+    ],
+    "wof:id":169534489,
+    "wof:lastmodified":1449033548,
+    "wof:name":"Kapoor Lamp Shade Co.",
+    "wof:parent_id":85931425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "product",
+        "electrical",
+        "component",
+        "/"
+    ]
+},
+  "bbox": [72.831299,18.929146,72.831299,18.929146],
+  "geometry": {"coordinates":[72.831299,18.929146],"type":"Point"}
+}

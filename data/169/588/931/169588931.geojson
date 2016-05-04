@@ -1,0 +1,64 @@
+{
+  "id": 169588931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.148682,28.68149,77.148682,28.68149",
+    "geom:latitude":28.68149,
+    "geom:longitude":77.148682,
+    "iso:country":"IN",
+    "sg:address":"B-41, Lawrence Road Industrial Area,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2718 0241",
+    "sg:postcode":"110035",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.merinoindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928159,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uYphfjdGX1VXShKJMu0G3_28.681490_77.148682@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"db50ad63b5488741391606980b19d91f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928159,
+            "region_id":85672123,
+            "venue_id":169588931
+        }
+    ],
+    "wof:id":169588931,
+    "wof:lastmodified":1449035311,
+    "wof:name":"Merino Panel Products Ltd.",
+    "wof:parent_id":85928159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.148682,28.68149,77.148682,28.68149],
+  "geometry": {"coordinates":[77.148682,28.68149],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 169652281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.228145,13.093037,80.228145,13.093037",
+    "geom:latitude":13.093037,
+    "geom:longitude":80.228145,
+    "iso:country":"IN",
+    "sg:address":"51/3, G.N Chetty Road, T.Nagar",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"600 017",
+    "sg:tags":[
+        "it-services--bpo-services",
+        "peoplesoft-services",
+        "oracle-ebs-services",
+        "travel-and-transportation-services",
+        "hospitality-services",
+        "logistics-services",
+        "sap-services",
+        "infrastructure-management-services",
+        "healthcare-services",
+        "akiva",
+        "mro-services",
+        "legacy-managemen"
+    ],
+    "sg:website":"http://www.hexaware.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903819,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2937y2W8rJELx2WYl8Rbz3_13.093037_80.228145@1308163241"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e2806b99336368ce0c1ad33e60ee3a3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903819,
+            "region_id":85672245,
+            "venue_id":169652281
+        }
+    ],
+    "wof:id":169652281,
+    "wof:lastmodified":1449034809,
+    "wof:name":"Hexaware Technologies",
+    "wof:parent_id":85903819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "it-services--bpo-services",
+        "peoplesoft-services",
+        "oracle-ebs-services",
+        "travel-and-transportation-services",
+        "hospitality-services",
+        "logistics-services",
+        "sap-services",
+        "infrastructure-management-services",
+        "healthcare-services",
+        "akiva",
+        "mro-services",
+        "legacy-managemen"
+    ]
+},
+  "bbox": [80.228145,13.093037,80.228145,13.093037],
+  "geometry": {"coordinates":[80.228145,13.093037],"type":"Point"}
+}

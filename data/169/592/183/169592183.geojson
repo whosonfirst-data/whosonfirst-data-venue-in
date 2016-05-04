@@ -1,0 +1,63 @@
+{
+  "id": 169592183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.2089,28.711416,77.2089,28.711416",
+    "geom:latitude":28.711416,
+    "geom:longitude":77.2089,
+    "iso:country":"IN",
+    "sg:address":"655, Dr. Mukherji Nagar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2760 2803",
+    "sg:postcode":"110009",
+    "sg:tags":[
+        "synthetic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928125,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EeCxTTEzlpCww3N6fu64F_28.711416_77.208900@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c83e6c57c241350931a9fdeed7f8fc2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928125,
+            "region_id":85672123,
+            "venue_id":169592183
+        }
+    ],
+    "wof:id":169592183,
+    "wof:lastmodified":1449034584,
+    "wof:name":"Narula International",
+    "wof:parent_id":85928125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "synthetic"
+    ]
+},
+  "bbox": [77.2089,28.711416,77.2089,28.711416],
+  "geometry": {"coordinates":[77.2089,28.711416],"type":"Point"}
+}

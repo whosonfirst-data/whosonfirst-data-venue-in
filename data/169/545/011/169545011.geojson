@@ -1,0 +1,65 @@
+{
+  "id": 169545011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.619026,12.872558,77.619026,12.872558",
+    "geom:latitude":12.872558,
+    "geom:longitude":77.619026,
+    "iso:country":"IN",
+    "sg:address":"No. 61, 5th Main, Begur Road, Bommanahalli,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2573 5768",
+    "sg:postcode":"560068",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930979,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Cis42fmNo8m3jYsTy7msp_12.872558_77.619026@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c7d23c5e7155a2d4c6d8fbbca9e4cc0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930979,
+            "region_id":85672165,
+            "venue_id":169545011
+        }
+    ],
+    "wof:id":169545011,
+    "wof:lastmodified":1449033486,
+    "wof:name":"Raju Garments",
+    "wof:parent_id":85930979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [77.619026,12.872558,77.619026,12.872558],
+  "geometry": {"coordinates":[77.619026,12.872558],"type":"Point"}
+}

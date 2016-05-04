@@ -1,0 +1,71 @@
+{
+  "id": 169537297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.334938,28.587997,77.334938,28.587997",
+    "geom:latitude":28.587997,
+    "geom:longitude":77.334938,
+    "iso:country":"IN",
+    "sg:address":"No. 16, A.h. Halli, Industrial Town Extension,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2340 3106",
+    "sg:postcode":"560079",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928405,
+        85632469,
+        102031133,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dUYtlc1usZNXyU0dXYdiK_28.587997_77.334938@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"994bd838bbfd3c8191543f49425adcf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031133,
+            "neighbourhood_id":85928405,
+            "region_id":85672205,
+            "venue_id":169537297
+        }
+    ],
+    "wof:id":169537297,
+    "wof:lastmodified":1449033499,
+    "wof:name":"Bhuvaneswari Engineering Enterprises",
+    "wof:parent_id":85928405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.334938,28.587997,77.334938,28.587997],
+  "geometry": {"coordinates":[77.334938,28.587997],"type":"Point"}
+}

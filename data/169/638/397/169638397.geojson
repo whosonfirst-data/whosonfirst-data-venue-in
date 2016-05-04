@@ -1,0 +1,67 @@
+{
+  "id": 169638397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.172165,13.085525,80.172165,13.085525",
+    "geom:latitude":13.085525,
+    "geom:longitude":80.172165,
+    "iso:country":"IN",
+    "sg:address":"10/958, Mogappair East,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2656 0696",
+    "sg:postcode":"600050",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927699,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02fMtUMrj203veGbizM0xi_13.085525_80.172165@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6949f9e69801a63e3ef23b92227deb88",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85927699,
+            "region_id":85672245,
+            "venue_id":169638397
+        }
+    ],
+    "wof:id":169638397,
+    "wof:lastmodified":1449032867,
+    "wof:name":"Uma Engineering Enterprises",
+    "wof:parent_id":85927699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [80.172165,13.085525,80.172165,13.085525],
+  "geometry": {"coordinates":[80.172165,13.085525],"type":"Point"}
+}

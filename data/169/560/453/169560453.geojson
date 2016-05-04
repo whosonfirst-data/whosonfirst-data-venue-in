@@ -1,0 +1,53 @@
+{
+  "id": 169560453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.233688,28.650366,77.233688,28.650366",
+    "geom:latitude":28.650366,
+    "geom:longitude":77.233688,
+    "iso:country":"IN",
+    "sg:address":"Jama Masjid",
+    "sg:city":"Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 113278315",
+    "sg:postcode":"110006",
+    "sg:province":"Delhi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928091,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MGUp5wZRGdGNDJQQXeIAs_28.650366_77.233688@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"70c858b47973ca3c9433b78232cfac37",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928091,
+            "region_id":85672123,
+            "venue_id":169560453
+        }
+    ],
+    "wof:id":169560453,
+    "wof:lastmodified":1449035181,
+    "wof:name":"Crown Dentals",
+    "wof:parent_id":85928091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.233688,28.650366,77.233688,28.650366],
+  "geometry": {"coordinates":[77.233688,28.650366],"type":"Point"}
+}

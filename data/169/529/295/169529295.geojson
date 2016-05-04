@@ -1,0 +1,65 @@
+{
+  "id": 169529295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.941757,19.166586,72.941757,19.166586",
+    "geom:latitude":19.166586,
+    "geom:longitude":72.941757,
+    "iso:country":"IN",
+    "sg:address":"15-e, Minerva Industrial Estate, Mulund (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Army Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5634 8083",
+    "sg:postcode":"400009",
+    "sg:tags":[
+        "sand",
+        "cement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931655,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ffcfwutcQ7xggxSAQC6tO_19.166586_72.941757@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d4511d4437f265fe1b135c10b6f97cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931655,
+            "region_id":85672171,
+            "venue_id":169529295
+        }
+    ],
+    "wof:id":169529295,
+    "wof:lastmodified":1449034114,
+    "wof:name":"Sunder Distributors Pvt. Ltd.",
+    "wof:parent_id":85931655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sand",
+        "cement"
+    ]
+},
+  "bbox": [72.941757,19.166586,72.941757,19.166586],
+  "geometry": {"coordinates":[72.941757,19.166586],"type":"Point"}
+}

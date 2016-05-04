@@ -1,0 +1,61 @@
+{
+  "id": 169622635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.112946,15.352315,75.112946,15.352315",
+    "geom:latitude":15.352315,
+    "geom:longitude":75.112946,
+    "iso:country":"IN",
+    "sg:address":"38, Anand Indl. Estate,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 657 2001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030067,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dCCot0aklWJKiOr45rCv8_15.352315_75.112946@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2ddf4e86d62676d19c58b5befc58b365",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030067,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169622635
+        }
+    ],
+    "wof:id":169622635,
+    "wof:lastmodified":1449035365,
+    "wof:name":"Shri Ganesh Chem. Fab.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.112946,15.352315,75.112946,15.352315],
+  "geometry": {"coordinates":[75.112946,15.352315],"type":"Point"}
+}

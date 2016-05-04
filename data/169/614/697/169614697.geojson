@@ -1,0 +1,63 @@
+{
+  "id": 169614697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.350288,22.580135,88.350288,22.580135",
+    "geom:latitude":22.580135,
+    "geom:longitude":88.350288,
+    "iso:country":"IN",
+    "sg:address":"14, Netaji Subhas Road, 1st Floor,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2231 5360",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903957,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WoPGTsqYKX6eCkK2q3up4_22.580135_88.350288@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8628dbf1c4915d08e6ce9b652257faa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903957,
+            "region_id":85672219,
+            "venue_id":169614697
+        }
+    ],
+    "wof:id":169614697,
+    "wof:lastmodified":1449036059,
+    "wof:name":"Sai Enterprises",
+    "wof:parent_id":85903957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.350288,22.580135,88.350288,22.580135],
+  "geometry": {"coordinates":[88.350288,22.580135],"type":"Point"}
+}

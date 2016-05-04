@@ -1,0 +1,65 @@
+{
+  "id": 169535059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.870338,19.119003,72.870338,19.119003",
+    "geom:latitude":19.119003,
+    "geom:longitude":72.870338,
+    "iso:country":"IN",
+    "sg:address":"Plot No. F-7 & 8, Midc, Area, Opp. Seepz, Andheri East,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2823 6859",
+    "sg:postcode":"400093",
+    "sg:tags":[
+        "equipment",
+        "electronic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BbhuC7IcpyZwir1gyqrsS_19.119003_72.870338@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"51b520af1294c4353cec14f6f3627704",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169535059
+        }
+    ],
+    "wof:id":169535059,
+    "wof:lastmodified":1449033285,
+    "wof:name":"Electronic Regional Test Laboratory",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electronic"
+    ]
+},
+  "bbox": [72.870338,19.119003,72.870338,19.119003],
+  "geometry": {"coordinates":[72.870338,19.119003],"type":"Point"}
+}

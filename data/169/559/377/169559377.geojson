@@ -1,0 +1,64 @@
+{
+  "id": 169559377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.234711,28.662123,77.234711,28.662123",
+    "geom:latitude":28.662123,
+    "geom:longitude":77.234711,
+    "iso:country":"IN",
+    "sg:address":"23-a, Netaji Subhash Road, 1st Floor, Room No 26,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2463 2891",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "wax"
+    ],
+    "sg:website":"http://www.chowdharyudyog.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928195,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gbrue8SQFjTdVI6LT1iWk_28.662123_77.234711@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8e68c28f7c368ccb2c7f7e96df444f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928195,
+            "region_id":85672123,
+            "venue_id":169559377
+        }
+    ],
+    "wof:id":169559377,
+    "wof:lastmodified":1449035236,
+    "wof:name":"Chowdhary Udyog",
+    "wof:parent_id":85928195,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [77.234711,28.662123,77.234711,28.662123],
+  "geometry": {"coordinates":[77.234711,28.662123],"type":"Point"}
+}

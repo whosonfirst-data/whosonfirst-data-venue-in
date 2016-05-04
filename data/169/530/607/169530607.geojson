@@ -1,0 +1,65 @@
+{
+  "id": 169530607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.928993,19.145632,72.928993,19.145632",
+    "geom:latitude":19.145632,
+    "geom:longitude":72.928993,
+    "iso:country":"IN",
+    "sg:address":"J. M. Road, Bhandup (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2594 6031",
+    "sg:postcode":"400078",
+    "sg:tags":[
+        "construction",
+        "machinery"
+    ],
+    "sg:website":"http://www.indiamart.com/almeidabrothers/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ndQcymrx7uOEElY7Zpufv_19.145632_72.928993@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ac2abdd66ab98106e50a73afcbd11405",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169530607
+        }
+    ],
+    "wof:id":169530607,
+    "wof:lastmodified":1449034443,
+    "wof:name":"Almeida Brothers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction",
+        "machinery"
+    ]
+},
+  "bbox": [72.928993,19.145632,72.928993,19.145632],
+  "geometry": {"coordinates":[72.928993,19.145632],"type":"Point"}
+}

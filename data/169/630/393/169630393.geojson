@@ -1,0 +1,63 @@
+{
+  "id": 169630393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.135574,28.631302,77.135574,28.631302",
+    "geom:latitude":28.631302,
+    "geom:longitude":77.135574,
+    "iso:country":"IN",
+    "sg:address":"Naraina Industrial Area, Phase-i, A-67,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4141 1288",
+    "sg:postcode":"110028",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927871,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71UOoY0EhULqf7I3WTXWu5_28.631302_77.135574@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f9e11ad24ee23d64bebf00369f9b128e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927871,
+            "region_id":85672123,
+            "venue_id":169630393
+        }
+    ],
+    "wof:id":169630393,
+    "wof:lastmodified":1449033869,
+    "wof:name":"Sun Chemicals",
+    "wof:parent_id":85927871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.135574,28.631302,77.135574,28.631302],
+  "geometry": {"coordinates":[77.135574,28.631302],"type":"Point"}
+}

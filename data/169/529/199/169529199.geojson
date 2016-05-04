@@ -1,0 +1,70 @@
+{
+  "id": 169529199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.889168,19.115517,72.889168,19.115517",
+    "geom:latitude":19.115517,
+    "geom:longitude":72.889168,
+    "iso:country":"IN",
+    "sg:address":"35, Chandivali Village, Off. Saki Vihar Road, Andheri (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2847 5036",
+    "sg:postcode":"400072",
+    "sg:tags":[
+        "equipment",
+        "cctv",
+        "system",
+        "surveillance"
+    ],
+    "sg:website":"http://www.vijaysabre.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931519,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OACqEFwcEcGyMObXVYONr_19.115517_72.889168@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3884e1bcfefd9fed938bcc92744e1ec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931519,
+            "region_id":85672171,
+            "venue_id":169529199
+        }
+    ],
+    "wof:id":169529199,
+    "wof:lastmodified":1449034112,
+    "wof:name":"Vijay Sabre Safety Ltd.",
+    "wof:parent_id":85931519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "cctv",
+        "system",
+        "surveillance"
+    ]
+},
+  "bbox": [72.889168,19.115517,72.889168,19.115517],
+  "geometry": {"coordinates":[72.889168,19.115517],"type":"Point"}
+}

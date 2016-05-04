@@ -1,0 +1,66 @@
+{
+  "id": 169550139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.172523,13.083349,80.172523,13.083349",
+    "geom:latitude":13.083349,
+    "geom:longitude":80.172523,
+    "iso:country":"IN",
+    "sg:address":"Plot No.297/1, G.i.d.c. Industrial Estate,",
+    "sg:city":"Umbergaon",
+    "sg:classifiers":[
+        {
+            "category":"Metro Station",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 260 256 2230",
+    "sg:postcode":"396171",
+    "sg:tags":[
+        "tube",
+        "fitting"
+    ],
+    "sg:website":"http://www.hirenmetal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927699,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bOuL8cTGv9tPAt6muPoXg_13.083349_80.172523@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e5bfe298dd9d26cd57d2f7fdb5c61549",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85927699,
+            "region_id":85672245,
+            "venue_id":169550139
+        }
+    ],
+    "wof:id":169550139,
+    "wof:lastmodified":1449034475,
+    "wof:name":"Hiren Metal Industries",
+    "wof:parent_id":85927699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tube",
+        "fitting"
+    ]
+},
+  "bbox": [80.172523,13.083349,80.172523,13.083349],
+  "geometry": {"coordinates":[80.172523,13.083349],"type":"Point"}
+}

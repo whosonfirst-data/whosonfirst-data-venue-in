@@ -1,0 +1,69 @@
+{
+  "id": 169526435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.948029,19.183004,72.948029,19.183004",
+    "geom:latitude":19.183004,
+    "geom:longitude":72.948029,
+    "iso:country":"IN",
+    "sg:address":"S-304, L.b.s.marg, Mulund (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2564 4111",
+    "sg:postcode":"400080",
+    "sg:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931655,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Fiy60aLtn28YaDvdLNAja_19.183004_72.948029@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b1ae9450cd74a929d5b95eaf4897901f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931655,
+            "region_id":85672171,
+            "venue_id":169526435
+        }
+    ],
+    "wof:id":169526435,
+    "wof:lastmodified":1449033702,
+    "wof:name":"Gabriel India Ltd.",
+    "wof:parent_id":85931655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ]
+},
+  "bbox": [72.948029,19.183004,72.948029,19.183004],
+  "geometry": {"coordinates":[72.948029,19.183004],"type":"Point"}
+}

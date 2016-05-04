@@ -1,0 +1,63 @@
+{
+  "id": 169585997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.496849,22.727879,88.496849,22.727879",
+    "geom:latitude":22.727879,
+    "geom:longitude":88.496849,
+    "iso:country":"IN",
+    "sg:address":"10, Gopal Chamber,",
+    "sg:city":"Kanpur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 512 235 4263",
+    "sg:postcode":"208001",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.sigma-lights.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zIjQ9wWCMrWDQx3Nl7n4w_22.727879_88.496849@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ddbd3ff04d67aaf0b80bee35b5c5b908",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":-1,
+            "region_id":85672219,
+            "venue_id":169585997
+        }
+    ],
+    "wof:id":169585997,
+    "wof:lastmodified":1449034887,
+    "wof:name":"Magna Corpro Chems India Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.496849,22.727879,88.496849,22.727879],
+  "geometry": {"coordinates":[88.496849,22.727879],"type":"Point"}
+}

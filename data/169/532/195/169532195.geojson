@@ -1,0 +1,64 @@
+{
+  "id": 169532195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.824821,18.942928,72.824821,18.942928",
+    "geom:latitude":18.942928,
+    "geom:longitude":72.824821,
+    "iso:country":"IN",
+    "sg:address":"89, Avanti G Road, 5th Floor #3,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2281 5722",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eJ7QrqlzZeGDQrFwWqi1k_18.942928_72.824821@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0422ac9e0c5f436fd80a161a458d0bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903889,
+            "region_id":85672171,
+            "venue_id":169532195
+        }
+    ],
+    "wof:id":169532195,
+    "wof:lastmodified":1449033797,
+    "wof:name":"Srimal International",
+    "wof:parent_id":85903889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.824821,18.942928,72.824821,18.942928],
+  "geometry": {"coordinates":[72.824821,18.942928],"type":"Point"}
+}

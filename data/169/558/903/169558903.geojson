@@ -1,0 +1,63 @@
+{
+  "id": 169558903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.582558,12.965874,77.582558,12.965874",
+    "geom:latitude":12.965874,
+    "geom:longitude":77.582558,
+    "iso:country":"IN",
+    "sg:address":"528/1, Otc Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2552 3575",
+    "sg:postcode":"560053",
+    "sg:tags":[
+        "acid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dWsEreyXGCtUPeT8ZQMbJ_12.965874_77.582558@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"51cee3f1f27f6394396c94e1dcd56fe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169558903
+        }
+    ],
+    "wof:id":169558903,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Centillium",
+    "wof:parent_id":85930903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [77.582558,12.965874,77.582558,12.965874],
+  "geometry": {"coordinates":[77.582558,12.965874],"type":"Point"}
+}

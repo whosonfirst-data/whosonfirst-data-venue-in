@@ -1,0 +1,63 @@
+{
+  "id": 169626521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.638351,12.337486,76.638351,12.337486",
+    "geom:latitude":12.337486,
+    "geom:longitude":76.638351,
+    "iso:country":"IN",
+    "sg:address":"C-143, Industrial Estate, Yadavagiri,",
+    "sg:city":"Mysore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 821 251 5455",
+    "sg:postcode":"570020",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903989,
+        85632469,
+        102029303,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07FOATvyHTB9PToF10XvIH_12.337486_76.638351@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"255771833c9e78ff1d0da2d42f7ce51f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029303,
+            "neighbourhood_id":85903989,
+            "region_id":85672165,
+            "venue_id":169626521
+        }
+    ],
+    "wof:id":169626521,
+    "wof:lastmodified":1449035971,
+    "wof:name":"Spectrocolors",
+    "wof:parent_id":85903989,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [76.638351,12.337486,76.638351,12.337486],
+  "geometry": {"coordinates":[76.638351,12.337486],"type":"Point"}
+}

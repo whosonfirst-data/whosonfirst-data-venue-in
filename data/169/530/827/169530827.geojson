@@ -1,0 +1,67 @@
+{
+  "id": 169530827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.83181,18.946951,72.83181,18.946951",
+    "geom:latitude":18.946951,
+    "geom:longitude":72.83181,
+    "iso:country":"IN",
+    "sg:address":"158, K.m. Sharma Marg, Lohar Chawl,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Light Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2208 7249",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "control",
+        "board",
+        "panel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_225mTLHW1wYx5U9Bsbj6c1_18.946951_72.831810@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c7c3b2baa8fdc6a3007e6696587cc807",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169530827
+        }
+    ],
+    "wof:id":169530827,
+    "wof:lastmodified":1449034443,
+    "wof:name":"D. J. Enterprise",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "board",
+        "panel"
+    ]
+},
+  "bbox": [72.83181,18.946951,72.83181,18.946951],
+  "geometry": {"coordinates":[72.83181,18.946951],"type":"Point"}
+}

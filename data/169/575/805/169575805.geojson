@@ -1,0 +1,62 @@
+{
+  "id": 169575805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.376945,28.680077,77.376945,28.680077",
+    "geom:latitude":28.680077,
+    "geom:longitude":77.376945,
+    "iso:country":"IN",
+    "sg:address":"240, Rajender Nagar, Industrial Area, P.o. Mohan Nagar,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 287 2353",
+    "sg:postcode":"201007",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Vg3QaEykLS0FpXh174Av1_28.680077_77.376945@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"05b1c5a0c14f7ac7c1fe4ba4ffd0f2ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169575805
+        }
+    ],
+    "wof:id":169575805,
+    "wof:lastmodified":1449033641,
+    "wof:name":"Balbir Engineers & Fabricators",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.376945,28.680077,77.376945,28.680077],
+  "geometry": {"coordinates":[77.376945,28.680077],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169577081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.18502,13.084868,80.18502,13.084868",
+    "geom:latitude":13.084868,
+    "geom:longitude":80.18502,
+    "iso:country":"IN",
+    "sg:address":"1518 A, T.s. Krishna Nagar, Mogappair,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2656 0088",
+    "sg:postcode":"600037",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931815,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GLlHw1TYa4MfTfV6udsOE_13.084868_80.185020@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"356d8bf3f92e76c14935118ed4f49aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931815,
+            "region_id":85672245,
+            "venue_id":169577081
+        }
+    ],
+    "wof:id":169577081,
+    "wof:lastmodified":1449036065,
+    "wof:name":"Galaxeetech",
+    "wof:parent_id":85931815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [80.18502,13.084868,80.18502,13.084868],
+  "geometry": {"coordinates":[80.18502,13.084868],"type":"Point"}
+}

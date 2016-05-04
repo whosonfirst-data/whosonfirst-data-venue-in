@@ -1,0 +1,65 @@
+{
+  "id": 169552073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.187576,22.306549,73.187576,22.306549",
+    "geom:latitude":22.306549,
+    "geom:longitude":73.187576,
+    "iso:country":"IN",
+    "sg:address":"Baroda Bone Mill Compound, Opp. Zenith High School, Dabhoi Road, Pratapnagar,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 258 0370",
+    "sg:postcode":"390004",
+    "sg:tags":[
+        "mould",
+        "dy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933515,
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xBxWUJgmqd5qZubIVDhT6_22.306549_73.187576@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b9b3eb255c37c95ffb25ba236766483c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":85933515,
+            "region_id":85672249,
+            "venue_id":169552073
+        }
+    ],
+    "wof:id":169552073,
+    "wof:lastmodified":1449034052,
+    "wof:name":"Prashant Dies & Tools",
+    "wof:parent_id":85933515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mould",
+        "dy"
+    ]
+},
+  "bbox": [73.187576,22.306549,73.187576,22.306549],
+  "geometry": {"coordinates":[73.187576,22.306549],"type":"Point"}
+}

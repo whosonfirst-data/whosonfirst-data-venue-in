@@ -1,0 +1,65 @@
+{
+  "id": 169546033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.624222,13.019795,77.624222,13.019795",
+    "geom:latitude":13.019795,
+    "geom:longitude":77.624222,
+    "iso:country":"IN",
+    "sg:address":"# 2, Venkateshapuram, 4th Street, P.n. Road,",
+    "sg:city":"Tiruppur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 224 2296",
+    "sg:postcode":"641602",
+    "sg:tags":[
+        "knitted",
+        "knitwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930863,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ad2nDIGCQwD8S3cyILI12_13.019795_77.624222@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a89ab4bef75fdf4b5e9f94f760718bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930863,
+            "region_id":85672165,
+            "venue_id":169546033
+        }
+    ],
+    "wof:id":169546033,
+    "wof:lastmodified":1449032679,
+    "wof:name":"Divya Impexs",
+    "wof:parent_id":85930863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitted",
+        "knitwear"
+    ]
+},
+  "bbox": [77.624222,13.019795,77.624222,13.019795],
+  "geometry": {"coordinates":[77.624222,13.019795],"type":"Point"}
+}

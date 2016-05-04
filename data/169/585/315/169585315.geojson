@@ -1,0 +1,63 @@
+{
+  "id": 169585315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.158218,28.70295,77.158218,28.70295",
+    "geom:latitude":28.70295,
+    "geom:longitude":77.158218,
+    "iso:country":"IN",
+    "sg:address":"412-a, City Centre, 570, M.g.road,",
+    "sg:city":"Indore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 731 253 5587",
+    "sg:postcode":"452008",
+    "sg:tags":[
+        "dye"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928079,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l18tKUlOTzcDc6WycciLE_28.702950_77.158218@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5110be8e00181e94a098347ce9b231a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928079,
+            "region_id":85672123,
+            "venue_id":169585315
+        }
+    ],
+    "wof:id":169585315,
+    "wof:lastmodified":1449034887,
+    "wof:name":"M. N. Capital Pvt. Ltd.",
+    "wof:parent_id":85928079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye"
+    ]
+},
+  "bbox": [77.158218,28.70295,77.158218,28.70295],
+  "geometry": {"coordinates":[77.158218,28.70295],"type":"Point"}
+}

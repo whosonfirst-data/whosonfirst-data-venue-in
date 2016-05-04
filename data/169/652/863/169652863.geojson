@@ -1,0 +1,58 @@
+{
+  "id": 169652863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.228556,13.065093,80.228556,13.065093",
+    "geom:latitude":13.065093,
+    "geom:longitude":80.228556,
+    "iso:country":"IN",
+    "sg:address":"#29/16, 2nd Street  Shakthi Nagar, Kodambakkam,",
+    "sg:city":"Chennai (Tamilnadu)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"24",
+    "sg:website":"http://www.webmindtree.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931747,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6S8qpDo5riTfRU9f2e6Y22_13.065093_80.228556@1308163238"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c0e8cf4e02a87a8fc5bcf2c960e8711e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931747,
+            "region_id":85672245,
+            "venue_id":169652863
+        }
+    ],
+    "wof:id":169652863,
+    "wof:lastmodified":1449034809,
+    "wof:name":"WebMindtree",
+    "wof:parent_id":85931747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.228556,13.065093,80.228556,13.065093],
+  "geometry": {"coordinates":[80.228556,13.065093],"type":"Point"}
+}

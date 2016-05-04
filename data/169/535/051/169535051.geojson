@@ -1,0 +1,67 @@
+{
+  "id": 169535051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.828903,18.938452,72.828903,18.938452",
+    "geom:latitude":18.938452,
+    "geom:longitude":72.828903,
+    "iso:country":"IN",
+    "sg:address":"Court Chambers, No 4-b-1, New Marine Lines, No 35,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2200 3791",
+    "sg:postcode":"400020",
+    "sg:tags":[
+        "component",
+        "product",
+        "electronic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931457,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d49s5HlRevYqkpeZElrxY_18.938452_72.828903@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"abcb4025dd68d57655d2db79e6a08233",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931457,
+            "region_id":85672171,
+            "venue_id":169535051
+        }
+    ],
+    "wof:id":169535051,
+    "wof:lastmodified":1449033286,
+    "wof:name":"Triveenus Impex & Trading Pvt. Ltd.",
+    "wof:parent_id":85931457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "product",
+        "electronic"
+    ]
+},
+  "bbox": [72.828903,18.938452,72.828903,18.938452],
+  "geometry": {"coordinates":[72.828903,18.938452],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169576161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.231407,28.65027,77.231407,28.65027",
+    "geom:latitude":28.65027,
+    "geom:longitude":77.231407,
+    "iso:country":"IN",
+    "sg:address":"Basti Nau,",
+    "sg:city":"Jalandhar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 181 225 3639",
+    "sg:postcode":"144001",
+    "sg:tags":[
+        "transmission",
+        "belting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928091,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wo3QtKXkwoicFd0o74LnL_28.650270_77.231407@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ab382da73e0794f54cfa541c2afe898c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928091,
+            "region_id":85672123,
+            "venue_id":169576161
+        }
+    ],
+    "wof:id":169576161,
+    "wof:lastmodified":1449035197,
+    "wof:name":"Bharat Electrical & Rubber Industries",
+    "wof:parent_id":85928091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "belting"
+    ]
+},
+  "bbox": [77.231407,28.65027,77.231407,28.65027],
+  "geometry": {"coordinates":[77.231407,28.65027],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169585667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.242409,28.642303,77.242409,28.642303",
+    "geom:latitude":28.642303,
+    "geom:longitude":77.242409,
+    "iso:country":"IN",
+    "sg:address":"4772/23, 2nd Floor, Bharat Ram Road, Darya Ganj,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 3252 6618",
+    "sg:postcode":"110002",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903843,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V3ahYLfeRBaWgdG6E9VUh_28.642303_77.242409@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"74d668cc6f0cdf5b94027255fec1304b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85903843,
+            "region_id":85672123,
+            "venue_id":169585667
+        }
+    ],
+    "wof:id":169585667,
+    "wof:lastmodified":1449034887,
+    "wof:name":"Madhur Sales Corporation",
+    "wof:parent_id":85903843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [77.242409,28.642303,77.242409,28.642303],
+  "geometry": {"coordinates":[77.242409,28.642303],"type":"Point"}
+}

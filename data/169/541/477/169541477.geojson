@@ -1,0 +1,64 @@
+{
+  "id": 169541477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.571442,12.92153,77.571442,12.92153",
+    "geom:latitude":12.92153,
+    "geom:longitude":77.571442,
+    "iso:country":"IN",
+    "sg:address":"No. 24-25, 27th Cross, Bsk, Iii Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 3091 1022",
+    "sg:postcode":"560070",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"http://www.maxxan.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930845,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UJmVOxk5ezI89GwSYCdnU_12.921530_77.571442@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"654cdca40add30a547094eb8e724c10c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930845,
+            "region_id":85672165,
+            "venue_id":169541477
+        }
+    ],
+    "wof:id":169541477,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Maxxan Storage System Pvt. Ltd.",
+    "wof:parent_id":85930845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.571442,12.92153,77.571442,12.92153],
+  "geometry": {"coordinates":[77.571442,12.92153],"type":"Point"}
+}

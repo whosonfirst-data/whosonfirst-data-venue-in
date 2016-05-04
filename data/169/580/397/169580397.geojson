@@ -1,0 +1,62 @@
+{
+  "id": 169580397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"81.807854,25.462484,81.807854,25.462484",
+    "geom:latitude":25.462484,
+    "geom:longitude":81.807854,
+    "iso:country":"IN",
+    "sg:address":"C-5/42, Lawrence Road,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2719 3224",
+    "sg:postcode":"110035",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.jvmindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_319ovlksmw7VD0PjKpnY5V_25.462484_81.807854@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0c3a1f4a7d00e7a44d9f5d5eb31f8917",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169580397
+        }
+    ],
+    "wof:id":169580397,
+    "wof:lastmodified":1449034916,
+    "wof:name":"J. V. M. Plastchems Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [81.807854,25.462484,81.807854,25.462484],
+  "geometry": {"coordinates":[81.807854,25.462484],"type":"Point"}
+}

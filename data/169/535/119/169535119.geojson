@@ -1,0 +1,65 @@
+{
+  "id": 169535119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.926804,19.11108,72.926804,19.11108",
+    "geom:latitude":19.11108,
+    "geom:longitude":72.926804,
+    "iso:country":"IN",
+    "sg:address":"B/1013, Station Plaza, Station Road, Bhandup West,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2560 7465",
+    "sg:postcode":"400078",
+    "sg:tags":[
+        "embroiders",
+        "embroidery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931627,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m9u55anCIDW6pSAGzRM02_19.111080_72.926804@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4f1d85d1debd1b12f09fbb79d5e22805",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931627,
+            "region_id":85672171,
+            "venue_id":169535119
+        }
+    ],
+    "wof:id":169535119,
+    "wof:lastmodified":1449033285,
+    "wof:name":"Chrispal Shipping Co. Pvt. Ltd.",
+    "wof:parent_id":85931627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "embroiders",
+        "embroidery"
+    ]
+},
+  "bbox": [72.926804,19.11108,72.926804,19.11108],
+  "geometry": {"coordinates":[72.926804,19.11108],"type":"Point"}
+}

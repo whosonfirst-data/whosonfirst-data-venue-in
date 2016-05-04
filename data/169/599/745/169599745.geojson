@@ -1,0 +1,63 @@
+{
+  "id": 169599745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.167206,28.700258,77.167206,28.700258",
+    "geom:latitude":28.700258,
+    "geom:longitude":77.167206,
+    "iso:country":"IN",
+    "sg:address":"C-6, Wazirpur Industrial Aera,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2737 1464",
+    "sg:postcode":"110052",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928079,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J0UOjlV9OAMGIuVsxHxs8_28.700258_77.167206@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"25ee2f93c9cfb8ab1fe4a3d93533e016",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928079,
+            "region_id":85672123,
+            "venue_id":169599745
+        }
+    ],
+    "wof:id":169599745,
+    "wof:lastmodified":1449034210,
+    "wof:name":"Pawan & Co.",
+    "wof:parent_id":85928079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [77.167206,28.700258,77.167206,28.700258],
+  "geometry": {"coordinates":[77.167206,28.700258],"type":"Point"}
+}

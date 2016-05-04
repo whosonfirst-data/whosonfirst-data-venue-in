@@ -1,0 +1,54 @@
+{
+  "id": 169565505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.583435,12.931346,77.583435,12.931346",
+    "geom:latitude":12.931346,
+    "geom:longitude":77.583435,
+    "iso:country":"IN",
+    "sg:address":"3rd Block, Jayanagar",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 806655165",
+    "sg:postcode":"560011",
+    "sg:province":"Karnataka",
+    "sg:website":"http://www.sysarris.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930887,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gVGHT6dN00npQmHuXgLBn_12.931346_77.583435@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"433868c4b0b90c640346bdca24a2597e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930887,
+            "region_id":85672165,
+            "venue_id":169565505
+        }
+    ],
+    "wof:id":169565505,
+    "wof:lastmodified":1449035665,
+    "wof:name":"Sysarris Software Pvt Ltd",
+    "wof:parent_id":85930887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.583435,12.931346,77.583435,12.931346],
+  "geometry": {"coordinates":[77.583435,12.931346],"type":"Point"}
+}

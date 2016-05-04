@@ -1,0 +1,62 @@
+{
+  "id": 169559583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.388313,28.673702,77.388313,28.673702",
+    "geom:latitude":28.673702,
+    "geom:longitude":77.388313,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 121, Anand Industrial Estate, Mohan Nagar,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 320 3018",
+    "sg:tags":[
+        "dyestuff"
+    ],
+    "sg:website":"http://www.colourtex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OcWZ2GPtapsKrIytFUtfZ_28.673702_77.388313@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a7abde10b94d473fdcc72bb13be038b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169559583
+        }
+    ],
+    "wof:id":169559583,
+    "wof:lastmodified":1449035239,
+    "wof:name":"Colourtex Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dyestuff"
+    ]
+},
+  "bbox": [77.388313,28.673702,77.388313,28.673702],
+  "geometry": {"coordinates":[77.388313,28.673702],"type":"Point"}
+}

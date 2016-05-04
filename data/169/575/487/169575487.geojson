@@ -1,0 +1,63 @@
+{
+  "id": 169575487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.948051,11.006721,76.948051,11.006721",
+    "geom:latitude":11.006721,
+    "geom:longitude":76.948051,
+    "iso:country":"IN",
+    "sg:address":"26, Thilagar Street, R.s. Puram,",
+    "sg:city":"Coimbatore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 422 255 0257",
+    "sg:postcode":"641002",
+    "sg:tags":[
+        "chemical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783699,
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zGwbfHNJSM9LKHzVLLBuP_11.006721_76.948051@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"18ca3198aade02808988764a3e069498",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":85783699,
+            "region_id":85672245,
+            "venue_id":169575487
+        }
+    ],
+    "wof:id":169575487,
+    "wof:lastmodified":1449033641,
+    "wof:name":"B. H. Shah & Sons",
+    "wof:parent_id":85783699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical"
+    ]
+},
+  "bbox": [76.948051,11.006721,76.948051,11.006721],
+  "geometry": {"coordinates":[76.948051,11.006721],"type":"Point"}
+}

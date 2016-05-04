@@ -1,0 +1,58 @@
+{
+  "id": 169536277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.854233,19.166391,72.854233,19.166391",
+    "geom:latitude":19.166391,
+    "geom:longitude":72.854233,
+    "iso:country":"IN",
+    "sg:address":"31, Sahyadri, Aarey Road, Goregaon (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2686 0417",
+    "sg:postcode":"400063",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931525,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_029kae67BtuPsV6pAeC00u_19.166391_72.854233@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"89cf6dcf6fbb47ea2c030f41574a938f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931525,
+            "region_id":85672171,
+            "venue_id":169536277
+        }
+    ],
+    "wof:id":169536277,
+    "wof:lastmodified":1449034656,
+    "wof:name":"Indutex Industrial Fabrics P. Ltd.",
+    "wof:parent_id":85931525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.854233,19.166391,72.854233,19.166391],
+  "geometry": {"coordinates":[72.854233,19.166391],"type":"Point"}
+}

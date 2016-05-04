@@ -1,0 +1,63 @@
+{
+  "id": 169582183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.869354,19.240717,72.869354,19.240717",
+    "geom:latitude":19.240717,
+    "geom:longitude":72.869354,
+    "iso:country":"IN",
+    "sg:address":"F-3, Aradhana, Ashokvan, Shivvallabh Road, Borivali East,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2896 6985",
+    "sg:postcode":"400066",
+    "sg:tags":[
+        "fine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931549,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JFe0aIIXjASLR7XfXUIkb_19.240717_72.869354@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fbc09dfd9bc617f80133595daf5cd498",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931549,
+            "region_id":85672171,
+            "venue_id":169582183
+        }
+    ],
+    "wof:id":169582183,
+    "wof:lastmodified":1449034463,
+    "wof:name":"Kartik Industries",
+    "wof:parent_id":85931549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fine"
+    ]
+},
+  "bbox": [72.869354,19.240717,72.869354,19.240717],
+  "geometry": {"coordinates":[72.869354,19.240717],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169531373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.824829,18.957212,72.824829,18.957212",
+    "geom:latitude":18.957212,
+    "geom:longitude":72.824829,
+    "iso:country":"IN",
+    "sg:address":"194, Khetwadi Main Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Hair Removal",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6633 6920",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "cosmetic",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931435,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lnDvgGqcBFcbrfF3dIb1O_18.957212_72.824829@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ee916149f1c902fc613fb15d3ec1c9af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931435,
+            "region_id":85672171,
+            "venue_id":169531373
+        }
+    ],
+    "wof:id":169531373,
+    "wof:lastmodified":1449033473,
+    "wof:name":"Uttam Biotech Pvt. Ltd.",
+    "wof:parent_id":85931435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "accessory"
+    ]
+},
+  "bbox": [72.824829,18.957212,72.824829,18.957212],
+  "geometry": {"coordinates":[72.824829,18.957212],"type":"Point"}
+}

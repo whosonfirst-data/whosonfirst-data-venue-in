@@ -1,0 +1,63 @@
+{
+  "id": 169650447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.215616,13.044542,80.215616,13.044542",
+    "geom:latitude":13.044542,
+    "geom:longitude":80.215616,
+    "iso:country":"IN",
+    "sg:address":"293, 2nd floor Arcot Road,",
+    "sg:city":"Kodambakkam, Chennai ",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"600024",
+    "sg:tags":[
+        "web-design-and-web-development"
+    ],
+    "sg:website":"http://www.dsignzmedia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903935,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KWDg6xYdkTrqqPNirDqNA_13.044542_80.215616@1308163240"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"afbcb19a4cff481673cb04ac5db0e690",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903935,
+            "region_id":85672245,
+            "venue_id":169650447
+        }
+    ],
+    "wof:id":169650447,
+    "wof:lastmodified":1449034702,
+    "wof:name":"dsignz media",
+    "wof:parent_id":85903935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web-design-and-web-development"
+    ]
+},
+  "bbox": [80.215616,13.044542,80.215616,13.044542],
+  "geometry": {"coordinates":[80.215616,13.044542],"type":"Point"}
+}

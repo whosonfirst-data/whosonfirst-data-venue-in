@@ -1,0 +1,63 @@
+{
+  "id": 169622839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.98539,11.014013,76.98539,11.014013",
+    "geom:latitude":11.014013,
+    "geom:longitude":76.98539,
+    "iso:country":"IN",
+    "sg:address":"29/422, V.k. Road, Peelamedu,",
+    "sg:city":"Coimbatore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 422 251 0988",
+    "sg:postcode":"641004",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783691,
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wKYsOI9d0iUs7PQrnPmhu_11.014013_76.985390@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"496282ee39fc288f055de845993fd800",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":85783691,
+            "region_id":85672245,
+            "venue_id":169622839
+        }
+    ],
+    "wof:id":169622839,
+    "wof:lastmodified":1449035368,
+    "wof:name":"Shri V Associates",
+    "wof:parent_id":85783691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [76.98539,11.014013,76.98539,11.014013],
+  "geometry": {"coordinates":[76.98539,11.014013],"type":"Point"}
+}

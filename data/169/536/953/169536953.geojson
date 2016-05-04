@@ -1,0 +1,62 @@
+{
+  "id": 169536953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.531807,12.97899,77.531807,12.97899",
+    "geom:latitude":12.97899,
+    "geom:longitude":77.531807,
+    "iso:country":"IN",
+    "sg:address":"No. 52, 2nd Main, Industrial Town, Rajaji Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2310 5125",
+    "sg:postcode":"560044",
+    "sg:tags":[
+        "polymer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZzhFoqG0YNQf1NavCvMaE_12.978990_77.531807@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a8f9132add0eb17c52112dbf6fed9859",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169536953
+        }
+    ],
+    "wof:id":169536953,
+    "wof:lastmodified":1449034660,
+    "wof:name":"Mardia Polymers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [77.531807,12.97899,77.531807,12.97899],
+  "geometry": {"coordinates":[77.531807,12.97899],"type":"Point"}
+}

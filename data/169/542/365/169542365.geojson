@@ -1,0 +1,67 @@
+{
+  "id": 169542365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.584702,12.963801,77.584702,12.963801",
+    "geom:latitude":12.963801,
+    "geom:longitude":77.584702,
+    "iso:country":"IN",
+    "sg:address":"58, Silver Jubilee Park Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2222 5951",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "steel",
+        "pipe",
+        "tube"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DMJxisAR119zHsvqQjbPr_12.963801_77.584702@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c57761aa9a3a33ae3318abdd13b4c2f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169542365
+        }
+    ],
+    "wof:id":169542365,
+    "wof:lastmodified":1449035219,
+    "wof:name":"Rakesh Overseas Pvt. Ltd.",
+    "wof:parent_id":85930903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "pipe",
+        "tube"
+    ]
+},
+  "bbox": [77.584702,12.963801,77.584702,12.963801],
+  "geometry": {"coordinates":[77.584702,12.963801],"type":"Point"}
+}

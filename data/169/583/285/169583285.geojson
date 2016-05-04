@@ -1,0 +1,63 @@
+{
+  "id": 169583285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.627213,12.909937,77.627213,12.909937",
+    "geom:latitude":12.909937,
+    "geom:longitude":77.627213,
+    "iso:country":"IN",
+    "sg:address":"49/4, Hosur Main Road, Bommonahalli,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2572 0963",
+    "sg:postcode":"560068",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930853,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52AcWukXZvHl9pVGKyzmvv_12.909937_77.627213@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4a76895b80ba90619614c8892e0cfa99",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930853,
+            "region_id":85672165,
+            "venue_id":169583285
+        }
+    ],
+    "wof:id":169583285,
+    "wof:lastmodified":1449035264,
+    "wof:name":"Kothari Indl. Corpn. Ltd.",
+    "wof:parent_id":85930853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.627213,12.909937,77.627213,12.909937],
+  "geometry": {"coordinates":[77.627213,12.909937],"type":"Point"}
+}

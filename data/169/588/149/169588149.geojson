@@ -1,0 +1,63 @@
+{
+  "id": 169588149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.934517,26.837732,80.934517,26.837732",
+    "geom:latitude":26.837732,
+    "geom:longitude":80.934517,
+    "iso:country":"IN",
+    "sg:address":"Station Road,",
+    "sg:city":"Moradabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 591 232 6596",
+    "sg:postcode":"244001",
+    "sg:tags":[
+        "wax"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933213,
+        85632469,
+        102029557,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GjtI18TW9Ujl7p4jDFqsG_26.837732_80.934517@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"851dcec84da33632d19e304ceb6235e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029557,
+            "neighbourhood_id":85933213,
+            "region_id":85672205,
+            "venue_id":169588149
+        }
+    ],
+    "wof:id":169588149,
+    "wof:lastmodified":1449035308,
+    "wof:name":"Mayur International",
+    "wof:parent_id":85933213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [80.934517,26.837732,80.934517,26.837732],
+  "geometry": {"coordinates":[80.934517,26.837732],"type":"Point"}
+}

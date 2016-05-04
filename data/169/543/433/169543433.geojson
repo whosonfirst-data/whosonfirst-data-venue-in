@@ -1,0 +1,65 @@
+{
+  "id": 169543433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.548553,12.95655,77.548553,12.95655",
+    "geom:latitude":12.95655,
+    "geom:longitude":77.548553,
+    "iso:country":"IN",
+    "sg:address":"269, Mysore Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2674 8120",
+    "sg:postcode":"560026",
+    "sg:tags":[
+        "plank",
+        "timber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MCAhwg27J0lp9fX27OZvZ_12.956550_77.548553@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ee0779b98af78a0fe39e26daccf8748e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169543433
+        }
+    ],
+    "wof:id":169543433,
+    "wof:lastmodified":1449033334,
+    "wof:name":"New Ashoka Saw Mill",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plank",
+        "timber"
+    ]
+},
+  "bbox": [77.548553,12.95655,77.548553,12.95655],
+  "geometry": {"coordinates":[77.548553,12.95655],"type":"Point"}
+}

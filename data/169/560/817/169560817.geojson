@@ -1,0 +1,64 @@
+{
+  "id": 169560817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"70.826859,22.280378,70.826859,22.280378",
+    "geom:latitude":22.280378,
+    "geom:longitude":70.826859,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 604, Gidc, P. B. No. 37,",
+    "sg:city":"Ankleshwar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2646 222 033",
+    "sg:postcode":"393002",
+    "sg:tags":[
+        "plant",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028901,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09bQoZ455A7cVOIOvfD3Jp_22.280378_70.826859@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a4390088cb5ed1e958b8f6061e211fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028901,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169560817
+        }
+    ],
+    "wof:id":169560817,
+    "wof:lastmodified":1449035182,
+    "wof:name":"Dyke Engineering Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [70.826859,22.280378,70.826859,22.280378],
+  "geometry": {"coordinates":[70.826859,22.280378],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169625395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.249138,28.531738,77.249138,28.531738",
+    "geom:latitude":28.531738,
+    "geom:longitude":77.249138,
+    "iso:country":"IN",
+    "sg:address":"M-58, 2nd Floor, Greater Kailash-ii,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2921 6344",
+    "sg:postcode":"110048",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927969,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6d6XG7xJv4kVS4l6m3BcPr_28.531738_77.249138@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fb020e73e7d671a8c913c74e34bf94b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85927969,
+            "region_id":85672123,
+            "venue_id":169625395
+        }
+    ],
+    "wof:id":169625395,
+    "wof:lastmodified":1449036025,
+    "wof:name":"Solana",
+    "wof:parent_id":85927969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.249138,28.531738,77.249138,28.531738],
+  "geometry": {"coordinates":[77.249138,28.531738],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169538943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.526169,13.02404,77.526169,13.02404",
+    "geom:latitude":13.02404,
+    "geom:longitude":77.526169,
+    "iso:country":"IN",
+    "sg:address":"No. 186, 11th Main, 3rd Phase, Peenya Industrial Area,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Race Track",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2839 5112",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "relay"
+    ],
+    "sg:website":"http://www.dynamelectrocontrols.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Pf1BkbM305XKJ3yKAhf7n_13.024040_77.526169@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1636f680aa8489c8457219b52568d980",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169538943
+        }
+    ],
+    "wof:id":169538943,
+    "wof:lastmodified":1449033099,
+    "wof:name":"Dynam Electro Controls",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "relay"
+    ]
+},
+  "bbox": [77.526169,13.02404,77.526169,13.02404],
+  "geometry": {"coordinates":[77.526169,13.02404],"type":"Point"}
+}

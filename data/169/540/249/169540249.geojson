@@ -1,0 +1,63 @@
+{
+  "id": 169540249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.563835,13.008917,77.563835,13.008917",
+    "geom:latitude":13.008917,
+    "geom:longitude":77.563835,
+    "iso:country":"IN",
+    "sg:address":"15/1, 18th Cross, Malleshwaram,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2336 3646",
+    "sg:postcode":"560055",
+    "sg:tags":[
+        "shirt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YSoHieydv9Ilm78eFu1iq_13.008917_77.563835@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a883d59abf7640ff6afc879d920950d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169540249
+        }
+    ],
+    "wof:id":169540249,
+    "wof:lastmodified":1449033972,
+    "wof:name":"Dhartidhan Excavators Ltd.",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shirt"
+    ]
+},
+  "bbox": [77.563835,13.008917,77.563835,13.008917],
+  "geometry": {"coordinates":[77.563835,13.008917],"type":"Point"}
+}

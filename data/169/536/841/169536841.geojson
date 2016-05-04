@@ -1,0 +1,65 @@
+{
+  "id": 169536841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.590599,12.927453,77.590599,12.927453",
+    "geom:latitude":12.927453,
+    "geom:longitude":77.590599,
+    "iso:country":"IN",
+    "sg:address":"No. 27, 32rd Cross, 7th Block, Jayanagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2245 5157",
+    "sg:tags":[
+        "product",
+        "pneumatic"
+    ],
+    "sg:website":"http://www.busakshamban.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930887,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lyMmLx4NEzTR0O8n2x4Xj_12.927453_77.590599@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0f7b3ff5941bf693fcc0bd22be51f25c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930887,
+            "region_id":85672165,
+            "venue_id":169536841
+        }
+    ],
+    "wof:id":169536841,
+    "wof:lastmodified":1449034656,
+    "wof:name":"Trelleborg Sealing Solutions (india) Pvt. Ltd.",
+    "wof:parent_id":85930887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "pneumatic"
+    ]
+},
+  "bbox": [77.590599,12.927453,77.590599,12.927453],
+  "geometry": {"coordinates":[77.590599,12.927453],"type":"Point"}
+}

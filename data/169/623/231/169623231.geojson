@@ -1,0 +1,63 @@
+{
+  "id": 169623231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.200996,28.685583,77.200996,28.685583",
+    "geom:latitude":28.685583,
+    "geom:longitude":77.200996,
+    "iso:country":"IN",
+    "sg:address":"1/26, Roop Nagar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2392 2442",
+    "sg:postcode":"110007",
+    "sg:tags":[
+        "solvent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927921,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tMs7jsoainnPwG6r2CHNF_28.685583_77.200996@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"457b1ed027473bdeaa7828bcfe589cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85927921,
+            "region_id":85672123,
+            "venue_id":169623231
+        }
+    ],
+    "wof:id":169623231,
+    "wof:lastmodified":1449034998,
+    "wof:name":"Shubham Chemicals & Solvents Ltd.",
+    "wof:parent_id":85927921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solvent"
+    ]
+},
+  "bbox": [77.200996,28.685583,77.200996,28.685583],
+  "geometry": {"coordinates":[77.200996,28.685583],"type":"Point"}
+}

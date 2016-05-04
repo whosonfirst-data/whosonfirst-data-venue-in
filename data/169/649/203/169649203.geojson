@@ -1,0 +1,74 @@
+{
+  "id": 169649203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.122261,28.86999,77.122261,28.86999",
+    "geom:latitude":28.86999,
+    "geom:longitude":77.122261,
+    "iso:country":"IN",
+    "sg:address":"No. B1/A6, First Floor Mohan Co-operative Industrial Estate Mathura Road",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110044",
+    "sg:tags":[
+        "google",
+        "search",
+        "gmail",
+        "blogger",
+        "find",
+        "information",
+        "youtube"
+    ],
+    "sg:website":"http://google.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031069,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38ZUbj7vdLhIP6kAWe26jJ_28.869990_77.122261@1308163236"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"16b0572afc1cebbb8f68ee6e7345aeea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031069,
+            "neighbourhood_id":-1,
+            "region_id":85672133,
+            "venue_id":169649203
+        }
+    ],
+    "wof:id":169649203,
+    "wof:lastmodified":1449034942,
+    "wof:name":"Google",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "google",
+        "search",
+        "gmail",
+        "blogger",
+        "find",
+        "information",
+        "youtube"
+    ]
+},
+  "bbox": [77.122261,28.86999,77.122261,28.86999],
+  "geometry": {"coordinates":[77.122261,28.86999],"type":"Point"}
+}

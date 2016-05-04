@@ -1,0 +1,65 @@
+{
+  "id": 169594253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.422897,17.466015,78.422897,17.466015",
+    "geom:latitude":17.466015,
+    "geom:longitude":78.422897,
+    "iso:country":"IN",
+    "sg:address":"Shed C/1, 6820, G.i.d.c. Estate,",
+    "sg:city":"Ankleshwar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2646 222 188",
+    "sg:postcode":"393002",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930757,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r0nKc7Ff4kO8LD5EI3cZ4_17.466015_78.422897@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"79cf8715bae9b53830c96e0ed95cdf30",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930757,
+            "region_id":85672141,
+            "venue_id":169594253
+        }
+    ],
+    "wof:id":169594253,
+    "wof:lastmodified":1449033165,
+    "wof:name":"Nilkanth Dyestuff Industries",
+    "wof:parent_id":85930757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [78.422897,17.466015,78.422897,17.466015],
+  "geometry": {"coordinates":[78.422897,17.466015],"type":"Point"}
+}

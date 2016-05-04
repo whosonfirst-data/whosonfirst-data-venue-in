@@ -1,0 +1,72 @@
+{
+  "id": 169537231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.210518,13.111913,80.210518,13.111913",
+    "geom:latitude":13.111913,
+    "geom:longitude":80.210518,
+    "iso:country":"IN",
+    "sg:address":"C-13, Industrial Estate, Rajajinagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2335 1429",
+    "sg:postcode":"560044",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "sg:website":"http://www.amrutesh.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903945,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qdhOHbP2OekabZIbYlAER_13.111913_80.210518@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2a99b83c24dd678d5f102bc77b0e9c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903945,
+            "region_id":85672245,
+            "venue_id":169537231
+        }
+    ],
+    "wof:id":169537231,
+    "wof:lastmodified":1449033498,
+    "wof:name":"Amruthesh Industries",
+    "wof:parent_id":85903945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [80.210518,13.111913,80.210518,13.111913],
+  "geometry": {"coordinates":[80.210518,13.111913],"type":"Point"}
+}

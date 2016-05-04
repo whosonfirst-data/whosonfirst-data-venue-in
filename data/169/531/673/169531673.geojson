@@ -1,0 +1,64 @@
+{
+  "id": 169531673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.827942,18.943571,72.827942,18.943571",
+    "geom:latitude":18.943571,
+    "geom:longitude":72.827942,
+    "iso:country":"IN",
+    "sg:address":"43, Dhobi Street, 2nd Floor,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2344 1969",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "crockery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cvvwHLCeVgh4w2CiKB1zS_18.943571_72.827942@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"171e979a3d0fd0065a033979016394a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903889,
+            "region_id":85672171,
+            "venue_id":169531673
+        }
+    ],
+    "wof:id":169531673,
+    "wof:lastmodified":1449033472,
+    "wof:name":"Kabani Crockery Centre",
+    "wof:parent_id":85903889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crockery"
+    ]
+},
+  "bbox": [72.827942,18.943571,72.827942,18.943571],
+  "geometry": {"coordinates":[72.827942,18.943571],"type":"Point"}
+}

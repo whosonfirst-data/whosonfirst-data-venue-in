@@ -1,0 +1,61 @@
+{
+  "id": 169540655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.199951,21.332533,76.199951,21.332533",
+    "geom:latitude":21.332533,
+    "geom:longitude":76.199951,
+    "iso:country":"IN",
+    "sg:address":"# 14, Lalbagh Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2573 3804",
+    "sg:postcode":"560068",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bNjPwAQOR7bqhQv0WWnEK_21.332533_76.199951@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d1f76070b8068fe3cbc8ef81c170dde2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672239,
+            "venue_id":169540655
+        }
+    ],
+    "wof:id":169540655,
+    "wof:lastmodified":1449033977,
+    "wof:name":"Beverly Silk Fabrics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [76.199951,21.332533,76.199951,21.332533],
+  "geometry": {"coordinates":[76.199951,21.332533],"type":"Point"}
+}

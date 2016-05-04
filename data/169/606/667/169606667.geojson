@@ -1,0 +1,62 @@
+{
+  "id": 169606667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.978531,11.03317,76.978531,11.03317",
+    "geom:latitude":11.03317,
+    "geom:longitude":76.978531,
+    "iso:country":"IN",
+    "sg:address":"46-c, P.n. Palayam Road, Ganapathy,",
+    "sg:city":"Coimbatore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 422 253 4092",
+    "sg:postcode":"641006",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_464qLLQRMXPVHDYh9lZBm4_11.033170_76.978531@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"34dc2a279914ab3e97fddd6c5b58fa82",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169606667
+        }
+    ],
+    "wof:id":169606667,
+    "wof:lastmodified":1449033202,
+    "wof:name":"R. S. Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [76.978531,11.03317,76.978531,11.03317],
+  "geometry": {"coordinates":[76.978531,11.03317],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169548283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.952927,10.99415,76.952927,10.99415",
+    "geom:latitude":10.99415,
+    "geom:longitude":76.952927,
+    "iso:country":"IN",
+    "sg:address":"90, South Raja Street,",
+    "sg:city":"Tuticorin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 461 232 0038",
+    "sg:postcode":"628001",
+    "sg:tags":[
+        "oil",
+        "edible"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SH9ofJSPHY34CxlriVm1A_10.994150_76.952927@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"99c88ab09d7e841cf4781bbb201084cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169548283
+        }
+    ],
+    "wof:id":169548283,
+    "wof:lastmodified":1449034973,
+    "wof:name":"Vvd And Sons (p) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "edible"
+    ]
+},
+  "bbox": [76.952927,10.99415,76.952927,10.99415],
+  "geometry": {"coordinates":[76.952927,10.99415],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169542797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.58046,12.96689,77.58046,12.96689",
+    "geom:latitude":12.96689,
+    "geom:longitude":77.58046,
+    "iso:country":"IN",
+    "sg:address":"No.86, R.c. Complex, 1st Floor, Mamulpet,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 3250 0018",
+    "sg:postcode":"560053",
+    "sg:tags":[
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RmMywXTZtyc25bzXvWXw8_12.966890_77.580460@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e915847ba07d249212df931af9f670fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169542797
+        }
+    ],
+    "wof:id":169542797,
+    "wof:lastmodified":1449035222,
+    "wof:name":"Kwality Lace & Ribbons",
+    "wof:parent_id":85930903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tape"
+    ]
+},
+  "bbox": [77.58046,12.96689,77.58046,12.96689],
+  "geometry": {"coordinates":[77.58046,12.96689],"type":"Point"}
+}

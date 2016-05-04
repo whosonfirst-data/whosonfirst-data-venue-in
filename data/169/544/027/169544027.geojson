@@ -1,0 +1,63 @@
+{
+  "id": 169544027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.591599,12.992643,77.591599,12.992643",
+    "geom:latitude":12.992643,
+    "geom:longitude":77.591599,
+    "iso:country":"IN",
+    "sg:address":"26, 1st Floor, 8th Main, Vasanth Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2225 7797",
+    "sg:postcode":"560052",
+    "sg:tags":[
+        "undergarment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930961,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hJpYU2vVDs6N3tx2wbd8g_12.992643_77.591599@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"063316c5a1d162476893c76b57a1b985",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930961,
+            "region_id":85672165,
+            "venue_id":169544027
+        }
+    ],
+    "wof:id":169544027,
+    "wof:lastmodified":1449035963,
+    "wof:name":"Kanam Latex Industries (p) Ltd.",
+    "wof:parent_id":85930961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "undergarment"
+    ]
+},
+  "bbox": [77.591599,12.992643,77.591599,12.992643],
+  "geometry": {"coordinates":[77.591599,12.992643],"type":"Point"}
+}

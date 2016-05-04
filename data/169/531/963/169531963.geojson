@@ -1,0 +1,65 @@
+{
+  "id": 169531963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.861618,19.258671,72.861618,19.258671",
+    "geom:latitude":19.258671,
+    "geom:longitude":72.861618,
+    "iso:country":"IN",
+    "sg:address":"1, Vikram Apt, L.t.rd, Borivali (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"City Walls",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2899 4072",
+    "sg:postcode":"400092",
+    "sg:tags":[
+        "decorative",
+        "laminate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931553,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oFF7Fkv5DBXyaTKp4EJVn_19.258671_72.861618@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"07f29f7c2132a5a1f9de3f386dc3056d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931553,
+            "region_id":85672171,
+            "venue_id":169531963
+        }
+    ],
+    "wof:id":169531963,
+    "wof:lastmodified":1449033473,
+    "wof:name":"Multi Plywood",
+    "wof:parent_id":85931553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decorative",
+        "laminate"
+    ]
+},
+  "bbox": [72.861618,19.258671,72.861618,19.258671],
+  "geometry": {"coordinates":[72.861618,19.258671],"type":"Point"}
+}

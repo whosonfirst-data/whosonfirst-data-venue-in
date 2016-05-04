@@ -1,0 +1,61 @@
+{
+  "id": 169528429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.839569,18.935926,72.839569,18.935926",
+    "geom:latitude":18.935926,
+    "geom:longitude":72.839569,
+    "iso:country":"IN",
+    "sg:address":"1st Flr., Nevel House, Balard Estate,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "building"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Talwy1QRRbYZazu9njoeS_18.935926_72.839569@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"830c40f12d8e12f9ecb67580e116788f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169528429
+        }
+    ],
+    "wof:id":169528429,
+    "wof:lastmodified":1449033572,
+    "wof:name":"Sunply International",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building"
+    ]
+},
+  "bbox": [72.839569,18.935926,72.839569,18.935926],
+  "geometry": {"coordinates":[72.839569,18.935926],"type":"Point"}
+}

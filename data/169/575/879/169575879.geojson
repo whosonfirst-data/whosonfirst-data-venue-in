@@ -1,0 +1,61 @@
+{
+  "id": 169575879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"79.136406,10.739472,79.136406,10.739472",
+    "geom:latitude":10.739472,
+    "geom:longitude":79.136406,
+    "iso:country":"IN",
+    "sg:address":"199 B, N-1, Cidco,",
+    "sg:city":"Aurangabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 240 309 2085",
+    "sg:postcode":"431210",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ydhv19uD0QWMKg2lvpKyQ_10.739472_79.136406@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"942953063e4ee4ef87bd682eedd838d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169575879
+        }
+    ],
+    "wof:id":169575879,
+    "wof:lastmodified":1449033640,
+    "wof:name":"Baron Elastomer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [79.136406,10.739472,79.136406,10.739472],
+  "geometry": {"coordinates":[79.136406,10.739472],"type":"Point"}
+}

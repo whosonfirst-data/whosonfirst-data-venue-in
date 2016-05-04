@@ -1,0 +1,66 @@
+{
+  "id": 169534047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.907921,19.115183,72.907921,19.115183",
+    "geom:latitude":19.115183,
+    "geom:longitude":72.907921,
+    "iso:country":"IN",
+    "sg:address":"703-a, Hiranandani Gardens, Cypress Building, Powai,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 93 24 755307",
+    "sg:postcode":"400076",
+    "sg:tags":[
+        "medication",
+        "drug"
+    ],
+    "sg:website":"http://www.amtrainstaffing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931519,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79KfkXSmgl4UmrCgblsGaK_19.115183_72.907921@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"26885ac01da2269eb01078394f2467a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931519,
+            "region_id":85672171,
+            "venue_id":169534047
+        }
+    ],
+    "wof:id":169534047,
+    "wof:lastmodified":1449033548,
+    "wof:name":"Amtrain Private Ltd.",
+    "wof:parent_id":85931519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medication",
+        "drug"
+    ]
+},
+  "bbox": [72.907921,19.115183,72.907921,19.115183],
+  "geometry": {"coordinates":[72.907921,19.115183],"type":"Point"}
+}

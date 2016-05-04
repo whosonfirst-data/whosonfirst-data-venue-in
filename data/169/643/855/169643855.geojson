@@ -1,0 +1,63 @@
+{
+  "id": 169643855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.54216,12.970649,77.54216,12.970649",
+    "geom:latitude":12.970649,
+    "geom:longitude":77.54216,
+    "iso:country":"IN",
+    "sg:address":"1355/e, 9th Main, 4th Cross, Rpc Layout, Vijaynagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 6564 9499",
+    "sg:postcode":"560040",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IPCHu3xLgi6nDlznMvZfR_12.970649_77.542160@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"73e56c19338a4b8462c48467b6c5545e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169643855
+        }
+    ],
+    "wof:id":169643855,
+    "wof:lastmodified":1449035524,
+    "wof:name":"Vin Enterprises",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.54216,12.970649,77.54216,12.970649],
+  "geometry": {"coordinates":[77.54216,12.970649],"type":"Point"}
+}

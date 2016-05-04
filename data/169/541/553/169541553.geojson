@@ -1,0 +1,64 @@
+{
+  "id": 169541553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.58358,12.92711,77.58358,12.92711",
+    "geom:latitude":12.92711,
+    "geom:longitude":77.58358,
+    "iso:country":"IN",
+    "sg:address":"#457, 9th A Main, Ii Block, Jayanagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4150 6990",
+    "sg:postcode":"560011",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"http://www.squiresystems.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930887,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EY9fjr6dUCzCMn7zZWyU2_12.927110_77.583580@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"305c60e50407be03d6146e729e014103",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930887,
+            "region_id":85672165,
+            "venue_id":169541553
+        }
+    ],
+    "wof:id":169541553,
+    "wof:lastmodified":1449033039,
+    "wof:name":"Squire Systems",
+    "wof:parent_id":85930887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.58358,12.92711,77.58358,12.92711],
+  "geometry": {"coordinates":[77.58358,12.92711],"type":"Point"}
+}

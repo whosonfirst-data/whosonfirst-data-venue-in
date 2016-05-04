@@ -1,0 +1,64 @@
+{
+  "id": 169598081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.837029,18.950844,72.837029,18.950844",
+    "geom:latitude":18.950844,
+    "geom:longitude":72.837029,
+    "iso:country":"IN",
+    "sg:address":"89, Kazi Sayed Street,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2342 7060",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "product",
+        "gum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lKfx8tcvUcO59tKGfk1aQ_18.950844_72.837029@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"72b42812448dfc62ed39956c767c4d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169598081
+        }
+    ],
+    "wof:id":169598081,
+    "wof:lastmodified":1449032858,
+    "wof:name":"Pannalal Lilachand & Co.",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "gum"
+    ]
+},
+  "bbox": [72.837029,18.950844,72.837029,18.950844],
+  "geometry": {"coordinates":[72.837029,18.950844],"type":"Point"}
+}

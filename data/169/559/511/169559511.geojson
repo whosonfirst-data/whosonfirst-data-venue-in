@@ -1,0 +1,64 @@
+{
+  "id": 169559511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.218277,13.090413,80.218277,13.090413",
+    "geom:latitude":13.090413,
+    "geom:longitude":80.218277,
+    "iso:country":"IN",
+    "sg:address":"17, C. R. Avenue, 3rd Floor,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2221 5191",
+    "sg:postcode":"700072",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.colourchromes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931701,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12ES8JdjM6T5nBShrPwPd9_13.090413_80.218277@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5faaa38569a6b06f831a8a4fe1305af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931701,
+            "region_id":85672245,
+            "venue_id":169559511
+        }
+    ],
+    "wof:id":169559511,
+    "wof:lastmodified":1449035237,
+    "wof:name":"Colour Chromes Pvt. Ltd.",
+    "wof:parent_id":85931701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [80.218277,13.090413,80.218277,13.090413],
+  "geometry": {"coordinates":[80.218277,13.090413],"type":"Point"}
+}

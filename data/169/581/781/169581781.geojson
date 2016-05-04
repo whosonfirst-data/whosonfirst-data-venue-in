@@ -1,0 +1,64 @@
+{
+  "id": 169581781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.096603,22.408138,73.096603,22.408138",
+    "geom:latitude":22.408138,
+    "geom:longitude":73.096603,
+    "iso:country":"IN",
+    "sg:address":"126/5, G.i.d.c., Nandesari,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 284 0679",
+    "sg:postcode":"391340",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "sg:website":"http://www.kalkichem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IrtFmxKMrnMZTJH6IzEDV_22.408138_73.096603@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a9ec7e7aebf9d6ad0ef3491769972da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169581781
+        }
+    ],
+    "wof:id":169581781,
+    "wof:lastmodified":1449033380,
+    "wof:name":"Kalki Chemical Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [73.096603,22.408138,73.096603,22.408138],
+  "geometry": {"coordinates":[73.096603,22.408138],"type":"Point"}
+}

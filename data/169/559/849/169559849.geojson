@@ -1,0 +1,66 @@
+{
+  "id": 169559849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"83.139435,17.651705,83.139435,17.651705",
+    "geom:latitude":17.651705,
+    "geom:longitude":83.139435,
+    "iso:country":"IN",
+    "sg:address":"C-84a, Sec. - 8,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 242 4371",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028261,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yfmN2OSW4uSodnwuot7US_17.651705_83.139435@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a10ee7e4223ab9981a6c5becbade9c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028261,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169559849
+        }
+    ],
+    "wof:id":169559849,
+    "wof:lastmodified":1449035236,
+    "wof:name":"Crescent Technologies Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [83.139435,17.651705,83.139435,17.651705],
+  "geometry": {"coordinates":[83.139435,17.651705],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169588787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.631081,12.979028,77.631081,12.979028",
+    "geom:latitude":12.979028,
+    "geom:longitude":77.631081,
+    "iso:country":"IN",
+    "sg:address":"31, 18th Main, Hal Ii, Indiranagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4125 5875",
+    "sg:postcode":"560008",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6boAfOg8PrSknVhVBkzFWO_12.979028_77.631081@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"93aaeb889212847a78099b250068e7f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169588787
+        }
+    ],
+    "wof:id":169588787,
+    "wof:lastmodified":1449035308,
+    "wof:name":"Menon Chemicals",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.631081,12.979028,77.631081,12.979028],
+  "geometry": {"coordinates":[77.631081,12.979028],"type":"Point"}
+}

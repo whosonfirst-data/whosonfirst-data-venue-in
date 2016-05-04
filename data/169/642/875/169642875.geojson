@@ -1,0 +1,64 @@
+{
+  "id": 169642875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.23764,28.547859,77.23764,28.547859",
+    "geom:latitude":28.547859,
+    "geom:longitude":77.23764,
+    "iso:country":"IN",
+    "sg:address":"N-37, Greater Kailash, Part-1,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2923 2907",
+    "sg:postcode":"110048",
+    "sg:tags":[
+        "resin"
+    ],
+    "sg:website":"http://www.victoragencies.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928613,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T02O5XtWUgFypaE2TYBIY_28.547859_77.237640@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"79d5717cd0606a82fde73240bce134c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928613,
+            "region_id":85672123,
+            "venue_id":169642875
+        }
+    ],
+    "wof:id":169642875,
+    "wof:lastmodified":1449032879,
+    "wof:name":"Victor Agencies Limited",
+    "wof:parent_id":85928613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [77.23764,28.547859,77.23764,28.547859],
+  "geometry": {"coordinates":[77.23764,28.547859],"type":"Point"}
+}

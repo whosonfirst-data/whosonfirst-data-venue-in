@@ -1,0 +1,63 @@
+{
+  "id": 169587283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.337471,22.587643,88.337471,22.587643",
+    "geom:latitude":22.587643,
+    "geom:longitude":88.337471,
+    "iso:country":"IN",
+    "sg:address":"8, B.r.b. Basu Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2242 0437",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903957,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FECjstKC9zAlmtX2IGRfQ_22.587643_88.337471@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"14c37b46f7e62b7eb948e74e0d7d9c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903957,
+            "region_id":85672219,
+            "venue_id":169587283
+        }
+    ],
+    "wof:id":169587283,
+    "wof:lastmodified":1449033820,
+    "wof:name":"Mansarovar Industrial Products Pvt. Ltd.",
+    "wof:parent_id":85903957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.337471,22.587643,88.337471,22.587643],
+  "geometry": {"coordinates":[88.337471,22.587643],"type":"Point"}
+}

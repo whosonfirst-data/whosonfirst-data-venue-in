@@ -1,0 +1,53 @@
+{
+  "id": 169557403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.179428,28.646257,77.179428,28.646257",
+    "geom:latitude":28.646257,
+    "geom:longitude":77.179428,
+    "iso:country":"IN",
+    "sg:address":"6, Rajendra Place",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2578 6350",
+    "sg:postcode":"110008",
+    "sg:province":"Delhi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928113,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MnWOE6efWBHIwsMKwadr7_28.646257_77.179428@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3f5c6f37952c76ce4e9484335925a34e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928113,
+            "region_id":85672123,
+            "venue_id":169557403
+        }
+    ],
+    "wof:id":169557403,
+    "wof:lastmodified":1449035036,
+    "wof:name":"Radix Microsystems",
+    "wof:parent_id":85928113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.179428,28.646257,77.179428,28.646257],
+  "geometry": {"coordinates":[77.179428,28.646257],"type":"Point"}
+}

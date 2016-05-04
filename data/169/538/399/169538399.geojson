@@ -1,0 +1,68 @@
+{
+  "id": 169538399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.579048,12.964531,77.579048,12.964531",
+    "geom:latitude":12.964531,
+    "geom:longitude":77.579048,
+    "iso:country":"IN",
+    "sg:address":"#162, Sadar Patrappa (sp) Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2223 9173",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "equipment",
+        "pump",
+        "pumping"
+    ],
+    "sg:website":"http://www.miecoindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JtYEStUKDkA38cTc6KDWT_12.964531_77.579048@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c7fc811eb7d1eb3c465726b52571510c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169538399
+        }
+    ],
+    "wof:id":169538399,
+    "wof:lastmodified":1449033096,
+    "wof:name":"Mieco Pumps & Generators Pvt. Ltd.",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "pump",
+        "pumping"
+    ]
+},
+  "bbox": [77.579048,12.964531,77.579048,12.964531],
+  "geometry": {"coordinates":[77.579048,12.964531],"type":"Point"}
+}

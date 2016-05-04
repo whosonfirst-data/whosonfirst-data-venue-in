@@ -1,0 +1,63 @@
+{
+  "id": 169627619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.493103,17.360653,78.493103,17.360653",
+    "geom:latitude":17.360653,
+    "geom:longitude":78.493103,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 74/a, 2nd Floor, Central Bank Building, Kalyan Nagar,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2381 2987",
+    "sg:postcode":"500038",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.sreepathi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ppWakPhFZKU4VIKfzSYc5_17.360653_78.493103@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cae32ab30557721340979b3142644e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169627619
+        }
+    ],
+    "wof:id":169627619,
+    "wof:lastmodified":1449036042,
+    "wof:name":"Sreepathi Pharmaceuticals Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.493103,17.360653,78.493103,17.360653],
+  "geometry": {"coordinates":[78.493103,17.360653],"type":"Point"}
+}

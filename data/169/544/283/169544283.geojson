@@ -1,0 +1,65 @@
+{
+  "id": 169544283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.641396,12.970181,77.641396,12.970181",
+    "geom:latitude":12.970181,
+    "geom:longitude":77.641396,
+    "iso:country":"IN",
+    "sg:address":"# 3161, 12th Main Indiranagar, Hall 2nd Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2580 1699",
+    "sg:postcode":"560033",
+    "sg:tags":[
+        "venetian",
+        "blind"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13pf0lQ924C0X0i7s47sEO_12.970181_77.641396@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bb846dc9dd848efc15341db078e545c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169544283
+        }
+    ],
+    "wof:id":169544283,
+    "wof:lastmodified":1449035963,
+    "wof:name":"Ideal Shades & Designs",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venetian",
+        "blind"
+    ]
+},
+  "bbox": [77.641396,12.970181,77.641396,12.970181],
+  "geometry": {"coordinates":[77.641396,12.970181],"type":"Point"}
+}

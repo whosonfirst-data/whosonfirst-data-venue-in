@@ -1,0 +1,53 @@
+{
+  "id": 169574141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.168167,28.667292,77.168167,28.667292",
+    "geom:latitude":28.667292,
+    "geom:longitude":77.168167,
+    "iso:country":"IN",
+    "sg:address":"Rohtak Road",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2545 8185",
+    "sg:postcode":"110035",
+    "sg:province":"Delhi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928115,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33NZBwAzttNz9EHkYJeX4M_28.667292_77.168167@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"45caafa14160c32d2ee70d60295540c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928115,
+            "region_id":85672123,
+            "venue_id":169574141
+        }
+    ],
+    "wof:id":169574141,
+    "wof:lastmodified":1449032664,
+    "wof:name":"Gas Associates",
+    "wof:parent_id":85928115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.168167,28.667292,77.168167,28.667292],
+  "geometry": {"coordinates":[77.168167,28.667292],"type":"Point"}
+}

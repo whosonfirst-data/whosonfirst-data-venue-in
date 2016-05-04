@@ -1,0 +1,65 @@
+{
+  "id": 169537731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.687889,12.999063,77.687889,12.999063",
+    "geom:latitude":12.999063,
+    "geom:longitude":77.687889,
+    "iso:country":"IN",
+    "sg:address":"B. Narayanapura, Whitefield Road, Dooravaninagar P.o.,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2851 1479",
+    "sg:postcode":"560016",
+    "sg:tags":[
+        "component",
+        "pressed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931169,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27VyNBiha8PQ54fdyUZQvX_12.999063_77.687889@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a1151e51ad1aceaa8732b172abbf2b12",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931169,
+            "region_id":85672165,
+            "venue_id":169537731
+        }
+    ],
+    "wof:id":169537731,
+    "wof:lastmodified":1449033501,
+    "wof:name":"Navajeevan Engineering Works",
+    "wof:parent_id":85931169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "pressed"
+    ]
+},
+  "bbox": [77.687889,12.999063,77.687889,12.999063],
+  "geometry": {"coordinates":[77.687889,12.999063],"type":"Point"}
+}

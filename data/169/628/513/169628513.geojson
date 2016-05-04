@@ -1,0 +1,64 @@
+{
+  "id": 169628513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.048035,28.480413,77.048035,28.480413",
+    "geom:latitude":28.480413,
+    "geom:longitude":77.048035,
+    "iso:country":"IN",
+    "sg:address":"C-15 & 16, Sector-63,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 436 7780",
+    "sg:postcode":"201307",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928515,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30zRS7hGwR5BCaZOTE4tGi_28.480413_77.048035@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"96cf95256ba96e82a56df47ce4408614",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928515,
+            "region_id":85672133,
+            "venue_id":169628513
+        }
+    ],
+    "wof:id":169628513,
+    "wof:lastmodified":1449035334,
+    "wof:name":"Sriram Compounds",
+    "wof:parent_id":85928515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.048035,28.480413,77.048035,28.480413],
+  "geometry": {"coordinates":[77.048035,28.480413],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169526811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.83593,19.085644,72.83593,19.085644",
+    "geom:latitude":19.085644,
+    "geom:longitude":72.83593,
+    "iso:country":"IN",
+    "sg:address":"16, Dattatray Road, Santa Cruz West,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2661 4387",
+    "sg:postcode":"400054",
+    "sg:tags":[
+        "bag",
+        "-",
+        "cotton/canvas/synthetic"
+    ],
+    "sg:website":"http://www.indiamart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931575,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YQBtNSpo5EtwImeCmoSSS_19.085644_72.835930@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"12dfd7109c2970fa85fab11b4b2ef6ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931575,
+            "region_id":85672171,
+            "venue_id":169526811
+        }
+    ],
+    "wof:id":169526811,
+    "wof:lastmodified":1449033699,
+    "wof:name":"Anamika Creations",
+    "wof:parent_id":85931575,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag",
+        "-",
+        "cotton/canvas/synthetic"
+    ]
+},
+  "bbox": [72.83593,19.085644,72.83593,19.085644],
+  "geometry": {"coordinates":[72.83593,19.085644],"type":"Point"}
+}

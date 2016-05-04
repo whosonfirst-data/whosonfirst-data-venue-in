@@ -1,0 +1,66 @@
+{
+  "id": 169618477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.223503,28.658909,77.223503,28.658909",
+    "geom:latitude":28.658909,
+    "geom:longitude":77.223503,
+    "iso:country":"IN",
+    "sg:address":"735, Church Mission Road, Fatehpuri,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2391 8575",
+    "sg:postcode":"110006",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "sg:website":"http://www.shaktichem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928109,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CNnfLHyEPd4LNlPTbzg5S_28.658909_77.223503@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"418a4672789f2c5124717358da5428e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928109,
+            "region_id":85672123,
+            "venue_id":169618477
+        }
+    ],
+    "wof:id":169618477,
+    "wof:lastmodified":1449034736,
+    "wof:name":"Shakti Trading Company",
+    "wof:parent_id":85928109,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [77.223503,28.658909,77.223503,28.658909],
+  "geometry": {"coordinates":[77.223503,28.658909],"type":"Point"}
+}

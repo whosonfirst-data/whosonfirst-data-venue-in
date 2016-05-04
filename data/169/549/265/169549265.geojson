@@ -1,0 +1,66 @@
+{
+  "id": 169549265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.860405,19.111549,72.860405,19.111549",
+    "geom:latitude":19.111549,
+    "geom:longitude":72.860405,
+    "iso:country":"IN",
+    "sg:address":"21, Town Hall, Link Road,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 244 2264",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "product",
+        "lime"
+    ],
+    "sg:website":"http://www.mahaveergreen.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931483,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qU0zvWBbdDq4nIhaPx8g5_19.111549_72.860405@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9da24621b6dd609b4e0987d14dbc6faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931483,
+            "region_id":85672171,
+            "venue_id":169549265
+        }
+    ],
+    "wof:id":169549265,
+    "wof:lastmodified":1449033590,
+    "wof:name":"Mahaveer Green Marble",
+    "wof:parent_id":85931483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "lime"
+    ]
+},
+  "bbox": [72.860405,19.111549,72.860405,19.111549],
+  "geometry": {"coordinates":[72.860405,19.111549],"type":"Point"}
+}

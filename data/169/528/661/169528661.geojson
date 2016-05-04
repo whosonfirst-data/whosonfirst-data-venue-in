@@ -1,0 +1,64 @@
+{
+  "id": 169528661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.869545,19.200912,72.869545,19.200912",
+    "geom:latitude":19.200912,
+    "geom:longitude":72.869545,
+    "iso:country":"IN",
+    "sg:address":"53, Whispering Palms Shopping Complex, Lokhandwala Akurli Road, Kandivali (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 3241 9174",
+    "sg:postcode":"400101",
+    "sg:tags":[
+        "bulk"
+    ],
+    "sg:website":"http://www.manorpharmachem.tradeindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931529,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AoW1JjygSXLalfqJR8x43_19.200912_72.869545@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"31680020cd1c5561d1b5cae4ef0fcb7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931529,
+            "region_id":85672171,
+            "venue_id":169528661
+        }
+    ],
+    "wof:id":169528661,
+    "wof:lastmodified":1449033571,
+    "wof:name":"Manor Pharmachem Pvt. Ltd.",
+    "wof:parent_id":85931529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk"
+    ]
+},
+  "bbox": [72.869545,19.200912,72.869545,19.200912],
+  "geometry": {"coordinates":[72.869545,19.200912],"type":"Point"}
+}

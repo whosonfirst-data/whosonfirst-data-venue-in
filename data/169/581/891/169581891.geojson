@@ -1,0 +1,64 @@
+{
+  "id": 169581891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.860275,19.043211,72.860275,19.043211",
+    "geom:latitude":19.043211,
+    "geom:longitude":72.860275,
+    "iso:country":"IN",
+    "sg:address":"152, Mahatama Gandhi Road, Camp,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2635 1301",
+    "sg:postcode":"411001",
+    "sg:tags":[
+        "acid"
+    ],
+    "sg:website":"http://www.kankariyas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903847,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47XzuQEub659Kd8SA4fa3t_19.043211_72.860275@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a2d097d88fd4edd486c658974d7b2d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903847,
+            "region_id":85672171,
+            "venue_id":169581891
+        }
+    ],
+    "wof:id":169581891,
+    "wof:lastmodified":1449033381,
+    "wof:name":"Kankariya Enterprises",
+    "wof:parent_id":85903847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [72.860275,19.043211,72.860275,19.043211],
+  "geometry": {"coordinates":[72.860275,19.043211],"type":"Point"}
+}

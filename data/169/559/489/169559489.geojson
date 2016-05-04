@@ -1,0 +1,63 @@
+{
+  "id": 169559489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.200371,28.537363,77.200371,28.537363",
+    "geom:latitude":28.537363,
+    "geom:longitude":77.200371,
+    "iso:country":"IN",
+    "sg:address":"56-58, Community Centre, East Of Kailash,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2643 6810",
+    "sg:postcode":"110065",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928617,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CrWrpxtVZW7aFuz8xw9IY_28.537363_77.200371@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5bf5c08756055c8851253a534aefc1ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928617,
+            "region_id":85672123,
+            "venue_id":169559489
+        }
+    ],
+    "wof:id":169559489,
+    "wof:lastmodified":1449035239,
+    "wof:name":"Collage Group Of Companies",
+    "wof:parent_id":85928617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [77.200371,28.537363,77.200371,28.537363],
+  "geometry": {"coordinates":[77.200371,28.537363],"type":"Point"}
+}

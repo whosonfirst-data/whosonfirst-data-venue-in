@@ -1,0 +1,63 @@
+{
+  "id": 169543425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.017815,12.887551,75.017815,12.887551",
+    "geom:latitude":12.887551,
+    "geom:longitude":75.017815,
+    "iso:country":"IN",
+    "sg:address":"6-b, Ground Floor, P.u. Building, M.g.road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2558 3186",
+    "sg:postcode":"560001",
+    "sg:tags":[
+        "tie",
+        "bow"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Or4MWdJuhFsbx31QqJY56_12.887551_75.017815@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7641379c0ee51cdaeb4919f7dcb33b92",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169543425
+        }
+    ],
+    "wof:id":169543425,
+    "wof:lastmodified":1449033335,
+    "wof:name":"Tie Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tie",
+        "bow"
+    ]
+},
+  "bbox": [75.017815,12.887551,75.017815,12.887551],
+  "geometry": {"coordinates":[75.017815,12.887551],"type":"Point"}
+}

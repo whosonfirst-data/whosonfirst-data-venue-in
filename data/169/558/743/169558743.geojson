@@ -1,0 +1,62 @@
+{
+  "id": 169558743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.311333,19.864843,75.311333,19.864843",
+    "geom:latitude":19.864843,
+    "geom:longitude":75.311333,
+    "iso:country":"IN",
+    "sg:address":"E-70/35, Midc, Walui,",
+    "sg:city":"Aurangabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 240 255 6284",
+    "sg:postcode":"431136",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030887,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j7oDcvXcw0jvkEmLFprsV_19.864843_75.311333@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"47cbf7b0376503108ef613dc82da717d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030887,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169558743
+        }
+    ],
+    "wof:id":169558743,
+    "wof:lastmodified":1449033583,
+    "wof:name":"Bsc Rubber Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [75.311333,19.864843,75.311333,19.864843],
+  "geometry": {"coordinates":[75.311333,19.864843],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169580779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.16877,28.698965,77.16877,28.698965",
+    "geom:latitude":28.698965,
+    "geom:longitude":77.16877,
+    "iso:country":"IN",
+    "sg:address":"107 Udyog Vihar, Phase Iv,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 401 7406",
+    "sg:postcode":"122016",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.jnpaints.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928079,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53gerDyazJbFWxvfJsJBID_28.698965_77.168770@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"887add249b4abca7fd789199d6816db4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928079,
+            "region_id":85672123,
+            "venue_id":169580779
+        }
+    ],
+    "wof:id":169580779,
+    "wof:lastmodified":1449034912,
+    "wof:name":"Jenson & Nicholson India Ltd.",
+    "wof:parent_id":85928079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.16877,28.698965,77.16877,28.698965],
+  "geometry": {"coordinates":[77.16877,28.698965],"type":"Point"}
+}

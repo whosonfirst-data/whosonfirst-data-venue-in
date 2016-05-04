@@ -1,0 +1,54 @@
+{
+  "id": 169556191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.571991,12.940251,77.571991,12.940251",
+    "geom:latitude":12.940251,
+    "geom:longitude":77.571991,
+    "iso:country":"IN",
+    "sg:address":"Puttanna Road, Basavanagudi",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 806604741",
+    "sg:postcode":"560004",
+    "sg:province":"Karnataka",
+    "sg:website":"http://www.vigirom.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930849,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MnEAxnCdaeOhFBBFrYC84_12.940251_77.571991@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"264ba88557c22d170549013e35a932e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930849,
+            "region_id":85672165,
+            "venue_id":169556191
+        }
+    ],
+    "wof:id":169556191,
+    "wof:lastmodified":1449033509,
+    "wof:name":"Vigirom Chemicals Pvt Ltd",
+    "wof:parent_id":85930849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.571991,12.940251,77.571991,12.940251],
+  "geometry": {"coordinates":[77.571991,12.940251],"type":"Point"}
+}

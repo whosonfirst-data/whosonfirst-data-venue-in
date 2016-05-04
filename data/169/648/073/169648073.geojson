@@ -1,0 +1,63 @@
+{
+  "id": 169648073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.186378,13.105781,80.186378,13.105781",
+    "geom:latitude":13.105781,
+    "geom:longitude":80.186378,
+    "iso:country":"IN",
+    "sg:address":"11, Esplanade East Row, 1st Floor,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2210 8761",
+    "sg:postcode":"700069",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "sg:website":"http://www.zanybiotech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1k3MYqRpqG6zj6RGtjbdYR_13.105781_80.186378@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e2c164f210554926c02fe6e29887e56b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169648073
+        }
+    ],
+    "wof:id":169648073,
+    "wof:lastmodified":1449033582,
+    "wof:name":"Zany Biotech Private Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [80.186378,13.105781,80.186378,13.105781],
+  "geometry": {"coordinates":[80.186378,13.105781],"type":"Point"}
+}

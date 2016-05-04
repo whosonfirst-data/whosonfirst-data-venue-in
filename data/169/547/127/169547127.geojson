@@ -1,0 +1,62 @@
+{
+  "id": 169547127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.337646,11.109176,77.337646,11.109176",
+    "geom:latitude":11.109176,
+    "geom:longitude":77.337646,
+    "iso:country":"IN",
+    "sg:address":"No. 10, College Road, 1st Cross,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 224 7417",
+    "sg:postcode":"641602",
+    "sg:tags":[
+        "menswear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028425,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28Sbtafhwjbbz4ABrh6v1J_11.109176_77.337646@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b9de7602857fc0ec7f1a198222fa32bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028425,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169547127
+        }
+    ],
+    "wof:id":169547127,
+    "wof:lastmodified":1449033008,
+    "wof:name":"Rajadhani Knitters",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "menswear"
+    ]
+},
+  "bbox": [77.337646,11.109176,77.337646,11.109176],
+  "geometry": {"coordinates":[77.337646,11.109176],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169640861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.360481,22.584177,88.360481,22.584177",
+    "geom:latitude":22.584177,
+    "geom:longitude":88.360481,
+    "iso:country":"IN",
+    "sg:address":"25, Mullick Street,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2268 8710",
+    "sg:postcode":"700007",
+    "sg:tags":[
+        "wax"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903957,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l5JNyyTkgS3SROeB2GvjV_22.584177_88.360481@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a9ca5d86b7d184acc40a59fbd0448836",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903957,
+            "region_id":85672219,
+            "venue_id":169640861
+        }
+    ],
+    "wof:id":169640861,
+    "wof:lastmodified":1449034104,
+    "wof:name":"V. R. Associates",
+    "wof:parent_id":85903957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [88.360481,22.584177,88.360481,22.584177],
+  "geometry": {"coordinates":[88.360481,22.584177],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169580047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.821945,18.910934,72.821945,18.910934",
+    "geom:latitude":18.910934,
+    "geom:longitude":72.821945,
+    "iso:country":"IN",
+    "sg:address":"404-b, Bakhtavar, Colaba,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2215 2660",
+    "sg:postcode":"400005",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903829,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51iRRQbo5UhPxF2cVYcGxT_18.910934_72.821945@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5bf043c30de7e8d6a8377c9d75fbddf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903829,
+            "region_id":-1,
+            "venue_id":169580047
+        }
+    ],
+    "wof:id":169580047,
+    "wof:lastmodified":1449034915,
+    "wof:name":"Interplex India Pvt. Ltd.",
+    "wof:parent_id":85903829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.821945,18.910934,72.821945,18.910934],
+  "geometry": {"coordinates":[72.821945,18.910934],"type":"Point"}
+}

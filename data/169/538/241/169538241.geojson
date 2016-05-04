@@ -1,0 +1,68 @@
+{
+  "id": 169538241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.641121,12.973673,77.641121,12.973673",
+    "geom:latitude":12.973673,
+    "geom:longitude":77.641121,
+    "iso:country":"IN",
+    "sg:address":"2006, 100 Ft. Road, Hal 2nd Stage, Indiranagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Musical Instruments",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2528 5296",
+    "sg:postcode":"560008",
+    "sg:tags":[
+        "process",
+        "control",
+        "equipment"
+    ],
+    "sg:website":"http://www.onlineinstrumentsindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NcpxrtFaefPD6x8k0bKVE_12.973673_77.641121@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2ed03618f7b225542f526e04223c7a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169538241
+        }
+    ],
+    "wof:id":169538241,
+    "wof:lastmodified":1449033101,
+    "wof:name":"Online Instruments",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "process",
+        "control",
+        "equipment"
+    ]
+},
+  "bbox": [77.641121,12.973673,77.641121,12.973673],
+  "geometry": {"coordinates":[77.641121,12.973673],"type":"Point"}
+}

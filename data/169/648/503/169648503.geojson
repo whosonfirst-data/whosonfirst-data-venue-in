@@ -1,0 +1,58 @@
+{
+  "id": 169648503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.628576,12.933644,77.628576,12.933644",
+    "geom:latitude":12.933644,
+    "geom:longitude":77.628576,
+    "iso:country":"IN",
+    "sg:address":"601, First Floor, 12th Main, HAL 2nd Stage, Indiranagar, Bangalore",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560008",
+    "sg:website":"http://www.vaakya.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931041,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZZgFAlCbz82aXmI1K94Qg_12.933644_77.628576@1308163237"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8286ab856b5a383af0846af5828d3498",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931041,
+            "region_id":85672165,
+            "venue_id":169648503
+        }
+    ],
+    "wof:id":169648503,
+    "wof:lastmodified":1449033587,
+    "wof:name":"Vaakya Technologies",
+    "wof:parent_id":85931041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.628576,12.933644,77.628576,12.933644],
+  "geometry": {"coordinates":[77.628576,12.933644],"type":"Point"}
+}

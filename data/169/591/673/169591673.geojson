@@ -1,0 +1,62 @@
+{
+  "id": 169591673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.821266,19.007156,72.821266,19.007156",
+    "geom:latitude":19.007156,
+    "geom:longitude":72.821266,
+    "iso:country":"IN",
+    "sg:address":"22, Gopal Nagar,",
+    "sg:city":"Firozabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 5612 241 286",
+    "sg:postcode":"283203",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903999,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OJlmmqIzEyUo8FATJl0y7_19.007156_72.821266@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"58f55a1dddc6a8d086753645c87fe602",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903999,
+            "region_id":85672171,
+            "venue_id":169591673
+        }
+    ],
+    "wof:id":169591673,
+    "wof:lastmodified":1449034451,
+    "wof:name":"N. S. Mathur & Co.",
+    "wof:parent_id":85903999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.821266,19.007156,72.821266,19.007156],
+  "geometry": {"coordinates":[72.821266,19.007156],"type":"Point"}
+}

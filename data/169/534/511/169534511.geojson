@@ -1,0 +1,67 @@
+{
+  "id": 169534511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.820824,18.923998,72.820824,18.923998",
+    "geom:latitude":18.923998,
+    "geom:longitude":72.820824,
+    "iso:country":"IN",
+    "sg:address":"1406, 14th Floor, Dalamal Tower, Nariman Point,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5637 1095",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Xsd0faupC5rNqjr5l8MkM_18.923998_72.820824@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1157df95b472699ca45adefc0b77851a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169534511
+        }
+    ],
+    "wof:id":169534511,
+    "wof:lastmodified":1449033548,
+    "wof:name":"Conex",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ]
+},
+  "bbox": [72.820824,18.923998,72.820824,18.923998],
+  "geometry": {"coordinates":[72.820824,18.923998],"type":"Point"}
+}

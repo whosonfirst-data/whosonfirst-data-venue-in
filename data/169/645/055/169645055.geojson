@@ -1,0 +1,63 @@
+{
+  "id": 169645055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.693428,24.59024,73.693428,24.59024",
+    "geom:latitude":24.59024,
+    "geom:longitude":73.693428,
+    "iso:country":"IN",
+    "sg:address":"59, Hospital Road,",
+    "sg:city":"Ballabgarh",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 406 9093",
+    "sg:postcode":"121004",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934019,
+        85632469,
+        102028377,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v3sJM4M4pzzt9UbiPV7VL_24.590240_73.693428@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"56c7ea23aeacd43836633aefc21bfa84",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028377,
+            "neighbourhood_id":85934019,
+            "region_id":85672201,
+            "venue_id":169645055
+        }
+    ],
+    "wof:id":169645055,
+    "wof:lastmodified":1449033005,
+    "wof:name":"Vivek  Industries",
+    "wof:parent_id":85934019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [73.693428,24.59024,73.693428,24.59024],
+  "geometry": {"coordinates":[73.693428,24.59024],"type":"Point"}
+}

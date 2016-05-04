@@ -1,0 +1,61 @@
+{
+  "id": 169541121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.008705,11.06915,78.008705,11.06915",
+    "geom:latitude":11.06915,
+    "geom:longitude":78.008705,
+    "iso:country":"IN",
+    "sg:address":"No. 37/1, Singasandra, Hosur Main Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2573 1557",
+    "sg:postcode":"560068",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZM24d4M8uD0ETrIDWrnMT_11.069150_78.008705@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a8530adc27ab0cab09213ef3fd39a3c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169541121
+        }
+    ],
+    "wof:id":169541121,
+    "wof:lastmodified":1449033043,
+    "wof:name":"Trendy Tissus Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [78.008705,11.06915,78.008705,11.06915],
+  "geometry": {"coordinates":[78.008705,11.06915],"type":"Point"}
+}

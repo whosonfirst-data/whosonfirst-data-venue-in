@@ -1,0 +1,63 @@
+{
+  "id": 169578835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.635468,26.470047,74.635468,26.470047",
+    "geom:latitude":26.470047,
+    "geom:longitude":74.635468,
+    "iso:country":"IN",
+    "sg:address":"33a, Jawahar Lal Nehru,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2226 7546",
+    "sg:postcode":"700071",
+    "sg:tags":[
+        "silicon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934435,
+        85632469,
+        102031009,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EsTLlARHrKIsKNcwVGSim_26.470047_74.635468@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cc1ae48166b4c3a80f51b7419517bc34",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031009,
+            "neighbourhood_id":85934435,
+            "region_id":85672201,
+            "venue_id":169578835
+        }
+    ],
+    "wof:id":169578835,
+    "wof:lastmodified":1449033518,
+    "wof:name":"Hind Rectifiers Limited",
+    "wof:parent_id":85934435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silicon"
+    ]
+},
+  "bbox": [74.635468,26.470047,74.635468,26.470047],
+  "geometry": {"coordinates":[74.635468,26.470047],"type":"Point"}
+}

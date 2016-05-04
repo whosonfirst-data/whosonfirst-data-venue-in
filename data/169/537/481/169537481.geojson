@@ -1,0 +1,71 @@
+{
+  "id": 169537481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.532181,13.054927,77.532181,13.054927",
+    "geom:latitude":13.054927,
+    "geom:longitude":77.532181,
+    "iso:country":"IN",
+    "sg:address":"#19, Durga, K.g. Halli, Jalahalli West,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2838 9504",
+    "sg:postcode":"560015",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903877,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mLl7N9uoDnvfPZ1gb91wc_13.054927_77.532181@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"62cf6cb782487a65ce90e08811e53df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903877,
+            "region_id":85672165,
+            "venue_id":169537481
+        }
+    ],
+    "wof:id":169537481,
+    "wof:lastmodified":1449033500,
+    "wof:name":"Lanish Tools",
+    "wof:parent_id":85903877,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.532181,13.054927,77.532181,13.054927],
+  "geometry": {"coordinates":[77.532181,13.054927],"type":"Point"}
+}

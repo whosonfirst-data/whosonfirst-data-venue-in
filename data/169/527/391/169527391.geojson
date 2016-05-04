@@ -1,0 +1,63 @@
+{
+  "id": 169527391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.244423,28.643017,77.244423,28.643017",
+    "geom:latitude":28.643017,
+    "geom:longitude":77.244423,
+    "iso:country":"IN",
+    "sg:address":"M.t. Ansari Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2300 3438",
+    "sg:postcode":"400008",
+    "sg:tags":[
+        "bean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903843,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cNIlkJkBJiVeIAD7QLP4m_28.643017_77.244423@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"34947c23790c2d46ac30f11f37286a04",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85903843,
+            "region_id":85672123,
+            "venue_id":169527391
+        }
+    ],
+    "wof:id":169527391,
+    "wof:lastmodified":1449035279,
+    "wof:name":"Taj Trading Carporation",
+    "wof:parent_id":85903843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bean"
+    ]
+},
+  "bbox": [77.244423,28.643017,77.244423,28.643017],
+  "geometry": {"coordinates":[77.244423,28.643017],"type":"Point"}
+}

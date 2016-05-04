@@ -1,0 +1,66 @@
+{
+  "id": 169528933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.005844,19.0807,73.005844,19.0807",
+    "geom:latitude":19.0807,
+    "geom:longitude":73.005844,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 136, Sector-19c, Vashi,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2766 8294",
+    "sg:postcode":"400705",
+    "sg:tags":[
+        "candle",
+        "holder"
+    ],
+    "sg:website":"http://www.shilpiasia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931637,
+        85632469,
+        102031087,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pXAYwaieqyATEDmceRQPY_19.080700_73.005844@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7360611d012c2a4d0b172c7f52c985f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031087,
+            "neighbourhood_id":85931637,
+            "region_id":85672171,
+            "venue_id":169528933
+        }
+    ],
+    "wof:id":169528933,
+    "wof:lastmodified":1449033569,
+    "wof:name":"Shilpi Creations",
+    "wof:parent_id":85931637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "candle",
+        "holder"
+    ]
+},
+  "bbox": [73.005844,19.0807,73.005844,19.0807],
+  "geometry": {"coordinates":[73.005844,19.0807],"type":"Point"}
+}

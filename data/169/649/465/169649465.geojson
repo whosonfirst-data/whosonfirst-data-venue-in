@@ -1,0 +1,69 @@
+{
+  "id": 169649465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.36933,22.504945,88.36933,22.504945",
+    "geom:latitude":22.504945,
+    "geom:longitude":88.36933,
+    "iso:country":"IN",
+    "sg:address":"87 E/1 Selimpur Road Dhakuria",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"700031",
+    "sg:tags":[
+        "translation",
+        "blog-translation",
+        "wordpress",
+        "wordpress-plugins"
+    ],
+    "sg:website":"http://taragana.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85932061,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CCqoqh9sy6vJdabRNQk7O_22.504945_88.369330@1308163240"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5678a1371b94c71c103c3166d11f5b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85932061,
+            "region_id":85672219,
+            "venue_id":169649465
+        }
+    ],
+    "wof:id":169649465,
+    "wof:lastmodified":1449034944,
+    "wof:name":"Taragana",
+    "wof:parent_id":85932061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "translation",
+        "blog-translation",
+        "wordpress",
+        "wordpress-plugins"
+    ]
+},
+  "bbox": [88.36933,22.504945,88.36933,22.504945],
+  "geometry": {"coordinates":[88.36933,22.504945],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 169535103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.856567,19.195602,72.856567,19.195602",
+    "geom:latitude":19.195602,
+    "geom:longitude":72.856567,
+    "iso:country":"IN",
+    "sg:address":"Akurli Road, Kandivili (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6699 3000",
+    "sg:postcode":"400101",
+    "sg:tags":[
+        "chemical",
+        "equipment",
+        "metal",
+        "electroplating"
+    ],
+    "sg:website":"http://www.growel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931529,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HkturqZ3V6XJ22o5LXUwN_19.195602_72.856567@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6e3ee8f9d30849a6c88d35e3381dccdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931529,
+            "region_id":85672171,
+            "venue_id":169535103
+        }
+    ],
+    "wof:id":169535103,
+    "wof:lastmodified":1449033286,
+    "wof:name":"Grauer & Weil (india) Ltd.",
+    "wof:parent_id":85931529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "equipment",
+        "metal",
+        "electroplating"
+    ]
+},
+  "bbox": [72.856567,19.195602,72.856567,19.195602],
+  "geometry": {"coordinates":[72.856567,19.195602],"type":"Point"}
+}

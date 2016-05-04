@@ -1,0 +1,66 @@
+{
+  "id": 169581369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.371536,22.551968,88.371536,22.551968",
+    "geom:latitude":22.551968,
+    "geom:longitude":88.371536,
+    "iso:country":"IN",
+    "sg:address":"106, Dr. Sundari Mohan Avenue, A -7,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 3257 5873",
+    "sg:postcode":"700014",
+    "sg:tags":[
+        "chemical",
+        "-"
+    ],
+    "sg:website":"http://www.kaygee.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931947,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bNqZpumayRsLPirkyQxqk_22.551968_88.371536@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6939732e6fde76115824fc07fc0b4ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931947,
+            "region_id":85672219,
+            "venue_id":169581369
+        }
+    ],
+    "wof:id":169581369,
+    "wof:lastmodified":1449033381,
+    "wof:name":"K.g. Enterprises",
+    "wof:parent_id":85931947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "-"
+    ]
+},
+  "bbox": [88.371536,22.551968,88.371536,22.551968],
+  "geometry": {"coordinates":[88.371536,22.551968],"type":"Point"}
+}

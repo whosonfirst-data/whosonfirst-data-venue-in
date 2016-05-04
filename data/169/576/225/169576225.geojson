@@ -1,0 +1,64 @@
+{
+  "id": 169576225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.182281,28.645647,77.182281,28.645647",
+    "geom:latitude":28.645647,
+    "geom:longitude":77.182281,
+    "iso:country":"IN",
+    "sg:address":"1501, Vikram Tower, Rajendra Place,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4153 8383",
+    "sg:postcode":"110008",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.bharatrasayan.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928113,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qhWkxqIDQcRKz5SpZChit_28.645647_77.182281@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a0b5b1601421ba43a96a720eb0387aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928113,
+            "region_id":85672123,
+            "venue_id":169576225
+        }
+    ],
+    "wof:id":169576225,
+    "wof:lastmodified":1449035196,
+    "wof:name":"Bharat Rasayan Limited",
+    "wof:parent_id":85928113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.182281,28.645647,77.182281,28.645647],
+  "geometry": {"coordinates":[77.182281,28.645647],"type":"Point"}
+}

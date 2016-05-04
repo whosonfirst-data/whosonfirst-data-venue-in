@@ -1,0 +1,61 @@
+{
+  "id": 169576973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"82.151642,17.250061,82.151642,17.250061",
+    "geom:latitude":17.250061,
+    "geom:longitude":82.151642,
+    "iso:country":"IN",
+    "sg:address":"4th Floor, Commercial Complex, Waltair Uplands, Siripuram,",
+    "sg:city":"Vishakapattanam",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 891 255 4948",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.frontlinetrade.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dt7uJfKPwuDltk9vVgh6F_17.250061_82.151642@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9d30ee93ad8cb669fe68f20e2e6e1f4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169576973
+        }
+    ],
+    "wof:id":169576973,
+    "wof:lastmodified":1449035198,
+    "wof:name":"Frontline Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [82.151642,17.250061,82.151642,17.250061],
+  "geometry": {"coordinates":[82.151642,17.250061],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 169560077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.648834,28.920692,77.648834,28.920692",
+    "geom:latitude":28.920692,
+    "geom:longitude":77.648834,
+    "iso:country":"IN",
+    "sg:address":"Delhi Road, Partapur,",
+    "sg:city":"Meerut",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 121 244 0130",
+    "sg:postcode":"250103",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1H6r9ZSNJwxlTvVztiO8v8_28.920692_77.648834@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"19121d8cc39d997da51559dac507acd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169560077
+        }
+    ],
+    "wof:id":169560077,
+    "wof:lastmodified":1449035179,
+    "wof:name":"Dayal Fertilizers (p) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.648834,28.920692,77.648834,28.920692],
+  "geometry": {"coordinates":[77.648834,28.920692],"type":"Point"}
+}

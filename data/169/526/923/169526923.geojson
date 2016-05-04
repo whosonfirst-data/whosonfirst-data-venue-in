@@ -1,0 +1,64 @@
+{
+  "id": 169526923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.840103,18.955536,72.840103,18.955536",
+    "geom:latitude":18.955536,
+    "geom:longitude":72.840103,
+    "iso:country":"IN",
+    "sg:address":"50-a, Poona Street, Dana Bunder,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2374 5924",
+    "sg:postcode":"400009",
+    "sg:tags":[
+        "bag",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WMsya73XyoBymcF91ROYe_18.955536_72.840103@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"dd16d5311cfcbae32d7ebe8d68438ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169526923
+        }
+    ],
+    "wof:id":169526923,
+    "wof:lastmodified":1449033703,
+    "wof:name":"Angad Exports",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag",
+        "-"
+    ]
+},
+  "bbox": [72.840103,18.955536,72.840103,18.955536],
+  "geometry": {"coordinates":[72.840103,18.955536],"type":"Point"}
+}

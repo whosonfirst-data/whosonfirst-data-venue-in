@@ -1,0 +1,71 @@
+{
+  "id": 169537575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.602097,12.907272,77.602097,12.907272",
+    "geom:latitude":12.907272,
+    "geom:longitude":77.602097,
+    "iso:country":"IN",
+    "sg:address":"147, 4th Cross, 2nd Main, Prakash Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2312 0196",
+    "sg:postcode":"560021",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931061,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1m45GLtjBVzFRLCNl25GAa_12.907272_77.602097@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"025bf5a2ecdced3773ea578b67fb3b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931061,
+            "region_id":85672165,
+            "venue_id":169537575
+        }
+    ],
+    "wof:id":169537575,
+    "wof:lastmodified":1449033498,
+    "wof:name":"Venkat-easha Industries",
+    "wof:parent_id":85931061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.602097,12.907272,77.602097,12.907272],
+  "geometry": {"coordinates":[77.602097,12.907272],"type":"Point"}
+}

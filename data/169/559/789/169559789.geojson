@@ -1,0 +1,62 @@
+{
+  "id": 169559789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.930809,19.280186,72.930809,19.280186",
+    "geom:latitude":19.280186,
+    "geom:longitude":72.930809,
+    "iso:country":"IN",
+    "sg:address":"2860-6-8, Behind G.b. Road,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4289 7322",
+    "sg:postcode":"110006",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931419,
+        85632469,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ilwayGr9NLoeIyCKmGIn2_19.280186_72.930809@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"786c6e21a1dea42069f3b6eafeffee95",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85931419,
+            "region_id":85672171,
+            "venue_id":169559789
+        }
+    ],
+    "wof:id":169559789,
+    "wof:lastmodified":1449035237,
+    "wof:name":"Crown Sales Corporation",
+    "wof:parent_id":85931419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.930809,19.280186,72.930809,19.280186],
+  "geometry": {"coordinates":[72.930809,19.280186],"type":"Point"}
+}

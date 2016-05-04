@@ -1,0 +1,63 @@
+{
+  "id": 169646127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.225075,13.069368,80.225075,13.069368",
+    "geom:latitude":13.069368,
+    "geom:longitude":80.225075,
+    "iso:country":"IN",
+    "sg:address":"103 A, Nelson Manickam Road, Aminjikarai,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2374 3150",
+    "sg:postcode":"600029",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931747,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NgaczNyyl7RzXjWruH27T_13.069368_80.225075@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ed7ae213afbeb84d33b9cb0dcd06145e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931747,
+            "region_id":85672245,
+            "venue_id":169646127
+        }
+    ],
+    "wof:id":169646127,
+    "wof:lastmodified":1449032609,
+    "wof:name":"Welchem Scientific Traders",
+    "wof:parent_id":85931747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [80.225075,13.069368,80.225075,13.069368],
+  "geometry": {"coordinates":[80.225075,13.069368],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169537935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.543404,13.011591,77.543404,13.011591",
+    "geom:latitude":13.011591,
+    "geom:longitude":77.543404,
+    "iso:country":"IN",
+    "sg:address":"407, 1st Main Road, Peenya 2nd Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 3292 3682",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "component",
+        "pressed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BFUMRP7Pl45lHuTADerRf_13.011591_77.543404@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8a3804c9196a1325e48b181dd7361f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169537935
+        }
+    ],
+    "wof:id":169537935,
+    "wof:lastmodified":1449033500,
+    "wof:name":"Srs Precision Products",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "pressed"
+    ]
+},
+  "bbox": [77.543404,13.011591,77.543404,13.011591],
+  "geometry": {"coordinates":[77.543404,13.011591],"type":"Point"}
+}

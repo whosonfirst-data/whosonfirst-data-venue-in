@@ -1,0 +1,68 @@
+{
+  "id": 169528489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.855888,19.17267,72.855888,19.17267",
+    "geom:latitude":19.17267,
+    "geom:longitude":72.855888,
+    "iso:country":"IN",
+    "sg:address":"321, Durian Estate, Goregaon-mulund Link Road, Goregaon (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Department Of Motor Vehicles",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2873 0646",
+    "sg:postcode":"400063",
+    "sg:tags":[
+        "bulk",
+        "intermediate",
+        "drug"
+    ],
+    "sg:website":"http://www.keshavaindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931525,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kT6rcODoK8GsfTJ5W6So2_19.172670_72.855888@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0101e2db2f6ef25b9c87450986be5656",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931525,
+            "region_id":85672171,
+            "venue_id":169528489
+        }
+    ],
+    "wof:id":169528489,
+    "wof:lastmodified":1449033569,
+    "wof:name":"Keshava Organics Pvt. Ltd.",
+    "wof:parent_id":85931525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "intermediate",
+        "drug"
+    ]
+},
+  "bbox": [72.855888,19.17267,72.855888,19.17267],
+  "geometry": {"coordinates":[72.855888,19.17267],"type":"Point"}
+}

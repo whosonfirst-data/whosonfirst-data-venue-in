@@ -1,0 +1,65 @@
+{
+  "id": 169584735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.193085,28.705605,77.193085,28.705605",
+    "geom:latitude":28.705605,
+    "geom:longitude":77.193085,
+    "iso:country":"IN",
+    "sg:address":"581/l , Model Town,",
+    "sg:city":"Panipat",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 1802651474",
+    "sg:postcode":"132103",
+    "sg:tags":[
+        "synthetic",
+        "pu/pvc"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928585,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QyNtJZqwpXECSG1peVJLt_28.705605_77.193085@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"390907c00b83be374835392a5a36f530",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928585,
+            "region_id":85672123,
+            "venue_id":169584735
+        }
+    ],
+    "wof:id":169584735,
+    "wof:lastmodified":1449033038,
+    "wof:name":"Linkage Exports",
+    "wof:parent_id":85928585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "synthetic",
+        "pu/pvc"
+    ]
+},
+  "bbox": [77.193085,28.705605,77.193085,28.705605],
+  "geometry": {"coordinates":[77.193085,28.705605],"type":"Point"}
+}

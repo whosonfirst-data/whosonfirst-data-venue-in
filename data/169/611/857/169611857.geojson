@@ -1,0 +1,65 @@
+{
+  "id": 169611857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.203362,28.64465,77.203362,28.64465",
+    "geom:latitude":28.64465,
+    "geom:longitude":77.203362,
+    "iso:country":"IN",
+    "sg:address":"122, Anarkali Complex, Jhandewalan Ext.,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2354 7209",
+    "sg:postcode":"110055",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928243,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36YdyDOOWdfjVvDihXCbW4_28.644650_77.203362@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"385c86570015c6a92cb37bcf4e5e6d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928243,
+            "region_id":85672123,
+            "venue_id":169611857
+        }
+    ],
+    "wof:id":169611857,
+    "wof:lastmodified":1449035263,
+    "wof:name":"Rosita Enterprises",
+    "wof:parent_id":85928243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [77.203362,28.64465,77.203362,28.64465],
+  "geometry": {"coordinates":[77.203362,28.64465],"type":"Point"}
+}

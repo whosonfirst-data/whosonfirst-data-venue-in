@@ -1,0 +1,62 @@
+{
+  "id": 169639313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.643204,23.241978,72.643204,23.241978",
+    "geom:latitude":23.241978,
+    "geom:longitude":72.643204,
+    "iso:country":"IN",
+    "sg:address":"Plot No: 07, Sector-24,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 402 1290",
+    "sg:postcode":"121005",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030253,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y09lnmKQnCt1c1XijLVzp_23.241978_72.643204@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"476a82bc578835fa107603377f3643f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030253,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169639313
+        }
+    ],
+    "wof:id":169639313,
+    "wof:lastmodified":1449035949,
+    "wof:name":"Unimax Laboratories",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [72.643204,23.241978,72.643204,23.241978],
+  "geometry": {"coordinates":[72.643204,23.241978],"type":"Point"}
+}

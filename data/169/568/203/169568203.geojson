@@ -1,0 +1,53 @@
+{
+  "id": 169568203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.847725,19.034321,72.847725,19.034321",
+    "geom:latitude":19.034321,
+    "geom:longitude":72.847725,
+    "iso:country":"IN",
+    "sg:address":"Senapati Bapat Marg, Dadar (w)",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2422 7964",
+    "sg:postcode":"400028",
+    "sg:province":"Maharashtra",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931443,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dHmHeve9EpZue2nbSriTj_19.034321_72.847725@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3b6813ea3db80805b1fa7f39bb5a88d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931443,
+            "region_id":85672171,
+            "venue_id":169568203
+        }
+    ],
+    "wof:id":169568203,
+    "wof:lastmodified":1449032613,
+    "wof:name":"Trans World Traders",
+    "wof:parent_id":85931443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.847725,19.034321,72.847725,19.034321],
+  "geometry": {"coordinates":[72.847725,19.034321],"type":"Point"}
+}

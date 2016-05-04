@@ -1,0 +1,65 @@
+{
+  "id": 169542987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.543488,13.010885,77.543488,13.010885",
+    "geom:latitude":13.010885,
+    "geom:longitude":77.543488,
+    "iso:country":"IN",
+    "sg:address":"No.a 352, 8th Main, Peenya 2nd Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4117 1696",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "equipment",
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30YodRDweYp1s55dEyxjPO_13.010885_77.543488@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5fc185eba220947d674e3f88504051d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169542987
+        }
+    ],
+    "wof:id":169542987,
+    "wof:lastmodified":1449035222,
+    "wof:name":"System Cable & Wires Pvt. Ltd.",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telecommunication"
+    ]
+},
+  "bbox": [77.543488,13.010885,77.543488,13.010885],
+  "geometry": {"coordinates":[77.543488,13.010885],"type":"Point"}
+}

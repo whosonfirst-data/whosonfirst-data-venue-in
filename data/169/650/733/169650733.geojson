@@ -1,0 +1,67 @@
+{
+  "id": 169650733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.8089,18.550173,73.8089,18.550173",
+    "geom:latitude":18.550173,
+    "geom:longitude":73.8089,
+    "iso:country":"IN",
+    "sg:address":"Baner Raod",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"411037",
+    "sg:tags":[
+        "recruitment",
+        "executive-search",
+        "staffing"
+    ],
+    "sg:website":"http://antal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931295,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19wYm1xKCwJ5JPA9DD9tw2_18.550173_73.808900@1308163237"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5e31cb7d4ac877599efe252abfcab0d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931295,
+            "region_id":85672171,
+            "venue_id":169650733
+        }
+    ],
+    "wof:id":169650733,
+    "wof:lastmodified":1449034699,
+    "wof:name":"Antal International",
+    "wof:parent_id":85931295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recruitment",
+        "executive-search",
+        "staffing"
+    ]
+},
+  "bbox": [73.8089,18.550173,73.8089,18.550173],
+  "geometry": {"coordinates":[73.8089,18.550173],"type":"Point"}
+}

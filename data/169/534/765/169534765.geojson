@@ -1,0 +1,67 @@
+{
+  "id": 169534765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.832375,18.946978,72.832375,18.946978",
+    "geom:latitude":18.946978,
+    "geom:longitude":72.832375,
+    "iso:country":"IN",
+    "sg:address":"57, Krishna Bhuvan, 1st Floor, Lohar Chawal,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2208 2782",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vszGUiwhL8cNMOlmCh9nC_18.946978_72.832375@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3c42db57ce30a9bec86b4dd7b19ab4ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169534765
+        }
+    ],
+    "wof:id":169534765,
+    "wof:lastmodified":1449033548,
+    "wof:name":"Rahul Brothers",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ]
+},
+  "bbox": [72.832375,18.946978,72.832375,18.946978],
+  "geometry": {"coordinates":[72.832375,18.946978],"type":"Point"}
+}

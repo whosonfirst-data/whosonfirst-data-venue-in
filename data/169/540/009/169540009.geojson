@@ -1,0 +1,65 @@
+{
+  "id": 169540009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.524681,13.028806,77.524681,13.028806",
+    "geom:latitude":13.028806,
+    "geom:longitude":77.524681,
+    "iso:country":"IN",
+    "sg:address":"C-216, 4th Cross, 1st Stage, Peenya Industrial  Estate,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Dive Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4127 1021",
+    "sg:tags":[
+        "shaft",
+        "bright",
+        "collar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fH3AZYAQSRU3u0DOfXGDe_13.028806_77.524681@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5db4f8eeb56ad804f21efc4547564809",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169540009
+        }
+    ],
+    "wof:id":169540009,
+    "wof:lastmodified":1449033978,
+    "wof:name":"Ideal Ferro Alloys (p) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shaft",
+        "bright",
+        "collar"
+    ]
+},
+  "bbox": [77.524681,13.028806,77.524681,13.028806],
+  "geometry": {"coordinates":[77.524681,13.028806],"type":"Point"}
+}

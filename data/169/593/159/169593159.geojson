@@ -1,0 +1,64 @@
+{
+  "id": 169593159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.137627,28.65502,77.137627,28.65502",
+    "geom:latitude":28.65502,
+    "geom:longitude":77.137627,
+    "iso:country":"IN",
+    "sg:address":"69/6a, Najafgarh Road, Kirti Nagar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2543 5861",
+    "sg:postcode":"110015",
+    "sg:tags":[
+        "synthetic"
+    ],
+    "sg:website":"http://www.satija.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927889,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57KSymD8y8C3GlRJJaAcuW_28.655020_77.137627@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"95972076015dee11ba8def384fabfda9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927889,
+            "region_id":85672123,
+            "venue_id":169593159
+        }
+    ],
+    "wof:id":169593159,
+    "wof:lastmodified":1449034874,
+    "wof:name":"Naveen Rubber Industries",
+    "wof:parent_id":85927889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "synthetic"
+    ]
+},
+  "bbox": [77.137627,28.65502,77.137627,28.65502],
+  "geometry": {"coordinates":[77.137627,28.65502],"type":"Point"}
+}

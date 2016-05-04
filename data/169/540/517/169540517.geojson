@@ -1,0 +1,64 @@
+{
+  "id": 169540517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.648682,13.018385,77.648682,13.018385",
+    "geom:latitude":13.018385,
+    "geom:longitude":77.648682,
+    "iso:country":"IN",
+    "sg:address":"41/4, 3rd Cross, S.g. Palya,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 802553007585",
+    "sg:postcode":"560029",
+    "sg:tags":[
+        "silk"
+    ],
+    "sg:website":"http://www.narappa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931031,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VEN0LEdQq5hsDWneXhCt1_13.018385_77.648682@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2408a607da007eab90de0f3cb64842e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931031,
+            "region_id":85672165,
+            "venue_id":169540517
+        }
+    ],
+    "wof:id":169540517,
+    "wof:lastmodified":1449033977,
+    "wof:name":"Gajananya Silk Fabrics",
+    "wof:parent_id":85931031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.648682,13.018385,77.648682,13.018385],
+  "geometry": {"coordinates":[77.648682,13.018385],"type":"Point"}
+}

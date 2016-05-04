@@ -1,0 +1,66 @@
+{
+  "id": 169534057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.826439,19.20808,72.826439,19.20808",
+    "geom:latitude":19.20808,
+    "geom:longitude":72.826439,
+    "iso:country":"IN",
+    "sg:address":"Charkop Inustrial Estate, Kandivali (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 222868201019",
+    "sg:postcode":"400067",
+    "sg:tags":[
+        "medication",
+        "drug"
+    ],
+    "sg:website":"http://www.assocaps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931623,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cbwPH2fttF523EY2otZh3_19.208080_72.826439@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e22af88caf099fa99fbc5fd91981adae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931623,
+            "region_id":85672171,
+            "venue_id":169534057
+        }
+    ],
+    "wof:id":169534057,
+    "wof:lastmodified":1449033548,
+    "wof:name":"Associated Capsules Pvt. Ltd.",
+    "wof:parent_id":85931623,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medication",
+        "drug"
+    ]
+},
+  "bbox": [72.826439,19.20808,72.826439,19.20808],
+  "geometry": {"coordinates":[72.826439,19.20808],"type":"Point"}
+}

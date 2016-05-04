@@ -1,0 +1,57 @@
+{
+  "id": 169536103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.835426,18.936367,72.835426,18.936367",
+    "geom:latitude":18.936367,
+    "geom:longitude":72.835426,
+    "iso:country":"IN",
+    "sg:address":"120, Bora Bazar Street, R.no. 4, 3rd Floor, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 3097 6776",
+    "sg:postcode":"400001",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vEjqdDk8X2J8A6dr8Of5U_18.936367_72.835426@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"58557328220d87c095fe32b7fcd1b823",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169536103
+        }
+    ],
+    "wof:id":169536103,
+    "wof:lastmodified":1449034659,
+    "wof:name":"Sangam Exports",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.835426,18.936367,72.835426,18.936367],
+  "geometry": {"coordinates":[72.835426,18.936367],"type":"Point"}
+}

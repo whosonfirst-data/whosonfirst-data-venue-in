@@ -1,0 +1,58 @@
+{
+  "id": 169652173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.649088,12.965674,77.649088,12.965674",
+    "geom:latitude":12.965674,
+    "geom:longitude":77.649088,
+    "iso:country":"IN",
+    "sg:address":"#144, 60 feet Road,  KHB Colony, 5th Block,",
+    "sg:city":"koramangala,bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560095",
+    "sg:website":"http://www.xenglobaltech.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50FbTapIQLVsxXvEM37lFd_12.965674_77.649088@1308163241"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6e84a40f723eec90962894aa3bc257ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169652173
+        }
+    ],
+    "wof:id":169652173,
+    "wof:lastmodified":1449034806,
+    "wof:name":"XEN GlobalTech ",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.649088,12.965674,77.649088,12.965674],
+  "geometry": {"coordinates":[77.649088,12.965674],"type":"Point"}
+}

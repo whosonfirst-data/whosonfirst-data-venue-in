@@ -1,0 +1,64 @@
+{
+  "id": 169549041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.824532,19.124662,72.824532,19.124662",
+    "geom:latitude":19.124662,
+    "geom:longitude":72.824532,
+    "iso:country":"IN",
+    "sg:address":"17-a, Saheli Nagar,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 252 3340",
+    "sg:tags":[
+        "fitting",
+        "fixture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931475,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1homdjUBAmFyrXCcIFBaSH_19.124662_72.824532@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"379f29e2d5fc2bf0ec7bac6142ade00a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931475,
+            "region_id":85672171,
+            "venue_id":169549041
+        }
+    ],
+    "wof:id":169549041,
+    "wof:lastmodified":1449033591,
+    "wof:name":"Ethnic Art",
+    "wof:parent_id":85931475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitting",
+        "fixture"
+    ]
+},
+  "bbox": [72.824532,19.124662,72.824532,19.124662],
+  "geometry": {"coordinates":[72.824532,19.124662],"type":"Point"}
+}

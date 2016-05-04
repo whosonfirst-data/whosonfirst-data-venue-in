@@ -1,0 +1,64 @@
+{
+  "id": 169605881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.013573,19.099918,73.013573,19.099918",
+    "geom:latitude":19.099918,
+    "geom:longitude":73.013573,
+    "iso:country":"IN",
+    "sg:address":"W 381,t.t.c. M.i.d.c. Indl. Area, Thane-belapur Road",
+    "sg:city":"Thane",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2769 4958",
+    "sg:postcode":"400701",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031087,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2whB9RMn56wSCo7ttUA1gN_19.099918_73.013573@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"33ab8e730d2dcad4266599b7ac79338c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031087,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169605881
+        }
+    ],
+    "wof:id":169605881,
+    "wof:lastmodified":1449034288,
+    "wof:name":"Quality Products Finishers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [73.013573,19.099918,73.013573,19.099918],
+  "geometry": {"coordinates":[73.013573,19.099918],"type":"Point"}
+}

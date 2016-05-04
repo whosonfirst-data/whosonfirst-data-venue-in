@@ -1,0 +1,72 @@
+{
+  "id": 169536595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.250404,12.99966,80.250404,12.99966",
+    "geom:latitude":12.99966,
+    "geom:longitude":80.250404,
+    "iso:country":"IN",
+    "sg:address":"432, K.r. Road, 14th Cross, Shastrinagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2676 5658",
+    "sg:postcode":"560028",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903855,
+        85632469,
+        102029537,
+        85672245,
+        85931729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mP8dBTyBay3IXN9b1SnsN_12.999660_80.250404@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"84d3610e1fd3f6e99b81edbb99977b92",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903855,
+            "region_id":85672245,
+            "venue_id":169536595
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931729,
+            "region_id":85672245,
+            "venue_id":169536595
+        }
+    ],
+    "wof:id":169536595,
+    "wof:lastmodified":1449034659,
+    "wof:name":"Latha Plastronics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [80.250404,12.99966,80.250404,12.99966],
+  "geometry": {"coordinates":[80.250404,12.99966],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169559303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.181442,28.670813,77.181442,28.670813",
+    "geom:latitude":28.670813,
+    "geom:longitude":77.181442,
+    "iso:country":"IN",
+    "sg:address":"A-882/3, Behind Canara Bank, Shastri Nagar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2365 1861",
+    "sg:postcode":"110052",
+    "sg:tags":[
+        "product",
+        "gum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928115,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60JN9vX3iXw3zWOF12e0zM_28.670813_77.181442@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a14bf3a0f86f9d902cf56a89fc6141c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928115,
+            "region_id":85672123,
+            "venue_id":169559303
+        }
+    ],
+    "wof:id":169559303,
+    "wof:lastmodified":1449035237,
+    "wof:name":"Chitra Glue",
+    "wof:parent_id":85928115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "gum"
+    ]
+},
+  "bbox": [77.181442,28.670813,77.181442,28.670813],
+  "geometry": {"coordinates":[77.181442,28.670813],"type":"Point"}
+}

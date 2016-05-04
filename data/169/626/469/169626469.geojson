@@ -1,0 +1,66 @@
+{
+  "id": 169626469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.014702,19.006781,73.014702,19.006781",
+    "geom:latitude":19.006781,
+    "geom:longitude":73.014702,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 365, Sector-58,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 230 7463",
+    "sg:postcode":"121004",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "sg:website":"http://www.sparkengg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931651,
+        85632469,
+        102029191,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hZ5Mti7DdhG9OQMKjJzNw_19.006781_73.014702@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5c31bfd55419a159621bd043f9bc269c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029191,
+            "neighbourhood_id":85931651,
+            "region_id":85672171,
+            "venue_id":169626469
+        }
+    ],
+    "wof:id":169626469,
+    "wof:lastmodified":1449035972,
+    "wof:name":"Spark Engineering",
+    "wof:parent_id":85931651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [73.014702,19.006781,73.014702,19.006781],
+  "geometry": {"coordinates":[73.014702,19.006781],"type":"Point"}
+}

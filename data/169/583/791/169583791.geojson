@@ -1,0 +1,65 @@
+{
+  "id": 169583791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.343567,28.67585,77.343567,28.67585",
+    "geom:latitude":28.67585,
+    "geom:longitude":77.343567,
+    "iso:country":"IN",
+    "sg:address":"S-10, Site-1b.s.industrial Area,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 227 0820",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53awsEpV584JChHBggXCKq_28.675850_77.343567@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7beb945f73b3e447f93fb82036038523",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169583791
+        }
+    ],
+    "wof:id":169583791,
+    "wof:lastmodified":1449035266,
+    "wof:name":"Kumar Paints (india)pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.343567,28.67585,77.343567,28.67585],
+  "geometry": {"coordinates":[77.343567,28.67585],"type":"Point"}
+}

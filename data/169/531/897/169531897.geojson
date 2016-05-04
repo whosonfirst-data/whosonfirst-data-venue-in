@@ -1,0 +1,64 @@
+{
+  "id": 169531897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.858315,19.163736,72.858315,19.163736",
+    "geom:latitude":19.163736,
+    "geom:longitude":72.858315,
+    "iso:country":"IN",
+    "sg:address":"Western Express Highway, Goregaon (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2685 6071",
+    "sg:postcode":"400065",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.mahanand.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931525,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nJlzRj1lPxqg5gS1HdlJG_19.163736_72.858315@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c95cd41de6a1cd068e0ff02c19aab6a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931525,
+            "region_id":85672171,
+            "venue_id":169531897
+        }
+    ],
+    "wof:id":169531897,
+    "wof:lastmodified":1449033476,
+    "wof:name":"Mahanand Dairy",
+    "wof:parent_id":85931525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.858315,19.163736,72.858315,19.163736],
+  "geometry": {"coordinates":[72.858315,19.163736],"type":"Point"}
+}

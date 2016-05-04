@@ -1,0 +1,65 @@
+{
+  "id": 169629855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.560593,23.038778,72.560593,23.038778",
+    "geom:latitude":23.038778,
+    "geom:longitude":72.560593,
+    "iso:country":"IN",
+    "sg:address":"22/a, Swastik Society, Navrangpura,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 792656146055463",
+    "sg:postcode":"380009",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933465,
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h3R9cEjH0CNw4iXEgCU28_23.038778_72.560593@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e253bf183b00857f3b57aac41cda69ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":85933465,
+            "region_id":85672249,
+            "venue_id":169629855
+        }
+    ],
+    "wof:id":169629855,
+    "wof:lastmodified":1449035186,
+    "wof:name":"Sudesh Chemicals Pvt. Ltd.",
+    "wof:parent_id":85933465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [72.560593,23.038778,72.560593,23.038778],
+  "geometry": {"coordinates":[72.560593,23.038778],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169638611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.292595,28.612238,77.292595,28.612238",
+    "geom:latitude":28.612238,
+    "geom:longitude":77.292595,
+    "iso:country":"IN",
+    "sg:address":"135, Patparganj Indl. Estate,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2214 7774",
+    "sg:postcode":"110092",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928143,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Cf4rALWNxCJL4KWmu73FN_28.612238_77.292595@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1166a346860950d9bf93541fb9595492",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928143,
+            "region_id":85672123,
+            "venue_id":169638611
+        }
+    ],
+    "wof:id":169638611,
+    "wof:lastmodified":1449032868,
+    "wof:name":"Unichem Engineering (p) Ltd.",
+    "wof:parent_id":85928143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [77.292595,28.612238,77.292595,28.612238],
+  "geometry": {"coordinates":[77.292595,28.612238],"type":"Point"}
+}

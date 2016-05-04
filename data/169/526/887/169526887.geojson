@@ -1,0 +1,67 @@
+{
+  "id": 169526887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.849548,19.049994,72.849548,19.049994",
+    "geom:latitude":19.049994,
+    "geom:longitude":72.849548,
+    "iso:country":"IN",
+    "sg:address":"Shop No. 4, Sion Bandra Link Road, Sion (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2401 8716",
+    "sg:postcode":"400017",
+    "sg:tags":[
+        "bag",
+        "-",
+        "cotton/canvas/synthetic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903903,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pbgpiRgqUgSlpF9elsAQ1_19.049994_72.849548@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"da3c288436bd8ebc15a687e6ea62ae34",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903903,
+            "region_id":85672171,
+            "venue_id":169526887
+        }
+    ],
+    "wof:id":169526887,
+    "wof:lastmodified":1449033703,
+    "wof:name":"Universal Leather Boutique",
+    "wof:parent_id":85903903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag",
+        "-",
+        "cotton/canvas/synthetic"
+    ]
+},
+  "bbox": [72.849548,19.049994,72.849548,19.049994],
+  "geometry": {"coordinates":[72.849548,19.049994],"type":"Point"}
+}

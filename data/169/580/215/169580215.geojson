@@ -1,0 +1,63 @@
+{
+  "id": 169580215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.356056,22.524797,88.356056,22.524797",
+    "geom:latitude":22.524797,
+    "geom:longitude":88.356056,
+    "iso:country":"IN",
+    "sg:address":"109/25a, Hazra Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2475 5160",
+    "sg:postcode":"700026",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931939,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MigQkfjCszI8dA2FG5LMP_22.524797_88.356056@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b7d768750996d16a161b02ae0b45789e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931939,
+            "region_id":85672219,
+            "venue_id":169580215
+        }
+    ],
+    "wof:id":169580215,
+    "wof:lastmodified":1449034916,
+    "wof:name":"J. J. Industrial Syndicate (p) Ltd.",
+    "wof:parent_id":85931939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [88.356056,22.524797,88.356056,22.524797],
+  "geometry": {"coordinates":[88.356056,22.524797],"type":"Point"}
+}

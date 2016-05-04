@@ -1,0 +1,65 @@
+{
+  "id": 169579965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.802444,18.507315,73.802444,18.507315",
+    "geom:latitude":18.507315,
+    "geom:longitude":73.802444,
+    "iso:country":"IN",
+    "sg:address":"11, Sankalp, 47/3, Paud Road,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2544 9958",
+    "sg:postcode":"411038",
+    "sg:tags":[
+        "plant",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931203,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u8MR0b59chX16lk9hegcS_18.507315_73.802444@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"12d65909818c2fc3b62ea4eb6dbfc51f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931203,
+            "region_id":85672171,
+            "venue_id":169579965
+        }
+    ],
+    "wof:id":169579965,
+    "wof:lastmodified":1449033740,
+    "wof:name":"Interface",
+    "wof:parent_id":85931203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [73.802444,18.507315,73.802444,18.507315],
+  "geometry": {"coordinates":[73.802444,18.507315],"type":"Point"}
+}

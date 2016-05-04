@@ -1,0 +1,63 @@
+{
+  "id": 169615871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"87.303673,23.533075,87.303673,23.533075",
+    "geom:latitude":23.533075,
+    "geom:longitude":87.303673,
+    "iso:country":"IN",
+    "sg:address":"412-a, City Centre,",
+    "sg:city":"Indore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 731 243 0097",
+    "sg:postcode":"452008",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.sanchichem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030323,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z2DAbcke9xamUmMS1Ffi7_23.533075_87.303673@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f3314c286993f7fd0607c6b794c6913a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030323,
+            "neighbourhood_id":-1,
+            "region_id":85672219,
+            "venue_id":169615871
+        }
+    ],
+    "wof:id":169615871,
+    "wof:lastmodified":1449033732,
+    "wof:name":"Sanchi Chemicals Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [87.303673,23.533075,87.303673,23.533075],
+  "geometry": {"coordinates":[87.303673,23.533075],"type":"Point"}
+}

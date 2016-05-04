@@ -1,0 +1,67 @@
+{
+  "id": 169529257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.810951,18.977627,72.810951,18.977627",
+    "geom:latitude":18.977627,
+    "geom:longitude":72.810951,
+    "iso:country":"IN",
+    "sg:address":"30/g, Heera Panna Shopping Centre, Haji Ali,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2352 2222",
+    "sg:postcode":"400026",
+    "sg:tags":[
+        "record",
+        "tape",
+        "cds"
+    ],
+    "sg:website":"http://www.valemusicindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903901,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BddlD0YFk2sm3Egy6wDM2_18.977627_72.810951@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4e030f08eb4677824deca472aa78b165",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903901,
+            "region_id":85672171,
+            "venue_id":169529257
+        }
+    ],
+    "wof:id":169529257,
+    "wof:lastmodified":1449034114,
+    "wof:name":"Vale Entertainment Ltd.",
+    "wof:parent_id":85903901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "record",
+        "tape",
+        "cds"
+    ]
+},
+  "bbox": [72.810951,18.977627,72.810951,18.977627],
+  "geometry": {"coordinates":[72.810951,18.977627],"type":"Point"}
+}

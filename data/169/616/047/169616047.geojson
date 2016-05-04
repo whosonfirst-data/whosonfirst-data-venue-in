@@ -1,0 +1,62 @@
+{
+  "id": 169616047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.533699,23.052456,72.533699,23.052456",
+    "geom:latitude":23.052456,
+    "geom:longitude":72.533699,
+    "iso:country":"IN",
+    "sg:address":"Gurukul Road., Memnagar,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"380056",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933443,
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WuP4HdZBvpN6jOwtIWIz4_23.052456_72.533699@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"04458e5a83da1601a19ab4b4f65c5e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":85933443,
+            "region_id":85672249,
+            "venue_id":169616047
+        }
+    ],
+    "wof:id":169616047,
+    "wof:lastmodified":1449035101,
+    "wof:name":"Sansun Chemicals",
+    "wof:parent_id":85933443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.533699,23.052456,72.533699,23.052456],
+  "geometry": {"coordinates":[72.533699,23.052456],"type":"Point"}
+}

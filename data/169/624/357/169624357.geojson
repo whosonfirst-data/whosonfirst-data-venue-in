@@ -1,0 +1,61 @@
+{
+  "id": 169624357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.10659,28.603815,77.10659,28.603815",
+    "geom:latitude":28.603815,
+    "geom:longitude":77.10659,
+    "iso:country":"IN",
+    "sg:address":"Rz-37, West Sagar Pur,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110046",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q7Gx9x4ja9eo5qh2aIzUJ_28.603815_77.106590@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cf4db2ecbcfc11833df8a1b80b2adacb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169624357
+        }
+    ],
+    "wof:id":169624357,
+    "wof:lastmodified":1449034959,
+    "wof:name":"Silica Gel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [77.10659,28.603815,77.10659,28.603815],
+  "geometry": {"coordinates":[77.10659,28.603815],"type":"Point"}
+}

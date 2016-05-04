@@ -1,0 +1,63 @@
+{
+  "id": 169559465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.193924,13.01139,80.193924,13.01139",
+    "geom:latitude":13.01139,
+    "geom:longitude":80.193924,
+    "iso:country":"IN",
+    "sg:address":"Ii-a/7, Nehru Nagar,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 279 2027",
+    "sg:postcode":"201001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927573,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mqocPKmvPYoX8Hf1vEQcB_13.011390_80.193924@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6f64468c12c460edb2319bd811988aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85927573,
+            "region_id":85672245,
+            "venue_id":169559465
+        }
+    ],
+    "wof:id":169559465,
+    "wof:lastmodified":1449035238,
+    "wof:name":"Coating & Compounding Chemicals",
+    "wof:parent_id":85927573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.193924,13.01139,80.193924,13.01139],
+  "geometry": {"coordinates":[80.193924,13.01139],"type":"Point"}
+}

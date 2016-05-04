@@ -1,0 +1,68 @@
+{
+  "id": 169548177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.837219,18.939556,72.837219,18.939556",
+    "geom:latitude":18.939556,
+    "geom:longitude":72.837219,
+    "iso:country":"IN",
+    "sg:address":"204 George Road,",
+    "sg:city":"Tuticorin",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 461 232 1276",
+    "sg:postcode":"628002",
+    "sg:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QsyZSWPjq1mqEiOzO73FZ_18.939556_72.837219@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"762b600f988872bfbf420910047dbcc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169548177
+        }
+    ],
+    "wof:id":169548177,
+    "wof:lastmodified":1449034978,
+    "wof:name":"Rajarajan & Company",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ]
+},
+  "bbox": [72.837219,18.939556,72.837219,18.939556],
+  "geometry": {"coordinates":[72.837219,18.939556],"type":"Point"}
+}

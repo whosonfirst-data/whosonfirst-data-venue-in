@@ -1,0 +1,65 @@
+{
+  "id": 169531313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.825615,19.129377,72.825615,19.129377",
+    "geom:latitude":19.129377,
+    "geom:longitude":72.825615,
+    "iso:country":"IN",
+    "sg:address":"A-8, Balkrishna, J.p.road, Versova, Andheri West,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Hair Removal",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2639 4646",
+    "sg:postcode":"400053",
+    "sg:tags":[
+        "cosmetic",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931475,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x39wffIDLFcoHiibo0ghW_19.129377_72.825615@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b94845f71f49d89389f2408dcd42cdc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931475,
+            "region_id":85672171,
+            "venue_id":169531313
+        }
+    ],
+    "wof:id":169531313,
+    "wof:lastmodified":1449033473,
+    "wof:name":"Overseas Tabac Co.",
+    "wof:parent_id":85931475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "accessory"
+    ]
+},
+  "bbox": [72.825615,19.129377,72.825615,19.129377],
+  "geometry": {"coordinates":[72.825615,19.129377],"type":"Point"}
+}

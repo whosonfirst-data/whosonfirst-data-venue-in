@@ -1,0 +1,62 @@
+{
+  "id": 169618435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.87191,22.701059,75.87191,22.701059",
+    "geom:latitude":22.701059,
+    "geom:longitude":75.87191,
+    "iso:country":"IN",
+    "sg:address":"11, Agrawal Nagar, Old,",
+    "sg:city":"Indore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 731 240 3435",
+    "sg:postcode":"452001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030041,
+        85672239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ARxvalaDW4Y6LM2cXF1QR_22.701059_75.871910@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"47e1968abe72b58ba363661bbccdbe03",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030041,
+            "neighbourhood_id":-1,
+            "region_id":85672239,
+            "venue_id":169618435
+        }
+    ],
+    "wof:id":169618435,
+    "wof:lastmodified":1449034739,
+    "wof:name":"Sg Con",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.87191,22.701059,75.87191,22.701059],
+  "geometry": {"coordinates":[75.87191,22.701059],"type":"Point"}
+}

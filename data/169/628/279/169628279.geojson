@@ -1,0 +1,62 @@
+{
+  "id": 169628279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.469513,17.444504,78.469513,17.444504",
+    "geom:latitude":17.444504,
+    "geom:longitude":78.469513,
+    "iso:country":"IN",
+    "sg:address":"No. 507, Saptagiri Towers, Begumpet,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2776 1529",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930831,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6S6uwxAzAL3D7z0pUsHL2s_17.444504_78.469513@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c5ef2d6b8c49749ce47caa214c3f606e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930831,
+            "region_id":85672141,
+            "venue_id":169628279
+        }
+    ],
+    "wof:id":169628279,
+    "wof:lastmodified":1449035333,
+    "wof:name":"Sril India",
+    "wof:parent_id":85930831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.469513,17.444504,78.469513,17.444504],
+  "geometry": {"coordinates":[78.469513,17.444504],"type":"Point"}
+}

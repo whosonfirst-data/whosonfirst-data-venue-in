@@ -1,0 +1,67 @@
+{
+  "id": 169653139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.416152,22.582303,88.416152,22.582303",
+    "geom:latitude":22.582303,
+    "geom:longitude":88.416152,
+    "iso:country":"IN",
+    "sg:address":"salt lake kolkata",
+    "sg:city":"kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"700091",
+    "sg:tags":[
+        "sanvera-solutions",
+        "sanvera",
+        "seo"
+    ],
+    "sg:website":"http://www.sanvera.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85932005,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i0CuqoSXPg9rrcDGDV0yq_22.582303_88.416152@1308163238"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2b797e5cbdda1b11f838f126fa3d87b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85932005,
+            "region_id":85672219,
+            "venue_id":169653139
+        }
+    ],
+    "wof:id":169653139,
+    "wof:lastmodified":1449032916,
+    "wof:name":"Sanvera Solutions",
+    "wof:parent_id":85932005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanvera-solutions",
+        "sanvera",
+        "seo"
+    ]
+},
+  "bbox": [88.416152,22.582303,88.416152,22.582303],
+  "geometry": {"coordinates":[88.416152,22.582303],"type":"Point"}
+}

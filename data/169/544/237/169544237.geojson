@@ -1,0 +1,63 @@
+{
+  "id": 169544237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.565216,13.005623,77.565216,13.005623",
+    "geom:latitude":13.005623,
+    "geom:longitude":77.565216,
+    "iso:country":"IN",
+    "sg:address":"67/1, 15th Cross, 8th Main, Malleswaram,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2346 5570",
+    "sg:postcode":"560003",
+    "sg:tags":[
+        "valve"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sTWDD65RIyHyDnihF38lJ_13.005623_77.565216@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f47b066ac5fe8a3d2f66a33ab30e8be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169544237
+        }
+    ],
+    "wof:id":169544237,
+    "wof:lastmodified":1449035963,
+    "wof:name":"Reach Pneumatics",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "valve"
+    ]
+},
+  "bbox": [77.565216,13.005623,77.565216,13.005623],
+  "geometry": {"coordinates":[77.565216,13.005623],"type":"Point"}
+}

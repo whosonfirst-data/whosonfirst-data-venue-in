@@ -1,0 +1,63 @@
+{
+  "id": 169589389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.253761,13.009522,80.253761,13.009522",
+    "geom:latitude":13.009522,
+    "geom:longitude":80.253761,
+    "iso:country":"IN",
+    "sg:address":"71, 4th Main Road, Gandhi Nagar, Adyar,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2442 6830",
+    "sg:postcode":"600020",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903855,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XRRE9modRYAnjMsnAb1CF_13.009522_80.253761@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"90fad4ed73f7f44d98407bd1575c95d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903855,
+            "region_id":85672245,
+            "venue_id":169589389
+        }
+    ],
+    "wof:id":169589389,
+    "wof:lastmodified":1449034448,
+    "wof:name":"Mfpl Fluorine Products Ltd.",
+    "wof:parent_id":85903855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.253761,13.009522,80.253761,13.009522],
+  "geometry": {"coordinates":[80.253761,13.009522],"type":"Point"}
+}

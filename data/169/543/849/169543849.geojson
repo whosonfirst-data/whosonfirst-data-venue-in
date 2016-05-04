@@ -1,0 +1,64 @@
+{
+  "id": 169543849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.623657,12.95402,77.623657,12.95402",
+    "geom:latitude":12.95402,
+    "geom:longitude":77.623657,
+    "iso:country":"IN",
+    "sg:address":"#216 4th Main 1st Floor, Vivek Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 3294 2136",
+    "sg:postcode":"560047",
+    "sg:tags":[
+        "t-shirt"
+    ],
+    "sg:website":"http://www.royalcrownindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931087,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yC5KHSgeMtSrrO7rZebFA_12.954020_77.623657@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e6ad150258b79516eb805a6616f8c17a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931087,
+            "region_id":85672165,
+            "venue_id":169543849
+        }
+    ],
+    "wof:id":169543849,
+    "wof:lastmodified":1449033334,
+    "wof:name":"Royal Crown",
+    "wof:parent_id":85931087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "t-shirt"
+    ]
+},
+  "bbox": [77.623657,12.95402,77.623657,12.95402],
+  "geometry": {"coordinates":[77.623657,12.95402],"type":"Point"}
+}

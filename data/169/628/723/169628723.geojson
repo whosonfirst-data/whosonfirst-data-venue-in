@@ -1,0 +1,62 @@
+{
+  "id": 169628723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.525352,12.985409,77.525352,12.985409",
+    "geom:latitude":12.985409,
+    "geom:longitude":77.525352,
+    "iso:country":"IN",
+    "sg:address":"No. 1225/1215, Kamakshipalya, Magadi Main Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2348 7484",
+    "sg:postcode":"560079",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BfMi4pAaN7DCAfwI0Kls6_12.985409_77.525352@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"79c1e9aa63840ce0c5e1ba4955b21fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169628723
+        }
+    ],
+    "wof:id":169628723,
+    "wof:lastmodified":1449035334,
+    "wof:name":"Srinivasa Rubber Products",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.525352,12.985409,77.525352,12.985409],
+  "geometry": {"coordinates":[77.525352,12.985409],"type":"Point"}
+}

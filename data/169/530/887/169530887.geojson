@@ -1,0 +1,66 @@
+{
+  "id": 169530887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.843521,18.96841,72.843521,18.96841",
+    "geom:latitude":18.96841,
+    "geom:longitude":72.843521,
+    "iso:country":"IN",
+    "sg:address":"51/c, Dockyard Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Light Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2371 7085",
+    "sg:postcode":"400010",
+    "sg:tags":[
+        "control",
+        "board",
+        "panel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903927,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jEc9J4TIwn944O7r529EK_18.968410_72.843521@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a7400f11305b2168d589ca8b977dc7e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903927,
+            "region_id":-1,
+            "venue_id":169530887
+        }
+    ],
+    "wof:id":169530887,
+    "wof:lastmodified":1449034445,
+    "wof:name":"Merew",
+    "wof:parent_id":85903927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "board",
+        "panel"
+    ]
+},
+  "bbox": [72.843521,18.96841,72.843521,18.96841],
+  "geometry": {"coordinates":[72.843521,18.96841],"type":"Point"}
+}

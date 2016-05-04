@@ -1,0 +1,63 @@
+{
+  "id": 169580587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.807404,19.197575,72.807404,19.197575",
+    "geom:latitude":19.197575,
+    "geom:longitude":72.807404,
+    "iso:country":"IN",
+    "sg:address":"D/203, Shreeram Apt., S.v.road, Kandivli (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2861 2768",
+    "sg:postcode":"400067",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931623,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_257zC3CR870P3Qq9nEZo8e_19.197575_72.807404@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"84644f60562e8351ae8f4a23b565dcdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931623,
+            "region_id":85672171,
+            "venue_id":169580587
+        }
+    ],
+    "wof:id":169580587,
+    "wof:lastmodified":1449034915,
+    "wof:name":"Jamunesh Imex",
+    "wof:parent_id":85931623,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.807404,19.197575,72.807404,19.197575],
+  "geometry": {"coordinates":[72.807404,19.197575],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169597795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.296539,28.460176,77.296539,28.460176",
+    "geom:latitude":28.460176,
+    "geom:longitude":77.296539,
+    "iso:country":"IN",
+    "sg:address":"D-43, S.m.a., Cooperative Industrial Area,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2747 9659",
+    "sg:postcode":"110033",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030289,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65VLDkU0Ov6xsmjPNhPozW_28.460176_77.296539@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b15898b85afb479154283d96313c9632",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030289,
+            "neighbourhood_id":-1,
+            "region_id":85672133,
+            "venue_id":169597795
+        }
+    ],
+    "wof:id":169597795,
+    "wof:lastmodified":1449035924,
+    "wof:name":"P. K. Techno Projects (p) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.296539,28.460176,77.296539,28.460176],
+  "geometry": {"coordinates":[77.296539,28.460176],"type":"Point"}
+}

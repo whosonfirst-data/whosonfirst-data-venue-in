@@ -1,0 +1,68 @@
+{
+  "id": 169608801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.195877,13.04229,80.195877,13.04229",
+    "geom:latitude":13.04229,
+    "geom:longitude":80.195877,
+    "iso:country":"IN",
+    "sg:address":"422 A, K.k. Nagar,",
+    "sg:city":"Madurai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 452 258 7104",
+    "sg:postcode":"625020",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "sg:website":"http://www.indiamart.com/rampal/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903779,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BCprz3tG9ZvSPjJmPcFm9_13.042290_80.195877@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"26a62535be1f6c8ceee5739b058e8c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903779,
+            "region_id":85672245,
+            "venue_id":169608801
+        }
+    ],
+    "wof:id":169608801,
+    "wof:lastmodified":1449034084,
+    "wof:name":"Rampal",
+    "wof:parent_id":85903779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [80.195877,13.04229,80.195877,13.04229],
+  "geometry": {"coordinates":[80.195877,13.04229],"type":"Point"}
+}

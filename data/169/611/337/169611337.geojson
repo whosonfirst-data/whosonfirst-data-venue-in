@@ -1,0 +1,61 @@
+{
+  "id": 169611337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.450989,17.290974,74.450989,17.290974",
+    "geom:latitude":17.290974,
+    "geom:longitude":74.450989,
+    "iso:country":"IN",
+    "sg:address":"No. 31, J.c.road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2222 1068",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f5Emws7FVxI9VR7DwqK94_17.290974_74.450989@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"01f618f727b7b2bb927937052c2a089e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169611337
+        }
+    ],
+    "wof:id":169611337,
+    "wof:lastmodified":1449035263,
+    "wof:name":"Resins & Solvents",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [74.450989,17.290974,74.450989,17.290974],
+  "geometry": {"coordinates":[74.450989,17.290974],"type":"Point"}
+}

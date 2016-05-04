@@ -1,0 +1,66 @@
+{
+  "id": 169638387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.912285,19.092512,72.912285,19.092512",
+    "geom:latitude":19.092512,
+    "geom:longitude":72.912285,
+    "iso:country":"IN",
+    "sg:address":"C-110, Bhaveshwar Plaza, 189 Lbs Marg, \nGhatkopar (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2500 4579",
+    "sg:postcode":"400086",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "sg:website":"http://www.umabrothers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931531,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J621O0WItw5eRAzZlAc8O_19.092512_72.912285@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9b82e94f58b647c9073debe201ab8c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931531,
+            "region_id":85672171,
+            "venue_id":169638387
+        }
+    ],
+    "wof:id":169638387,
+    "wof:lastmodified":1449032867,
+    "wof:name":"Uma Brothers",
+    "wof:parent_id":85931531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [72.912285,19.092512,72.912285,19.092512],
+  "geometry": {"coordinates":[72.912285,19.092512],"type":"Point"}
+}

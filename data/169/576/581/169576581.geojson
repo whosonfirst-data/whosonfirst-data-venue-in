@@ -1,0 +1,63 @@
+{
+  "id": 169576581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.103889,28.529943,77.103889,28.529943",
+    "geom:latitude":28.529943,
+    "geom:longitude":77.103889,
+    "iso:country":"IN",
+    "sg:address":"338/2, Nh-8, Village Rangpuri,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 6527 5752",
+    "sg:postcode":"110037",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928171,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FeCZ1M0g3Pij0C9ip6oMz_28.529943_77.103889@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7d9f930573cb94930c7ce6335da0a8d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928171,
+            "region_id":85672123,
+            "venue_id":169576581
+        }
+    ],
+    "wof:id":169576581,
+    "wof:lastmodified":1449035196,
+    "wof:name":"Fast Track",
+    "wof:parent_id":85928171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [77.103889,28.529943,77.103889,28.529943],
+  "geometry": {"coordinates":[77.103889,28.529943],"type":"Point"}
+}

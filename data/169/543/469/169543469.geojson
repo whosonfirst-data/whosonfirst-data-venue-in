@@ -1,0 +1,64 @@
+{
+  "id": 169543469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.532799,12.947309,77.532799,12.947309",
+    "geom:latitude":12.947309,
+    "geom:longitude":77.532799,
+    "iso:country":"IN",
+    "sg:address":"350/1, Nayandahalli, Mysore Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2860 0696",
+    "sg:postcode":"560039",
+    "sg:tags":[
+        "plank",
+        "timber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K9tdKiTrEN1R27IIOruWg_12.947309_77.532799@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6b053d9625fb0fbc13798a860baa5549",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169543469
+        }
+    ],
+    "wof:id":169543469,
+    "wof:lastmodified":1449033337,
+    "wof:name":"Poonam Timbers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plank",
+        "timber"
+    ]
+},
+  "bbox": [77.532799,12.947309,77.532799,12.947309],
+  "geometry": {"coordinates":[77.532799,12.947309],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169535233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831734,18.947433,72.831734,18.947433",
+    "geom:latitude":18.947433,
+    "geom:longitude":72.831734,
+    "iso:country":"IN",
+    "sg:address":"51, Mangaldas Rd., Lohar Chawl,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5633 7060",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "energy",
+        "conservation",
+        "product"
+    ],
+    "sg:website":"http://www.cronyelectronics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1C5jLTfTnlPAIu8DmSI2PH_18.947433_72.831734@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9c6ccaed0909dcf9d6473edc268e6f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169535233
+        }
+    ],
+    "wof:id":169535233,
+    "wof:lastmodified":1449033289,
+    "wof:name":"Crony Electronics Pvt. Ltd.",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "conservation",
+        "product"
+    ]
+},
+  "bbox": [72.831734,18.947433,72.831734,18.947433],
+  "geometry": {"coordinates":[72.831734,18.947433],"type":"Point"}
+}

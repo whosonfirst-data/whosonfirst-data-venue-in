@@ -1,0 +1,68 @@
+{
+  "id": 169525687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.878899,19.1106,72.878899,19.1106",
+    "geom:latitude":19.1106,
+    "geom:longitude":72.878899,
+    "iso:country":"IN",
+    "sg:address":"G-5/6, Sangeet Plaza, Marol Maroshi Road, Andheri (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2856 0852",
+    "sg:postcode":"400059",
+    "sg:tags":[
+        "farm",
+        "machine",
+        "agriculture"
+    ],
+    "sg:website":"http://www.villa-mode.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56hCIHCMcceu1xLfJMhXmv_19.110600_72.878899@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c75a887dfde7f9320246ce84367b3627",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169525687
+        }
+    ],
+    "wof:id":169525687,
+    "wof:lastmodified":1449035273,
+    "wof:name":"Villa-mode Export (india) Pvt. Ltd.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "machine",
+        "agriculture"
+    ]
+},
+  "bbox": [72.878899,19.1106,72.878899,19.1106],
+  "geometry": {"coordinates":[72.878899,19.1106],"type":"Point"}
+}

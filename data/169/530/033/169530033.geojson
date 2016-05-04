@@ -1,0 +1,65 @@
+{
+  "id": 169530033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.837242,19.014153,72.837242,19.014153",
+    "geom:latitude":19.014153,
+    "geom:longitude":72.837242,
+    "iso:country":"IN",
+    "sg:address":"103, Jogani Industrial Estate, Dadar (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2430 1580",
+    "sg:postcode":"400028",
+    "sg:tags":[
+        "garment",
+        "childrenwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931467,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62IE6GjT1P7uUv3BBzfxZo_19.014153_72.837242@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e43698471d1bfbea2593fac392826c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931467,
+            "region_id":85672171,
+            "venue_id":169530033
+        }
+    ],
+    "wof:id":169530033,
+    "wof:lastmodified":1449034443,
+    "wof:name":"Dearly",
+    "wof:parent_id":85931467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "childrenwear"
+    ]
+},
+  "bbox": [72.837242,19.014153,72.837242,19.014153],
+  "geometry": {"coordinates":[72.837242,19.014153],"type":"Point"}
+}

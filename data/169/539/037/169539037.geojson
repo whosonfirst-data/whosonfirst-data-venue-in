@@ -1,0 +1,65 @@
+{
+  "id": 169539037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.544853,13.009538,77.544853,13.009538",
+    "geom:latitude":13.009538,
+    "geom:longitude":77.544853,
+    "iso:country":"IN",
+    "sg:address":"No.883, 9th Cross, W.c.r., Mahalakshmi Puram,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Palace",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2349 8183",
+    "sg:postcode":"560080",
+    "sg:tags":[
+        "rolling",
+        "shutter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AqzP3WjNkXEUkedRLhAV8_13.009538_77.544853@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d8922690c3b44e579cda765601785bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169539037
+        }
+    ],
+    "wof:id":169539037,
+    "wof:lastmodified":1449036040,
+    "wof:name":"Vignesh Engineering",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rolling",
+        "shutter"
+    ]
+},
+  "bbox": [77.544853,13.009538,77.544853,13.009538],
+  "geometry": {"coordinates":[77.544853,13.009538],"type":"Point"}
+}

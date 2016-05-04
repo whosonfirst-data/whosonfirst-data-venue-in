@@ -1,0 +1,68 @@
+{
+  "id": 169531021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.84845,19.100702,72.84845,19.100702",
+    "geom:latitude":19.100702,
+    "geom:longitude":72.84845,
+    "iso:country":"IN",
+    "sg:address":"8, Park Road, Vile Parle (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Tower",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2617 5038",
+    "sg:postcode":"400057",
+    "sg:tags":[
+        "plant",
+        "cooling",
+        "chilling"
+    ],
+    "sg:website":"http://www.super-chiller.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931603,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oMSErtp9FiBHL1QhKD08c_19.100702_72.848450@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"593e8dab33c2dfff3bb643bc6134bb9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931603,
+            "region_id":85672171,
+            "venue_id":169531021
+        }
+    ],
+    "wof:id":169531021,
+    "wof:lastmodified":1449033476,
+    "wof:name":"Super Chillers Pvt. Ltd.",
+    "wof:parent_id":85931603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "cooling",
+        "chilling"
+    ]
+},
+  "bbox": [72.84845,19.100702,72.84845,19.100702],
+  "geometry": {"coordinates":[72.84845,19.100702],"type":"Point"}
+}

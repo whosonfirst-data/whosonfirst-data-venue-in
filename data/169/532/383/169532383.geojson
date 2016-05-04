@@ -1,0 +1,64 @@
+{
+  "id": 169532383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.876656,19.123783,72.876656,19.123783",
+    "geom:latitude":19.123783,
+    "geom:longitude":72.876656,
+    "iso:country":"IN",
+    "sg:address":"Unit No. 1, Plot 61, Seepz, Andheri (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5693 5141",
+    "sg:postcode":"400096",
+    "sg:tags":[
+        "diamond"
+    ],
+    "sg:website":"http://www.gemplusindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QH3ekgbWbucf3Mu0r4UJF_19.123783_72.876656@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9127d664afe782a7cc2f99801f82fb44",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169532383
+        }
+    ],
+    "wof:id":169532383,
+    "wof:lastmodified":1449033796,
+    "wof:name":"Gemplus Jewellery India Ltd.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.876656,19.123783,72.876656,19.123783],
+  "geometry": {"coordinates":[72.876656,19.123783],"type":"Point"}
+}

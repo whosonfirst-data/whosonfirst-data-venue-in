@@ -1,0 +1,69 @@
+{
+  "id": 169531859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.834549,18.951601,72.834549,18.951601",
+    "geom:latitude":18.951601,
+    "geom:longitude":72.834549,
+    "iso:country":"IN",
+    "sg:address":"137, Nagdevi Street, Masjid (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2340 9974",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "cutter",
+        "cutting",
+        "tools",
+        "broach"
+    ],
+    "sg:website":"http://www.toolstraders",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q8Qy4Kj5pGQnviEFEQFBF_18.951601_72.834549@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ad1236b942ab1997257befe775c19a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169531859
+        }
+    ],
+    "wof:id":169531859,
+    "wof:lastmodified":1449033475,
+    "wof:name":"Tools Traders",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cutter",
+        "cutting",
+        "tools",
+        "broach"
+    ]
+},
+  "bbox": [72.834549,18.951601,72.834549,18.951601],
+  "geometry": {"coordinates":[72.834549,18.951601],"type":"Point"}
+}

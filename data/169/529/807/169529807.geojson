@@ -1,0 +1,61 @@
+{
+  "id": 169529807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.834503,19.114763,72.834503,19.114763",
+    "geom:latitude":19.114763,
+    "geom:longitude":72.834503,
+    "iso:country":"IN",
+    "sg:address":"76, Juhu Supreme Shopping Centre, 2nd Flr., Gulmohar Cross 9th Rd., Juhu Scheme,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2624 4948",
+    "sg:postcode":"400049",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931479,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TWRCk9vt1TkLNhddqqpul_19.114763_72.834503@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5470fb7254fb2d41ff6d2cda2df6549e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931479,
+            "region_id":-1,
+            "venue_id":169529807
+        }
+    ],
+    "wof:id":169529807,
+    "wof:lastmodified":1449034114,
+    "wof:name":"Klj Polyalloys",
+    "wof:parent_id":85931479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.834503,19.114763,72.834503,19.114763],
+  "geometry": {"coordinates":[72.834503,19.114763],"type":"Point"}
+}

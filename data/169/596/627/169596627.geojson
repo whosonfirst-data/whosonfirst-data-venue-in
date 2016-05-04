@@ -1,0 +1,63 @@
+{
+  "id": 169596627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.864418,31.619169,74.864418,31.619169",
+    "geom:latitude":31.619169,
+    "geom:longitude":74.864418,
+    "iso:country":"IN",
+    "sg:address":"522, Lahori Gate,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2395 2544",
+    "sg:postcode":"110006",
+    "sg:tags":[
+        "wax"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933843,
+        85632469,
+        102030955,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R0EbsgmuLrHrYJ1Vwzdgn_31.619169_74.864418@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7d65f22fd7bb57ada68136c86769eb1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030955,
+            "neighbourhood_id":85933843,
+            "region_id":85672195,
+            "venue_id":169596627
+        }
+    ],
+    "wof:id":169596627,
+    "wof:lastmodified":1449034374,
+    "wof:name":"Orient Chemical Industries",
+    "wof:parent_id":85933843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [74.864418,31.619169,74.864418,31.619169],
+  "geometry": {"coordinates":[74.864418,31.619169],"type":"Point"}
+}

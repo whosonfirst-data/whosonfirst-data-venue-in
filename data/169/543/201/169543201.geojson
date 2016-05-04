@@ -1,0 +1,66 @@
+{
+  "id": 169543201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.599106,12.908083,77.599106,12.908083",
+    "geom:latitude":12.908083,
+    "geom:longitude":77.599106,
+    "iso:country":"IN",
+    "sg:address":"716, 3rd 'a' Cross, 2nd Main Road, Prakash Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Emissions Testing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2313 4159",
+    "sg:postcode":"560021",
+    "sg:tags":[
+        "measuring",
+        "instrument"
+    ],
+    "sg:website":"http://www.ssinstruments.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931061,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xIFHoxcm1DjgNoXNC9UMZ_12.908083_77.599106@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a0ccddbbb515ea610011bdb77f4f9177",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931061,
+            "region_id":85672165,
+            "venue_id":169543201
+        }
+    ],
+    "wof:id":169543201,
+    "wof:lastmodified":1449033337,
+    "wof:name":"Ss Instruments",
+    "wof:parent_id":85931061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "measuring",
+        "instrument"
+    ]
+},
+  "bbox": [77.599106,12.908083,77.599106,12.908083],
+  "geometry": {"coordinates":[77.599106,12.908083],"type":"Point"}
+}

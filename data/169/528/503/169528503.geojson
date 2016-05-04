@@ -1,0 +1,68 @@
+{
+  "id": 169528503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.869049,19.209988,72.869049,19.209988",
+    "geom:latitude":19.209988,
+    "geom:longitude":72.869049,
+    "iso:country":"IN",
+    "sg:address":"Hanuman Nagar, Kandivali (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Department Of Motor Vehicles",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2887 1600",
+    "sg:postcode":"400101",
+    "sg:tags":[
+        "bulk",
+        "intermediate",
+        "drug"
+    ],
+    "sg:website":"http://www.romeda.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931529,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61pf8ols2Uekf5sH3H8unA_19.209988_72.869049@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4bedeece04b7f604d870f530148e9c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931529,
+            "region_id":85672171,
+            "venue_id":169528503
+        }
+    ],
+    "wof:id":169528503,
+    "wof:lastmodified":1449033571,
+    "wof:name":"Romeda Chemicals Limited",
+    "wof:parent_id":85931529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "intermediate",
+        "drug"
+    ]
+},
+  "bbox": [72.869049,19.209988,72.869049,19.209988],
+  "geometry": {"coordinates":[72.869049,19.209988],"type":"Point"}
+}

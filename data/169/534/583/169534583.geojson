@@ -1,0 +1,67 @@
+{
+  "id": 169534583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.861427,19.262236,72.861427,19.262236",
+    "geom:latitude":19.262236,
+    "geom:longitude":72.861427,
+    "iso:country":"IN",
+    "sg:address":"24, Jyoti Indl. Estate, Shakti Nagar, Dahisar - East,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2896 8979",
+    "sg:postcode":"400068",
+    "sg:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931553,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ACB7k5sFlylt5JOo1ciIl_19.262236_72.861427@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"50cf95a661cc730e988f61e360065995",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931553,
+            "region_id":85672171,
+            "venue_id":169534583
+        }
+    ],
+    "wof:id":169534583,
+    "wof:lastmodified":1449033552,
+    "wof:name":"Ameya Electro Hudraulics",
+    "wof:parent_id":85931553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ]
+},
+  "bbox": [72.861427,19.262236,72.861427,19.262236],
+  "geometry": {"coordinates":[72.861427,19.262236],"type":"Point"}
+}

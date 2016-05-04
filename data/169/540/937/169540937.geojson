@@ -1,0 +1,63 @@
+{
+  "id": 169540937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.650887,13.019229,77.650887,13.019229",
+    "geom:latitude":13.019229,
+    "geom:longitude":77.650887,
+    "iso:country":"IN",
+    "sg:address":"80/10, 5th Cross, S.g. Palya,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2553 6151",
+    "sg:postcode":"560029",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931031,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uItGZIMgPWDCRN2dgjV65_13.019229_77.650887@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"dea55f9b9fe754eca267681e7d1928b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931031,
+            "region_id":85672165,
+            "venue_id":169540937
+        }
+    ],
+    "wof:id":169540937,
+    "wof:lastmodified":1449033974,
+    "wof:name":"Srinivasa Silk Fabrics",
+    "wof:parent_id":85931031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.650887,13.019229,77.650887,13.019229],
+  "geometry": {"coordinates":[77.650887,13.019229],"type":"Point"}
+}

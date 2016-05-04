@@ -1,0 +1,65 @@
+{
+  "id": 169580015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.193298,13.011316,80.193298,13.011316",
+    "geom:latitude":13.011316,
+    "geom:longitude":80.193298,
+    "iso:country":"IN",
+    "sg:address":"1-5, Sevenwells Street, St Thomas Mount,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2234 1134",
+    "sg:postcode":"600016",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927573,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71aVTJyBHOeqSwXVXsitwX_13.011316_80.193298@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f4c355ae93952993aec32b6cd15ede18",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85927573,
+            "region_id":85672245,
+            "venue_id":169580015
+        }
+    ],
+    "wof:id":169580015,
+    "wof:lastmodified":1449034914,
+    "wof:name":"International Flavours And Fragrances",
+    "wof:parent_id":85927573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [80.193298,13.011316,80.193298,13.011316],
+  "geometry": {"coordinates":[80.193298,13.011316],"type":"Point"}
+}

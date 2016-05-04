@@ -1,0 +1,63 @@
+{
+  "id": 169640763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.200996,28.645454,77.200996,28.645454",
+    "geom:latitude":28.645454,
+    "geom:longitude":77.200996,
+    "iso:country":"IN",
+    "sg:address":"2e/9, Jhandewalan Extn.,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2368 1016",
+    "sg:postcode":"110055",
+    "sg:tags":[
+        "polymer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928243,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s3FsdEZc4zvwG36xaPPmA_28.645454_77.200996@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1615742de29da853728d52146a656a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928243,
+            "region_id":85672123,
+            "venue_id":169640763
+        }
+    ],
+    "wof:id":169640763,
+    "wof:lastmodified":1449034104,
+    "wof:name":"V. M. I. Polymers",
+    "wof:parent_id":85928243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [77.200996,28.645454,77.200996,28.645454],
+  "geometry": {"coordinates":[77.200996,28.645454],"type":"Point"}
+}

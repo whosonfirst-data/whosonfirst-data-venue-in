@@ -1,0 +1,67 @@
+{
+  "id": 169534615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.882668,19.092596,72.882668,19.092596",
+    "geom:latitude":19.092596,
+    "geom:longitude":72.882668,
+    "iso:country":"IN",
+    "sg:address":"2, Sai Estate, Subhash Nagar, Asalfa, Ghatkopar (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2512 1832",
+    "sg:postcode":"400084",
+    "sg:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73Mh8P0tRCpBc94RQB9f89_19.092596_72.882668@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f818c0512f2d4b550a5789fde46299fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169534615
+        }
+    ],
+    "wof:id":169534615,
+    "wof:lastmodified":1449033547,
+    "wof:name":"Sony Transformer",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ]
+},
+  "bbox": [72.882668,19.092596,72.882668,19.092596],
+  "geometry": {"coordinates":[72.882668,19.092596],"type":"Point"}
+}

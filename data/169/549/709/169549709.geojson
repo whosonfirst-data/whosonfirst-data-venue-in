@@ -1,0 +1,67 @@
+{
+  "id": 169549709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.836578,19.072786,72.836578,19.072786",
+    "geom:latitude":19.072786,
+    "geom:longitude":72.836578,
+    "iso:country":"IN",
+    "sg:address":"Plot No.19, Gidc, Vittal,",
+    "sg:city":"Udyognagar",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Coast Guard Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2692 235 385",
+    "sg:postcode":"388121",
+    "sg:tags":[
+        "steel",
+        "casting",
+        "iron"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931493,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yNDueW69DaPULTSMARdDv_19.072786_72.836578@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"afbea18ff4e007d48aac8314d4f98bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931493,
+            "region_id":85672171,
+            "venue_id":169549709
+        }
+    ],
+    "wof:id":169549709,
+    "wof:lastmodified":1449033591,
+    "wof:name":"Dynamic Castings",
+    "wof:parent_id":85931493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "casting",
+        "iron"
+    ]
+},
+  "bbox": [72.836578,19.072786,72.836578,19.072786],
+  "geometry": {"coordinates":[72.836578,19.072786],"type":"Point"}
+}

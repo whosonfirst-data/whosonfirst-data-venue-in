@@ -1,0 +1,62 @@
+{
+  "id": 169559457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.034859,20.684992,77.034859,20.684992",
+    "geom:latitude":20.684992,
+    "geom:longitude":77.034859,
+    "iso:country":"IN",
+    "sg:address":"W-34, Midc, Phase -ii,",
+    "sg:city":"Dombivili",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 251 287 1205",
+    "sg:postcode":"421203",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031005,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14nHqARIcHLhY8DIHNKxm0_20.684992_77.034859@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"467c9d276d5853f59028602490900674",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031005,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169559457
+        }
+    ],
+    "wof:id":169559457,
+    "wof:lastmodified":1449035238,
+    "wof:name":"Chromatic India Ltd",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.034859,20.684992,77.034859,20.684992],
+  "geometry": {"coordinates":[77.034859,20.684992],"type":"Point"}
+}

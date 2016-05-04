@@ -1,0 +1,66 @@
+{
+  "id": 169586105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.26535,28.553295,77.26535,28.553295",
+    "geom:latitude":28.553295,
+    "geom:longitude":77.26535,
+    "iso:country":"IN",
+    "sg:address":"29, Small Industrial Area,",
+    "sg:city":"Kota",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 744 236 1997",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928361,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rC5nhNlIdZtb2JwYIBGMO_28.553295_77.265350@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"59ba2050276d3cf0a01b8e73f9f330f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928361,
+            "region_id":85672123,
+            "venue_id":169586105
+        }
+    ],
+    "wof:id":169586105,
+    "wof:lastmodified":1449035576,
+    "wof:name":"Mahalaxmi Paints",
+    "wof:parent_id":85928361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.26535,28.553295,77.26535,28.553295],
+  "geometry": {"coordinates":[77.26535,28.553295],"type":"Point"}
+}

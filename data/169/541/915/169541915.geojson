@@ -1,0 +1,65 @@
+{
+  "id": 169541915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.618286,12.872643,77.618286,12.872643",
+    "geom:latitude":12.872643,
+    "geom:longitude":77.618286,
+    "iso:country":"IN",
+    "sg:address":"No. 280/87, 3rd 'a' Main, Begur Road, Bommanahalli,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2655 8375",
+    "sg:postcode":"560068",
+    "sg:tags":[
+        "seasoning",
+        "spice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930979,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qaPgzbzID8GiJARrjmbtf_12.872643_77.618286@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"437791767ab5e114858e1c29e88795d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930979,
+            "region_id":85672165,
+            "venue_id":169541915
+        }
+    ],
+    "wof:id":169541915,
+    "wof:lastmodified":1449033045,
+    "wof:name":"Reema Medical Herbs",
+    "wof:parent_id":85930979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seasoning",
+        "spice"
+    ]
+},
+  "bbox": [77.618286,12.872643,77.618286,12.872643],
+  "geometry": {"coordinates":[77.618286,12.872643],"type":"Point"}
+}

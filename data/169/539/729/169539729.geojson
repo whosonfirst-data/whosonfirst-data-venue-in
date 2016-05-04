@@ -1,0 +1,63 @@
+{
+  "id": 169539729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.195175,28.578234,77.195175,28.578234",
+    "geom:latitude":28.578234,
+    "geom:longitude":77.195175,
+    "iso:country":"IN",
+    "sg:address":"104, Andrews Building, M.g. Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2558 7650",
+    "sg:postcode":"560001",
+    "sg:tags":[
+        "sculpture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928329,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3G7UE7WZoGRCVgPzMjSM3N_28.578234_77.195175@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"410c98b0c81bdeb26394fdb0146ed850",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928329,
+            "region_id":85672123,
+            "venue_id":169539729
+        }
+    ],
+    "wof:id":169539729,
+    "wof:lastmodified":1449036038,
+    "wof:name":"Happy Home's Art & Crafts",
+    "wof:parent_id":85928329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sculpture"
+    ]
+},
+  "bbox": [77.195175,28.578234,77.195175,28.578234],
+  "geometry": {"coordinates":[77.195175,28.578234],"type":"Point"}
+}

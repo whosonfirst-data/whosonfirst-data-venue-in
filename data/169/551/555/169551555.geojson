@@ -1,0 +1,61 @@
+{
+  "id": 169551555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.19249,22.281199,73.19249,22.281199",
+    "geom:latitude":22.281199,
+    "geom:longitude":73.19249,
+    "iso:country":"IN",
+    "sg:address":"B-105, Suvarna Complex, Nr. Gajanan Park Soc., Manjalpur,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 654 7572",
+    "sg:tags":[
+        "machinery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LGH09jF6XVIdZEXXm3ASB_22.281199_73.192490@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a477a299482217d8f1bb2c7f6ba64c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169551555
+        }
+    ],
+    "wof:id":169551555,
+    "wof:lastmodified":1449033355,
+    "wof:name":"Shivanand Glass Engineering",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machinery"
+    ]
+},
+  "bbox": [73.19249,22.281199,73.19249,22.281199],
+  "geometry": {"coordinates":[73.19249,22.281199],"type":"Point"}
+}

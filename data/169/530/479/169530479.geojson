@@ -1,0 +1,63 @@
+{
+  "id": 169530479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.827171,18.948898,72.827171,18.948898",
+    "geom:latitude":18.948898,
+    "geom:longitude":72.827171,
+    "iso:country":"IN",
+    "sg:address":"95/97, Cavel Street, Room No. 6, 1st Floor, Kalbadevi,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5607 1560",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "stationery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6coQ133fgGaqG8wPUbvC9q_18.948898_72.827171@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3465ac21f332227a2ee276c601b06ed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169530479
+        }
+    ],
+    "wof:id":169530479,
+    "wof:lastmodified":1449034445,
+    "wof:name":"Apollo Data Forms Pvt. Ltd.",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stationery"
+    ]
+},
+  "bbox": [72.827171,18.948898,72.827171,18.948898],
+  "geometry": {"coordinates":[72.827171,18.948898],"type":"Point"}
+}

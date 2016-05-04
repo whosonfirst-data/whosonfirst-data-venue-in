@@ -1,0 +1,53 @@
+{
+  "id": 169569795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.262581,13.037364,80.262581,13.037364",
+    "geom:latitude":13.037364,
+    "geom:longitude":80.262581,
+    "iso:country":"IN",
+    "sg:address":"143, Luz Chruch Road, Mylapore",
+    "sg:city":"Chennai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2499 2607",
+    "sg:postcode":"600004",
+    "sg:province":"Tamil Nadu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931683,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ROSulp6z837deNCHhnKaX_13.037364_80.262581@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6cda6becbfb08fd8212a71585c959053",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931683,
+            "region_id":85672245,
+            "venue_id":169569795
+        }
+    ],
+    "wof:id":169569795,
+    "wof:lastmodified":1449035830,
+    "wof:name":"Devaki Hospital Ltd",
+    "wof:parent_id":85931683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.262581,13.037364,80.262581,13.037364],
+  "geometry": {"coordinates":[80.262581,13.037364],"type":"Point"}
+}

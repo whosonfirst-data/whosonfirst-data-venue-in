@@ -1,0 +1,58 @@
+{
+  "id": 169652011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.152961,13.037779,80.152961,13.037779",
+    "geom:latitude":13.037779,
+    "geom:longitude":80.152961,
+    "iso:country":"IN",
+    "sg:address":"7B, Third Street Balajinagar",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"600 014",
+    "sg:website":"http://www.realimage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927569,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c4rfDu2yfxQOwoWFiInht_13.037779_80.152961@1308163242"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9f69991605463ddd46ca3df68cc519ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85927569,
+            "region_id":85672245,
+            "venue_id":169652011
+        }
+    ],
+    "wof:id":169652011,
+    "wof:lastmodified":1449034809,
+    "wof:name":"Real Image Media Technologies",
+    "wof:parent_id":85927569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.152961,13.037779,80.152961,13.037779],
+  "geometry": {"coordinates":[80.152961,13.037779],"type":"Point"}
+}

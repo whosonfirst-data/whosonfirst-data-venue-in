@@ -1,0 +1,64 @@
+{
+  "id": 169541459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.569855,12.952501,77.569855,12.952501",
+    "geom:latitude":12.952501,
+    "geom:longitude":77.569855,
+    "iso:country":"IN",
+    "sg:address":"28, Shankar Mutt Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2661 4706",
+    "sg:postcode":"560004",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"http://www.intertecl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930907,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OzFLQz6adujQluQ3jukKQ_12.952501_77.569855@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"25c8fcfd44c9755e2d6c34bffd9b76d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930907,
+            "region_id":85672165,
+            "venue_id":169541459
+        }
+    ],
+    "wof:id":169541459,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Intertec Communications Ltd.",
+    "wof:parent_id":85930907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.569855,12.952501,77.569855,12.952501],
+  "geometry": {"coordinates":[77.569855,12.952501],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 169553553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.172646,22.310995,73.172646,22.310995",
+    "geom:latitude":22.310995,
+    "geom:longitude":73.172646,
+    "iso:country":"IN",
+    "sg:address":"Sb-28, Centre Paint, R.c. Dutt Road, Alkapuri,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 552 6247",
+    "sg:website":"http://www.kanganarts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933511,
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25LwCFca6CD72dtILdtpPD_22.310995_73.172646@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0b68594609528cf4634f61abd99247ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":85933511,
+            "region_id":85672249,
+            "venue_id":169553553
+        }
+    ],
+    "wof:id":169553553,
+    "wof:lastmodified":1449032707,
+    "wof:name":"Kangan",
+    "wof:parent_id":85933511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [73.172646,22.310995,73.172646,22.310995],
+  "geometry": {"coordinates":[73.172646,22.310995],"type":"Point"}
+}

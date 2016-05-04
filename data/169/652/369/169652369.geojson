@@ -1,0 +1,57 @@
+{
+  "id": 169652369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.940725,19.117874,72.940725,19.117874",
+    "geom:latitude":19.117874,
+    "geom:longitude":72.940725,
+    "iso:country":"IN",
+    "sg:address":"D-207 Second Floor International Infotech Centre CBD Belapur",
+    "sg:city":"Navi Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"400614",
+    "sg:website":"http://www.accentiatech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44km4etteA4Zo2ixETlxvp_19.117874_72.940725@1308163242"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"79ed19300ba71ede9203000c18efee87",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169652369
+        }
+    ],
+    "wof:id":169652369,
+    "wof:lastmodified":1449034810,
+    "wof:name":"Accentia",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.940725,19.117874,72.940725,19.117874],
+  "geometry": {"coordinates":[72.940725,19.117874],"type":"Point"}
+}

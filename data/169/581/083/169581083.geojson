@@ -1,0 +1,61 @@
+{
+  "id": 169581083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.310905,28.309315,77.310905,28.309315",
+    "geom:latitude":28.309315,
+    "geom:longitude":77.310905,
+    "iso:country":"IN",
+    "sg:address":"C-26 Sector- 59,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 436 2413",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "polymer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n7jyN1px4W9pnrHk2PCZl_28.309315_77.310905@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"304479dcafaa098eab53b56c046a766a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672133,
+            "venue_id":169581083
+        }
+    ],
+    "wof:id":169581083,
+    "wof:lastmodified":1449033381,
+    "wof:name":"Jubilant Organosys Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [77.310905,28.309315,77.310905,28.309315],
+  "geometry": {"coordinates":[77.310905,28.309315],"type":"Point"}
+}

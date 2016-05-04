@@ -1,0 +1,64 @@
+{
+  "id": 169644497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.29351,28.666468,77.29351,28.666468",
+    "geom:latitude":28.666468,
+    "geom:longitude":77.29351,
+    "iso:country":"IN",
+    "sg:address":"284/13-g, Main Pandav Road, Opp. Ram Gali, Vishwas Nagar, Shahdara,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2230 5197",
+    "sg:postcode":"110032",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_298hC1A9pOmHO5U0EfoWmh_28.666468_77.293510@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"eafa55fe08d0ff2e55db12120d58832e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169644497
+        }
+    ],
+    "wof:id":169644497,
+    "wof:lastmodified":1449034578,
+    "wof:name":"Vinchem Aromatics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [77.29351,28.666468,77.29351,28.666468],
+  "geometry": {"coordinates":[77.29351,28.666468],"type":"Point"}
+}

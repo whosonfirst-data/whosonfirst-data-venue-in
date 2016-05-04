@@ -1,0 +1,64 @@
+{
+  "id": 169527601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.82885,18.948298,72.82885,18.948298",
+    "geom:latitude":18.948298,
+    "geom:longitude":72.82885,
+    "iso:country":"IN",
+    "sg:address":"203, Kalbadevi Road, 6th Floor,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2240 1213",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "bedspread"
+    ],
+    "sg:website":"http://www.beepeegroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bVcLy70KkECgNRxxiokM6_18.948298_72.828850@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"286469cdbb9032512d9d027d4b4096f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169527601
+        }
+    ],
+    "wof:id":169527601,
+    "wof:lastmodified":1449035278,
+    "wof:name":"Beepee Enterprise",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bedspread"
+    ]
+},
+  "bbox": [72.82885,18.948298,72.82885,18.948298],
+  "geometry": {"coordinates":[72.82885,18.948298],"type":"Point"}
+}

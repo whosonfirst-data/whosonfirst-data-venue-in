@@ -1,0 +1,65 @@
+{
+  "id": 169580803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.867058,19.109215,72.867058,19.109215",
+    "geom:latitude":19.109215,
+    "geom:longitude":72.867058,
+    "iso:country":"IN",
+    "sg:address":"15/596, D. N. Nagar, 1st Floor, Andheri (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2266 4714",
+    "sg:postcode":"400053",
+    "sg:tags":[
+        "chemical",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bvb9UBfFTQLzjZ7krsKVQ_19.109215_72.867058@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"052deb53aa351ef5baf2d3a14543d089",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169580803
+        }
+    ],
+    "wof:id":169580803,
+    "wof:lastmodified":1449034917,
+    "wof:name":"Jigna Enterprise",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "-"
+    ]
+},
+  "bbox": [72.867058,19.109215,72.867058,19.109215],
+  "geometry": {"coordinates":[72.867058,19.109215],"type":"Point"}
+}

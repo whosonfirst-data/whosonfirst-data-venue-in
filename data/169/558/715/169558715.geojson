@@ -1,0 +1,64 @@
+{
+  "id": 169558715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.080849,28.629389,77.080849,28.629389",
+    "geom:latitude":28.629389,
+    "geom:longitude":77.080849,
+    "iso:country":"IN",
+    "sg:address":"District Centre, Janakpuri",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2555 6944",
+    "sg:postcode":"110058",
+    "sg:province":"Delhi",
+    "sg:website":"http://www.muvtons.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928081,
+        85632469,
+        102030425,
+        85672123,
+        85928581,
+        102029189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tvmyrnoN5MWBAw6lT1CYp_28.629389_77.080849@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7592f6011b0e3dc93bf8a8cf32cbf272",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928081,
+            "region_id":85672123,
+            "venue_id":169558715
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928581,
+            "region_id":85672123,
+            "venue_id":169558715
+        }
+    ],
+    "wof:id":169558715,
+    "wof:lastmodified":1449033581,
+    "wof:name":"Castor Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.080849,28.629389,77.080849,28.629389],
+  "geometry": {"coordinates":[77.080849,28.629389],"type":"Point"}
+}

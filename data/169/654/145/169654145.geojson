@@ -1,0 +1,75 @@
+{
+  "id": 169654145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.641655,12.961868,77.641655,12.961868",
+    "geom:latitude":12.961868,
+    "geom:longitude":77.641655,
+    "iso:country":"IN",
+    "sg:address":"No. 23 & 24, 2nd Floor, AMR Tech Park, Hosur Road, Bangalore - 560 068, Karnataka, India.",
+    "sg:city":"Banglore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560 068",
+    "sg:tags":[
+        "mobile-data-vas-technology",
+        "vas-infrastructure-products",
+        "smsc",
+        "mmsc",
+        "cbc",
+        "sdp",
+        "mobile--vas"
+    ],
+    "sg:website":"http://www.teledna.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931147,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lWfpZlny1ASAz4VridDtZ_12.961868_77.641655@1308163242"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d9b3749537ae5940e1777d94b9cc95c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931147,
+            "region_id":85672165,
+            "venue_id":169654145
+        }
+    ],
+    "wof:id":169654145,
+    "wof:lastmodified":1449033792,
+    "wof:name":"TeleDNA",
+    "wof:parent_id":85931147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile-data-vas-technology",
+        "vas-infrastructure-products",
+        "smsc",
+        "mmsc",
+        "cbc",
+        "sdp",
+        "mobile--vas"
+    ]
+},
+  "bbox": [77.641655,12.961868,77.641655,12.961868],
+  "geometry": {"coordinates":[77.641655,12.961868],"type":"Point"}
+}

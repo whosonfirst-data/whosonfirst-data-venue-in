@@ -1,0 +1,53 @@
+{
+  "id": 169573049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.470215,17.389887,78.470215,17.389887",
+    "geom:latitude":17.389887,
+    "geom:longitude":78.470215,
+    "iso:country":"IN",
+    "sg:address":"P.g.road",
+    "sg:city":"Secunderabad",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2781 0487",
+    "sg:postcode":"500003",
+    "sg:province":"Andhra Pradesh",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930739,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fbPPlnPd1cTrFKMOoCxbQ_17.389887_78.470215@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"46d1182bec8ee7e027ee5662553a8026",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930739,
+            "region_id":85672141,
+            "venue_id":169573049
+        }
+    ],
+    "wof:id":169573049,
+    "wof:lastmodified":1449035113,
+    "wof:name":"Vorin Laboratories Ltd",
+    "wof:parent_id":85930739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [78.470215,17.389887,78.470215,17.389887],
+  "geometry": {"coordinates":[78.470215,17.389887],"type":"Point"}
+}

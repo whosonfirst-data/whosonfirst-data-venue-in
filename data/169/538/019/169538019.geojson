@@ -1,0 +1,66 @@
+{
+  "id": 169538019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.559181,12.988823,77.559181,12.988823",
+    "geom:latitude":12.988823,
+    "geom:longitude":77.559181,
+    "iso:country":"IN",
+    "sg:address":"No. 2/4, Dr. Raj Kumar Road, Rajainagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2312 4073",
+    "sg:postcode":"560021",
+    "sg:tags":[
+        "binder",
+        "printer"
+    ],
+    "sg:website":"http://www.abhimanigroups.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RyifEqNzfgqCkd23nXeVW_12.988823_77.559181@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1072194cc563439043275f3f234c7628",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169538019
+        }
+    ],
+    "wof:id":169538019,
+    "wof:lastmodified":1449033099,
+    "wof:name":"Abhimani Publication Pvt. Ltd.",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "binder",
+        "printer"
+    ]
+},
+  "bbox": [77.559181,12.988823,77.559181,12.988823],
+  "geometry": {"coordinates":[77.559181,12.988823],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 169536325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.837463,18.953346,72.837463,18.953346",
+    "geom:latitude":18.953346,
+    "geom:longitude":72.837463,
+    "iso:country":"IN",
+    "sg:address":"139, Masjid Bunder Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2344 9999",
+    "sg:postcode":"400003",
+    "sg:website":"http://www.rainproofexports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D3wzZ6CaLgFaPT8WIbOTT_18.953346_72.837463@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3b2105f30e033047e5dc9b70bdb3797f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169536325
+        }
+    ],
+    "wof:id":169536325,
+    "wof:lastmodified":1449034660,
+    "wof:name":"Rainproof Exports (p) Ltd.",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.837463,18.953346,72.837463,18.953346],
+  "geometry": {"coordinates":[72.837463,18.953346],"type":"Point"}
+}

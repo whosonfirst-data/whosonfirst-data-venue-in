@@ -1,0 +1,63 @@
+{
+  "id": 169628993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.941719,19.165379,72.941719,19.165379",
+    "geom:latitude":19.165379,
+    "geom:longitude":72.941719,
+    "iso:country":"IN",
+    "sg:address":"203, Raja Industrial Estate, Mulund (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2568 2743",
+    "sg:postcode":"400080",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931655,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5C2WnSnFqPyuspIVdZ7Buq_19.165379_72.941719@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"735b98ccbef34a41bd4a9d1430a18194",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931655,
+            "region_id":85672171,
+            "venue_id":169628993
+        }
+    ],
+    "wof:id":169628993,
+    "wof:lastmodified":1449035334,
+    "wof:name":"Stanro Rubber Engineers",
+    "wof:parent_id":85931655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.941719,19.165379,72.941719,19.165379],
+  "geometry": {"coordinates":[72.941719,19.165379],"type":"Point"}
+}

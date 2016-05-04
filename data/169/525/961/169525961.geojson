@@ -1,0 +1,65 @@
+{
+  "id": 169525961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.814697,18.970503,72.814697,18.970503",
+    "geom:latitude":18.970503,
+    "geom:longitude":72.814697,
+    "iso:country":"IN",
+    "sg:address":"Averest Building, 9th Floor, Tardeo,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2352 1777",
+    "sg:postcode":"400007",
+    "sg:tags":[
+        "aluminium",
+        "foil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903971,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_759gxxlgvhqLQCMmGRSLqb_18.970503_72.814697@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fdce09bb17c2df355f8005f3c7c51254",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903971,
+            "region_id":85672171,
+            "venue_id":169525961
+        }
+    ],
+    "wof:id":169525961,
+    "wof:lastmodified":1449035275,
+    "wof:name":"Parekh Aluminex Limited",
+    "wof:parent_id":85903971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aluminium",
+        "foil"
+    ]
+},
+  "bbox": [72.814697,18.970503,72.814697,18.970503],
+  "geometry": {"coordinates":[72.814697,18.970503],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169526833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.795952,18.946445,72.795952,18.946445",
+    "geom:latitude":18.946445,
+    "geom:longitude":72.795952,
+    "iso:country":"IN",
+    "sg:address":"114, A-1 Apartment, 270 Walkeshwar Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 4022 7807",
+    "sg:postcode":"400006",
+    "sg:tags":[
+        "bag",
+        "-",
+        "cotton/canvas/synthetic"
+    ],
+    "sg:website":"http://www.luckyinternational.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903909,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bSuGHszv7KFg5yNxX35Lj_18.946445_72.795952@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a12207106bf1c919fe32de7f5a1c0f5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903909,
+            "region_id":-1,
+            "venue_id":169526833
+        }
+    ],
+    "wof:id":169526833,
+    "wof:lastmodified":1449033699,
+    "wof:name":"Lucky International",
+    "wof:parent_id":85903909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag",
+        "-",
+        "cotton/canvas/synthetic"
+    ]
+},
+  "bbox": [72.795952,18.946445,72.795952,18.946445],
+  "geometry": {"coordinates":[72.795952,18.946445],"type":"Point"}
+}

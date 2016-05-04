@@ -1,0 +1,65 @@
+{
+  "id": 169558441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.735092,30.693993,76.735092,30.693993",
+    "geom:latitude":30.693993,
+    "geom:longitude":76.735092,
+    "iso:country":"IN",
+    "sg:address":"C-64, Sector-63,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 647 3885",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927681,
+        85632469,
+        102031103,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qGCKMb6zGk8UyWjKNqVvL_30.693993_76.735092@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ac45f4e0e8b80b67071f350971b125f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031103,
+            "neighbourhood_id":85927681,
+            "region_id":85672195,
+            "venue_id":169558441
+        }
+    ],
+    "wof:id":169558441,
+    "wof:lastmodified":1449033581,
+    "wof:name":"Boffin Impex Pvt. Ltd.",
+    "wof:parent_id":85927681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [76.735092,30.693993,76.735092,30.693993],
+  "geometry": {"coordinates":[76.735092,30.693993],"type":"Point"}
+}

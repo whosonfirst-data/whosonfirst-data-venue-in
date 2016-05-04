@@ -1,0 +1,67 @@
+{
+  "id": 169649625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.195982,28.579642,77.195982,28.579642",
+    "geom:latitude":28.579642,
+    "geom:longitude":77.195982,
+    "iso:country":"IN",
+    "sg:address":"F-54, Green Park Main",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110016",
+    "sg:tags":[
+        "radha",
+        "krishna",
+        "radhakrishna"
+    ],
+    "sg:website":"http://www.radhavallabh.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928329,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K0ViuT31beIhn4HuwS8xS_28.579642_77.195982@1308163240"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b804c1365f57fca0768dbd3babc7388b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928329,
+            "region_id":85672123,
+            "venue_id":169649625
+        }
+    ],
+    "wof:id":169649625,
+    "wof:lastmodified":1449034944,
+    "wof:name":"Radha Krishna Portal",
+    "wof:parent_id":85928329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radha",
+        "krishna",
+        "radhakrishna"
+    ]
+},
+  "bbox": [77.195982,28.579642,77.195982,28.579642],
+  "geometry": {"coordinates":[77.195982,28.579642],"type":"Point"}
+}

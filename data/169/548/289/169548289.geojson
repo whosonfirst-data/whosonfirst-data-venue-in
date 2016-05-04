@@ -1,0 +1,66 @@
+{
+  "id": 169548289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.67968,10.810249,78.67968,10.810249",
+    "geom:latitude":10.810249,
+    "geom:longitude":78.67968,
+    "iso:country":"IN",
+    "sg:address":"53 Convent Road,",
+    "sg:city":"Tuticorin",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 461 420 0945",
+    "sg:postcode":"500003",
+    "sg:tags":[
+        "aromatics",
+        "essential"
+    ],
+    "sg:website":"http://www.ninedirection.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85772813,
+        85632469,
+        102028441,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2usiNB2ezu14U85Fi7Mtbs_10.810249_78.679680@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"924b3d0e461c36d888bfe4cc5b4057f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028441,
+            "neighbourhood_id":85772813,
+            "region_id":85672245,
+            "venue_id":169548289
+        }
+    ],
+    "wof:id":169548289,
+    "wof:lastmodified":1449034974,
+    "wof:name":"Nine Direction Marketing Pvt. Ltd.",
+    "wof:parent_id":85772813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aromatics",
+        "essential"
+    ]
+},
+  "bbox": [78.67968,10.810249,78.67968,10.810249],
+  "geometry": {"coordinates":[78.67968,10.810249],"type":"Point"}
+}

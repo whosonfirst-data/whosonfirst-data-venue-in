@@ -1,0 +1,64 @@
+{
+  "id": 169615797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.822639,18.925814,72.822639,18.925814",
+    "geom:latitude":18.925814,
+    "geom:longitude":72.822639,
+    "iso:country":"IN",
+    "sg:address":"132-b, 13th Floor, 224, Nariman Point, Mittal Court,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2287 5249",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "sg:website":"under construction",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yN63fX5nRIMmH8jP3XIlA_18.925814_72.822639@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0b9ecd7d880f79794bbee216f6a3556b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169615797
+        }
+    ],
+    "wof:id":169615797,
+    "wof:lastmodified":1449033735,
+    "wof:name":"Sanika Tradelinks",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [72.822639,18.925814,72.822639,18.925814],
+  "geometry": {"coordinates":[72.822639,18.925814],"type":"Point"}
+}

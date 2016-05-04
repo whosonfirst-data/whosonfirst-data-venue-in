@@ -1,0 +1,63 @@
+{
+  "id": 169625541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.859482,19.11231,72.859482,19.11231",
+    "geom:latitude":19.11231,
+    "geom:longitude":72.859482,
+    "iso:country":"IN",
+    "sg:address":"C/2c Satam Industrial Estate, Chakala Andheri (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2825 8680",
+    "sg:postcode":"400099",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931483,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cua21EwX4ldouAHVVRZY0_19.112310_72.859482@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"51023b96ab6f3effa36d62ce1c5a1e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931483,
+            "region_id":85672171,
+            "venue_id":169625541
+        }
+    ],
+    "wof:id":169625541,
+    "wof:lastmodified":1449036022,
+    "wof:name":"Solvchem",
+    "wof:parent_id":85931483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [72.859482,19.11231,72.859482,19.11231],
+  "geometry": {"coordinates":[72.859482,19.11231],"type":"Point"}
+}

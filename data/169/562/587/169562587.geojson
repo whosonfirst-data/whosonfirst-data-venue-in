@@ -1,0 +1,53 @@
+{
+  "id": 169562587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.58918,12.990293,77.58918,12.990293",
+    "geom:latitude":12.990293,
+    "geom:longitude":77.58918,
+    "iso:country":"IN",
+    "sg:address":"Cunningham Road",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 802268012",
+    "sg:postcode":"560052",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930961,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18iPvVR5oFEKXebZGWxByg_12.990293_77.589180@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c565656731ba0a77434dcd2c9fe36f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930961,
+            "region_id":85672165,
+            "venue_id":169562587
+        }
+    ],
+    "wof:id":169562587,
+    "wof:lastmodified":1449034433,
+    "wof:name":"V B D",
+    "wof:parent_id":85930961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.58918,12.990293,77.58918,12.990293],
+  "geometry": {"coordinates":[77.58918,12.990293],"type":"Point"}
+}

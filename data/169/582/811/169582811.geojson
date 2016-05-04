@@ -1,0 +1,63 @@
+{
+  "id": 169582811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.598465,23.032633,72.598465,23.032633",
+    "geom:latitude":23.032633,
+    "geom:longitude":72.598465,
+    "iso:country":"IN",
+    "sg:address":"415, Choka Bazar, Kalupur,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 2213 1426",
+    "sg:postcode":"380002",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928703,
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SvRPWRXKA11HUR9HGUhZN_23.032633_72.598465@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bd6f02f28057b376756d87abc8459252",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":85928703,
+            "region_id":85672249,
+            "venue_id":169582811
+        }
+    ],
+    "wof:id":169582811,
+    "wof:lastmodified":1449034465,
+    "wof:name":"Kirti Kumar & Co.",
+    "wof:parent_id":85928703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.598465,23.032633,72.598465,23.032633],
+  "geometry": {"coordinates":[72.598465,23.032633],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169558721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.243027,28.583153,77.243027,28.583153",
+    "geom:latitude":28.583153,
+    "geom:longitude":77.243027,
+    "iso:country":"IN",
+    "sg:address":"P-2b, Jangpura Extension,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2431 3655",
+    "sg:postcode":"110014",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928001,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HT6IXwprZjFTZTfpO5tbX_28.583153_77.243027@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8fb6e6d38444e24057d3df697e25e31b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928001,
+            "region_id":85672123,
+            "venue_id":169558721
+        }
+    ],
+    "wof:id":169558721,
+    "wof:lastmodified":1449033581,
+    "wof:name":"C. K. Chemical Industries",
+    "wof:parent_id":85928001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [77.243027,28.583153,77.243027,28.583153],
+  "geometry": {"coordinates":[77.243027,28.583153],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 169608869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.499596,13.008512,77.499596,13.008512",
+    "geom:latitude":13.008512,
+    "geom:longitude":77.499596,
+    "iso:country":"IN",
+    "sg:address":"Peenya Indl Area,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2372 0635",
+    "sg:postcode":"560052",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tIThB1SdoRtYS9kduhzlO_13.008512_77.499596@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"23c67244d3199d0df20506c9d781e0b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169608869
+        }
+    ],
+    "wof:id":169608869,
+    "wof:lastmodified":1449034085,
+    "wof:name":"Rallis India Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.499596,13.008512,77.499596,13.008512],
+  "geometry": {"coordinates":[77.499596,13.008512],"type":"Point"}
+}

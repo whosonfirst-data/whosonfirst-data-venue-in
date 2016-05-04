@@ -1,0 +1,64 @@
+{
+  "id": 169587671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.37751,22.628782,88.37751,22.628782",
+    "geom:latitude":22.628782,
+    "geom:longitude":88.37751,
+    "iso:country":"IN",
+    "sg:address":"11/2, Gopal Chatterjee Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 6452 8896",
+    "sg:postcode":"700002",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.marutiimp.biz.ly",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903795,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tX7RYgFiBVjwikSJEET0Y_22.628782_88.377510@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"208e728f9ff88020df63b62ef75006ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903795,
+            "region_id":85672219,
+            "venue_id":169587671
+        }
+    ],
+    "wof:id":169587671,
+    "wof:lastmodified":1449033820,
+    "wof:name":"Maruti Impex",
+    "wof:parent_id":85903795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.37751,22.628782,88.37751,22.628782],
+  "geometry": {"coordinates":[88.37751,22.628782],"type":"Point"}
+}

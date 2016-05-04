@@ -1,0 +1,64 @@
+{
+  "id": 169535931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.867928,19.122612,72.867928,19.122612",
+    "geom:latitude":19.122612,
+    "geom:longitude":72.867928,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 11, Street No. 10, Midc, Andheri (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2835 3498",
+    "sg:postcode":"400093",
+    "sg:tags":[
+        "fabricator"
+    ],
+    "sg:website":"http://www.kevincpp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72H1oswXd05PAuq9bjgyGY_19.122612_72.867928@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3719970dac432a482152a2d38071c437",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169535931
+        }
+    ],
+    "wof:id":169535931,
+    "wof:lastmodified":1449033289,
+    "wof:name":"Kevin Enterprises Pvt. Ltd.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator"
+    ]
+},
+  "bbox": [72.867928,19.122612,72.867928,19.122612],
+  "geometry": {"coordinates":[72.867928,19.122612],"type":"Point"}
+}

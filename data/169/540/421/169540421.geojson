@@ -1,0 +1,65 @@
+{
+  "id": 169540421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.579018,12.969014,77.579018,12.969014",
+    "geom:latitude":12.969014,
+    "geom:longitude":77.579018,
+    "iso:country":"IN",
+    "sg:address":"560 Avenue Rd., Chickpet,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2220 2939",
+    "sg:postcode":"560027",
+    "sg:tags":[
+        "garment",
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M5CYWdZtKkBLCkDqrhwm7_12.969014_77.579018@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3443c5964bbb8de90546cef4fa67e8ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169540421
+        }
+    ],
+    "wof:id":169540421,
+    "wof:lastmodified":1449033976,
+    "wof:name":"Sirigiri Silks",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "silk"
+    ]
+},
+  "bbox": [77.579018,12.969014,77.579018,12.969014],
+  "geometry": {"coordinates":[77.579018,12.969014],"type":"Point"}
+}

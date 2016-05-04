@@ -1,0 +1,62 @@
+{
+  "id": 169558279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"81.343719,21.186457,81.343719,21.186457",
+    "geom:latitude":21.186457,
+    "geom:longitude":81.343719,
+    "iso:country":"IN",
+    "sg:address":"8, Civic Centre,",
+    "sg:city":"Bhilai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 788 226 1503",
+    "sg:postcode":"490006",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030693,
+        85672231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DJFUutaHQ1USaGkBt2jgN_21.186457_81.343719@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"48e0a4974217d2bdab8503808ac14dea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030693,
+            "neighbourhood_id":-1,
+            "region_id":85672231,
+            "venue_id":169558279
+        }
+    ],
+    "wof:id":169558279,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Bhilai Cement",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [81.343719,21.186457,81.343719,21.186457],
+  "geometry": {"coordinates":[81.343719,21.186457],"type":"Point"}
+}

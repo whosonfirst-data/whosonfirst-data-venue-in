@@ -1,0 +1,54 @@
+{
+  "id": 169560749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.228973,28.631357,77.228973,28.631357",
+    "geom:latitude":28.631357,
+    "geom:longitude":77.228973,
+    "iso:country":"IN",
+    "sg:address":"Babar Road",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 113351873",
+    "sg:postcode":"110001",
+    "sg:province":"Delhi",
+    "sg:website":"http://www.traditions-india.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903833,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HkkL0nJwZ0818XutPL2Eb_28.631357_77.228973@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bcce6902193639f5589b772a72cf0d18",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903833,
+            "region_id":85672123,
+            "venue_id":169560749
+        }
+    ],
+    "wof:id":169560749,
+    "wof:lastmodified":1449035180,
+    "wof:name":"Indian Traditions Pvt Ltd",
+    "wof:parent_id":85903833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.228973,28.631357,77.228973,28.631357],
+  "geometry": {"coordinates":[77.228973,28.631357],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169546879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.337288,11.110649,77.337288,11.110649",
+    "geom:latitude":11.110649,
+    "geom:longitude":77.337288,
+    "iso:country":"IN",
+    "sg:address":"9-11, Stanes Road, 1st Street,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 531 7700",
+    "sg:postcode":"641602",
+    "sg:tags":[
+        "knitted",
+        "knitwear"
+    ],
+    "sg:website":"http://www.deeceeexports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028425,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZKAM7dgv4oHDyyb8IHlA0_11.110649_77.337288@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2ab7651447a90b4102545dc28bcf0ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028425,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169546879
+        }
+    ],
+    "wof:id":169546879,
+    "wof:lastmodified":1449032677,
+    "wof:name":"Dee Cee Exports",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitted",
+        "knitwear"
+    ]
+},
+  "bbox": [77.337288,11.110649,77.337288,11.110649],
+  "geometry": {"coordinates":[77.337288,11.110649],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169639505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.169006,13.088716,80.169006,13.088716",
+    "geom:latitude":13.088716,
+    "geom:longitude":80.169006,
+    "iso:country":"IN",
+    "sg:address":"114, Southern Avenue,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2466 3606",
+    "sg:postcode":"700029",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "sg:website":"http://www.kanoria.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927699,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29UzHR08tIyWDUzvsYyyUP_13.088716_80.169006@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ee31996d98cfa7214725136b0aea0ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85927699,
+            "region_id":85672245,
+            "venue_id":169639505
+        }
+    ],
+    "wof:id":169639505,
+    "wof:lastmodified":1449035954,
+    "wof:name":"Unisport International",
+    "wof:parent_id":85927699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [80.169006,13.088716,80.169006,13.088716],
+  "geometry": {"coordinates":[80.169006,13.088716],"type":"Point"}
+}

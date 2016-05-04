@@ -1,0 +1,69 @@
+{
+  "id": 169539945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.64299,12.984924,77.64299,12.984924",
+    "geom:latitude":12.984924,
+    "geom:longitude":77.64299,
+    "iso:country":"IN",
+    "sg:address":"27, Old Madras Road, Binnamangla, Indira Nagar (post),",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Tower",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 56 973784",
+    "sg:postcode":"560038",
+    "sg:tags":[
+        "component",
+        "sewing",
+        "knitting",
+        "machinery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65WtdFkabJIFHAwqGSrjfa_12.984924_77.642990@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"102cf3027299bcc4bafd33e12801fc20",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169539945
+        }
+    ],
+    "wof:id":169539945,
+    "wof:lastmodified":1449036038,
+    "wof:name":"Sri Subramanya Enterprises",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "sewing",
+        "knitting",
+        "machinery"
+    ]
+},
+  "bbox": [77.64299,12.984924,77.64299,12.984924],
+  "geometry": {"coordinates":[77.64299,12.984924],"type":"Point"}
+}

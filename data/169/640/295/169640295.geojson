@@ -1,0 +1,63 @@
+{
+  "id": 169640295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.353065,22.569654,88.353065,22.569654",
+    "geom:latitude":22.569654,
+    "geom:longitude":88.353065,
+    "iso:country":"IN",
+    "sg:address":"30, Bentick Street, 3rd Floor, Room No. 313,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 3291 7991",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931969,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CFa2etkWH8Ymff8h3oGID_22.569654_88.353065@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9c7b7771957fe405c6ad10212ab0c41e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931969,
+            "region_id":85672219,
+            "venue_id":169640295
+        }
+    ],
+    "wof:id":169640295,
+    "wof:lastmodified":1449034103,
+    "wof:name":"Uniworth Impex",
+    "wof:parent_id":85931969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.353065,22.569654,88.353065,22.569654],
+  "geometry": {"coordinates":[88.353065,22.569654],"type":"Point"}
+}

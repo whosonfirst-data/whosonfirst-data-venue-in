@@ -1,0 +1,66 @@
+{
+  "id": 169526675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.823494,18.999449,72.823494,18.999449",
+    "geom:latitude":18.999449,
+    "geom:longitude":72.823494,
+    "iso:country":"IN",
+    "sg:address":"221, A To Z Industrial Estate, Lower Parel,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2494 2893",
+    "sg:postcode":"400013",
+    "sg:tags":[
+        "infant",
+        "product"
+    ],
+    "sg:website":"http://www.premsons.biz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931535,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ju63BwAKdEHkNbTsWrDfe_18.999449_72.823494@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e6966fabf94cf640c878ebfbe76df672",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931535,
+            "region_id":85672171,
+            "venue_id":169526675
+        }
+    ],
+    "wof:id":169526675,
+    "wof:lastmodified":1449033700,
+    "wof:name":"Premsons Plastics Pvt. Ltd.",
+    "wof:parent_id":85931535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "infant",
+        "product"
+    ]
+},
+  "bbox": [72.823494,18.999449,72.823494,18.999449],
+  "geometry": {"coordinates":[72.823494,18.999449],"type":"Point"}
+}

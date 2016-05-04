@@ -1,0 +1,68 @@
+{
+  "id": 169653131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.078919,28.440431,77.078919,28.440431",
+    "geom:latitude":28.440431,
+    "geom:longitude":77.078919,
+    "iso:country":"IN",
+    "sg:address":"Gorund Floor Tower A    \tUnitech World - Cyberpark",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"122001",
+    "sg:tags":[
+        "yatra",
+        "yatra-com",
+        "yatra-india",
+        "yatra-online"
+    ],
+    "sg:website":"http://www.Yatra.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gTWSK1lDGU7hTptvApdiv_28.440431_77.078919@1308163238"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9bd326fb28796e5543f70422ff53b521",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":-1,
+            "region_id":85672133,
+            "venue_id":169653131
+        }
+    ],
+    "wof:id":169653131,
+    "wof:lastmodified":1449032917,
+    "wof:name":"Yatra online",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yatra",
+        "yatra-com",
+        "yatra-india",
+        "yatra-online"
+    ]
+},
+  "bbox": [77.078919,28.440431,77.078919,28.440431],
+  "geometry": {"coordinates":[77.078919,28.440431],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169528703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.839485,18.936762,72.839485,18.936762",
+    "geom:latitude":18.936762,
+    "geom:longitude":72.839485,
+    "iso:country":"IN",
+    "sg:address":"23, Vaju Kotak Marg, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2266 4930",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "bulk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PjaDrLyitLpSDwBqD3XG0_18.936762_72.839485@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"958e650d55913ae24c76e364889e24b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169528703
+        }
+    ],
+    "wof:id":169528703,
+    "wof:lastmodified":1449033569,
+    "wof:name":"J.a. Enterprises",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk"
+    ]
+},
+  "bbox": [72.839485,18.936762,72.839485,18.936762],
+  "geometry": {"coordinates":[72.839485,18.936762],"type":"Point"}
+}

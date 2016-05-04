@@ -1,0 +1,63 @@
+{
+  "id": 169638981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.912666,19.092699,72.912666,19.092699",
+    "geom:latitude":19.092699,
+    "geom:longitude":72.912666,
+    "iso:country":"IN",
+    "sg:address":"312/313, Bhaveshwar Complex, Vidyavihar (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2513 9584",
+    "sg:postcode":"400086",
+    "sg:tags":[
+        "pigment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931531,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65cOT0PyD9iAxQhoBRhPUr_19.092699_72.912666@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7d4ff3bd88f0324f516b8793abef232d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931531,
+            "region_id":85672171,
+            "venue_id":169638981
+        }
+    ],
+    "wof:id":169638981,
+    "wof:lastmodified":1449032871,
+    "wof:name":"Unique Industrial Corporation",
+    "wof:parent_id":85931531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [72.912666,19.092699,72.912666,19.092699],
+  "geometry": {"coordinates":[72.912666,19.092699],"type":"Point"}
+}

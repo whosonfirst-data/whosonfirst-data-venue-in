@@ -1,0 +1,66 @@
+{
+  "id": 169545475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.952187,8.503696,76.952187,8.503696",
+    "geom:latitude":8.503696,
+    "geom:longitude":76.952187,
+    "iso:country":"IN",
+    "sg:address":"Trivandrum,",
+    "sg:city":"Thiruvananthapuram",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 471 454 4119",
+    "sg:tags":[
+        "rough",
+        "stone",
+        "gem"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783631,
+        85632469,
+        102028407,
+        85672149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X3bDQIoEzCjDttcUpshjp_8.503696_76.952187@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6fd51ff009a8fd379f6ea4f37d30fb7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028407,
+            "neighbourhood_id":85783631,
+            "region_id":85672149,
+            "venue_id":169545475
+        }
+    ],
+    "wof:id":169545475,
+    "wof:lastmodified":1449033487,
+    "wof:name":"Aditya Impex",
+    "wof:parent_id":85783631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rough",
+        "stone",
+        "gem"
+    ]
+},
+  "bbox": [76.952187,8.503696,76.952187,8.503696],
+  "geometry": {"coordinates":[76.952187,8.503696],"type":"Point"}
+}

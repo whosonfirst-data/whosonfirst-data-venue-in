@@ -1,0 +1,64 @@
+{
+  "id": 169545327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.111221,13.056683,80.111221,13.056683",
+    "geom:latitude":13.056683,
+    "geom:longitude":80.111221,
+    "iso:country":"IN",
+    "sg:address":"Chennai By Pass Road,",
+    "sg:city":"Thiruchirapalli",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 431 273 0049",
+    "sg:postcode":"620002",
+    "sg:tags":[
+        "die",
+        "casting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LsjARMnbDdapLLhTXDT98_13.056683_80.111221@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"50c5dfcf2d248eab0529421c7954187a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169545327
+        }
+    ],
+    "wof:id":169545327,
+    "wof:lastmodified":1449033484,
+    "wof:name":"Hindusthan Metal Crafts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "die",
+        "casting"
+    ]
+},
+  "bbox": [80.111221,13.056683,80.111221,13.056683],
+  "geometry": {"coordinates":[80.111221,13.056683],"type":"Point"}
+}

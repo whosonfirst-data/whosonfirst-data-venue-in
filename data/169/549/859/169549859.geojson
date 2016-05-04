@@ -1,0 +1,63 @@
+{
+  "id": 169549859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.787102,13.334578,74.787102,13.334578",
+    "geom:latitude":13.334578,
+    "geom:longitude":74.787102,
+    "iso:country":"IN",
+    "sg:address":"32, Industrial Area,",
+    "sg:city":"Ulhasnagar",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 251 258 0815",
+    "sg:postcode":"421004",
+    "sg:tags":[
+        "biscuit"
+    ],
+    "sg:website":"http://www.samratfood.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029431,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BkQTvlpxctiwuuymYDsIa_13.334578_74.787102@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7d2c276e2755a4162b569d4aaf9089ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029431,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169549859
+        }
+    ],
+    "wof:id":169549859,
+    "wof:lastmodified":1449033592,
+    "wof:name":"Samrat Food Products",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit"
+    ]
+},
+  "bbox": [74.787102,13.334578,74.787102,13.334578],
+  "geometry": {"coordinates":[74.787102,13.334578],"type":"Point"}
+}

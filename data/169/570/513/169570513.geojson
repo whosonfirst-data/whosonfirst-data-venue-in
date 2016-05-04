@@ -1,0 +1,54 @@
+{
+  "id": 169570513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.82724,18.960335,72.82724,18.960335",
+    "geom:latitude":18.960335,
+    "geom:longitude":72.82724,
+    "iso:country":"IN",
+    "sg:address":"3rd Kumbharwada Lane",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2380 7566",
+    "sg:postcode":"400004",
+    "sg:province":"Maharashtra",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6692Hh1q4BexnW9txtuGIq_18.960335_72.827240@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6d707240b6a5ab2f878fca0a1709d44e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903863,
+            "region_id":85672171,
+            "venue_id":169570513
+        }
+    ],
+    "wof:id":169570513,
+    "wof:lastmodified":1449034646,
+    "wof:name":"Blue Star Metals",
+    "wof:parent_id":85903863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.82724,18.960335,72.82724,18.960335],
+  "geometry": {"coordinates":[72.82724,18.960335],"type":"Point"}
+}

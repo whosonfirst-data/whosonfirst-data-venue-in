@@ -1,0 +1,63 @@
+{
+  "id": 169582165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.483009,17.440193,78.483009,17.440193",
+    "geom:latitude":17.440193,
+    "geom:longitude":78.483009,
+    "iso:country":"IN",
+    "sg:address":"25, Sindhi Colony, 3rd Floor, J.c. Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2224 1994",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930733,
+        85632469,
+        102028703,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06iOMefWHkuw7Eng2lBuTK_17.440193_78.483009@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4dd1e0720074d013838946ca53f4d132",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028703,
+            "neighbourhood_id":85930733,
+            "region_id":85672141,
+            "venue_id":169582165
+        }
+    ],
+    "wof:id":169582165,
+    "wof:lastmodified":1449034466,
+    "wof:name":"Karavali Build-chem Pvt. Ltd.",
+    "wof:parent_id":85930733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [78.483009,17.440193,78.483009,17.440193],
+  "geometry": {"coordinates":[78.483009,17.440193],"type":"Point"}
+}

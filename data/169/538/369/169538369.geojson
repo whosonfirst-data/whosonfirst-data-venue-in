@@ -1,0 +1,67 @@
+{
+  "id": 169538369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.584702,12.963801,77.584702,12.963801",
+    "geom:latitude":12.963801,
+    "geom:longitude":77.584702,
+    "iso:country":"IN",
+    "sg:address":"56, Silver Jubilee Park Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2223 9887",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "equipment",
+        "pump",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ifJGnIkfYBvxjPw03Dbkv_12.963801_77.584702@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c57761aa9a3a33ae3318abdd13b4c2f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169538369
+        }
+    ],
+    "wof:id":169538369,
+    "wof:lastmodified":1449033100,
+    "wof:name":"Bangalore Electrical & Machinary Co.",
+    "wof:parent_id":85930903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "pump",
+        "pumping"
+    ]
+},
+  "bbox": [77.584702,12.963801,77.584702,12.963801],
+  "geometry": {"coordinates":[77.584702,12.963801],"type":"Point"}
+}

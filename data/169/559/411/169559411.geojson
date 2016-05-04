@@ -1,0 +1,53 @@
+{
+  "id": 169559411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.302666,28.648165,77.302666,28.648165",
+    "geom:latitude":28.648165,
+    "geom:longitude":77.302666,
+    "iso:country":"IN",
+    "sg:address":"Community Centre, Preet Vihar",
+    "sg:city":"Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2242 8234",
+    "sg:postcode":"110092",
+    "sg:province":"Delhi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928573,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23B2U4GgDjaDzoGZ9XNi85_28.648165_77.302666@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bb8c16b98c4d9ec57b1c26312ceda413",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928573,
+            "region_id":85672123,
+            "venue_id":169559411
+        }
+    ],
+    "wof:id":169559411,
+    "wof:lastmodified":1449035237,
+    "wof:name":"Paras Electronics",
+    "wof:parent_id":85928573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.302666,28.648165,77.302666,28.648165],
+  "geometry": {"coordinates":[77.302666,28.648165],"type":"Point"}
+}

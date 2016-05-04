@@ -1,0 +1,63 @@
+{
+  "id": 169533291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833733,19.014309,72.833733,19.014309",
+    "geom:latitude":19.014309,
+    "geom:longitude":72.833733,
+    "iso:country":"IN",
+    "sg:address":"Room No. 18, Bhagya Laxmi, 1st Floor,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2382 6222",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931467,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lrzMzkDazQoj65XTt7MI7_19.014309_72.833733@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4d99ed11013dfe734d32ba54b63cf95e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931467,
+            "region_id":85672171,
+            "venue_id":169533291
+        }
+    ],
+    "wof:id":169533291,
+    "wof:lastmodified":1449032642,
+    "wof:name":"H. S. Exports",
+    "wof:parent_id":85931467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.833733,19.014309,72.833733,19.014309],
+  "geometry": {"coordinates":[72.833733,19.014309],"type":"Point"}
+}

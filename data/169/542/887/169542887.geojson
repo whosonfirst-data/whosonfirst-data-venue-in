@@ -1,0 +1,72 @@
+{
+  "id": 169542887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.612366,12.934338,77.612366,12.934338",
+    "geom:latitude":12.934338,
+    "geom:longitude":77.612366,
+    "iso:country":"IN",
+    "sg:address":"140, Koramangala, Hosur Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2553 1580",
+    "sg:postcode":"560095",
+    "sg:tags":[
+        "meter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930917,
+        85632469,
+        102030819,
+        85672165,
+        85930991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XTiRJA4SNG78RpRYZl0oh_12.934338_77.612366@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1044aa83c55d4f4167f04e9465135aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930917,
+            "region_id":85672165,
+            "venue_id":169542887
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930991,
+            "region_id":85672165,
+            "venue_id":169542887
+        }
+    ],
+    "wof:id":169542887,
+    "wof:lastmodified":1449035222,
+    "wof:name":"Siemens Vdo Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meter"
+    ]
+},
+  "bbox": [77.612366,12.934338,77.612366,12.934338],
+  "geometry": {"coordinates":[77.612366,12.934338],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169528901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.834328,18.922504,72.834328,18.922504",
+    "geom:latitude":18.922504,
+    "geom:longitude":72.834328,
+    "iso:country":"IN",
+    "sg:address":"Gateway Building, Apollo Bunder,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2202 1031",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "cables/cable",
+        "conductor",
+        "accessory"
+    ],
+    "sg:website":"http://www.mecpltd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931609,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iFxM9vxcFtDp2dhkrtf0u_18.922504_72.834328@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2efef9293b50c3f055f3695b388d7d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931609,
+            "region_id":-1,
+            "venue_id":169528901
+        }
+    ],
+    "wof:id":169528901,
+    "wof:lastmodified":1449033570,
+    "wof:name":"Mahindra Engineering & Chemical Products Ltd.",
+    "wof:parent_id":85931609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cables/cable",
+        "conductor",
+        "accessory"
+    ]
+},
+  "bbox": [72.834328,18.922504,72.834328,18.922504],
+  "geometry": {"coordinates":[72.834328,18.922504],"type":"Point"}
+}

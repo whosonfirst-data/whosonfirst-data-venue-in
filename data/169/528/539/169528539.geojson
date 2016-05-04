@@ -1,0 +1,63 @@
+{
+  "id": 169528539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.839111,18.95142,72.839111,18.95142",
+    "geom:latitude":18.95142,
+    "geom:longitude":72.839111,
+    "iso:country":"IN",
+    "sg:address":"178, Sant Tukaram Road, Room No. 34,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2371 7313",
+    "sg:postcode":"400009",
+    "sg:tags":[
+        "bulk"
+    ],
+    "sg:website":"http://www.victorychemicals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TcCJIGzJOHyhYrQ66GgwM_18.951420_72.839111@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3c6cd65dff7a3c32d88f21c6ceceee5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169528539
+        }
+    ],
+    "wof:id":169528539,
+    "wof:lastmodified":1449033571,
+    "wof:name":"Victory Chemicals",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk"
+    ]
+},
+  "bbox": [72.839111,18.95142,72.839111,18.95142],
+  "geometry": {"coordinates":[72.839111,18.95142],"type":"Point"}
+}

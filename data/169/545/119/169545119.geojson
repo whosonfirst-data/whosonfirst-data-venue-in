@@ -1,0 +1,63 @@
+{
+  "id": 169545119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.713768,12.960203,77.713768,12.960203",
+    "geom:latitude":12.960203,
+    "geom:longitude":77.713768,
+    "iso:country":"IN",
+    "sg:address":"# 60, Epip, Whitefield,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2841 0123",
+    "sg:postcode":"560066",
+    "sg:tags":[
+        "x-ray"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931159,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37gl75055fxXhi1rzfMoPl_12.960203_77.713768@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"90d3caf56b7a091759209b59e35155f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931159,
+            "region_id":85672165,
+            "venue_id":169545119
+        }
+    ],
+    "wof:id":169545119,
+    "wof:lastmodified":1449033487,
+    "wof:name":"Ge Bell",
+    "wof:parent_id":85931159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "x-ray"
+    ]
+},
+  "bbox": [77.713768,12.960203,77.713768,12.960203],
+  "geometry": {"coordinates":[77.713768,12.960203],"type":"Point"}
+}

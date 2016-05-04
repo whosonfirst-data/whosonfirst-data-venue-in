@@ -1,0 +1,76 @@
+{
+  "id": 169650527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.31593,28.584688,77.31593,28.584688",
+    "geom:latitude":28.584688,
+    "geom:longitude":77.31593,
+    "iso:country":"IN",
+    "sg:address":"C2, Sector 2 2nd FLoor",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "career",
+        "jobs",
+        "job-search",
+        "company-reviews",
+        "company-ratings",
+        "salary-search",
+        "salary-comparison",
+        "salary-benchmarking"
+    ],
+    "sg:website":"http://www.talentequity.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031133,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4egUfVhWhBBXKx2YhInmL2_28.584688_77.315930@1308163240"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9995f14e825f5bf1a9538f07d67ba7cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031133,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169650527
+        }
+    ],
+    "wof:id":169650527,
+    "wof:lastmodified":1449034702,
+    "wof:name":"TalentEquity Solutions",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "career",
+        "jobs",
+        "job-search",
+        "company-reviews",
+        "company-ratings",
+        "salary-search",
+        "salary-comparison",
+        "salary-benchmarking"
+    ]
+},
+  "bbox": [77.31593,28.584688,77.31593,28.584688],
+  "geometry": {"coordinates":[77.31593,28.584688],"type":"Point"}
+}

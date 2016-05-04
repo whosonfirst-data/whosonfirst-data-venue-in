@@ -1,0 +1,65 @@
+{
+  "id": 169559761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.539726,13.021764,77.539726,13.021764",
+    "geom:latitude":13.021764,
+    "geom:longitude":77.539726,
+    "iso:country":"IN",
+    "sg:address":"# 67/3, Indl. Suburb, Yeshwanthpur,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2347 9296",
+    "sg:postcode":"560022",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AAu0WMItD7fXQ6u0wIYnO_13.021764_77.539726@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9a28f1d48ca2f88745d65613f56f40ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169559761
+        }
+    ],
+    "wof:id":169559761,
+    "wof:lastmodified":1449035238,
+    "wof:name":"Creative Aromatics (specialities) Pvt. Ltd.",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [77.539726,13.021764,77.539726,13.021764],
+  "geometry": {"coordinates":[77.539726,13.021764],"type":"Point"}
+}

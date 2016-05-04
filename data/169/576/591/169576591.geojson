@@ -1,0 +1,65 @@
+{
+  "id": 169576591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.71489,30.73423,76.71489,30.73423",
+    "geom:latitude":30.73423,
+    "geom:longitude":76.71489,
+    "iso:country":"IN",
+    "sg:address":"C-5-8, Sector-57,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 258 1230",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927777,
+        85632469,
+        102031103,
+        85672119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ltJfbdojqAA5Vlz4CZvVl_30.734230_76.714890@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e2309778deed76b22d55cd375fb5c9f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031103,
+            "neighbourhood_id":85927777,
+            "region_id":85672119,
+            "venue_id":169576591
+        }
+    ],
+    "wof:id":169576591,
+    "wof:lastmodified":1449035197,
+    "wof:name":"Fcl Technologies And Products Ltd.",
+    "wof:parent_id":85927777,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [76.71489,30.73423,76.71489,30.73423],
+  "geometry": {"coordinates":[76.71489,30.73423],"type":"Point"}
+}

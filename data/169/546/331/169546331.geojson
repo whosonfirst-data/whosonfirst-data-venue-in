@@ -1,0 +1,62 @@
+{
+  "id": 169546331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.768768,10.789482,78.768768,10.789482",
+    "geom:latitude":10.789482,
+    "geom:longitude":78.768768,
+    "iso:country":"IN",
+    "sg:address":"21, Iind Street, P.n. Road,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Naval Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 433 7770",
+    "sg:postcode":"641602",
+    "sg:tags":[
+        "button"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028441,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YqLd8skNidiIBG01gLMO3_10.789482_78.768768@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"961a8c435ab610bb5e4ca4b8920956bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028441,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169546331
+        }
+    ],
+    "wof:id":169546331,
+    "wof:lastmodified":1449032680,
+    "wof:name":"Garnit Export India",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "button"
+    ]
+},
+  "bbox": [78.768768,10.789482,78.768768,10.789482],
+  "geometry": {"coordinates":[78.768768,10.789482],"type":"Point"}
+}

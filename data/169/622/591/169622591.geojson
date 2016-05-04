@@ -1,0 +1,62 @@
+{
+  "id": 169622591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.844482,18.624193,73.844482,18.624193",
+    "geom:latitude":18.624193,
+    "geom:longitude":73.844482,
+    "iso:country":"IN",
+    "sg:address":"S. No. 14/6/2, Shantinagar, Bhosari,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2712 4924",
+    "sg:postcode":"411039",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UwNBfiXxxLHed7Cs8VgyU_18.624193_73.844482@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1629f05325498a0c15b552a63cf67093",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169622591
+        }
+    ],
+    "wof:id":169622591,
+    "wof:lastmodified":1449035368,
+    "wof:name":"Shri Datta Deep Rubber Products",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [73.844482,18.624193,73.844482,18.624193],
+  "geometry": {"coordinates":[73.844482,18.624193],"type":"Point"}
+}

@@ -1,0 +1,54 @@
+{
+  "id": 169574581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.345085,22.570631,88.345085,22.570631",
+    "geom:latitude":22.570631,
+    "geom:longitude":88.345085,
+    "iso:country":"IN",
+    "sg:address":"Church Lane",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2220 7168",
+    "sg:postcode":"700001",
+    "sg:province":"West Bengal",
+    "sg:website":"http://www.jfcbusiness.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931969,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DiPC9foJIOgg1FVFm8F16_22.570631_88.345085@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3ac01b2a2be3852357208361edd39964",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931969,
+            "region_id":85672219,
+            "venue_id":169574581
+        }
+    ],
+    "wof:id":169574581,
+    "wof:lastmodified":1449032662,
+    "wof:name":"Jfc Business Ltd",
+    "wof:parent_id":85931969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [88.345085,22.570631,88.345085,22.570631],
+  "geometry": {"coordinates":[88.345085,22.570631],"type":"Point"}
+}

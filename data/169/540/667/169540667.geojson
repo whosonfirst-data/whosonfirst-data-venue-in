@@ -1,0 +1,63 @@
+{
+  "id": 169540667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.861053,19.256052,72.861053,19.256052",
+    "geom:latitude":19.256052,
+    "geom:longitude":72.861053,
+    "iso:country":"IN",
+    "sg:address":"32/2, Mathru Complex, 2nd Floor,  J M Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2227 3830",
+    "sg:postcode":"560001",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931553,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qWSisbVFubgYPuT4mnkrj_19.256052_72.861053@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6379e2a7b3c40492f0dcca60cb78a594",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931553,
+            "region_id":85672171,
+            "venue_id":169540667
+        }
+    ],
+    "wof:id":169540667,
+    "wof:lastmodified":1449033977,
+    "wof:name":"Nitin Silks",
+    "wof:parent_id":85931553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [72.861053,19.256052,72.861053,19.256052],
+  "geometry": {"coordinates":[72.861053,19.256052],"type":"Point"}
+}

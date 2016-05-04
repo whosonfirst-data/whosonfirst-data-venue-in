@@ -1,0 +1,66 @@
+{
+  "id": 169543027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.658241,12.998204,77.658241,12.998204",
+    "geom:latitude":12.998204,
+    "geom:longitude":77.658241,
+    "iso:country":"IN",
+    "sg:address":"B Area, Doorvaninagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2561 7709",
+    "sg:postcode":"560016",
+    "sg:tags":[
+        "equipment",
+        "telecommunication"
+    ],
+    "sg:website":"http:// www.itiltd-india.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930859,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47oUJTS7fvYuQ3VAXHPLrr_12.998204_77.658241@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f04a4b5ca49da10ca23e9f8aa578d6e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930859,
+            "region_id":85672165,
+            "venue_id":169543027
+        }
+    ],
+    "wof:id":169543027,
+    "wof:lastmodified":1449033334,
+    "wof:name":"Iti Ltd.",
+    "wof:parent_id":85930859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telecommunication"
+    ]
+},
+  "bbox": [77.658241,12.998204,77.658241,12.998204],
+  "geometry": {"coordinates":[77.658241,12.998204],"type":"Point"}
+}

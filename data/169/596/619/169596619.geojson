@@ -1,0 +1,66 @@
+{
+  "id": 169596619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.896721,19.053493,72.896721,19.053493",
+    "geom:latitude":19.053493,
+    "geom:longitude":72.896721,
+    "iso:country":"IN",
+    "sg:address":"Sion Trombay Road, Govandi,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2556 3613",
+    "sg:postcode":"400088",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "sg:website":"http://www.orientalaromatics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931489,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Wkx1LCnXCI5PNxHpD9R4C_19.053493_72.896721@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a54fd9e8eacaaeb20295d6caa0915dbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931489,
+            "region_id":85672171,
+            "venue_id":169596619
+        }
+    ],
+    "wof:id":169596619,
+    "wof:lastmodified":1449034372,
+    "wof:name":"Oriental Aromatics Ltd.",
+    "wof:parent_id":85931489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [72.896721,19.053493,72.896721,19.053493],
+  "geometry": {"coordinates":[72.896721,19.053493],"type":"Point"}
+}

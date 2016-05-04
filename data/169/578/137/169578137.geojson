@@ -1,0 +1,63 @@
+{
+  "id": 169578137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.823425,18.923597,72.823425,18.923597",
+    "geom:latitude":18.923597,
+    "geom:longitude":72.823425,
+    "iso:country":"IN",
+    "sg:address":"803, Raheja Centre, Nariman Point,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2285 4705",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pQpZ742q9KNDjpty3h47s_18.923597_72.823425@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1fb88921c058f2a70dd9913b7973c44d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169578137
+        }
+    ],
+    "wof:id":169578137,
+    "wof:lastmodified":1449033520,
+    "wof:name":"Gujrat Fluorochemical Ltd.",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [72.823425,18.923597,72.823425,18.923597],
+  "geometry": {"coordinates":[72.823425,18.923597],"type":"Point"}
+}

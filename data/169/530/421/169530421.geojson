@@ -1,0 +1,65 @@
+{
+  "id": 169530421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.856354,19.162203,72.856354,19.162203",
+    "geom:latitude":19.162203,
+    "geom:longitude":72.856354,
+    "iso:country":"IN",
+    "sg:address":"104, Kothari Indl. Estate, I.b. Patel Road, Goregaon (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2686 1009",
+    "sg:postcode":"400063",
+    "sg:tags":[
+        "hardware",
+        "peripheral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931507,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30hIcVVCxwSmqhmUNgvfDc_19.162203_72.856354@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9c06612a8ded34f6c3fdcddd66e5d009",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931507,
+            "region_id":85672171,
+            "venue_id":169530421
+        }
+    ],
+    "wof:id":169530421,
+    "wof:lastmodified":1449034443,
+    "wof:name":"Intec Systems & Software",
+    "wof:parent_id":85931507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware",
+        "peripheral"
+    ]
+},
+  "bbox": [72.856354,19.162203,72.856354,19.162203],
+  "geometry": {"coordinates":[72.856354,19.162203],"type":"Point"}
+}

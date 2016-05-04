@@ -1,0 +1,63 @@
+{
+  "id": 169544663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.639221,12.983479,77.639221,12.983479",
+    "geom:latitude":12.983479,
+    "geom:longitude":77.639221,
+    "iso:country":"IN",
+    "sg:address":"20, Old Madras Road, Indiranagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2556 8988",
+    "sg:postcode":"560038",
+    "sg:tags":[
+        "waterproof"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uAptA0VxwVr1dzzytWWy6_12.983479_77.639221@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2155548767a53367e65f11cbb27b139f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169544663
+        }
+    ],
+    "wof:id":169544663,
+    "wof:lastmodified":1449035964,
+    "wof:name":"Mj Laminations",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "waterproof"
+    ]
+},
+  "bbox": [77.639221,12.983479,77.639221,12.983479],
+  "geometry": {"coordinates":[77.639221,12.983479],"type":"Point"}
+}

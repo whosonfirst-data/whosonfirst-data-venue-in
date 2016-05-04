@@ -1,0 +1,62 @@
+{
+  "id": 169528069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.934196,19.144489,72.934196,19.144489",
+    "geom:latitude":19.144489,
+    "geom:longitude":72.934196,
+    "iso:country":"IN",
+    "sg:address":"C/o No 6, Gautam Udyog Bhavan, L B S Marg, Bhandup West,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2595 1683",
+    "sg:postcode":"400078",
+    "sg:tags":[
+        "box"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MzbRRYC8ASrOiK9J4Hjw3_19.144489_72.934196@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fb59b557b607169c96bef9176586b031",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169528069
+        }
+    ],
+    "wof:id":169528069,
+    "wof:lastmodified":1449033570,
+    "wof:name":"Mmpack Print",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "box"
+    ]
+},
+  "bbox": [72.934196,19.144489,72.934196,19.144489],
+  "geometry": {"coordinates":[72.934196,19.144489],"type":"Point"}
+}

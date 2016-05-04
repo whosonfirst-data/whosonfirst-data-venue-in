@@ -1,0 +1,62 @@
+{
+  "id": 169610635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.119865,28.62533,77.119865,28.62533",
+    "geom:latitude":28.62533,
+    "geom:longitude":77.119865,
+    "iso:country":"IN",
+    "sg:address":"B-93, Phase-i, Mayapuri,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2811 3904",
+    "sg:postcode":"110064",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UAkn4A3Ym3InXAUqyhdSB_28.625330_77.119865@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ee86a422811b7400e7b87cbe2250bb48",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169610635
+        }
+    ],
+    "wof:id":169610635,
+    "wof:lastmodified":1449035908,
+    "wof:name":"Reino Industrial Organics Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.119865,28.62533,77.119865,28.62533],
+  "geometry": {"coordinates":[77.119865,28.62533],"type":"Point"}
+}

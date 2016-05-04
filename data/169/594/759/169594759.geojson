@@ -1,0 +1,63 @@
+{
+  "id": 169594759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.657104,16.498177,80.657104,16.498177",
+    "geom:latitude":16.498177,
+    "geom:longitude":80.657104,
+    "iso:country":"IN",
+    "sg:address":"1982, Convent Street, Flat No. 7,",
+    "sg:city":"Pune Cantonment",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2634 1942",
+    "sg:postcode":"411001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903813,
+        85632469,
+        102028271,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2puh7pAnz9wn3gJBPJugDO_16.498177_80.657104@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"085d3cabdee915d9147c8c6944489d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028271,
+            "neighbourhood_id":85903813,
+            "region_id":85672141,
+            "venue_id":169594759
+        }
+    ],
+    "wof:id":169594759,
+    "wof:lastmodified":1449033165,
+    "wof:name":"Noor Impex",
+    "wof:parent_id":85903813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.657104,16.498177,80.657104,16.498177],
+  "geometry": {"coordinates":[80.657104,16.498177],"type":"Point"}
+}

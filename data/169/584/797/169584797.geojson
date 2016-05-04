@@ -1,0 +1,64 @@
+{
+  "id": 169584797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.182251,28.650148,77.182251,28.650148",
+    "geom:latitude":28.650148,
+    "geom:longitude":77.182251,
+    "iso:country":"IN",
+    "sg:address":"Lg-1, 4/62, Punjabi Bagh (west),",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 6544 4905",
+    "sg:postcode":"110026",
+    "sg:tags":[
+        "salt"
+    ],
+    "sg:website":"http://www.lopan.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928113,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uS0DhvLXHKxMbPkKLyQiR_28.650148_77.182251@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"54c2f9202839278627dc25bbe13a48d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928113,
+            "region_id":85672123,
+            "venue_id":169584797
+        }
+    ],
+    "wof:id":169584797,
+    "wof:lastmodified":1449033040,
+    "wof:name":"Lopan Kemicals",
+    "wof:parent_id":85928113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salt"
+    ]
+},
+  "bbox": [77.182251,28.650148,77.182251,28.650148],
+  "geometry": {"coordinates":[77.182251,28.650148],"type":"Point"}
+}

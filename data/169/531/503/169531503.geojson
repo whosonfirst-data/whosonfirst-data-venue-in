@@ -1,0 +1,64 @@
+{
+  "id": 169531503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.823586,18.923851,72.823586,18.923851",
+    "geom:latitude":18.923851,
+    "geom:longitude":72.823586,
+    "iso:country":"IN",
+    "sg:address":"Raheja Chambers, No. 402, Nariman Point,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2202 2147",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "cotton"
+    ],
+    "sg:website":"http://www.ritexexports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qyI3xmtcK9cmGX8tsYwAO_18.923851_72.823586@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"857d915cba138d5edd4c20620bf634ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169531503
+        }
+    ],
+    "wof:id":169531503,
+    "wof:lastmodified":1449033476,
+    "wof:name":"Balwant Textiles Mills Ltd.",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cotton"
+    ]
+},
+  "bbox": [72.823586,18.923851,72.823586,18.923851],
+  "geometry": {"coordinates":[72.823586,18.923851],"type":"Point"}
+}

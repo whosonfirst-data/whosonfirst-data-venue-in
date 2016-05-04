@@ -1,0 +1,66 @@
+{
+  "id": 169560697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.211761,28.640854,77.211761,28.640854",
+    "geom:latitude":28.640854,
+    "geom:longitude":77.211761,
+    "iso:country":"IN",
+    "sg:address":"7-4-112/1, Madhuban Colony Road,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2436 1030",
+    "sg:postcode":"500077",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "sg:website":"dukesindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903937,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F75ikF8ngshp4rG0tHBvH_28.640854_77.211761@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"70f42eaa95612fc17c05e0f4b327e9c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903937,
+            "region_id":85672123,
+            "venue_id":169560697
+        }
+    ],
+    "wof:id":169560697,
+    "wof:lastmodified":1449035181,
+    "wof:name":"Dukes Consumer Care Ltd.",
+    "wof:parent_id":85903937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [77.211761,28.640854,77.211761,28.640854],
+  "geometry": {"coordinates":[77.211761,28.640854],"type":"Point"}
+}

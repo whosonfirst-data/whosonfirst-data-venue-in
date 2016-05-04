@@ -1,0 +1,65 @@
+{
+  "id": 169537871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.600494,12.908484,77.600494,12.908484",
+    "geom:latitude":12.908484,
+    "geom:longitude":77.600494,
+    "iso:country":"IN",
+    "sg:address":"No.25, 1st Cross, N.s.palya, Bannerghatta Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4110 2767",
+    "sg:postcode":"560076",
+    "sg:tags":[
+        "component",
+        "pressed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931061,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gEVXXV2suBPt1jNaTW2LI_12.908484_77.600494@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ed5e0cccb9d8cf1548b30d2d09fc64c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931061,
+            "region_id":85672165,
+            "venue_id":169537871
+        }
+    ],
+    "wof:id":169537871,
+    "wof:lastmodified":1449033498,
+    "wof:name":"S. N. S. Tools & Components",
+    "wof:parent_id":85931061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "pressed"
+    ]
+},
+  "bbox": [77.600494,12.908484,77.600494,12.908484],
+  "geometry": {"coordinates":[77.600494,12.908484],"type":"Point"}
+}

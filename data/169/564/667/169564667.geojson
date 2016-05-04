@@ -1,0 +1,53 @@
+{
+  "id": 169564667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.233276,13.043861,80.233276,13.043861",
+    "geom:latitude":13.043861,
+    "geom:longitude":80.233276,
+    "iso:country":"IN",
+    "sg:address":"Coats Road, T.nagar",
+    "sg:city":"Chennai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2823 3949",
+    "sg:postcode":"600017",
+    "sg:province":"Tamil Nadu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903981,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PwZQyJvAFiHo66wMMseN2_13.043861_80.233276@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3625b56497db4f58c879a0ace6765c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903981,
+            "region_id":85672245,
+            "venue_id":169564667
+        }
+    ],
+    "wof:id":169564667,
+    "wof:lastmodified":1449035765,
+    "wof:name":"King Chemicals",
+    "wof:parent_id":85903981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.233276,13.043861,80.233276,13.043861],
+  "geometry": {"coordinates":[80.233276,13.043861],"type":"Point"}
+}

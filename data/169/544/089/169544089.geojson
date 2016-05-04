@@ -1,0 +1,65 @@
+{
+  "id": 169544089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.590897,13.030004,77.590897,13.030004",
+    "geom:latitude":13.030004,
+    "geom:longitude":77.590897,
+    "iso:country":"IN",
+    "sg:address":"8, 4th Main, S.s.a. Road, Hebbal,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2354 8170",
+    "sg:postcode":"560024",
+    "sg:tags":[
+        "ups",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931009,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nPppSvj0RPhFgOp30vQfd_13.030004_77.590897@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"704c75cb0f4ae8f648786d4e8d628d79",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931009,
+            "region_id":85672165,
+            "venue_id":169544089
+        }
+    ],
+    "wof:id":169544089,
+    "wof:lastmodified":1449035962,
+    "wof:name":"Pramora Inc.",
+    "wof:parent_id":85931009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ups",
+        "power"
+    ]
+},
+  "bbox": [77.590897,13.030004,77.590897,13.030004],
+  "geometry": {"coordinates":[77.590897,13.030004],"type":"Point"}
+}

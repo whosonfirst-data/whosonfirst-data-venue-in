@@ -1,0 +1,62 @@
+{
+  "id": 169600431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.477242,17.388029,78.477242,17.388029",
+    "geom:latitude":17.388029,
+    "geom:longitude":78.477242,
+    "iso:country":"IN",
+    "sg:address":"No. National Radiator, Roshan Society, Opp. Surya Hotel, Old N.h. No. 8,",
+    "sg:city":"Ankleshwar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2646 224 749",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930739,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WQBpwsCyaTiX2MGEyJu7n_17.388029_78.477242@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5579110517691b6ced0d29a774e07cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930739,
+            "region_id":85672141,
+            "venue_id":169600431
+        }
+    ],
+    "wof:id":169600431,
+    "wof:lastmodified":1449032969,
+    "wof:name":"Perfect Marketing",
+    "wof:parent_id":85930739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [78.477242,17.388029,78.477242,17.388029],
+  "geometry": {"coordinates":[78.477242,17.388029],"type":"Point"}
+}

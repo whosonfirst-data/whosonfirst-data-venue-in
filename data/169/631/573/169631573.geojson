@@ -1,0 +1,62 @@
+{
+  "id": 169631573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.141533,28.671476,77.141533,28.671476",
+    "geom:latitude":28.671476,
+    "geom:longitude":77.141533,
+    "iso:country":"IN",
+    "sg:address":"E-339, Road. No. 17, V.k.i. Area,",
+    "sg:city":"Jaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 94 14 606948",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928159,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YggkEPELD4rMIiZnodVng_28.671476_77.141533@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1bbe5828e1dfcd94a7271d05c414549f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928159,
+            "region_id":85672123,
+            "venue_id":169631573
+        }
+    ],
+    "wof:id":169631573,
+    "wof:lastmodified":1449033709,
+    "wof:name":"Supersede Enterprises",
+    "wof:parent_id":85928159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.141533,28.671476,77.141533,28.671476],
+  "geometry": {"coordinates":[77.141533,28.671476],"type":"Point"}
+}

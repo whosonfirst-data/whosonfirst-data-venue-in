@@ -1,0 +1,67 @@
+{
+  "id": 169644553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.828629,18.939135,72.828629,18.939135",
+    "geom:latitude":18.939135,
+    "geom:longitude":72.828629,
+    "iso:country":"IN",
+    "sg:address":"108/109, Dalamal Chambers, New Marine Lines,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5637 2777",
+    "sg:postcode":"400020",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931457,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iZZwT7R3ynsRHnAn64nNt_18.939135_72.828629@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"130df78e5792f8bc0d6260e4fe1ea997",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931457,
+            "region_id":85672171,
+            "venue_id":169644553
+        }
+    ],
+    "wof:id":169644553,
+    "wof:lastmodified":1449034573,
+    "wof:name":"Virdev Intermediates Pvt. Ltd.",
+    "wof:parent_id":85931457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [72.828629,18.939135,72.828629,18.939135],
+  "geometry": {"coordinates":[72.828629,18.939135],"type":"Point"}
+}

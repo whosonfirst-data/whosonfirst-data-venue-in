@@ -1,0 +1,65 @@
+{
+  "id": 169546899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.16761,13.041829,80.16761,13.041829",
+    "geom:latitude":13.041829,
+    "geom:longitude":80.16761,
+    "iso:country":"IN",
+    "sg:address":"47, Perumal Koil Street,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 422 224 9379",
+    "sg:postcode":"641604",
+    "sg:tags":[
+        "knitted",
+        "knitwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927569,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S0pGoK34OK5mSIipecMAt_13.041829_80.167610@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"57e5b0689e15f89e44def2ae39a4e8e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85927569,
+            "region_id":85672245,
+            "venue_id":169546899
+        }
+    ],
+    "wof:id":169546899,
+    "wof:lastmodified":1449032682,
+    "wof:name":"Kothari Knitters",
+    "wof:parent_id":85927569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitted",
+        "knitwear"
+    ]
+},
+  "bbox": [80.16761,13.041829,80.16761,13.041829],
+  "geometry": {"coordinates":[80.16761,13.041829],"type":"Point"}
+}

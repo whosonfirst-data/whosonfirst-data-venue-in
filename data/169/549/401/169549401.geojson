@@ -1,0 +1,63 @@
+{
+  "id": 169549401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.487984,17.406265,78.487984,17.406265",
+    "geom:latitude":17.406265,
+    "geom:longitude":78.487984,
+    "iso:country":"IN",
+    "sg:address":"293, Ashok Nagar, Rd. 10,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 241 0717",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "others"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930709,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36L4MkxB3B82QRb6PcClpP_17.406265_78.487984@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9534e5077c95fba85b39922ea8a83393",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930709,
+            "region_id":85672141,
+            "venue_id":169549401
+        }
+    ],
+    "wof:id":169549401,
+    "wof:lastmodified":1449033593,
+    "wof:name":"Elegance",
+    "wof:parent_id":85930709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "others"
+    ]
+},
+  "bbox": [78.487984,17.406265,78.487984,17.406265],
+  "geometry": {"coordinates":[78.487984,17.406265],"type":"Point"}
+}

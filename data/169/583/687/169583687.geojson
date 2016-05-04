@@ -1,0 +1,62 @@
+{
+  "id": 169583687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.941864,18.496914,73.941864,18.496914",
+    "geom:latitude":18.496914,
+    "geom:longitude":73.941864,
+    "iso:country":"IN",
+    "sg:address":"C-11, Green Park-1, Mandhwa Road, Hadapsar,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2687 9795",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904013,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tvv5pcGROsj1MajF7NNC2_18.496914_73.941864@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0816846ec40c0d635a4d34be55c647b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85904013,
+            "region_id":85672171,
+            "venue_id":169583687
+        }
+    ],
+    "wof:id":169583687,
+    "wof:lastmodified":1449035266,
+    "wof:name":"Kunabha Chemicals Pvt. Ltd.",
+    "wof:parent_id":85904013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [73.941864,18.496914,73.941864,18.496914],
+  "geometry": {"coordinates":[73.941864,18.496914],"type":"Point"}
+}

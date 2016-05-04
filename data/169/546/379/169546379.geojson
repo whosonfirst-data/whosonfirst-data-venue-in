@@ -1,0 +1,65 @@
+{
+  "id": 169546379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.33358,11.12476,77.33358,11.12476",
+    "geom:latitude":11.12476,
+    "geom:longitude":77.33358,
+    "iso:country":"IN",
+    "sg:address":"No-13, First Street, Asher Nagar, Gandhinagar P.o,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 533 3039",
+    "sg:postcode":"641603",
+    "sg:tags":[
+        "garment",
+        "childrenwear"
+    ],
+    "sg:website":"http://www.olio.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028425,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZCWwJOcXzkk2loFNW3Uwu_11.124760_77.333580@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6c53bfa5b97ca41753e1e3fc0a233f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028425,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169546379
+        }
+    ],
+    "wof:id":169546379,
+    "wof:lastmodified":1449032679,
+    "wof:name":"Olio International",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "childrenwear"
+    ]
+},
+  "bbox": [77.33358,11.12476,77.33358,11.12476],
+  "geometry": {"coordinates":[77.33358,11.12476],"type":"Point"}
+}

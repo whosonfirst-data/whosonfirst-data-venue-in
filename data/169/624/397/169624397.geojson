@@ -1,0 +1,63 @@
+{
+  "id": 169624397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.232628,13.037776,80.232628,13.037776",
+    "geom:latitude":13.037776,
+    "geom:longitude":80.232628,
+    "iso:country":"IN",
+    "sg:address":"No. 69, C.p. Ramasamy Road, Alwarpet,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 4214 9449",
+    "sg:postcode":"600018",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903981,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YyUIBDHBlFo9hg43prkxk_13.037776_80.232628@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"761c66dce2ccbb91a97da5c56ed5ad30",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903981,
+            "region_id":85672245,
+            "venue_id":169624397
+        }
+    ],
+    "wof:id":169624397,
+    "wof:lastmodified":1449034957,
+    "wof:name":"Silpa Associates",
+    "wof:parent_id":85903981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.232628,13.037776,80.232628,13.037776],
+  "geometry": {"coordinates":[80.232628,13.037776],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169605241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.787498,18.611629,73.787498,18.611629",
+    "geom:latitude":18.611629,
+    "geom:longitude":73.787498,
+    "iso:country":"IN",
+    "sg:address":"Thergaon, Chinchand,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2727 5384",
+    "sg:postcode":"411033",
+    "sg:tags":[
+        "paper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Bjtw3WCvwZBTJOrwCM5Ma_18.611629_73.787498@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3624617daacb7be43d77c37d893a6d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169605241
+        }
+    ],
+    "wof:id":169605241,
+    "wof:lastmodified":1449034291,
+    "wof:name":"Pudumjee Pulp & Paper Mills Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paper"
+    ]
+},
+  "bbox": [73.787498,18.611629,73.787498,18.611629],
+  "geometry": {"coordinates":[73.787498,18.611629],"type":"Point"}
+}

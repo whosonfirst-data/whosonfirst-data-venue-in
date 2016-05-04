@@ -1,0 +1,58 @@
+{
+  "id": 169545585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.495064,17.434727,78.495064,17.434727",
+    "geom:latitude":17.434727,
+    "geom:longitude":78.495064,
+    "iso:country":"IN",
+    "sg:address":"X/974/30, 2nd Floor, Bhima Building, South Bazar,",
+    "sg:city":"Thrissur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 4882 427 739",
+    "sg:postcode":"680001",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930701,
+        85632469,
+        102028703,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48AE0Plne1vV2S0u7dArNc_17.434727_78.495064@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"76c561433286e84a646f16ad69760133",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028703,
+            "neighbourhood_id":85930701,
+            "region_id":85672141,
+            "venue_id":169545585
+        }
+    ],
+    "wof:id":169545585,
+    "wof:lastmodified":1449033487,
+    "wof:name":"Super Stone Diamonds",
+    "wof:parent_id":85930701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [78.495064,17.434727,78.495064,17.434727],
+  "geometry": {"coordinates":[78.495064,17.434727],"type":"Point"}
+}

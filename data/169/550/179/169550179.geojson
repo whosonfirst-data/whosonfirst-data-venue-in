@@ -1,0 +1,65 @@
+{
+  "id": 169550179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.313805,17.433174,78.313805,17.433174",
+    "geom:latitude":17.433174,
+    "geom:longitude":78.313805,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 2619/2, Phase-iii, G.i.d.c Colony,",
+    "sg:city":"Umbergaon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 260 256 4885",
+    "sg:postcode":"396171",
+    "sg:tags":[
+        "instrument",
+        "writing"
+    ],
+    "sg:website":"http://www.timnertechnique.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FjiZooYwfktmzQR5tvdeD_17.433174_78.313805@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ff28cd54f89c42667cb1e8913ab51c86",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169550179
+        }
+    ],
+    "wof:id":169550179,
+    "wof:lastmodified":1449034479,
+    "wof:name":"Timber Technique",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "writing"
+    ]
+},
+  "bbox": [78.313805,17.433174,78.313805,17.433174],
+  "geometry": {"coordinates":[78.313805,17.433174],"type":"Point"}
+}

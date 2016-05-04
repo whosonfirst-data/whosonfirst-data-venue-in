@@ -1,0 +1,68 @@
+{
+  "id": 169540033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.544075,12.925084,77.544075,12.925084",
+    "geom:latitude":12.925084,
+    "geom:longitude":77.544075,
+    "iso:country":"IN",
+    "sg:address":"22-23 1st Floor Ittamadu Bsk 3rd Stage, Bangalore",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Dive Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 55 351634",
+    "sg:postcode":"560050",
+    "sg:tags":[
+        "shaft",
+        "bright",
+        "collar"
+    ],
+    "sg:website":"http://www.spltools.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931103,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04siIaCRUwWpi5Yk8vvB95_12.925084_77.544075@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"81b437b12dc06655b50fba8100765e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931103,
+            "region_id":85672165,
+            "venue_id":169540033
+        }
+    ],
+    "wof:id":169540033,
+    "wof:lastmodified":1449033973,
+    "wof:name":"Sri Raghov Perecisions Tools",
+    "wof:parent_id":85931103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shaft",
+        "bright",
+        "collar"
+    ]
+},
+  "bbox": [77.544075,12.925084,77.544075,12.925084],
+  "geometry": {"coordinates":[77.544075,12.925084],"type":"Point"}
+}

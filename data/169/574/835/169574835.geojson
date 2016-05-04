@@ -1,0 +1,54 @@
+{
+  "id": 169574835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.578209,12.967132,77.578209,12.967132",
+    "geom:latitude":12.967132,
+    "geom:longitude":77.578209,
+    "iso:country":"IN",
+    "sg:address":"S.j.p. Road Cross",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 802278825",
+    "sg:postcode":"560002",
+    "sg:province":"Karnataka",
+    "sg:website":"http://www.eurekapumps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BVpfWnwz4k1htwtx20qGH_12.967132_77.578209@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9d03c7c063d05767043ac3bbd034306c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169574835
+        }
+    ],
+    "wof:id":169574835,
+    "wof:lastmodified":1449032662,
+    "wof:name":"Eureka Pumps",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.578209,12.967132,77.578209,12.967132],
+  "geometry": {"coordinates":[77.578209,12.967132],"type":"Point"}
+}

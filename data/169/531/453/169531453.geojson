@@ -1,0 +1,64 @@
+{
+  "id": 169531453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"79.833229,11.936741,79.833229,11.936741",
+    "geom:latitude":11.936741,
+    "geom:longitude":79.833229,
+    "iso:country":"IN",
+    "sg:address":"86-b, Netaji Subhas Chandra Road, Marine Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2281 7333",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "cotton"
+    ],
+    "sg:website":"http://www.weizmann.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934411,
+        85632469,
+        102028985,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5230chamZsyjzhKielttPt_11.936741_79.833229@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9729da970b22421667e954362daab92b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028985,
+            "neighbourhood_id":85934411,
+            "region_id":85672245,
+            "venue_id":169531453
+        }
+    ],
+    "wof:id":169531453,
+    "wof:lastmodified":1449033476,
+    "wof:name":"Weizmann Limited",
+    "wof:parent_id":85934411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cotton"
+    ]
+},
+  "bbox": [79.833229,11.936741,79.833229,11.936741],
+  "geometry": {"coordinates":[79.833229,11.936741],"type":"Point"}
+}

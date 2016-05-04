@@ -1,0 +1,71 @@
+{
+  "id": 169531795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.832726,18.955664,72.832726,18.955664",
+    "geom:latitude":18.955664,
+    "geom:longitude":72.832726,
+    "iso:country":"IN",
+    "sg:address":"89, Mohamedali Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2340 1840",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "cutter",
+        "cutting",
+        "tools",
+        "broach"
+    ],
+    "sg:website":"http://www.sanghvibrothers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_768cWycAlJVYbk6EknlH7y_18.955664_72.832726@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1579aed9352944ecb52d70dc33c890f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903863,
+            "region_id":85672171,
+            "venue_id":169531795
+        }
+    ],
+    "wof:id":169531795,
+    "wof:lastmodified":1449033476,
+    "wof:name":"Sanghvi Brothers Trading Pvt. Ltd.",
+    "wof:parent_id":85903863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cutter",
+        "cutting",
+        "tools",
+        "broach"
+    ]
+},
+  "bbox": [72.832726,18.955664,72.832726,18.955664],
+  "geometry": {"coordinates":[72.832726,18.955664],"type":"Point"}
+}

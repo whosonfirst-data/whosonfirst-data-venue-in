@@ -1,0 +1,62 @@
+{
+  "id": 169575109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.158943,28.714149,77.158943,28.714149",
+    "geom:latitude":28.714149,
+    "geom:longitude":77.158943,
+    "iso:country":"IN",
+    "sg:address":"Bh-567-a (east), Shalimar Bagh,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 3296 1757",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928079,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IAwm7kARo4YJzslmzTNIb_28.714149_77.158943@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"38890ae52eaa4a5cfbfd058a230b8857",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928079,
+            "region_id":85672123,
+            "venue_id":169575109
+        }
+    ],
+    "wof:id":169575109,
+    "wof:lastmodified":1449033640,
+    "wof:name":"Associated Refractories & Minerals",
+    "wof:parent_id":85928079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.158943,28.714149,77.158943,28.714149],
+  "geometry": {"coordinates":[77.158943,28.714149],"type":"Point"}
+}

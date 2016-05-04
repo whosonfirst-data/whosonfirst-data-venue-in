@@ -1,0 +1,63 @@
+{
+  "id": 169602439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.73896,19.999342,73.73896,19.999342",
+    "geom:latitude":19.999342,
+    "geom:longitude":73.73896,
+    "iso:country":"IN",
+    "sg:address":"E-41, M.i.d.c., Satpur,",
+    "sg:city":"Nashik",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 253 235 1930",
+    "sg:postcode":"422007",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.polymerenterprise.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029219,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fw6dmechbyO1doGVGlppm_19.999342_73.738960@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"77ca351633e8eb62bb31280460bfe1d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029219,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169602439
+        }
+    ],
+    "wof:id":169602439,
+    "wof:lastmodified":1449034228,
+    "wof:name":"Polymer Enterprise",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [73.73896,19.999342,73.73896,19.999342],
+  "geometry": {"coordinates":[73.73896,19.999342],"type":"Point"}
+}

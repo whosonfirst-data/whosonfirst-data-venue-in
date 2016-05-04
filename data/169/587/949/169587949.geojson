@@ -1,0 +1,64 @@
+{
+  "id": 169587949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.735092,30.693993,76.735092,30.693993",
+    "geom:latitude":30.693993,
+    "geom:longitude":76.735092,
+    "iso:country":"IN",
+    "sg:address":"A-99, Sector-63,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 435 8083",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.materialmovell.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927681,
+        85632469,
+        102031103,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ue2do2ymEdmgN52eBdXAz_30.693993_76.735092@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ac45f4e0e8b80b67071f350971b125f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031103,
+            "neighbourhood_id":85927681,
+            "region_id":85672195,
+            "venue_id":169587949
+        }
+    ],
+    "wof:id":169587949,
+    "wof:lastmodified":1449033822,
+    "wof:name":"Material Movell (india) Pvt. Ltd.",
+    "wof:parent_id":85927681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [76.735092,30.693993,76.735092,30.693993],
+  "geometry": {"coordinates":[76.735092,30.693993],"type":"Point"}
+}

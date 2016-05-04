@@ -1,0 +1,63 @@
+{
+  "id": 169535227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.832077,18.93017,72.832077,18.93017",
+    "geom:latitude":18.93017,
+    "geom:longitude":72.832077,
+    "iso:country":"IN",
+    "sg:address":"117, Nagindas Master Road, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Light Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2270 2830",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "emergency"
+    ],
+    "sg:website":"http://www.jeekaysirens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z2dYWSixfZ9zYHydOAWs7_18.930170_72.832077@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"541bf762364c7646c49242a6b24f90a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169535227
+        }
+    ],
+    "wof:id":169535227,
+    "wof:lastmodified":1449033285,
+    "wof:name":"Jeekay Pumps & Tools",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "emergency"
+    ]
+},
+  "bbox": [72.832077,18.93017,72.832077,18.93017],
+  "geometry": {"coordinates":[72.832077,18.93017],"type":"Point"}
+}

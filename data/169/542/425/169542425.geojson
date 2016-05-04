@@ -1,0 +1,63 @@
+{
+  "id": 169542425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.576271,13.104824,77.576271,13.104824",
+    "geom:latitude":13.104824,
+    "geom:longitude":77.576271,
+    "iso:country":"IN",
+    "sg:address":"Yelahanka New Town,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4175 5070",
+    "sg:postcode":"560064",
+    "sg:tags":[
+        "stone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904027,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5opPeViYo4WhMmSNvgUcQX_13.104824_77.576271@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0d31039ce7356e00a50d3c128cce15bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85904027,
+            "region_id":85672165,
+            "venue_id":169542425
+        }
+    ],
+    "wof:id":169542425,
+    "wof:lastmodified":1449035219,
+    "wof:name":"A N Stones International",
+    "wof:parent_id":85904027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stone"
+    ]
+},
+  "bbox": [77.576271,13.104824,77.576271,13.104824],
+  "geometry": {"coordinates":[77.576271,13.104824],"type":"Point"}
+}

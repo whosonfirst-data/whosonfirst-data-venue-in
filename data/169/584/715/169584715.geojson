@@ -1,0 +1,63 @@
+{
+  "id": 169584715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.262962,13.088361,80.262962,13.088361",
+    "geom:latitude":13.088361,
+    "geom:longitude":80.262962,
+    "iso:country":"IN",
+    "sg:address":"26/142, Choolai High Road,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2669 1936",
+    "sg:postcode":"600112",
+    "sg:tags":[
+        "dye"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903949,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GmsJkVnR2rq8TUsSxLsUD_13.088361_80.262962@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"94846379cfe16023ddb37f9b70260a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903949,
+            "region_id":85672245,
+            "venue_id":169584715
+        }
+    ],
+    "wof:id":169584715,
+    "wof:lastmodified":1449033040,
+    "wof:name":"Line & Tone",
+    "wof:parent_id":85903949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye"
+    ]
+},
+  "bbox": [80.262962,13.088361,80.262962,13.088361],
+  "geometry": {"coordinates":[80.262962,13.088361],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169533179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.817238,18.956779,72.817238,18.956779",
+    "geom:latitude":18.956779,
+    "geom:longitude":72.817238,
+    "iso:country":"IN",
+    "sg:address":"27-a, Asher Building, 2nd Floor, Avantikabhai Gokhale Street, Opera House,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2389 0800",
+    "sg:tags":[
+        "diamond"
+    ],
+    "sg:website":"http://www.krishnajewels.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931463,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Stn1ysz0A75rhV1F8PvW1_18.956779_72.817238@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e5787410ca81cf308abbe81b409c7e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931463,
+            "region_id":85672171,
+            "venue_id":169533179
+        }
+    ],
+    "wof:id":169533179,
+    "wof:lastmodified":1449032644,
+    "wof:name":"Krisha Jewels",
+    "wof:parent_id":85931463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.817238,18.956779,72.817238,18.956779],
+  "geometry": {"coordinates":[72.817238,18.956779],"type":"Point"}
+}

@@ -1,0 +1,53 @@
+{
+  "id": 169570273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.626106,13.005177,77.626106,13.005177",
+    "geom:latitude":13.005177,
+    "geom:longitude":77.626106,
+    "iso:country":"IN",
+    "sg:address":"Hall Road Extension, Richards Town",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 805468549",
+    "sg:postcode":"560005",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930863,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DD6FcNJbIdyIhiQ0alJzd_13.005177_77.626106@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6121642cb9654ecac333eaf95a190f90",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930863,
+            "region_id":85672165,
+            "venue_id":169570273
+        }
+    ],
+    "wof:id":169570273,
+    "wof:lastmodified":1449034646,
+    "wof:name":"Deepam Engineering Enterprises",
+    "wof:parent_id":85930863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.626106,13.005177,77.626106,13.005177],
+  "geometry": {"coordinates":[77.626106,13.005177],"type":"Point"}
+}

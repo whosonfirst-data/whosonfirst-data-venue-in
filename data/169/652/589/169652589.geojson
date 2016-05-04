@@ -1,0 +1,58 @@
+{
+  "id": 169652589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.60277,12.961894,77.60277,12.961894",
+    "geom:latitude":12.961894,
+    "geom:longitude":77.60277,
+    "iso:country":"IN",
+    "sg:address":"25/2 Norris Road",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560025",
+    "sg:website":"http://www.aumeganetworks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930933,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YE7otbz48mYvtBaQdB6i9_12.961894_77.602770@1308163238"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3d1b57e7b99c9d728f006d3e1b665196",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930933,
+            "region_id":85672165,
+            "venue_id":169652589
+        }
+    ],
+    "wof:id":169652589,
+    "wof:lastmodified":1449034809,
+    "wof:name":"Aumega Networks",
+    "wof:parent_id":85930933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.60277,12.961894,77.60277,12.961894],
+  "geometry": {"coordinates":[77.60277,12.961894],"type":"Point"}
+}

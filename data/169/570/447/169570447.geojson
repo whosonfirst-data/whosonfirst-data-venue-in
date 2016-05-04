@@ -1,0 +1,53 @@
+{
+  "id": 169570447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.623543,12.905025,77.623543,12.905025",
+    "geom:latitude":12.905025,
+    "geom:longitude":77.623543,
+    "iso:country":"IN",
+    "sg:address":"Bommanahalli",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 805732333",
+    "sg:postcode":"560068",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930853,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50LJpz64bQ16gJG4dzVU8X_12.905025_77.623543@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4cf39e45de250e8f3b51f97201462391",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930853,
+            "region_id":85672165,
+            "venue_id":169570447
+        }
+    ],
+    "wof:id":169570447,
+    "wof:lastmodified":1449034647,
+    "wof:name":"Crystal Vision Pvt Ltd",
+    "wof:parent_id":85930853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.623543,12.905025,77.623543,12.905025],
+  "geometry": {"coordinates":[77.623543,12.905025],"type":"Point"}
+}

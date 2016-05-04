@@ -1,0 +1,63 @@
+{
+  "id": 169528009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.827141,18.950607,72.827141,18.950607",
+    "geom:latitude":18.950607,
+    "geom:longitude":72.827141,
+    "iso:country":"IN",
+    "sg:address":"139, Dady Seth, Agiary Lane,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2201 5695",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "box"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931435,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4klUtmHq7R2VkkfJjX87PK_18.950607_72.827141@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f406bd6f96d536b8e747568285f05ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931435,
+            "region_id":85672171,
+            "venue_id":169528009
+        }
+    ],
+    "wof:id":169528009,
+    "wof:lastmodified":1449033572,
+    "wof:name":"Bright Paper Mart",
+    "wof:parent_id":85931435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "box"
+    ]
+},
+  "bbox": [72.827141,18.950607,72.827141,18.950607],
+  "geometry": {"coordinates":[72.827141,18.950607],"type":"Point"}
+}

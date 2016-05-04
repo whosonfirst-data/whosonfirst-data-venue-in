@@ -1,0 +1,53 @@
+{
+  "id": 169573267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.510712,17.410498,78.510712,17.410498",
+    "geom:latitude":17.410498,
+    "geom:longitude":78.510712,
+    "iso:country":"IN",
+    "sg:address":"Azamabad",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2763 1578",
+    "sg:postcode":"500020",
+    "sg:province":"Andhra Pradesh",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927613,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QvOuo0YaObeat0EyFL7sp_17.410498_78.510712@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3ba1c974dad06a27dfbecb4c7ac1a35f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85927613,
+            "region_id":85672141,
+            "venue_id":169573267
+        }
+    ],
+    "wof:id":169573267,
+    "wof:lastmodified":1449035116,
+    "wof:name":"National Engg Service",
+    "wof:parent_id":85927613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [78.510712,17.410498,78.510712,17.410498],
+  "geometry": {"coordinates":[78.510712,17.410498],"type":"Point"}
+}

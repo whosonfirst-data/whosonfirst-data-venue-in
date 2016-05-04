@@ -1,0 +1,61 @@
+{
+  "id": 169559139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.926003,30.879322,75.926003,30.879322",
+    "geom:latitude":30.879322,
+    "geom:longitude":75.926003,
+    "iso:country":"IN",
+    "sg:address":"B-13, Focal Point,",
+    "sg:city":"Ludhiana",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 161 401 1851",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029555,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49MscyPfkbQszj7Bq0E23Z_30.879322_75.926003@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"298ab1416f84af9a6fa06bb320dc78b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029555,
+            "neighbourhood_id":-1,
+            "region_id":85672195,
+            "venue_id":169559139
+        }
+    ],
+    "wof:id":169559139,
+    "wof:lastmodified":1449035236,
+    "wof:name":"Chemical & Mech. Engg. Works",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [75.926003,30.879322,75.926003,30.879322],
+  "geometry": {"coordinates":[75.926003,30.879322],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169544755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.625366,13.031104,77.625366,13.031104",
+    "geom:latitude":13.031104,
+    "geom:longitude":77.625366,
+    "iso:country":"IN",
+    "sg:address":"1619, 2nd Main Road, 3rd Block, Hrbr Layout, Kalyan Nagar P.o.,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2544 5418",
+    "sg:postcode":"560043",
+    "sg:tags":[
+        "solder",
+        "welding"
+    ],
+    "sg:website":"http://www.hybridmetals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931099,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18gF1idf8NNyZ5ZzVz6clW_13.031104_77.625366@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"eed658763fe6b309e9d1a23635424813",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931099,
+            "region_id":85672165,
+            "venue_id":169544755
+        }
+    ],
+    "wof:id":169544755,
+    "wof:lastmodified":1449035962,
+    "wof:name":"Hybrid Metals Pvt. Ltd.",
+    "wof:parent_id":85931099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solder",
+        "welding"
+    ]
+},
+  "bbox": [77.625366,13.031104,77.625366,13.031104],
+  "geometry": {"coordinates":[77.625366,13.031104],"type":"Point"}
+}

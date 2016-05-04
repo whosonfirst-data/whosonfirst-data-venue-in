@@ -1,0 +1,58 @@
+{
+  "id": 169654017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.30839,28.656033,77.30839,28.656033",
+    "geom:latitude":28.656033,
+    "geom:longitude":77.30839,
+    "iso:country":"IN",
+    "sg:address":"78 Surya Niketan Vikas Marg Extension",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110092",
+    "sg:website":"http://www.softsolutionslimited.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928573,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MoVWowmczLMOe7bsNaMmD_28.656033_77.308390@1308163242"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a11de42b4a63e8c6340ebe6cdec03ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928573,
+            "region_id":85672123,
+            "venue_id":169654017
+        }
+    ],
+    "wof:id":169654017,
+    "wof:lastmodified":1449033792,
+    "wof:name":"Soft Solutions",
+    "wof:parent_id":85928573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.30839,28.656033,77.30839,28.656033],
+  "geometry": {"coordinates":[77.30839,28.656033],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169599991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.424759,26.718128,88.424759,26.718128",
+    "geom:latitude":26.718128,
+    "geom:longitude":88.424759,
+    "iso:country":"IN",
+    "sg:address":"2nd Mile Sevoke Road,",
+    "sg:city":"Siliguri",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 353 254 1769",
+    "sg:postcode":"734401",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934155,
+        85632469,
+        102028677,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10zvVjtth7phoCF42ew0b2_26.718128_88.424759@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"eebea822b5145e7daa5f2180cfa23fa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028677,
+            "neighbourhood_id":85934155,
+            "region_id":85672219,
+            "venue_id":169599991
+        }
+    ],
+    "wof:id":169599991,
+    "wof:lastmodified":1449034207,
+    "wof:name":"Peak Chemical Industries Ltd.",
+    "wof:parent_id":85934155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.424759,26.718128,88.424759,26.718128],
+  "geometry": {"coordinates":[88.424759,26.718128],"type":"Point"}
+}

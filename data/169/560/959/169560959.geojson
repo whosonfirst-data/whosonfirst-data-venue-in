@@ -1,0 +1,63 @@
+{
+  "id": 169560959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.366692,22.562908,88.366692,22.562908",
+    "geom:latitude":22.562908,
+    "geom:longitude":88.366692,
+    "iso:country":"IN",
+    "sg:address":"7/2, Creek Lane,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2246 7859",
+    "sg:postcode":"700014",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903793,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dXJtaY2DVyjIThb8BisWG_22.562908_88.366692@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"66cf8b5396e99143a13fa809964556a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903793,
+            "region_id":85672219,
+            "venue_id":169560959
+        }
+    ],
+    "wof:id":169560959,
+    "wof:lastmodified":1449035182,
+    "wof:name":"Electro Chemicals",
+    "wof:parent_id":85903793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.366692,22.562908,88.366692,22.562908],
+  "geometry": {"coordinates":[88.366692,22.562908],"type":"Point"}
+}

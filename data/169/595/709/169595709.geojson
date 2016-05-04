@@ -1,0 +1,63 @@
+{
+  "id": 169595709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.880547,19.081608,72.880547,19.081608",
+    "geom:latitude":19.081608,
+    "geom:longitude":72.880547,
+    "iso:country":"IN",
+    "sg:address":"6-c, Sai Vishwakarma, Andheri (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2684 5999",
+    "sg:postcode":"400059",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903847,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pUAe4kbACOCryUXXawV1n_19.081608_72.880547@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3311c8f606703533096ab67d3a6bda36",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903847,
+            "region_id":85672171,
+            "venue_id":169595709
+        }
+    ],
+    "wof:id":169595709,
+    "wof:lastmodified":1449035636,
+    "wof:name":"Ocean Chemicals",
+    "wof:parent_id":85903847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.880547,19.081608,72.880547,19.081608],
+  "geometry": {"coordinates":[72.880547,19.081608],"type":"Point"}
+}

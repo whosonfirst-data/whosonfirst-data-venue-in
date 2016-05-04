@@ -1,0 +1,64 @@
+{
+  "id": 169630041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.412567,17.427418,78.412567,17.427418",
+    "geom:latitude":17.427418,
+    "geom:longitude":78.412567,
+    "iso:country":"IN",
+    "sg:address":"1275, Road No. 63/a, Jubillee Hills,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2354 8514",
+    "sg:postcode":"500033",
+    "sg:tags":[
+        "pigment"
+    ],
+    "sg:website":"http://www.sukaso.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930761,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iaxO9YPF9qhXyQpASozML_17.427418_78.412567@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2d28d0787613d443748149d83356564c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930761,
+            "region_id":85672141,
+            "venue_id":169630041
+        }
+    ],
+    "wof:id":169630041,
+    "wof:lastmodified":1449033871,
+    "wof:name":"Sukaso Ceracolors Pvt. Ltd.",
+    "wof:parent_id":85930761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [78.412567,17.427418,78.412567,17.427418],
+  "geometry": {"coordinates":[78.412567,17.427418],"type":"Point"}
+}

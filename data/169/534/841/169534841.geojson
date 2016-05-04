@@ -1,0 +1,64 @@
+{
+  "id": 169534841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.842896,19.016119,72.842896,19.016119",
+    "geom:latitude":19.016119,
+    "geom:longitude":72.842896,
+    "iso:country":"IN",
+    "sg:address":"230/95, Hind Rajasthan Building, Dada Saheb Phalke Road, Dadar (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Musical Instruments",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2411 0402",
+    "sg:postcode":"400014",
+    "sg:tags":[
+        "electronic"
+    ],
+    "sg:website":"http://www.elicoltd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931545,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bdKTg0bwT6EykWaNoZqXU_19.016119_72.842896@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"af6f0828688b75a7e09804bb2c44f9ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931545,
+            "region_id":85672171,
+            "venue_id":169534841
+        }
+    ],
+    "wof:id":169534841,
+    "wof:lastmodified":1449033547,
+    "wof:name":"Elico Limited",
+    "wof:parent_id":85931545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electronic"
+    ]
+},
+  "bbox": [72.842896,19.016119,72.842896,19.016119],
+  "geometry": {"coordinates":[72.842896,19.016119],"type":"Point"}
+}

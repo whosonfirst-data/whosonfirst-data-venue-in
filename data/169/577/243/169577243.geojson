@@ -1,0 +1,63 @@
+{
+  "id": 169577243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.83004,18.947094,72.83004,18.947094",
+    "geom:latitude":18.947094,
+    "geom:longitude":72.83004,
+    "iso:country":"IN",
+    "sg:address":"98, Princess Street, Mansoor Bldg. 2nd Floor,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2201 1889",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "solvent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zmyAM6NswmksMFMZMROCI_18.947094_72.830040@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a112c990a1c94213e0d4d3eb556a52b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169577243
+        }
+    ],
+    "wof:id":169577243,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Gem Chemie Industries",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solvent"
+    ]
+},
+  "bbox": [72.83004,18.947094,72.83004,18.947094],
+  "geometry": {"coordinates":[72.83004,18.947094],"type":"Point"}
+}

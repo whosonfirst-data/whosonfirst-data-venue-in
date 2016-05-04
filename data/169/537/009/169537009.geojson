@@ -1,0 +1,67 @@
+{
+  "id": 169537009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.573395,12.904386,77.573395,12.904386",
+    "geom:latitude":12.904386,
+    "geom:longitude":77.573395,
+    "iso:country":"IN",
+    "sg:address":"72/2b, 27, Jaraganahalli, Kanakapura Road, J.p. Nagar Post,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2632 0763",
+    "sg:postcode":"560078",
+    "sg:tags":[
+        "feed",
+        "poultry/cattle",
+        "supplement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931057,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NqwgOnmbfcVJtxRvyrwkr_12.904386_77.573395@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7a94f9ace98ca79e02b2bc6fa74731b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931057,
+            "region_id":85672165,
+            "venue_id":169537009
+        }
+    ],
+    "wof:id":169537009,
+    "wof:lastmodified":1449033500,
+    "wof:name":"S. M. Equipments",
+    "wof:parent_id":85931057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed",
+        "poultry/cattle",
+        "supplement"
+    ]
+},
+  "bbox": [77.573395,12.904386,77.573395,12.904386],
+  "geometry": {"coordinates":[77.573395,12.904386],"type":"Point"}
+}

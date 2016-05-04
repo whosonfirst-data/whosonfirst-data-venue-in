@@ -1,0 +1,60 @@
+{
+  "id": 169576779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.663902,23.016762,72.663902,23.016762",
+    "geom:latitude":23.016762,
+    "geom:longitude":72.663902,
+    "iso:country":"IN",
+    "sg:address":"437/52, Amar Estate, G.i.d.c. Estate, Near, New Asarwa Chemical, Odhav,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VODFdNsTw56cm48UfQgQQ_23.016762_72.663902@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d0214e5843b72c55ba683224ed8a450b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169576779
+        }
+    ],
+    "wof:id":169576779,
+    "wof:lastmodified":1449035196,
+    "wof:name":"First Chem Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [72.663902,23.016762,72.663902,23.016762],
+  "geometry": {"coordinates":[72.663902,23.016762],"type":"Point"}
+}

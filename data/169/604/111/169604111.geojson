@@ -1,0 +1,63 @@
+{
+  "id": 169604111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"70.826859,22.280378,70.826859,22.280378",
+    "geom:latitude":22.280378,
+    "geom:longitude":70.826859,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 702/4, Gidc,",
+    "sg:city":"Ankleshwar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2646 251 146",
+    "sg:postcode":"393002",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "sg:website":"http://www.preranachemicals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028901,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29GObGz3vUcWXczQXrtqcq_22.280378_70.826859@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a4390088cb5ed1e958b8f6061e211fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028901,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169604111
+        }
+    ],
+    "wof:id":169604111,
+    "wof:lastmodified":1449035573,
+    "wof:name":"Prerana Chemical Industry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [70.826859,22.280378,70.826859,22.280378],
+  "geometry": {"coordinates":[70.826859,22.280378],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169542433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.603645,12.973545,77.603645,12.973545",
+    "geom:latitude":12.973545,
+    "geom:longitude":77.603645,
+    "iso:country":"IN",
+    "sg:address":"6, Raheja Chambers, Museum Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2558 7848",
+    "sg:postcode":"560001",
+    "sg:tags":[
+        "stone"
+    ],
+    "sg:website":"http://www.alpsgranite.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930949,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11h1YTkvSeSrlL7d2ILDEq_12.973545_77.603645@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"91a0c9d11b73c7bfa8c353d442f14e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930949,
+            "region_id":85672165,
+            "venue_id":169542433
+        }
+    ],
+    "wof:id":169542433,
+    "wof:lastmodified":1449035219,
+    "wof:name":"Alps Granite Pvt. Ltd.",
+    "wof:parent_id":85930949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stone"
+    ]
+},
+  "bbox": [77.603645,12.973545,77.603645,12.973545],
+  "geometry": {"coordinates":[77.603645,12.973545],"type":"Point"}
+}

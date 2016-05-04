@@ -1,0 +1,57 @@
+{
+  "id": 169652067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.176503,28.716402,77.176503,28.716402",
+    "geom:latitude":28.716402,
+    "geom:longitude":77.176503,
+    "iso:country":"IN",
+    "sg:address":"A-11, Second Floor Kailash Colony",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110065",
+    "sg:website":"http://www.azurepower.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bysiKZ9e8EUszdR62wSZR_28.716402_77.176503@1308163241"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ee47a776ab99b88f06de76d26a6055de",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169652067
+        }
+    ],
+    "wof:id":169652067,
+    "wof:lastmodified":1449034805,
+    "wof:name":"Azure Power",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.176503,28.716402,77.176503,28.716402],
+  "geometry": {"coordinates":[77.176503,28.716402],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169544635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.582878,12.893164,77.582878,12.893164",
+    "geom:latitude":12.893164,
+    "geom:longitude":77.582878,
+    "iso:country":"IN",
+    "sg:address":"# 19, 7th Phase, Jp Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 3250 2495",
+    "sg:postcode":"560076",
+    "sg:tags":[
+        "water",
+        "softener",
+        "purifier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931051,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A7qxWXtvxMYWuPdScdZQp_12.893164_77.582878@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"95f9deddcacb2e6c900d39df4ff940f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931051,
+            "region_id":85672165,
+            "venue_id":169544635
+        }
+    ],
+    "wof:id":169544635,
+    "wof:lastmodified":1449035962,
+    "wof:name":"Protect Sytems",
+    "wof:parent_id":85931051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "softener",
+        "purifier"
+    ]
+},
+  "bbox": [77.582878,12.893164,77.582878,12.893164],
+  "geometry": {"coordinates":[77.582878,12.893164],"type":"Point"}
+}

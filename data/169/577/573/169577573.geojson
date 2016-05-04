@@ -1,0 +1,62 @@
+{
+  "id": 169577573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.826683,18.916138,72.826683,18.916138",
+    "geom:latitude":18.916138,
+    "geom:longitude":72.826683,
+    "iso:country":"IN",
+    "sg:address":"Bela Court No.2, Colaba,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2283 0477",
+    "sg:postcode":"400005",
+    "sg:tags":[
+        "pigment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903829,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZWsjgTojfBFpHjX6hC3sb_18.916138_72.826683@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"81ac4bca9222533185f5dfe3be541a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903829,
+            "region_id":-1,
+            "venue_id":169577573
+        }
+    ],
+    "wof:id":169577573,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Golden Dyes Corpn. (india) Pvt. Ltd.",
+    "wof:parent_id":85903829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [72.826683,18.916138,72.826683,18.916138],
+  "geometry": {"coordinates":[72.826683,18.916138],"type":"Point"}
+}

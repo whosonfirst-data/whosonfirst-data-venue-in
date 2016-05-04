@@ -1,0 +1,64 @@
+{
+  "id": 169546505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.189857,13.085827,80.189857,13.085827",
+    "geom:latitude":13.085827,
+    "geom:longitude":80.189857,
+    "iso:country":"IN",
+    "sg:address":"No.9, M.g. Pudur, 1st Street,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 223 2777",
+    "sg:postcode":"641604",
+    "sg:tags":[
+        "dye"
+    ],
+    "sg:website":"http://www.sunlightagencies.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931815,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S3uqWNkx7knlfVxSfcBhj_13.085827_80.189857@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9de7bdfc4af7f77a834c428a9b71eef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931815,
+            "region_id":85672245,
+            "venue_id":169546505
+        }
+    ],
+    "wof:id":169546505,
+    "wof:lastmodified":1449032681,
+    "wof:name":"Sunlight Agencies",
+    "wof:parent_id":85931815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye"
+    ]
+},
+  "bbox": [80.189857,13.085827,80.189857,13.085827],
+  "geometry": {"coordinates":[80.189857,13.085827],"type":"Point"}
+}

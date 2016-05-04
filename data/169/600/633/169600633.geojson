@@ -1,0 +1,67 @@
+{
+  "id": 169600633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.847488,19.143631,72.847488,19.143631",
+    "geom:latitude":19.143631,
+    "geom:longitude":72.847488,
+    "iso:country":"IN",
+    "sg:address":"Prabhat Nagar No. 1, Jogeshwari (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2678 6339",
+    "sg:postcode":"400102",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931511,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fNmNuBohNqSFNZv8bsIAb_19.143631_72.847488@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"957e319a5f59fbd2921d7730a64d2916",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931511,
+            "region_id":85672171,
+            "venue_id":169600633
+        }
+    ],
+    "wof:id":169600633,
+    "wof:lastmodified":1449032973,
+    "wof:name":"Pharma Medico (i) Pvt. Ltd.",
+    "wof:parent_id":85931511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [72.847488,19.143631,72.847488,19.143631],
+  "geometry": {"coordinates":[72.847488,19.143631],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169546893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.278587,28.632776,77.278587,28.632776",
+    "geom:latitude":28.632776,
+    "geom:longitude":77.278587,
+    "iso:country":"IN",
+    "sg:address":"P.b. 254, 16, Lakshminagar Extension,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 220 4162",
+    "sg:postcode":"641602",
+    "sg:tags":[
+        "knitted",
+        "knitwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TszoUz2bbYSG0bc5fUDXp_28.632776_77.278587@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"25ed67a26474c923f8e0dd8b2d97474a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169546893
+        }
+    ],
+    "wof:id":169546893,
+    "wof:lastmodified":1449032679,
+    "wof:name":"Dsp Knitting Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitted",
+        "knitwear"
+    ]
+},
+  "bbox": [77.278587,28.632776,77.278587,28.632776],
+  "geometry": {"coordinates":[77.278587,28.632776],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169643387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.090973,8.804863,78.090973,8.804863",
+    "geom:latitude":8.804863,
+    "geom:longitude":78.090973,
+    "iso:country":"IN",
+    "sg:address":"A-14/c, Sipcot Industrial Complex,",
+    "sg:city":"Cuddalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 4142 239 526",
+    "sg:postcode":"607005",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.victoryche.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lBGjyhF7D1wiDWQNqWabR_8.804863_78.090973@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f81563722a0719289ae9171699dbdb7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169643387
+        }
+    ],
+    "wof:id":169643387,
+    "wof:lastmodified":1449035523,
+    "wof:name":"Victory Chemicals Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.090973,8.804863,78.090973,8.804863],
+  "geometry": {"coordinates":[78.090973,8.804863],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169629553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.78714,20.00705,73.78714,20.00705",
+    "geom:latitude":20.00705,
+    "geom:longitude":73.78714,
+    "iso:country":"IN",
+    "sg:address":"749,  Raviwar Peth,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 5636 4241",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933727,
+        85632469,
+        102029219,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3G6TxDRrPqzPXrKN5hDKcJ_20.007050_73.787140@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6fc5980ddb5ab7944b01ac1fa02ba158",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029219,
+            "neighbourhood_id":85933727,
+            "region_id":85672171,
+            "venue_id":169629553
+        }
+    ],
+    "wof:id":169629553,
+    "wof:lastmodified":1449035182,
+    "wof:name":"Subha Industries",
+    "wof:parent_id":85933727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [73.78714,20.00705,73.78714,20.00705],
+  "geometry": {"coordinates":[73.78714,20.00705],"type":"Point"}
+}

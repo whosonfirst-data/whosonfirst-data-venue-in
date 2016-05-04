@@ -1,0 +1,64 @@
+{
+  "id": 169619549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.472885,17.374866,78.472885,17.374866",
+    "geom:latitude":17.374866,
+    "geom:longitude":78.472885,
+    "iso:country":"IN",
+    "sg:address":"10/80, Rajendra Gunj,",
+    "sg:city":"Raichur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 8532 235 006",
+    "sg:postcode":"584102",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "sg:website":"http://www.vbshilpa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930737,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hXDxtzHOmlUvp7y2S6y58_17.374866_78.472885@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7248677b36f0c22b10b35f8e3d344985",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930737,
+            "region_id":85672141,
+            "venue_id":169619549
+        }
+    ],
+    "wof:id":169619549,
+    "wof:lastmodified":1449033281,
+    "wof:name":"Shilpa Medicare Ltd.",
+    "wof:parent_id":85930737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [78.472885,17.374866,78.472885,17.374866],
+  "geometry": {"coordinates":[78.472885,17.374866],"type":"Point"}
+}

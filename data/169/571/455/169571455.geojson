@@ -1,0 +1,53 @@
+{
+  "id": 169571455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.19165,28.509054,77.19165,28.509054",
+    "geom:latitude":28.509054,
+    "geom:longitude":77.19165,
+    "iso:country":"IN",
+    "sg:address":"Sainik Farm",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2651 7740",
+    "sg:postcode":"110062",
+    "sg:province":"Delhi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928021,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DLjCBJBEZufAltngn8j04_28.509054_77.191650@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"eb3641be165b7a4901cbb9a12c2a884a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928021,
+            "region_id":85672123,
+            "venue_id":169571455
+        }
+    ],
+    "wof:id":169571455,
+    "wof:lastmodified":1449034948,
+    "wof:name":"Originals",
+    "wof:parent_id":85928021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.19165,28.509054,77.19165,28.509054],
+  "geometry": {"coordinates":[77.19165,28.509054],"type":"Point"}
+}

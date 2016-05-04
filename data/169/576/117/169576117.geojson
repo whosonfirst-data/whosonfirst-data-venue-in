@@ -1,0 +1,64 @@
+{
+  "id": 169576117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.177017,28.664032,77.177017,28.664032",
+    "geom:latitude":28.664032,
+    "geom:longitude":77.177017,
+    "iso:country":"IN",
+    "sg:address":"31x/17, Gali No. 2-3, New Rohtak Road, Industrial Area, Anand Parbat,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2585 2162",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.bhagwatiauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928115,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XU3PO76XuiS6jTB5RIsEm_28.664032_77.177017@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"10ab33bbda6f0dcd8297061db42cf71a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928115,
+            "region_id":85672123,
+            "venue_id":169576117
+        }
+    ],
+    "wof:id":169576117,
+    "wof:lastmodified":1449035198,
+    "wof:name":"Bhagwati Auto Enterprises",
+    "wof:parent_id":85928115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.177017,28.664032,77.177017,28.664032],
+  "geometry": {"coordinates":[77.177017,28.664032],"type":"Point"}
+}

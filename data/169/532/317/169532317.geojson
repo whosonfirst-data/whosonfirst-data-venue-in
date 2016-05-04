@@ -1,0 +1,64 @@
+{
+  "id": 169532317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.804741,18.970736,72.804741,18.970736",
+    "geom:latitude":18.970736,
+    "geom:longitude":72.804741,
+    "iso:country":"IN",
+    "sg:address":"69, Bhulabhai Desai Road, Breach Candy,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2368 1122",
+    "sg:postcode":"400026",
+    "sg:tags":[
+        "diamond"
+    ],
+    "sg:website":"http://www.arenajewellers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903835,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JdWknbYfXsJ0ySQ0wLyId_18.970736_72.804741@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"64fc7298c170a3b3ab1341b56918cfd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903835,
+            "region_id":85672171,
+            "venue_id":169532317
+        }
+    ],
+    "wof:id":169532317,
+    "wof:lastmodified":1449033796,
+    "wof:name":"Arena Lifestyles Pvt.  Ltd.",
+    "wof:parent_id":85903835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.804741,18.970736,72.804741,18.970736],
+  "geometry": {"coordinates":[72.804741,18.970736],"type":"Point"}
+}

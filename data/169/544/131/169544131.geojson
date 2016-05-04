@@ -1,0 +1,65 @@
+{
+  "id": 169544131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.614861,13.000689,77.614861,13.000689",
+    "geom:latitude":13.000689,
+    "geom:longitude":77.614861,
+    "iso:country":"IN",
+    "sg:address":"No. 43/1, 1st Floor, M.m. Road, Frazer Town,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2549 5755",
+    "sg:postcode":"560005",
+    "sg:tags":[
+        "ups",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930871,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HRlwsqcilBaDc5I4a3hWM_13.000689_77.614861@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"44a7bd52a883877d572fd2572025415f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930871,
+            "region_id":85672165,
+            "venue_id":169544131
+        }
+    ],
+    "wof:id":169544131,
+    "wof:lastmodified":1449035963,
+    "wof:name":"Klone Computech Systems Pvt. Ltd.",
+    "wof:parent_id":85930871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ups",
+        "power"
+    ]
+},
+  "bbox": [77.614861,13.000689,77.614861,13.000689],
+  "geometry": {"coordinates":[77.614861,13.000689],"type":"Point"}
+}

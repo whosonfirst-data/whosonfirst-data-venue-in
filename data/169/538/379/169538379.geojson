@@ -1,0 +1,68 @@
+{
+  "id": 169538379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.826263,18.956348,72.826263,18.956348",
+    "geom:latitude":18.956348,
+    "geom:longitude":72.826263,
+    "iso:country":"IN",
+    "sg:address":"Desai House, 39/2, J.c. Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2223 5434",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "equipment",
+        "pump",
+        "pumping"
+    ],
+    "sg:website":"http://www.newindiaelectricals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931435,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L6hTIBRmONL8cnaJMkByt_18.956348_72.826263@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9174e41359bb630753c6742517f6fa5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931435,
+            "region_id":85672171,
+            "venue_id":169538379
+        }
+    ],
+    "wof:id":169538379,
+    "wof:lastmodified":1449033100,
+    "wof:name":"New India Electricals Ltd.",
+    "wof:parent_id":85931435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "pump",
+        "pumping"
+    ]
+},
+  "bbox": [72.826263,18.956348,72.826263,18.956348],
+  "geometry": {"coordinates":[72.826263,18.956348],"type":"Point"}
+}

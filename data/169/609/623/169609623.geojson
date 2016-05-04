@@ -1,0 +1,63 @@
+{
+  "id": 169609623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.352699,22.541399,88.352699,22.541399",
+    "geom:latitude":22.541399,
+    "geom:longitude":88.352699,
+    "iso:country":"IN",
+    "sg:address":"234/3-a, A.j.c. Bose Road, 2nd Floor, A-14,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2247 2893",
+    "sg:postcode":"700020",
+    "sg:tags":[
+        "paper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931935,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05Dtae9X5tTbT0By7ZajEN_22.541399_88.352699@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b0e1da4cdef81b07f8a509d883370a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931935,
+            "region_id":85672219,
+            "venue_id":169609623
+        }
+    ],
+    "wof:id":169609623,
+    "wof:lastmodified":1449033919,
+    "wof:name":"Raunak Mfg. & Dist. Systems Pvt. Ltd.",
+    "wof:parent_id":85931935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paper"
+    ]
+},
+  "bbox": [88.352699,22.541399,88.352699,22.541399],
+  "geometry": {"coordinates":[88.352699,22.541399],"type":"Point"}
+}

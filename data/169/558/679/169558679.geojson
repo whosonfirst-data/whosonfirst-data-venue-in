@@ -1,0 +1,63 @@
+{
+  "id": 169558679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.336746,28.68775,77.336746,28.68775",
+    "geom:latitude":28.68775,
+    "geom:longitude":77.336746,
+    "iso:country":"IN",
+    "sg:address":"16/2a, Site-iv, Sahibabad Industrial Area,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 289 6216",
+    "sg:postcode":"201010",
+    "sg:tags":[
+        "pigment"
+    ],
+    "sg:website":"http://www.britepaints.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZkbBR0ShqmTkKcK17ofCn_28.687750_77.336746@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2f0f9a032a49c0496dc06c39fd9f0bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169558679
+        }
+    ],
+    "wof:id":169558679,
+    "wof:lastmodified":1449033582,
+    "wof:name":"Brite Paint & Chemicals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [77.336746,28.68775,77.336746,28.68775],
+  "geometry": {"coordinates":[77.336746,28.68775],"type":"Point"}
+}

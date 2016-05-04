@@ -1,0 +1,67 @@
+{
+  "id": 169545067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.583435,12.968068,77.583435,12.968068",
+    "geom:latitude":12.968068,
+    "geom:longitude":77.583435,
+    "iso:country":"IN",
+    "sg:address":"No. 850, Nagarthpet,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2221 2950",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "textile",
+        "wool",
+        "woollen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27gXBrHKXMeUx25P9aq4mE_12.968068_77.583435@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1879731a1710fd74e899fd69e17207d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169545067
+        }
+    ],
+    "wof:id":169545067,
+    "wof:lastmodified":1449033484,
+    "wof:name":"Woollen Textiles",
+    "wof:parent_id":85930903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "textile",
+        "wool",
+        "woollen"
+    ]
+},
+  "bbox": [77.583435,12.968068,77.583435,12.968068],
+  "geometry": {"coordinates":[77.583435,12.968068],"type":"Point"}
+}

@@ -1,0 +1,53 @@
+{
+  "id": 169568989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.089539,28.638338,77.089539,28.638338",
+    "geom:latitude":28.638338,
+    "geom:longitude":77.089539,
+    "iso:country":"IN",
+    "sg:address":"Tilak Nagar",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2544 7994",
+    "sg:postcode":"110018",
+    "sg:province":"Delhi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928581,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mWirWaOF6RnteJb1Jmsik_28.638338_77.089539@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0c817b107dcf4f255093d04330a42da0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928581,
+            "region_id":85672123,
+            "venue_id":169568989
+        }
+    ],
+    "wof:id":169568989,
+    "wof:lastmodified":1449032612,
+    "wof:name":"Saroj Rubber Industries",
+    "wof:parent_id":85928581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.089539,28.638338,77.089539,28.638338],
+  "geometry": {"coordinates":[77.089539,28.638338],"type":"Point"}
+}

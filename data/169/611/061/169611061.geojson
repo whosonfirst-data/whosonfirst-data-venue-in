@@ -1,0 +1,63 @@
+{
+  "id": 169611061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.351532,28.681458,77.351532,28.681458",
+    "geom:latitude":28.681458,
+    "geom:longitude":77.351532,
+    "iso:country":"IN",
+    "sg:address":"143, Ankur Apartments, Plot No.7, I.p. Extension,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110092",
+    "sg:tags":[
+        "chemical",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BkgEU8kFUmovaHo1FEWjI_28.681458_77.351532@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ae4cb3ebe374fefe31673dafe32c96db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169611061
+        }
+    ],
+    "wof:id":169611061,
+    "wof:lastmodified":1449035264,
+    "wof:name":"Renaissance Overseas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "-"
+    ]
+},
+  "bbox": [77.351532,28.681458,77.351532,28.681458],
+  "geometry": {"coordinates":[77.351532,28.681458],"type":"Point"}
+}

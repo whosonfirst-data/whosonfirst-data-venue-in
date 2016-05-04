@@ -1,0 +1,63 @@
+{
+  "id": 169578767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"83.313797,17.731684,83.313797,17.731684",
+    "geom:latitude":17.731684,
+    "geom:longitude":83.313797,
+    "iso:country":"IN",
+    "sg:address":"No. 52-14-77/1, 1st Floor, New Resapuvanipalem, Opp. Bullayya College,",
+    "sg:city":"Vishakapattanam",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 891 251 4701",
+    "sg:postcode":"530013",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903995,
+        85632469,
+        102028261,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zXcV1ds3juXDfwhjVzTFf_17.731684_83.313797@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f054f30ced94bd1b4c2f325d495659cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028261,
+            "neighbourhood_id":85903995,
+            "region_id":85672141,
+            "venue_id":169578767
+        }
+    ],
+    "wof:id":169578767,
+    "wof:lastmodified":1449033518,
+    "wof:name":"Himadri Chemicals & Industries Ltd.",
+    "wof:parent_id":85903995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [83.313797,17.731684,83.313797,17.731684],
+  "geometry": {"coordinates":[83.313797,17.731684],"type":"Point"}
+}

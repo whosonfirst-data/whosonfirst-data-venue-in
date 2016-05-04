@@ -1,0 +1,66 @@
+{
+  "id": 169537051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.642189,12.973251,77.642189,12.973251",
+    "geom:latitude":12.973251,
+    "geom:longitude":77.642189,
+    "iso:country":"IN",
+    "sg:address":"845, 2nd Cross, 7th Main, Hal 2nd Stage, Indiranagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2521 0315",
+    "sg:postcode":"560071",
+    "sg:tags":[
+        "power",
+        "supply"
+    ],
+    "sg:website":"http://www.smcel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ykLnRr1NoAiQLYekIe0Re_12.973251_77.642189@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"47440ea2a7fb1cd2b797effed315ac30",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169537051
+        }
+    ],
+    "wof:id":169537051,
+    "wof:lastmodified":1449033498,
+    "wof:name":"S. M. Creative Electronics Limited",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "power",
+        "supply"
+    ]
+},
+  "bbox": [77.642189,12.973251,77.642189,12.973251],
+  "geometry": {"coordinates":[77.642189,12.973251],"type":"Point"}
+}

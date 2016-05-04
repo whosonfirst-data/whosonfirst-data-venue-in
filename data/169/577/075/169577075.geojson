@@ -1,0 +1,63 @@
+{
+  "id": 169577075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.998466,19.08288,72.998466,19.08288",
+    "geom:latitude":19.08288,
+    "geom:longitude":72.998466,
+    "iso:country":"IN",
+    "sg:address":"F-2/a-2, Sector 10, Vashi,",
+    "sg:city":"Navi Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2778 1675",
+    "sg:postcode":"400703",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931637,
+        85632469,
+        102031087,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VvB7evwH1Zszssg0JLxaq_19.082880_72.998466@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4498eee60ca49101e74aae07bbe98559",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031087,
+            "neighbourhood_id":85931637,
+            "region_id":85672171,
+            "venue_id":169577075
+        }
+    ],
+    "wof:id":169577075,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Gajanan Enterprises",
+    "wof:parent_id":85931637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.998466,19.08288,72.998466,19.08288],
+  "geometry": {"coordinates":[72.998466,19.08288],"type":"Point"}
+}

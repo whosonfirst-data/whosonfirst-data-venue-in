@@ -1,0 +1,75 @@
+{
+  "id": 169649211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.353998,22.546315,88.353998,22.546315",
+    "geom:latitude":22.546315,
+    "geom:longitude":88.353998,
+    "iso:country":"IN",
+    "sg:address":"8 Ho Chi Minh Sarani",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"700071",
+    "sg:tags":[
+        "web-design",
+        "web-development",
+        "web-application-development",
+        "search-engine-optimization",
+        "graphic-design",
+        "seo",
+        "print-design"
+    ],
+    "sg:website":"http://www.32bytes.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931951,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wtlnRPsd49T2ihRA6PkOd_22.546315_88.353998@1308163239"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8f49374d1e2a11249a580724c07d6070",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931951,
+            "region_id":85672219,
+            "venue_id":169649211
+        }
+    ],
+    "wof:id":169649211,
+    "wof:lastmodified":1449034942,
+    "wof:name":"32bytes",
+    "wof:parent_id":85931951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web-design",
+        "web-development",
+        "web-application-development",
+        "search-engine-optimization",
+        "graphic-design",
+        "seo",
+        "print-design"
+    ]
+},
+  "bbox": [88.353998,22.546315,88.353998,22.546315],
+  "geometry": {"coordinates":[88.353998,22.546315],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169612051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"70.750671,22.277142,70.750671,22.277142",
+    "geom:latitude":22.277142,
+    "geom:longitude":70.750671,
+    "iso:country":"IN",
+    "sg:address":"B-561, Sarita Vihar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2694 3304",
+    "sg:postcode":"110044",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028901,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CL5vF4wBKn3kW5uT0U09z_22.277142_70.750671@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c4da445990df9799884dc8f0ea0d3940",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028901,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169612051
+        }
+    ],
+    "wof:id":169612051,
+    "wof:lastmodified":1449034131,
+    "wof:name":"Roop Coatings Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [70.750671,22.277142,70.750671,22.277142],
+  "geometry": {"coordinates":[70.750671,22.277142],"type":"Point"}
+}

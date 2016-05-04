@@ -1,0 +1,63 @@
+{
+  "id": 169540559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.622742,12.935909,77.622742,12.935909",
+    "geom:latitude":12.935909,
+    "geom:longitude":77.622742,
+    "iso:country":"IN",
+    "sg:address":"# 521, 17th D Cross, Koramangala, 7th Block,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4110 5066",
+    "sg:postcode":"560072",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930917,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CwnSM9e7Nw2UW0UnwFL2p_12.935909_77.622742@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"822112c09f97e7524face0975ab376f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930917,
+            "region_id":85672165,
+            "venue_id":169540559
+        }
+    ],
+    "wof:id":169540559,
+    "wof:lastmodified":1449033977,
+    "wof:name":"Atma Collections",
+    "wof:parent_id":85930917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.622742,12.935909,77.622742,12.935909],
+  "geometry": {"coordinates":[77.622742,12.935909],"type":"Point"}
+}

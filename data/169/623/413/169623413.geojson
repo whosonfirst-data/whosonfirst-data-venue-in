@@ -1,0 +1,63 @@
+{
+  "id": 169623413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.373444,22.603506,88.373444,22.603506",
+    "geom:latitude":22.603506,
+    "geom:longitude":88.373444,
+    "iso:country":"IN",
+    "sg:address":"176, Bidhan Sarani,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 3294 9244",
+    "sg:postcode":"700006",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931997,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wUk0UnbNKtYceDYiwMUHy_22.603506_88.373444@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c2df0f68aa6ef30403f3f2e95979d8bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931997,
+            "region_id":85672219,
+            "venue_id":169623413
+        }
+    ],
+    "wof:id":169623413,
+    "wof:lastmodified":1449034996,
+    "wof:name":"Shyam Waterproof Works Pvt. Ltd.",
+    "wof:parent_id":85931997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [88.373444,22.603506,88.373444,22.603506],
+  "geometry": {"coordinates":[88.373444,22.603506],"type":"Point"}
+}

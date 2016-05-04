@@ -1,0 +1,68 @@
+{
+  "id": 169580239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.235298,28.634577,77.235298,28.634577",
+    "geom:latitude":28.634577,
+    "geom:longitude":77.235298,
+    "iso:country":"IN",
+    "sg:address":"2nd Floor, Ghalib Institute, Mata Sundari Road,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2323 3904",
+    "sg:postcode":"110002",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "sg:website":"http://www.jk-white.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928017,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78ecjOQcfYJMdaBcFVJPTM_28.634577_77.235298@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"11654fa7ba47d374ef14d9baf931e9fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928017,
+            "region_id":85672123,
+            "venue_id":169580239
+        }
+    ],
+    "wof:id":169580239,
+    "wof:lastmodified":1449034911,
+    "wof:name":"J. K. White Cement Works",
+    "wof:parent_id":85928017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.235298,28.634577,77.235298,28.634577],
+  "geometry": {"coordinates":[77.235298,28.634577],"type":"Point"}
+}

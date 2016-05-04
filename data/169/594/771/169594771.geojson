@@ -1,0 +1,67 @@
+{
+  "id": 169594771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.114716,28.693062,77.114716,28.693062",
+    "geom:latitude":28.693062,
+    "geom:longitude":77.114716,
+    "iso:country":"IN",
+    "sg:address":"358, Tarun Enclave, Pitampura,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2703 0740",
+    "sg:postcode":"110034",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927911,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lvnTEIHtOQojU4moucft6_28.693062_77.114716@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"12f1d9ff05297904a10e569134a8181a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85927911,
+            "region_id":85672123,
+            "venue_id":169594771
+        }
+    ],
+    "wof:id":169594771,
+    "wof:lastmodified":1449033164,
+    "wof:name":"North India Coating Pvt. Ltd.",
+    "wof:parent_id":85927911,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.114716,28.693062,77.114716,28.693062],
+  "geometry": {"coordinates":[77.114716,28.693062],"type":"Point"}
+}

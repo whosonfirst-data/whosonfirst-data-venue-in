@@ -1,0 +1,62 @@
+{
+  "id": 169646921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.72303,28.968164,77.72303,28.968164",
+    "geom:latitude":28.968164,
+    "geom:longitude":77.72303,
+    "iso:country":"IN",
+    "sg:address":"Plot No.- 74/a, Kalyan Nagar,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2381 2987",
+    "sg:postcode":"500038",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029389,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61uQgN3NQZV4JaKwV1tiAi_28.968164_77.723030@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ceb8eeda0a397dc1d1cae13945aea187",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029389,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169646921
+        }
+    ],
+    "wof:id":169646921,
+    "wof:lastmodified":1449032608,
+    "wof:name":"White Star Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.72303,28.968164,77.72303,28.968164],
+  "geometry": {"coordinates":[77.72303,28.968164],"type":"Point"}
+}

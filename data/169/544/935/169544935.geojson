@@ -1,0 +1,66 @@
+{
+  "id": 169544935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.58918,12.990293,77.58918,12.990293",
+    "geom:latitude":12.990293,
+    "geom:longitude":77.58918,
+    "iso:country":"IN",
+    "sg:address":"120, Cunningham Road, 1st Floor,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2226 5651",
+    "sg:postcode":"560052",
+    "sg:tags":[
+        "wires/cables",
+        "accessory"
+    ],
+    "sg:website":"http://www.relianceengineers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930961,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XYwUi0UH5lIHz8461pD4g_12.990293_77.589180@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c565656731ba0a77434dcd2c9fe36f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930961,
+            "region_id":85672165,
+            "venue_id":169544935
+        }
+    ],
+    "wof:id":169544935,
+    "wof:lastmodified":1449035964,
+    "wof:name":"Reliance Engineers Limited",
+    "wof:parent_id":85930961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wires/cables",
+        "accessory"
+    ]
+},
+  "bbox": [77.58918,12.990293,77.58918,12.990293],
+  "geometry": {"coordinates":[77.58918,12.990293],"type":"Point"}
+}

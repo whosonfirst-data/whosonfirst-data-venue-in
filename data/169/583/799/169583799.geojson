@@ -1,0 +1,62 @@
+{
+  "id": 169583799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.782089,20.806133,75.782089,20.806133",
+    "geom:latitude":20.806133,
+    "geom:longitude":75.782089,
+    "iso:country":"IN",
+    "sg:address":"12, Ganeshwadi, F.c. Road,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2567 6670",
+    "sg:postcode":"411004",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "sg:website":"http://www.krishimitra.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vLbwDO6KCzHhYXStH1Pn0_20.806133_75.782089@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"be67d3ef3917bd9f17832d473fb10f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169583799
+        }
+    ],
+    "wof:id":169583799,
+    "wof:lastmodified":1449035269,
+    "wof:name":"Kumar Krishimitra Bioproducts (i) Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [75.782089,20.806133,75.782089,20.806133],
+  "geometry": {"coordinates":[75.782089,20.806133],"type":"Point"}
+}

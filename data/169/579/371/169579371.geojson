@@ -1,0 +1,63 @@
+{
+  "id": 169579371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.602112,12.980972,77.602112,12.980972",
+    "geom:latitude":12.980972,
+    "geom:longitude":77.602112,
+    "iso:country":"IN",
+    "sg:address":"14 Infantry Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2286 1199",
+    "sg:postcode":"560001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930953,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vPunQ7uaL4Mc9K09tHmfd_12.980972_77.602112@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ee4f43d44a913f5d9cb581286fcba3da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930953,
+            "region_id":85672165,
+            "venue_id":169579371
+        }
+    ],
+    "wof:id":169579371,
+    "wof:lastmodified":1449033740,
+    "wof:name":"Imperial Metals & Polymers",
+    "wof:parent_id":85930953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.602112,12.980972,77.602112,12.980972],
+  "geometry": {"coordinates":[77.602112,12.980972],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169528055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833023,19.012154,72.833023,19.012154",
+    "geom:latitude":19.012154,
+    "geom:longitude":72.833023,
+    "iso:country":"IN",
+    "sg:address":"Shroff Building No.2, 1st Floor, Gokhale Road (s), Dadar (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2422 3096",
+    "sg:postcode":"400025",
+    "sg:tags":[
+        "box"
+    ],
+    "sg:website":"http://www.vanguardplast.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931467,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Dar8M6rTDtRpQZPEaPcBz_19.012154_72.833023@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f2f584c62f39bee8399a793a63c1dcdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931467,
+            "region_id":85672171,
+            "venue_id":169528055
+        }
+    ],
+    "wof:id":169528055,
+    "wof:lastmodified":1449033570,
+    "wof:name":"Vanguard Plast Private Limited",
+    "wof:parent_id":85931467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "box"
+    ]
+},
+  "bbox": [72.833023,19.012154,72.833023,19.012154],
+  "geometry": {"coordinates":[72.833023,19.012154],"type":"Point"}
+}

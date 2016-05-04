@@ -1,0 +1,64 @@
+{
+  "id": 169540395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.613136,12.911876,77.613136,12.911876",
+    "geom:latitude":12.911876,
+    "geom:longitude":77.613136,
+    "iso:country":"IN",
+    "sg:address":"11/1, 24th-a-cross, K.r. Road, B.s.k. Ii-stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2671 4180",
+    "sg:postcode":"560070",
+    "sg:tags":[
+        "short"
+    ],
+    "sg:website":"http://www.supremeoverseas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930853,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EMYQx5VhH6AMj1uaTmvsP_12.911876_77.613136@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2c73d49ee5d0ee3358600bcc6c1ba4fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930853,
+            "region_id":85672165,
+            "venue_id":169540395
+        }
+    ],
+    "wof:id":169540395,
+    "wof:lastmodified":1449033977,
+    "wof:name":"Supreme Overseas Exports India Pvt. Ltd.",
+    "wof:parent_id":85930853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "short"
+    ]
+},
+  "bbox": [77.613136,12.911876,77.613136,12.911876],
+  "geometry": {"coordinates":[77.613136,12.911876],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169546921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.189789,13.046961,80.189789,13.046961",
+    "geom:latitude":13.046961,
+    "geom:longitude":80.189789,
+    "iso:country":"IN",
+    "sg:address":"16, Narayanasamy Nagar,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 434 2431",
+    "sg:postcode":"641603",
+    "sg:tags":[
+        "knitted",
+        "knitwear"
+    ],
+    "sg:website":"http://www.spectroclothing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903779,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yCjlHlUAvUTZGjKTmuGch_13.046961_80.189789@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e4518e5b94dd16b3b310e6b491f1dae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903779,
+            "region_id":85672245,
+            "venue_id":169546921
+        }
+    ],
+    "wof:id":169546921,
+    "wof:lastmodified":1449032680,
+    "wof:name":"Spectro Clothing Co.",
+    "wof:parent_id":85903779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitted",
+        "knitwear"
+    ]
+},
+  "bbox": [80.189789,13.046961,80.189789,13.046961],
+  "geometry": {"coordinates":[80.189789,13.046961],"type":"Point"}
+}

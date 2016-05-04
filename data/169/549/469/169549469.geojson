@@ -1,0 +1,66 @@
+{
+  "id": 169549469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.850471,30.686115,76.850471,30.686115",
+    "geom:latitude":30.686115,
+    "geom:longitude":76.850471,
+    "iso:country":"IN",
+    "sg:address":"473, Sector 11,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 248 3330",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "precious",
+        "stone",
+        "semi"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931825,
+        85632469,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CHOslRgzjgQyqwalXBMOy_30.686115_76.850471@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"da5d1ab3f800bd606d84eb9bfc48a70b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85931825,
+            "region_id":85672133,
+            "venue_id":169549469
+        }
+    ],
+    "wof:id":169549469,
+    "wof:lastmodified":1449033596,
+    "wof:name":"Saaizan Stone",
+    "wof:parent_id":85931825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "precious",
+        "stone",
+        "semi"
+    ]
+},
+  "bbox": [76.850471,30.686115,76.850471,30.686115],
+  "geometry": {"coordinates":[76.850471,30.686115],"type":"Point"}
+}

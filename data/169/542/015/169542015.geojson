@@ -1,0 +1,64 @@
+{
+  "id": 169542015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.69799,12.990518,77.69799,12.990518",
+    "geom:latitude":12.990518,
+    "geom:longitude":77.69799,
+    "iso:country":"IN",
+    "sg:address":"68, 4th Main Road, Garudacharpalya,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2853 0816",
+    "sg:tags":[
+        "spring",
+        "coil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931169,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5o8BU7YV5h1XNNzNq2l6gM_12.990518_77.697990@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bc7a72b4ecd3f801666ce0648496b96c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931169,
+            "region_id":85672165,
+            "venue_id":169542015
+        }
+    ],
+    "wof:id":169542015,
+    "wof:lastmodified":1449035219,
+    "wof:name":"Sree Sakthi Spring",
+    "wof:parent_id":85931169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spring",
+        "coil"
+    ]
+},
+  "bbox": [77.69799,12.990518,77.69799,12.990518],
+  "geometry": {"coordinates":[77.69799,12.990518],"type":"Point"}
+}

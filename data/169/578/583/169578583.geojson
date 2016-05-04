@@ -1,0 +1,65 @@
+{
+  "id": 169578583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.250092,13.006548,80.250092,13.006548",
+    "geom:latitude":13.006548,
+    "geom:longitude":80.250092,
+    "iso:country":"IN",
+    "sg:address":"85, 1st Main, Gandhi Nagar, Adayar,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2440 4937",
+    "sg:postcode":"600020",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903855,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uVIdT9yvQSFnx9RWAdIFj_13.006548_80.250092@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"113c53f4ea8fbdbe6b19ba2bbd79d5c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903855,
+            "region_id":85672245,
+            "venue_id":169578583
+        }
+    ],
+    "wof:id":169578583,
+    "wof:lastmodified":1449033520,
+    "wof:name":"Health India Laboratories",
+    "wof:parent_id":85903855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [80.250092,13.006548,80.250092,13.006548],
+  "geometry": {"coordinates":[80.250092,13.006548],"type":"Point"}
+}

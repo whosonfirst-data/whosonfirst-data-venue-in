@@ -1,0 +1,58 @@
+{
+  "id": 169558559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.371536,22.551968,88.371536,22.551968",
+    "geom:latitude":22.551968,
+    "geom:longitude":88.371536,
+    "iso:country":"IN",
+    "sg:address":"48a, Dr. Sundari Mohan Avenue,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Leather Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2283 7519",
+    "sg:postcode":"700014",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931947,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BjkNJbf8JDOtc0JNOWS6g_22.551968_88.371536@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6939732e6fde76115824fc07fc0b4ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931947,
+            "region_id":85672219,
+            "venue_id":169558559
+        }
+    ],
+    "wof:id":169558559,
+    "wof:lastmodified":1449033582,
+    "wof:name":"Bright Chem",
+    "wof:parent_id":85931947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [88.371536,22.551968,88.371536,22.551968],
+  "geometry": {"coordinates":[88.371536,22.551968],"type":"Point"}
+}

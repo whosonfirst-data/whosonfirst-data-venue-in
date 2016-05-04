@@ -1,0 +1,77 @@
+{
+  "id": 169648339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.590598,12.913348,77.590598,12.913348",
+    "geom:latitude":12.913348,
+    "geom:longitude":77.590598,
+    "iso:country":"IN",
+    "sg:address":"JP Nagar 3rd phase,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560078",
+    "sg:tags":[
+        "iphone-gaming",
+        "iphone-apps",
+        "iphone",
+        "social-gaming",
+        "social-games",
+        "facebook",
+        "mobile-gaming",
+        "mobile-games"
+    ],
+    "sg:website":"http://www.digitalchocolate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931065,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DjN47cIkSJClrvEFQz3yI_12.913348_77.590598@1308163236"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7808f1557eb6298486be6f004a50f9c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931065,
+            "region_id":85672165,
+            "venue_id":169648339
+        }
+    ],
+    "wof:id":169648339,
+    "wof:lastmodified":1449033584,
+    "wof:name":"Digital Chocolate",
+    "wof:parent_id":85931065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "iphone-gaming",
+        "iphone-apps",
+        "iphone",
+        "social-gaming",
+        "social-games",
+        "facebook",
+        "mobile-gaming",
+        "mobile-games"
+    ]
+},
+  "bbox": [77.590598,12.913348,77.590598,12.913348],
+  "geometry": {"coordinates":[77.590598,12.913348],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169529375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.855598,19.172028,72.855598,19.172028",
+    "geom:latitude":19.172028,
+    "geom:longitude":72.855598,
+    "iso:country":"IN",
+    "sg:address":"C-208, Synthofine Industrial Estate, Off Aarey Road, Goregaon (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 3240 5090",
+    "sg:postcode":"400063",
+    "sg:tags":[
+        "dress",
+        "ceremonial"
+    ],
+    "sg:website":"http://www.primexports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931525,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44UiF8ouke7JB11W6bTMvw_19.172028_72.855598@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"996bcedbf2347d96132cdfcaf7d44252",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931525,
+            "region_id":85672171,
+            "venue_id":169529375
+        }
+    ],
+    "wof:id":169529375,
+    "wof:lastmodified":1449034113,
+    "wof:name":"Prime Exports",
+    "wof:parent_id":85931525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dress",
+        "ceremonial"
+    ]
+},
+  "bbox": [72.855598,19.172028,72.855598,19.172028],
+  "geometry": {"coordinates":[72.855598,19.172028],"type":"Point"}
+}

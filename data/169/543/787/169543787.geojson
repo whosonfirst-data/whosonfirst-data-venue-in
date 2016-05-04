@@ -1,0 +1,65 @@
+{
+  "id": 169543787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.567871,12.959603,77.567871,12.959603",
+    "geom:latitude":12.959603,
+    "geom:longitude":77.567871,
+    "iso:country":"IN",
+    "sg:address":"21/2a, A.m. Road, Kalasipalayam New Extn.,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2670 8622",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "transporters",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930907,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32VEF73DjR3QX8eu4F2Yd2_12.959603_77.567871@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"27260e117290865f078f6aad0b53145b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930907,
+            "region_id":85672165,
+            "venue_id":169543787
+        }
+    ],
+    "wof:id":169543787,
+    "wof:lastmodified":1449033334,
+    "wof:name":"Dooars Tranport Ltd.",
+    "wof:parent_id":85930907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transporters",
+        "transport"
+    ]
+},
+  "bbox": [77.567871,12.959603,77.567871,12.959603],
+  "geometry": {"coordinates":[77.567871,12.959603],"type":"Point"}
+}

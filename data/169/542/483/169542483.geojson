@@ -1,0 +1,73 @@
+{
+  "id": 169542483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.582703,12.951085,77.582703,12.951085",
+    "geom:latitude":12.951085,
+    "geom:longitude":77.582703,
+    "iso:country":"IN",
+    "sg:address":"#22/26, 1st Floor, Krumbigal Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2657 9753",
+    "sg:postcode":"560004",
+    "sg:tags":[
+        "system"
+    ],
+    "sg:website":"http://www.kaveritanks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165,
+        85930971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oggusDWBWIRVURqgZYyOu_12.951085_77.582703@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2e83748fa0f5a60879c4bf14e97f7c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169542483
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930971,
+            "region_id":85672165,
+            "venue_id":169542483
+        }
+    ],
+    "wof:id":169542483,
+    "wof:lastmodified":1449035223,
+    "wof:name":"Kaveri Water Storage Tanks",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [77.582703,12.951085,77.582703,12.951085],
+  "geometry": {"coordinates":[77.582703,12.951085],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 169536291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.818321,18.963913,72.818321,18.963913",
+    "geom:latitude":18.963913,
+    "geom:longitude":72.818321,
+    "iso:country":"IN",
+    "sg:address":"A. O. 413/b-c, Lamington Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2388 8514",
+    "sg:postcode":"400004",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903971,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rbt1CN55LZYPNhwovBPkQ_18.963913_72.818321@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"97d86f88e63d4039aa715131f31379b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903971,
+            "region_id":85672171,
+            "venue_id":169536291
+        }
+    ],
+    "wof:id":169536291,
+    "wof:lastmodified":1449034656,
+    "wof:name":"J. R. Overseas Corporation",
+    "wof:parent_id":85903971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.818321,18.963913,72.818321,18.963913],
+  "geometry": {"coordinates":[72.818321,18.963913],"type":"Point"}
+}

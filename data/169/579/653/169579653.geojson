@@ -1,0 +1,67 @@
+{
+  "id": 169579653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.307182,28.667767,77.307182,28.667767",
+    "geom:latitude":28.667767,
+    "geom:longitude":77.307182,
+    "iso:country":"IN",
+    "sg:address":"G-5, Industrial Estate, Delhi Road,",
+    "sg:city":"Saharanpur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 132 276 6401",
+    "sg:postcode":"247001",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928061,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FMvGU4OWHYBulN49sDLlH_28.667767_77.307182@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4496005c375aa8a17e7e9fc2d5f6ccbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928061,
+            "region_id":85672123,
+            "venue_id":169579653
+        }
+    ],
+    "wof:id":169579653,
+    "wof:lastmodified":1449033739,
+    "wof:name":"Indo Paints & Chemical",
+    "wof:parent_id":85928061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.307182,28.667767,77.307182,28.667767],
+  "geometry": {"coordinates":[77.307182,28.667767],"type":"Point"}
+}

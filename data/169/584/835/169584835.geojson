@@ -1,0 +1,62 @@
+{
+  "id": 169584835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.260666,13.061556,80.260666,13.061556",
+    "geom:latitude":13.061556,
+    "geom:longitude":80.260666,
+    "iso:country":"IN",
+    "sg:address":"1093, Mie,",
+    "sg:city":"Bahadurgarh",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 15155444904",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931755,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U0FT4oMCf4LR7UQyXfMl7_13.061556_80.260666@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6a613ceedc5394977252677dbdc91f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931755,
+            "region_id":85672245,
+            "venue_id":169584835
+        }
+    ],
+    "wof:id":169584835,
+    "wof:lastmodified":1449033037,
+    "wof:name":"Lopan Kemikals",
+    "wof:parent_id":85931755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.260666,13.061556,80.260666,13.061556],
+  "geometry": {"coordinates":[80.260666,13.061556],"type":"Point"}
+}

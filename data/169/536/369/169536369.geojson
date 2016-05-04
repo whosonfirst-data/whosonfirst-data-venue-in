@@ -1,0 +1,68 @@
+{
+  "id": 169536369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.839836,19.071138,72.839836,19.071138",
+    "geom:latitude":19.071138,
+    "geom:longitude":72.839836,
+    "iso:country":"IN",
+    "sg:address":"13/150 Ramkrishna Nagar, 3rd Road, Khar,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2649 5619",
+    "sg:postcode":"400052",
+    "sg:website":"http://www.nirtex.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931493,
+        85632469,
+        102030609,
+        85672171,
+        85931497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OV3RKX4jFBqS67C5Myez3_19.071138_72.839836@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3314a261719ae15b4038a79b0eb83805",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931493,
+            "region_id":85672171,
+            "venue_id":169536369
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931497,
+            "region_id":85672171,
+            "venue_id":169536369
+        }
+    ],
+    "wof:id":169536369,
+    "wof:lastmodified":1449034660,
+    "wof:name":"Nirtex Corporation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.839836,19.071138,72.839836,19.071138],
+  "geometry": {"coordinates":[72.839836,19.071138],"type":"Point"}
+}

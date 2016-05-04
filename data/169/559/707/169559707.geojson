@@ -1,0 +1,66 @@
+{
+  "id": 169559707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.287018,13.094745,80.287018,13.094745",
+    "geom:latitude":13.094745,
+    "geom:longitude":80.287018,
+    "iso:country":"IN",
+    "sg:address":"No. 46, Sembudoss Street, Parrys,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 5216 4571",
+    "sg:postcode":"600001",
+    "sg:tags":[
+        "material",
+        "protection",
+        "corrosion"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903951,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZoUJ5l4e7uZXjsU8yoqBa_13.094745_80.287018@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9999276c2fe4f470b32d1f4ed4a3cb4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102029537,
+            "neighbourhood_id":85903951,
+            "region_id":85672245,
+            "venue_id":169559707
+        }
+    ],
+    "wof:id":169559707,
+    "wof:lastmodified":1449035239,
+    "wof:name":"Corrosion Care Specialities",
+    "wof:parent_id":85903951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material",
+        "protection",
+        "corrosion"
+    ]
+},
+  "bbox": [80.287018,13.094745,80.287018,13.094745],
+  "geometry": {"coordinates":[80.287018,13.094745],"type":"Point"}
+}

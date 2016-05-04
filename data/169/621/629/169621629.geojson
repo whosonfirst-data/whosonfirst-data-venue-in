@@ -1,0 +1,62 @@
+{
+  "id": 169621629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.003708,19.132946,73.003708,19.132946",
+    "geom:latitude":19.132946,
+    "geom:longitude":73.003708,
+    "iso:country":"IN",
+    "sg:address":"R-454, T.t.c., Industrial Area, Thane Belapur Road, Rabale,",
+    "sg:city":"Navi Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2769 3297",
+    "sg:postcode":"400701",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031115,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fVxu2Xlh7kBZhHsXgVZdM_19.132946_73.003708@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ce6b752b2fa6cae35f6f8b4ad637428f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031115,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169621629
+        }
+    ],
+    "wof:id":169621629,
+    "wof:lastmodified":1449035559,
+    "wof:name":"Shree Rubber Works",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [73.003708,19.132946,73.003708,19.132946],
+  "geometry": {"coordinates":[73.003708,19.132946],"type":"Point"}
+}

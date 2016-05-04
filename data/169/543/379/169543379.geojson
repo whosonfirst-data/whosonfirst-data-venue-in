@@ -1,0 +1,64 @@
+{
+  "id": 169543379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.557831,12.998224,77.557831,12.998224",
+    "geom:latitude":12.998224,
+    "geom:longitude":77.557831,
+    "iso:country":"IN",
+    "sg:address":"# 3049/15, Mahakavi Kuvempu Road, Malleswaram,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2332 9840",
+    "sg:postcode":"560021",
+    "sg:tags":[
+        "thermocouple"
+    ],
+    "sg:website":"http://www.indfurnace.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HZq2f5kZAkSkbSTr7o6i3_12.998224_77.557831@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cb4a7bd62ed720823f012cd29ef961fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169543379
+        }
+    ],
+    "wof:id":169543379,
+    "wof:lastmodified":1449033334,
+    "wof:name":"Industrial Furnace & Controls",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "thermocouple"
+    ]
+},
+  "bbox": [77.557831,12.998224,77.557831,12.998224],
+  "geometry": {"coordinates":[77.557831,12.998224],"type":"Point"}
+}

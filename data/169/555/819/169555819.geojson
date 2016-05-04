@@ -1,0 +1,54 @@
+{
+  "id": 169555819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.873367,31.635395,74.873367,31.635395",
+    "geom:latitude":31.635395,
+    "geom:longitude":74.873367,
+    "iso:country":"IN",
+    "sg:address":"Queens Road",
+    "sg:city":"Amritsar",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 183566046",
+    "sg:postcode":"143001",
+    "sg:province":"Punjab",
+    "sg:website":"http://www.fhrai.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933839,
+        85632469,
+        102030955,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O7whI3QFqDi1jHZRkmqCz_31.635395_74.873367@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d942f216a2faa98feb3f8aba45a9621c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030955,
+            "neighbourhood_id":85933839,
+            "region_id":85672195,
+            "venue_id":169555819
+        }
+    ],
+    "wof:id":169555819,
+    "wof:lastmodified":1449035495,
+    "wof:name":"Hotel Astoria",
+    "wof:parent_id":85933839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [74.873367,31.635395,74.873367,31.635395],
+  "geometry": {"coordinates":[74.873367,31.635395],"type":"Point"}
+}

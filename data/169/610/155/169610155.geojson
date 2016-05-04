@@ -1,0 +1,64 @@
+{
+  "id": 169610155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.236473,13.046885,80.236473,13.046885",
+    "geom:latitude":13.046885,
+    "geom:longitude":80.236473,
+    "iso:country":"IN",
+    "sg:address":"No: 67 Bazullah Road, T.nagar,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 4269 4111",
+    "sg:postcode":"600017",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.refex.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903935,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QMMrzmFtWN2eCxybtpLJF_13.046885_80.236473@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"596a2a924691d1ddf3ed4e5793dd7e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903935,
+            "region_id":85672245,
+            "venue_id":169610155
+        }
+    ],
+    "wof:id":169610155,
+    "wof:lastmodified":1449035911,
+    "wof:name":"Refex Refrigerants Limited",
+    "wof:parent_id":85903935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [80.236473,13.046885,80.236473,13.046885],
+  "geometry": {"coordinates":[80.236473,13.046885],"type":"Point"}
+}

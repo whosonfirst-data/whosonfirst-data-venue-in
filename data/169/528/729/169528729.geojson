@@ -1,0 +1,63 @@
+{
+  "id": 169528729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.832695,18.933973,72.832695,18.933973",
+    "geom:latitude":18.933973,
+    "geom:longitude":72.832695,
+    "iso:country":"IN",
+    "sg:address":"103, Prospect Chambers, 317/321, Dr. D.n. Road, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2204 2744",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "bulk"
+    ],
+    "sg:website":"http://www.todyindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JrBegq1NI2NjPngbpXTn7_18.933973_72.832695@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6f8cc23afa4d5e08d2d5ace4f0df815e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169528729
+        }
+    ],
+    "wof:id":169528729,
+    "wof:lastmodified":1449033569,
+    "wof:name":"Nandlal Bankatlal Pvt. Ltd.",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk"
+    ]
+},
+  "bbox": [72.832695,18.933973,72.832695,18.933973],
+  "geometry": {"coordinates":[72.832695,18.933973],"type":"Point"}
+}

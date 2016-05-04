@@ -1,0 +1,67 @@
+{
+  "id": 169534007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.822845,18.996307,72.822845,18.996307",
+    "geom:latitude":18.996307,
+    "geom:longitude":72.822845,
+    "iso:country":"IN",
+    "sg:address":"10/2 Mahalaxmi Ind. Est., Lower Parel,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Race Track",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2497 5107",
+    "sg:postcode":"400013",
+    "sg:tags":[
+        "doors/wooden",
+        "door",
+        "panel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931421,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RBIhRgibyMbe0FGe1KyKH_18.996307_72.822845@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6b190c6fb5b239962ba924328875dc97",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931421,
+            "region_id":85672171,
+            "venue_id":169534007
+        }
+    ],
+    "wof:id":169534007,
+    "wof:lastmodified":1449033550,
+    "wof:name":"Glitters",
+    "wof:parent_id":85931421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doors/wooden",
+        "door",
+        "panel"
+    ]
+},
+  "bbox": [72.822845,18.996307,72.822845,18.996307],
+  "geometry": {"coordinates":[72.822845,18.996307],"type":"Point"}
+}

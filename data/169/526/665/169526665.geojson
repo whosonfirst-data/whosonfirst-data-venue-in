@@ -1,0 +1,65 @@
+{
+  "id": 169526665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.87075,19.126095,72.87075,19.126095",
+    "geom:latitude":19.126095,
+    "geom:longitude":72.87075,
+    "iso:country":"IN",
+    "sg:address":"R-1/3, Sunder Nagar, Malad (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2882 1369",
+    "sg:postcode":"400064",
+    "sg:tags":[
+        "infant",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KasHH2j24SwQr7tR376Td_19.126095_72.870750@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"58e51d341e249e36f5651615741dd388",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169526665
+        }
+    ],
+    "wof:id":169526665,
+    "wof:lastmodified":1449033699,
+    "wof:name":"Skb Elastomers",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "infant",
+        "product"
+    ]
+},
+  "bbox": [72.87075,19.126095,72.87075,19.126095],
+  "geometry": {"coordinates":[72.87075,19.126095],"type":"Point"}
+}

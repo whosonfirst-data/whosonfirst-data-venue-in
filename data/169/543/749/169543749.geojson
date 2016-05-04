@@ -1,0 +1,62 @@
+{
+  "id": 169543749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.520416,13.021458,77.520416,13.021458",
+    "geom:latitude":13.021458,
+    "geom:longitude":77.520416,
+    "iso:country":"IN",
+    "sg:address":"91, 9th Main, Peenya 3rd Phase, Peenya Indl. Area,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4117 0810",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "transformer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pK8K1vzWQm2tl6OaSiuPd_13.021458_77.520416@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"402d2e5e3307281611b13f2614820ed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169543749
+        }
+    ],
+    "wof:id":169543749,
+    "wof:lastmodified":1449033334,
+    "wof:name":"Sns Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transformer"
+    ]
+},
+  "bbox": [77.520416,13.021458,77.520416,13.021458],
+  "geometry": {"coordinates":[77.520416,13.021458],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169601411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.357742,22.542849,88.357742,22.542849",
+    "geom:latitude":22.542849,
+    "geom:longitude":88.357742,
+    "iso:country":"IN",
+    "sg:address":"8/2, Louden Street,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2283 6142",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.piyanshu.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931935,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gQunsFXEWpySLnn5717UP_22.542849_88.357742@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"33a9a3bdb6112285e31201b77fe506ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931935,
+            "region_id":85672219,
+            "venue_id":169601411
+        }
+    ],
+    "wof:id":169601411,
+    "wof:lastmodified":1449034147,
+    "wof:name":"Piyanshu Chemicals Pvt. Ltd.",
+    "wof:parent_id":85931935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.357742,22.542849,88.357742,22.542849],
+  "geometry": {"coordinates":[88.357742,22.542849],"type":"Point"}
+}

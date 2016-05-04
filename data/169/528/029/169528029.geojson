@@ -1,0 +1,63 @@
+{
+  "id": 169528029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.852341,19.106558,72.852341,19.106558",
+    "geom:latitude":19.106558,
+    "geom:longitude":72.852341,
+    "iso:country":"IN",
+    "sg:address":"8, Subhash Road, Vile Parle (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2838 8881",
+    "sg:postcode":"400057",
+    "sg:tags":[
+        "box"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931483,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B5vx1kVFeXVJ7FyCLZNdd_19.106558_72.852341@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cdcb8f3f7394221a4750549a97dc9a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931483,
+            "region_id":85672171,
+            "venue_id":169528029
+        }
+    ],
+    "wof:id":169528029,
+    "wof:lastmodified":1449033570,
+    "wof:name":"Best Packaging Pvt. Ltd.",
+    "wof:parent_id":85931483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "box"
+    ]
+},
+  "bbox": [72.852341,19.106558,72.852341,19.106558],
+  "geometry": {"coordinates":[72.852341,19.106558],"type":"Point"}
+}

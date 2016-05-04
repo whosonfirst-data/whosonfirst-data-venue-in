@@ -1,0 +1,67 @@
+{
+  "id": 169531747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.827011,18.942041,72.827011,18.942041",
+    "geom:latitude":18.942041,
+    "geom:longitude":72.827011,
+    "iso:country":"IN",
+    "sg:address":"51, Lotus House, 33a, New Marine Lines,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5631 5801",
+    "sg:postcode":"400020",
+    "sg:tags":[
+        "cover",
+        "cushion"
+    ],
+    "sg:website":"http://www.amitgroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n1E3oSYKNxJAMuLWulzm1_18.942041_72.827011@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a70a439d01c43a3f48b7832b9238ea53",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903889,
+            "region_id":85672171,
+            "venue_id":169531747
+        }
+    ],
+    "wof:id":169531747,
+    "wof:lastmodified":1449033474,
+    "wof:name":"Amit Group Of Companies",
+    "wof:parent_id":85903889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cover",
+        "cushion"
+    ]
+},
+  "bbox": [72.827011,18.942041,72.827011,18.942041],
+  "geometry": {"coordinates":[72.827011,18.942041],"type":"Point"}
+}

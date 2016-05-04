@@ -1,0 +1,64 @@
+{
+  "id": 169540707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.228737,10.512239,76.228737,10.512239",
+    "geom:latitude":10.512239,
+    "geom:longitude":76.228737,
+    "iso:country":"IN",
+    "sg:address":"555, 1st Floor, Avenue Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2225 2973",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "silk"
+    ],
+    "sg:website":"http://www.peacocksilks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783615,
+        85632469,
+        102028409,
+        85672149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iwaI0XeCJHwEdvFjGHNIz_10.512239_76.228737@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a51fffd1e6702f5058df5a4a900a3b26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028409,
+            "neighbourhood_id":85783615,
+            "region_id":85672149,
+            "venue_id":169540707
+        }
+    ],
+    "wof:id":169540707,
+    "wof:lastmodified":1449033977,
+    "wof:name":"Peacock Silks",
+    "wof:parent_id":85783615,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [76.228737,10.512239,76.228737,10.512239],
+  "geometry": {"coordinates":[76.228737,10.512239],"type":"Point"}
+}

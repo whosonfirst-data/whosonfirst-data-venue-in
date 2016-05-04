@@ -1,0 +1,65 @@
+{
+  "id": 169527853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.830635,18.947435,72.830635,18.947435",
+    "geom:latitude":18.947435,
+    "geom:longitude":72.830635,
+    "iso:country":"IN",
+    "sg:address":"150, Princess Street, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2200 2966",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "publisher",
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZbC5ckSH9hTkWLJc97YYk_18.947435_72.830635@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fbc8ecccd38f0c07f606ca249aa73d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169527853
+        }
+    ],
+    "wof:id":169527853,
+    "wof:lastmodified":1449035278,
+    "wof:name":"Bhayani Book Depot",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher",
+        "book"
+    ]
+},
+  "bbox": [72.830635,18.947435,72.830635,18.947435],
+  "geometry": {"coordinates":[72.830635,18.947435],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169599695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.432274,28.669598,77.432274,28.669598",
+    "geom:latitude":28.669598,
+    "geom:longitude":77.432274,
+    "iso:country":"IN",
+    "sg:address":"C-18 & 19, Sec-2,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 306 7008",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vjHEaZV9CYbtsNFIglCCn_28.669598_77.432274@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"568a7277b6d26719103046bba84731f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169599695
+        }
+    ],
+    "wof:id":169599695,
+    "wof:lastmodified":1449034206,
+    "wof:name":"Pashupatinath Paper Convertor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [77.432274,28.669598,77.432274,28.669598],
+  "geometry": {"coordinates":[77.432274,28.669598],"type":"Point"}
+}

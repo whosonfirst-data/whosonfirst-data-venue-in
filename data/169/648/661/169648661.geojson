@@ -1,0 +1,67 @@
+{
+  "id": 169648661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.198911,28.559421,77.198911,28.559421",
+    "geom:latitude":28.559421,
+    "geom:longitude":77.198911,
+    "iso:country":"IN",
+    "sg:address":"24/B, Arjun F-Block, vikaspuri",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110018",
+    "sg:tags":[
+        "flash-maker",
+        "flash-movies",
+        "fast-flash"
+    ],
+    "sg:website":"http://www.toufee.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928219,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65Tm5uwZ8GQajdweEOnhgE_28.559421_77.198911@1308163237"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3a7dbbc98574ea23b822b6cbe320dd74",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928219,
+            "region_id":85672123,
+            "venue_id":169648661
+        }
+    ],
+    "wof:id":169648661,
+    "wof:lastmodified":1449033587,
+    "wof:name":"Toufee",
+    "wof:parent_id":85928219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flash-maker",
+        "flash-movies",
+        "fast-flash"
+    ]
+},
+  "bbox": [77.198911,28.559421,77.198911,28.559421],
+  "geometry": {"coordinates":[77.198911,28.559421],"type":"Point"}
+}

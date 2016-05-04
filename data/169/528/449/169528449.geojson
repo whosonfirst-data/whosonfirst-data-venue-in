@@ -1,0 +1,63 @@
+{
+  "id": 169528449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.864342,19.275909,72.864342,19.275909",
+    "geom:latitude":19.275909,
+    "geom:longitude":72.864342,
+    "iso:country":"IN",
+    "sg:address":"Sector 4/c-8/104, Shanti Nagar, Mira Road (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2811 8852",
+    "sg:postcode":"401107",
+    "sg:tags":[
+        "building"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931413,
+        85632469,
+        102031079,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vhcgSCNjimHHjfMJFUKI6_19.275909_72.864342@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"dffab524767b91f03b7bbcb228866698",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031079,
+            "neighbourhood_id":85931413,
+            "region_id":85672171,
+            "venue_id":169528449
+        }
+    ],
+    "wof:id":169528449,
+    "wof:lastmodified":1449033571,
+    "wof:name":"Excel Marketing Co",
+    "wof:parent_id":85931413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building"
+    ]
+},
+  "bbox": [72.864342,19.275909,72.864342,19.275909],
+  "geometry": {"coordinates":[72.864342,19.275909],"type":"Point"}
+}

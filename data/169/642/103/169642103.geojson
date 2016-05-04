@@ -1,0 +1,63 @@
+{
+  "id": 169642103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.54715,13.009912,77.54715,13.009912",
+    "geom:latitude":13.009912,
+    "geom:longitude":77.54715,
+    "iso:country":"IN",
+    "sg:address":"B-161, 4th Main Road, 2nd Stage, Peenya Industrial Estate,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2836 2665",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "polymer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6S32Og89PcHmC9JlOw6Xzs_13.009912_77.547150@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"18e38d7f4a38387e335baf320ca7971b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169642103
+        }
+    ],
+    "wof:id":169642103,
+    "wof:lastmodified":1449032878,
+    "wof:name":"Veeyor Polymers (p) Ltd.",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [77.54715,13.009912,77.54715,13.009912],
+  "geometry": {"coordinates":[77.54715,13.009912],"type":"Point"}
+}

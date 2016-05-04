@@ -1,0 +1,63 @@
+{
+  "id": 169559963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.224808,13.014091,80.224808,13.014091",
+    "geom:latitude":13.014091,
+    "geom:longitude":80.224808,
+    "iso:country":"IN",
+    "sg:address":"No. 90/d, Ebenezer Avenue, Velachery Road,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2230 0823",
+    "sg:postcode":"600032",
+    "sg:tags":[
+        "dyestuff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903867,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56Y6gf4sYHSCRspjiBKmyV_13.014091_80.224808@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"364b48cf2128b18b1422ab873b0d4768",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903867,
+            "region_id":85672245,
+            "venue_id":169559963
+        }
+    ],
+    "wof:id":169559963,
+    "wof:lastmodified":1449035236,
+    "wof:name":"Daisun Trading Pvt. Ltd.",
+    "wof:parent_id":85903867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dyestuff"
+    ]
+},
+  "bbox": [80.224808,13.014091,80.224808,13.014091],
+  "geometry": {"coordinates":[80.224808,13.014091],"type":"Point"}
+}

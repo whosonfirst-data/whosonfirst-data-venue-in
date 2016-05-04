@@ -1,0 +1,63 @@
+{
+  "id": 169540221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.622826,12.938178,77.622826,12.938178",
+    "geom:latitude":12.938178,
+    "geom:longitude":77.622826,
+    "iso:country":"IN",
+    "sg:address":"No. 6th Block, Koramangala,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2563 4470",
+    "sg:postcode":"560095",
+    "sg:tags":[
+        "shirt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930917,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RypHJuZzUVgnWW1QYxjWN_12.938178_77.622826@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"73fc30866ff333e2e60b86026f68ac3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930917,
+            "region_id":85672165,
+            "venue_id":169540221
+        }
+    ],
+    "wof:id":169540221,
+    "wof:lastmodified":1449033977,
+    "wof:name":"Enay Apparels",
+    "wof:parent_id":85930917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shirt"
+    ]
+},
+  "bbox": [77.622826,12.938178,77.622826,12.938178],
+  "geometry": {"coordinates":[77.622826,12.938178],"type":"Point"}
+}

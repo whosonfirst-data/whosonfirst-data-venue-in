@@ -1,0 +1,65 @@
+{
+  "id": 169581441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.492043,17.433548,78.492043,17.433548",
+    "geom:latitude":17.433548,
+    "geom:longitude":78.492043,
+    "iso:country":"IN",
+    "sg:address":"1-5-518, Hill Street, Ranigunj,",
+    "sg:city":"Secunderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2771 4102",
+    "sg:postcode":"500003",
+    "sg:tags":[
+        "chemical",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930705,
+        85632469,
+        102028703,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_012o4T7N7TKDlw9wrABHYP_17.433548_78.492043@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"19c0377cff6cb0fc2f02bf7b56718507",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028703,
+            "neighbourhood_id":85930705,
+            "region_id":85672141,
+            "venue_id":169581441
+        }
+    ],
+    "wof:id":169581441,
+    "wof:lastmodified":1449033380,
+    "wof:name":"Kadakia Trading Company",
+    "wof:parent_id":85930705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "-"
+    ]
+},
+  "bbox": [78.492043,17.433548,78.492043,17.433548],
+  "geometry": {"coordinates":[78.492043,17.433548],"type":"Point"}
+}

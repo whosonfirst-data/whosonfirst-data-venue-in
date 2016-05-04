@@ -1,0 +1,66 @@
+{
+  "id": 169526093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.832726,18.955664,72.832726,18.955664",
+    "geom:latitude":18.955664,
+    "geom:longitude":72.832726,
+    "iso:country":"IN",
+    "sg:address":"No. 36, Mohamedali Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2342 4806",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "product",
+        "audio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qoIurDinwHaa5GNP1Mx6P_18.955664_72.832726@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1579aed9352944ecb52d70dc33c890f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903863,
+            "region_id":85672171,
+            "venue_id":169526093
+        }
+    ],
+    "wof:id":169526093,
+    "wof:lastmodified":1449033697,
+    "wof:name":"Taj Publishers & Perfumers",
+    "wof:parent_id":85903863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "audio"
+    ]
+},
+  "bbox": [72.832726,18.955664,72.832726,18.955664],
+  "geometry": {"coordinates":[72.832726,18.955664],"type":"Point"}
+}

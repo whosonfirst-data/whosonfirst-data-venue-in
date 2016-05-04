@@ -1,0 +1,61 @@
+{
+  "id": 169644495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.52063,16.589197,80.52063,16.589197",
+    "geom:latitude":16.589197,
+    "geom:longitude":80.52063,
+    "iso:country":"IN",
+    "sg:address":"161/1, Mahatma Gandhi Road, (3rd Floor, Room No: 77),",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2270 8999",
+    "sg:postcode":"700007",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xqUGK2S8pH00uAyRt25ca_16.589197_80.520630@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"562cc893c7e5c6493d907eb4049cfc60",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169644495
+        }
+    ],
+    "wof:id":169644495,
+    "wof:lastmodified":1449034576,
+    "wof:name":"Vinayak Sales Corporation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.52063,16.589197,80.52063,16.589197],
+  "geometry": {"coordinates":[80.52063,16.589197],"type":"Point"}
+}

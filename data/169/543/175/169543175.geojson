@@ -1,0 +1,66 @@
+{
+  "id": 169543175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.536148,13.046322,77.536148,13.046322",
+    "geom:latitude":13.046322,
+    "geom:longitude":77.536148,
+    "iso:country":"IN",
+    "sg:address":"A-16, Hmt Industrial Estate,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Emissions Testing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2838 9240",
+    "sg:postcode":"560031",
+    "sg:tags":[
+        "measuring",
+        "instrument"
+    ],
+    "sg:website":"http://www.purushothamengg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903877,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cHJU36iC9OMkIwnAyG1Bh_13.046322_77.536148@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4f803837c637c394e079827cbf67644a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903877,
+            "region_id":85672165,
+            "venue_id":169543175
+        }
+    ],
+    "wof:id":169543175,
+    "wof:lastmodified":1449033335,
+    "wof:name":"Purushotham Engineering Industries",
+    "wof:parent_id":85903877,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "measuring",
+        "instrument"
+    ]
+},
+  "bbox": [77.536148,13.046322,77.536148,13.046322],
+  "geometry": {"coordinates":[77.536148,13.046322],"type":"Point"}
+}

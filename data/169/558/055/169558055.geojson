@@ -1,0 +1,53 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.348007,22.545883,88.348007,22.545883",
+    "geom:latitude":22.545883,
+    "geom:longitude":88.348007,
+    "iso:country":"IN",
+    "sg:address":"24, Park Street",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2229 0326",
+    "sg:postcode":"700016",
+    "sg:province":"West Bengal",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931951,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E34NjKIFKCRLdi2V9GPzN_22.545883_88.348007@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bef75c39e46baa51f47bb31bbe35ea26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931951,
+            "region_id":85672219,
+            "venue_id":169558055
+        }
+    ],
+    "wof:id":169558055,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Omega Coaters Pvt Ltd",
+    "wof:parent_id":85931951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [88.348007,22.545883,88.348007,22.545883],
+  "geometry": {"coordinates":[88.348007,22.545883],"type":"Point"}
+}

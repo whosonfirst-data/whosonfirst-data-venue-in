@@ -1,0 +1,65 @@
+{
+  "id": 169637521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.780754,26.897091,75.780754,26.897091",
+    "geom:latitude":26.897091,
+    "geom:longitude":75.780754,
+    "iso:country":"IN",
+    "sg:address":"S.no.37, Ramnagar,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2703 1543",
+    "sg:postcode":"411014",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934491,
+        85632469,
+        102030017,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ffGnqrTv27XJ03W67cUuz_26.897091_75.780754@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d8bf11c9f7552a70a125a43d3462f8df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030017,
+            "neighbourhood_id":85934491,
+            "region_id":85672201,
+            "venue_id":169637521
+        }
+    ],
+    "wof:id":169637521,
+    "wof:lastmodified":1449032690,
+    "wof:name":"Triveni Powdercoating",
+    "wof:parent_id":85934491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [75.780754,26.897091,75.780754,26.897091],
+  "geometry": {"coordinates":[75.780754,26.897091],"type":"Point"}
+}

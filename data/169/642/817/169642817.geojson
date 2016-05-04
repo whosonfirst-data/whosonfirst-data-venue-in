@@ -1,0 +1,63 @@
+{
+  "id": 169642817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.391701,22.554886,88.391701,22.554886",
+    "geom:latitude":22.554886,
+    "geom:longitude":88.391701,
+    "iso:country":"IN",
+    "sg:address":"54/3, Debendra Chandra Dey Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2329 0934",
+    "sg:postcode":"700015",
+    "sg:tags":[
+        "acid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85932037,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LTKKiGWiBAgAjRofw1fW6_22.554886_88.391701@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"da00295c640496c26a284793290afd02",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85932037,
+            "region_id":85672219,
+            "venue_id":169642817
+        }
+    ],
+    "wof:id":169642817,
+    "wof:lastmodified":1449032879,
+    "wof:name":"Vibgyor Chemicals",
+    "wof:parent_id":85932037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [88.391701,22.554886,88.391701,22.554886],
+  "geometry": {"coordinates":[88.391701,22.554886],"type":"Point"}
+}

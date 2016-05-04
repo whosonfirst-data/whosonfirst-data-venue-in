@@ -1,0 +1,66 @@
+{
+  "id": 169604373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.354134,22.568083,88.354134,22.568083",
+    "geom:latitude":22.568083,
+    "geom:longitude":88.354134,
+    "iso:country":"IN",
+    "sg:address":"3, Princep Lane, 1st Floor.,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2215 6096",
+    "sg:postcode":"700072",
+    "sg:tags":[
+        "plant",
+        "processing"
+    ],
+    "sg:website":"http://www.pevindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931943,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dNcNQoFaqnJbY9inJbZhI_22.568083_88.354134@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6617ebc7489e609fad77865d8a2295ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931943,
+            "region_id":85672219,
+            "venue_id":169604373
+        }
+    ],
+    "wof:id":169604373,
+    "wof:lastmodified":1449035571,
+    "wof:name":"Process Eqpts. & Vessels Eng. Co.",
+    "wof:parent_id":85931943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [88.354134,22.568083,88.354134,22.568083],
+  "geometry": {"coordinates":[88.354134,22.568083],"type":"Point"}
+}

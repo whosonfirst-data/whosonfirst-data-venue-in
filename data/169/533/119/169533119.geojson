@@ -1,0 +1,63 @@
+{
+  "id": 169533119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.846359,19.161934,72.846359,19.161934",
+    "geom:latitude":19.161934,
+    "geom:longitude":72.846359,
+    "iso:country":"IN",
+    "sg:address":"85, Jawahar Nagar, 2nd Floor, Goregaon(w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2872 2792",
+    "sg:postcode":"400062",
+    "sg:tags":[
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qKjBjRCvZefzqWbEhZYAS_19.161934_72.846359@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b4f09aadae36c39abb3771738d5444dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169533119
+        }
+    ],
+    "wof:id":169533119,
+    "wof:lastmodified":1449032642,
+    "wof:name":"Bhavin Diamond Indus. (pvt) Ltd.",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.846359,19.161934,72.846359,19.161934],
+  "geometry": {"coordinates":[72.846359,19.161934],"type":"Point"}
+}

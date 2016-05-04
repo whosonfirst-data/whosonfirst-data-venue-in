@@ -1,0 +1,64 @@
+{
+  "id": 169648507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.750298,19.992355,73.750298,19.992355",
+    "geom:latitude":19.992355,
+    "geom:longitude":73.750298,
+    "iso:country":"IN",
+    "sg:address":"H-15, Midc Satpur,",
+    "sg:city":"Nashik",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 253 236 3505",
+    "sg:postcode":"422007",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029219,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aHkAuveeo3vuNfnTiDzb4_19.992355_73.750298@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"defa308a65060a8a26cce1e67b611238",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029219,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169648507
+        }
+    ],
+    "wof:id":169648507,
+    "wof:lastmodified":1449033584,
+    "wof:name":"Zodiac Engineering",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [73.750298,19.992355,73.750298,19.992355],
+  "geometry": {"coordinates":[73.750298,19.992355],"type":"Point"}
+}

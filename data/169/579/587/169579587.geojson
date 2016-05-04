@@ -1,0 +1,62 @@
+{
+  "id": 169579587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"79.197495,21.216736,79.197495,21.216736",
+    "geom:latitude":21.216736,
+    "geom:longitude":79.197495,
+    "iso:country":"IN",
+    "sg:address":"23/249, Jeoni Mandi,",
+    "sg:city":"Agra",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 562 252 0611",
+    "sg:postcode":"282004",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029881,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ozWA05ZogTrtBiFElxiV4_21.216736_79.197495@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a52188e4361eedf899df4e74c6b1adc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029881,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169579587
+        }
+    ],
+    "wof:id":169579587,
+    "wof:lastmodified":1449033741,
+    "wof:name":"Indian Commercial Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [79.197495,21.216736,79.197495,21.216736],
+  "geometry": {"coordinates":[79.197495,21.216736],"type":"Point"}
+}

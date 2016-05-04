@@ -1,0 +1,63 @@
+{
+  "id": 169622661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.269157,13.032362,80.269157,13.032362",
+    "geom:latitude":13.032362,
+    "geom:longitude":80.269157,
+    "iso:country":"IN",
+    "sg:address":"No. 77, South Mada Street,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 5541 4207",
+    "sg:postcode":"600019",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931689,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_114A4WfUks0BgVFxSeO3Y5_13.032362_80.269157@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3f35e0c1b3df224c490cfc59a69608af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931689,
+            "region_id":85672245,
+            "venue_id":169622661
+        }
+    ],
+    "wof:id":169622661,
+    "wof:lastmodified":1449035369,
+    "wof:name":"Shri Skandaa Agency",
+    "wof:parent_id":85931689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [80.269157,13.032362,80.269157,13.032362],
+  "geometry": {"coordinates":[80.269157,13.032362],"type":"Point"}
+}

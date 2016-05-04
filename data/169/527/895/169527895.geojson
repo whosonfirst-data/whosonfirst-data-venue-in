@@ -1,0 +1,63 @@
+{
+  "id": 169527895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.825043,19.010891,72.825043,19.010891",
+    "geom:latitude":19.010891,
+    "geom:longitude":72.825043,
+    "iso:country":"IN",
+    "sg:address":"Unit No. 114/115, 1st Floor, Bussa Industrial Estate, Near Century Bazar,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2422 4040",
+    "sg:postcode":"400025",
+    "sg:tags":[
+        "bottle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931467,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M1TGby1rfogUiLtEhgsfG_19.010891_72.825043@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8d57badf59142a3675773b36569edb86",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931467,
+            "region_id":85672171,
+            "venue_id":169527895
+        }
+    ],
+    "wof:id":169527895,
+    "wof:lastmodified":1449035277,
+    "wof:name":"Wallfrin International",
+    "wof:parent_id":85931467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bottle"
+    ]
+},
+  "bbox": [72.825043,19.010891,72.825043,19.010891],
+  "geometry": {"coordinates":[72.825043,19.010891],"type":"Point"}
+}

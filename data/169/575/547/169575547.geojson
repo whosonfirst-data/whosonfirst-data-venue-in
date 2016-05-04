@@ -1,0 +1,63 @@
+{
+  "id": 169575547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.061562,28.5888,77.061562,28.5888",
+    "geom:latitude":28.5888,
+    "geom:longitude":77.061562,
+    "iso:country":"IN",
+    "sg:address":"17/10/e, Mall Road,",
+    "sg:city":"24 Parganas (n)",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 6525 2276",
+    "sg:postcode":"700080",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927875,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lC3Me2GShzjOorP6moJuQ_28.588800_77.061562@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"918bc2844c85486445bf0ecf923cc79e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927875,
+            "region_id":85672123,
+            "venue_id":169575547
+        }
+    ],
+    "wof:id":169575547,
+    "wof:lastmodified":1449033640,
+    "wof:name":"B. S. Engineering Enterprise",
+    "wof:parent_id":85927875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.061562,28.5888,77.061562,28.5888],
+  "geometry": {"coordinates":[77.061562,28.5888],"type":"Point"}
+}

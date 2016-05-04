@@ -1,0 +1,64 @@
+{
+  "id": 169605223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.93277,19.117626,72.93277,19.117626",
+    "geom:latitude":19.117626,
+    "geom:longitude":72.93277,
+    "iso:country":"IN",
+    "sg:address":"3/328/4001, Tagore Nagar, Vikhroli (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2574 8480",
+    "sg:postcode":"400083",
+    "sg:tags":[
+        "paper"
+    ],
+    "sg:website":"http://www.pyramidchemicals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931627,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HCbt31tSNtYO2veZmoPkL_19.117626_72.932770@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4a62568e9c806dd81db4a7e647d2ac1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931627,
+            "region_id":85672171,
+            "venue_id":169605223
+        }
+    ],
+    "wof:id":169605223,
+    "wof:lastmodified":1449034286,
+    "wof:name":"Pyramid Chemicals",
+    "wof:parent_id":85931627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paper"
+    ]
+},
+  "bbox": [72.93277,19.117626,72.93277,19.117626],
+  "geometry": {"coordinates":[72.93277,19.117626],"type":"Point"}
+}

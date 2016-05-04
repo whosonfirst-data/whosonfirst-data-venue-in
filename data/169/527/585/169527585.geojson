@@ -1,0 +1,61 @@
+{
+  "id": 169527585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.818497,18.91408,72.818497,18.91408",
+    "geom:latitude":18.91408,
+    "geom:longitude":72.818497,
+    "iso:country":"IN",
+    "sg:address":"1705, World Trade Centre, Cuffe Parade,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"400005",
+    "sg:tags":[
+        "bedspread"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903829,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f960gj9mQj9rYAo9uAUGf_18.914080_72.818497@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6bde5f7f510b07e9571442feb7c00b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903829,
+            "region_id":-1,
+            "venue_id":169527585
+        }
+    ],
+    "wof:id":169527585,
+    "wof:lastmodified":1449035278,
+    "wof:name":"Seri Fashion",
+    "wof:parent_id":85903829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bedspread"
+    ]
+},
+  "bbox": [72.818497,18.91408,72.818497,18.91408],
+  "geometry": {"coordinates":[72.818497,18.91408],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169626107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.116394,15.350564,75.116394,15.350564",
+    "geom:latitude":15.350564,
+    "geom:longitude":75.116394,
+    "iso:country":"IN",
+    "sg:address":"C-385, Industrial Estate, Gokul Road,",
+    "sg:city":"Hubli",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 836 233 0072",
+    "sg:postcode":"580030",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030067,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1njXFvGMq8AlqkKDenyYrQ_15.350564_75.116394@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"da4a897bc6bc1caf014726d666af0f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030067,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169626107
+        }
+    ],
+    "wof:id":169626107,
+    "wof:lastmodified":1449035968,
+    "wof:name":"Sona Industrial Elastomers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [75.116394,15.350564,75.116394,15.350564],
+  "geometry": {"coordinates":[75.116394,15.350564],"type":"Point"}
+}

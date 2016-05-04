@@ -1,0 +1,62 @@
+{
+  "id": 169635205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.177551,28.661634,77.177551,28.661634",
+    "geom:latitude":28.661634,
+    "geom:longitude":77.177551,
+    "iso:country":"IN",
+    "sg:address":"408/5-a-9, Street No.4, Ind. Area Anand Parbat,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "chemical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928115,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ls1PKAQSjOSmRg6Q6MU9D_28.661634_77.177551@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e522d8e441b769abfe915f66b6d69b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928115,
+            "region_id":85672123,
+            "venue_id":169635205
+        }
+    ],
+    "wof:id":169635205,
+    "wof:lastmodified":1449034098,
+    "wof:name":"Thakur Enterprises India",
+    "wof:parent_id":85928115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical"
+    ]
+},
+  "bbox": [77.177551,28.661634,77.177551,28.661634],
+  "geometry": {"coordinates":[77.177551,28.661634],"type":"Point"}
+}

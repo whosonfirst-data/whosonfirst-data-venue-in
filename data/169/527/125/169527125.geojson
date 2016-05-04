@@ -1,0 +1,71 @@
+{
+  "id": 169527125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833771,18.949526,72.833771,18.949526",
+    "geom:latitude":18.949526,
+    "geom:longitude":72.833771,
+    "iso:country":"IN",
+    "sg:address":"132, Narayan Dhuru Street,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2341 7999",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "bearing",
+        "bush",
+        "ball",
+        "roller",
+        "/"
+    ],
+    "sg:website":"http://www.bombaybearings.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HFJrCH9EmnGnqTOkVZtWx_18.949526_72.833771@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9149ffcc506063729db6086be8730f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169527125
+        }
+    ],
+    "wof:id":169527125,
+    "wof:lastmodified":1449035280,
+    "wof:name":"Bombay Bearings",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bearing",
+        "bush",
+        "ball",
+        "roller",
+        "/"
+    ]
+},
+  "bbox": [72.833771,18.949526,72.833771,18.949526],
+  "geometry": {"coordinates":[72.833771,18.949526],"type":"Point"}
+}

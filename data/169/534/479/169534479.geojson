@@ -1,0 +1,70 @@
+{
+  "id": 169534479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.825684,19.00597,72.825684,19.00597",
+    "geom:latitude":19.00597,
+    "geom:longitude":72.825684,
+    "iso:country":"IN",
+    "sg:address":"9/129, Adarsh Nagar, Prabhadevi,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2422 1969",
+    "sg:postcode":"400025",
+    "sg:tags":[
+        "lighting",
+        "product",
+        "electrical",
+        "component",
+        "/"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903999,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WWvaMBB31ZIaKgts8UWwe_19.005970_72.825684@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ca72d339d18a52313ed3b643cb2ec623",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903999,
+            "region_id":85672171,
+            "venue_id":169534479
+        }
+    ],
+    "wof:id":169534479,
+    "wof:lastmodified":1449033547,
+    "wof:name":"Keshkamat And Company",
+    "wof:parent_id":85903999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "product",
+        "electrical",
+        "component",
+        "/"
+    ]
+},
+  "bbox": [72.825684,19.00597,72.825684,19.00597],
+  "geometry": {"coordinates":[72.825684,19.00597],"type":"Point"}
+}

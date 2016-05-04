@@ -1,0 +1,58 @@
+{
+  "id": 169651029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.550798,12.924908,77.550798,12.924908",
+    "geom:latitude":12.924908,
+    "geom:longitude":77.550798,
+    "iso:country":"IN",
+    "sg:address":"Outer Ring Road Ballendur Post",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560103",
+    "sg:website":"http://www.careernet.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931103,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PQpHR8sdlIDVU1M6a9OZg_12.924908_77.550798@1308163238"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0cf9bac44a536af9e47a9c4236280294",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931103,
+            "region_id":85672165,
+            "venue_id":169651029
+        }
+    ],
+    "wof:id":169651029,
+    "wof:lastmodified":1449033346,
+    "wof:name":"CareerNet",
+    "wof:parent_id":85931103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.550798,12.924908,77.550798,12.924908],
+  "geometry": {"coordinates":[77.550798,12.924908],"type":"Point"}
+}

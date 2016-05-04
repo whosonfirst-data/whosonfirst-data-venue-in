@@ -1,0 +1,57 @@
+{
+  "id": 169648607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-1.767693,50.744782,-1.767693,50.744782",
+    "geom:latitude":50.744782,
+    "geom:longitude":-1.767693,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 44 & 97A Electronics City , Hosur Road",
+    "sg:city":"Bangalore ",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560100",
+    "sg:website":"http://www.infosys.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85790471,
+        85633159,
+        85683805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6acvfq7ncvAb2Encgb0j95_50.744782_-1.767693@1308163237"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"50fdc8835c924abc71e8dee00dbc69cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633159,
+            "locality_id":-1,
+            "neighbourhood_id":85790471,
+            "region_id":85683805,
+            "venue_id":169648607
+        }
+    ],
+    "wof:id":169648607,
+    "wof:lastmodified":1449033582,
+    "wof:name":"Infosys Technologies",
+    "wof:parent_id":85790471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-1.767693,50.744782,-1.767693,50.744782],
+  "geometry": {"coordinates":[-1.767693,50.744782],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169579949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.83181,18.948246,72.83181,18.948246",
+    "geom:latitude":18.948246,
+    "geom:longitude":72.83181,
+    "iso:country":"IN",
+    "sg:address":"246/3b, Mangaldas Building, Mangaldas Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5633 1114",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "fine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l6EsWQ0m1Hn13qlOif30l_18.948246_72.831810@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8440811167a1d693092bd965e21b9a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169579949
+        }
+    ],
+    "wof:id":169579949,
+    "wof:lastmodified":1449033741,
+    "wof:name":"Interchemie",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fine"
+    ]
+},
+  "bbox": [72.83181,18.948246,72.83181,18.948246],
+  "geometry": {"coordinates":[72.83181,18.948246],"type":"Point"}
+}

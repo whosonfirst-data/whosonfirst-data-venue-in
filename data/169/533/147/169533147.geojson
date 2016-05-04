@@ -1,0 +1,63 @@
+{
+  "id": 169533147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.827606,18.973892,72.827606,18.973892",
+    "geom:latitude":18.973892,
+    "geom:longitude":72.827606,
+    "iso:country":"IN",
+    "sg:address":"21/54-a, Maulana Azad Road, Rangwala Bldg. 4,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2305 3204",
+    "sg:postcode":"400011",
+    "sg:tags":[
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931453,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E95RNAZJvGK1BWvi7Ne5s_18.973892_72.827606@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"843dfd47223e6f905f1ef3a02b87d6f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931453,
+            "region_id":85672171,
+            "venue_id":169533147
+        }
+    ],
+    "wof:id":169533147,
+    "wof:lastmodified":1449032643,
+    "wof:name":"Luminary Exports",
+    "wof:parent_id":85931453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.827606,18.973892,72.827606,18.973892],
+  "geometry": {"coordinates":[72.827606,18.973892],"type":"Point"}
+}

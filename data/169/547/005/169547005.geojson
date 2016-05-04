@@ -1,0 +1,63 @@
+{
+  "id": 169547005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.333527,11.123729,77.333527,11.123729",
+    "geom:latitude":11.123729,
+    "geom:longitude":77.333527,
+    "iso:country":"IN",
+    "sg:address":"No. 9/14, Asher Nagar, 3rd Street,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 309 2140",
+    "sg:postcode":"641601",
+    "sg:tags":[
+        "menswear"
+    ],
+    "sg:website":"http://www.asianknit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028425,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oNJxR9FI5bDO53dusdkPz_11.123729_77.333527@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6837a1f5801fedfd09d9de6555598711",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028425,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169547005
+        }
+    ],
+    "wof:id":169547005,
+    "wof:lastmodified":1449033008,
+    "wof:name":"Asian Knit Corporation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "menswear"
+    ]
+},
+  "bbox": [77.333527,11.123729,77.333527,11.123729],
+  "geometry": {"coordinates":[77.333527,11.123729],"type":"Point"}
+}

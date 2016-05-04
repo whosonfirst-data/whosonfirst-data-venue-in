@@ -1,0 +1,63 @@
+{
+  "id": 169548241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.125221,8.797807,78.125221,8.797807",
+    "geom:latitude":8.797807,
+    "geom:longitude":78.125221,
+    "iso:country":"IN",
+    "sg:address":"106, J/64, Millerpuram,",
+    "sg:city":"Tuticorin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 461 239 2516",
+    "sg:postcode":"628008",
+    "sg:tags":[
+        "good",
+        "consumer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l7ardY8oqoadqVFcXeks8_8.797807_78.125221@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e2bf9c2d72e9c86177a58dc52e7674be",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169548241
+        }
+    ],
+    "wof:id":169548241,
+    "wof:lastmodified":1449034974,
+    "wof:name":"Ajitesh Imports & Exports",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "good",
+        "consumer"
+    ]
+},
+  "bbox": [78.125221,8.797807,78.125221,8.797807],
+  "geometry": {"coordinates":[78.125221,8.797807],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169548671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.630066,13.018495,77.630066,13.018495",
+    "geom:latitude":13.018495,
+    "geom:longitude":77.630066,
+    "iso:country":"IN",
+    "sg:address":"31-a, Emperor Street,",
+    "sg:city":"Tuticorin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 461 232 6989",
+    "sg:postcode":"628001",
+    "sg:tags":[
+        "salt"
+    ],
+    "sg:website":"http://www.sbmsalt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931107,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OvqMGWWuVLvqMgpWiVhNP_13.018495_77.630066@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"14ac6c14e53800a350ab41b21e0742c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931107,
+            "region_id":85672165,
+            "venue_id":169548671
+        }
+    ],
+    "wof:id":169548671,
+    "wof:lastmodified":1449034972,
+    "wof:name":"Sri Balamurugan Trading Co.",
+    "wof:parent_id":85931107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salt"
+    ]
+},
+  "bbox": [77.630066,13.018495,77.630066,13.018495],
+  "geometry": {"coordinates":[77.630066,13.018495],"type":"Point"}
+}

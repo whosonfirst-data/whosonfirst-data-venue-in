@@ -1,0 +1,54 @@
+{
+  "id": 169571937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.856178,19.017656,72.856178,19.017656",
+    "geom:latitude":19.017656,
+    "geom:longitude":72.856178,
+    "iso:country":"IN",
+    "sg:address":"Bombay Mutual Annexe Building, 2nd Floor, Fort",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2266 1006",
+    "sg:postcode":"400001",
+    "sg:province":"Maharashtra",
+    "sg:website":"http://www.navitasinternational.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903993,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HzfStI3ghbJQ6Qupyt4Jq_19.017656_72.856178@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"71a151fdaa2cc8fcb5595b707ef38525",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903993,
+            "region_id":85672171,
+            "venue_id":169571937
+        }
+    ],
+    "wof:id":169571937,
+    "wof:lastmodified":1449034945,
+    "wof:name":"Navitas International",
+    "wof:parent_id":85903993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.856178,19.017656,72.856178,19.017656],
+  "geometry": {"coordinates":[72.856178,19.017656],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169575025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.590981,23.016829,72.590981,23.016829",
+    "geom:latitude":23.016829,
+    "geom:longitude":72.590981,
+    "iso:country":"IN",
+    "sg:address":"2137/38, Astodia Darwaja,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 2214 9988",
+    "sg:postcode":"380001",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "sg:website":"http://www.asian-dyes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928689,
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uvt71MfwtLlughSgiD6l7_23.016829_72.590981@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d83f7ac53188a7cd0042ed9fd7d6ab57",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":85928689,
+            "region_id":85672249,
+            "venue_id":169575025
+        }
+    ],
+    "wof:id":169575025,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Asian Dyestuff Industries",
+    "wof:parent_id":85928689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [72.590981,23.016829,72.590981,23.016829],
+  "geometry": {"coordinates":[72.590981,23.016829],"type":"Point"}
+}

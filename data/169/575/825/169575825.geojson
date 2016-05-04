@@ -1,0 +1,63 @@
+{
+  "id": 169575825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.274277,28.630932,77.274277,28.630932",
+    "geom:latitude":28.630932,
+    "geom:longitude":77.274277,
+    "iso:country":"IN",
+    "sg:address":"3/110, Lalita Park, Laxmi Nagar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2254 6048",
+    "sg:postcode":"110092",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.bansgroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53CSbuRbWPBJ6dRtBINYEC_28.630932_77.274277@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8e3e7f9fe81ef028f97f762862b0c685",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169575825
+        }
+    ],
+    "wof:id":169575825,
+    "wof:lastmodified":1449033640,
+    "wof:name":"Bans Aerosol Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.274277,28.630932,77.274277,28.630932],
+  "geometry": {"coordinates":[77.274277,28.630932],"type":"Point"}
+}

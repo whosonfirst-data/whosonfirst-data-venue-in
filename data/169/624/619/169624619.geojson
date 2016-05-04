@@ -1,0 +1,64 @@
+{
+  "id": 169624619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.210243,22.292427,73.210243,22.292427",
+    "geom:latitude":22.292427,
+    "geom:longitude":73.210243,
+    "iso:country":"IN",
+    "sg:address":"130, J P Tower, Tagore Road,",
+    "sg:city":"Rajkot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 281 248 3151",
+    "sg:postcode":"360002",
+    "sg:tags":[
+        "pigment"
+    ],
+    "sg:website":"http://www.sindhublue.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933525,
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rnTeyzkF6siNROyUY8JuF_22.292427_73.210243@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"665ac58be4f75f1a3f14be080c07d4b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":85933525,
+            "region_id":85672249,
+            "venue_id":169624619
+        }
+    ],
+    "wof:id":169624619,
+    "wof:lastmodified":1449034956,
+    "wof:name":"Sindhu Ultramarine Chemicals Pvt. Ltd.",
+    "wof:parent_id":85933525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [73.210243,22.292427,73.210243,22.292427],
+  "geometry": {"coordinates":[73.210243,22.292427],"type":"Point"}
+}

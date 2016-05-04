@@ -1,0 +1,63 @@
+{
+  "id": 169549175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.1642,28.563053,77.1642,28.563053",
+    "geom:latitude":28.563053,
+    "geom:longitude":77.1642,
+    "iso:country":"IN",
+    "sg:address":"11-a, Opp. Town Hall,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 242 2929",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "handicraft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927949,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_016Q2wr0qY7uDxjHvAFsz7_28.563053_77.164200@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a7a5e3d8302a88ca6c1076b0009e3eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927949,
+            "region_id":85672123,
+            "venue_id":169549175
+        }
+    ],
+    "wof:id":169549175,
+    "wof:lastmodified":1449033592,
+    "wof:name":"Hansa Udyog",
+    "wof:parent_id":85927949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handicraft"
+    ]
+},
+  "bbox": [77.1642,28.563053,77.1642,28.563053],
+  "geometry": {"coordinates":[77.1642,28.563053],"type":"Point"}
+}

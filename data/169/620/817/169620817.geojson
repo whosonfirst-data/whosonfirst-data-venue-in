@@ -1,0 +1,61 @@
+{
+  "id": 169620817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.245689,22.298937,88.245689,22.298937",
+    "geom:latitude":22.298937,
+    "geom:longitude":88.245689,
+    "iso:country":"IN",
+    "sg:address":"24-4-12, Harbour Road,",
+    "sg:city":"Vishakapattanam",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 891 256 2227",
+    "sg:postcode":"530001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2StL05rMXX7nK9GWjMZtOw_22.298937_88.245689@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cf508884d8e69bcac5a560745dc635e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672219,
+            "venue_id":169620817
+        }
+    ],
+    "wof:id":169620817,
+    "wof:lastmodified":1449035675,
+    "wof:name":"Shm Ship Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.245689,22.298937,88.245689,22.298937],
+  "geometry": {"coordinates":[88.245689,22.298937],"type":"Point"}
+}

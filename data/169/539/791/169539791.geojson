@@ -1,0 +1,63 @@
+{
+  "id": 169539791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.542618,12.971989,77.542618,12.971989",
+    "geom:latitude":12.971989,
+    "geom:longitude":77.542618,
+    "iso:country":"IN",
+    "sg:address":"No.799, 5th Main, Vijayanagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2350 2410",
+    "sg:postcode":"560040",
+    "sg:tags":[
+        "seed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WMISdVbtTRK8oRds4Imz0_12.971989_77.542618@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"71606605831fe77e76892027d3d29959",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169539791
+        }
+    ],
+    "wof:id":169539791,
+    "wof:lastmodified":1449036038,
+    "wof:name":"Genetic Seeds Private Limited",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seed"
+    ]
+},
+  "bbox": [77.542618,12.971989,77.542618,12.971989],
+  "geometry": {"coordinates":[77.542618,12.971989],"type":"Point"}
+}

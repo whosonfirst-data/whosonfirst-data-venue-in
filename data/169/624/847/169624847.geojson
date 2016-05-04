@@ -1,0 +1,63 @@
+{
+  "id": 169624847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"85.849907,20.247732,85.849907,20.247732",
+    "geom:latitude":20.247732,
+    "geom:longitude":85.849907,
+    "iso:country":"IN",
+    "sg:address":"E146, Pandav Nagar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2275 0212",
+    "sg:postcode":"110091",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933789,
+        85632469,
+        102030665,
+        85672157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sCz9PAVhT1P4VjGqGjc2l_20.247732_85.849907@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5a0f1261397968f4bd577e7285856913",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030665,
+            "neighbourhood_id":85933789,
+            "region_id":85672157,
+            "venue_id":169624847
+        }
+    ],
+    "wof:id":169624847,
+    "wof:lastmodified":1449034957,
+    "wof:name":"Sk Industry",
+    "wof:parent_id":85933789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [85.849907,20.247732,85.849907,20.247732],
+  "geometry": {"coordinates":[85.849907,20.247732],"type":"Point"}
+}

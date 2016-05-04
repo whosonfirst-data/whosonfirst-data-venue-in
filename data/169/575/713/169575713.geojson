@@ -1,0 +1,62 @@
+{
+  "id": 169575713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.04998,28.471359,77.04998,28.471359",
+    "geom:latitude":28.471359,
+    "geom:longitude":77.04998,
+    "iso:country":"IN",
+    "sg:address":"55, I.d.c. Mehrauli Road,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 408 5361",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928515,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vEKhO3Ye93z3CrukPRaIn_28.471359_77.049980@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ef377ca029bd5f6d5565b7421ff04467",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928515,
+            "region_id":85672133,
+            "venue_id":169575713
+        }
+    ],
+    "wof:id":169575713,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Balaji Cork & Rubber Inc.",
+    "wof:parent_id":85928515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.04998,28.471359,77.04998,28.471359],
+  "geometry": {"coordinates":[77.04998,28.471359],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169616563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.784439,30.73778,76.784439,30.73778",
+    "geom:latitude":30.73778,
+    "geom:longitude":76.784439,
+    "iso:country":"IN",
+    "sg:address":"Chandigarh Road, P.o. Baldev Nagar, Ambala City,",
+    "sg:city":"Ambala",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 171 254 1408",
+    "sg:postcode":"134007",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931867,
+        85632469,
+        102030563,
+        85672119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tudu4VYkdplHDSVUC5suU_30.737780_76.784439@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"70735041e9eeb3eb8cdf91465c38edef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030563,
+            "neighbourhood_id":85931867,
+            "region_id":85672119,
+            "venue_id":169616563
+        }
+    ],
+    "wof:id":169616563,
+    "wof:lastmodified":1449035097,
+    "wof:name":"Saraswati Chemicals",
+    "wof:parent_id":85931867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [76.784439,30.73778,76.784439,30.73778],
+  "geometry": {"coordinates":[76.784439,30.73778],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169534547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.830032,18.945679,72.830032,18.945679",
+    "geom:latitude":18.945679,
+    "geom:longitude":72.830032,
+    "iso:country":"IN",
+    "sg:address":"Lohar Chawl, 19/21, 1st Floor\nPicket Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2206 1112",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1d75Dv7gNSWMAYG4bBGdhf_18.945679_72.830032@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d66cd0d3918ca929eb73745cfff53455",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169534547
+        }
+    ],
+    "wof:id":169534547,
+    "wof:lastmodified":1449033546,
+    "wof:name":"Electra (india)",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ]
+},
+  "bbox": [72.830032,18.945679,72.830032,18.945679],
+  "geometry": {"coordinates":[72.830032,18.945679],"type":"Point"}
+}

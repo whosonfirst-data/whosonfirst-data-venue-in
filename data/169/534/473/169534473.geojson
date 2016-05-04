@@ -1,0 +1,71 @@
+{
+  "id": 169534473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.828987,18.938761,72.828987,18.938761",
+    "geom:latitude":18.938761,
+    "geom:longitude":72.828987,
+    "iso:country":"IN",
+    "sg:address":"106/8, Sharda Chambers, 15, New Marine Lines,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2200 4372",
+    "sg:postcode":"400020",
+    "sg:tags":[
+        "lighting",
+        "product",
+        "electrical",
+        "component",
+        "/"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931457,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EwdifDJbAHtKU5tYh1rNx_18.938761_72.828987@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0cda3e48d9d6ef86044bc85448d2f8c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931457,
+            "region_id":85672171,
+            "venue_id":169534473
+        }
+    ],
+    "wof:id":169534473,
+    "wof:lastmodified":1449033547,
+    "wof:name":"K. A. J. Chotirmall & Co.",
+    "wof:parent_id":85931457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "product",
+        "electrical",
+        "component",
+        "/"
+    ]
+},
+  "bbox": [72.828987,18.938761,72.828987,18.938761],
+  "geometry": {"coordinates":[72.828987,18.938761],"type":"Point"}
+}

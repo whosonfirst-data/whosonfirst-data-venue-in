@@ -1,0 +1,62 @@
+{
+  "id": 169545365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.693512,10.85868,78.693512,10.85868",
+    "geom:latitude":10.85868,
+    "geom:longitude":78.693512,
+    "iso:country":"IN",
+    "sg:address":"No. 1 North Devi Street, Srirangam,",
+    "sg:city":"Thiruchirapalli",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 431 645 1242",
+    "sg:postcode":"621005",
+    "sg:tags":[
+        "handmade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85935813,
+        85632469,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3A381J34YVXF6szEAlqGid_10.858680_78.693512@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ecb49f82bc2ed8680cdc3d5c86c39720",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85935813,
+            "region_id":85672245,
+            "venue_id":169545365
+        }
+    ],
+    "wof:id":169545365,
+    "wof:lastmodified":1449033483,
+    "wof:name":"Ananth Exports",
+    "wof:parent_id":85935813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handmade"
+    ]
+},
+  "bbox": [78.693512,10.85868,78.693512,10.85868],
+  "geometry": {"coordinates":[78.693512,10.85868],"type":"Point"}
+}

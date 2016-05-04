@@ -1,0 +1,66 @@
+{
+  "id": 169631627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.847946,19.156136,72.847946,19.156136",
+    "geom:latitude":19.156136,
+    "geom:longitude":72.847946,
+    "iso:country":"IN",
+    "sg:address":"39, Lane No. 1, Ram Nagar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2362 1535",
+    "sg:postcode":"110055",
+    "sg:tags":[
+        "chemical",
+        "-"
+    ],
+    "sg:website":"http://www.suprabhatchemicals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v07Jghpkyx5HmFNB1Zq7w_19.156136_72.847946@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f1375d467ac0299d9af832a4a5d4d305",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169631627
+        }
+    ],
+    "wof:id":169631627,
+    "wof:lastmodified":1449033711,
+    "wof:name":"Suprabhat Chemicals",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "-"
+    ]
+},
+  "bbox": [72.847946,19.156136,72.847946,19.156136],
+  "geometry": {"coordinates":[72.847946,19.156136],"type":"Point"}
+}

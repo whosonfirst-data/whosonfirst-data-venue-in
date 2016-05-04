@@ -1,0 +1,65 @@
+{
+  "id": 169543519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.56945,12.92645,77.56945,12.92645",
+    "geom:latitude":12.92645,
+    "geom:longitude":77.56945,
+    "iso:country":"IN",
+    "sg:address":"21, 9th Main Road, Tata Silk Farm, T.r. Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2676 8047",
+    "sg:postcode":"560028",
+    "sg:tags":[
+        "plank",
+        "timber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930845,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2g1hug4VkjEQQbiF6Btdel_12.926450_77.569450@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"81803b1c259f757c9873fb0306ae5897",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930845,
+            "region_id":85672165,
+            "venue_id":169543519
+        }
+    ],
+    "wof:id":169543519,
+    "wof:lastmodified":1449033335,
+    "wof:name":"Srinivasa Pattern & Wood Works",
+    "wof:parent_id":85930845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plank",
+        "timber"
+    ]
+},
+  "bbox": [77.56945,12.92645,77.56945,12.92645],
+  "geometry": {"coordinates":[77.56945,12.92645],"type":"Point"}
+}

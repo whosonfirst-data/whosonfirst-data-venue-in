@@ -1,0 +1,64 @@
+{
+  "id": 169576783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.212257,28.658819,77.212257,28.658819",
+    "geom:latitude":28.658819,
+    "geom:longitude":77.212257,
+    "iso:country":"IN",
+    "sg:address":"Bn 41 (east), Shalimar Bagh,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2749 4894",
+    "sg:postcode":"110088",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.pulsarechem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928087,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69gVvbGErgCiKjBuRpSEud_28.658819_77.212257@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d5485703302f35a8a7fd49511b538a62",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928087,
+            "region_id":85672123,
+            "venue_id":169576783
+        }
+    ],
+    "wof:id":169576783,
+    "wof:lastmodified":1449035195,
+    "wof:name":"Focus Combine Marketing (p) Ltd",
+    "wof:parent_id":85928087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [77.212257,28.658819,77.212257,28.658819],
+  "geometry": {"coordinates":[77.212257,28.658819],"type":"Point"}
+}

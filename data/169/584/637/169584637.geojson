@@ -1,0 +1,63 @@
+{
+  "id": 169584637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.856705,19.083607,72.856705,19.083607",
+    "geom:latitude":19.083607,
+    "geom:longitude":72.856705,
+    "iso:country":"IN",
+    "sg:address":"D/32/281, M.i.g Colony, Bandra (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6664 4233",
+    "sg:postcode":"400051",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931471,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H61Ngvt1QSQBJUibMK5h4_19.083607_72.856705@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"162e1f42aefca990b7e81e3067bdf3bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931471,
+            "region_id":85672171,
+            "venue_id":169584637
+        }
+    ],
+    "wof:id":169584637,
+    "wof:lastmodified":1449033036,
+    "wof:name":"Libra Biomol",
+    "wof:parent_id":85931471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [72.856705,19.083607,72.856705,19.083607],
+  "geometry": {"coordinates":[72.856705,19.083607],"type":"Point"}
+}

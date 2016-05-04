@@ -1,0 +1,65 @@
+{
+  "id": 169543169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.171562,28.532124,77.171562,28.532124",
+    "geom:latitude":28.532124,
+    "geom:longitude":77.171562,
+    "iso:country":"IN",
+    "sg:address":"#24, J.c Road, Aruna Building,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Emissions Testing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2330 6328",
+    "sg:postcode":"560044",
+    "sg:tags":[
+        "measuring",
+        "instrument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927939,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13T34x6QUAdqS6pVluiHmg_28.532124_77.171562@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9363a3ca27b701506bec9d4d6eb44d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927939,
+            "region_id":85672123,
+            "venue_id":169543169
+        }
+    ],
+    "wof:id":169543169,
+    "wof:lastmodified":1449033336,
+    "wof:name":"Bombay Tools Pvt. Ltd.",
+    "wof:parent_id":85927939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "measuring",
+        "instrument"
+    ]
+},
+  "bbox": [77.171562,28.532124,77.171562,28.532124],
+  "geometry": {"coordinates":[77.171562,28.532124],"type":"Point"}
+}

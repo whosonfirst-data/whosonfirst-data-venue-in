@@ -1,0 +1,69 @@
+{
+  "id": 169539639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.628601,12.971355,77.628601,12.971355",
+    "geom:latitude":12.971355,
+    "geom:longitude":77.628601,
+    "iso:country":"IN",
+    "sg:address":"17/2, Cambridge Road, Opp. Frank Anthony School, Ulsoor,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2554 9314",
+    "sg:postcode":"560075",
+    "sg:tags":[
+        "tv",
+        "equipment",
+        "satellite",
+        "cable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931137,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eKvfUN4jWacN90wqnWMSj_12.971355_77.628601@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"40bbcbc4f32e3296c96b53eba2a1d610",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931137,
+            "region_id":85672165,
+            "venue_id":169539639
+        }
+    ],
+    "wof:id":169539639,
+    "wof:lastmodified":1449036038,
+    "wof:name":"Unicom Satellite Systems",
+    "wof:parent_id":85931137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tv",
+        "equipment",
+        "satellite",
+        "cable"
+    ]
+},
+  "bbox": [77.628601,12.971355,77.628601,12.971355],
+  "geometry": {"coordinates":[77.628601,12.971355],"type":"Point"}
+}

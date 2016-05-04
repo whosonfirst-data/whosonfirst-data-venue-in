@@ -1,0 +1,64 @@
+{
+  "id": 169612253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.297867,9.977374,76.297867,9.977374",
+    "geom:latitude":9.977374,
+    "geom:longitude":76.297867,
+    "iso:country":"IN",
+    "sg:address":"Gandhi Nagar,",
+    "sg:city":"Kochi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 484 220 5790",
+    "sg:postcode":"682020",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.rubbermark.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783453,
+        85632469,
+        102030301,
+        85672149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PHedWalv4CLSvbYzcuyWG_9.977374_76.297867@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a41350f8a2a4c3b075679ea6b9162ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030301,
+            "neighbourhood_id":85783453,
+            "region_id":85672149,
+            "venue_id":169612253
+        }
+    ],
+    "wof:id":169612253,
+    "wof:lastmodified":1449034132,
+    "wof:name":"Rubber Mark",
+    "wof:parent_id":85783453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [76.297867,9.977374,76.297867,9.977374],
+  "geometry": {"coordinates":[76.297867,9.977374],"type":"Point"}
+}

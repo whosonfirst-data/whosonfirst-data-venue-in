@@ -1,0 +1,63 @@
+{
+  "id": 169541537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.570976,12.92539,77.570976,12.92539",
+    "geom:latitude":12.92539,
+    "geom:longitude":77.570976,
+    "iso:country":"IN",
+    "sg:address":"#2628, 8th A Main, Bsk Ii Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2676 4094",
+    "sg:postcode":"560070",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930845,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z8vMf9C2lEKIOcn0CSWCr_12.925390_77.570976@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7a1100b396dfe959e3f526df6442a188",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930845,
+            "region_id":85672165,
+            "venue_id":169541537
+        }
+    ],
+    "wof:id":169541537,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Sresta Business Management Solutions",
+    "wof:parent_id":85930845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.570976,12.92539,77.570976,12.92539],
+  "geometry": {"coordinates":[77.570976,12.92539],"type":"Point"}
+}

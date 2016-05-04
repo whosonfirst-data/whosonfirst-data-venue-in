@@ -1,0 +1,66 @@
+{
+  "id": 169535557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.832298,19.008682,72.832298,19.008682",
+    "geom:latitude":19.008682,
+    "geom:longitude":72.832298,
+    "iso:country":"IN",
+    "sg:address":"525, Sayani Road, Prabhadevi,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2422 1998",
+    "sg:postcode":"400025",
+    "sg:tags":[
+        "equipment",
+        "good"
+    ],
+    "sg:website":"http://www.industrialmanufacturers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931467,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r0JaeqKJv3eza9MxCR6Xw_19.008682_72.832298@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0f3e94855ad4e0256a5cc74eb7154241",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931467,
+            "region_id":85672171,
+            "venue_id":169535557
+        }
+    ],
+    "wof:id":169535557,
+    "wof:lastmodified":1449033285,
+    "wof:name":"Industrial Manufacturers",
+    "wof:parent_id":85931467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "good"
+    ]
+},
+  "bbox": [72.832298,19.008682,72.832298,19.008682],
+  "geometry": {"coordinates":[72.832298,19.008682],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 169596905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.204422,13.075274,80.204422,13.075274",
+    "geom:latitude":13.075274,
+    "geom:longitude":80.204422,
+    "iso:country":"IN",
+    "sg:address":"280, Gandhi Street, Nehru Nagar,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Leather Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2454 1501",
+    "sg:postcode":"600096",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931801,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iZyi8UF5xhnCWKmDumEQp_13.075274_80.204422@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e7269e8cf48ff99ecad80a279b945a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931801,
+            "region_id":85672245,
+            "venue_id":169596905
+        }
+    ],
+    "wof:id":169596905,
+    "wof:lastmodified":1449034371,
+    "wof:name":"Osuri Associates",
+    "wof:parent_id":85931801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.204422,13.075274,80.204422,13.075274],
+  "geometry": {"coordinates":[80.204422,13.075274],"type":"Point"}
+}

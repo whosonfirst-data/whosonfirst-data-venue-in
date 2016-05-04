@@ -1,0 +1,67 @@
+{
+  "id": 169538441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.595169,12.951335,77.595169,12.951335",
+    "geom:latitude":12.951335,
+    "geom:longitude":77.595169,
+    "iso:country":"IN",
+    "sg:address":"No. 51, H. Siddaiah Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 51 144917",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "equipment",
+        "pump",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930939,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79HvqNFA4z2l8lveoKrzRo_12.951335_77.595169@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"85e4b6007a42b48c889f1a72945cc8b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930939,
+            "region_id":85672165,
+            "venue_id":169538441
+        }
+    ],
+    "wof:id":169538441,
+    "wof:lastmodified":1449033097,
+    "wof:name":"Suraj Engineering",
+    "wof:parent_id":85930939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "pump",
+        "pumping"
+    ]
+},
+  "bbox": [77.595169,12.951335,77.595169,12.951335],
+  "geometry": {"coordinates":[77.595169,12.951335],"type":"Point"}
+}

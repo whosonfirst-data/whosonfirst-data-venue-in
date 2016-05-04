@@ -1,0 +1,67 @@
+{
+  "id": 169579491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.836929,19.159281,72.836929,19.159281",
+    "geom:latitude":19.159281,
+    "geom:longitude":72.836929,
+    "iso:country":"IN",
+    "sg:address":"No. 5, Post Office Street,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2522 0720",
+    "sg:postcode":"600001",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HIZdrc9pq02r6o1jIkVIx_19.159281_72.836929@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0c4d3549928f92848e93ee5f0a920f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169579491
+        }
+    ],
+    "wof:id":169579491,
+    "wof:lastmodified":1449033738,
+    "wof:name":"India Rosin Industries",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [72.836929,19.159281,72.836929,19.159281],
+  "geometry": {"coordinates":[72.836929,19.159281],"type":"Point"}
+}

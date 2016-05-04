@@ -1,0 +1,63 @@
+{
+  "id": 169585231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.6492,12.290183,76.6492,12.290183",
+    "geom:latitude":12.290183,
+    "geom:longitude":76.6492,
+    "iso:country":"IN",
+    "sg:address":"85, N.s. Road, 4th Floor, Room No.414,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2242 4208",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933603,
+        85632469,
+        102029303,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13yx0L7gtCizmvszTL99pV_12.290183_76.649200@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3addbe67e83bdb649d517c286a749fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029303,
+            "neighbourhood_id":85933603,
+            "region_id":85672165,
+            "venue_id":169585231
+        }
+    ],
+    "wof:id":169585231,
+    "wof:lastmodified":1449034887,
+    "wof:name":"M. M. Marketing",
+    "wof:parent_id":85933603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [76.6492,12.290183,76.6492,12.290183],
+  "geometry": {"coordinates":[76.6492,12.290183],"type":"Point"}
+}

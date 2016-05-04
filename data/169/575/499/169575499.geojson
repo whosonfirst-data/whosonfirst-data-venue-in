@@ -1,0 +1,64 @@
+{
+  "id": 169575499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.016953,28.467541,77.016953,28.467541",
+    "geom:latitude":28.467541,
+    "geom:longitude":77.016953,
+    "iso:country":"IN",
+    "sg:address":"18, Jyoti Park, New Colony,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 230 4871",
+    "sg:postcode":"122001",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://bmautoindustries.trad-india.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928471,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2epD6GRxZXpMPMHP0gVGVy_28.467541_77.016953@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"871eec4e92cf0cfb019cfd80dd6d1b26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928471,
+            "region_id":85672133,
+            "venue_id":169575499
+        }
+    ],
+    "wof:id":169575499,
+    "wof:lastmodified":1449033640,
+    "wof:name":"B. M. Auto Industries",
+    "wof:parent_id":85928471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.016953,28.467541,77.016953,28.467541],
+  "geometry": {"coordinates":[77.016953,28.467541],"type":"Point"}
+}

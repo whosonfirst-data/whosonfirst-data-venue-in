@@ -1,0 +1,62 @@
+{
+  "id": 169583621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.983215,11.055088,76.983215,11.055088",
+    "geom:latitude":11.055088,
+    "geom:longitude":76.983215,
+    "iso:country":"IN",
+    "sg:address":"40, Athipalayam Road, Ganapathy,",
+    "sg:city":"Coimbatore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 422 653 2971",
+    "sg:postcode":"641006",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.krishnarubber.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WKvmAh9tCdj5kaQm8YCkK_11.055088_76.983215@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6248adb981a7dbea3cf992443ca608e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169583621
+        }
+    ],
+    "wof:id":169583621,
+    "wof:lastmodified":1449035269,
+    "wof:name":"Krishna Rubber Product",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [76.983215,11.055088,76.983215,11.055088],
+  "geometry": {"coordinates":[76.983215,11.055088],"type":"Point"}
+}

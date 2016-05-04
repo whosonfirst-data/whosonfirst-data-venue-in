@@ -1,0 +1,66 @@
+{
+  "id": 169526065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833954,18.94875,72.833954,18.94875",
+    "geom:latitude":18.94875,
+    "geom:longitude":72.833954,
+    "iso:country":"IN",
+    "sg:address":"151/155, Sarang Street,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Customs House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2340 0316",
+    "sg:postcode":"400054",
+    "sg:tags":[
+        "plant",
+        "flower",
+        "artificial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZLouqT3hNVeLFykce4nG5_18.948750_72.833954@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4ac55738565c871ef58327c2e76431fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169526065
+        }
+    ],
+    "wof:id":169526065,
+    "wof:lastmodified":1449033703,
+    "wof:name":"Crystal Corporation",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "flower",
+        "artificial"
+    ]
+},
+  "bbox": [72.833954,18.94875,72.833954,18.94875],
+  "geometry": {"coordinates":[72.833954,18.94875],"type":"Point"}
+}

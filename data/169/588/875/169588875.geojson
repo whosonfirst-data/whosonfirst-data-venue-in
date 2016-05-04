@@ -1,0 +1,65 @@
+{
+  "id": 169588875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.203743,28.526775,77.203743,28.526775",
+    "geom:latitude":28.526775,
+    "geom:longitude":77.203743,
+    "iso:country":"IN",
+    "sg:address":"C-2, Golf View Appartment, Saket,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2696 7614",
+    "sg:postcode":"110017",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928609,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MczBlC0jtTB4ywBmkFOfA_28.526775_77.203743@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9e5e4b71878a2129609f9612bbde9f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928609,
+            "region_id":85672123,
+            "venue_id":169588875
+        }
+    ],
+    "wof:id":169588875,
+    "wof:lastmodified":1449035310,
+    "wof:name":"Mercury Waterproofing",
+    "wof:parent_id":85928609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [77.203743,28.526775,77.203743,28.526775],
+  "geometry": {"coordinates":[77.203743,28.526775],"type":"Point"}
+}

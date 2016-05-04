@@ -1,0 +1,68 @@
+{
+  "id": 169578431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.288643,28.534767,77.288643,28.534767",
+    "geom:latitude":28.534767,
+    "geom:longitude":77.288643,
+    "iso:country":"IN",
+    "sg:address":"Block A, 50/2, 50/3, Okhla Industrial Area, Phase 2,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2638 4611",
+    "sg:postcode":"110020",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "sg:website":"http://www.hansapaints.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928199,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77au4uSJmVPS11dfib1usC_28.534767_77.288643@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1078fcb2b917773547b3e34e6065439e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928199,
+            "region_id":85672123,
+            "venue_id":169578431
+        }
+    ],
+    "wof:id":169578431,
+    "wof:lastmodified":1449033518,
+    "wof:name":"Hansa Paints & Chemicals",
+    "wof:parent_id":85928199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.288643,28.534767,77.288643,28.534767],
+  "geometry": {"coordinates":[77.288643,28.534767],"type":"Point"}
+}

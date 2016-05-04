@@ -1,0 +1,64 @@
+{
+  "id": 169633285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.353065,22.569654,88.353065,22.569654",
+    "geom:latitude":22.569654,
+    "geom:longitude":88.353065,
+    "iso:country":"IN",
+    "sg:address":"62, Bentinck Street, 4th Floor,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 4006 0690",
+    "sg:postcode":"700069",
+    "sg:tags":[
+        "silicon"
+    ],
+    "sg:website":"http://www.sngpl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931969,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nYuwEDEJkmXQkxp7aRIXm_22.569654_88.353065@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9c7b7771957fe405c6ad10212ab0c41e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931969,
+            "region_id":85672219,
+            "venue_id":169633285
+        }
+    ],
+    "wof:id":169633285,
+    "wof:lastmodified":1449035937,
+    "wof:name":"Swastika Constant Care",
+    "wof:parent_id":85931969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silicon"
+    ]
+},
+  "bbox": [88.353065,22.569654,88.353065,22.569654],
+  "geometry": {"coordinates":[88.353065,22.569654],"type":"Point"}
+}

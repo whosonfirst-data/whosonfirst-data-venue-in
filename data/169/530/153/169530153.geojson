@@ -1,0 +1,66 @@
+{
+  "id": 169530153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.852074,19.107986,72.852074,19.107986",
+    "geom:latitude":19.107986,
+    "geom:longitude":72.852074,
+    "iso:country":"IN",
+    "sg:address":"Laxmi Building, 11, Subhash Road, Jogeshwari (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2837 5133",
+    "sg:postcode":"400060",
+    "sg:tags":[
+        "garment",
+        "childrenwear"
+    ],
+    "sg:website":"http://www.thelodhagroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931483,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qLQPJHWonugOZIcKrnOm3_19.107986_72.852074@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c3d327fcac53dd97e99043c7e756cdfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931483,
+            "region_id":85672171,
+            "venue_id":169530153
+        }
+    ],
+    "wof:id":169530153,
+    "wof:lastmodified":1449034445,
+    "wof:name":"Intercraft Exports",
+    "wof:parent_id":85931483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "childrenwear"
+    ]
+},
+  "bbox": [72.852074,19.107986,72.852074,19.107986],
+  "geometry": {"coordinates":[72.852074,19.107986],"type":"Point"}
+}

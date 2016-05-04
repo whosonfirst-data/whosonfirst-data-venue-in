@@ -1,0 +1,64 @@
+{
+  "id": 169559759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.296555,28.666365,77.296555,28.666365",
+    "geom:latitude":28.666365,
+    "geom:longitude":77.296555,
+    "iso:country":"IN",
+    "sg:address":"8/54, Ram Street, Vishwas Nagar, Shahdara,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2238 1441",
+    "sg:postcode":"110032",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NYGoxlpTjYm46ArBKcpFe_28.666365_77.296555@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"803a8698224d5e0ebb848a01aadb0e91",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169559759
+        }
+    ],
+    "wof:id":169559759,
+    "wof:lastmodified":1449035239,
+    "wof:name":"Corona Switch Gears Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [77.296555,28.666365,77.296555,28.666365],
+  "geometry": {"coordinates":[77.296555,28.666365],"type":"Point"}
+}

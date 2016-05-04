@@ -1,0 +1,63 @@
+{
+  "id": 169549061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.856529,19.141443,72.856529,19.141443",
+    "geom:latitude":19.141443,
+    "geom:longitude":72.856529,
+    "iso:country":"IN",
+    "sg:address":"C-133, Pratap Nagar,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 249 2589",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "granite"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931511,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P2DFLa2pD6KfAZNaMeQv7_19.141443_72.856529@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1d50f66a220369748fcc67bfbd2b3960",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931511,
+            "region_id":85672171,
+            "venue_id":169549061
+        }
+    ],
+    "wof:id":169549061,
+    "wof:lastmodified":1449033592,
+    "wof:name":"Venus Minchem Pvt. Ltd.",
+    "wof:parent_id":85931511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "granite"
+    ]
+},
+  "bbox": [72.856529,19.141443,72.856529,19.141443],
+  "geometry": {"coordinates":[72.856529,19.141443],"type":"Point"}
+}

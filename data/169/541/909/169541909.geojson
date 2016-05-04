@@ -1,0 +1,65 @@
+{
+  "id": 169541909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.481728,12.915341,77.481728,12.915341",
+    "geom:latitude":12.915341,
+    "geom:longitude":77.481728,
+    "iso:country":"IN",
+    "sg:address":"215, 1st B Main, Kengeri Satallite Town,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2848 6262",
+    "sg:postcode":"560060",
+    "sg:tags":[
+        "seasoning",
+        "spice"
+    ],
+    "sg:website":"http://www.smbiosource.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K0PwHQE41lShWmxusMcsG_12.915341_77.481728@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c3eda0aa0a9541b900cafd1e1866927b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169541909
+        }
+    ],
+    "wof:id":169541909,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Sri Mata Bio Source",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seasoning",
+        "spice"
+    ]
+},
+  "bbox": [77.481728,12.915341,77.481728,12.915341],
+  "geometry": {"coordinates":[77.481728,12.915341],"type":"Point"}
+}

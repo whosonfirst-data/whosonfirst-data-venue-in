@@ -1,0 +1,66 @@
+{
+  "id": 169625697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.552559,20.993498,75.552559,20.993498",
+    "geom:latitude":20.993498,
+    "geom:longitude":75.552559,
+    "iso:country":"IN",
+    "sg:address":"176, Telephone Nagar,",
+    "sg:city":"Indore",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 731 259 5709",
+    "sg:postcode":"452001",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030007,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2whqRY5CgML91vRSOiQJww_20.993498_75.552559@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"93347cc4504414e9cc956808d47ac350",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030007,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169625697
+        }
+    ],
+    "wof:id":169625697,
+    "wof:lastmodified":1449036022,
+    "wof:name":"Soft Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [75.552559,20.993498,75.552559,20.993498],
+  "geometry": {"coordinates":[75.552559,20.993498],"type":"Point"}
+}

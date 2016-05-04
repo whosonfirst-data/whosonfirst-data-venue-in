@@ -1,0 +1,66 @@
+{
+  "id": 169529491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.890961,19.108889,72.890961,19.108889",
+    "geom:latitude":19.108889,
+    "geom:longitude":72.890961,
+    "iso:country":"IN",
+    "sg:address":"Unit No.33, Arihant Indl. Estate, Sakinaka,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2847 8306",
+    "sg:postcode":"400072",
+    "sg:tags":[
+        "plant",
+        "processing"
+    ],
+    "sg:website":"http://www.squarepharma.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931519,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VFPy49eY0QsUzuZ2tfMTG_19.108889_72.890961@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"796ba2130fb1db5a663acc934d2b2c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931519,
+            "region_id":85672171,
+            "venue_id":169529491
+        }
+    ],
+    "wof:id":169529491,
+    "wof:lastmodified":1449034112,
+    "wof:name":"Square Pharma Machineries",
+    "wof:parent_id":85931519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [72.890961,19.108889,72.890961,19.108889],
+  "geometry": {"coordinates":[72.890961,19.108889],"type":"Point"}
+}

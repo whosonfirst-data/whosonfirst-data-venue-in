@@ -1,0 +1,66 @@
+{
+  "id": 169626373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.832581,18.96582,72.832581,18.96582",
+    "geom:latitude":18.96582,
+    "geom:longitude":72.832581,
+    "iso:country":"IN",
+    "sg:address":"6th Floor, Mustafa Building, Sir P.m. Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5635 5233",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70Q3jTfgR0VNWteh84kiy2_18.965820_72.832581@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e2f4ddcda248dc4b56f44c745066867c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903863,
+            "region_id":85672171,
+            "venue_id":169626373
+        }
+    ],
+    "wof:id":169626373,
+    "wof:lastmodified":1449035971,
+    "wof:name":"Span Intermediates Pvt. Ltd.",
+    "wof:parent_id":85903863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [72.832581,18.96582,72.832581,18.96582],
+  "geometry": {"coordinates":[72.832581,18.96582],"type":"Point"}
+}

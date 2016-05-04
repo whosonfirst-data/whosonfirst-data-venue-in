@@ -1,0 +1,62 @@
+{
+  "id": 169593959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833809,18.936348,72.833809,18.936348",
+    "geom:latitude":18.936348,
+    "geom:longitude":72.833809,
+    "iso:country":"IN",
+    "sg:address":"317, D.n. Road, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2282 2247",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zN2AN25WVwp97IGukrKyu_18.936348_72.833809@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"41b8eebc04f6c64cd438458e57689dd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169593959
+        }
+    ],
+    "wof:id":169593959,
+    "wof:lastmodified":1449034878,
+    "wof:name":"Newspak",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.833809,18.936348,72.833809,18.936348],
+  "geometry": {"coordinates":[72.833809,18.936348],"type":"Point"}
+}

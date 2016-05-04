@@ -1,0 +1,68 @@
+{
+  "id": 169553001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.65799,23.076591,72.65799,23.076591",
+    "geom:latitude":23.076591,
+    "geom:longitude":72.65799,
+    "iso:country":"IN",
+    "sg:address":"967/8, G.i.d.c., Makarpura,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 264 4294",
+    "sg:postcode":"390010",
+    "sg:tags":[
+        "reduction",
+        "cutting",
+        "boxes",
+        "gear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kBleBCuJeIXYTkM9cf5Mg_23.076591_72.657990@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6e491d34faa6c152abfd11bb34ec0aff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169553001
+        }
+    ],
+    "wof:id":169553001,
+    "wof:lastmodified":1449032707,
+    "wof:name":"Triveni Enterprise",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reduction",
+        "cutting",
+        "boxes",
+        "gear"
+    ]
+},
+  "bbox": [72.65799,23.076591,72.65799,23.076591],
+  "geometry": {"coordinates":[72.65799,23.076591],"type":"Point"}
+}

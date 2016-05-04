@@ -1,0 +1,62 @@
+{
+  "id": 169549195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.906898,19.050142,72.906898,19.050142",
+    "geom:latitude":19.050142,
+    "geom:longitude":72.906898,
+    "iso:country":"IN",
+    "sg:address":"28-29, B.g. Vatika, Sector-5,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 246 5394",
+    "sg:tags":[
+        "handicraft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931557,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LwGI50dvdQOlcGUCjnfJI_19.050142_72.906898@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cce55e8160558dc3122ced6bb2208cfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931557,
+            "region_id":85672171,
+            "venue_id":169549195
+        }
+    ],
+    "wof:id":169549195,
+    "wof:lastmodified":1449033593,
+    "wof:name":"Manak Arts",
+    "wof:parent_id":85931557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handicraft"
+    ]
+},
+  "bbox": [72.906898,19.050142,72.906898,19.050142],
+  "geometry": {"coordinates":[72.906898,19.050142],"type":"Point"}
+}

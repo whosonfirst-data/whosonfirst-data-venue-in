@@ -1,0 +1,62 @@
+{
+  "id": 169575279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.147179,9.921499,78.147179,9.921499",
+    "geom:latitude":9.921499,
+    "geom:longitude":78.147179,
+    "iso:country":"IN",
+    "sg:address":"A 37, Anna Nagar,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2626 0119",
+    "sg:postcode":"600102",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029533,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xjOfNeZg7orvce16yxV1A_9.921499_78.147179@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"628d88a9804b3eb968f8d7d6fcf1e280",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029533,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169575279
+        }
+    ],
+    "wof:id":169575279,
+    "wof:lastmodified":1449033641,
+    "wof:name":"Athiappa Chemicals (p) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.147179,9.921499,78.147179,9.921499],
+  "geometry": {"coordinates":[78.147179,9.921499],"type":"Point"}
+}

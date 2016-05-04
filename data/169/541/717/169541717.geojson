@@ -1,0 +1,65 @@
+{
+  "id": 169541717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.606659,12.977903,77.606659,12.977903",
+    "geom:latitude":12.977903,
+    "geom:longitude":77.606659,
+    "iso:country":"IN",
+    "sg:address":"42/1, Cubbon Road Cross,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2559 2483",
+    "sg:postcode":"560001",
+    "sg:tags":[
+        "design",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930953,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09rzpRC57hos8fnjCXwOIA_12.977903_77.606659@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d9abacc21fac4d09b127e3477ebff2dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930953,
+            "region_id":85672165,
+            "venue_id":169541717
+        }
+    ],
+    "wof:id":169541717,
+    "wof:lastmodified":1449033039,
+    "wof:name":"Veda Automations Pvt. Ltd.",
+    "wof:parent_id":85930953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "design",
+        "software"
+    ]
+},
+  "bbox": [77.606659,12.977903,77.606659,12.977903],
+  "geometry": {"coordinates":[77.606659,12.977903],"type":"Point"}
+}

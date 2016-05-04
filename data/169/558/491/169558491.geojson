@@ -1,0 +1,75 @@
+{
+  "id": 169558491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.249855,28.554041,77.249855,28.554041",
+    "geom:latitude":28.554041,
+    "geom:longitude":77.249855,
+    "iso:country":"IN",
+    "sg:address":"C-27, Industrial Estate, Sanath Nagar,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2370 8032",
+    "sg:postcode":"500018",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "sg:website":"http://www.bonditindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928369,
+        85632469,
+        102029189,
+        85672123,
+        85928361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YeWT372MbcCmA6hBRwAn6_28.554041_77.249855@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"31ac679297602519b88616443e4442c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928369,
+            "region_id":85672123,
+            "venue_id":169558491
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928361,
+            "region_id":85672123,
+            "venue_id":169558491
+        }
+    ],
+    "wof:id":169558491,
+    "wof:lastmodified":1449033579,
+    "wof:name":"Bondit Construction Chemicals Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [77.249855,28.554041,77.249855,28.554041],
+  "geometry": {"coordinates":[77.249855,28.554041],"type":"Point"}
+}

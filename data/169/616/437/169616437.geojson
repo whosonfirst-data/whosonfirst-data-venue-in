@@ -1,0 +1,67 @@
+{
+  "id": 169616437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.129105,28.693014,77.129105,28.693014",
+    "geom:latitude":28.693014,
+    "geom:longitude":77.129105,
+    "iso:country":"IN",
+    "sg:address":"2, Shakti Vihar, Pitampura,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2701 2327",
+    "sg:postcode":"110088",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928043,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Dzs6fd7x5ZGpRuHJrH5UO_28.693014_77.129105@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"df6df0b446b76c7ed5dba1ce5383c917",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928043,
+            "region_id":85672123,
+            "venue_id":169616437
+        }
+    ],
+    "wof:id":169616437,
+    "wof:lastmodified":1449035101,
+    "wof:name":"Saral Advance Technologies & Pharma Pvt. Ltd.",
+    "wof:parent_id":85928043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [77.129105,28.693014,77.129105,28.693014],
+  "geometry": {"coordinates":[77.129105,28.693014],"type":"Point"}
+}

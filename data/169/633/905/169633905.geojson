@@ -1,0 +1,63 @@
+{
+  "id": 169633905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.166039,28.668097,77.166039,28.668097",
+    "geom:latitude":28.668097,
+    "geom:longitude":77.166039,
+    "iso:country":"IN",
+    "sg:address":"E-2, Udyog Nagar, Industrial Area, Main Rohtak Road,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2547 6217",
+    "sg:postcode":"110041",
+    "sg:tags":[
+        "wax"
+    ],
+    "sg:website":"http://www.synergyadditives.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cd4f7EcG1NZU51tnXN1lu_28.668097_77.166039@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cdea6fd481a8ed33a27d3086eba6141f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169633905
+        }
+    ],
+    "wof:id":169633905,
+    "wof:lastmodified":1449035938,
+    "wof:name":"Synergy Group",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [77.166039,28.668097,77.166039,28.668097],
+  "geometry": {"coordinates":[77.166039,28.668097],"type":"Point"}
+}

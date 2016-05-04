@@ -1,0 +1,65 @@
+{
+  "id": 169554329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.155609,22.32782,73.155609,22.32782",
+    "geom:latitude":22.32782,
+    "geom:longitude":73.155609,
+    "iso:country":"IN",
+    "sg:address":"G-5-6, B.i.d.c, Gorwa,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 228 2061",
+    "sg:postcode":"390016",
+    "sg:tags":[
+        "pharmaceutical",
+        "formulation"
+    ],
+    "sg:website":"http://www.centurionlab.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Mi5k19rx3lPC4KKUGx2o9_22.327820_73.155609@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4861daecca4727f426e09079460a9bcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169554329
+        }
+    ],
+    "wof:id":169554329,
+    "wof:lastmodified":1449033369,
+    "wof:name":"Centurion Laboratories",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "formulation"
+    ]
+},
+  "bbox": [73.155609,22.32782,73.155609,22.32782],
+  "geometry": {"coordinates":[73.155609,22.32782],"type":"Point"}
+}

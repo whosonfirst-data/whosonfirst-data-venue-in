@@ -1,0 +1,62 @@
+{
+  "id": 169604285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.7771,18.603619,73.7771,18.603619",
+    "geom:latitude":18.603619,
+    "geom:longitude":73.7771,
+    "iso:country":"IN",
+    "sg:address":"S. No. 12, Plot No. 18, Kalewadi Phata, Thergaon, Chinchwad,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2727 0455",
+    "sg:postcode":"411033",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gL63czwVpJRmGJXzuwepD_18.603619_73.777100@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1bd0afa081f1699c8cae68f1af37aa1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169604285
+        }
+    ],
+    "wof:id":169604285,
+    "wof:lastmodified":1449035568,
+    "wof:name":"Prime Surgical & Pharma",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [73.7771,18.603619,73.7771,18.603619],
+  "geometry": {"coordinates":[73.7771,18.603619],"type":"Point"}
+}

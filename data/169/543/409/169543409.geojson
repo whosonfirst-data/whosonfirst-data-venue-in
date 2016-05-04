@@ -1,0 +1,66 @@
+{
+  "id": 169543409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.54171,13.027958,77.54171,13.027958",
+    "geom:latitude":13.027958,
+    "geom:longitude":77.54171,
+    "iso:country":"IN",
+    "sg:address":"42, 5th Mile, Tumkur Road, Yeshwanthpur,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2337 5165",
+    "sg:postcode":"560022",
+    "sg:tags":[
+        "tie",
+        "bow"
+    ],
+    "sg:website":"http://www.deccanleatherfashions.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930975,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vpsAQY2I4zC0sP20OyeH3_13.027958_77.541710@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e60c1a1675ad44cebf45d2fb97d4917b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930975,
+            "region_id":85672165,
+            "venue_id":169543409
+        }
+    ],
+    "wof:id":169543409,
+    "wof:lastmodified":1449033334,
+    "wof:name":"Deccan Leather Fashions",
+    "wof:parent_id":85930975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tie",
+        "bow"
+    ]
+},
+  "bbox": [77.54171,13.027958,77.54171,13.027958],
+  "geometry": {"coordinates":[77.54171,13.027958],"type":"Point"}
+}

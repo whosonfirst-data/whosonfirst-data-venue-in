@@ -1,0 +1,66 @@
+{
+  "id": 169558451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.942505,11.070192,76.942505,11.070192",
+    "geom:latitude":11.070192,
+    "geom:longitude":76.942505,
+    "iso:country":"IN",
+    "sg:address":"1012, Mettupalayam Road,",
+    "sg:city":"Coimbatore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 422 254 6477",
+    "sg:postcode":"641002",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a92SgTudtU6ZjWMH14DgR_11.070192_76.942505@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c46c2965ea733a61187d4e2dadece9b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169558451
+        }
+    ],
+    "wof:id":169558451,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Blue Ocean Exports Corporation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [76.942505,11.070192,76.942505,11.070192],
+  "geometry": {"coordinates":[76.942505,11.070192],"type":"Point"}
+}

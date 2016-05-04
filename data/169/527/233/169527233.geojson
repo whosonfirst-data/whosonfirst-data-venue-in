@@ -1,0 +1,67 @@
+{
+  "id": 169527233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.891792,19.06307,72.891792,19.06307",
+    "geom:latitude":19.06307,
+    "geom:longitude":72.891792,
+    "iso:country":"IN",
+    "sg:address":"10/119, Sahakar Nagar-1, Chembur,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2522 2384",
+    "sg:postcode":"400071",
+    "sg:tags":[
+        "banking",
+        "product",
+        "automation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931489,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5m4n0oNP1rXl5CcEYr2Lv1_19.063070_72.891792@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a7a0f55364bf0bfb20542c956087b7e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931489,
+            "region_id":85672171,
+            "venue_id":169527233
+        }
+    ],
+    "wof:id":169527233,
+    "wof:lastmodified":1449035280,
+    "wof:name":"Spg Enterprises",
+    "wof:parent_id":85931489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "product",
+        "automation"
+    ]
+},
+  "bbox": [72.891792,19.06307,72.891792,19.06307],
+  "geometry": {"coordinates":[72.891792,19.06307],"type":"Point"}
+}

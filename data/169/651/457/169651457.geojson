@@ -1,0 +1,59 @@
+{
+  "id": 169651457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.014704,28.436131,77.014704,28.436131",
+    "geom:latitude":28.436131,
+    "geom:longitude":77.014704,
+    "iso:country":"IN",
+    "sg:address":"5th Floor, Universal Trade Tower Gurgaon Sohna Road, Sector 49",
+    "sg:city":"Gurgaon, Haryana",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"122001",
+    "sg:province":"GA",
+    "sg:website":"http://www.emergent-ventures.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928457,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17Fgb70YK36EmfcK3hoCs6_28.436131_77.014704@1308163241"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7cf11ed20baad7da0358ffe9e435b21e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928457,
+            "region_id":85672133,
+            "venue_id":169651457
+        }
+    ],
+    "wof:id":169651457,
+    "wof:lastmodified":1449033346,
+    "wof:name":"Emergent Ventures India",
+    "wof:parent_id":85928457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.014704,28.436131,77.014704,28.436131],
+  "geometry": {"coordinates":[77.014704,28.436131],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169580437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.130058,28.652243,77.130058,28.652243",
+    "geom:latitude":28.652243,
+    "geom:longitude":77.130058,
+    "iso:country":"IN",
+    "sg:address":"Suite 110, Tower-1, 70, Najafgarh Road, B-39,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4253 1155",
+    "sg:postcode":"110015",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.jaguaroverseas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928129,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oRs6wborUTv8LSULqZX4Y_28.652243_77.130058@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3d578ce8abdf0ea4eb1a0a6887431c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928129,
+            "region_id":85672123,
+            "venue_id":169580437
+        }
+    ],
+    "wof:id":169580437,
+    "wof:lastmodified":1449034916,
+    "wof:name":"Jaguar Overseas Limited",
+    "wof:parent_id":85928129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.130058,28.652243,77.130058,28.652243],
+  "geometry": {"coordinates":[77.130058,28.652243],"type":"Point"}
+}

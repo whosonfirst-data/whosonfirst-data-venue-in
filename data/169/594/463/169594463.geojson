@@ -1,0 +1,63 @@
+{
+  "id": 169594463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.844749,19.235405,72.844749,19.235405",
+    "geom:latitude":19.235405,
+    "geom:longitude":72.844749,
+    "iso:country":"IN",
+    "sg:address":"002/d/30, Yogi Vaibhav, Yogi Nagar, Borivali (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2833 3095",
+    "sg:postcode":"400091",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933015,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DlrXdeE7eHohd9bDKWkHw_19.235405_72.844749@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8aa6d5190f1dca885ac52da77f6558d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85933015,
+            "region_id":85672171,
+            "venue_id":169594463
+        }
+    ],
+    "wof:id":169594463,
+    "wof:lastmodified":1449033165,
+    "wof:name":"Nitin Polymers Pvt. Ltd.",
+    "wof:parent_id":85933015,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [72.844749,19.235405,72.844749,19.235405],
+  "geometry": {"coordinates":[72.844749,19.235405],"type":"Point"}
+}

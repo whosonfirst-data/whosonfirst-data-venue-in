@@ -1,0 +1,66 @@
+{
+  "id": 169579933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.162895,28.523521,77.162895,28.523521",
+    "geom:latitude":28.523521,
+    "geom:longitude":77.162895,
+    "iso:country":"IN",
+    "sg:address":"C-6/6042, Vasant Kunj,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2613 1440",
+    "sg:postcode":"110070",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "sg:website":"http://www.plastichem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903905,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nwK4sMlWDiwt4V88O1Id6_28.523521_77.162895@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cd1bc0fe4c62e2824545b19a0564b795",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903905,
+            "region_id":85672123,
+            "venue_id":169579933
+        }
+    ],
+    "wof:id":169579933,
+    "wof:lastmodified":1449033739,
+    "wof:name":"Inter Plastichem Pvt. Ltd.",
+    "wof:parent_id":85903905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [77.162895,28.523521,77.162895,28.523521],
+  "geometry": {"coordinates":[77.162895,28.523521],"type":"Point"}
+}

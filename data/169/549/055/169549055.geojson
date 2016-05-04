@@ -1,0 +1,65 @@
+{
+  "id": 169549055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.825485,18.972462,72.825485,18.972462",
+    "geom:latitude":18.972462,
+    "geom:longitude":72.825485,
+    "iso:country":"IN",
+    "sg:address":"Liberty House, Town Hall,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 329 0233",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "fitting",
+        "fixture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931453,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q1Ygg45Vdk6Vm6ZpQkuJF_18.972462_72.825485@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c7426c84f211dd9a9d41e666997cbba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931453,
+            "region_id":85672171,
+            "venue_id":169549055
+        }
+    ],
+    "wof:id":169549055,
+    "wof:lastmodified":1449033590,
+    "wof:name":"Lmm Pvt. Ltd.",
+    "wof:parent_id":85931453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitting",
+        "fixture"
+    ]
+},
+  "bbox": [72.825485,18.972462,72.825485,18.972462],
+  "geometry": {"coordinates":[72.825485,18.972462],"type":"Point"}
+}

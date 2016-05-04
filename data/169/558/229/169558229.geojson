@@ -1,0 +1,64 @@
+{
+  "id": 169558229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.133057,28.656498,77.133057,28.656498",
+    "geom:latitude":28.656498,
+    "geom:longitude":77.133057,
+    "iso:country":"IN",
+    "sg:address":"485/10, Basai Darapur,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 6549 7492",
+    "sg:postcode":"110015",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"www.indiamart.com/bhvyatraders",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928129,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aWHBDMs0HFkV2J0wjyG5P_28.656498_77.133057@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8a6ef3395bc6c7ac73a55c8560a0f9f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928129,
+            "region_id":85672123,
+            "venue_id":169558229
+        }
+    ],
+    "wof:id":169558229,
+    "wof:lastmodified":1449033583,
+    "wof:name":"Bhavya Traders",
+    "wof:parent_id":85928129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.133057,28.656498,77.133057,28.656498],
+  "geometry": {"coordinates":[77.133057,28.656498],"type":"Point"}
+}

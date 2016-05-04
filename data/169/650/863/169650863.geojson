@@ -1,0 +1,58 @@
+{
+  "id": 169650863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.52677,12.97128,77.52677,12.97128",
+    "geom:latitude":12.97128,
+    "geom:longitude":77.52677,
+    "iso:country":"IN",
+    "sg:address":"34/1 RV Road",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560004",
+    "sg:website":"http://www.invensis.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37VWDGzlHn61kqLA9bENCX_12.971280_77.526770@1308163238"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"34a4bffc5267c124f957277769b11226",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169650863
+        }
+    ],
+    "wof:id":169650863,
+    "wof:lastmodified":1449034701,
+    "wof:name":"Invensis Technologies",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.52677,12.97128,77.52677,12.97128],
+  "geometry": {"coordinates":[77.52677,12.97128],"type":"Point"}
+}

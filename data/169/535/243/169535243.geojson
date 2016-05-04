@@ -1,0 +1,68 @@
+{
+  "id": 169535243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.937935,19.154734,72.937935,19.154734",
+    "geom:latitude":19.154734,
+    "geom:longitude":72.937935,
+    "iso:country":"IN",
+    "sg:address":"1070, Bhandup Indl Estate, Lbs Marg, Bhandup (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2596 3050",
+    "sg:postcode":"400078",
+    "sg:tags":[
+        "energy",
+        "conservation",
+        "product"
+    ],
+    "sg:website":"http://www.duex.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931655,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XkgjpWEQWVpUYEFZhVi79_19.154734_72.937935@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d7be245d6158eef2ba4340db375870bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931655,
+            "region_id":85672171,
+            "venue_id":169535243
+        }
+    ],
+    "wof:id":169535243,
+    "wof:lastmodified":1449033286,
+    "wof:name":"Duex",
+    "wof:parent_id":85931655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "conservation",
+        "product"
+    ]
+},
+  "bbox": [72.937935,19.154734,72.937935,19.154734],
+  "geometry": {"coordinates":[72.937935,19.154734],"type":"Point"}
+}

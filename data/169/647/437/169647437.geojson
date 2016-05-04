@@ -1,0 +1,64 @@
+{
+  "id": 169647437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.557449,23.027243,72.557449,23.027243",
+    "geom:latitude":23.027243,
+    "geom:longitude":72.557449,
+    "iso:country":"IN",
+    "sg:address":"G-24, Mardia Plaza, C.g. Road, Navrangpura,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 2646 7638",
+    "sg:postcode":"380002",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.yashviimpex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928723,
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lbi5n4waSHF3MPuPnECyN_23.027243_72.557449@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e1c315670ac922a575d26a417ead3b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":85928723,
+            "region_id":85672249,
+            "venue_id":169647437
+        }
+    ],
+    "wof:id":169647437,
+    "wof:lastmodified":1449034240,
+    "wof:name":"Yashvi Construction",
+    "wof:parent_id":85928723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.557449,23.027243,72.557449,23.027243],
+  "geometry": {"coordinates":[72.557449,23.027243],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 169650317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.55571,12.921159,77.55571,12.921159",
+    "geom:latitude":12.921159,
+    "geom:longitude":77.55571,
+    "iso:country":"IN",
+    "sg:address":"266 7th Main, Flat B3 Vars Magnolia",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"56003",
+    "sg:website":"http://www.babajob.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931103,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PVvp4hdcVpUbfhVKYbSTk_12.921159_77.555710@1308163240"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f7e60f2dfb5d76f6a3ffca1c0e29ce40",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931103,
+            "region_id":85672165,
+            "venue_id":169650317
+        }
+    ],
+    "wof:id":169650317,
+    "wof:lastmodified":1449034700,
+    "wof:name":"Babajob",
+    "wof:parent_id":85931103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.55571,12.921159,77.55571,12.921159],
+  "geometry": {"coordinates":[77.55571,12.921159],"type":"Point"}
+}

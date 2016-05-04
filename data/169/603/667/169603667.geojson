@@ -1,0 +1,64 @@
+{
+  "id": 169603667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.836174,18.951036,72.836174,18.951036",
+    "geom:latitude":18.951036,
+    "geom:longitude":72.836174,
+    "iso:country":"IN",
+    "sg:address":"34\\\\36, Issaji Street, Masjid Bunder,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6631 2525",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "product",
+        "gum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YY35WikSaGanPVuf0sAiY_18.951036_72.836174@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5932f52f13bdf6b04201e273f12a7d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169603667
+        }
+    ],
+    "wof:id":169603667,
+    "wof:lastmodified":1449035455,
+    "wof:name":"Premier Traders",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "gum"
+    ]
+},
+  "bbox": [72.836174,18.951036,72.836174,18.951036],
+  "geometry": {"coordinates":[72.836174,18.951036],"type":"Point"}
+}

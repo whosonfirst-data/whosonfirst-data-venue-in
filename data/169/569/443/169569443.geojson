@@ -1,0 +1,54 @@
+{
+  "id": 169569443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.587006,12.910465,77.587006,12.910465",
+    "geom:latitude":12.910465,
+    "geom:longitude":77.587006,
+    "iso:country":"IN",
+    "sg:address":"Banshankari, 2nd Estate",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 806714877",
+    "sg:postcode":"560070",
+    "sg:province":"Karnataka",
+    "sg:website":"http://www.inertiatech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931057,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4slz6j5cC3xSZnmYKVetN0_12.910465_77.587006@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7aa31f5efa470005752e9776a868d3db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931057,
+            "region_id":85672165,
+            "venue_id":169569443
+        }
+    ],
+    "wof:id":169569443,
+    "wof:lastmodified":1449035831,
+    "wof:name":"Inertia Technologies Pvt Ltd",
+    "wof:parent_id":85931057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.587006,12.910465,77.587006,12.910465],
+  "geometry": {"coordinates":[77.587006,12.910465],"type":"Point"}
+}

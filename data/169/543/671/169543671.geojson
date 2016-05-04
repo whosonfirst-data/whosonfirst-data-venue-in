@@ -1,0 +1,66 @@
+{
+  "id": 169543671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.591743,12.965208,77.591743,12.965208",
+    "geom:latitude":12.965208,
+    "geom:longitude":77.591743,
+    "iso:country":"IN",
+    "sg:address":"beml Soudha, 23/1, 4th Main, S.r. Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2296 3167",
+    "sg:postcode":"560027",
+    "sg:tags":[
+        "trolley",
+        "trailer"
+    ],
+    "sg:website":"http://www.bemlindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930935,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Q2CqSa1vpl8Emjmwml4zo_12.965208_77.591743@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b0ed05b4775678044f63d37d9e5e29ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930935,
+            "region_id":85672165,
+            "venue_id":169543671
+        }
+    ],
+    "wof:id":169543671,
+    "wof:lastmodified":1449033334,
+    "wof:name":"Bharat Earth Movers Ltd.",
+    "wof:parent_id":85930935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trolley",
+        "trailer"
+    ]
+},
+  "bbox": [77.591743,12.965208,77.591743,12.965208],
+  "geometry": {"coordinates":[77.591743,12.965208],"type":"Point"}
+}

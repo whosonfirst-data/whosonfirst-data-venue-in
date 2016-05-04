@@ -1,0 +1,53 @@
+{
+  "id": 169572651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.582245,12.986644,77.582245,12.986644",
+    "geom:latitude":12.986644,
+    "geom:longitude":77.582245,
+    "iso:country":"IN",
+    "sg:address":"Crescent Road",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 802251451",
+    "sg:postcode":"560001",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930943,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32S44a0ZSTZp9UnxdN74m2_12.986644_77.582245@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7d6711948ebaafa160a40ee83a85dcf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930943,
+            "region_id":85672165,
+            "venue_id":169572651
+        }
+    ],
+    "wof:id":169572651,
+    "wof:lastmodified":1449034703,
+    "wof:name":"Keltec Energies Ltd",
+    "wof:parent_id":85930943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.582245,12.986644,77.582245,12.986644],
+  "geometry": {"coordinates":[77.582245,12.986644],"type":"Point"}
+}

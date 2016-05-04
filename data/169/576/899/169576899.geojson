@@ -1,0 +1,63 @@
+{
+  "id": 169576899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.803696,18.952219,72.803696,18.952219",
+    "geom:latitude":18.952219,
+    "geom:longitude":72.803696,
+    "iso:country":"IN",
+    "sg:address":"D/8, Triveni, 66, Walkeshwar Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 3097 5823",
+    "sg:postcode":"400006",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"artindia.net/anup",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903909,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x8UuWYolr8zgsbbuZuAkE_18.952219_72.803696@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"356369752db25e38cfe2f77b66ae204d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903909,
+            "region_id":-1,
+            "venue_id":169576899
+        }
+    ],
+    "wof:id":169576899,
+    "wof:lastmodified":1449035198,
+    "wof:name":"Frosty",
+    "wof:parent_id":85903909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.803696,18.952219,72.803696,18.952219],
+  "geometry": {"coordinates":[72.803696,18.952219],"type":"Point"}
+}

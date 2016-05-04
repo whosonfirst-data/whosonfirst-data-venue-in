@@ -1,0 +1,63 @@
+{
+  "id": 169544247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.599937,12.967489,77.599937,12.967489",
+    "geom:latitude":12.967489,
+    "geom:longitude":77.599937,
+    "iso:country":"IN",
+    "sg:address":"D-11, Devatha Plaza, Residency Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2221 4292",
+    "sg:postcode":"560025",
+    "sg:tags":[
+        "valve"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930949,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vBhgYG5hjaySYChNlnz6T_12.967489_77.599937@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0f7929481f746576a424bbe6b7b30c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930949,
+            "region_id":85672165,
+            "venue_id":169544247
+        }
+    ],
+    "wof:id":169544247,
+    "wof:lastmodified":1449035964,
+    "wof:name":"Seaton Sales",
+    "wof:parent_id":85930949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "valve"
+    ]
+},
+  "bbox": [77.599937,12.967489,77.599937,12.967489],
+  "geometry": {"coordinates":[77.599937,12.967489],"type":"Point"}
+}

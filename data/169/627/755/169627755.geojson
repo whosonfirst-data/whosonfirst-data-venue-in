@@ -1,0 +1,63 @@
+{
+  "id": 169627755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.949013,11.011093,76.949013,11.011093",
+    "geom:latitude":11.011093,
+    "geom:longitude":76.949013,
+    "iso:country":"IN",
+    "sg:address":"136, East  Ponnurangam Road, R.s. Puram,",
+    "sg:city":"Coimbatore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 422 436 7075",
+    "sg:postcode":"641002",
+    "sg:tags":[
+        "synthetic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783699,
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rwjRgpFioHST314Vl1r0m_11.011093_76.949013@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"87a7929f950f2432f52ba149796814f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":85783699,
+            "region_id":85672245,
+            "venue_id":169627755
+        }
+    ],
+    "wof:id":169627755,
+    "wof:lastmodified":1449036041,
+    "wof:name":"Sri Ganessh Enterprises",
+    "wof:parent_id":85783699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "synthetic"
+    ]
+},
+  "bbox": [76.949013,11.011093,76.949013,11.011093],
+  "geometry": {"coordinates":[76.949013,11.011093],"type":"Point"}
+}

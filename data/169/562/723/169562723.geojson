@@ -1,0 +1,53 @@
+{
+  "id": 169562723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.247467,28.58186,77.247467,28.58186",
+    "geom:latitude":28.58186,
+    "geom:longitude":77.247467,
+    "iso:country":"IN",
+    "sg:address":"Masjid Road, Jangpura Bhoga",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2431 1010",
+    "sg:postcode":"110014",
+    "sg:province":"Delhi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928001,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O7FpSj49FELLJwtlzUHBq_28.581860_77.247467@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"33b9759616ff6ea34c7a5b9c78b157cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928001,
+            "region_id":85672123,
+            "venue_id":169562723
+        }
+    ],
+    "wof:id":169562723,
+    "wof:lastmodified":1449034437,
+    "wof:name":"Inter Exports",
+    "wof:parent_id":85928001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.247467,28.58186,77.247467,28.58186],
+  "geometry": {"coordinates":[77.247467,28.58186],"type":"Point"}
+}

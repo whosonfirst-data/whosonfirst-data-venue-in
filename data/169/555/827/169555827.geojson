@@ -1,0 +1,53 @@
+{
+  "id": 169555827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.880371,18.535721,73.880371,18.535721",
+    "geom:latitude":18.535721,
+    "geom:longitude":73.880371,
+    "iso:country":"IN",
+    "sg:address":"Bund Garden Road",
+    "sg:city":"Pune",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 206122622",
+    "sg:postcode":"411001",
+    "sg:province":"Maharashtra",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903913,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Dk1Jlx11OldGEPtjp6eqh_18.535721_73.880371@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ace2b83f9ee9810c14235b5fc2ff60e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85903913,
+            "region_id":85672171,
+            "venue_id":169555827
+        }
+    ],
+    "wof:id":169555827,
+    "wof:lastmodified":1449035494,
+    "wof:name":"Hotel Sagar Plaza",
+    "wof:parent_id":85903913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [73.880371,18.535721,73.880371,18.535721],
+  "geometry": {"coordinates":[73.880371,18.535721],"type":"Point"}
+}

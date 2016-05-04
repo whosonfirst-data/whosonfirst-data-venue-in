@@ -1,0 +1,61 @@
+{
+  "id": 169580261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.450989,17.290974,74.450989,17.290974",
+    "geom:latitude":17.290974,
+    "geom:longitude":74.450989,
+    "iso:country":"IN",
+    "sg:address":"P.o Road,",
+    "sg:city":"Samana",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 1764 501 388",
+    "sg:postcode":"147101",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RYl4IfJ95yvFIzYiAFz97_17.290974_74.450989@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"01f618f727b7b2bb927937052c2a089e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169580261
+        }
+    ],
+    "wof:id":169580261,
+    "wof:lastmodified":1449034911,
+    "wof:name":"J. D. Rubber Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [74.450989,17.290974,74.450989,17.290974],
+  "geometry": {"coordinates":[74.450989,17.290974],"type":"Point"}
+}

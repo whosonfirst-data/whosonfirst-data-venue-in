@@ -1,0 +1,63 @@
+{
+  "id": 169575119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.312027,28.402227,77.312027,28.402227",
+    "geom:latitude":28.402227,
+    "geom:longitude":77.312027,
+    "iso:country":"IN",
+    "sg:address":"16/5, Mathura Road,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 414 0329",
+    "sg:postcode":"121002",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928393,
+        85632469,
+        102030289,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xrZwu5Aolh3JzrjSb9nJi_28.402227_77.312027@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b3ec97d78d5ad620c2e1ba85a95dd05c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030289,
+            "neighbourhood_id":85928393,
+            "region_id":85672133,
+            "venue_id":169575119
+        }
+    ],
+    "wof:id":169575119,
+    "wof:lastmodified":1449033641,
+    "wof:name":"Assure Systems",
+    "wof:parent_id":85928393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.312027,28.402227,77.312027,28.402227],
+  "geometry": {"coordinates":[77.312027,28.402227],"type":"Point"}
+}

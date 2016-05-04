@@ -1,0 +1,62 @@
+{
+  "id": 169536985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"67.076614,24.832184,67.076614,24.832184",
+    "geom:latitude":24.832184,
+    "geom:longitude":67.076614,
+    "iso:country":"IN",
+    "sg:address":"64/1, 6th Main, Defence Colony, Indiranagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pottery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2521 9973",
+    "sg:postcode":"560001",
+    "sg:tags":[
+        "enamel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907579,
+        85632659,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O77sb9vSzuw0savVmxHFp_24.832184_67.076614@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"625e99597341a108cb80b1b8a1e4c622",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632659,
+            "locality_id":-1,
+            "neighbourhood_id":85907579,
+            "region_id":85675757,
+            "venue_id":169536985
+        }
+    ],
+    "wof:id":169536985,
+    "wof:lastmodified":1449034659,
+    "wof:name":"Earthen Symphony",
+    "wof:parent_id":85907579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "enamel"
+    ]
+},
+  "bbox": [67.076614,24.832184,67.076614,24.832184],
+  "geometry": {"coordinates":[67.076614,24.832184],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169614793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.31575,28.597759,77.31575,28.597759",
+    "geom:latitude":28.597759,
+    "geom:longitude":77.31575,
+    "iso:country":"IN",
+    "sg:address":"21, Anupam Apartments, Vasundhra Enclave,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2261 9573",
+    "sg:postcode":"110096",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928167,
+        85632469,
+        102031133,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CWZFhl5bFNGSr45q1o7Mj_28.597759_77.315750@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a830f98034d11bf4b9c4d9ee1602f5f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031133,
+            "neighbourhood_id":85928167,
+            "region_id":85672205,
+            "venue_id":169614793
+        }
+    ],
+    "wof:id":169614793,
+    "wof:lastmodified":1449036059,
+    "wof:name":"Sai Gr Impex Pvt. Ltd.",
+    "wof:parent_id":85928167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.31575,28.597759,77.31575,28.597759],
+  "geometry": {"coordinates":[77.31575,28.597759],"type":"Point"}
+}

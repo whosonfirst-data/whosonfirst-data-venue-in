@@ -1,0 +1,69 @@
+{
+  "id": 169525777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.822403,18.925873,72.822403,18.925873",
+    "geom:latitude":18.925873,
+    "geom:longitude":72.822403,
+    "iso:country":"IN",
+    "sg:address":"10th Floor, Bajaj Bhavan, Nariman Point,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2288 2250",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03px7QjP5F23JaSMNhO3vn_18.925873_72.822403@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b13b41a24bcd05fed8e26ca9b04e9cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169525777
+        }
+    ],
+    "wof:id":169525777,
+    "wof:lastmodified":1449035275,
+    "wof:name":"Hk Group Of Companies",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ]
+},
+  "bbox": [72.822403,18.925873,72.822403,18.925873],
+  "geometry": {"coordinates":[72.822403,18.925873],"type":"Point"}
+}

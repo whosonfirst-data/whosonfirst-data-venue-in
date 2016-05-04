@@ -1,0 +1,64 @@
+{
+  "id": 169576293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.574875,12.921575,77.574875,12.921575",
+    "geom:latitude":12.921575,
+    "geom:longitude":77.574875,
+    "iso:country":"IN",
+    "sg:address":"17, 44/3, Kanakapura Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2666 7742",
+    "sg:postcode":"560062",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.bharavilabs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931069,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uruqfsCeivpZxWwXy17ZB_12.921575_77.574875@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6b386e5165b1be392ee5256adacd19ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931069,
+            "region_id":85672165,
+            "venue_id":169576293
+        }
+    ],
+    "wof:id":169576293,
+    "wof:lastmodified":1449035194,
+    "wof:name":"Bharavi Labs Pvt. Ltd.",
+    "wof:parent_id":85931069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.574875,12.921575,77.574875,12.921575],
+  "geometry": {"coordinates":[77.574875,12.921575],"type":"Point"}
+}

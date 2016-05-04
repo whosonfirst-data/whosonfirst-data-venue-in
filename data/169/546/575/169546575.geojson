@@ -1,0 +1,65 @@
+{
+  "id": 169546575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.65432,16.50242,80.65432,16.50242",
+    "geom:latitude":16.50242,
+    "geom:longitude":80.65432,
+    "iso:country":"IN",
+    "sg:address":"No. 8, M.g.r. Nagar, 2nd Street, P.n. Road,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 553 0205",
+    "sg:postcode":"641602",
+    "sg:tags":[
+        "good",
+        "hosiery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903813,
+        85632469,
+        102028271,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I12jvHFPM4NsCzeAQlN11_16.502420_80.654320@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f33c0fbbfb5a727b9223c5a61ae416f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028271,
+            "neighbourhood_id":85903813,
+            "region_id":85672141,
+            "venue_id":169546575
+        }
+    ],
+    "wof:id":169546575,
+    "wof:lastmodified":1449032679,
+    "wof:name":"New Texs",
+    "wof:parent_id":85903813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "good",
+        "hosiery"
+    ]
+},
+  "bbox": [80.65432,16.50242,80.65432,16.50242],
+  "geometry": {"coordinates":[80.65432,16.50242],"type":"Point"}
+}

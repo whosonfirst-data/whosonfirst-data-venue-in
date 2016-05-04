@@ -1,0 +1,64 @@
+{
+  "id": 169558787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.194344,28.553955,77.194344,28.553955",
+    "geom:latitude":28.553955,
+    "geom:longitude":77.194344,
+    "iso:country":"IN",
+    "sg:address":"13, Hauz Khas Village,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 3096 0986",
+    "sg:postcode":"110016",
+    "sg:tags":[
+        "wax"
+    ],
+    "sg:website":"http://www.limelightcandles.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928659,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gP73Wo9usKydys5lpzUMc_28.553955_77.194344@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"dcbb14957c7646956a73909c104ea49e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928659,
+            "region_id":85672123,
+            "venue_id":169558787
+        }
+    ],
+    "wof:id":169558787,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Candleshoppe",
+    "wof:parent_id":85928659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [77.194344,28.553955,77.194344,28.553955],
+  "geometry": {"coordinates":[77.194344,28.553955],"type":"Point"}
+}

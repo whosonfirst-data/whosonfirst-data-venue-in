@@ -1,0 +1,63 @@
+{
+  "id": 169580515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.235664,13.084631,80.235664,13.084631",
+    "geom:latitude":13.084631,
+    "geom:longitude":80.235664,
+    "iso:country":"IN",
+    "sg:address":"No. 9, Mandapam Road, Kilpauk,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2792 2440",
+    "sg:postcode":"600010",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903949,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68G7yKnWSBPXFzPDrUXoi9_13.084631_80.235664@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"09adf5f712fb92e65475edc420e4c803",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903949,
+            "region_id":85672245,
+            "venue_id":169580515
+        }
+    ],
+    "wof:id":169580515,
+    "wof:lastmodified":1449034914,
+    "wof:name":"Jain Rubbers (p) Ltd.",
+    "wof:parent_id":85903949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [80.235664,13.084631,80.235664,13.084631],
+  "geometry": {"coordinates":[80.235664,13.084631],"type":"Point"}
+}

@@ -1,0 +1,54 @@
+{
+  "id": 169570943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.629272,12.933542,77.629272,12.933542",
+    "geom:latitude":12.933542,
+    "geom:longitude":77.629272,
+    "iso:country":"IN",
+    "sg:address":"4th Block, Koramangala",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 805501055",
+    "sg:postcode":"560034",
+    "sg:province":"Karnataka",
+    "sg:website":"http://www.ediumatics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931041,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PozJdmVq8qQYxxsqcTUUy_12.933542_77.629272@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1e0c86f70eabcee59421629406d5dc42",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931041,
+            "region_id":85672165,
+            "venue_id":169570943
+        }
+    ],
+    "wof:id":169570943,
+    "wof:lastmodified":1449034645,
+    "wof:name":"Educomp Datamatics Ltd",
+    "wof:parent_id":85931041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.629272,12.933542,77.629272,12.933542],
+  "geometry": {"coordinates":[77.629272,12.933542],"type":"Point"}
+}

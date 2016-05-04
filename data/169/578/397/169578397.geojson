@@ -1,0 +1,62 @@
+{
+  "id": 169578397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.854172,22.716246,75.854172,22.716246",
+    "geom:latitude":22.716246,
+    "geom:longitude":75.854172,
+    "iso:country":"IN",
+    "sg:address":"52, Jawahar Marg,",
+    "sg:city":"Indore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 731 236 7253",
+    "sg:postcode":"452007",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030041,
+        85672239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78ZodX0P9HwLnc8rxgztGE_22.716246_75.854172@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3c04f4c5c33a45d22bcb3de91d343445",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030041,
+            "neighbourhood_id":-1,
+            "region_id":85672239,
+            "venue_id":169578397
+        }
+    ],
+    "wof:id":169578397,
+    "wof:lastmodified":1449033518,
+    "wof:name":"Hakimuddin Haiderali",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.854172,22.716246,75.854172,22.716246],
+  "geometry": {"coordinates":[75.854172,22.716246],"type":"Point"}
+}

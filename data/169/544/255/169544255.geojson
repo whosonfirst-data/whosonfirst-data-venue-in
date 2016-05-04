@@ -1,0 +1,64 @@
+{
+  "id": 169544255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.549934,13.003607,77.549934,13.003607",
+    "geom:latitude":13.003607,
+    "geom:longitude":77.549934,
+    "iso:country":"IN",
+    "sg:address":"No.40, 1st Block, M.k.k. Road, Rajajinagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2342 6370",
+    "sg:postcode":"560010",
+    "sg:tags":[
+        "valve"
+    ],
+    "sg:website":"http://www.tridentpneumatics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gYToTriuKpODmbYrL8I5R_13.003607_77.549934@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6b8c7b91c575abf0d4b1604f111b5ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169544255
+        }
+    ],
+    "wof:id":169544255,
+    "wof:lastmodified":1449035963,
+    "wof:name":"Trident Pneumatics Pvt. Ltd.",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "valve"
+    ]
+},
+  "bbox": [77.549934,13.003607,77.549934,13.003607],
+  "geometry": {"coordinates":[77.549934,13.003607],"type":"Point"}
+}

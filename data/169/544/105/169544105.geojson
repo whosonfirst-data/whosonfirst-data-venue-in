@@ -1,0 +1,66 @@
+{
+  "id": 169544105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.590858,12.910249,77.590858,12.910249",
+    "geom:latitude":12.910249,
+    "geom:longitude":77.590858,
+    "iso:country":"IN",
+    "sg:address":"# 1754, 9th Cross, 18th Main  J.p. Nagar, \n2nd Phase,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2659 7912",
+    "sg:postcode":"560078",
+    "sg:tags":[
+        "ups",
+        "power"
+    ],
+    "sg:website":"http://www.powernetsolutions.tradeindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931065,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EjSP4IoGMmCAZIZpaD9EE_12.910249_77.590858@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a2582bfe916b31ba67b2bb1f0fb575ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931065,
+            "region_id":85672165,
+            "venue_id":169544105
+        }
+    ],
+    "wof:id":169544105,
+    "wof:lastmodified":1449035963,
+    "wof:name":"Powernet Solutions Pvt. Ltd.",
+    "wof:parent_id":85931065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ups",
+        "power"
+    ]
+},
+  "bbox": [77.590858,12.910249,77.590858,12.910249],
+  "geometry": {"coordinates":[77.590858,12.910249],"type":"Point"}
+}

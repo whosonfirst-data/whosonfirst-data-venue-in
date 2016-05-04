@@ -1,0 +1,66 @@
+{
+  "id": 169598507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.932533,30.876528,75.932533,30.876528",
+    "geom:latitude":30.876528,
+    "geom:longitude":75.932533,
+    "iso:country":"IN",
+    "sg:address":"E-456, Phase-vi, Focal Point,",
+    "sg:city":"Ludhiana",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 161 508 8480",
+    "sg:postcode":"141010",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029555,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BgkIxOqBfclt3Dr7Ua36G_30.876528_75.932533@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5e1de1c6755441f0b529c0cab6c1f4ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029555,
+            "neighbourhood_id":-1,
+            "region_id":85672195,
+            "venue_id":169598507
+        }
+    ],
+    "wof:id":169598507,
+    "wof:lastmodified":1449032858,
+    "wof:name":"Par Compounds",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [75.932533,30.876528,75.932533,30.876528],
+  "geometry": {"coordinates":[75.932533,30.876528],"type":"Point"}
+}

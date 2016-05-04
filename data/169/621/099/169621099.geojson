@@ -1,0 +1,62 @@
+{
+  "id": 169621099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.290436,28.669384,77.290436,28.669384",
+    "geom:latitude":28.669384,
+    "geom:longitude":77.290436,
+    "iso:country":"IN",
+    "sg:address":"367, Farsh Bazar, Shahdara,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2386 1034",
+    "sg:postcode":"110032",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RCp40nnTNcTzjmUgrQ2Zw_28.669384_77.290436@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e6b54ca4b1ba5e61ecb8106451ce3138",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169621099
+        }
+    ],
+    "wof:id":169621099,
+    "wof:lastmodified":1449035560,
+    "wof:name":"Shree Gobind Pharmaceuticlas Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.290436,28.669384,77.290436,28.669384],
+  "geometry": {"coordinates":[77.290436,28.669384],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169630831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.913483,19.093426,72.913483,19.093426",
+    "geom:latitude":19.093426,
+    "geom:longitude":72.913483,
+    "iso:country":"IN",
+    "sg:address":"C/220, Kailash Esplande, Ghatkopar (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2515 8183",
+    "sg:postcode":"400086",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931531,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aWH4g3O5lxMWv4y3rU4Tb_19.093426_72.913483@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"04d26efd9812843e5540294006086d65",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931531,
+            "region_id":85672171,
+            "venue_id":169630831
+        }
+    ],
+    "wof:id":169630831,
+    "wof:lastmodified":1449033869,
+    "wof:name":"Sunflex Auto Parts",
+    "wof:parent_id":85931531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.913483,19.093426,72.913483,19.093426],
+  "geometry": {"coordinates":[72.913483,19.093426],"type":"Point"}
+}

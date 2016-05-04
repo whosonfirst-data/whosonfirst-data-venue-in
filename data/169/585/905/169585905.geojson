@@ -1,0 +1,63 @@
+{
+  "id": 169585905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.188499,32.240002,77.188499,32.240002",
+    "geom:latitude":32.240002,
+    "geom:longitude":77.188499,
+    "iso:country":"IN",
+    "sg:address":"Manali Industrial Area, Manali,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2594 1001",
+    "sg:postcode":"600068",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "sg:website":"http://www.madrasfert.nic.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029475,
+        85672129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59MPawgOSyRxvG8bvuVWlp_32.240002_77.188499@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3f25c8c99ae8e2b6dc056bcc1ff944d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029475,
+            "neighbourhood_id":-1,
+            "region_id":85672129,
+            "venue_id":169585905
+        }
+    ],
+    "wof:id":169585905,
+    "wof:lastmodified":1449034885,
+    "wof:name":"Madras Fertilizers Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.188499,32.240002,77.188499,32.240002],
+  "geometry": {"coordinates":[77.188499,32.240002],"type":"Point"}
+}

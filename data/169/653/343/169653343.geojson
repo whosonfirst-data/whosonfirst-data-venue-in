@@ -1,0 +1,69 @@
+{
+  "id": 169653343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.883168,22.72939,75.883168,22.72939",
+    "geom:latitude":22.72939,
+    "geom:longitude":75.883168,
+    "iso:country":"IN",
+    "sg:address":"31/2, New Palasia Near Dhobi Ghat",
+    "sg:city":"Indore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"452017",
+    "sg:tags":[
+        "web-2-0-firm",
+        "web-design-firm",
+        "-net-development",
+        "web-2-0-design"
+    ],
+    "sg:website":"http://www.vinfotech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933763,
+        85632469,
+        102030041,
+        85672239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QPgbRkkUDjk7MdeYXMUx5_22.729390_75.883168@1308163239"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"74c73460ec218a50e6d552c4fc3de0c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030041,
+            "neighbourhood_id":85933763,
+            "region_id":85672239,
+            "venue_id":169653343
+        }
+    ],
+    "wof:id":169653343,
+    "wof:lastmodified":1449032917,
+    "wof:name":"Vinfotech",
+    "wof:parent_id":85933763,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web-2-0-firm",
+        "web-design-firm",
+        "-net-development",
+        "web-2-0-design"
+    ]
+},
+  "bbox": [75.883168,22.72939,75.883168,22.72939],
+  "geometry": {"coordinates":[75.883168,22.72939],"type":"Point"}
+}

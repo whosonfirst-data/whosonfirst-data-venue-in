@@ -1,0 +1,64 @@
+{
+  "id": 169577107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.474335,17.390802,78.474335,17.390802",
+    "geom:latitude":17.390802,
+    "geom:longitude":78.474335,
+    "iso:country":"IN",
+    "sg:address":"18 Housing Society, N.d.s.e. Part-i,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2462 2403",
+    "sg:postcode":"110049",
+    "sg:tags":[
+        "dye"
+    ],
+    "sg:website":"http://www.ganeshpolytex.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930739,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NKl27v56e7WHaQmXdB71a_17.390802_78.474335@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3207b70fe87b765c1cda11f778c4ebbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930739,
+            "region_id":85672141,
+            "venue_id":169577107
+        }
+    ],
+    "wof:id":169577107,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Ganesh Polytex Ltd.",
+    "wof:parent_id":85930739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye"
+    ]
+},
+  "bbox": [78.474335,17.390802,78.474335,17.390802],
+  "geometry": {"coordinates":[78.474335,17.390802],"type":"Point"}
+}

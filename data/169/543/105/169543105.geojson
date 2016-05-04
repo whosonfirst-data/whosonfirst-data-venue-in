@@ -1,0 +1,66 @@
+{
+  "id": 169543105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.594116,12.906327,77.594116,12.906327",
+    "geom:latitude":12.906327,
+    "geom:longitude":77.594116,
+    "iso:country":"IN",
+    "sg:address":"No. 21, Btm 2nd Stage, 1st Phase, Ring Road, Btm Layout,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Tunnel",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2668 1225",
+    "sg:postcode":"560076",
+    "sg:tags":[
+        "tarpaulin",
+        "tent"
+    ],
+    "sg:website":"http://www.concordindia.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931061,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JoXKJreQu7Z0YxhbqPvkp_12.906327_77.594116@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c1c92b7f6d95cd158b15e06c944e5353",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931061,
+            "region_id":85672165,
+            "venue_id":169543105
+        }
+    ],
+    "wof:id":169543105,
+    "wof:lastmodified":1449033334,
+    "wof:name":"Concord Buildmat Pvt. Ltd.",
+    "wof:parent_id":85931061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tarpaulin",
+        "tent"
+    ]
+},
+  "bbox": [77.594116,12.906327,77.594116,12.906327],
+  "geometry": {"coordinates":[77.594116,12.906327],"type":"Point"}
+}

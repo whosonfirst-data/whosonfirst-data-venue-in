@@ -1,0 +1,58 @@
+{
+  "id": 169546513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.547226,12.984525,77.547226,12.984525",
+    "geom:latitude":12.984525,
+    "geom:longitude":77.547226,
+    "iso:country":"IN",
+    "sg:address":"8/96, Annapoorna Layout, Gandhinagar,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 247 6663",
+    "sg:postcode":"641603",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PwSLvgCnE4HIlNLXNyZc3_12.984525_77.547226@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5154f537727ceeaf05394b9d92a81450",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169546513
+        }
+    ],
+    "wof:id":169546513,
+    "wof:lastmodified":1449032679,
+    "wof:name":"Veerabathra Fabric",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.547226,12.984525,77.547226,12.984525],
+  "geometry": {"coordinates":[77.547226,12.984525],"type":"Point"}
+}

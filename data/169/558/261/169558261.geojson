@@ -1,0 +1,64 @@
+{
+  "id": 169558261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.687149,12.999802,77.687149,12.999802",
+    "geom:latitude":12.999802,
+    "geom:longitude":77.687149,
+    "iso:country":"IN",
+    "sg:address":"Whitefield Road, Mahadevapura,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2852 4239",
+    "sg:postcode":"560048",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.bhorukagases.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931169,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rVbKMsj1WzVC1W4tY4eua_12.999802_77.687149@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5ffef75fb6e6edeaa490c81857fd8a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931169,
+            "region_id":85672165,
+            "venue_id":169558261
+        }
+    ],
+    "wof:id":169558261,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Bhoruka Gases Ltd.",
+    "wof:parent_id":85931169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [77.687149,12.999802,77.687149,12.999802],
+  "geometry": {"coordinates":[77.687149,12.999802],"type":"Point"}
+}

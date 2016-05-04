@@ -1,0 +1,54 @@
+{
+  "id": 169559525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.908005,19.061331,72.908005,19.061331",
+    "geom:latitude":19.061331,
+    "geom:longitude":72.908005,
+    "iso:country":"IN",
+    "sg:address":"Lokhande Marg, Chembur (w)",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2528 3099",
+    "sg:postcode":"400089",
+    "sg:province":"Maharashtra",
+    "sg:website":"http://www.markindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931501,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aBgCnbx0CIyrp8g5npEYF_19.061331_72.908005@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e49a5cf628e67fb8dd0f2c4df1b4c189",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931501,
+            "region_id":85672171,
+            "venue_id":169559525
+        }
+    ],
+    "wof:id":169559525,
+    "wof:lastmodified":1449035238,
+    "wof:name":"Mark Engineers (india) Pvt Ltd",
+    "wof:parent_id":85931501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.908005,19.061331,72.908005,19.061331],
+  "geometry": {"coordinates":[72.908005,19.061331],"type":"Point"}
+}

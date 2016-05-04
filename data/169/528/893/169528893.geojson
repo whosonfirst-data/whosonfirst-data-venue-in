@@ -1,0 +1,67 @@
+{
+  "id": 169528893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831146,18.947405,72.831146,18.947405",
+    "geom:latitude":18.947405,
+    "geom:longitude":72.831146,
+    "iso:country":"IN",
+    "sg:address":"32, Vithaldas Road, Devkaran Mansion, 1st Floor,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2201 5144",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "cables/cable",
+        "conductor",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73X7yvv7gatdwoJo6gBujD_18.947405_72.831146@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c9256d1ad469d18e6801e00964e1adc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169528893
+        }
+    ],
+    "wof:id":169528893,
+    "wof:lastmodified":1449033569,
+    "wof:name":"Brooks Cable Works",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cables/cable",
+        "conductor",
+        "accessory"
+    ]
+},
+  "bbox": [72.831146,18.947405,72.831146,18.947405],
+  "geometry": {"coordinates":[72.831146,18.947405],"type":"Point"}
+}

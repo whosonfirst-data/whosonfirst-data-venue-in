@@ -1,0 +1,63 @@
+{
+  "id": 169539713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.715897,12.992188,77.715897,12.992188",
+    "geom:latitude":12.992188,
+    "geom:longitude":77.715897,
+    "iso:country":"IN",
+    "sg:address":"10/1-b, Hoodi,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Musical Instruments",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2854 0021",
+    "sg:postcode":"560048",
+    "sg:tags":[
+        "scientific"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931165,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Fn1PCdFx8HD2NWzNkiPES_12.992188_77.715897@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2d41fe4e17f2eaf25cf03d3983e7aafc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931165,
+            "region_id":85672165,
+            "venue_id":169539713
+        }
+    ],
+    "wof:id":169539713,
+    "wof:lastmodified":1449036039,
+    "wof:name":"Ika",
+    "wof:parent_id":85931165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scientific"
+    ]
+},
+  "bbox": [77.715897,12.992188,77.715897,12.992188],
+  "geometry": {"coordinates":[77.715897,12.992188],"type":"Point"}
+}

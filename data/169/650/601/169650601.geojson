@@ -1,0 +1,79 @@
+{
+  "id": 169650601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.08128,28.50641,77.08128,28.50641",
+    "geom:latitude":28.50641,
+    "geom:longitude":77.08128,
+    "iso:country":"IN",
+    "sg:address":"424 Udyog Vihar Phase IV",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"122012",
+    "sg:tags":[
+        "rupeetimes",
+        "loan",
+        "home-loan",
+        "car-loan",
+        "education-loan",
+        "saving-accounts",
+        "personal-loan",
+        "fd",
+        "fixed-deposit"
+    ],
+    "sg:website":"http://www.rupeetimes.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928557,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZmF1MgzGxbcR84OKgmCss_28.506410_77.081280@1308163237"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d13f336768329bb9b2f30bce80a9d4c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928557,
+            "region_id":85672133,
+            "venue_id":169650601
+        }
+    ],
+    "wof:id":169650601,
+    "wof:lastmodified":1449034699,
+    "wof:name":"RupeeTimes",
+    "wof:parent_id":85928557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rupeetimes",
+        "loan",
+        "home-loan",
+        "car-loan",
+        "education-loan",
+        "saving-accounts",
+        "personal-loan",
+        "fd",
+        "fixed-deposit"
+    ]
+},
+  "bbox": [77.08128,28.50641,77.08128,28.50641],
+  "geometry": {"coordinates":[77.08128,28.50641],"type":"Point"}
+}

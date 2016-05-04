@@ -1,0 +1,67 @@
+{
+  "id": 169527659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.231293,13.05995,80.231293,13.05995",
+    "geom:latitude":13.05995,
+    "geom:longitude":80.231293,
+    "iso:country":"IN",
+    "sg:address":"148/8, Garodia Nagar,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2506 0430",
+    "sg:postcode":"400077",
+    "sg:tags":[
+        "spare",
+        "bicycles",
+        "component"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903935,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CWNcNlGRO34tUEes2heKw_13.059950_80.231293@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"67f9993ef81db430105f2249a66f5ae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903935,
+            "region_id":85672245,
+            "venue_id":169527659
+        }
+    ],
+    "wof:id":169527659,
+    "wof:lastmodified":1449035278,
+    "wof:name":"Mini Exports",
+    "wof:parent_id":85903935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "bicycles",
+        "component"
+    ]
+},
+  "bbox": [80.231293,13.05995,80.231293,13.05995],
+  "geometry": {"coordinates":[80.231293,13.05995],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169530401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.836494,18.93298,72.836494,18.93298",
+    "geom:latitude":18.93298,
+    "geom:longitude":72.836494,
+    "iso:country":"IN",
+    "sg:address":"96/98, Mint Road,fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2262 2459",
+    "sg:postcode":"400053",
+    "sg:tags":[
+        "hardware",
+        "peripheral"
+    ],
+    "sg:website":"http://www.wepindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1k81IjpTpprgxqZBW0X6ds_18.932980_72.836494@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cfa4484b70da7b98e3789a89ada960c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169530401
+        }
+    ],
+    "wof:id":169530401,
+    "wof:lastmodified":1449034446,
+    "wof:name":"Wep Peripherals Ltd.",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware",
+        "peripheral"
+    ]
+},
+  "bbox": [72.836494,18.93298,72.836494,18.93298],
+  "geometry": {"coordinates":[72.836494,18.93298],"type":"Point"}
+}

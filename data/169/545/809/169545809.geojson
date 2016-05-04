@@ -1,0 +1,65 @@
+{
+  "id": 169545809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.586075,12.966959,77.586075,12.966959",
+    "geom:latitude":12.966959,
+    "geom:longitude":77.586075,
+    "iso:country":"IN",
+    "sg:address":"139s, Shah Complex,",
+    "sg:city":"Tirunelveli",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 462 233 6712",
+    "sg:postcode":"627006",
+    "sg:tags":[
+        "equipment",
+        "good"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uKORfByY47pIYwJ7ImFer_12.966959_77.586075@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"30e43102e2393842ad360be354f156d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169545809
+        }
+    ],
+    "wof:id":169545809,
+    "wof:lastmodified":1449033487,
+    "wof:name":"Asia Global Enterprises",
+    "wof:parent_id":85930903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "good"
+    ]
+},
+  "bbox": [77.586075,12.966959,77.586075,12.966959],
+  "geometry": {"coordinates":[77.586075,12.966959],"type":"Point"}
+}

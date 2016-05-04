@@ -1,0 +1,66 @@
+{
+  "id": 169534303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.885597,19.054127,72.885597,19.054127",
+    "geom:latitude":19.054127,
+    "geom:longitude":72.885597,
+    "iso:country":"IN",
+    "sg:address":"Bezzola Complex, 6th Floor, V.n. Purav Marg, Chembur,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2527 6410",
+    "sg:postcode":"400071",
+    "sg:tags":[
+        "engine",
+        "electric"
+    ],
+    "sg:website":"http://www.tata.com/tata_fin/index.htm",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903847,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EnSYLAg8RrSspQRjzXCNB_19.054127_72.885597@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"be357c121136e68c6f6c1e342e9f7e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903847,
+            "region_id":85672171,
+            "venue_id":169534303
+        }
+    ],
+    "wof:id":169534303,
+    "wof:lastmodified":1449033547,
+    "wof:name":"Tata Finance Ltd",
+    "wof:parent_id":85903847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "electric"
+    ]
+},
+  "bbox": [72.885597,19.054127,72.885597,19.054127],
+  "geometry": {"coordinates":[72.885597,19.054127],"type":"Point"}
+}

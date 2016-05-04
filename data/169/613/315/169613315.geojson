@@ -1,0 +1,62 @@
+{
+  "id": 169613315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.31134,28.410011,77.31134,28.410011",
+    "geom:latitude":28.410011,
+    "geom:longitude":77.31134,
+    "iso:country":"IN",
+    "sg:address":"19/6, Mathura Road,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 228 0071",
+    "sg:postcode":"121006",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030289,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0geGcnGh22DeW2EqTO5fBT_28.410011_77.311340@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"92783316f99df88783508071f372e85f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030289,
+            "neighbourhood_id":-1,
+            "region_id":85672133,
+            "venue_id":169613315
+        }
+    ],
+    "wof:id":169613315,
+    "wof:lastmodified":1449034215,
+    "wof:name":"S. M. Polymers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [77.31134,28.410011,77.31134,28.410011],
+  "geometry": {"coordinates":[77.31134,28.410011],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 169652257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.610281,12.995933,77.610281,12.995933",
+    "geom:latitude":12.995933,
+    "geom:longitude":77.610281,
+    "iso:country":"IN",
+    "sg:address":"17.24/1,Spencer Road Frazer Town",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560005",
+    "sg:tags":[
+        "software",
+        "application-software",
+        "software-search",
+        "advertise-software",
+        "process-software",
+        "enterprise-software"
+    ],
+    "sg:website":"http://www.ipott.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930871,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l9hFiVvXxdBmFqqXVL5iL_12.995933_77.610281@1308163241"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"39e9f23be96c7af01d69c381e131c908",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930871,
+            "region_id":85672165,
+            "venue_id":169652257
+        }
+    ],
+    "wof:id":169652257,
+    "wof:lastmodified":1449034806,
+    "wof:name":"iPOTT Softech India Private Limited",
+    "wof:parent_id":85930871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software",
+        "application-software",
+        "software-search",
+        "advertise-software",
+        "process-software",
+        "enterprise-software"
+    ]
+},
+  "bbox": [77.610281,12.995933,77.610281,12.995933],
+  "geometry": {"coordinates":[77.610281,12.995933],"type":"Point"}
+}

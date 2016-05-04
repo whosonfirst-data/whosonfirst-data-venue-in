@@ -1,0 +1,62 @@
+{
+  "id": 169607659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.891884,22.731628,75.891884,22.731628",
+    "geom:latitude":22.731628,
+    "geom:longitude":75.891884,
+    "iso:country":"IN",
+    "sg:address":"N-79, Anoop Nagar,",
+    "sg:city":"Indore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 731 255 0686",
+    "sg:postcode":"452001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030041,
+        85672239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zz2PRdhy2F8GEK6kLCvVv_22.731628_75.891884@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7d5b25be2bcef4c9b770c06ec619d5de",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030041,
+            "neighbourhood_id":-1,
+            "region_id":85672239,
+            "venue_id":169607659
+        }
+    ],
+    "wof:id":169607659,
+    "wof:lastmodified":1449033122,
+    "wof:name":"Rainbow Drugs & Chemicals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.891884,22.731628,75.891884,22.731628],
+  "geometry": {"coordinates":[75.891884,22.731628],"type":"Point"}
+}

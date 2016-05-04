@@ -1,0 +1,53 @@
+{
+  "id": 169568557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.054649,28.609533,77.054649,28.609533",
+    "geom:latitude":28.609533,
+    "geom:longitude":77.054649,
+    "iso:country":"IN",
+    "sg:address":"Jain Colony",
+    "sg:city":"Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2593 6844",
+    "sg:postcode":"110007",
+    "sg:province":"Delhi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927883,
+        85632469,
+        102031165,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R3dWJc2hMqep22b0UPpUm_28.609533_77.054649@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"86e34b9fba966d99720d1cc9bc01a9b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031165,
+            "neighbourhood_id":85927883,
+            "region_id":85672123,
+            "venue_id":169568557
+        }
+    ],
+    "wof:id":169568557,
+    "wof:lastmodified":1449032612,
+    "wof:name":"Atam Impex",
+    "wof:parent_id":85927883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.054649,28.609533,77.054649,28.609533],
+  "geometry": {"coordinates":[77.054649,28.609533],"type":"Point"}
+}

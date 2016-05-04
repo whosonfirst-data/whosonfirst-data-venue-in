@@ -1,0 +1,62 @@
+{
+  "id": 169599475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.717781,30.7176,76.717781,30.7176",
+    "geom:latitude":30.7176,
+    "geom:longitude":76.717781,
+    "iso:country":"IN",
+    "sg:address":"1511, G.i.d.c., Phase-iv,",
+    "sg:city":"Wadhwan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2752 241 089",
+    "sg:postcode":"363035",
+    "sg:tags":[
+        "polymer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031103,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LlddeBoRr76DgfJ68vIUL_30.717600_76.717781@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"20e1e39454c53540e0c5489b69ac80da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031103,
+            "neighbourhood_id":-1,
+            "region_id":85672195,
+            "venue_id":169599475
+        }
+    ],
+    "wof:id":169599475,
+    "wof:lastmodified":1449034206,
+    "wof:name":"Parmar Polymers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [76.717781,30.7176,76.717781,30.7176],
+  "geometry": {"coordinates":[76.717781,30.7176],"type":"Point"}
+}

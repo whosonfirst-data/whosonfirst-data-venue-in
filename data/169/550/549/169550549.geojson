@@ -1,0 +1,64 @@
+{
+  "id": 169550549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.750069,15.565351,73.750069,15.565351",
+    "geom:latitude":15.565351,
+    "geom:longitude":73.750069,
+    "iso:country":"IN",
+    "sg:address":"P.o. Box No. 24,",
+    "sg:city":"V.u. Nagar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2692 573 642",
+    "sg:postcode":"388121",
+    "sg:tags":[
+        "resin"
+    ],
+    "sg:website":"http://www.synthad.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933351,
+        85632469,
+        102030933,
+        85672255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32fGLMdvOCUH8Cgt7WenBs_15.565351_73.750069@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"04a532e3ec51dbf4657665551df3126a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030933,
+            "neighbourhood_id":85933351,
+            "region_id":85672255,
+            "venue_id":169550549
+        }
+    ],
+    "wof:id":169550549,
+    "wof:lastmodified":1449034477,
+    "wof:name":"Synthad Chemicals Pvt. Ltd.",
+    "wof:parent_id":85933351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [73.750069,15.565351,73.750069,15.565351],
+  "geometry": {"coordinates":[73.750069,15.565351],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169584167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.643204,23.241978,72.643204,23.241978",
+    "geom:latitude":23.241978,
+    "geom:longitude":72.643204,
+    "iso:country":"IN",
+    "sg:address":"234, Sector-24,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 223 0797",
+    "sg:postcode":"121005",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.lakhanishoes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030253,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KvLeOvpqwrfu9FFSCjrWA_23.241978_72.643204@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"476a82bc578835fa107603377f3643f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030253,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169584167
+        }
+    ],
+    "wof:id":169584167,
+    "wof:lastmodified":1449033038,
+    "wof:name":"Lakhani Rubber Works",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.643204,23.241978,72.643204,23.241978],
+  "geometry": {"coordinates":[72.643204,23.241978],"type":"Point"}
+}

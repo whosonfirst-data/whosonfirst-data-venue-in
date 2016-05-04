@@ -1,0 +1,54 @@
+{
+  "id": 169560263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.20459,28.557621,77.20459,28.557621",
+    "geom:latitude":28.557621,
+    "geom:longitude":77.20459,
+    "iso:country":"IN",
+    "sg:address":"D-1 (k-84), Green Park",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2685 2838",
+    "sg:postcode":"110016",
+    "sg:province":"Delhi",
+    "sg:website":"http://www.autofit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928209,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61Kr5sCylaK12Rby7I2KjO_28.557621_77.204590@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ecbdabc69fbeca3732a374fc44366397",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928209,
+            "region_id":85672123,
+            "venue_id":169560263
+        }
+    ],
+    "wof:id":169560263,
+    "wof:lastmodified":1449035182,
+    "wof:name":"Autofit Ltd",
+    "wof:parent_id":85928209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.20459,28.557621,77.20459,28.557621],
+  "geometry": {"coordinates":[77.20459,28.557621],"type":"Point"}
+}

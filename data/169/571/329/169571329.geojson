@@ -1,0 +1,53 @@
+{
+  "id": 169571329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.19165,28.652443,77.19165,28.652443",
+    "geom:latitude":28.652443,
+    "geom:longitude":77.19165,
+    "iso:country":"IN",
+    "sg:address":"Karol Bagh",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2578 9934",
+    "sg:postcode":"110005",
+    "sg:province":"Delhi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903883,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LGs5uPu4HFiEoDuX616Hs_28.652443_77.191650@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5c5a83be08368c5b6198af7317f7988a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903883,
+            "region_id":85672123,
+            "venue_id":169571329
+        }
+    ],
+    "wof:id":169571329,
+    "wof:lastmodified":1449034946,
+    "wof:name":"M B Overseas",
+    "wof:parent_id":85903883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.19165,28.652443,77.19165,28.652443],
+  "geometry": {"coordinates":[77.19165,28.652443],"type":"Point"}
+}

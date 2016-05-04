@@ -1,0 +1,64 @@
+{
+  "id": 169591881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.448906,17.425768,78.448906,17.425768",
+    "geom:latitude":17.425768,
+    "geom:longitude":78.448906,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 61, 1st Floor, Nagarjuna Hills,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2335 0235",
+    "sg:postcode":"500082",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "sg:website":"http://www.nagarjunagroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930753,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33hpIINsinkc0Ue1Infmtr_17.425768_78.448906@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3ee2dd3f476dfc486e31e8d8beff7e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930753,
+            "region_id":85672141,
+            "venue_id":169591881
+        }
+    ],
+    "wof:id":169591881,
+    "wof:lastmodified":1449034451,
+    "wof:name":"Nagarjuna Agrichem Ltd.",
+    "wof:parent_id":85930753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [78.448906,17.425768,78.448906,17.425768],
+  "geometry": {"coordinates":[78.448906,17.425768],"type":"Point"}
+}

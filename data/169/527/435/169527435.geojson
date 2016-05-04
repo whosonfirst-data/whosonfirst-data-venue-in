@@ -1,0 +1,63 @@
+{
+  "id": 169527435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.597527,12.980626,77.597527,12.980626",
+    "geom:latitude":12.980626,
+    "geom:longitude":77.597527,
+    "iso:country":"IN",
+    "sg:address":"81, Queenls Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2208 9090",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "bearing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930953,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A29AefBN8LoJmjK50RHQE_12.980626_77.597527@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9a01faa55a8a52d021aa1f9fef869026",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930953,
+            "region_id":85672165,
+            "venue_id":169527435
+        }
+    ],
+    "wof:id":169527435,
+    "wof:lastmodified":1449035279,
+    "wof:name":"Harchandrai Sons",
+    "wof:parent_id":85930953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bearing"
+    ]
+},
+  "bbox": [77.597527,12.980626,77.597527,12.980626],
+  "geometry": {"coordinates":[77.597527,12.980626],"type":"Point"}
+}

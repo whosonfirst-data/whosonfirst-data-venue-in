@@ -1,0 +1,67 @@
+{
+  "id": 169559697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.479454,17.446539,78.479454,17.446539",
+    "geom:latitude":17.446539,
+    "geom:longitude":78.479454,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 8a, Rasoolpura,",
+    "sg:city":"Secunderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2790 1196",
+    "sg:postcode":"500003",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930727,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lwgXHsgyBXy09gFRozknA_17.446539_78.479454@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"657af4b6f69e6b726a07e27aabe11b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930727,
+            "region_id":85672141,
+            "venue_id":169559697
+        }
+    ],
+    "wof:id":169559697,
+    "wof:lastmodified":1449035238,
+    "wof:name":"Corrocoat Industries",
+    "wof:parent_id":85930727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [78.479454,17.446539,78.479454,17.446539],
+  "geometry": {"coordinates":[78.479454,17.446539],"type":"Point"}
+}

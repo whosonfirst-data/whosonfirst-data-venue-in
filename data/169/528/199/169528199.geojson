@@ -1,0 +1,66 @@
+{
+  "id": 169528199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.840324,19.214216,72.840324,19.214216",
+    "geom:latitude":19.214216,
+    "geom:longitude":72.840324,
+    "iso:country":"IN",
+    "sg:address":"B2-304, Breezy Corner, Mahavir Nagar, Kandivali (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2867 8276",
+    "sg:postcode":"400067",
+    "sg:tags":[
+        "tile",
+        "brick"
+    ],
+    "sg:website":"http://www.metaltiles.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931623,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yNQi9yoPyFzp652rmkaYP_19.214216_72.840324@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2eb7ec830db45ccaf2252f17123c8932",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931623,
+            "region_id":85672171,
+            "venue_id":169528199
+        }
+    ],
+    "wof:id":169528199,
+    "wof:lastmodified":1449033565,
+    "wof:name":"Charu Enterprise",
+    "wof:parent_id":85931623,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "brick"
+    ]
+},
+  "bbox": [72.840324,19.214216,72.840324,19.214216],
+  "geometry": {"coordinates":[72.840324,19.214216],"type":"Point"}
+}

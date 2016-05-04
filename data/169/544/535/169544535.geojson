@@ -1,0 +1,65 @@
+{
+  "id": 169544535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.557976,12.915187,77.557976,12.915187",
+    "geom:latitude":12.915187,
+    "geom:longitude":77.557976,
+    "iso:country":"IN",
+    "sg:address":"296/297, 5th Main, 4 Th Phase P.i.a,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2839 6579",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "watch",
+        "clock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931103,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UA861fgujqr6D5KJ3LWki_12.915187_77.557976@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"684f2823dd1b56b76f06a2a4234bc6fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931103,
+            "region_id":85672165,
+            "venue_id":169544535
+        }
+    ],
+    "wof:id":169544535,
+    "wof:lastmodified":1449035962,
+    "wof:name":"Kddl",
+    "wof:parent_id":85931103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "watch",
+        "clock"
+    ]
+},
+  "bbox": [77.557976,12.915187,77.557976,12.915187],
+  "geometry": {"coordinates":[77.557976,12.915187],"type":"Point"}
+}

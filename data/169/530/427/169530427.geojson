@@ -1,0 +1,66 @@
+{
+  "id": 169530427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.845619,19.036932,72.845619,19.036932",
+    "geom:latitude":19.036932,
+    "geom:longitude":72.845619,
+    "iso:country":"IN",
+    "sg:address":"106, Udyog Mandir No. 2, Mahim (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2446 7311",
+    "sg:postcode":"400016",
+    "sg:tags":[
+        "hardware",
+        "peripheral"
+    ],
+    "sg:website":"http://www.olinvon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903903,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PRoh7wlIeC7dSq65Zs8X1_19.036932_72.845619@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a2cbf2434aee7438ef605cab88f2b968",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903903,
+            "region_id":85672171,
+            "venue_id":169530427
+        }
+    ],
+    "wof:id":169530427,
+    "wof:lastmodified":1449034443,
+    "wof:name":"Tjk Impex M.b. Infotech",
+    "wof:parent_id":85903903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware",
+        "peripheral"
+    ]
+},
+  "bbox": [72.845619,19.036932,72.845619,19.036932],
+  "geometry": {"coordinates":[72.845619,19.036932],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169534711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.83181,18.946951,72.83181,18.946951",
+    "geom:latitude":18.946951,
+    "geom:longitude":72.83181,
+    "iso:country":"IN",
+    "sg:address":"154, Kantilal Sharma Marg, (lohar Chawl), Opp. Dena Bank,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2208 9295",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ],
+    "sg:website":"http://www.mercantileelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66NNTPCGLCJJd6xOTJDWvy_18.946951_72.831810@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c7c3b2baa8fdc6a3007e6696587cc807",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169534711
+        }
+    ],
+    "wof:id":169534711,
+    "wof:lastmodified":1449033552,
+    "wof:name":"Mercantile Electric Corporation",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ]
+},
+  "bbox": [72.83181,18.946951,72.83181,18.946951],
+  "geometry": {"coordinates":[72.83181,18.946951],"type":"Point"}
+}

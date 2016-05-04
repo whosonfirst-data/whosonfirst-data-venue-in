@@ -1,0 +1,54 @@
+{
+  "id": 169568015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.255829,13.051681,80.255829,13.051681",
+    "geom:latitude":13.051681,
+    "geom:longitude":80.255829,
+    "iso:country":"IN",
+    "sg:address":"Gopalapuram",
+    "sg:city":"Chennai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 5211 9999",
+    "sg:postcode":"600086",
+    "sg:province":"Tamil Nadu",
+    "sg:website":"http://www.protonweb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903975,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qBCRabfUIH3HQGbl6u9Gc_13.051681_80.255829@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ea99daf6e861446daf34be2a1c2ebbba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903975,
+            "region_id":85672245,
+            "venue_id":169568015
+        }
+    ],
+    "wof:id":169568015,
+    "wof:lastmodified":1449032610,
+    "wof:name":"Protonweb Solutions Ltd",
+    "wof:parent_id":85903975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.255829,13.051681,80.255829,13.051681],
+  "geometry": {"coordinates":[80.255829,13.051681],"type":"Point"}
+}

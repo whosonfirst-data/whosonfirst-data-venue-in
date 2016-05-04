@@ -1,0 +1,62 @@
+{
+  "id": 169554423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.641045,12.977213,77.641045,12.977213",
+    "geom:latitude":12.977213,
+    "geom:longitude":77.641045,
+    "iso:country":"IN",
+    "sg:address":"81/3 G.i.d.c.,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 263 3880",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62uqYy06tkhwqFedobiPuj_12.977213_77.641045@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"59cc75180cf559e43afb603eb56463f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169554423
+        }
+    ],
+    "wof:id":169554423,
+    "wof:lastmodified":1449033369,
+    "wof:name":"V-tech Engineering Works",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [77.641045,12.977213,77.641045,12.977213],
+  "geometry": {"coordinates":[77.641045,12.977213],"type":"Point"}
+}

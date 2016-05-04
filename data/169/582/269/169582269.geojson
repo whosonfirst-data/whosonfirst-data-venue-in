@@ -1,0 +1,64 @@
+{
+  "id": 169582269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.27906,13.088128,80.27906,13.088128",
+    "geom:latitude":13.088128,
+    "geom:longitude":80.27906,
+    "iso:country":"IN",
+    "sg:address":"27, Raghunayakulu Street,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2535 2767",
+    "sg:postcode":"600003",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "sg:website":"http://www.skybiz.com/kawarlal.co",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931765,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13KpQkxqpsqL2BhfPFb7as_13.088128_80.279060@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"26bc8d890209a1e6c4a3a9d3fb6c505a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931765,
+            "region_id":85672245,
+            "venue_id":169582269
+        }
+    ],
+    "wof:id":169582269,
+    "wof:lastmodified":1449034464,
+    "wof:name":"Kawarlal & Co.",
+    "wof:parent_id":85931765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [80.27906,13.088128,80.27906,13.088128],
+  "geometry": {"coordinates":[80.27906,13.088128],"type":"Point"}
+}

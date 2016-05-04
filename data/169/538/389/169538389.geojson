@@ -1,0 +1,68 @@
+{
+  "id": 169538389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.542755,13.014302,77.542755,13.014302",
+    "geom:latitude":13.014302,
+    "geom:longitude":77.542755,
+    "iso:country":"IN",
+    "sg:address":"B-197, 5th Main, 2nd Stage, Peenya Industrial Area,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2836 4084",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "equipment",
+        "pump",
+        "pumping"
+    ],
+    "sg:website":"http://www.omshakthihydraulics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1naZh8jWOXkNqSIJq1i7AC_13.014302_77.542755@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1789236afe612e124e06b60157e1d966",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169538389
+        }
+    ],
+    "wof:id":169538389,
+    "wof:lastmodified":1449033098,
+    "wof:name":"Om Shakthi Hydraulics Pvt. Ltd.",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "pump",
+        "pumping"
+    ]
+},
+  "bbox": [77.542755,13.014302,77.542755,13.014302],
+  "geometry": {"coordinates":[77.542755,13.014302],"type":"Point"}
+}

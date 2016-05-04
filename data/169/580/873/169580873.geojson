@@ -1,0 +1,64 @@
+{
+  "id": 169580873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.841064,19.025646,72.841064,19.025646",
+    "geom:latitude":19.025646,
+    "geom:longitude":72.841064,
+    "iso:country":"IN",
+    "sg:address":"16, Shivaji Park House, Plot No. 243, L.j.road (shivaji Park), Mahim,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2430 0748",
+    "sg:postcode":"400016",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.jmr-exports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931545,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uOx2y3cp5JH0wRPrRvJC2_19.025646_72.841064@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"14f17646108fa5f2bc885b2754dac41d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931545,
+            "region_id":85672171,
+            "venue_id":169580873
+        }
+    ],
+    "wof:id":169580873,
+    "wof:lastmodified":1449034913,
+    "wof:name":"Jmr-exports",
+    "wof:parent_id":85931545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.841064,19.025646,72.841064,19.025646],
+  "geometry": {"coordinates":[72.841064,19.025646],"type":"Point"}
+}

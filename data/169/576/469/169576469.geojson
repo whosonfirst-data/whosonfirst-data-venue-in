@@ -1,0 +1,63 @@
+{
+  "id": 169576469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.35083,22.575584,88.35083,22.575584",
+    "geom:latitude":22.575584,
+    "geom:longitude":88.35083,
+    "iso:country":"IN",
+    "sg:address":"63, Radha Bazar Street, 2nd Floor,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2242 5402",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "wax"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931969,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aVMQY8cpSwaJINFmhg5wI_22.575584_88.350830@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4d5c530ddecbba2250319d05e3c42420",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931969,
+            "region_id":85672219,
+            "venue_id":169576469
+        }
+    ],
+    "wof:id":169576469,
+    "wof:lastmodified":1449035200,
+    "wof:name":"Everest Synthetics Co.",
+    "wof:parent_id":85931969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [88.35083,22.575584,88.35083,22.575584],
+  "geometry": {"coordinates":[88.35083,22.575584],"type":"Point"}
+}

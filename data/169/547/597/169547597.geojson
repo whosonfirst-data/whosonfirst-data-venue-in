@@ -1,0 +1,68 @@
+{
+  "id": 169547597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.117386,13.119475,80.117386,13.119475",
+    "geom:latitude":13.119475,
+    "geom:longitude":80.117386,
+    "iso:country":"IN",
+    "sg:address":"77, Madurai Road, S.a.m.complex, 2nd Floor,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 431 270 9434",
+    "sg:postcode":"620008",
+    "sg:tags":[
+        "steel",
+        "stainless",
+        "product",
+        "component"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jivYrLz1fVdjy6PbmNr4u_13.119475_80.117386@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c7c385e14bc890af11fdbcb993859f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169547597
+        }
+    ],
+    "wof:id":169547597,
+    "wof:lastmodified":1449033010,
+    "wof:name":"Shafi Steels",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "stainless",
+        "product",
+        "component"
+    ]
+},
+  "bbox": [80.117386,13.119475,80.117386,13.119475],
+  "geometry": {"coordinates":[80.117386,13.119475],"type":"Point"}
+}

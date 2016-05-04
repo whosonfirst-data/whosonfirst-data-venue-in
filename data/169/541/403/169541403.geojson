@@ -1,0 +1,63 @@
+{
+  "id": 169541403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.555511,12.932187,77.555511,12.932187",
+    "geom:latitude":12.932187,
+    "geom:longitude":77.555511,
+    "iso:country":"IN",
+    "sg:address":"1397, 23rd Main, Banashankari 2nd Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2671 8621",
+    "sg:postcode":"560070",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931173,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rB88dKd3x0PmUDePdm2oK_12.932187_77.555511@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f57e6c53f9737c16682740a93a1e2faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931173,
+            "region_id":85672165,
+            "venue_id":169541403
+        }
+    ],
+    "wof:id":169541403,
+    "wof:lastmodified":1449033044,
+    "wof:name":"Globotec Solutions",
+    "wof:parent_id":85931173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.555511,12.932187,77.555511,12.932187],
+  "geometry": {"coordinates":[77.555511,12.932187],"type":"Point"}
+}

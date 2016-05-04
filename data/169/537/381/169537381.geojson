@@ -1,0 +1,71 @@
+{
+  "id": 169537381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.699242,12.995013,77.699242,12.995013",
+    "geom:latitude":12.995013,
+    "geom:longitude":77.699242,
+    "iso:country":"IN",
+    "sg:address":"127, Whitefield Road, Opp. Bescom, Mahadevpura,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2658 8250",
+    "sg:postcode":"560048",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931169,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TuGcSdzAv0LAPDByL7u3r_12.995013_77.699242@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9dea804e20f5b4f6c0f78f6144b34c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931169,
+            "region_id":85672165,
+            "venue_id":169537381
+        }
+    ],
+    "wof:id":169537381,
+    "wof:lastmodified":1449033496,
+    "wof:name":"Paramount Engineering Works",
+    "wof:parent_id":85931169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.699242,12.995013,77.699242,12.995013],
+  "geometry": {"coordinates":[77.699242,12.995013],"type":"Point"}
+}

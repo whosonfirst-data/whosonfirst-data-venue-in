@@ -1,0 +1,63 @@
+{
+  "id": 169598131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.127121,28.72237,77.127121,28.72237",
+    "geom:latitude":28.72237,
+    "geom:longitude":77.127121,
+    "iso:country":"IN",
+    "sg:address":"32/a, Ayodhya Enclave, Sec-13, Rohini,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2756 8500",
+    "sg:postcode":"110085",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928071,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hJIXNLQ729NeP6CxTc56W_28.722370_77.127121@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2e290599a30cc31ac677dded1afb3ff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928071,
+            "region_id":85672123,
+            "venue_id":169598131
+        }
+    ],
+    "wof:id":169598131,
+    "wof:lastmodified":1449032858,
+    "wof:name":"Pap Chem (india) Pvt. Ltd.",
+    "wof:parent_id":85928071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.127121,28.72237,77.127121,28.72237],
+  "geometry": {"coordinates":[77.127121,28.72237],"type":"Point"}
+}

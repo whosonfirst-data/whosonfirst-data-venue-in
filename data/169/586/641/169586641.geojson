@@ -1,0 +1,63 @@
+{
+  "id": 169586641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.850471,30.686115,76.850471,30.686115",
+    "geom:latitude":30.686115,
+    "geom:longitude":76.850471,
+    "iso:country":"IN",
+    "sg:address":"D-4, Sector-11,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 254 3028",
+    "sg:postcode":"110015",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.mrltire.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931825,
+        85632469,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZoliA6ZbTrv9LYn6JLmA0_30.686115_76.850471@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"da5d1ab3f800bd606d84eb9bfc48a70b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85931825,
+            "region_id":85672133,
+            "venue_id":169586641
+        }
+    ],
+    "wof:id":169586641,
+    "wof:lastmodified":1449035576,
+    "wof:name":"Malhotra Rubbers Ltd.",
+    "wof:parent_id":85931825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [76.850471,30.686115,76.850471,30.686115],
+  "geometry": {"coordinates":[76.850471,30.686115],"type":"Point"}
+}

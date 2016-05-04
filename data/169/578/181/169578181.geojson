@@ -1,0 +1,61 @@
+{
+  "id": 169578181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.795692,13.008674,74.795692,13.008674",
+    "geom:latitude":13.008674,
+    "geom:longitude":74.795692,
+    "iso:country":"IN",
+    "sg:address":"1-b, Ssja,",
+    "sg:city":"Kota",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 744 236 0136",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903967,
+        102029439,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Zh5TXwG4yKKsFvf71bKuo_13.008674_74.795692@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"98a611e4668d5b0c6047516d8831d1ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102029439,
+            "neighbourhood_id":85903967,
+            "region_id":85672165,
+            "venue_id":169578181
+        }
+    ],
+    "wof:id":169578181,
+    "wof:lastmodified":1449033520,
+    "wof:name":"Gulzag Industries Ltd.",
+    "wof:parent_id":85903967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [74.795692,13.008674,74.795692,13.008674],
+  "geometry": {"coordinates":[74.795692,13.008674],"type":"Point"}
+}

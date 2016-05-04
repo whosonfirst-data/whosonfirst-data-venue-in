@@ -1,0 +1,66 @@
+{
+  "id": 169530717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.841606,19.209698,72.841606,19.209698",
+    "geom:latitude":19.209698,
+    "geom:longitude":72.841606,
+    "iso:country":"IN",
+    "sg:address":"Kamala Ashish Bldg No. 3,c-111, Mahavir Nagar,  Kandivli (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2809 1998",
+    "sg:postcode":"400067",
+    "sg:tags":[
+        "good",
+        "consumer"
+    ],
+    "sg:website":"http://www.capharma.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931623,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68hGXByJZ5xbNTNyKRuN3B_19.209698_72.841606@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3edcc1a72ad375f02abe115a8fd43cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931623,
+            "region_id":85672171,
+            "venue_id":169530717
+        }
+    ],
+    "wof:id":169530717,
+    "wof:lastmodified":1449034441,
+    "wof:name":"Capharma",
+    "wof:parent_id":85931623,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "good",
+        "consumer"
+    ]
+},
+  "bbox": [72.841606,19.209698,72.841606,19.209698],
+  "geometry": {"coordinates":[72.841606,19.209698],"type":"Point"}
+}

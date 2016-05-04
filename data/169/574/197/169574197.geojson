@@ -1,0 +1,54 @@
+{
+  "id": 169574197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.586975,12.911844,77.586975,12.911844",
+    "geom:latitude":12.911844,
+    "geom:longitude":77.586975,
+    "iso:country":"IN",
+    "sg:address":"R.t.nagar Post",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 803433216",
+    "sg:postcode":"560032",
+    "sg:province":"Karnataka",
+    "sg:website":"http://www.softeltech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931065,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u3GbC06ZKu4okfJZJQVQF_12.911844_77.586975@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"387358639b84e4ace07211a486b8501f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931065,
+            "region_id":85672165,
+            "venue_id":169574197
+        }
+    ],
+    "wof:id":169574197,
+    "wof:lastmodified":1449032666,
+    "wof:name":"Softel Technologies Pvt Ltd",
+    "wof:parent_id":85931065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.586975,12.911844,77.586975,12.911844],
+  "geometry": {"coordinates":[77.586975,12.911844],"type":"Point"}
+}

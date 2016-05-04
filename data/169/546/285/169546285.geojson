@@ -1,0 +1,62 @@
+{
+  "id": 169546285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.296127,13.120965,80.296127,13.120965",
+    "geom:latitude":13.120965,
+    "geom:longitude":80.296127,
+    "iso:country":"IN",
+    "sg:address":"No.2, Rayapuram First Street,",
+    "sg:city":"Tiruppur",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"City Walls",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 223 5241",
+    "sg:postcode":"641601",
+    "sg:tags":[
+        "woven"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903951,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YJoPiEbDHjfwycf3cBtVk_13.120965_80.296127@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3ee8975ade5a721a84773c84e6658a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102029537,
+            "neighbourhood_id":85903951,
+            "region_id":85672245,
+            "venue_id":169546285
+        }
+    ],
+    "wof:id":169546285,
+    "wof:lastmodified":1449032678,
+    "wof:name":"Balu Expoters",
+    "wof:parent_id":85903951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woven"
+    ]
+},
+  "bbox": [80.296127,13.120965,80.296127,13.120965],
+  "geometry": {"coordinates":[80.296127,13.120965],"type":"Point"}
+}

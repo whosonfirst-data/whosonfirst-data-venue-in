@@ -1,0 +1,63 @@
+{
+  "id": 169629491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.306595,22.527845,88.306595,22.527845",
+    "geom:latitude":22.527845,
+    "geom:longitude":88.306595,
+    "iso:country":"IN",
+    "sg:address":"39, Hide Road,",
+    "sg:city":"24 Parganas (s)",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2439 5756",
+    "sg:postcode":"700043",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903891,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZSmwzLlmMXVeTFEced8Tj_22.527845_88.306595@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7df086e8a9e75c055723b8bbd11b2e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903891,
+            "region_id":85672219,
+            "venue_id":169629491
+        }
+    ],
+    "wof:id":169629491,
+    "wof:lastmodified":1449035183,
+    "wof:name":"Stewarts & Lloyds Of India Ltd.",
+    "wof:parent_id":85903891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [88.306595,22.527845,88.306595,22.527845],
+  "geometry": {"coordinates":[88.306595,22.527845],"type":"Point"}
+}

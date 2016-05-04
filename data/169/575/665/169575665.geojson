@@ -1,0 +1,61 @@
+{
+  "id": 169575665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.106339,33.526783,73.106339,33.526783",
+    "geom:latitude":33.526783,
+    "geom:longitude":73.106339,
+    "iso:country":"IN",
+    "sg:address":"P-10 Second Floor, Sector-18,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 259 1403",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632659,
+        85675741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P3ncRzYHiAPalqq6CUw1O_33.526783_73.106339@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e0be263c0b4669d29e6fbc7ee7449543",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632659,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85675741,
+            "venue_id":169575665
+        }
+    ],
+    "wof:id":169575665,
+    "wof:lastmodified":1449033640,
+    "wof:name":"B.n. Exim",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [73.106339,33.526783,73.106339,33.526783],
+  "geometry": {"coordinates":[73.106339,33.526783],"type":"Point"}
+}

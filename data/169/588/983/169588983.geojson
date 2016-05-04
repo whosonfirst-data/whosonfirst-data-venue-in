@@ -1,0 +1,63 @@
+{
+  "id": 169588983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.562752,20.718527,76.562752,20.718527",
+    "geom:latitude":20.718527,
+    "geom:longitude":76.562752,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 9, Near State Bank Of India,",
+    "sg:city":"Ambernath",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 251 566 7341",
+    "sg:postcode":"421501",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.mekentp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029763,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u7JQ3mW0rjmTpkXFDQU5X_20.718527_76.562752@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3369b7ee5dfe55bce77f9804823ac4a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029763,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169588983
+        }
+    ],
+    "wof:id":169588983,
+    "wof:lastmodified":1449035309,
+    "wof:name":"Mek Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [76.562752,20.718527,76.562752,20.718527],
+  "geometry": {"coordinates":[76.562752,20.718527],"type":"Point"}
+}

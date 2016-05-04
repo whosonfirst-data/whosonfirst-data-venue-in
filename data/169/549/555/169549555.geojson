@@ -1,0 +1,64 @@
+{
+  "id": 169549555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.81826,26.916353,75.81826,26.916353",
+    "geom:latitude":26.916353,
+    "geom:longitude":75.81826,
+    "iso:country":"IN",
+    "sg:address":"172/12, Ashok Nagar, National Highway No. 8,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 244 0540",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "slate"
+    ],
+    "sg:website":"http://www.talesaramarble.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934507,
+        85632469,
+        102030017,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J3JgxDBBJ5woA6GjHcPJW_26.916353_75.818260@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"75834fc16f5937e1287fc9008893d63e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030017,
+            "neighbourhood_id":85934507,
+            "region_id":85672201,
+            "venue_id":169549555
+        }
+    ],
+    "wof:id":169549555,
+    "wof:lastmodified":1449033593,
+    "wof:name":"Talesara Exports",
+    "wof:parent_id":85934507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "slate"
+    ]
+},
+  "bbox": [75.81826,26.916353,75.81826,26.916353],
+  "geometry": {"coordinates":[75.81826,26.916353],"type":"Point"}
+}

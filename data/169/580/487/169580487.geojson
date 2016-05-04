@@ -1,0 +1,64 @@
+{
+  "id": 169580487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.230804,28.663931,77.230804,28.663931",
+    "geom:latitude":28.663931,
+    "geom:longitude":77.230804,
+    "iso:country":"IN",
+    "sg:address":"194, Delhi Road, Sadar, Meerut Cantt.,",
+    "sg:city":"Meerut",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 121 329 1184",
+    "sg:postcode":"250001",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.jainchemicals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928109,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X9Tn6gTnsiJBRHOwfyVjP_28.663931_77.230804@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"aeded5c50f9459704d2396a184850573",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928109,
+            "region_id":85672123,
+            "venue_id":169580487
+        }
+    ],
+    "wof:id":169580487,
+    "wof:lastmodified":1449034914,
+    "wof:name":"Jain Chemicals",
+    "wof:parent_id":85928109,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [77.230804,28.663931,77.230804,28.663931],
+  "geometry": {"coordinates":[77.230804,28.663931],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169539239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.657257,12.994879,77.657257,12.994879",
+    "geom:latitude":12.994879,
+    "geom:longitude":77.657257,
+    "iso:country":"IN",
+    "sg:address":"68, 3rd Main, Income Tax Layout, Vijayanagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2371 2118",
+    "sg:postcode":"560040",
+    "sg:tags":[
+        "sandstone"
+    ],
+    "sg:website":"http://www.indiahandicrtaft.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930859,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FpoJ01tSZRk6CM8aLvCiI_12.994879_77.657257@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3575f2676b3a93be340d128d1d40253a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930859,
+            "region_id":85672165,
+            "venue_id":169539239
+        }
+    ],
+    "wof:id":169539239,
+    "wof:lastmodified":1449036037,
+    "wof:name":"Artha Enterprises",
+    "wof:parent_id":85930859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandstone"
+    ]
+},
+  "bbox": [77.657257,12.994879,77.657257,12.994879],
+  "geometry": {"coordinates":[77.657257,12.994879],"type":"Point"}
+}

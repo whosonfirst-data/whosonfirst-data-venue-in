@@ -1,0 +1,65 @@
+{
+  "id": 169583315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.149223,13.117708,80.149223,13.117708",
+    "geom:latitude":13.117708,
+    "geom:longitude":80.149223,
+    "iso:country":"IN",
+    "sg:address":"25a, Industrial Estate, Ambattur,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2625 8382",
+    "sg:postcode":"600098",
+    "sg:tags":[
+        "chemical",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904059,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JbI9EETt6xRJGFkL0wuPL_13.117708_80.149223@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"02c46fe7c69738517a10c83cb346433c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85904059,
+            "region_id":85672245,
+            "venue_id":169583315
+        }
+    ],
+    "wof:id":169583315,
+    "wof:lastmodified":1449035268,
+    "wof:name":"Krebs Engineering Pvt. Ltd.",
+    "wof:parent_id":85904059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "-"
+    ]
+},
+  "bbox": [80.149223,13.117708,80.149223,13.117708],
+  "geometry": {"coordinates":[80.149223,13.117708],"type":"Point"}
+}

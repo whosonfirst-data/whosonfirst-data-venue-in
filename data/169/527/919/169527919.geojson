@@ -1,0 +1,64 @@
+{
+  "id": 169527919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.852516,19.156738,72.852516,19.156738",
+    "geom:latitude":19.156738,
+    "geom:longitude":72.852516,
+    "iso:country":"IN",
+    "sg:address":"113-114, Vivek Industrial Estate, Uswala Road, Cama Estate, Goregaon (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2685 1212",
+    "sg:postcode":"400063",
+    "sg:tags":[
+        "bottle"
+    ],
+    "sg:website":"http://www.bluplast.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mHWUrYArwEtANv7RU1KFU_19.156738_72.852516@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5bb09e2e9ef9cddd4fe15b13e7708b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169527919
+        }
+    ],
+    "wof:id":169527919,
+    "wof:lastmodified":1449035279,
+    "wof:name":"Bluplast Industries Ltd.",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bottle"
+    ]
+},
+  "bbox": [72.852516,19.156738,72.852516,19.156738],
+  "geometry": {"coordinates":[72.852516,19.156738],"type":"Point"}
+}

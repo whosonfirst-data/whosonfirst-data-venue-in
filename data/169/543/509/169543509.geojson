@@ -1,0 +1,65 @@
+{
+  "id": 169543509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.647606,13.022566,77.647606,13.022566",
+    "geom:latitude":13.022566,
+    "geom:longitude":77.647606,
+    "iso:country":"IN",
+    "sg:address":"338, Babusa Palya, Kalyan Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2542 3811",
+    "sg:postcode":"560043",
+    "sg:tags":[
+        "plank",
+        "timber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931031,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r4JvE721LkqUdVbOORAUE_13.022566_77.647606@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"904b6b507a99461858ae025606ede67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931031,
+            "region_id":85672165,
+            "venue_id":169543509
+        }
+    ],
+    "wof:id":169543509,
+    "wof:lastmodified":1449033335,
+    "wof:name":"Indian Window Products Industries",
+    "wof:parent_id":85931031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plank",
+        "timber"
+    ]
+},
+  "bbox": [77.647606,13.022566,77.647606,13.022566],
+  "geometry": {"coordinates":[77.647606,13.022566],"type":"Point"}
+}

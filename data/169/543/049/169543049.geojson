@@ -1,0 +1,65 @@
+{
+  "id": 169543049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.607506,12.973574,77.607506,12.973574",
+    "geom:latitude":12.973574,
+    "geom:longitude":77.607506,
+    "iso:country":"IN",
+    "sg:address":"No. 46/47, S.m.road, T. Darsarahalli,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2839 5649",
+    "sg:postcode":"560057",
+    "sg:tags":[
+        "equipment",
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930841,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KKejU9baSOFH69LtprWKx_12.973574_77.607506@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"443381dff55e30fa521a3bae8d054429",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930841,
+            "region_id":85672165,
+            "venue_id":169543049
+        }
+    ],
+    "wof:id":169543049,
+    "wof:lastmodified":1449033334,
+    "wof:name":"Tummala Electronics Pvt. Ltd.",
+    "wof:parent_id":85930841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telecommunication"
+    ]
+},
+  "bbox": [77.607506,12.973574,77.607506,12.973574],
+  "geometry": {"coordinates":[77.607506,12.973574],"type":"Point"}
+}

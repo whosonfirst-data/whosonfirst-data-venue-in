@@ -1,0 +1,65 @@
+{
+  "id": 169541853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.559471,12.995172,77.559471,12.995172",
+    "geom:latitude":12.995172,
+    "geom:longitude":77.559471,
+    "iso:country":"IN",
+    "sg:address":"No. 1, 4th Cross, Srirampuram,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2342 3625",
+    "sg:postcode":"560021",
+    "sg:tags":[
+        "seasoning",
+        "spice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z8gVxmUMAFb85xFFyUzpZ_12.995172_77.559471@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0b0888f8b145d889deba5ea9b5921237",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169541853
+        }
+    ],
+    "wof:id":169541853,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Diamond Agarbatti & Co.",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seasoning",
+        "spice"
+    ]
+},
+  "bbox": [77.559471,12.995172,77.559471,12.995172],
+  "geometry": {"coordinates":[77.559471,12.995172],"type":"Point"}
+}

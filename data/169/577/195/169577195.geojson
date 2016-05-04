@@ -1,0 +1,63 @@
+{
+  "id": 169577195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.192154,22.244738,73.192154,22.244738",
+    "geom:latitude":22.244738,
+    "geom:longitude":73.192154,
+    "iso:country":"IN",
+    "sg:address":"A-1, 436, G.i.d.c., Makarpura Road,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 264 2427",
+    "sg:postcode":"390010",
+    "sg:tags":[
+        "resin"
+    ],
+    "sg:website":"http://www.gandhiassociates.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xIlO85vMFlOiP83wDUVLO_22.244738_73.192154@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1ac5b0d8f8facb28a41b0f3662e04d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169577195
+        }
+    ],
+    "wof:id":169577195,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Gandhi And Associates",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [73.192154,22.244738,73.192154,22.244738],
+  "geometry": {"coordinates":[73.192154,22.244738],"type":"Point"}
+}

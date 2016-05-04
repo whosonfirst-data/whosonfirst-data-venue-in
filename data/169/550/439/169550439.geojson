@@ -1,0 +1,67 @@
+{
+  "id": 169550439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.211311,28.645542,77.211311,28.645542",
+    "geom:latitude":28.645542,
+    "geom:longitude":77.211311,
+    "iso:country":"IN",
+    "sg:address":"1803/7, Phase-iv, G.i.d.c. Estate,",
+    "sg:city":"V.u. Nagar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2692 234 358",
+    "sg:postcode":"388121",
+    "sg:tags":[
+        "machine",
+        "cutting",
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903937,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Kk2LL6pIzNf6gybm9uXDU_28.645542_77.211311@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0e3eb69cf2e70b47a0ba9cf03c4820db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903937,
+            "region_id":85672123,
+            "venue_id":169550439
+        }
+    ],
+    "wof:id":169550439,
+    "wof:lastmodified":1449034475,
+    "wof:name":"Atlas Super Abrasives",
+    "wof:parent_id":85903937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "cutting",
+        "diamond"
+    ]
+},
+  "bbox": [77.211311,28.645542,77.211311,28.645542],
+  "geometry": {"coordinates":[77.211311,28.645542],"type":"Point"}
+}

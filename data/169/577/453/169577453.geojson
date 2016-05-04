@@ -1,0 +1,63 @@
+{
+  "id": 169577453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.561142,23.036598,72.561142,23.036598",
+    "geom:latitude":23.036598,
+    "geom:longitude":72.561142,
+    "iso:country":"IN",
+    "sg:address":"24, Asia  House, 1st Floor, Nr. Swastik Cross Road, Navrangpura,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 2656 0963",
+    "sg:postcode":"380009",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933465,
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ma7r4ySPcy0Rih8AHIM9e_23.036598_72.561142@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a55e95f93ee1a4c51f3bfdb457ebd2b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":85933465,
+            "region_id":85672249,
+            "venue_id":169577453
+        }
+    ],
+    "wof:id":169577453,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Global Merchant Fzc",
+    "wof:parent_id":85933465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.561142,23.036598,72.561142,23.036598],
+  "geometry": {"coordinates":[72.561142,23.036598],"type":"Point"}
+}

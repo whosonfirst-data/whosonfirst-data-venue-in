@@ -1,0 +1,63 @@
+{
+  "id": 169647501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.787102,13.334578,74.787102,13.334578",
+    "geom:latitude":13.334578,
+    "geom:longitude":74.787102,
+    "iso:country":"IN",
+    "sg:address":"1, Industrial Area, N.i.t.,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 223 3915",
+    "sg:postcode":"121001",
+    "sg:tags":[
+        "resin"
+    ],
+    "sg:website":"http://www.xproindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029431,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qxy8AOun4usKqHLEOyiPW_13.334578_74.787102@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7d2c276e2755a4162b569d4aaf9089ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029431,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169647501
+        }
+    ],
+    "wof:id":169647501,
+    "wof:lastmodified":1449034242,
+    "wof:name":"Xpro India Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [74.787102,13.334578,74.787102,13.334578],
+  "geometry": {"coordinates":[74.787102,13.334578],"type":"Point"}
+}

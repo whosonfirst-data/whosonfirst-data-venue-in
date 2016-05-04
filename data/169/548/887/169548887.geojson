@@ -1,0 +1,61 @@
+{
+  "id": 169548887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.085854,29.93227,78.085854,29.93227",
+    "geom:latitude":29.93227,
+    "geom:longitude":78.085854,
+    "iso:country":"IN",
+    "sg:address":"48, Shopping Centre, H.m. Sector 11,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 258 4533",
+    "sg:postcode":"313002",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jZEvgRnxCJGbTf0Wp8E03_29.932270_78.085854@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"537513254a83dee153c01f4b472c01dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672209,
+            "venue_id":169548887
+        }
+    ],
+    "wof:id":169548887,
+    "wof:lastmodified":1449034975,
+    "wof:name":"Snehraj Petrochem Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.085854,29.93227,78.085854,29.93227],
+  "geometry": {"coordinates":[78.085854,29.93227],"type":"Point"}
+}

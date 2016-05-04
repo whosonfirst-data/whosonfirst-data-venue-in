@@ -1,0 +1,63 @@
+{
+  "id": 169637161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.25808,28.547596,77.25808,28.547596",
+    "geom:latitude":28.547596,
+    "geom:longitude":77.25808,
+    "iso:country":"IN",
+    "sg:address":"R-11, Nehru Enclave, Kalkaji,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2645 2617",
+    "sg:postcode":"110019",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928361,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03ZkNxMv0AAgykal5Jp1J2_28.547596_77.258080@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7799d97a17e3a1d4ef93b5a8938b692d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928361,
+            "region_id":85672123,
+            "venue_id":169637161
+        }
+    ],
+    "wof:id":169637161,
+    "wof:lastmodified":1449032687,
+    "wof:name":"Tri Nutrients Private Limited",
+    "wof:parent_id":85928361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.25808,28.547596,77.25808,28.547596],
+  "geometry": {"coordinates":[77.25808,28.547596],"type":"Point"}
+}

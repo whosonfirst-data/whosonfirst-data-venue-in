@@ -1,0 +1,63 @@
+{
+  "id": 169578529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.758179,30.70767,76.758179,30.70767",
+    "geom:latitude":30.70767,
+    "geom:longitude":76.758179,
+    "iso:country":"IN",
+    "sg:address":"163/1, Sector 45-a,",
+    "sg:city":"Chandigarh",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 172 557 2020",
+    "sg:postcode":"160047",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931871,
+        85632469,
+        102030563,
+        85672119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K4XZJmXbRfzHJuiwSYq05_30.707670_76.758179@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"584d417976d4a171e7a0fec1b8fd822b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030563,
+            "neighbourhood_id":85931871,
+            "region_id":85672119,
+            "venue_id":169578529
+        }
+    ],
+    "wof:id":169578529,
+    "wof:lastmodified":1449033520,
+    "wof:name":"Harvico (india)",
+    "wof:parent_id":85931871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [76.758179,30.70767,76.758179,30.70767],
+  "geometry": {"coordinates":[76.758179,30.70767],"type":"Point"}
+}

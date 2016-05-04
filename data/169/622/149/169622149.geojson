@@ -1,0 +1,63 @@
+{
+  "id": 169622149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.052132,28.468428,77.052132,28.468428",
+    "geom:latitude":28.468428,
+    "geom:longitude":77.052132,
+    "iso:country":"IN",
+    "sg:address":"1918 Sec-16,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 229 2690",
+    "sg:postcode":"121002",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928493,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dDKqOcrG3eER2AbAEaHD9_28.468428_77.052132@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"481e1f6b50398ca2fdf25833f7d84a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928493,
+            "region_id":85672133,
+            "venue_id":169622149
+        }
+    ],
+    "wof:id":169622149,
+    "wof:lastmodified":1449035364,
+    "wof:name":"Shri Balaji International",
+    "wof:parent_id":85928493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.052132,28.468428,77.052132,28.468428],
+  "geometry": {"coordinates":[77.052132,28.468428],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169525979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.82724,18.960335,72.82724,18.960335",
+    "geom:latitude":18.960335,
+    "geom:longitude":72.82724,
+    "iso:country":"IN",
+    "sg:address":"177/181, J.t Bldg., 3rd Kumbharwada,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2389 2476",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "aluminium",
+        "foil"
+    ],
+    "sg:website":"http://www.excelmetal.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3160ZrD40A5nd8YR2TaLMZ_18.960335_72.827240@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6d707240b6a5ab2f878fca0a1709d44e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903863,
+            "region_id":85672171,
+            "venue_id":169525979
+        }
+    ],
+    "wof:id":169525979,
+    "wof:lastmodified":1449035274,
+    "wof:name":"Excel Metal & Engg. Industries",
+    "wof:parent_id":85903863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aluminium",
+        "foil"
+    ]
+},
+  "bbox": [72.82724,18.960335,72.82724,18.960335],
+  "geometry": {"coordinates":[72.82724,18.960335],"type":"Point"}
+}

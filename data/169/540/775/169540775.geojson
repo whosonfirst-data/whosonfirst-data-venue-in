@@ -1,0 +1,64 @@
+{
+  "id": 169540775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.581696,12.957047,77.581696,12.957047",
+    "geom:latitude":12.957047,
+    "geom:longitude":77.581696,
+    "iso:country":"IN",
+    "sg:address":"F-1, Unity Building, Jc Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2222 3969",
+    "sg:postcode":"560004",
+    "sg:tags":[
+        "silk"
+    ],
+    "sg:website":"http://www.janardansilks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SMm5AykTTHFQxA7eQpgCk_12.957047_77.581696@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"437aa40362b3d7a9ab8387a38c47d5a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169540775
+        }
+    ],
+    "wof:id":169540775,
+    "wof:lastmodified":1449033975,
+    "wof:name":"Janardhana Silk House",
+    "wof:parent_id":85930903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.581696,12.957047,77.581696,12.957047],
+  "geometry": {"coordinates":[77.581696,12.957047],"type":"Point"}
+}

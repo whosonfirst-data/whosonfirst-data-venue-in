@@ -1,0 +1,64 @@
+{
+  "id": 169580757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.429359,22.590101,88.429359,22.590101",
+    "geom:latitude":22.590101,
+    "geom:longitude":88.429359,
+    "iso:country":"IN",
+    "sg:address":"Aj-291, Salt Lake City,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2321 0628",
+    "sg:postcode":"700091",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.jenithrollers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85932011,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P7THFcMwKBxbNl4Ozw0X2_22.590101_88.429359@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"feea3b132c18dc7c0998a51cef026518",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85932011,
+            "region_id":85672219,
+            "venue_id":169580757
+        }
+    ],
+    "wof:id":169580757,
+    "wof:lastmodified":1449034915,
+    "wof:name":"Jenith Rubber Industries",
+    "wof:parent_id":85932011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [88.429359,22.590101,88.429359,22.590101],
+  "geometry": {"coordinates":[88.429359,22.590101],"type":"Point"}
+}

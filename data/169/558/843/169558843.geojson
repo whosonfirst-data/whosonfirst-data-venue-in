@@ -1,0 +1,54 @@
+{
+  "id": 169558843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.828651,19.074062,72.828651,19.074062",
+    "geom:latitude":19.074062,
+    "geom:longitude":72.828651,
+    "iso:country":"IN",
+    "sg:address":"19th Road, Chembur",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2528 6319",
+    "sg:postcode":"400071",
+    "sg:province":"Maharashtra",
+    "sg:website":"http://www.glamptech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931493,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CGjmmRg7bsrx5uUXnKSa6_19.074062_72.828651@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"644aba5c11a3b11313ca2d3b87ba37d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931493,
+            "region_id":85672171,
+            "venue_id":169558843
+        }
+    ],
+    "wof:id":169558843,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Glamptech",
+    "wof:parent_id":85931493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.828651,19.074062,72.828651,19.074062],
+  "geometry": {"coordinates":[72.828651,19.074062],"type":"Point"}
+}

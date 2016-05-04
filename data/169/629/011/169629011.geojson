@@ -1,0 +1,63 @@
+{
+  "id": 169629011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.149864,28.681183,77.149864,28.681183",
+    "geom:latitude":28.681183,
+    "geom:longitude":77.149864,
+    "iso:country":"IN",
+    "sg:address":"B-4/311-312, Keshav Puram, Lawrence Road,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2710 5642",
+    "sg:postcode":"110035",
+    "sg:tags":[
+        "resin"
+    ],
+    "sg:website":"http://www.srmindialtd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZrGjVqltkNEChvYS1RUGA_28.681183_77.149864@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"72e276081efca22fdc0bf775bba94ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169629011
+        }
+    ],
+    "wof:id":169629011,
+    "wof:lastmodified":1449035186,
+    "wof:name":"Srm (india) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [77.149864,28.681183,77.149864,28.681183],
+  "geometry": {"coordinates":[77.149864,28.681183],"type":"Point"}
+}

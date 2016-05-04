@@ -1,0 +1,64 @@
+{
+  "id": 169578295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.190071,28.649553,77.190071,28.649553",
+    "geom:latitude":28.649553,
+    "geom:longitude":77.190071,
+    "iso:country":"IN",
+    "sg:address":"'anil House', D-136, Shankar Road,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 5547 2400",
+    "sg:postcode":"110060",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.hicindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928243,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tOFAKy1w9okbNHSfqAUNE_28.649553_77.190071@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0035aa10648f166cefac6a12b038bf6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928243,
+            "region_id":85672123,
+            "venue_id":169578295
+        }
+    ],
+    "wof:id":169578295,
+    "wof:lastmodified":1449033518,
+    "wof:name":"H.i.c. International Co.",
+    "wof:parent_id":85928243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.190071,28.649553,77.190071,28.649553],
+  "geometry": {"coordinates":[77.190071,28.649553],"type":"Point"}
+}

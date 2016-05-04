@@ -1,0 +1,65 @@
+{
+  "id": 169536459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.835571,18.949007,72.835571,18.949007",
+    "geom:latitude":18.949007,
+    "geom:longitude":72.835571,
+    "iso:country":"IN",
+    "sg:address":"211, Oriental Bhavan, Sheriff Devji Street,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2342 8085",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "garment",
+        "accessory"
+    ],
+    "sg:website":"http://www.omcindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AlWM4HbUz6r8mvw1e1Rh7_18.949007_72.835571@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4938fb60bb446571de6d86ba79362225",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169536459
+        }
+    ],
+    "wof:id":169536459,
+    "wof:lastmodified":1449034659,
+    "wof:name":"Oriental Mfg Co.",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "accessory"
+    ]
+},
+  "bbox": [72.835571,18.949007,72.835571,18.949007],
+  "geometry": {"coordinates":[72.835571,18.949007],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169575907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.241234,28.544615,77.241234,28.544615",
+    "geom:latitude":28.544615,
+    "geom:longitude":77.241234,
+    "iso:country":"IN",
+    "sg:address":"E-33, Greater Kailash Enclave-1,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4052 0469",
+    "sg:postcode":"110048",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927953,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zSm3kTqM0bcLhLr9b6vKX_28.544615_77.241234@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"da21b92869e91a6d368578334cb88d5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927953,
+            "region_id":85672123,
+            "venue_id":169575907
+        }
+    ],
+    "wof:id":169575907,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Bda Limited",
+    "wof:parent_id":85927953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.241234,28.544615,77.241234,28.544615],
+  "geometry": {"coordinates":[77.241234,28.544615],"type":"Point"}
+}

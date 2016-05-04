@@ -1,0 +1,54 @@
+{
+  "id": 169556377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.250572,28.55913,77.250572,28.55913",
+    "geom:latitude":28.55913,
+    "geom:longitude":77.250572,
+    "iso:country":"IN",
+    "sg:address":"East Of Kailash",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2622 7036",
+    "sg:postcode":"110065",
+    "sg:province":"Delhi",
+    "sg:website":"http://www.czoneindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928185,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HtN8DBrfl6TYqI6So8OOb_28.559130_77.250572@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"18ec83b09dc70dc579a64663313a714a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928185,
+            "region_id":85672123,
+            "venue_id":169556377
+        }
+    ],
+    "wof:id":169556377,
+    "wof:lastmodified":1449033507,
+    "wof:name":"Computer Zone",
+    "wof:parent_id":85928185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.250572,28.55913,77.250572,28.55913],
+  "geometry": {"coordinates":[77.250572,28.55913],"type":"Point"}
+}

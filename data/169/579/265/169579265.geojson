@@ -1,0 +1,62 @@
+{
+  "id": 169579265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.349487,22.539923,88.349487,22.539923",
+    "geom:latitude":22.539923,
+    "geom:longitude":88.349487,
+    "iso:country":"IN",
+    "sg:address":"10 A, Lee Rd.,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2281 5518",
+    "sg:tags":[
+        "explosive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931935,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J1LjSalPhB2e8UwccKGGA_22.539923_88.349487@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"eba93360e518797e71a970f44055fd27",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931935,
+            "region_id":85672219,
+            "venue_id":169579265
+        }
+    ],
+    "wof:id":169579265,
+    "wof:lastmodified":1449033741,
+    "wof:name":"Iesi",
+    "wof:parent_id":85931935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "explosive"
+    ]
+},
+  "bbox": [88.349487,22.539923,88.349487,22.539923],
+  "geometry": {"coordinates":[88.349487,22.539923],"type":"Point"}
+}

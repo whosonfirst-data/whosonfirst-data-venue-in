@@ -1,0 +1,64 @@
+{
+  "id": 169531543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.829353,18.944984,72.829353,18.944984",
+    "geom:latitude":18.944984,
+    "geom:longitude":72.829353,
+    "iso:country":"IN",
+    "sg:address":"15/17, Oval Wadi, Kalbadevi Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2243 2793",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "cotton"
+    ],
+    "sg:website":"http://www.glogin.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931457,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LYB0OhKNwhJJSz4nWlNoT_18.944984_72.829353@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a4b4a7f2f9ce4abbe79e50a9698796ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931457,
+            "region_id":85672171,
+            "venue_id":169531543
+        }
+    ],
+    "wof:id":169531543,
+    "wof:lastmodified":1449033472,
+    "wof:name":"Glog International",
+    "wof:parent_id":85931457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cotton"
+    ]
+},
+  "bbox": [72.829353,18.944984,72.829353,18.944984],
+  "geometry": {"coordinates":[72.829353,18.944984],"type":"Point"}
+}

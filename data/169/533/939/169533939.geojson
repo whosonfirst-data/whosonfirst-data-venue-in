@@ -1,0 +1,70 @@
+{
+  "id": 169533939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833794,18.929636,72.833794,18.929636",
+    "geom:latitude":18.929636,
+    "geom:longitude":72.833794,
+    "iso:country":"IN",
+    "sg:address":"105, Room No.10, Mumbai Samachar Marg, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2266 1355",
+    "sg:postcode":"400057",
+    "sg:tags":[
+        "engine",
+        "spare",
+        "diesel",
+        "electric",
+        "locomotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49RMZ5nAF4LFhV0LaJPo8V_18.929636_72.833794@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e3b74d25c95ab52a3031f790b2da007b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169533939
+        }
+    ],
+    "wof:id":169533939,
+    "wof:lastmodified":1449032643,
+    "wof:name":"Overseas Business Corpn.",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "spare",
+        "diesel",
+        "electric",
+        "locomotive"
+    ]
+},
+  "bbox": [72.833794,18.929636,72.833794,18.929636],
+  "geometry": {"coordinates":[72.833794,18.929636],"type":"Point"}
+}

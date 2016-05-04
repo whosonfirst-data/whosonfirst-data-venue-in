@@ -1,0 +1,63 @@
+{
+  "id": 169559455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.827301,21.211428,72.827301,21.211428",
+    "geom:latitude":21.211428,
+    "geom:longitude":72.827301,
+    "iso:country":"IN",
+    "sg:address":"403/2, Vasta Devdi Road, Katargam,",
+    "sg:city":"Surat",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 261 253 7649",
+    "sg:postcode":"395008",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933499,
+        85632469,
+        102028539,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s2mb5Omerp4apGBWrSxha_21.211428_72.827301@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b4564f49fa656c30695a5f6873a4198e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028539,
+            "neighbourhood_id":85933499,
+            "region_id":85672249,
+            "venue_id":169559455
+        }
+    ],
+    "wof:id":169559455,
+    "wof:lastmodified":1449035239,
+    "wof:name":"Cnr Chemicals",
+    "wof:parent_id":85933499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.827301,21.211428,72.827301,21.211428],
+  "geometry": {"coordinates":[72.827301,21.211428],"type":"Point"}
+}

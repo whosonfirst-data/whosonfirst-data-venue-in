@@ -1,0 +1,62 @@
+{
+  "id": 169544717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.51046,13.033,77.51046,13.033",
+    "geom:latitude":13.033,
+    "geom:longitude":77.51046,
+    "iso:country":"IN",
+    "sg:address":"V3, 1st Main, 1st Stage, Peenya Industrial Estate,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2839 1148",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "weighing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m6bcMMevrSBqps2XCu8U9_13.033000_77.510460@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"80f781a653374d92546a9440fc6ba673",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169544717
+        }
+    ],
+    "wof:id":169544717,
+    "wof:lastmodified":1449035963,
+    "wof:name":"Ispl Systems Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "weighing"
+    ]
+},
+  "bbox": [77.51046,13.033,77.51046,13.033],
+  "geometry": {"coordinates":[77.51046,13.033],"type":"Point"}
+}

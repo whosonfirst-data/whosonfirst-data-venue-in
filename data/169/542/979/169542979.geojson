@@ -1,0 +1,64 @@
+{
+  "id": 169542979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.509438,13.019554,77.509438,13.019554",
+    "geom:latitude":13.019554,
+    "geom:longitude":77.509438,
+    "iso:country":"IN",
+    "sg:address":"#30, 12th Cross, Andrahalli Main Road, Peenya 2nd Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4117 2744",
+    "sg:postcode":"560091",
+    "sg:tags":[
+        "equipment",
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4klCpCgNrP3RGx6y1FLjZq_13.019554_77.509438@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"551a21f8235c638f963e8fdbc8b59cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169542979
+        }
+    ],
+    "wof:id":169542979,
+    "wof:lastmodified":1449035223,
+    "wof:name":"Krupanjali Tool Tech",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telecommunication"
+    ]
+},
+  "bbox": [77.509438,13.019554,77.509438,13.019554],
+  "geometry": {"coordinates":[77.509438,13.019554],"type":"Point"}
+}

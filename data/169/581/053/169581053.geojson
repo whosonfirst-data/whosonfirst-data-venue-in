@@ -1,0 +1,64 @@
+{
+  "id": 169581053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.181602,28.642597,77.181602,28.642597",
+    "geom:latitude":28.642597,
+    "geom:longitude":77.181602,
+    "iso:country":"IN",
+    "sg:address":"Patel Chambers, 2nd Floor, 152, East Nehru Nagar,",
+    "sg:city":"Secunderabad",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2773 1038",
+    "sg:postcode":"500026",
+    "sg:tags":[
+        "acid"
+    ],
+    "sg:website":"http://www.jupiterbioscience.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928113,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09PRw03oCXmdAbv3I0GZqi_28.642597_77.181602@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"83ecab148593aa21bbad2b7cddf05e83",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928113,
+            "region_id":85672123,
+            "venue_id":169581053
+        }
+    ],
+    "wof:id":169581053,
+    "wof:lastmodified":1449033380,
+    "wof:name":"Jupiter Orga Ltd.",
+    "wof:parent_id":85928113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [77.181602,28.642597,77.181602,28.642597],
+  "geometry": {"coordinates":[77.181602,28.642597],"type":"Point"}
+}

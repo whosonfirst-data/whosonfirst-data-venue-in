@@ -1,0 +1,63 @@
+{
+  "id": 169549025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.586052,12.980666,77.586052,12.980666",
+    "geom:latitude":12.980666,
+    "geom:longitude":77.586052,
+    "iso:country":"IN",
+    "sg:address":"City Palace Road,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 252 7901",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "export"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930877,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Opych85VB8gNm96iUz7Zw_12.980666_77.586052@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"24283c123f19b76f9057941e65aebf51",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930877,
+            "region_id":85672165,
+            "venue_id":169549025
+        }
+    ],
+    "wof:id":169549025,
+    "wof:lastmodified":1449033592,
+    "wof:name":"Queen Sarees & Art",
+    "wof:parent_id":85930877,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "export"
+    ]
+},
+  "bbox": [77.586052,12.980666,77.586052,12.980666],
+  "geometry": {"coordinates":[77.586052,12.980666],"type":"Point"}
+}

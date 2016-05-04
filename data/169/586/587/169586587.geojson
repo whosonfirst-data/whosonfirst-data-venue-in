@@ -1,0 +1,62 @@
+{
+  "id": 169586587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.413673,17.484066,78.413673,17.484066",
+    "geom:latitude":17.484066,
+    "geom:longitude":78.413673,
+    "iso:country":"IN",
+    "sg:address":"Industrial Estate,",
+    "sg:city":"Angamaly",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 484 245 2072",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930679,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01uIM7pqVJkcN6XGnvf1qr_17.484066_78.413673@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d1fb52b1fb502addaa6c17e3a7984c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930679,
+            "region_id":85672141,
+            "venue_id":169586587
+        }
+    ],
+    "wof:id":169586587,
+    "wof:lastmodified":1449035575,
+    "wof:name":"Malabar Ammonia Pvt. Ltd.",
+    "wof:parent_id":85930679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.413673,17.484066,78.413673,17.484066],
+  "geometry": {"coordinates":[78.413673,17.484066],"type":"Point"}
+}

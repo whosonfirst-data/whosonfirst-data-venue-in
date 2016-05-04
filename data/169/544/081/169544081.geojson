@@ -1,0 +1,66 @@
+{
+  "id": 169544081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.615021,12.998038,77.615021,12.998038",
+    "geom:latitude":12.998038,
+    "geom:longitude":77.615021,
+    "iso:country":"IN",
+    "sg:address":"No.10, Mosque Road, Frazer Town,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2547 0441",
+    "sg:postcode":"560005",
+    "sg:tags":[
+        "ups",
+        "power"
+    ],
+    "sg:website":"http://www.computehouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930871,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BJCdwVw3W0atepgn6rqYC_12.998038_77.615021@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7cbecc0f6c90b57ac502ecd52b8ccfe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930871,
+            "region_id":85672165,
+            "venue_id":169544081
+        }
+    ],
+    "wof:id":169544081,
+    "wof:lastmodified":1449035962,
+    "wof:name":"C.h Compute House",
+    "wof:parent_id":85930871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ups",
+        "power"
+    ]
+},
+  "bbox": [77.615021,12.998038,77.615021,12.998038],
+  "geometry": {"coordinates":[77.615021,12.998038],"type":"Point"}
+}

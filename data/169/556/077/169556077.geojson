@@ -1,0 +1,53 @@
+{
+  "id": 169556077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.254707,13.084325,80.254707,13.084325",
+    "geom:latitude":13.084325,
+    "geom:longitude":80.254707,
+    "iso:country":"IN",
+    "sg:address":"Gandhi Avenue",
+    "sg:city":"Chennai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2532 3169",
+    "sg:postcode":"600034",
+    "sg:province":"Tamil Nadu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903949,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24QFxqrMepnDhgi6zlCr53_13.084325_80.254707@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7bcc1ce8ea1f6ede9acc801d4e73dccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903949,
+            "region_id":85672245,
+            "venue_id":169556077
+        }
+    ],
+    "wof:id":169556077,
+    "wof:lastmodified":1449033507,
+    "wof:name":"Rimras Group",
+    "wof:parent_id":85903949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.254707,13.084325,80.254707,13.084325],
+  "geometry": {"coordinates":[80.254707,13.084325],"type":"Point"}
+}

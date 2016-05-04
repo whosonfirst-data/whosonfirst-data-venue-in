@@ -1,0 +1,65 @@
+{
+  "id": 169637845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.214668,13.106995,80.214668,13.106995",
+    "geom:latitude":13.106995,
+    "geom:longitude":80.214668,
+    "iso:country":"IN",
+    "sg:address":"47a, Seeyalam Street, Villivakkam, (near Icf Bus Terminus),",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2650 2862",
+    "sg:postcode":"600049",
+    "sg:tags":[
+        "active",
+        "carbon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903945,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56xVcoAyJCGM6nDZJWNxA3_13.106995_80.214668@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3a43b4897e7c75c7eac22e5a93c73480",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903945,
+            "region_id":85672245,
+            "venue_id":169637845
+        }
+    ],
+    "wof:id":169637845,
+    "wof:lastmodified":1449032686,
+    "wof:name":"Tycoon International",
+    "wof:parent_id":85903945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "active",
+        "carbon"
+    ]
+},
+  "bbox": [80.214668,13.106995,80.214668,13.106995],
+  "geometry": {"coordinates":[80.214668,13.106995],"type":"Point"}
+}

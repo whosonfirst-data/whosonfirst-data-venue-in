@@ -1,0 +1,63 @@
+{
+  "id": 169529657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.832375,18.946978,72.832375,18.946978",
+    "geom:latitude":18.946978,
+    "geom:longitude":72.832375,
+    "iso:country":"IN",
+    "sg:address":"57, Krishna Bhuvan, 2nd Floor, Lohar Chawl,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2206 2565",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0At9xuRnuc4jwKDXKTiSuo_18.946978_72.832375@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3c42db57ce30a9bec86b4dd7b19ab4ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169529657
+        }
+    ],
+    "wof:id":169529657,
+    "wof:lastmodified":1449034113,
+    "wof:name":"Sheth And Sons",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.832375,18.946978,72.832375,18.946978],
+  "geometry": {"coordinates":[72.832375,18.946978],"type":"Point"}
+}

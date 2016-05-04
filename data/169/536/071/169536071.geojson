@@ -1,0 +1,58 @@
+{
+  "id": 169536071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.829842,18.955637,72.829842,18.955637",
+    "geom:latitude":18.955637,
+    "geom:longitude":72.829842,
+    "iso:country":"IN",
+    "sg:address":"No. 136/138, Bapu Khote Street, 2nd Floor,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2347 1677",
+    "sg:postcode":"400003",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931435,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E1WLoakS4X1T5miHXt1CO_18.955637_72.829842@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"59fefef629d86895dacbaab76b62905c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931435,
+            "region_id":85672171,
+            "venue_id":169536071
+        }
+    ],
+    "wof:id":169536071,
+    "wof:lastmodified":1449034659,
+    "wof:name":"Siddiqi Enterprise",
+    "wof:parent_id":85931435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.829842,18.955637,72.829842,18.955637],
+  "geometry": {"coordinates":[72.829842,18.955637],"type":"Point"}
+}

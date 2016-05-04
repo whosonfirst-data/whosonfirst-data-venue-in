@@ -1,0 +1,64 @@
+{
+  "id": 169582303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.88208,18.53743,73.88208,18.53743",
+    "geom:latitude":18.53743,
+    "geom:longitude":73.88208,
+    "iso:country":"IN",
+    "sg:address":"142, Ashoka Mall, Bund Garden Road,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2613 2459",
+    "sg:postcode":"411001",
+    "sg:tags":[
+        "pigment"
+    ],
+    "sg:website":"http://www.kaysonsinternational.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903913,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v9N1PbhJttM651iV6F7Fj_18.537430_73.882080@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8fff8b778a3fa4a21f5365c3a1e1687d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85903913,
+            "region_id":85672171,
+            "venue_id":169582303
+        }
+    ],
+    "wof:id":169582303,
+    "wof:lastmodified":1449034461,
+    "wof:name":"Kaysons International",
+    "wof:parent_id":85903913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [73.88208,18.53743,73.88208,18.53743],
+  "geometry": {"coordinates":[73.88208,18.53743],"type":"Point"}
+}

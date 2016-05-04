@@ -1,0 +1,66 @@
+{
+  "id": 169588517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.199249,13.107629,80.199249,13.107629",
+    "geom:latitude":13.107629,
+    "geom:longitude":80.199249,
+    "iso:country":"IN",
+    "sg:address":"95-a, Sidco Industrial Estate, Ambattur,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2625 1781",
+    "sg:postcode":"600098",
+    "sg:tags":[
+        "plant",
+        "processing"
+    ],
+    "sg:website":"http://www.mefcoindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903945,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y2CZ6KUGm2kdepkFzkYtc_13.107629_80.199249@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2c646a5bbcbceb941d68bfa4aca4fc7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903945,
+            "region_id":85672245,
+            "venue_id":169588517
+        }
+    ],
+    "wof:id":169588517,
+    "wof:lastmodified":1449035310,
+    "wof:name":"Mefco Engineers Pvt. Ltd.",
+    "wof:parent_id":85903945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [80.199249,13.107629,80.199249,13.107629],
+  "geometry": {"coordinates":[80.199249,13.107629],"type":"Point"}
+}

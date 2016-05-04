@@ -1,0 +1,62 @@
+{
+  "id": 169558981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.336746,28.68775,77.336746,28.68775",
+    "geom:latitude":28.68775,
+    "geom:longitude":77.336746,
+    "iso:country":"IN",
+    "sg:address":"3107, Industrial Area 2,",
+    "sg:city":"Chandigarh",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 172 508 9324",
+    "sg:postcode":"160002",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_715mQMJopnI5YYdM0T57bK_28.687750_77.336746@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2f0f9a032a49c0496dc06c39fd9f0bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169558981
+        }
+    ],
+    "wof:id":169558981,
+    "wof:lastmodified":1449033583,
+    "wof:name":"Chandigarh Inks Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.336746,28.68775,77.336746,28.68775],
+  "geometry": {"coordinates":[77.336746,28.68775],"type":"Point"}
+}

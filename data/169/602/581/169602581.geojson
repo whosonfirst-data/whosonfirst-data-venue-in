@@ -1,0 +1,65 @@
+{
+  "id": 169602581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.303467,10.01486,76.303467,10.01486",
+    "geom:latitude":10.01486,
+    "geom:longitude":76.303467,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 23/b, Industrial Estate S. Kalamssery, Dist. Ernakulam",
+    "sg:city":"Kalamassery",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 484 255 7979",
+    "sg:tags":[
+        "product",
+        "gum"
+    ],
+    "sg:website":"http://www.cochinrubbers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783553,
+        85632469,
+        102030497,
+        85672149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YCo6I8igQfZ1CEOCxzij6_10.014860_76.303467@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"55b20b2802a1db3d5771c7549fbed916",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030497,
+            "neighbourhood_id":85783553,
+            "region_id":85672149,
+            "venue_id":169602581
+        }
+    ],
+    "wof:id":169602581,
+    "wof:lastmodified":1449034225,
+    "wof:name":"Pottekkattu Rubbers Pvt. Ltd.",
+    "wof:parent_id":85783553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "gum"
+    ]
+},
+  "bbox": [76.303467,10.01486,76.303467,10.01486],
+  "geometry": {"coordinates":[76.303467,10.01486],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169578915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.159492,28.565264,77.159492,28.565264",
+    "geom:latitude":28.565264,
+    "geom:longitude":77.159492,
+    "iso:country":"IN",
+    "sg:address":"E-2, Sector 6,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 242 2270",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "natural",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927949,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vzpz2h3tsuyFeOv79WV2M_28.565264_77.159492@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"107415280496ebe8ba610a9941ceff24",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927949,
+            "region_id":85672123,
+            "venue_id":169578915
+        }
+    ],
+    "wof:id":169578915,
+    "wof:lastmodified":1449033523,
+    "wof:name":"Hindustan Rubber Works",
+    "wof:parent_id":85927949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "natural",
+        "-"
+    ]
+},
+  "bbox": [77.159492,28.565264,77.159492,28.565264],
+  "geometry": {"coordinates":[77.159492,28.565264],"type":"Point"}
+}

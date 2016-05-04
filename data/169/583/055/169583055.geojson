@@ -1,0 +1,66 @@
+{
+  "id": 169583055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.249031,13.106454,80.249031,13.106454",
+    "geom:latitude":13.106454,
+    "geom:longitude":80.249031,
+    "iso:country":"IN",
+    "sg:address":"# 120, Perambur High Road, Jamalia,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2662 2332",
+    "sg:postcode":"600012",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "sg:website":"http://www.koladi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903945,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gR0FdG0nBu2bdalKXc41r_13.106454_80.249031@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"be148ce714aa1142b9d00542b4e279b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903945,
+            "region_id":85672245,
+            "venue_id":169583055
+        }
+    ],
+    "wof:id":169583055,
+    "wof:lastmodified":1449035265,
+    "wof:name":"Koladi Chemicals",
+    "wof:parent_id":85903945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [80.249031,13.106454,80.249031,13.106454],
+  "geometry": {"coordinates":[80.249031,13.106454],"type":"Point"}
+}

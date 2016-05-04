@@ -1,0 +1,63 @@
+{
+  "id": 169532359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831772,18.948267,72.831772,18.948267",
+    "geom:latitude":18.948267,
+    "geom:longitude":72.831772,
+    "iso:country":"IN",
+    "sg:address":"70, Bank Of India Bldg., 185, Javeri Bazar,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2344 7840",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "diamond"
+    ],
+    "sg:website":"http://www.majewellers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rXBYAN1l2kGxXcI7wSQP0_18.948267_72.831772@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8acac9136e67fd46f499cd898fdae3b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169532359
+        }
+    ],
+    "wof:id":169532359,
+    "wof:lastmodified":1449033793,
+    "wof:name":"M. A. Jewellers",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.831772,18.948267,72.831772,18.948267],
+  "geometry": {"coordinates":[72.831772,18.948267],"type":"Point"}
+}

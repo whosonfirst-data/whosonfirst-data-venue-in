@@ -1,0 +1,63 @@
+{
+  "id": 169526171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.438148,17.409367,78.438148,17.409367",
+    "geom:latitude":17.409367,
+    "geom:longitude":78.438148,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 12, Road No. 13,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2838 5225",
+    "sg:postcode":"400093",
+    "sg:tags":[
+        "auto"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930747,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MQfIokPnBZ8xhO7YAC5GH_17.409367_78.438148@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6ea77c3aacfedb98f9d0ccb657a99175",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930747,
+            "region_id":85672141,
+            "venue_id":169526171
+        }
+    ],
+    "wof:id":169526171,
+    "wof:lastmodified":1449033702,
+    "wof:name":"Spyk Overseas",
+    "wof:parent_id":85930747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto"
+    ]
+},
+  "bbox": [78.438148,17.409367,78.438148,17.409367],
+  "geometry": {"coordinates":[78.438148,17.409367],"type":"Point"}
+}

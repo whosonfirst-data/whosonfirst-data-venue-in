@@ -1,0 +1,63 @@
+{
+  "id": 169593837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.369225,22.577822,88.369225,22.577822",
+    "geom:latitude":22.577822,
+    "geom:longitude":88.369225,
+    "iso:country":"IN",
+    "sg:address":"131, Keshab Chandra Sen Street,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2354 3043",
+    "sg:postcode":"700009",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903897,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O6LALg5WuthF8wTcB2fit_22.577822_88.369225@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cff8868931e48da9ba5e4e61df45da83",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903897,
+            "region_id":85672219,
+            "venue_id":169593837
+        }
+    ],
+    "wof:id":169593837,
+    "wof:lastmodified":1449034874,
+    "wof:name":"New India Rubber Works (p) Ltd.",
+    "wof:parent_id":85903897,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [88.369225,22.577822,88.369225,22.577822],
+  "geometry": {"coordinates":[88.369225,22.577822],"type":"Point"}
+}

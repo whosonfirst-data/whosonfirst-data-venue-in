@@ -1,0 +1,61 @@
+{
+  "id": 169625729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"85.336235,23.990772,85.336235,23.990772",
+    "geom:latitude":23.990772,
+    "geom:longitude":85.336235,
+    "iso:country":"IN",
+    "sg:address":"3/242, Vishnupuri,",
+    "sg:city":"Kanpur",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 512 256 3834",
+    "sg:tags":[
+        "solvent"
+    ],
+    "sg:website":"http://www.sngsol.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OscgCQZ3wbIWSTedH7vyg_23.990772_85.336235@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"230b34e2607614bedfb1e760c8ad9cdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672213,
+            "venue_id":169625729
+        }
+    ],
+    "wof:id":169625729,
+    "wof:lastmodified":1449036022,
+    "wof:name":"Sng Solvents (p) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solvent"
+    ]
+},
+  "bbox": [85.336235,23.990772,85.336235,23.990772],
+  "geometry": {"coordinates":[85.336235,23.990772],"type":"Point"}
+}

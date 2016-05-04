@@ -1,0 +1,63 @@
+{
+  "id": 169540845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.584091,13.003079,77.584091,13.003079",
+    "geom:latitude":13.003079,
+    "geom:longitude":77.584091,
+    "iso:country":"IN",
+    "sg:address":"No. 32/1, J N Road, Avenue Road Cross,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2221 1373",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930891,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EYO2NWKrQ7jIAUi0Plm6U_13.003079_77.584091@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a47a531d4140c6da13a67917fbb9d9a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930891,
+            "region_id":85672165,
+            "venue_id":169540845
+        }
+    ],
+    "wof:id":169540845,
+    "wof:lastmodified":1449033972,
+    "wof:name":"Megha Exports",
+    "wof:parent_id":85930891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.584091,13.003079,77.584091,13.003079],
+  "geometry": {"coordinates":[77.584091,13.003079],"type":"Point"}
+}

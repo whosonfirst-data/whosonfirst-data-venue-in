@@ -1,0 +1,63 @@
+{
+  "id": 169577461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.367737,22.632036,88.367737,22.632036",
+    "geom:latitude":22.632036,
+    "geom:longitude":88.367737,
+    "iso:country":"IN",
+    "sg:address":"40a, Pramanick Ghat Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2546 0914",
+    "sg:postcode":"700036",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904005,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LpPWUf0PlmbXYvwrfekyj_22.632036_88.367737@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f3c931f50878af3d5fbfef691c64634a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85904005,
+            "region_id":85672219,
+            "venue_id":169577461
+        }
+    ],
+    "wof:id":169577461,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Global Traders & Exporters",
+    "wof:parent_id":85904005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [88.367737,22.632036,88.367737,22.632036],
+  "geometry": {"coordinates":[88.367737,22.632036],"type":"Point"}
+}

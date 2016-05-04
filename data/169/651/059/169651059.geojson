@@ -1,0 +1,71 @@
+{
+  "id": 169651059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.181639,28.642933,77.181639,28.642933",
+    "geom:latitude":28.642933,
+    "geom:longitude":77.181639,
+    "iso:country":"IN",
+    "sg:address":"24 Pusa Road",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "affiliate",
+        "associate",
+        "search-engine",
+        "seo",
+        "sem"
+    ],
+    "sg:website":"http://www.imediablitz.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928113,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VWGFIRYpsG6rjLuYCOVVw_28.642933_77.181639@1308163238"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"10d37be19bbed25a3dc7eeedad74d9dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928113,
+            "region_id":85672123,
+            "venue_id":169651059
+        }
+    ],
+    "wof:id":169651059,
+    "wof:lastmodified":1449033345,
+    "wof:name":"iMediaBlitz",
+    "wof:parent_id":85928113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "affiliate",
+        "associate",
+        "search-engine",
+        "seo",
+        "sem"
+    ]
+},
+  "bbox": [77.181639,28.642933,77.181639,28.642933],
+  "geometry": {"coordinates":[77.181639,28.642933],"type":"Point"}
+}

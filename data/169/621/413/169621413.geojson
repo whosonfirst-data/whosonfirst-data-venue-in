@@ -1,0 +1,65 @@
+{
+  "id": 169621413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"81.639297,21.241476,81.639297,21.241476",
+    "geom:latitude":21.241476,
+    "geom:longitude":81.639297,
+    "iso:country":"IN",
+    "sg:address":"253, Shastri Market,",
+    "sg:city":"Indore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 731 253 0273",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028919,
+        85672231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qBWb4MGhayjgJWcD3mAZe_21.241476_81.639297@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e4636c52f6d07ea1c06967aaafa77042",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028919,
+            "neighbourhood_id":-1,
+            "region_id":85672231,
+            "venue_id":169621413
+        }
+    ],
+    "wof:id":169621413,
+    "wof:lastmodified":1449035557,
+    "wof:name":"Shree Nidhi Marketing Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [81.639297,21.241476,81.639297,21.241476],
+  "geometry": {"coordinates":[81.639297,21.241476],"type":"Point"}
+}

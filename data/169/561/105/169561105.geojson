@@ -1,0 +1,66 @@
+{
+  "id": 169561105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.195915,13.047382,80.195915,13.047382",
+    "geom:latitude":13.047382,
+    "geom:longitude":80.195915,
+    "iso:country":"IN",
+    "sg:address":"I-5, M. G. M. Apartments, 47 Arcot Road, Virugambakkam,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2364 1197",
+    "sg:tags":[
+        "material",
+        "protection",
+        "corrosion"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931797,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a3IurztyWJ1L5kfd88rOx_13.047382_80.195915@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"638f544d9d329e61ef0132e62e940b58",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931797,
+            "region_id":85672245,
+            "venue_id":169561105
+        }
+    ],
+    "wof:id":169561105,
+    "wof:lastmodified":1449035020,
+    "wof:name":"Emkem Pretreatments",
+    "wof:parent_id":85931797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material",
+        "protection",
+        "corrosion"
+    ]
+},
+  "bbox": [80.195915,13.047382,80.195915,13.047382],
+  "geometry": {"coordinates":[80.195915,13.047382],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169603627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.177017,28.664032,77.177017,28.664032",
+    "geom:latitude":28.664032,
+    "geom:longitude":77.177017,
+    "iso:country":"IN",
+    "sg:address":"19a/1, Gali No.13, Anand Parbat Industrial Area, New Rohtak Road,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2053 4869",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928115,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08R8WSq3WSEGRWsVIwioUe_28.664032_77.177017@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"10ab33bbda6f0dcd8297061db42cf71a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928115,
+            "region_id":85672123,
+            "venue_id":169603627
+        }
+    ],
+    "wof:id":169603627,
+    "wof:lastmodified":1449035454,
+    "wof:name":"Premier Rubber Products",
+    "wof:parent_id":85928115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.177017,28.664032,77.177017,28.664032],
+  "geometry": {"coordinates":[77.177017,28.664032],"type":"Point"}
+}

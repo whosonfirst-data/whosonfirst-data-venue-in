@@ -1,0 +1,63 @@
+{
+  "id": 169595701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.165054,28.578938,77.165054,28.578938",
+    "geom:latitude":28.578938,
+    "geom:longitude":77.165054,
+    "iso:country":"IN",
+    "sg:address":"C-117, Anand Niketan,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4166 3950",
+    "sg:postcode":"110021",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928343,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zK9bH9rbcSMtp3iwmZgIc_28.578938_77.165054@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c1eff0f1e6b141e40e8da711d05d69e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928343,
+            "region_id":85672123,
+            "venue_id":169595701
+        }
+    ],
+    "wof:id":169595701,
+    "wof:lastmodified":1449035639,
+    "wof:name":"Ocean Bay Impex Pvt. Ltd.",
+    "wof:parent_id":85928343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [77.165054,28.578938,77.165054,28.578938],
+  "geometry": {"coordinates":[77.165054,28.578938],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169643893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"79.071564,21.148373,79.071564,21.148373",
+    "geom:latitude":21.148373,
+    "geom:longitude":79.071564,
+    "iso:country":"IN",
+    "sg:address":"16/40, Civil Lines,",
+    "sg:city":"Kanpur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 512 230 5586",
+    "sg:postcode":"203008",
+    "sg:tags":[
+        "polymer"
+    ],
+    "sg:website":"http://www.vinaypolyfilms.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933709,
+        85632469,
+        102029277,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z3Uh9x00fWAFLtmkPaIAy_21.148373_79.071564@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"89116aed070373ac4332af15c4809540",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029277,
+            "neighbourhood_id":85933709,
+            "region_id":85672171,
+            "venue_id":169643893
+        }
+    ],
+    "wof:id":169643893,
+    "wof:lastmodified":1449035524,
+    "wof:name":"Vinay W Poly Product Pvt Ltd.",
+    "wof:parent_id":85933709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [79.071564,21.148373,79.071564,21.148373],
+  "geometry": {"coordinates":[79.071564,21.148373],"type":"Point"}
+}

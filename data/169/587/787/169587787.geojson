@@ -1,0 +1,63 @@
+{
+  "id": 169587787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833458,19.06732,72.833458,19.06732",
+    "geom:latitude":19.06732,
+    "geom:longitude":72.833458,
+    "iso:country":"IN",
+    "sg:address":"1, Old Court House Corner,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2248 1551",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "wax"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931493,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XK5iysbQ9JUOHkULusy37_19.067320_72.833458@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"06b835b81d6bba624da00eb15a5ce913",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931493,
+            "region_id":85672171,
+            "venue_id":169587787
+        }
+    ],
+    "wof:id":169587787,
+    "wof:lastmodified":1449033822,
+    "wof:name":"Maruti Sanfame Pte Ltd.",
+    "wof:parent_id":85931493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [72.833458,19.06732,72.833458,19.06732],
+  "geometry": {"coordinates":[72.833458,19.06732],"type":"Point"}
+}

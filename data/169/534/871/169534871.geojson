@@ -1,0 +1,72 @@
+{
+  "id": 169534871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.879677,19.115858,72.879677,19.115858",
+    "geom:latitude":19.115858,
+    "geom:longitude":72.879677,
+    "iso:country":"IN",
+    "sg:address":"203, Tirupati Industrial Estate, Subhash Nagar, Bhandup (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6799 5751",
+    "sg:postcode":"400078",
+    "sg:tags":[
+        "indicator",
+        "electronic",
+        "controller",
+        "liquid",
+        "level"
+    ],
+    "sg:website":"http://www.digiautomation.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3piNA24n2jbfIVk4m02taS_19.115858_72.879677@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"72c05f42cd6efbc20d9fac6e9834036b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169534871
+        }
+    ],
+    "wof:id":169534871,
+    "wof:lastmodified":1449033548,
+    "wof:name":"Digital Systems",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "indicator",
+        "electronic",
+        "controller",
+        "liquid",
+        "level"
+    ]
+},
+  "bbox": [72.879677,19.115858,72.879677,19.115858],
+  "geometry": {"coordinates":[72.879677,19.115858],"type":"Point"}
+}

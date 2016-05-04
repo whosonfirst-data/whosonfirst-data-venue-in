@@ -1,0 +1,58 @@
+{
+  "id": 169653949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831915,19.136952,72.831915,19.136952",
+    "geom:latitude":19.136952,
+    "geom:longitude":72.831915,
+    "iso:country":"IN",
+    "sg:address":"Oshiwara New Link Road, Andheri West 4th Flr",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"400053",
+    "sg:website":"http://www.rbe.co.in/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931475,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gbGOLwPjQGxDWdB4Toii4_19.136952_72.831915@1308163242"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d0ccb835b3514f1382169f69a6cabc39",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931475,
+            "region_id":85672171,
+            "venue_id":169653949
+        }
+    ],
+    "wof:id":169653949,
+    "wof:lastmodified":1449032917,
+    "wof:name":"Reliance BIG Entertainment",
+    "wof:parent_id":85931475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.831915,19.136952,72.831915,19.136952],
+  "geometry": {"coordinates":[72.831915,19.136952],"type":"Point"}
+}

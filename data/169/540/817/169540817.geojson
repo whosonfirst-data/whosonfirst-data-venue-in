@@ -1,0 +1,61 @@
+{
+  "id": 169540817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.450989,17.290974,74.450989,17.290974",
+    "geom:latitude":17.290974,
+    "geom:longitude":74.450989,
+    "iso:country":"IN",
+    "sg:address":"26, 1st Floor, J.m. Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2221 5846",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47TOb06LNxrIz40G0hnBsv_17.290974_74.450989@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"01f618f727b7b2bb927937052c2a089e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169540817
+        }
+    ],
+    "wof:id":169540817,
+    "wof:lastmodified":1449033976,
+    "wof:name":"Maharashtra Textorium",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [74.450989,17.290974,74.450989,17.290974],
+  "geometry": {"coordinates":[74.450989,17.290974],"type":"Point"}
+}

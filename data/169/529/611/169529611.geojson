@@ -1,0 +1,63 @@
+{
+  "id": 169529611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.949226,19.170578,72.949226,19.170578",
+    "geom:latitude":19.170578,
+    "geom:longitude":72.949226,
+    "iso:country":"IN",
+    "sg:address":"F-165, Mulund Darshan, Mulund Colony,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2560 9560",
+    "sg:postcode":"400082",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931655,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FUNojZZR18P3VXi8MiF8y_19.170578_72.949226@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f06a90421d5537b1acf874aef311ccf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931655,
+            "region_id":85672171,
+            "venue_id":169529611
+        }
+    ],
+    "wof:id":169529611,
+    "wof:lastmodified":1449034116,
+    "wof:name":"Aarjay Chemcials & Colourants",
+    "wof:parent_id":85931655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.949226,19.170578,72.949226,19.170578],
+  "geometry": {"coordinates":[72.949226,19.170578],"type":"Point"}
+}

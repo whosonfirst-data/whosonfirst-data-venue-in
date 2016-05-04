@@ -1,0 +1,62 @@
+{
+  "id": 169579569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.132309,22.45536,88.132309,22.45536",
+    "geom:latitude":22.45536,
+    "geom:longitude":88.132309,
+    "iso:country":"IN",
+    "sg:address":"Chengail,",
+    "sg:city":"Howrah",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2642 8603",
+    "sg:postcode":"711308",
+    "sg:tags":[
+        "synthetic"
+    ],
+    "sg:website":"http://indiapolymer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qby40lFIK6K06DeT4pRmo_22.455360_88.132309@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d390b125c8a2c55030184e754d5000b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672219,
+            "venue_id":169579569
+        }
+    ],
+    "wof:id":169579569,
+    "wof:lastmodified":1449033743,
+    "wof:name":"India Polymer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "synthetic"
+    ]
+},
+  "bbox": [88.132309,22.45536,88.132309,22.45536],
+  "geometry": {"coordinates":[88.132309,22.45536],"type":"Point"}
+}

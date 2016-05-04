@@ -1,0 +1,65 @@
+{
+  "id": 169546259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.225388,13.049193,80.225388,13.049193",
+    "geom:latitude":13.049193,
+    "geom:longitude":80.225388,
+    "iso:country":"IN",
+    "sg:address":"35, Muthu Nagar, 3rd Street,",
+    "sg:city":"Tiruppur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 654 7970",
+    "sg:postcode":"641607",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903935,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IATHhAgm4gLMA2kCaASQr_13.049193_80.225388@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9f94bf29f436a5ade5a14900faef73e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903935,
+            "region_id":85672245,
+            "venue_id":169546259
+        }
+    ],
+    "wof:id":169546259,
+    "wof:lastmodified":1449032680,
+    "wof:name":"V. L. Associates",
+    "wof:parent_id":85903935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [80.225388,13.049193,80.225388,13.049193],
+  "geometry": {"coordinates":[80.225388,13.049193],"type":"Point"}
+}

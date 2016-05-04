@@ -1,0 +1,67 @@
+{
+  "id": 169531063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.828407,18.960342,72.828407,18.960342",
+    "geom:latitude":18.960342,
+    "geom:longitude":72.828407,
+    "iso:country":"IN",
+    "sg:address":"48, Durgadevi Street, Kumbharwada,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2382 1321",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "copper",
+        "product"
+    ],
+    "sg:website":"http://www.svmetal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5twnUSfN0p15yJNOWss6H4_18.960342_72.828407@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5840c06778fd75edd6651f7c598149cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903863,
+            "region_id":85672171,
+            "venue_id":169531063
+        }
+    ],
+    "wof:id":169531063,
+    "wof:lastmodified":1449033472,
+    "wof:name":"S. V. Metal Corporation",
+    "wof:parent_id":85903863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "copper",
+        "product"
+    ]
+},
+  "bbox": [72.828407,18.960342,72.828407,18.960342],
+  "geometry": {"coordinates":[72.828407,18.960342],"type":"Point"}
+}

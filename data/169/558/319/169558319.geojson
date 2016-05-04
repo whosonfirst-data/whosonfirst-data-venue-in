@@ -1,0 +1,67 @@
+{
+  "id": 169558319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.312569,28.398624,77.312569,28.398624",
+    "geom:latitude":28.398624,
+    "geom:longitude":77.312569,
+    "iso:country":"IN",
+    "sg:address":"151-152, Sector-59, Huda,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 230 7346",
+    "sg:postcode":"121004",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928393,
+        85632469,
+        102030289,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xeQcxVDEYOKRYg9lxhZrE_28.398624_77.312569@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3f78e2daff7e20f9b4b515cdc0d4f1e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030289,
+            "neighbourhood_id":85928393,
+            "region_id":85672133,
+            "venue_id":169558319
+        }
+    ],
+    "wof:id":169558319,
+    "wof:lastmodified":1449033581,
+    "wof:name":"Biologic & Psychotropics India Pvt. Ltd.",
+    "wof:parent_id":85928393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [77.312569,28.398624,77.312569,28.398624],
+  "geometry": {"coordinates":[77.312569,28.398624],"type":"Point"}
+}

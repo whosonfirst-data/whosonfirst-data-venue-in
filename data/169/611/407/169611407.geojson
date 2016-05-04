@@ -1,0 +1,63 @@
+{
+  "id": 169611407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.708641,24.578688,73.708641,24.578688",
+    "geom:latitude":24.578688,
+    "geom:longitude":73.708641,
+    "iso:country":"IN",
+    "sg:address":"5, Sikh Colony,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 241 7405",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934005,
+        85632469,
+        102028377,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GVrdZIiegUCPiURS81kCY_24.578688_73.708641@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"35063444eb8169cb39bc060bc10d36b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028377,
+            "neighbourhood_id":85934005,
+            "region_id":85672201,
+            "venue_id":169611407
+        }
+    ],
+    "wof:id":169611407,
+    "wof:lastmodified":1449035262,
+    "wof:name":"Ritu Electrodes Pvt. Ltd.",
+    "wof:parent_id":85934005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [73.708641,24.578688,73.708641,24.578688],
+  "geometry": {"coordinates":[73.708641,24.578688],"type":"Point"}
+}

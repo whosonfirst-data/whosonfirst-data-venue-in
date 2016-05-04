@@ -1,0 +1,62 @@
+{
+  "id": 169645501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.357758,22.574474,88.357758,22.574474",
+    "geom:latitude":22.574474,
+    "geom:longitude":88.357758,
+    "iso:country":"IN",
+    "sg:address":"40, Phears Lane,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"700073",
+    "sg:tags":[
+        "chemical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903793,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44vWR8hUZcuNU4ZeojcrAb_22.574474_88.357758@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c4abd239298ffe7571b534169de2ec0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903793,
+            "region_id":85672219,
+            "venue_id":169645501
+        }
+    ],
+    "wof:id":169645501,
+    "wof:lastmodified":1449033006,
+    "wof:name":"Vohra Enterprise",
+    "wof:parent_id":85903793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical"
+    ]
+},
+  "bbox": [88.357758,22.574474,88.357758,22.574474],
+  "geometry": {"coordinates":[88.357758,22.574474],"type":"Point"}
+}

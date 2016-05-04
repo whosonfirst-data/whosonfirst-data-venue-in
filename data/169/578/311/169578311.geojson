@@ -1,0 +1,62 @@
+{
+  "id": 169578311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.013901,19.113665,73.013901,19.113665",
+    "geom:latitude":19.113665,
+    "geom:longitude":73.013901,
+    "iso:country":"IN",
+    "sg:address":"Plot No. A-718, T.t.c., Industrial Area, Mahape,",
+    "sg:city":"Navi Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 91222781593",
+    "sg:postcode":"400701",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031115,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kUnyeHn3qN4aR4J7pfGTM_19.113665_73.013901@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bc3f02725e4df9a6c4e9e8c009152b18",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031115,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169578311
+        }
+    ],
+    "wof:id":169578311,
+    "wof:lastmodified":1449033519,
+    "wof:name":"Gurudatta Chemicals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [73.013901,19.113665,73.013901,19.113665],
+  "geometry": {"coordinates":[73.013901,19.113665],"type":"Point"}
+}

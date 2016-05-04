@@ -1,0 +1,62 @@
+{
+  "id": 169635713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.296593,22.563065,88.296593,22.563065",
+    "geom:latitude":22.563065,
+    "geom:longitude":88.296593,
+    "iso:country":"IN",
+    "sg:address":"146, Andul Road,",
+    "sg:city":"Howrah",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2668 1066",
+    "sg:postcode":"711103",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931983,
+        85632469,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OI1QTAmIiLM0JQvJ7F5ev_22.563065_88.296593@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8b0819a2ee479bf875e9f64c49d6c9c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85931983,
+            "region_id":85672219,
+            "venue_id":169635713
+        }
+    ],
+    "wof:id":169635713,
+    "wof:lastmodified":1449034102,
+    "wof:name":"The Kamrup Industrial Gases Limited",
+    "wof:parent_id":85931983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [88.296593,22.563065,88.296593,22.563065],
+  "geometry": {"coordinates":[88.296593,22.563065],"type":"Point"}
+}

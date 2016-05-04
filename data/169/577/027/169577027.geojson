@@ -1,0 +1,62 @@
+{
+  "id": 169577027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.200302,28.748049,77.200302,28.748049",
+    "geom:latitude":28.748049,
+    "geom:longitude":77.200302,
+    "iso:country":"IN",
+    "sg:address":"Plot No.-6, Gali No. 9, Shalimar Bagh,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2749 0258",
+    "sg:postcode":"110052",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11LBwwzh90oGm6poSIG8R7_28.748049_77.200302@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4f98e37277f068ae34cc0b4471bebcd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169577027
+        }
+    ],
+    "wof:id":169577027,
+    "wof:lastmodified":1449036065,
+    "wof:name":"G. M. Polychem",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.200302,28.748049,77.200302,28.748049],
+  "geometry": {"coordinates":[77.200302,28.748049],"type":"Point"}
+}

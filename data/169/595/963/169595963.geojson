@@ -1,0 +1,63 @@
+{
+  "id": 169595963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.345329,22.573307,88.345329,22.573307",
+    "geom:latitude":22.573307,
+    "geom:longitude":88.345329,
+    "iso:country":"IN",
+    "sg:address":"40 Strand Road, 2nd Floor Room No. 29b,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2213 0919",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931969,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oA2MmmXSr0lVCXHMBMAmK_22.573307_88.345329@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3f5571952b5076eb91262eb76755410f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931969,
+            "region_id":85672219,
+            "venue_id":169595963
+        }
+    ],
+    "wof:id":169595963,
+    "wof:lastmodified":1449035635,
+    "wof:name":"Omega Engineering Works",
+    "wof:parent_id":85931969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [88.345329,22.573307,88.345329,22.573307],
+  "geometry": {"coordinates":[88.345329,22.573307],"type":"Point"}
+}

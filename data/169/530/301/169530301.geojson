@@ -1,0 +1,68 @@
+{
+  "id": 169530301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.827728,18.958155,72.827728,18.958155",
+    "geom:latitude":18.958155,
+    "geom:longitude":72.827728,
+    "iso:country":"IN",
+    "sg:address":"147-a, Sant Sena Maharaj Marg, 2nd Kumbharwada,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6636 3159",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "machined",
+        "component",
+        "cnc"
+    ],
+    "sg:website":"http://www.rolexfittings.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931435,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LhJd0tsw0SGkNb3rsLjgp_18.958155_72.827728@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fa0c71bc98c5a246215665629bd6f812",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931435,
+            "region_id":85672171,
+            "venue_id":169530301
+        }
+    ],
+    "wof:id":169530301,
+    "wof:lastmodified":1449034442,
+    "wof:name":"Rolex Fittings India Pvt. Ltd.",
+    "wof:parent_id":85931435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machined",
+        "component",
+        "cnc"
+    ]
+},
+  "bbox": [72.827728,18.958155,72.827728,18.958155],
+  "geometry": {"coordinates":[72.827728,18.958155],"type":"Point"}
+}

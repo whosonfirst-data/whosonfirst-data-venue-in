@@ -1,0 +1,63 @@
+{
+  "id": 169531905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.8545,19.079998,72.8545,19.079998",
+    "geom:latitude":19.079998,
+    "geom:longitude":72.8545,
+    "iso:country":"IN",
+    "sg:address":"27, Vivek Appartments, B-1, Podar Block, Besant Street, Santacruz-west,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 3097 3024",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.manavtrade.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931471,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gA71IqvJJKODH9oqt9006_19.079998_72.854500@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c73a4614acf7511a4fdfa21677cc039d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931471,
+            "region_id":85672171,
+            "venue_id":169531905
+        }
+    ],
+    "wof:id":169531905,
+    "wof:lastmodified":1449033472,
+    "wof:name":"Manav Trade Centre",
+    "wof:parent_id":85931471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.8545,19.079998,72.8545,19.079998],
+  "geometry": {"coordinates":[72.8545,19.079998],"type":"Point"}
+}

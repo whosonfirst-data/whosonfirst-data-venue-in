@@ -1,0 +1,65 @@
+{
+  "id": 169546787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.256577,13.094447,80.256577,13.094447",
+    "geom:latitude":13.094447,
+    "geom:longitude":80.256577,
+    "iso:country":"IN",
+    "sg:address":"No. 30, F. Kamaraj Nagar, 2nd Street, P.n. Road,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 248 0237",
+    "sg:postcode":"641602",
+    "sg:tags":[
+        "knitted",
+        "knitwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903949,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qT4LXu8uP7WWbEiMSC8xx_13.094447_80.256577@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"031891f127e0cb1e2175b0c5a629c22f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903949,
+            "region_id":85672245,
+            "venue_id":169546787
+        }
+    ],
+    "wof:id":169546787,
+    "wof:lastmodified":1449032679,
+    "wof:name":"Flora International (india)",
+    "wof:parent_id":85903949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitted",
+        "knitwear"
+    ]
+},
+  "bbox": [80.256577,13.094447,80.256577,13.094447],
+  "geometry": {"coordinates":[80.256577,13.094447],"type":"Point"}
+}

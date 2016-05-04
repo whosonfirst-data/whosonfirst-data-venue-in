@@ -1,0 +1,64 @@
+{
+  "id": 169558233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.223579,28.627506,77.223579,28.627506",
+    "geom:latitude":28.627506,
+    "geom:longitude":77.223579,
+    "iso:country":"IN",
+    "sg:address":"1523, Ansal Tower, 38, Nehru Place,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2646 1361",
+    "sg:postcode":"110019",
+    "sg:tags":[
+        "resin"
+    ],
+    "sg:website":"http://www.bhimrajka.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903833,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qcnccdLEqCc1uPDRffawR_28.627506_77.223579@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"266871e070658eff073c77cf550ca918",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903833,
+            "region_id":85672123,
+            "venue_id":169558233
+        }
+    ],
+    "wof:id":169558233,
+    "wof:lastmodified":1449033583,
+    "wof:name":"Bhimrajka Impex Ltd.",
+    "wof:parent_id":85903833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [77.223579,28.627506,77.223579,28.627506],
+  "geometry": {"coordinates":[77.223579,28.627506],"type":"Point"}
+}

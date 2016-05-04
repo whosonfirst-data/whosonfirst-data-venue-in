@@ -1,0 +1,73 @@
+{
+  "id": 169649619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.597675,12.970895,77.597675,12.970895",
+    "geom:latitude":12.970895,
+    "geom:longitude":77.597675,
+    "iso:country":"IN",
+    "sg:address":"40/4 Lavelle Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560001",
+    "sg:tags":[
+        "business-intelligence",
+        "performance-management",
+        "data-warehousing",
+        "competitive-intelligence",
+        "retail-analytics",
+        "market-research"
+    ],
+    "sg:website":"http://www.manthansystems.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930949,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TDbzpQo0k62iGlxXSqEsw_12.970895_77.597675@1308163240"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5def57aaa9352cb0623f76816a120716",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930949,
+            "region_id":85672165,
+            "venue_id":169649619
+        }
+    ],
+    "wof:id":169649619,
+    "wof:lastmodified":1449034942,
+    "wof:name":"Manthan Systems",
+    "wof:parent_id":85930949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business-intelligence",
+        "performance-management",
+        "data-warehousing",
+        "competitive-intelligence",
+        "retail-analytics",
+        "market-research"
+    ]
+},
+  "bbox": [77.597675,12.970895,77.597675,12.970895],
+  "geometry": {"coordinates":[77.597675,12.970895],"type":"Point"}
+}

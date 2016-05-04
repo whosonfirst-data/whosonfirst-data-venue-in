@@ -1,0 +1,65 @@
+{
+  "id": 169542007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.540504,13.008792,77.540504,13.008792",
+    "geom:latitude":13.008792,
+    "geom:longitude":77.540504,
+    "iso:country":"IN",
+    "sg:address":"8, Kurubarahalli, 7th Cross,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2322 0380",
+    "sg:postcode":"560086",
+    "sg:tags":[
+        "spring",
+        "coil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kaf1ndgkV7207svYIW4HG_13.008792_77.540504@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"46682dfe1b0c0371787a7e7312c1c258",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169542007
+        }
+    ],
+    "wof:id":169542007,
+    "wof:lastmodified":1449035224,
+    "wof:name":"Quality Springs",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spring",
+        "coil"
+    ]
+},
+  "bbox": [77.540504,13.008792,77.540504,13.008792],
+  "geometry": {"coordinates":[77.540504,13.008792],"type":"Point"}
+}

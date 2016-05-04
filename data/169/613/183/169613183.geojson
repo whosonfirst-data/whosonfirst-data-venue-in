@@ -1,0 +1,63 @@
+{
+  "id": 169613183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.390274,22.608673,88.390274,22.608673",
+    "geom:latitude":22.608673,
+    "geom:longitude":88.390274,
+    "iso:country":"IN",
+    "sg:address":"17, Manindra Mitra Row, 2nd Floor,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2351 7508",
+    "sg:postcode":"700009",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85932001,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oHXKYIt2xWRxj4SFRCuvJ_22.608673_88.390274@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"47a8691190550fdd2d8addba781134fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85932001,
+            "region_id":85672219,
+            "venue_id":169613183
+        }
+    ],
+    "wof:id":169613183,
+    "wof:lastmodified":1449034213,
+    "wof:name":"S. R. International",
+    "wof:parent_id":85932001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.390274,22.608673,88.390274,22.608673],
+  "geometry": {"coordinates":[88.390274,22.608673],"type":"Point"}
+}

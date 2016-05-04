@@ -1,0 +1,58 @@
+{
+  "id": 169615113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.262459,13.08414,80.262459,13.08414",
+    "geom:latitude":13.08414,
+    "geom:longitude":80.262459,
+    "iso:country":"IN",
+    "sg:address":"45, E.v.k. Sampath Road, Vepery,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Leather Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2561 2790",
+    "sg:postcode":"600007",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903859,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aXFEvge51JEO905EWK3Xi_13.084140_80.262459@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"61913c8f659c63ef86cb9886c6abe114",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903859,
+            "region_id":85672245,
+            "venue_id":169615113
+        }
+    ],
+    "wof:id":169615113,
+    "wof:lastmodified":1449033734,
+    "wof:name":"Saleem Leather & Shoes Exports",
+    "wof:parent_id":85903859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.262459,13.08414,80.262459,13.08414],
+  "geometry": {"coordinates":[80.262459,13.08414],"type":"Point"}
+}

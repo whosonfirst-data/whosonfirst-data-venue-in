@@ -1,0 +1,65 @@
+{
+  "id": 169580881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.933708,22.675549,75.933708,22.675549",
+    "geom:latitude":22.675549,
+    "geom:longitude":75.933708,
+    "iso:country":"IN",
+    "sg:address":"Nemawar Road,",
+    "sg:city":"Indore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 731 422 6374",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "sg:website":"http://www.jepikapaints.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EGxJkZNoen16dM4RiL03h_22.675549_75.933708@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e3817dedb87535ba8552feffa4c50276",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672239,
+            "venue_id":169580881
+        }
+    ],
+    "wof:id":169580881,
+    "wof:lastmodified":1449034914,
+    "wof:name":"Jepika Paints",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [75.933708,22.675549,75.933708,22.675549],
+  "geometry": {"coordinates":[75.933708,22.675549],"type":"Point"}
+}

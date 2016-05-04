@@ -1,0 +1,64 @@
+{
+  "id": 169590737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.828979,18.947855,72.828979,18.947855",
+    "geom:latitude":18.947855,
+    "geom:longitude":72.828979,
+    "iso:country":"IN",
+    "sg:address":"78/80, Babu Genu Rd., Souri Bldg., 2nd Floor,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2205 7772",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "reagent"
+    ],
+    "sg:website":"http://www.molychem.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZzJZP6hD25NA2fw3JNk7L_18.947855_72.828979@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a463575d240d5df7df0692a70f5828f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169590737
+        }
+    ],
+    "wof:id":169590737,
+    "wof:lastmodified":1449034653,
+    "wof:name":"Molychem",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reagent"
+    ]
+},
+  "bbox": [72.828979,18.947855,72.828979,18.947855],
+  "geometry": {"coordinates":[72.828979,18.947855],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169534211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.847488,19.136957,72.847488,19.136957",
+    "geom:latitude":19.136957,
+    "geom:longitude":72.847488,
+    "iso:country":"IN",
+    "sg:address":"76, Level-1, Deewan Centre, S.v. Road, Jogeshwari (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6698 7730",
+    "sg:postcode":"400102",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931511,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wEGZypq77ikJLs5HDDc4v_19.136957_72.847488@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e0f09606fbde72d6700ebcc11e95ed62",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931511,
+            "region_id":85672171,
+            "venue_id":169534211
+        }
+    ],
+    "wof:id":169534211,
+    "wof:lastmodified":1449033547,
+    "wof:name":"Nandosal Chem Ind. Pvt. Ltd.",
+    "wof:parent_id":85931511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [72.847488,19.136957,72.847488,19.136957],
+  "geometry": {"coordinates":[72.847488,19.136957],"type":"Point"}
+}

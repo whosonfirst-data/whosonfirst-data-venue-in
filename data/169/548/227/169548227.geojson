@@ -1,0 +1,64 @@
+{
+  "id": 169548227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.909706,26.862638,80.909706,26.862638",
+    "geom:latitude":26.862638,
+    "geom:longitude":80.909706,
+    "iso:country":"IN",
+    "sg:address":"160, Victoria Street,",
+    "sg:city":"Tuticorin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 461 232 3650",
+    "sg:postcode":"0",
+    "sg:tags":[
+        "coir"
+    ],
+    "sg:website":"http://www.sivanthijoecoirs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933219,
+        85632469,
+        102029557,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yRk01isYqBzmSUTparAx7_26.862638_80.909706@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fdf2b23aeb37ba88e45361064440faf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029557,
+            "neighbourhood_id":85933219,
+            "region_id":85672205,
+            "venue_id":169548227
+        }
+    ],
+    "wof:id":169548227,
+    "wof:lastmodified":1449034973,
+    "wof:name":"Sivanthi Joe Coirs",
+    "wof:parent_id":85933219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coir"
+    ]
+},
+  "bbox": [80.909706,26.862638,80.909706,26.862638],
+  "geometry": {"coordinates":[80.909706,26.862638],"type":"Point"}
+}

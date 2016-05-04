@@ -1,0 +1,63 @@
+{
+  "id": 169607093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.296722,28.383566,77.296722,28.383566",
+    "geom:latitude":28.383566,
+    "geom:longitude":77.296722,
+    "iso:country":"IN",
+    "sg:address":"164, Tikona Park, N. I. T.,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 241 2988",
+    "sg:postcode":"121001",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928561,
+        85632469,
+        102030289,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AGtjEY2c0aaJdmA6sOexV_28.383566_77.296722@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a21fa072eb106a747b420ae76435ed86",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030289,
+            "neighbourhood_id":85928561,
+            "region_id":85672133,
+            "venue_id":169607093
+        }
+    ],
+    "wof:id":169607093,
+    "wof:lastmodified":1449033120,
+    "wof:name":"Raghav Chem House",
+    "wof:parent_id":85928561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.296722,28.383566,77.296722,28.383566],
+  "geometry": {"coordinates":[77.296722,28.383566],"type":"Point"}
+}

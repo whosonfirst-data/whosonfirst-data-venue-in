@@ -1,0 +1,64 @@
+{
+  "id": 169596239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.253838,13.048847,80.253838,13.048847",
+    "geom:latitude":13.048847,
+    "geom:longitude":80.253838,
+    "iso:country":"IN",
+    "sg:address":"1, 6th Floor, Crown Court, 34, Cathedral Road,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2811 1532",
+    "sg:postcode":"600086",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.orchidpharma.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903959,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wrqcS1t787iXhuRZcopDe_13.048847_80.253838@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ecf1ac540ee3ba3907953f131fd7497c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903959,
+            "region_id":85672245,
+            "venue_id":169596239
+        }
+    ],
+    "wof:id":169596239,
+    "wof:lastmodified":1449034371,
+    "wof:name":"Orchid Chemicals & Pharmaceuticals Ltd.",
+    "wof:parent_id":85903959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.253838,13.048847,80.253838,13.048847],
+  "geometry": {"coordinates":[80.253838,13.048847],"type":"Point"}
+}

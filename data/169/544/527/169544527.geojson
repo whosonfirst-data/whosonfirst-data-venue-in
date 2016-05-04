@@ -1,0 +1,65 @@
+{
+  "id": 169544527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.652641,12.97628,77.652641,12.97628",
+    "geom:latitude":12.97628,
+    "geom:longitude":77.652641,
+    "iso:country":"IN",
+    "sg:address":"78/4, Ist Main Road, Suddaguntapalya,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2553 6555",
+    "sg:postcode":"560029",
+    "sg:tags":[
+        "watch",
+        "clock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931035,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_256gAdBNiYMoGuJ7tgVWqE_12.976280_77.652641@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9d8d93df22f68f148f07842501b1260e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931035,
+            "region_id":85672165,
+            "venue_id":169544527
+        }
+    ],
+    "wof:id":169544527,
+    "wof:lastmodified":1449035965,
+    "wof:name":"Nurfin Graphics Pvt. Ltd.",
+    "wof:parent_id":85931035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "watch",
+        "clock"
+    ]
+},
+  "bbox": [77.652641,12.97628,77.652641,12.97628],
+  "geometry": {"coordinates":[77.652641,12.97628],"type":"Point"}
+}

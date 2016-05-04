@@ -1,0 +1,64 @@
+{
+  "id": 169583313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.819527,21.195009,72.819527,21.195009",
+    "geom:latitude":21.195009,
+    "geom:longitude":72.819527,
+    "iso:country":"IN",
+    "sg:address":"Surat \u2013 Hazira State Highway, Hazira, Engr ( Elect), Kribhco,",
+    "sg:city":"Surat",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 261 280 2164",
+    "sg:postcode":"395007",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "sg:website":"http://www.kribhco.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903955,
+        85632469,
+        102028539,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D4C5HAOWhB5fcYtVUfpMC_21.195009_72.819527@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fc678b4ef327ebd2f22936e77ef19330",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028539,
+            "neighbourhood_id":85903955,
+            "region_id":85672249,
+            "venue_id":169583313
+        }
+    ],
+    "wof:id":169583313,
+    "wof:lastmodified":1449035264,
+    "wof:name":"Kribhco",
+    "wof:parent_id":85903955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [72.819527,21.195009,72.819527,21.195009],
+  "geometry": {"coordinates":[72.819527,21.195009],"type":"Point"}
+}

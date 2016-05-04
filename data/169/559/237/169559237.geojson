@@ -1,0 +1,63 @@
+{
+  "id": 169559237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.299774,28.615786,77.299774,28.615786",
+    "geom:latitude":28.615786,
+    "geom:longitude":77.299774,
+    "iso:country":"IN",
+    "sg:address":"25-a, Pocket-f, Mayur Vihar, Phase-ii,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2272 6511",
+    "sg:postcode":"110091",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928047,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iSXuGPDzUYFmN1e5ksYVe_28.615786_77.299774@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"65bf2a161a8d8e692be0ae0f35874c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928047,
+            "region_id":85672123,
+            "venue_id":169559237
+        }
+    ],
+    "wof:id":169559237,
+    "wof:lastmodified":1449035236,
+    "wof:name":"Chemsynth Innovations",
+    "wof:parent_id":85928047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.299774,28.615786,77.299774,28.615786],
+  "geometry": {"coordinates":[77.299774,28.615786],"type":"Point"}
+}

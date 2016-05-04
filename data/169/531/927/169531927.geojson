@@ -1,0 +1,66 @@
+{
+  "id": 169531927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.828735,18.966997,72.828735,18.966997",
+    "geom:latitude":18.966997,
+    "geom:longitude":72.828735,
+    "iso:country":"IN",
+    "sg:address":"326, Maulala Azad Road, Duncan Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5605 3934",
+    "sg:postcode":"400028",
+    "sg:tags":[
+        "decorative",
+        "item"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fbDhbHy9RFspmrrzoCaoM_18.966997_72.828735@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"aca5e885458d9a8b73ed535416b56290",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903863,
+            "region_id":85672171,
+            "venue_id":169531927
+        }
+    ],
+    "wof:id":169531927,
+    "wof:lastmodified":1449033476,
+    "wof:name":"Shreeji Stones",
+    "wof:parent_id":85903863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decorative",
+        "item"
+    ]
+},
+  "bbox": [72.828735,18.966997,72.828735,18.966997],
+  "geometry": {"coordinates":[72.828735,18.966997],"type":"Point"}
+}

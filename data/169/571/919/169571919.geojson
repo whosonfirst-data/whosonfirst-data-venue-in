@@ -1,0 +1,53 @@
+{
+  "id": 169571919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.359352,22.523054,88.359352,22.523054",
+    "geom:latitude":22.523054,
+    "geom:longitude":88.359352,
+    "iso:country":"IN",
+    "sg:address":"Dover Terrace",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2474 7299",
+    "sg:postcode":"700019",
+    "sg:province":"West Bengal",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903789,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U6jPJgprf0ep582HXszs1_22.523054_88.359352@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6d4d1f2e9780991764fbb7b3df1adc23",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903789,
+            "region_id":85672219,
+            "venue_id":169571919
+        }
+    ],
+    "wof:id":169571919,
+    "wof:lastmodified":1449034947,
+    "wof:name":"Pure Link Foods",
+    "wof:parent_id":85903789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [88.359352,22.523054,88.359352,22.523054],
+  "geometry": {"coordinates":[88.359352,22.523054],"type":"Point"}
+}

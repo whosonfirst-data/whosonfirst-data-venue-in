@@ -1,0 +1,64 @@
+{
+  "id": 169580933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.828995,18.946501,72.828995,18.946501",
+    "geom:latitude":18.946501,
+    "geom:longitude":72.828995,
+    "iso:country":"IN",
+    "sg:address":"21/29, Popatwadi, 1st Floor, Kalbadevi Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2205 7568",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.j-sil.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K5LKD0yDThLMa2PofVmAt_18.946501_72.828995@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"39f8fe05bbf272e4d8475eccb11cbe7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169580933
+        }
+    ],
+    "wof:id":169580933,
+    "wof:lastmodified":1449034916,
+    "wof:name":"J-sil Trading Corporation",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.828995,18.946501,72.828995,18.946501],
+  "geometry": {"coordinates":[72.828995,18.946501],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 169543325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.543663,12.954036,77.543663,12.954036",
+    "geom:latitude":12.954036,
+    "geom:longitude":77.543663,
+    "iso:country":"IN",
+    "sg:address":"274/2-2, Mysore Road, New Guddadahalli,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2674 8946",
+    "sg:postcode":"560026",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q71nzJcGbx8iud4QKeR5S_12.954036_77.543663@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"401c8027ce8356c10fcbb00ad460ca1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169543325
+        }
+    ],
+    "wof:id":169543325,
+    "wof:lastmodified":1449033335,
+    "wof:name":"Nagalakshmi Marketing C.c.",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.543663,12.954036,77.543663,12.954036],
+  "geometry": {"coordinates":[77.543663,12.954036],"type":"Point"}
+}

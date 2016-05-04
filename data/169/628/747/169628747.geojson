@@ -1,0 +1,67 @@
+{
+  "id": 169628747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.325142,22.514359,88.325142,22.514359",
+    "geom:latitude":22.514359,
+    "geom:longitude":88.325142,
+    "iso:country":"IN",
+    "sg:address":"30-a, New Alipore, Flat-a5, 2nd Floor,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 3254 6025",
+    "sg:postcode":"700053",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903997,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MnL8iWXZnpzwuxIDFEEgj_22.514359_88.325142@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"13c4cff7223c0f16076d13f2ea26c37c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903997,
+            "region_id":85672219,
+            "venue_id":169628747
+        }
+    ],
+    "wof:id":169628747,
+    "wof:lastmodified":1449035332,
+    "wof:name":"Srm Udyog",
+    "wof:parent_id":85903997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [88.325142,22.514359,88.325142,22.514359],
+  "geometry": {"coordinates":[88.325142,22.514359],"type":"Point"}
+}

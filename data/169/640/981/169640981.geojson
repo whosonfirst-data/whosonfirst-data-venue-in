@@ -1,0 +1,64 @@
+{
+  "id": 169640981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.208023,13.113414,80.208023,13.113414",
+    "geom:latitude":13.113414,
+    "geom:longitude":80.208023,
+    "iso:country":"IN",
+    "sg:address":"vaigai House, 39b - Anna Nagar,",
+    "sg:city":"Madurai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 452 253 2515",
+    "sg:postcode":"625020",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.vaigaigroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903945,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GGpoJnKDuQDnBeFBAsXAk_13.113414_80.208023@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"edd03af909ac099e6b3a8385a949c1b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903945,
+            "region_id":85672245,
+            "venue_id":169640981
+        }
+    ],
+    "wof:id":169640981,
+    "wof:lastmodified":1449034104,
+    "wof:name":"Vaighai Chemical Industries Ltd.",
+    "wof:parent_id":85903945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.208023,13.113414,80.208023,13.113414],
+  "geometry": {"coordinates":[80.208023,13.113414],"type":"Point"}
+}

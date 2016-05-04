@@ -1,0 +1,63 @@
+{
+  "id": 169560557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.40963,22.622379,88.40963,22.622379",
+    "geom:latitude":22.622379,
+    "geom:longitude":88.40963,
+    "iso:country":"IN",
+    "sg:address":"P/7 Motijheel Avenue, Dum Dum,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2551 2450",
+    "sg:postcode":"700074",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904043,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LtJpj1R2YI3UFQfkM1cH0_22.622379_88.409630@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"aa0e2aef746581d309ebdd4b0da30437",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85904043,
+            "region_id":85672219,
+            "venue_id":169560557
+        }
+    ],
+    "wof:id":169560557,
+    "wof:lastmodified":1449035181,
+    "wof:name":"Diprasayan, Enterprise",
+    "wof:parent_id":85904043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.40963,22.622379,88.40963,22.622379],
+  "geometry": {"coordinates":[88.40963,22.622379],"type":"Point"}
+}

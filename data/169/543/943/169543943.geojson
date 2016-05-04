@@ -1,0 +1,65 @@
+{
+  "id": 169543943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.596222,12.995014,77.596222,12.995014",
+    "geom:latitude":12.995014,
+    "geom:longitude":77.596222,
+    "iso:country":"IN",
+    "sg:address":"# 59/1 1st Floor, Millers Road, Benson Town,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Atm",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4128 9882",
+    "sg:postcode":"560046",
+    "sg:tags":[
+        "tube",
+        "tyre"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931119,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Jpnn1qLcPnEVGb6mHDhym_12.995014_77.596222@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d5c03da949a6f9557fad0ddeacea990c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931119,
+            "region_id":85672165,
+            "venue_id":169543943
+        }
+    ],
+    "wof:id":169543943,
+    "wof:lastmodified":1449033334,
+    "wof:name":"M. K. International",
+    "wof:parent_id":85931119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tube",
+        "tyre"
+    ]
+},
+  "bbox": [77.596222,12.995014,77.596222,12.995014],
+  "geometry": {"coordinates":[77.596222,12.995014],"type":"Point"}
+}

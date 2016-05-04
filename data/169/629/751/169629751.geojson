@@ -1,0 +1,64 @@
+{
+  "id": 169629751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.867622,18.53022,73.867622,18.53022",
+    "geom:latitude":18.53022,
+    "geom:longitude":73.867622,
+    "iso:country":"IN",
+    "sg:address":"162, Wellesley Road,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 202612733442",
+    "sg:postcode":"411001",
+    "sg:tags":[
+        "pigment"
+    ],
+    "sg:website":"http://www.sudarshan.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903913,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19yRmhNqEREObEJdykMMah_18.530220_73.867622@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8e47b168e031a8a37a75bcb65fee06ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85903913,
+            "region_id":85672171,
+            "venue_id":169629751
+        }
+    ],
+    "wof:id":169629751,
+    "wof:lastmodified":1449035183,
+    "wof:name":"Sudarshan Chemical Inds. Ltd.",
+    "wof:parent_id":85903913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [73.867622,18.53022,73.867622,18.53022],
+  "geometry": {"coordinates":[73.867622,18.53022],"type":"Point"}
+}

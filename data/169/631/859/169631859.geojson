@@ -1,0 +1,64 @@
+{
+  "id": 169631859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.26387,13.053079,80.26387,13.053079",
+    "geom:latitude":13.053079,
+    "geom:longitude":80.26387,
+    "iso:country":"IN",
+    "sg:address":"125, Royapettah High Road, Mylapore,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 4210 8889",
+    "sg:postcode":"600004",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.surapiexports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903975,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04SpKRObF3boyv5rh0vhXw_13.053079_80.263870@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1dee031944bf3ece62c946f2147c68ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903975,
+            "region_id":85672245,
+            "venue_id":169631859
+        }
+    ],
+    "wof:id":169631859,
+    "wof:lastmodified":1449033708,
+    "wof:name":"Surapi Exports",
+    "wof:parent_id":85903975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.26387,13.053079,80.26387,13.053079],
+  "geometry": {"coordinates":[80.26387,13.053079],"type":"Point"}
+}

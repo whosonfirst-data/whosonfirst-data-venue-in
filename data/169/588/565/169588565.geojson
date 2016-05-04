@@ -1,0 +1,64 @@
+{
+  "id": 169588565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.177994,28.646029,77.177994,28.646029",
+    "geom:latitude":28.646029,
+    "geom:longitude":77.177994,
+    "iso:country":"IN",
+    "sg:address":"1106, 11th Floor, Vikrant Tower, Rajendra Place,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2571 9897",
+    "sg:postcode":"110008",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.megagroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927901,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MeyulyZltZYJtZY1kSGqx_28.646029_77.177994@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8f8fe4033ed50459df3b7adb44aebf3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927901,
+            "region_id":85672123,
+            "venue_id":169588565
+        }
+    ],
+    "wof:id":169588565,
+    "wof:lastmodified":1449035309,
+    "wof:name":"Mega Group",
+    "wof:parent_id":85927901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.177994,28.646029,77.177994,28.646029],
+  "geometry": {"coordinates":[77.177994,28.646029],"type":"Point"}
+}

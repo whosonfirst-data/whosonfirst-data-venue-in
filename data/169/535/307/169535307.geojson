@@ -1,0 +1,64 @@
+{
+  "id": 169535307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.822884,19.008074,72.822884,19.008074",
+    "geom:latitude":19.008074,
+    "geom:longitude":72.822884,
+    "iso:country":"IN",
+    "sg:address":"Neelam, No 9-10-11, Worli Sea Face,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2493 5152",
+    "sg:postcode":"400018",
+    "sg:tags":[
+        "equipment",
+        "good"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903999,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iBbL17rfNvBSScSHssizj_19.008074_72.822884@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f65a83e301b037d77a607427ca3d35c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903999,
+            "region_id":85672171,
+            "venue_id":169535307
+        }
+    ],
+    "wof:id":169535307,
+    "wof:lastmodified":1449033285,
+    "wof:name":"Wilson Industrial Corpn.",
+    "wof:parent_id":85903999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "good"
+    ]
+},
+  "bbox": [72.822884,19.008074,72.822884,19.008074],
+  "geometry": {"coordinates":[72.822884,19.008074],"type":"Point"}
+}

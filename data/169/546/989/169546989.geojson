@@ -1,0 +1,63 @@
+{
+  "id": 169546989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.967766,11.018703,76.967766,11.018703",
+    "geom:latitude":11.018703,
+    "geom:longitude":76.967766,
+    "iso:country":"IN",
+    "sg:address":"No. 39, Ram Nagar, 4th Street,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 224 3479",
+    "sg:postcode":"641602",
+    "sg:tags":[
+        "menswear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783699,
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SUaBDCs9x3Dd6l4MMmH49_11.018703_76.967766@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"24dd281b8896000a59cac6353c72dea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":85783699,
+            "region_id":85672245,
+            "venue_id":169546989
+        }
+    ],
+    "wof:id":169546989,
+    "wof:lastmodified":1449032679,
+    "wof:name":"Tomtex Apparels (p) Ltd.",
+    "wof:parent_id":85783699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "menswear"
+    ]
+},
+  "bbox": [76.967766,11.018703,76.967766,11.018703],
+  "geometry": {"coordinates":[76.967766,11.018703],"type":"Point"}
+}

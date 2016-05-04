@@ -1,0 +1,63 @@
+{
+  "id": 169630679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.168167,13.083993,80.168167,13.083993",
+    "geom:latitude":13.083993,
+    "geom:longitude":80.168167,
+    "iso:country":"IN",
+    "sg:address":"A-1/168, G.i.d.c. Industrial Estate,",
+    "sg:city":"Ankleshwar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2646 220 623",
+    "sg:postcode":"393002",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927699,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H0VHqmEZz7Y0RUpKvoQ6n_13.083993_80.168167@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"dc847d6677adb07db39032fe5754d6b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85927699,
+            "region_id":85672245,
+            "venue_id":169630679
+        }
+    ],
+    "wof:id":169630679,
+    "wof:lastmodified":1449033870,
+    "wof:name":"Suncem Surface Coatings Pvt. Ltd.",
+    "wof:parent_id":85927699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.168167,13.083993,80.168167,13.083993],
+  "geometry": {"coordinates":[80.168167,13.083993],"type":"Point"}
+}

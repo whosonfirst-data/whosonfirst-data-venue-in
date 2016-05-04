@@ -1,0 +1,64 @@
+{
+  "id": 169632129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.843536,19.150368,72.843536,19.150368",
+    "geom:latitude":19.150368,
+    "geom:longitude":72.843536,
+    "iso:country":"IN",
+    "sg:address":"Shiv Anand, 372/374, 1st Floor, S. V. Road, Goregoan (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2872 0031",
+    "sg:postcode":"400104",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.trevedigroup.,com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V0di3rQM0VgSbuKMRFYFE_19.150368_72.843536@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f63a75fbff7bbd778126321b04c61443",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169632129
+        }
+    ],
+    "wof:id":169632129,
+    "wof:lastmodified":1449034796,
+    "wof:name":"Surfactant Specialities Pvt. Ltd.",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.843536,19.150368,72.843536,19.150368],
+  "geometry": {"coordinates":[72.843536,19.150368],"type":"Point"}
+}

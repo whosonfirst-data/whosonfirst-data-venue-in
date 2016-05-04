@@ -1,0 +1,65 @@
+{
+  "id": 169537039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.569664,13.028529,77.569664,13.028529",
+    "geom:latitude":13.028529,
+    "geom:longitude":77.569664,
+    "iso:country":"IN",
+    "sg:address":"#3, 2nd Floor, M.s.r. College Road, Mathikere,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2360 3058",
+    "sg:postcode":"560054",
+    "sg:tags":[
+        "power",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931123,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AtjM23ej2CUdPLgeA16yc_13.028529_77.569664@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cfaddb110d351fcf5f81dd75f9ef596b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931123,
+            "region_id":85672165,
+            "venue_id":169537039
+        }
+    ],
+    "wof:id":169537039,
+    "wof:lastmodified":1449033500,
+    "wof:name":"Comsystems",
+    "wof:parent_id":85931123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "power",
+        "supply"
+    ]
+},
+  "bbox": [77.569664,13.028529,77.569664,13.028529],
+  "geometry": {"coordinates":[77.569664,13.028529],"type":"Point"}
+}

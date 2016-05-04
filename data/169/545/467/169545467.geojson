@@ -1,0 +1,67 @@
+{
+  "id": 169545467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.046722,30.324162,78.046722,30.324162",
+    "geom:latitude":30.324162,
+    "geom:longitude":78.046722,
+    "iso:country":"IN",
+    "sg:address":"2nd Floor, Press Club Building,",
+    "sg:city":"Thiruvananthapuram",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 471 232 0844",
+    "sg:postcode":"695001",
+    "sg:tags":[
+        "exchange",
+        "finance",
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927753,
+        85632469,
+        102031093,
+        85672209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JXAiMQ9fl6FTIw9pN9m4Y_30.324162_78.046722@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5f84658f90db1ef7bd21072adbf6934e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031093,
+            "neighbourhood_id":85927753,
+            "region_id":85672209,
+            "venue_id":169545467
+        }
+    ],
+    "wof:id":169545467,
+    "wof:lastmodified":1449033486,
+    "wof:name":"Kerala Artisans Development Corporation Ltd.",
+    "wof:parent_id":85927753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exchange",
+        "finance",
+        "foreign"
+    ]
+},
+  "bbox": [78.046722,30.324162,78.046722,30.324162],
+  "geometry": {"coordinates":[78.046722,30.324162],"type":"Point"}
+}

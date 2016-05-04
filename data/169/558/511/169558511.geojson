@@ -1,0 +1,61 @@
+{
+  "id": 169558511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"83.285316,27.096249,83.285316,27.096249",
+    "geom:latitude":27.096249,
+    "geom:longitude":83.285316,
+    "iso:country":"IN",
+    "sg:address":"301, Anand Plaza,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "sg:website":"http://www.bppl.net.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X0qqoA7wCLtMygDguSnF2_27.096249_83.285316@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2ebbf9577e37332ec10db103cf37eebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169558511
+        }
+    ],
+    "wof:id":169558511,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Bohra Pratisthan Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [83.285316,27.096249,83.285316,27.096249],
+  "geometry": {"coordinates":[83.285316,27.096249],"type":"Point"}
+}

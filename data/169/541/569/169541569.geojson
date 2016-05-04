@@ -1,0 +1,64 @@
+{
+  "id": 169541569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.635506,12.975011,77.635506,12.975011",
+    "geom:latitude":12.975011,
+    "geom:longitude":77.635506,
+    "iso:country":"IN",
+    "sg:address":"3084, 13th Cross, Hal 2nd Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2521 5501",
+    "sg:postcode":"560008",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"http://www.pwc.ca",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x2m1NvtUsExwAQewo1AJo_12.975011_77.635506@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e6fdfb34ce87ae99b75d20877a8ae763",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169541569
+        }
+    ],
+    "wof:id":169541569,
+    "wof:lastmodified":1449033045,
+    "wof:name":"United Tech (pwc)",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.635506,12.975011,77.635506,12.975011],
+  "geometry": {"coordinates":[77.635506,12.975011],"type":"Point"}
+}

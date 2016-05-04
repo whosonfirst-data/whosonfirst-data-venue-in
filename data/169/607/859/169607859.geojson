@@ -1,0 +1,63 @@
+{
+  "id": 169607859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.244339,28.643406,77.244339,28.643406",
+    "geom:latitude":28.643406,
+    "geom:longitude":77.244339,
+    "iso:country":"IN",
+    "sg:address":"Guru Nanak Chowk,",
+    "sg:city":"Raipur",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 771 652 0100",
+    "sg:postcode":"492009",
+    "sg:tags":[
+        "solvent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903843,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73Eh0kxV4O4zGzuHgTEYEJ_28.643406_77.244339@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e0224182d0c173670adf46d0f4abd2e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85903843,
+            "region_id":85672123,
+            "venue_id":169607859
+        }
+    ],
+    "wof:id":169607859,
+    "wof:lastmodified":1449033125,
+    "wof:name":"Rajesh Mill Stores",
+    "wof:parent_id":85903843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solvent"
+    ]
+},
+  "bbox": [77.244339,28.643406,77.244339,28.643406],
+  "geometry": {"coordinates":[77.244339,28.643406],"type":"Point"}
+}

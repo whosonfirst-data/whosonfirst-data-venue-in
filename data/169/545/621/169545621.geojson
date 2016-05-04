@@ -1,0 +1,63 @@
+{
+  "id": 169545621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.239159,12.981454,80.239159,12.981454",
+    "geom:latitude":12.981454,
+    "geom:longitude":80.239159,
+    "iso:country":"IN",
+    "sg:address":"5/405, Amalanagar,",
+    "sg:city":"Thrissur",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 487 230 8078",
+    "sg:postcode":"680553",
+    "sg:tags":[
+        "others"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931725,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NOYPeisuv5Xom9edFhK1h_12.981454_80.239159@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c2df407d66407cf98da1b148ae4be981",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931725,
+            "region_id":85672245,
+            "venue_id":169545621
+        }
+    ],
+    "wof:id":169545621,
+    "wof:lastmodified":1449033487,
+    "wof:name":"Rk Enterprises",
+    "wof:parent_id":85931725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "others"
+    ]
+},
+  "bbox": [80.239159,12.981454,80.239159,12.981454],
+  "geometry": {"coordinates":[80.239159,12.981454],"type":"Point"}
+}

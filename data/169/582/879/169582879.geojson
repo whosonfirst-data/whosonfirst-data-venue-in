@@ -1,0 +1,62 @@
+{
+  "id": 169582879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.284164,13.102754,80.284164,13.102754",
+    "geom:latitude":13.102754,
+    "geom:longitude":80.284164,
+    "iso:country":"IN",
+    "sg:address":"12, Portuguese Church Street,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2235 6493",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "chemical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903951,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h1IlzFaTvQitjFc3i7JY8_13.102754_80.284164@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"07912d9af8e01842b5515285fa73861f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102029537,
+            "neighbourhood_id":85903951,
+            "region_id":85672245,
+            "venue_id":169582879
+        }
+    ],
+    "wof:id":169582879,
+    "wof:lastmodified":1449034461,
+    "wof:name":"Kishor Brothers",
+    "wof:parent_id":85903951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical"
+    ]
+},
+  "bbox": [80.284164,13.102754,80.284164,13.102754],
+  "geometry": {"coordinates":[80.284164,13.102754],"type":"Point"}
+}

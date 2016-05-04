@@ -1,0 +1,66 @@
+{
+  "id": 169611839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.569366,23.040087,72.569366,23.040087",
+    "geom:latitude":23.040087,
+    "geom:longitude":72.569366,
+    "iso:country":"IN",
+    "sg:address":"A-614, Atma House, Ashram Road,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 2571 1720",
+    "sg:postcode":"380009",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "sg:website":"http://www.roopdharaindustries.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933465,
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2COHBIolWUzjmD5b275YtP_23.040087_72.569366@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"66e74fafe3cff167b25baf655f3c44ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":85933465,
+            "region_id":85672249,
+            "venue_id":169611839
+        }
+    ],
+    "wof:id":169611839,
+    "wof:lastmodified":1449035262,
+    "wof:name":"Roopdhara Industries",
+    "wof:parent_id":85933465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [72.569366,23.040087,72.569366,23.040087],
+  "geometry": {"coordinates":[72.569366,23.040087],"type":"Point"}
+}

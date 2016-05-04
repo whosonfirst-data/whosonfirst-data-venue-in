@@ -1,0 +1,66 @@
+{
+  "id": 169549359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.195061,28.676954,77.195061,28.676954",
+    "geom:latitude":28.676954,
+    "geom:longitude":77.195061,
+    "iso:country":"IN",
+    "sg:address":"A-1, New Shaktinagar,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 241 0686",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "merchant",
+        "exporter"
+    ],
+    "sg:website":"http://www.rubiconindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903953,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76x7oDFnODKjeuSiqFx5Bq_28.676954_77.195061@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0fb860cf5de5a62fec1a9b287ab2279d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85903953,
+            "region_id":85672123,
+            "venue_id":169549359
+        }
+    ],
+    "wof:id":169549359,
+    "wof:lastmodified":1449033591,
+    "wof:name":"Rubicon International",
+    "wof:parent_id":85903953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchant",
+        "exporter"
+    ]
+},
+  "bbox": [77.195061,28.676954,77.195061,28.676954],
+  "geometry": {"coordinates":[77.195061,28.676954],"type":"Point"}
+}

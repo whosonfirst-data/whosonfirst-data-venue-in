@@ -1,0 +1,66 @@
+{
+  "id": 169576653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.961136,11.009016,76.961136,11.009016",
+    "geom:latitude":11.009016,
+    "geom:longitude":76.961136,
+    "iso:country":"IN",
+    "sg:address":"266-b, Patel Road, Ramnagar,",
+    "sg:city":"Coimbatore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 422 537 8928",
+    "sg:postcode":"641009",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "sg:website":"http://www.finecoatsindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783699,
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J9ID2s3KjyRVyp5twXoec_11.009016_76.961136@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8a8780a65e157b8e51a7784c355e90cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":85783699,
+            "region_id":85672245,
+            "venue_id":169576653
+        }
+    ],
+    "wof:id":169576653,
+    "wof:lastmodified":1449035195,
+    "wof:name":"Fine Coats",
+    "wof:parent_id":85783699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [76.961136,11.009016,76.961136,11.009016],
+  "geometry": {"coordinates":[76.961136,11.009016],"type":"Point"}
+}

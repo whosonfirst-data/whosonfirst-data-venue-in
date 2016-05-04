@@ -1,0 +1,62 @@
+{
+  "id": 169589917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.521965,22.994993,72.521965,22.994993",
+    "geom:latitude":22.994993,
+    "geom:longitude":72.521965,
+    "iso:country":"IN",
+    "sg:address":"L-10, Shrinandnagar-1, Vejalpur,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 2683 9959",
+    "sg:postcode":"380051",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7n0BhYPoMwbMxiWq8c0obw_22.994993_72.521965@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7514822345158276cbf0fccd1a8342a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169589917
+        }
+    ],
+    "wof:id":169589917,
+    "wof:lastmodified":1449034450,
+    "wof:name":"Minanic Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [72.521965,22.994993,72.521965,22.994993],
+  "geometry": {"coordinates":[72.521965,22.994993],"type":"Point"}
+}

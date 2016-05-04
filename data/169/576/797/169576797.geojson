@@ -1,0 +1,67 @@
+{
+  "id": 169576797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.839729,19.101631,72.839729,19.101631",
+    "geom:latitude":19.101631,
+    "geom:longitude":72.839729,
+    "iso:country":"IN",
+    "sg:address":"501, Kapadia Apartment, 39, S.v. Road, Vile Parle (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2618 5050",
+    "sg:postcode":"400056",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931603,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HsTRRzClUrHuSbi1UQMZS_19.101631_72.839729@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"78b516023d5751003ca5183dde097b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931603,
+            "region_id":85672171,
+            "venue_id":169576797
+        }
+    ],
+    "wof:id":169576797,
+    "wof:lastmodified":1449035198,
+    "wof:name":"Formachem",
+    "wof:parent_id":85931603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [72.839729,19.101631,72.839729,19.101631],
+  "geometry": {"coordinates":[72.839729,19.101631],"type":"Point"}
+}

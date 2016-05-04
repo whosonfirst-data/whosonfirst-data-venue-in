@@ -1,0 +1,63 @@
+{
+  "id": 169527903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.863945,19.124256,72.863945,19.124256",
+    "geom:latitude":19.124256,
+    "geom:longitude":72.863945,
+    "iso:country":"IN",
+    "sg:address":"34/133, Laxmi Industrial Estate, Andheri (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2636 4722",
+    "sg:postcode":"400053",
+    "sg:tags":[
+        "bottle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931515,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_406DrBZEjYjiDQNQToCLaB_19.124256_72.863945@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a75a021d008bd13f124a934c681af0b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931515,
+            "region_id":85672171,
+            "venue_id":169527903
+        }
+    ],
+    "wof:id":169527903,
+    "wof:lastmodified":1449035278,
+    "wof:name":"Adit Containers Pvt. Ltd.",
+    "wof:parent_id":85931515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bottle"
+    ]
+},
+  "bbox": [72.863945,19.124256,72.863945,19.124256],
+  "geometry": {"coordinates":[72.863945,19.124256],"type":"Point"}
+}

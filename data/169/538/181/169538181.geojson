@@ -1,0 +1,64 @@
+{
+  "id": 169538181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.597427,12.947315,77.597427,12.947315",
+    "geom:latitude":12.947315,
+    "geom:longitude":77.597427,
+    "iso:country":"IN",
+    "sg:address":"62-17, 11th Cross, B.t.s. Road, Wilson Garden,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2210 0065",
+    "sg:postcode":"560027",
+    "sg:tags":[
+        "material"
+    ],
+    "sg:website":"http://www.colourprints.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930939,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NQz7wwB0XSDYh3pho0ADg_12.947315_77.597427@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"96ca960d615554e27bd0ff7f0b5880f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930939,
+            "region_id":85672165,
+            "venue_id":169538181
+        }
+    ],
+    "wof:id":169538181,
+    "wof:lastmodified":1449033100,
+    "wof:name":"Colour Prints",
+    "wof:parent_id":85930939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [77.597427,12.947315,77.597427,12.947315],
+  "geometry": {"coordinates":[77.597427,12.947315],"type":"Point"}
+}

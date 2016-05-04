@@ -1,0 +1,55 @@
+{
+  "id": 169570623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.839043,18.961452,72.839043,18.961452",
+    "geom:latitude":18.961452,
+    "geom:longitude":72.839043,
+    "iso:country":"IN",
+    "sg:address":"Opp. Post Off Mazagaon",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2374 8109",
+    "sg:postcode":"400010",
+    "sg:province":"Maharashtra",
+    "sg:website":"http://www.steelage.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gBI9oTeZ20cxyB9cgvO4s_18.961452_72.839043@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8f8eee80f25f2e8903a62b5572b7524d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903863,
+            "region_id":85672171,
+            "venue_id":169570623
+        }
+    ],
+    "wof:id":169570623,
+    "wof:lastmodified":1449034646,
+    "wof:name":"Steel Age Industries Ltd",
+    "wof:parent_id":85903863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.839043,18.961452,72.839043,18.961452],
+  "geometry": {"coordinates":[72.839043,18.961452],"type":"Point"}
+}

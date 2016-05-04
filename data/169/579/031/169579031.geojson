@@ -1,0 +1,62 @@
+{
+  "id": 169579031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.448532,28.70212,77.448532,28.70212",
+    "geom:latitude":28.70212,
+    "geom:longitude":77.448532,
+    "iso:country":"IN",
+    "sg:address":"C-17/1, Sector-22, Meerut Road, Industrial Area,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 278 3341",
+    "sg:postcode":"201001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jBSLsSqiTcyYeJfXMZDUX_28.702120_77.448532@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cd9b55a67a73e866795ccea7240de122",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169579031
+        }
+    ],
+    "wof:id":169579031,
+    "wof:lastmodified":1449033740,
+    "wof:name":"Hi-tech Flooring Systems",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.448532,28.70212,77.448532,28.70212],
+  "geometry": {"coordinates":[77.448532,28.70212],"type":"Point"}
+}

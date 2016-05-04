@@ -1,0 +1,65 @@
+{
+  "id": 169544267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.596016,12.910635,77.596016,12.910635",
+    "geom:latitude":12.910635,
+    "geom:longitude":77.596016,
+    "iso:country":"IN",
+    "sg:address":"846/a Stage I, Indira Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2528 0987",
+    "sg:postcode":"560038",
+    "sg:tags":[
+        "venetian",
+        "blind"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931061,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lcT0xta6nsfcxJOxWD2q5_12.910635_77.596016@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f9af9566ee6c723745b18ec5f1da72b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931061,
+            "region_id":85672165,
+            "venue_id":169544267
+        }
+    ],
+    "wof:id":169544267,
+    "wof:lastmodified":1449035964,
+    "wof:name":"Duchess",
+    "wof:parent_id":85931061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venetian",
+        "blind"
+    ]
+},
+  "bbox": [77.596016,12.910635,77.596016,12.910635],
+  "geometry": {"coordinates":[77.596016,12.910635],"type":"Point"}
+}

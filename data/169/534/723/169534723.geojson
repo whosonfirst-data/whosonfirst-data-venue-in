@@ -1,0 +1,66 @@
+{
+  "id": 169534723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.83345,18.950758,72.83345,18.950758",
+    "geom:latitude":18.950758,
+    "geom:longitude":72.83345,
+    "iso:country":"IN",
+    "sg:address":"84, Bhajipala Street, 1st Flr.,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2344 3832",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pYmkPti0BJ5t2lVBQRaMm_18.950758_72.833450@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ed6946fada7f83257b039fd6a7d06723",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169534723
+        }
+    ],
+    "wof:id":169534723,
+    "wof:lastmodified":1449033548,
+    "wof:name":"Freez-air Enterprise",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ]
+},
+  "bbox": [72.83345,18.950758,72.83345,18.950758],
+  "geometry": {"coordinates":[72.83345,18.950758],"type":"Point"}
+}

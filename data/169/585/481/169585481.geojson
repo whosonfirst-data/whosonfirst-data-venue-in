@@ -1,0 +1,64 @@
+{
+  "id": 169585481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.450119,28.665445,77.450119,28.665445",
+    "geom:latitude":28.665445,
+    "geom:longitude":77.450119,
+    "iso:country":"IN",
+    "sg:address":"K.b-15, Kavi Nagar,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 437 7173",
+    "sg:postcode":"201002",
+    "sg:tags":[
+        "transmission",
+        "belting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Xl0hBuNWtIbulrVL1itBm_28.665445_77.450119@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7bf5f0c45bae156aa3977e98d7d18565",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169585481
+        }
+    ],
+    "wof:id":169585481,
+    "wof:lastmodified":1449034887,
+    "wof:name":"M. M. Traders",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "belting"
+    ]
+},
+  "bbox": [77.450119,28.665445,77.450119,28.665445],
+  "geometry": {"coordinates":[77.450119,28.665445],"type":"Point"}
+}

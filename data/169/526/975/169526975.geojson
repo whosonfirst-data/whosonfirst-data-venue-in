@@ -1,0 +1,65 @@
+{
+  "id": 169526975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.8731,19.073997,72.8731,19.073997",
+    "geom:latitude":19.073997,
+    "geom:longitude":72.8731,
+    "iso:country":"IN",
+    "sg:address":"22-a/201, Kapadia Nagar C.s.t. Road Kurla (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2456 5383",
+    "sg:postcode":"400070",
+    "sg:tags":[
+        "bag",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931567,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IkiOqNvULfAZ2Xaon36ta_19.073997_72.873100@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bd5be4e58c4365478fbc100acb75177e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931567,
+            "region_id":85672171,
+            "venue_id":169526975
+        }
+    ],
+    "wof:id":169526975,
+    "wof:lastmodified":1449033703,
+    "wof:name":"Iqra Exports & General Trading",
+    "wof:parent_id":85931567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag",
+        "-"
+    ]
+},
+  "bbox": [72.8731,19.073997,72.8731,19.073997],
+  "geometry": {"coordinates":[72.8731,19.073997],"type":"Point"}
+}

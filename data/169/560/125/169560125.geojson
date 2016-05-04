@@ -1,0 +1,64 @@
+{
+  "id": 169560125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.202614,28.675169,77.202614,28.675169",
+    "geom:latitude":28.675169,
+    "geom:longitude":77.202614,
+    "iso:country":"IN",
+    "sg:address":"5836/32, 1st Flr., Basti Harphool Singh,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2355 1220",
+    "sg:postcode":"110006",
+    "sg:tags":[
+        "wax"
+    ],
+    "sg:website":"http://www.business.vsnl.com/deeptrad",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903953,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Zh1cTeOjzw1T4dYeD6r4K_28.675169_77.202614@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ad6238ae637458bf22a87f5fde8cc2c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85903953,
+            "region_id":85672123,
+            "venue_id":169560125
+        }
+    ],
+    "wof:id":169560125,
+    "wof:lastmodified":1449035181,
+    "wof:name":"Deepak Traders",
+    "wof:parent_id":85903953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [77.202614,28.675169,77.202614,28.675169],
+  "geometry": {"coordinates":[77.202614,28.675169],"type":"Point"}
+}

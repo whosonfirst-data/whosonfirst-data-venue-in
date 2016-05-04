@@ -1,0 +1,63 @@
+{
+  "id": 169577137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.091698,28.465778,77.091698,28.465778",
+    "geom:latitude":28.465778,
+    "geom:longitude":77.091698,
+    "iso:country":"IN",
+    "sg:address":"3237 Sec. 27-d,",
+    "sg:city":"Chandigarh",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 172 265 6829",
+    "sg:postcode":"160019",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928525,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cBNzkm7p6oTn9BegXPblX_28.465778_77.091698@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"44d2f4608b15fe509166b04015f0efb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928525,
+            "region_id":85672133,
+            "venue_id":169577137
+        }
+    ],
+    "wof:id":169577137,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Ganpati Verm Farm",
+    "wof:parent_id":85928525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.091698,28.465778,77.091698,28.465778],
+  "geometry": {"coordinates":[77.091698,28.465778],"type":"Point"}
+}

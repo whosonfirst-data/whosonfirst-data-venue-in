@@ -1,0 +1,64 @@
+{
+  "id": 169560869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.185898,28.640427,77.185898,28.640427",
+    "geom:latitude":28.640427,
+    "geom:longitude":77.185898,
+    "iso:country":"IN",
+    "sg:address":"R-813, New Rajinder Nagar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2517 2969",
+    "sg:postcode":"110060",
+    "sg:tags":[
+        "acid"
+    ],
+    "sg:website":"http://www.easternchemical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928113,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fQnyyKff7QbO90T0HPpxO_28.640427_77.185898@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4e085b7f6035e96eb94c34b1e2c9845b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928113,
+            "region_id":85672123,
+            "venue_id":169560869
+        }
+    ],
+    "wof:id":169560869,
+    "wof:lastmodified":1449035181,
+    "wof:name":"Eastern Chemical Industries",
+    "wof:parent_id":85928113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [77.185898,28.640427,77.185898,28.640427],
+  "geometry": {"coordinates":[77.185898,28.640427],"type":"Point"}
+}

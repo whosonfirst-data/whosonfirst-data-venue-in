@@ -1,0 +1,64 @@
+{
+  "id": 169529359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.808525,18.958729,72.808525,18.958729",
+    "geom:latitude":18.958729,
+    "geom:longitude":72.808525,
+    "iso:country":"IN",
+    "sg:address":"Near Babulnath Temple, Room No. 2, Walkeshwar,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"400026",
+    "sg:tags":[
+        "dress",
+        "ceremonial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931429,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pr373L7LK8i9GOPCH6Uc5_18.958729_72.808525@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"113ca30a835ccfbc11f1e17c43593afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931429,
+            "region_id":85672171,
+            "venue_id":169529359
+        }
+    ],
+    "wof:id":169529359,
+    "wof:lastmodified":1449034112,
+    "wof:name":"Celebrations",
+    "wof:parent_id":85931429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dress",
+        "ceremonial"
+    ]
+},
+  "bbox": [72.808525,18.958729,72.808525,18.958729],
+  "geometry": {"coordinates":[72.808525,18.958729],"type":"Point"}
+}

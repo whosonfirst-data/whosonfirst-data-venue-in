@@ -1,0 +1,64 @@
+{
+  "id": 169601919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.197487,28.648533,77.197487,28.648533",
+    "geom:latitude":28.648533,
+    "geom:longitude":77.197487,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 616, Near U.t.i Bank, G.i.d.c. Estate,",
+    "sg:city":"Ankleshwar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2646 252 880",
+    "sg:postcode":"393002",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.polestarindustries.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928243,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mxgs6pdgpzbos1uf6ppKS_28.648533_77.197487@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"37bc7ec8462eea09407ac6138f83b50b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928243,
+            "region_id":85672123,
+            "venue_id":169601919
+        }
+    ],
+    "wof:id":169601919,
+    "wof:lastmodified":1449034149,
+    "wof:name":"Pole Star Industries",
+    "wof:parent_id":85928243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.197487,28.648533,77.197487,28.648533],
+  "geometry": {"coordinates":[77.197487,28.648533],"type":"Point"}
+}

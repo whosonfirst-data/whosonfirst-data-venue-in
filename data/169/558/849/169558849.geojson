@@ -1,0 +1,62 @@
+{
+  "id": 169558849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.71653,29.473093,77.71653,29.473093",
+    "geom:latitude":29.473093,
+    "geom:longitude":77.71653,
+    "iso:country":"IN",
+    "sg:address":"44/b2, Vrindavan, 173, Civil Lines,",
+    "sg:city":"Nagpur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 712 252 7400",
+    "sg:postcode":"440001",
+    "sg:tags":[
+        "chemical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029307,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QmIMxjdGpFMOpWgtR4psP_29.473093_77.716530@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7b0b1d35df29c5de488948363da4ffd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029307,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169558849
+        }
+    ],
+    "wof:id":169558849,
+    "wof:lastmodified":1449033581,
+    "wof:name":"Canary",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical"
+    ]
+},
+  "bbox": [77.71653,29.473093,77.71653,29.473093],
+  "geometry": {"coordinates":[77.71653,29.473093],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169540757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.594162,12.964716,77.594162,12.964716",
+    "geom:latitude":12.964716,
+    "geom:longitude":77.594162,
+    "iso:country":"IN",
+    "sg:address":"41, 1st Main Road, Sampangirama Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2224 2114",
+    "sg:postcode":"560027",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930933,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UG6GU6W6OupMP2QJX9zc0_12.964716_77.594162@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e2866eba3134f6d362d12dee41cf8c92",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930933,
+            "region_id":85672165,
+            "venue_id":169540757
+        }
+    ],
+    "wof:id":169540757,
+    "wof:lastmodified":1449033976,
+    "wof:name":"Karnataka Silk Industries",
+    "wof:parent_id":85930933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.594162,12.964716,77.594162,12.964716],
+  "geometry": {"coordinates":[77.594162,12.964716],"type":"Point"}
+}

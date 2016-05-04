@@ -1,0 +1,63 @@
+{
+  "id": 169603165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.650558,12.301334,76.650558,12.301334",
+    "geom:latitude":12.301334,
+    "geom:longitude":76.650558,
+    "iso:country":"IN",
+    "sg:address":"Near Lakshmi Talkies,",
+    "sg:city":"Vishakapattanam",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 891 253 8657",
+    "sg:postcode":"530001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903933,
+        85632469,
+        102029303,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E3owaGYuYJnjOvTzGQLTU_12.301334_76.650558@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"66cc95fce14b676db9b39cd071e2455e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029303,
+            "neighbourhood_id":85903933,
+            "region_id":85672165,
+            "venue_id":169603165
+        }
+    ],
+    "wof:id":169603165,
+    "wof:lastmodified":1449035454,
+    "wof:name":"Prathyusha Chemicals & Fertilisers (p) Ltd.",
+    "wof:parent_id":85903933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [76.650558,12.301334,76.650558,12.301334],
+  "geometry": {"coordinates":[76.650558,12.301334],"type":"Point"}
+}

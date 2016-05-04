@@ -1,0 +1,67 @@
+{
+  "id": 169600657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.908394,18.506432,73.908394,18.506432",
+    "geom:latitude":18.506432,
+    "geom:longitude":73.908394,
+    "iso:country":"IN",
+    "sg:address":"E 7/8, Midc , Solapur",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 21722651077",
+    "sg:postcode":"413006",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931317,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SdiidBhqxvVozCuAjPYfv_18.506432_73.908394@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d0cbddcd4fffd81ac17cbd4228a8917d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931317,
+            "region_id":85672171,
+            "venue_id":169600657
+        }
+    ],
+    "wof:id":169600657,
+    "wof:lastmodified":1449032969,
+    "wof:name":"Pharmakab Laboratories",
+    "wof:parent_id":85931317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [73.908394,18.506432,73.908394,18.506432],
+  "geometry": {"coordinates":[73.908394,18.506432],"type":"Point"}
+}

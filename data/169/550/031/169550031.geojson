@@ -1,0 +1,66 @@
+{
+  "id": 169550031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.858841,18.501284,73.858841,18.501284",
+    "geom:latitude":18.501284,
+    "geom:longitude":73.858841,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 248/4a, G.i.d.c.,",
+    "sg:city":"Umbergaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 260 256 2353",
+    "sg:postcode":"396171",
+    "sg:tags":[
+        "copper",
+        "product"
+    ],
+    "sg:website":"http://www.supertechgroup.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931215,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36FSvLzvc9H3XE440PoxbF_18.501284_73.858841@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e0df503be8f30baafecd67b4ed473ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931215,
+            "region_id":85672171,
+            "venue_id":169550031
+        }
+    ],
+    "wof:id":169550031,
+    "wof:lastmodified":1449034475,
+    "wof:name":"Power-pack Communicators (i) Pvt. Ltd.",
+    "wof:parent_id":85931215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "copper",
+        "product"
+    ]
+},
+  "bbox": [73.858841,18.501284,73.858841,18.501284],
+  "geometry": {"coordinates":[73.858841,18.501284],"type":"Point"}
+}

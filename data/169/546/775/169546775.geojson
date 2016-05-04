@@ -1,0 +1,65 @@
+{
+  "id": 169546775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.595245,12.91345,77.595245,12.91345",
+    "geom:latitude":12.91345,
+    "geom:longitude":77.595245,
+    "iso:country":"IN",
+    "sg:address":"23, M.g. Nagar, 8th Street, P.n. Street,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 247 2002",
+    "sg:postcode":"641602",
+    "sg:tags":[
+        "knitted",
+        "knitwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931061,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JuI1oVynpGX73YQk11iwi_12.913450_77.595245@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"23d4ad50254480d42da31cbf21fda654",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931061,
+            "region_id":85672165,
+            "venue_id":169546775
+        }
+    ],
+    "wof:id":169546775,
+    "wof:lastmodified":1449032680,
+    "wof:name":"Enpee Knitters",
+    "wof:parent_id":85931061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitted",
+        "knitwear"
+    ]
+},
+  "bbox": [77.595245,12.91345,77.595245,12.91345],
+  "geometry": {"coordinates":[77.595245,12.91345],"type":"Point"}
+}

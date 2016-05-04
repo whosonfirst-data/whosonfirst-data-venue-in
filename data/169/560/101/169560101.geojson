@@ -1,0 +1,64 @@
+{
+  "id": 169560101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.45826,17.441189,78.45826,17.441189",
+    "geom:latitude":17.441189,
+    "geom:longitude":78.45826,
+    "iso:country":"IN",
+    "sg:address":"2b Varun Towers, Begumpet,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2340 4231",
+    "sg:postcode":"500016",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.deepaknitrite.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930831,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sSLdFBgD9NtsxABr065Xg_17.441189_78.458260@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fef78c9ddfa790c60a55de99471e7fc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930831,
+            "region_id":85672141,
+            "venue_id":169560101
+        }
+    ],
+    "wof:id":169560101,
+    "wof:lastmodified":1449035182,
+    "wof:name":"Deepak Nitrite Limited",
+    "wof:parent_id":85930831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.45826,17.441189,78.45826,17.441189],
+  "geometry": {"coordinates":[78.45826,17.441189],"type":"Point"}
+}

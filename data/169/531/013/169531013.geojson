@@ -1,0 +1,68 @@
+{
+  "id": 169531013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.847954,19.135082,72.847954,19.135082",
+    "geom:latitude":19.135082,
+    "geom:longitude":72.847954,
+    "iso:country":"IN",
+    "sg:address":"21-c, Grace Plaza, S.v. Road, Jogeshwari (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Tower",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5690 3616",
+    "sg:postcode":"400102",
+    "sg:tags":[
+        "plant",
+        "cooling",
+        "chilling"
+    ],
+    "sg:website":"http://www.omkarcooltek.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931511,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M3UE2rbO3uhOZJKdLBq46_19.135082_72.847954@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b623a4aa88096f0f0430d9989e45bdf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931511,
+            "region_id":85672171,
+            "venue_id":169531013
+        }
+    ],
+    "wof:id":169531013,
+    "wof:lastmodified":1449033476,
+    "wof:name":"Omkar Cooltek Industries",
+    "wof:parent_id":85931511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "cooling",
+        "chilling"
+    ]
+},
+  "bbox": [72.847954,19.135082,72.847954,19.135082],
+  "geometry": {"coordinates":[72.847954,19.135082],"type":"Point"}
+}

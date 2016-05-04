@@ -1,0 +1,64 @@
+{
+  "id": 169619009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.304443,28.468817,77.304443,28.468817",
+    "geom:latitude":28.468817,
+    "geom:longitude":77.304443,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 49, Sector-27c,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 227 4624",
+    "sg:postcode":"121003",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.almexinda.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928379,
+        85632469,
+        102030289,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uHoCa0CY1d0ePzMYZOMEp_28.468817_77.304443@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bf537b820df2456c7ee34d74475649aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030289,
+            "neighbourhood_id":85928379,
+            "region_id":85672133,
+            "venue_id":169619009
+        }
+    ],
+    "wof:id":169619009,
+    "wof:lastmodified":1449033283,
+    "wof:name":"Shaw Almex India Pvt. Ltd.",
+    "wof:parent_id":85928379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.304443,28.468817,77.304443,28.468817],
+  "geometry": {"coordinates":[77.304443,28.468817],"type":"Point"}
+}

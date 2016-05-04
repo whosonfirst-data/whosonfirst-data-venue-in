@@ -1,0 +1,62 @@
+{
+  "id": 169579759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.941582,28.472431,76.941582,28.472431",
+    "geom:latitude":28.472431,
+    "geom:longitude":76.941582,
+    "iso:country":"IN",
+    "sg:address":"Basai Road, Baldev Nagar,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 411 8882",
+    "sg:postcode":"122001",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.indorub.org, http://www.indorubindustries.trade-india.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vAcPSszpeE21Y5Se6Z4pW_28.472431_76.941582@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c7a6e86d857445bfe1dd3f5fd6425dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672133,
+            "venue_id":169579759
+        }
+    ],
+    "wof:id":169579759,
+    "wof:lastmodified":1449033743,
+    "wof:name":"Indo Rub Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [76.941582,28.472431,76.941582,28.472431],
+  "geometry": {"coordinates":[76.941582,28.472431],"type":"Point"}
+}

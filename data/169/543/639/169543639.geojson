@@ -1,0 +1,68 @@
+{
+  "id": 169543639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.584404,13.020059,77.584404,13.020059",
+    "geom:latitude":13.020059,
+    "geom:longitude":77.584404,
+    "iso:country":"IN",
+    "sg:address":"Hmt Bhavan, 59, Bellary Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Social",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2333 9289",
+    "sg:postcode":"560032",
+    "sg:tags":[
+        "part",
+        "spare",
+        "tractor"
+    ],
+    "sg:website":"http://www.hmti.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931009,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nFJIwt8x9fK2TdltVldAF_13.020059_77.584404@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2d6737a5857eb8e0222eb51b97a08fbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931009,
+            "region_id":85672165,
+            "venue_id":169543639
+        }
+    ],
+    "wof:id":169543639,
+    "wof:lastmodified":1449033337,
+    "wof:name":"Hmt (international) Ltd",
+    "wof:parent_id":85931009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "part",
+        "spare",
+        "tractor"
+    ]
+},
+  "bbox": [77.584404,13.020059,77.584404,13.020059],
+  "geometry": {"coordinates":[77.584404,13.020059],"type":"Point"}
+}

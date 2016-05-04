@@ -1,0 +1,63 @@
+{
+  "id": 169529795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.817322,18.916624,72.817322,18.916624",
+    "geom:latitude":18.916624,
+    "geom:longitude":72.817322,
+    "iso:country":"IN",
+    "sg:address":"184-b, 18th Floor, Maker Tower 'e' Cuffe Parade,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2218 5611",
+    "sg:postcode":"400005",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.bhimrajka.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903829,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XMgWroat5ZHHaSxXF8TKY_18.916624_72.817322@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e0dda67650684d5f536d8bbaba21d3e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903829,
+            "region_id":-1,
+            "venue_id":169529795
+        }
+    ],
+    "wof:id":169529795,
+    "wof:lastmodified":1449034114,
+    "wof:name":"Bhimrajaka Impex Ltd.",
+    "wof:parent_id":85903829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.817322,18.916624,72.817322,18.916624],
+  "geometry": {"coordinates":[72.817322,18.916624],"type":"Point"}
+}

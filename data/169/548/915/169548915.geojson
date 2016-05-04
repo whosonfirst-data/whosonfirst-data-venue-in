@@ -1,0 +1,61 @@
+{
+  "id": 169548915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.966904,28.281919,74.966904,28.281919",
+    "geom:latitude":28.281919,
+    "geom:longitude":74.966904,
+    "iso:country":"IN",
+    "sg:address":"24-a, Agrasen Nagar,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 248 5588",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1k0l0QAj3sXvMyDZKxeTTf_28.281919_74.966904@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c0f991787648cde9b96f0fce3af589e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672201,
+            "venue_id":169548915
+        }
+    ],
+    "wof:id":169548915,
+    "wof:lastmodified":1449034977,
+    "wof:name":"Texchem",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [74.966904,28.281919,74.966904,28.281919],
+  "geometry": {"coordinates":[74.966904,28.281919],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169579709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.046371,28.47361,77.046371,28.47361",
+    "geom:latitude":28.47361,
+    "geom:longitude":77.046371,
+    "iso:country":"IN",
+    "sg:address":"H.no. 1351, Sector-14,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 400 3640",
+    "sg:postcode":"121007",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928515,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34G957vY9gqZgGjZ9T0oGL_28.473610_77.046371@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"68710bcc535ab98a3308c4e2ee9dab1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928515,
+            "region_id":85672133,
+            "venue_id":169579709
+        }
+    ],
+    "wof:id":169579709,
+    "wof:lastmodified":1449033741,
+    "wof:name":"Indochem & Co.",
+    "wof:parent_id":85928515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.046371,28.47361,77.046371,28.47361],
+  "geometry": {"coordinates":[77.046371,28.47361],"type":"Point"}
+}

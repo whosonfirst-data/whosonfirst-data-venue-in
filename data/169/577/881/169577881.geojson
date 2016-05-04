@@ -1,0 +1,61 @@
+{
+  "id": 169577881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.368935,28.677124,77.368935,28.677124",
+    "geom:latitude":28.677124,
+    "geom:longitude":77.368935,
+    "iso:country":"IN",
+    "sg:address":"D-14, B. S. Road, Indl. Area, Site No. 1,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 270 3418",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ui8c1l5VUEHAtPjOqyQan_28.677124_77.368935@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"85dd5a4a2a6689a08e3c028de17888e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169577881
+        }
+    ],
+    "wof:id":169577881,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Goyal Brothers Chemicals Works",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.368935,28.677124,77.368935,28.677124],
+  "geometry": {"coordinates":[77.368935,28.677124],"type":"Point"}
+}

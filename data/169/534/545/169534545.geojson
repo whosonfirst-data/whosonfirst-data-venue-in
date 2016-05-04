@@ -1,0 +1,65 @@
+{
+  "id": 169534545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.450989,17.290974,74.450989,17.290974",
+    "geom:latitude":17.290974,
+    "geom:longitude":74.450989,
+    "iso:country":"IN",
+    "sg:address":"16, Dr. K.n. Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2380 3518",
+    "sg:postcode":"400007",
+    "sg:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Cm9Y2wMIeuNJ4nwCcoWuI_17.290974_74.450989@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"01f618f727b7b2bb927937052c2a089e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169534545
+        }
+    ],
+    "wof:id":169534545,
+    "wof:lastmodified":1449033547,
+    "wof:name":"D M Impex",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ]
+},
+  "bbox": [74.450989,17.290974,74.450989,17.290974],
+  "geometry": {"coordinates":[74.450989,17.290974],"type":"Point"}
+}

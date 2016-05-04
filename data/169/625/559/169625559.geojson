@@ -1,0 +1,62 @@
+{
+  "id": 169625559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.281204,28.632389,77.281204,28.632389",
+    "geom:latitude":28.632389,
+    "geom:longitude":77.281204,
+    "iso:country":"IN",
+    "sg:address":"165-a, Balaji Bhavan, 1st Floor, Railway Lines,",
+    "sg:city":"Solapur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 217 231 0267",
+    "sg:postcode":"413001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FxhfmtFu5M28nNW1NSBYR_28.632389_77.281204@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c91abd45050c346dc439ac878b84175c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169625559
+        }
+    ],
+    "wof:id":169625559,
+    "wof:lastmodified":1449036026,
+    "wof:name":"Smruthi Organics Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.281204,28.632389,77.281204,28.632389],
+  "geometry": {"coordinates":[77.281204,28.632389],"type":"Point"}
+}

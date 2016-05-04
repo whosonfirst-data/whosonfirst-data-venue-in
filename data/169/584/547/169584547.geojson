@@ -1,0 +1,64 @@
+{
+  "id": 169584547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.590698,13.019407,77.590698,13.019407",
+    "geom:latitude":13.019407,
+    "geom:longitude":77.590698,
+    "iso:country":"IN",
+    "sg:address":"No.142, 3rd Floor, 5th Cross, \nRaja Mahal Vilas Extn.,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2361 4774",
+    "sg:postcode":"560080",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.lgcpromochem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931009,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PpGoqUtEQgxQQrgRyrD9e_13.019407_77.590698@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"140d545402d88cdefab167cf31ca4d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931009,
+            "region_id":85672165,
+            "venue_id":169584547
+        }
+    ],
+    "wof:id":169584547,
+    "wof:lastmodified":1449033036,
+    "wof:name":"Lgc Promochem India Pvt. Ltd.",
+    "wof:parent_id":85931009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.590698,13.019407,77.590698,13.019407],
+  "geometry": {"coordinates":[77.590698,13.019407],"type":"Point"}
+}

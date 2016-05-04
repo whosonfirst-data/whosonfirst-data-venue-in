@@ -1,0 +1,65 @@
+{
+  "id": 169531277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.829842,18.969574,72.829842,18.969574",
+    "geom:latitude":18.969574,
+    "geom:longitude":72.829842,
+    "iso:country":"IN",
+    "sg:address":"82/84, Clare Road, Nagpada,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Hair Removal",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2308 6252",
+    "sg:postcode":"400008",
+    "sg:tags":[
+        "cosmetic",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931453,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Asda9lGjSrAZGnaMr4YZh_18.969574_72.829842@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7ca78b7d046da9d892331a48e683df86",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931453,
+            "region_id":85672171,
+            "venue_id":169531277
+        }
+    ],
+    "wof:id":169531277,
+    "wof:lastmodified":1449033474,
+    "wof:name":"A. A. Attarwala & Co. Pvt. Ltd.",
+    "wof:parent_id":85931453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "accessory"
+    ]
+},
+  "bbox": [72.829842,18.969574,72.829842,18.969574],
+  "geometry": {"coordinates":[72.829842,18.969574],"type":"Point"}
+}

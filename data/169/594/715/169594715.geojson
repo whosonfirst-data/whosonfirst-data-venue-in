@@ -1,0 +1,64 @@
+{
+  "id": 169594715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.829842,18.969574,72.829842,18.969574",
+    "geom:latitude":18.969574,
+    "geom:longitude":72.829842,
+    "iso:country":"IN",
+    "sg:address":"61-a, Clare Road, Byculla,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2305 2396",
+    "sg:postcode":"400008",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.noblecorp.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931453,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OSDIT3bbhACi2KM90Jwr3_18.969574_72.829842@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7ca78b7d046da9d892331a48e683df86",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931453,
+            "region_id":85672171,
+            "venue_id":169594715
+        }
+    ],
+    "wof:id":169594715,
+    "wof:lastmodified":1449033166,
+    "wof:name":"Noble Corporation",
+    "wof:parent_id":85931453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [72.829842,18.969574,72.829842,18.969574],
+  "geometry": {"coordinates":[72.829842,18.969574],"type":"Point"}
+}

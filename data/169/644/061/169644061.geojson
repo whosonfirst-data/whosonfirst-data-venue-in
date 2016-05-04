@@ -1,0 +1,65 @@
+{
+  "id": 169644061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.540527,17.393297,78.540527,17.393297",
+    "geom:latitude":17.393297,
+    "geom:longitude":78.540527,
+    "iso:country":"IN",
+    "sg:address":"12-118/1, Ramanthapur,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2703 8230",
+    "sg:postcode":"500013",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "sg:website":"http://www.vikaschem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qWQM4ckhxs6XGAV2RgX5Q_17.393297_78.540527@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c9e475876eb07488a894f643262f9251",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169644061
+        }
+    ],
+    "wof:id":169644061,
+    "wof:lastmodified":1449034576,
+    "wof:name":"Vikas Chemicals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [78.540527,17.393297,78.540527,17.393297],
+  "geometry": {"coordinates":[78.540527,17.393297],"type":"Point"}
+}

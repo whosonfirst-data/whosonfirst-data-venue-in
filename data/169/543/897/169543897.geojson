@@ -1,0 +1,65 @@
+{
+  "id": 169543897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.565376,13.001807,77.565376,13.001807",
+    "geom:latitude":13.001807,
+    "geom:longitude":77.565376,
+    "iso:country":"IN",
+    "sg:address":"#952/8, 8th a' Main, Prakashnagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Metro Station",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2313 4344",
+    "sg:postcode":"560021",
+    "sg:tags":[
+        "tube",
+        "fitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MikTA1ieL1JxNo9DcSZcd_13.001807_77.565376@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"35f6b0be0a8ad828a6a263614ef0289b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169543897
+        }
+    ],
+    "wof:id":169543897,
+    "wof:lastmodified":1449033335,
+    "wof:name":"Pro Tech Engineers",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tube",
+        "fitting"
+    ]
+},
+  "bbox": [77.565376,13.001807,77.565376,13.001807],
+  "geometry": {"coordinates":[77.565376,13.001807],"type":"Point"}
+}

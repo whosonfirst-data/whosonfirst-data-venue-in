@@ -1,0 +1,66 @@
+{
+  "id": 169551857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.65799,23.076591,72.65799,23.076591",
+    "geom:latitude":23.076591,
+    "geom:longitude":72.65799,
+    "iso:country":"IN",
+    "sg:address":"882/2 Gidc, Makarpura,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Light Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 554 3891",
+    "sg:postcode":"390011",
+    "sg:tags":[
+        "control",
+        "board",
+        "panel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yNf3NsUYguvrsbrUcLCDT_23.076591_72.657990@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6e491d34faa6c152abfd11bb34ec0aff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169551857
+        }
+    ],
+    "wof:id":169551857,
+    "wof:lastmodified":1449033352,
+    "wof:name":"Positronics Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "board",
+        "panel"
+    ]
+},
+  "bbox": [72.65799,23.076591,72.65799,23.076591],
+  "geometry": {"coordinates":[72.65799,23.076591],"type":"Point"}
+}

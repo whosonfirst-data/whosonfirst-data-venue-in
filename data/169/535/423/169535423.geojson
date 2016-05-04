@@ -1,0 +1,65 @@
+{
+  "id": 169535423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.851501,19.166309,72.851501,19.166309",
+    "geom:latitude":19.166309,
+    "geom:longitude":72.851501,
+    "iso:country":"IN",
+    "sg:address":"82/83, Arihant Ind. Estate, Laxmi Nagar, Goregaon (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 3094 9295",
+    "sg:postcode":"400090",
+    "sg:tags":[
+        "equipment",
+        "good"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pDKqJ6YpCVMc0d66oshMC_19.166309_72.851501@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"efa7d561d23240851e62a5a3e4e7a057",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169535423
+        }
+    ],
+    "wof:id":169535423,
+    "wof:lastmodified":1449033284,
+    "wof:name":"Panchal Engineering Works",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "good"
+    ]
+},
+  "bbox": [72.851501,19.166309,72.851501,19.166309],
+  "geometry": {"coordinates":[72.851501,19.166309],"type":"Point"}
+}

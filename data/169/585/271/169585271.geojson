@@ -1,0 +1,63 @@
+{
+  "id": 169585271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.388222,22.549633,88.388222,22.549633",
+    "geom:latitude":22.549633,
+    "geom:longitude":88.388222,
+    "iso:country":"IN",
+    "sg:address":"17c, New Tengra Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2329 5938",
+    "sg:postcode":"700046",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903969,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ywg8QxV2UACYHS0Le2IUS_22.549633_88.388222@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"785d59e59417b99a74c0ecf20f4bfa4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903969,
+            "region_id":85672219,
+            "venue_id":169585271
+        }
+    ],
+    "wof:id":169585271,
+    "wof:lastmodified":1449034887,
+    "wof:name":"M. M. Rubber Products",
+    "wof:parent_id":85903969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [88.388222,22.549633,88.388222,22.549633],
+  "geometry": {"coordinates":[88.388222,22.549633],"type":"Point"}
+}

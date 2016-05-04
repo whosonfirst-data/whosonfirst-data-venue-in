@@ -1,0 +1,62 @@
+{
+  "id": 169579021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.849701,21.199327,72.849701,21.199327",
+    "geom:latitude":21.199327,
+    "geom:longitude":72.849701,
+    "iso:country":"IN",
+    "sg:address":"J-36, Bombay Market, Umarwada,",
+    "sg:city":"Surat",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 261 233 6324",
+    "sg:postcode":"395010",
+    "sg:tags":[
+        "chemical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028539,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xYtFXqV0UQh6C3LJF18tz_21.199327_72.849701@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8492288d1e49c7cf72ee316ca89ed88a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028539,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169579021
+        }
+    ],
+    "wof:id":169579021,
+    "wof:lastmodified":1449033741,
+    "wof:name":"Hini Chemical",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical"
+    ]
+},
+  "bbox": [72.849701,21.199327,72.849701,21.199327],
+  "geometry": {"coordinates":[72.849701,21.199327],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169534365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.836037,18.951109,72.836037,18.951109",
+    "geom:latitude":18.951109,
+    "geom:longitude":72.836037,
+    "iso:country":"IN",
+    "sg:address":"112, Lowar Chawl, Masjid Bunder,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5633 1109",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "electric",
+        "power"
+    ],
+    "sg:website":"http://www.tmmtools.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eUScYAZlm99M0Mv9BNKp1_18.951109_72.836037@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d6782cb2a88d4ceb9bd43ab7bbad2224",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169534365
+        }
+    ],
+    "wof:id":169534365,
+    "wof:lastmodified":1449033547,
+    "wof:name":"T. M. Mohamedally",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "power"
+    ]
+},
+  "bbox": [72.836037,18.951109,72.836037,18.951109],
+  "geometry": {"coordinates":[72.836037,18.951109],"type":"Point"}
+}

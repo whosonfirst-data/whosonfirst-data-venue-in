@@ -1,0 +1,67 @@
+{
+  "id": 169594981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.191956,28.650364,77.191956,28.650364",
+    "geom:latitude":28.650364,
+    "geom:longitude":77.191956,
+    "iso:country":"IN",
+    "sg:address":"17a/38-39, Vardhan House, Ajmal Khan Road, Karol Bagh,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4145 0531",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928243,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Xl5D5iksZD0bg5HSSyXFA_28.650364_77.191956@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"031afba51a7db6956840ce32b4a59ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928243,
+            "region_id":85672123,
+            "venue_id":169594981
+        }
+    ],
+    "wof:id":169594981,
+    "wof:lastmodified":1449033166,
+    "wof:name":"Npk Build Con.",
+    "wof:parent_id":85928243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.191956,28.650364,77.191956,28.650364],
+  "geometry": {"coordinates":[77.191956,28.650364],"type":"Point"}
+}

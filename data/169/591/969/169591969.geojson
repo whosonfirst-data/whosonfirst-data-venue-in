@@ -1,0 +1,64 @@
+{
+  "id": 169591969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.444283,17.410025,78.444283,17.410025",
+    "geom:latitude":17.410025,
+    "geom:longitude":78.444283,
+    "iso:country":"IN",
+    "sg:address":"Plot No.46, Road No.13, Banjara Hills,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 6659 5799",
+    "sg:postcode":"500034",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.nandan.biz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930765,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Q05EKpjba97kmjHwsh4vE_17.410025_78.444283@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c1a7c47c01c2228192c188527e431a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930765,
+            "region_id":85672141,
+            "venue_id":169591969
+        }
+    ],
+    "wof:id":169591969,
+    "wof:lastmodified":1449034450,
+    "wof:name":"Nandan Biomatrix",
+    "wof:parent_id":85930765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.444283,17.410025,78.444283,17.410025],
+  "geometry": {"coordinates":[78.444283,17.410025],"type":"Point"}
+}

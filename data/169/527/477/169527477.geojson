@@ -1,0 +1,63 @@
+{
+  "id": 169527477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.809853,18.963989,72.809853,18.963989",
+    "geom:latitude":18.963989,
+    "geom:longitude":72.809853,
+    "iso:country":"IN",
+    "sg:address":"10-b, Raghavj Building, Raghav Ji Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2385 3141",
+    "sg:postcode":"400036",
+    "sg:tags":[
+        "bearing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903971,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zN7HfjLDYRSnssa6zIzX7_18.963989_72.809853@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"89c7f68b06daa453c50a05b2be000132",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903971,
+            "region_id":85672171,
+            "venue_id":169527477
+        }
+    ],
+    "wof:id":169527477,
+    "wof:lastmodified":1449035278,
+    "wof:name":"Mac Group Ltd.",
+    "wof:parent_id":85903971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bearing"
+    ]
+},
+  "bbox": [72.809853,18.963989,72.809853,18.963989],
+  "geometry": {"coordinates":[72.809853,18.963989],"type":"Point"}
+}

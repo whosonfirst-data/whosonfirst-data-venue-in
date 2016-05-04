@@ -1,0 +1,63 @@
+{
+  "id": 169582497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.916382,19.119282,72.916382,19.119282",
+    "geom:latitude":19.119282,
+    "geom:longitude":72.916382,
+    "iso:country":"IN",
+    "sg:address":"D-306, Kailash Esplanade, 3rd Floor, L.b.s. Marg, Ghatkopar (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2500 8788",
+    "sg:postcode":"400086",
+    "sg:tags":[
+        "solvent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931627,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6syMJzjrdzrHjLgKJnOOLI_19.119282_72.916382@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e521f8a110f1ca0553c5fdd2430726f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931627,
+            "region_id":85672171,
+            "venue_id":169582497
+        }
+    ],
+    "wof:id":169582497,
+    "wof:lastmodified":1449034466,
+    "wof:name":"Kelul Enterprises",
+    "wof:parent_id":85931627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solvent"
+    ]
+},
+  "bbox": [72.916382,19.119282,72.916382,19.119282],
+  "geometry": {"coordinates":[72.916382,19.119282],"type":"Point"}
+}

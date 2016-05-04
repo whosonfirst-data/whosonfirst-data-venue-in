@@ -1,0 +1,64 @@
+{
+  "id": 169636307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.851776,19.163532,72.851776,19.163532",
+    "geom:latitude":19.163532,
+    "geom:longitude":72.851776,
+    "iso:country":"IN",
+    "sg:address":"11/12, Udyog Nagar, S.v.road, Goregaon (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2874 6685",
+    "sg:postcode":"400104",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.themismedicare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SojqEVfTSoHMOIxTEB6K3_19.163532_72.851776@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9f3f15d37e2f97ad819195455eddb43c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169636307
+        }
+    ],
+    "wof:id":169636307,
+    "wof:lastmodified":1449033987,
+    "wof:name":"Themis Chemicals",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.851776,19.163532,72.851776,19.163532],
+  "geometry": {"coordinates":[72.851776,19.163532],"type":"Point"}
+}

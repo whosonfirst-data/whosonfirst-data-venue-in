@@ -1,0 +1,64 @@
+{
+  "id": 169558333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.240433,28.620344,77.240433,28.620344",
+    "geom:latitude":28.620344,
+    "geom:longitude":77.240433,
+    "iso:country":"IN",
+    "sg:address":"13/1 Main Mathura Rd.,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 410 6566",
+    "sg:postcode":"121003",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "sg:website":"http://www.bionics.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927907,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xonjbjgDR7RoecXh9B6b1_28.620344_77.240433@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e80d9988d5f162f37dd0429a55ea8e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927907,
+            "region_id":85672123,
+            "venue_id":169558333
+        }
+    ],
+    "wof:id":169558333,
+    "wof:lastmodified":1449033582,
+    "wof:name":"Bionics Technology",
+    "wof:parent_id":85927907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.240433,28.620344,77.240433,28.620344],
+  "geometry": {"coordinates":[77.240433,28.620344],"type":"Point"}
+}

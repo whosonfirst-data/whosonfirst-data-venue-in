@@ -1,0 +1,65 @@
+{
+  "id": 169549019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.826172,18.929142,72.826172,18.929142",
+    "geom:latitude":18.929142,
+    "geom:longitude":72.826172,
+    "iso:country":"IN",
+    "sg:address":"24, Akashwani Marg, P. B. No. 3,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 249 0463",
+    "sg:tags":[
+        "embroiders",
+        "embroidery"
+    ],
+    "sg:website":"http://www.golcha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931425,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uIgMUFr8uue2UrUlMRrvk_18.929142_72.826172@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"dfbe709e1eefd5a9b08e73ec17a57320",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931425,
+            "region_id":85672171,
+            "venue_id":169549019
+        }
+    ],
+    "wof:id":169549019,
+    "wof:lastmodified":1449033592,
+    "wof:name":"Associated Soapstone District Cooperative Pvt. Ltd.",
+    "wof:parent_id":85931425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "embroiders",
+        "embroidery"
+    ]
+},
+  "bbox": [72.826172,18.929142,72.826172,18.929142],
+  "geometry": {"coordinates":[72.826172,18.929142],"type":"Point"}
+}

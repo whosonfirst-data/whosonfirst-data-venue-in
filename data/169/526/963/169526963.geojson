@@ -1,0 +1,66 @@
+{
+  "id": 169526963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.820793,18.927479,72.820793,18.927479",
+    "geom:latitude":18.927479,
+    "geom:longitude":72.820793,
+    "iso:country":"IN",
+    "sg:address":"N-28, Oberoi Shopping Center, Nariman Point,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2284 6317",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "bag",
+        "-"
+    ],
+    "sg:website":"http://www.hidesign.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dsdORy7m5tVfLCzJQC5oU_18.927479_72.820793@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bd40fac3df99bde92e7c2fd066f55721",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169526963
+        }
+    ],
+    "wof:id":169526963,
+    "wof:lastmodified":1449033699,
+    "wof:name":"Hidesign",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag",
+        "-"
+    ]
+},
+  "bbox": [72.820793,18.927479,72.820793,18.927479],
+  "geometry": {"coordinates":[72.820793,18.927479],"type":"Point"}
+}

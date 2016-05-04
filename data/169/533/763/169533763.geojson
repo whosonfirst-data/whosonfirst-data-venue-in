@@ -1,0 +1,65 @@
+{
+  "id": 169533763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.914101,19.101273,72.914101,19.101273",
+    "geom:latitude":19.101273,
+    "geom:longitude":72.914101,
+    "iso:country":"IN",
+    "sg:address":"C-220a, Ghatkopar Indl. Estate, Ghatkopar(w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2500 8088",
+    "sg:postcode":"400086",
+    "sg:tags":[
+        "die",
+        "casting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931627,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38531secYeVS5UrgmXePTb_19.101273_72.914101@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3227b0797e4f01d3bf0a8065992f38a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931627,
+            "region_id":85672171,
+            "venue_id":169533763
+        }
+    ],
+    "wof:id":169533763,
+    "wof:lastmodified":1449032644,
+    "wof:name":"Patterns & Engineers",
+    "wof:parent_id":85931627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "die",
+        "casting"
+    ]
+},
+  "bbox": [72.914101,19.101273,72.914101,19.101273],
+  "geometry": {"coordinates":[72.914101,19.101273],"type":"Point"}
+}

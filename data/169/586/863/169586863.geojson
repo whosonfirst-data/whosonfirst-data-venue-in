@@ -1,0 +1,64 @@
+{
+  "id": 169586863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.037018,29.52393,75.037018,29.52393",
+    "geom:latitude":29.52393,
+    "geom:longitude":75.037018,
+    "iso:country":"IN",
+    "sg:address":"D-37, Kirti Nagar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2519 5252",
+    "sg:postcode":"110015",
+    "sg:tags":[
+        "plant",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028609,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LuRMpxQ8uE1iKtVQ8Qk3J_29.523930_75.037018@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"eb5952f7fcb46d374a26d075f47221a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028609,
+            "neighbourhood_id":-1,
+            "region_id":85672133,
+            "venue_id":169586863
+        }
+    ],
+    "wof:id":169586863,
+    "wof:lastmodified":1449035575,
+    "wof:name":"Malik Chemi Process Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [75.037018,29.52393,75.037018,29.52393],
+  "geometry": {"coordinates":[75.037018,29.52393],"type":"Point"}
+}

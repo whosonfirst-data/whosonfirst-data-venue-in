@@ -1,0 +1,58 @@
+{
+  "id": 169536221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.882103,19.090277,72.882103,19.090277",
+    "geom:latitude":19.090277,
+    "geom:longitude":72.882103,
+    "iso:country":"IN",
+    "sg:address":"59, Sakinaka, Andheri Kurla Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2851 1688",
+    "sg:postcode":"400072",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YWpEpaJugO1rnIwwEgMkj_19.090277_72.882103@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b384e38bd7a825cdbabe2e80c0c33b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169536221
+        }
+    ],
+    "wof:id":169536221,
+    "wof:lastmodified":1449034660,
+    "wof:name":"Malhotra Silk Mills",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.882103,19.090277,72.882103,19.090277],
+  "geometry": {"coordinates":[72.882103,19.090277],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169585575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.900597,19.077257,72.900597,19.077257",
+    "geom:latitude":19.077257,
+    "geom:longitude":72.900597,
+    "iso:country":"IN",
+    "sg:address":"Plot No.-2424, G.i.d.c., Sachin,",
+    "sg:city":"Surat",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 261 237 0392",
+    "sg:postcode":"394230",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "sg:website":"http://www.macsonproducts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931501,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CxfIKZsQKtWERLEFALiQa_19.077257_72.900597@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"611e12a96433e2bda5dfcc71e9789762",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931501,
+            "region_id":85672171,
+            "venue_id":169585575
+        }
+    ],
+    "wof:id":169585575,
+    "wof:lastmodified":1449034883,
+    "wof:name":"Macson Products",
+    "wof:parent_id":85931501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [72.900597,19.077257,72.900597,19.077257],
+  "geometry": {"coordinates":[72.900597,19.077257],"type":"Point"}
+}

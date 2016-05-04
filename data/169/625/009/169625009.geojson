@@ -1,0 +1,63 @@
+{
+  "id": 169625009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.29554,26.453482,80.29554,26.453482",
+    "geom:latitude":26.453482,
+    "geom:longitude":80.29554,
+    "iso:country":"IN",
+    "sg:address":"153 B, Dada Nagar,",
+    "sg:city":"Kanpur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 512 229 5003",
+    "sg:postcode":"208022",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.singhasini.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029855,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ij9JLjcyiRkdVvbO0whX7_26.453482_80.295540@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"229ea9e71eab7cc167ac00a5a0ea05d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029855,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169625009
+        }
+    ],
+    "wof:id":169625009,
+    "wof:lastmodified":1449036026,
+    "wof:name":"Singhasini Heavy Machines P. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.29554,26.453482,80.29554,26.453482],
+  "geometry": {"coordinates":[80.29554,26.453482],"type":"Point"}
+}

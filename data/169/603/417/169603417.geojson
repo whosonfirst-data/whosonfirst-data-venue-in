@@ -1,0 +1,63 @@
+{
+  "id": 169603417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.865211,19.181974,72.865211,19.181974",
+    "geom:latitude":19.181974,
+    "geom:longitude":72.865211,
+    "iso:country":"IN",
+    "sg:address":"A-237, Triveni Nagar,",
+    "sg:city":"Jaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 141 246 0761",
+    "sg:postcode":"302015",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931525,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EgUktWg39hQZCP4CEodR5_19.181974_72.865211@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f855d5d2707fb621973615d47ce4fea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931525,
+            "region_id":85672171,
+            "venue_id":169603417
+        }
+    ],
+    "wof:id":169603417,
+    "wof:lastmodified":1449035451,
+    "wof:name":"Preeti Organics",
+    "wof:parent_id":85931525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.865211,19.181974,72.865211,19.181974],
+  "geometry": {"coordinates":[72.865211,19.181974],"type":"Point"}
+}

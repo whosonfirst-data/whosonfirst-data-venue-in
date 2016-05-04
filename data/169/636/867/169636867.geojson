@@ -1,0 +1,77 @@
+{
+  "id": 169636867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.246918,13.061264,80.246918,13.061264",
+    "geom:latitude":13.061264,
+    "geom:longitude":80.246918,
+    "iso:country":"IN",
+    "sg:address":"35, Nungambakkam High Road, Nungambakkam,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2827 9073",
+    "sg:postcode":"600034",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "sg:website":"http://www.tafe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931743,
+        85632469,
+        102029537,
+        85672245,
+        85903935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j0pC556Jb7h3UlepuDxzW_13.061264_80.246918@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"736ba4337001a9a27d5b6024f0fbada3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931743,
+            "region_id":85672245,
+            "venue_id":169636867
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903935,
+            "region_id":85672245,
+            "venue_id":169636867
+        }
+    ],
+    "wof:id":169636867,
+    "wof:lastmodified":1449033987,
+    "wof:name":"Tractors And Farm Equipment Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [80.246918,13.061264,80.246918,13.061264],
+  "geometry": {"coordinates":[80.246918,13.061264],"type":"Point"}
+}

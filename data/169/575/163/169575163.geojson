@@ -1,0 +1,62 @@
+{
+  "id": 169575163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.297623,30.56044,77.297623,30.56044",
+    "geom:latitude":30.56044,
+    "geom:longitude":77.297623,
+    "iso:country":"IN",
+    "sg:address":"2627, Naya Bazar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2394 4428",
+    "sg:postcode":"110006",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029275,
+        85672129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kUQG7Vrc5lJmZUjT6tf50_30.560440_77.297623@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6c4528ff3dc08d5942eb768ffd581a0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029275,
+            "neighbourhood_id":-1,
+            "region_id":85672129,
+            "venue_id":169575163
+        }
+    ],
+    "wof:id":169575163,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Asso Chemicals (p) Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.297623,30.56044,77.297623,30.56044],
+  "geometry": {"coordinates":[77.297623,30.56044],"type":"Point"}
+}

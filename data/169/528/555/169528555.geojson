@@ -1,0 +1,64 @@
+{
+  "id": 169528555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.868431,19.11796,72.868431,19.11796",
+    "geom:latitude":19.11796,
+    "geom:longitude":72.868431,
+    "iso:country":"IN",
+    "sg:address":"A-14, Midc, Street No. 5, Cross Road 'b', Andheri (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2832 7321",
+    "sg:postcode":"400093",
+    "sg:tags":[
+        "bulk"
+    ],
+    "sg:website":"http://www.niveditanet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XoTl45hQANn1Th0Y1oW5H_19.117960_72.868431@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"aa40e16730f10f333d55e2f1af885b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169528555
+        }
+    ],
+    "wof:id":169528555,
+    "wof:lastmodified":1449033572,
+    "wof:name":"Nivedita Chemicals Pvt. Ltd.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk"
+    ]
+},
+  "bbox": [72.868431,19.11796,72.868431,19.11796],
+  "geometry": {"coordinates":[72.868431,19.11796],"type":"Point"}
+}

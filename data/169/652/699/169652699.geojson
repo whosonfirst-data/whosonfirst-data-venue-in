@@ -1,0 +1,77 @@
+{
+  "id": 169652699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.400128,22.58503,88.400128,22.58503",
+    "geom:latitude":22.58503,
+    "geom:longitude":88.400128,
+    "iso:country":"IN",
+    "sg:address":"2nd floor, LIG-B 11&26, Beside TMC, Dr. A.S. Rao Nagar ECIL Post, Kapra,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"500062",
+    "sg:tags":[
+        "collaber",
+        "eclipse-plgin-development",
+        "collaboration-software",
+        "web2-0",
+        "groove-alternative",
+        "sharepoint",
+        "drupal-services",
+        "collaboration-tool"
+    ],
+    "sg:website":"http://www.vimukti.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903943,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IzsaqvtoBFXLGjfJhzEBJ_22.585030_88.400128@1308163238"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"90305cb8dbf9bf0d128d87d6d7e30230",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903943,
+            "region_id":85672219,
+            "venue_id":169652699
+        }
+    ],
+    "wof:id":169652699,
+    "wof:lastmodified":1449034807,
+    "wof:name":"Vimukti Tehnologies",
+    "wof:parent_id":85903943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "collaber",
+        "eclipse-plgin-development",
+        "collaboration-software",
+        "web2-0",
+        "groove-alternative",
+        "sharepoint",
+        "drupal-services",
+        "collaboration-tool"
+    ]
+},
+  "bbox": [88.400128,22.58503,88.400128,22.58503],
+  "geometry": {"coordinates":[88.400128,22.58503],"type":"Point"}
+}

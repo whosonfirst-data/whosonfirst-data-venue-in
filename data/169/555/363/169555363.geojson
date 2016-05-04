@@ -1,0 +1,53 @@
+{
+  "id": 169555363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.491577,17.441364,78.491577,17.441364",
+    "geom:latitude":17.441364,
+    "geom:longitude":78.491577,
+    "iso:country":"IN",
+    "sg:address":"40/1, S.d. Road",
+    "sg:city":"Secunderabad",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2770 1047",
+    "sg:postcode":"500003",
+    "sg:province":"Andhra Pradesh",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930705,
+        85632469,
+        102028703,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kIf1mYbiZgbmxfN1xMct4_17.441364_78.491577@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8c08d7a7157f3fd73a971c417eb06aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028703,
+            "neighbourhood_id":85930705,
+            "region_id":85672141,
+            "venue_id":169555363
+        }
+    ],
+    "wof:id":169555363,
+    "wof:lastmodified":1449035496,
+    "wof:name":"Orchem Industries",
+    "wof:parent_id":85930705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [78.491577,17.441364,78.491577,17.441364],
+  "geometry": {"coordinates":[78.491577,17.441364],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169584499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.138863,28.732025,77.138863,28.732025",
+    "geom:latitude":28.732025,
+    "geom:longitude":77.138863,
+    "iso:country":"IN",
+    "sg:address":"A-42, Badli Extension, Village Badli,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2785 5839",
+    "sg:postcode":"110042",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "sg:website":"http://www.ldg-intl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928071,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZHDEjc7vWtGNDHq5NQfUO_28.732025_77.138863@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"37ada582152ad23458263adbf17727c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928071,
+            "region_id":85672123,
+            "venue_id":169584499
+        }
+    ],
+    "wof:id":169584499,
+    "wof:lastmodified":1449033037,
+    "wof:name":"Ldg International",
+    "wof:parent_id":85928071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [77.138863,28.732025,77.138863,28.732025],
+  "geometry": {"coordinates":[77.138863,28.732025],"type":"Point"}
+}

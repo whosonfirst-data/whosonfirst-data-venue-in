@@ -1,0 +1,63 @@
+{
+  "id": 169576775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.219749,13.041366,80.219749,13.041366",
+    "geom:latitude":13.041366,
+    "geom:longitude":80.219749,
+    "iso:country":"IN",
+    "sg:address":"4/265, I Street, Srinivasa Nagar,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2454 0292",
+    "sg:postcode":"600090",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903935,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UZ2n2vEBSSBkodIGreQ92_13.041366_80.219749@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"703be9bcfc8413905a6e3fc75bbf9495",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903935,
+            "region_id":85672245,
+            "venue_id":169576775
+        }
+    ],
+    "wof:id":169576775,
+    "wof:lastmodified":1449035197,
+    "wof:name":"Fluoroplast",
+    "wof:parent_id":85903935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [80.219749,13.041366,80.219749,13.041366],
+  "geometry": {"coordinates":[80.219749,13.041366],"type":"Point"}
+}

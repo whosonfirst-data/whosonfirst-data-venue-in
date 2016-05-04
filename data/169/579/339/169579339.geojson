@@ -1,0 +1,61 @@
+{
+  "id": 169579339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.245972,19.152477,73.245972,19.152477",
+    "geom:latitude":19.152477,
+    "geom:longitude":73.245972,
+    "iso:country":"IN",
+    "sg:address":"Plot No. A-2, M. I. D. C, Badlapur,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 251 269 0469",
+    "sg:postcode":"421503",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VXKhD0hVkOU9zMvQm1Fq4_19.152477_73.245972@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8e19123f368fbdfb8210a0d3cb383b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169579339
+        }
+    ],
+    "wof:id":169579339,
+    "wof:lastmodified":1449033740,
+    "wof:name":"Ideal Chemi Plast",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [73.245972,19.152477,73.245972,19.152477],
+  "geometry": {"coordinates":[73.245972,19.152477],"type":"Point"}
+}

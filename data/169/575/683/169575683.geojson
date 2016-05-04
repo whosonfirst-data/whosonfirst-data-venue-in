@@ -1,0 +1,63 @@
+{
+  "id": 169575683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.353035,22.57485,88.353035,22.57485",
+    "geom:latitude":22.57485,
+    "geom:longitude":88.353035,
+    "iso:country":"IN",
+    "sg:address":"32, Ezra St.,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2337 4938",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903957,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YFFURMYq89hNTADPn8qWt_22.574850_88.353035@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3d24561b4cefd04ab039390000125dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903957,
+            "region_id":85672219,
+            "venue_id":169575683
+        }
+    ],
+    "wof:id":169575683,
+    "wof:lastmodified":1449033641,
+    "wof:name":"Balaji  Impex",
+    "wof:parent_id":85903957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [88.353035,22.57485,88.353035,22.57485],
+  "geometry": {"coordinates":[88.353035,22.57485],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169534189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.915138,19.125046,72.915138,19.125046",
+    "geom:latitude":19.125046,
+    "geom:longitude":72.915138,
+    "iso:country":"IN",
+    "sg:address":"A-101, Bhawani Towers,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2578 6239",
+    "sg:postcode":"400076",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931633,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3e2T6hUAnAorDfoNRi9KPX_19.125046_72.915138@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"25e813f8f7ed4e302cf6b5c6a77a4517",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931633,
+            "region_id":85672171,
+            "venue_id":169534189
+        }
+    ],
+    "wof:id":169534189,
+    "wof:lastmodified":1449033549,
+    "wof:name":"Indus Valley Chemical Company",
+    "wof:parent_id":85931633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [72.915138,19.125046,72.915138,19.125046],
+  "geometry": {"coordinates":[72.915138,19.125046],"type":"Point"}
+}

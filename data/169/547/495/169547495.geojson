@@ -1,0 +1,62 @@
+{
+  "id": 169547495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.33625,11.115479,77.33625,11.115479",
+    "geom:latitude":11.115479,
+    "geom:longitude":77.33625,
+    "iso:country":"IN",
+    "sg:address":"32, East Second Street, Ramaiah Colony,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 433 4155",
+    "sg:postcode":"641602",
+    "sg:tags":[
+        "shirt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028425,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1do4PYOGCunYIe2OjFOprB_11.115479_77.336250@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b890d5d0674af00c07635537b74727ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028425,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169547495
+        }
+    ],
+    "wof:id":169547495,
+    "wof:lastmodified":1449033009,
+    "wof:name":"Vipro Garments Buying Agencies",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shirt"
+    ]
+},
+  "bbox": [77.33625,11.115479,77.33625,11.115479],
+  "geometry": {"coordinates":[77.33625,11.115479],"type":"Point"}
+}

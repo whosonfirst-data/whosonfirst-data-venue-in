@@ -1,0 +1,64 @@
+{
+  "id": 169581169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.143684,28.667936,77.143684,28.667936",
+    "geom:latitude":28.667936,
+    "geom:longitude":77.143684,
+    "iso:country":"IN",
+    "sg:address":"H-693-a, Road No. 9-f-2, V.k.i. Area,",
+    "sg:city":"Jaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 141 246 0753",
+    "sg:postcode":"302013",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.kdrubberhoses.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927889,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dQwUQKroRWY2SvmEMppFp_28.667936_77.143684@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5891cd4d5fb8142937445feb2268c01d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927889,
+            "region_id":85672123,
+            "venue_id":169581169
+        }
+    ],
+    "wof:id":169581169,
+    "wof:lastmodified":1449033382,
+    "wof:name":"K. D. Rubber Industries",
+    "wof:parent_id":85927889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.143684,28.667936,77.143684,28.667936],
+  "geometry": {"coordinates":[77.143684,28.667936],"type":"Point"}
+}

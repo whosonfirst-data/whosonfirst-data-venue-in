@@ -1,0 +1,65 @@
+{
+  "id": 169577935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.358376,31.502069,74.358376,31.502069",
+    "geom:latitude":31.502069,
+    "geom:longitude":74.358376,
+    "iso:country":"IN",
+    "sg:address":"199, Defence Colony, Flyover Market,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2432 9335",
+    "sg:postcode":"110024",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "sg:website":"http://www.building.clinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903681,
+        85632659,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uY5RkljhxFDLNmgpUdzXY_31.502069_74.358376@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"00ea19a7d1ed0fe2c268fc5c6bd0fb5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632659,
+            "locality_id":-1,
+            "neighbourhood_id":85903681,
+            "region_id":85675753,
+            "venue_id":169577935
+        }
+    ],
+    "wof:id":169577935,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Greensboro Polchem P. Ltd.",
+    "wof:parent_id":85903681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [74.358376,31.502069,74.358376,31.502069],
+  "geometry": {"coordinates":[74.358376,31.502069],"type":"Point"}
+}

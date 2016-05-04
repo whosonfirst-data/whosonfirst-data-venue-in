@@ -1,0 +1,67 @@
+{
+  "id": 169553587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.165848,22.298317,73.165848,22.298317",
+    "geom:latitude":22.298317,
+    "geom:longitude":73.165848,
+    "iso:country":"IN",
+    "sg:address":"Avishkar Complex,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 242 9055",
+    "sg:postcode":"390001",
+    "sg:tags":[
+        "equipment",
+        "glassware",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933511,
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71RDOBcuXgY8KUtg4ih8L0_22.298317_73.165848@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"951d5315ae2422efe41b894af62d41db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":85933511,
+            "region_id":85672249,
+            "venue_id":169553587
+        }
+    ],
+    "wof:id":169553587,
+    "wof:lastmodified":1449032707,
+    "wof:name":"Shivkrupa Services",
+    "wof:parent_id":85933511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "glassware",
+        "laboratory"
+    ]
+},
+  "bbox": [73.165848,22.298317,73.165848,22.298317],
+  "geometry": {"coordinates":[73.165848,22.298317],"type":"Point"}
+}

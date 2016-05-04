@@ -1,0 +1,65 @@
+{
+  "id": 169619659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.31234,28.468845,77.31234,28.468845",
+    "geom:latitude":28.468845,
+    "geom:longitude":77.31234,
+    "iso:country":"IN",
+    "sg:address":"Plot No.-9, New Dlf Industrial Area,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 227 4343",
+    "sg:postcode":"121003",
+    "sg:tags":[
+        "product",
+        "gum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928379,
+        85632469,
+        102030289,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MCI0GzzTnTXeSelHcOnP8_28.468845_77.312340@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e06c64cd92a31c3c5207c483928b0914",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030289,
+            "neighbourhood_id":85928379,
+            "region_id":85672133,
+            "venue_id":169619659
+        }
+    ],
+    "wof:id":169619659,
+    "wof:lastmodified":1449033281,
+    "wof:name":"Shiv Enterprises",
+    "wof:parent_id":85928379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "gum"
+    ]
+},
+  "bbox": [77.31234,28.468845,77.31234,28.468845],
+  "geometry": {"coordinates":[77.31234,28.468845],"type":"Point"}
+}

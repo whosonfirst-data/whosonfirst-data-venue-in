@@ -1,0 +1,67 @@
+{
+  "id": 169534993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.858154,19.113249,72.858154,19.113249",
+    "geom:latitude":19.113249,
+    "geom:longitude":72.858154,
+    "iso:country":"IN",
+    "sg:address":"27-j, Laxmi Indl. Est, Andheri (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2633 2472",
+    "sg:postcode":"400053",
+    "sg:tags":[
+        "component",
+        "product",
+        "electronic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931483,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qdkMDMffDtolDj0KZsdbb_19.113249_72.858154@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"dfd1d183725dd58c66b59ed55d6897ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931483,
+            "region_id":85672171,
+            "venue_id":169534993
+        }
+    ],
+    "wof:id":169534993,
+    "wof:lastmodified":1449033548,
+    "wof:name":"Arirang Electronics",
+    "wof:parent_id":85931483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "product",
+        "electronic"
+    ]
+},
+  "bbox": [72.858154,19.113249,72.858154,19.113249],
+  "geometry": {"coordinates":[72.858154,19.113249],"type":"Point"}
+}

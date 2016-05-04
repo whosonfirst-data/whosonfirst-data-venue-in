@@ -1,0 +1,65 @@
+{
+  "id": 169599891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.206337,13.030587,80.206337,13.030587",
+    "geom:latitude":13.030587,
+    "geom:longitude":80.206337,
+    "iso:country":"IN",
+    "sg:address":"15b, Kasi Industrial Estate, Jafferkhanpet,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2470 0248",
+    "sg:postcode":"600083",
+    "sg:tags":[
+        "lab",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931715,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6112EZQXJ9dOO5Vk1rIJpG_13.030587_80.206337@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4e92fc2120f9b162c1b395f3dd3861c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931715,
+            "region_id":85672245,
+            "venue_id":169599891
+        }
+    ],
+    "wof:id":169599891,
+    "wof:lastmodified":1449034207,
+    "wof:name":"Paxmy Fine Chemicals",
+    "wof:parent_id":85931715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lab",
+        "supply"
+    ]
+},
+  "bbox": [80.206337,13.030587,80.206337,13.030587],
+  "geometry": {"coordinates":[80.206337,13.030587],"type":"Point"}
+}

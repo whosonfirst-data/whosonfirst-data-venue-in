@@ -1,0 +1,64 @@
+{
+  "id": 169584653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.218216,13.024794,80.218216,13.024794",
+    "geom:latitude":13.024794,
+    "geom:longitude":80.218216,
+    "iso:country":"IN",
+    "sg:address":"25-b, 1st Floor, West Jones Road, Saidapet,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2485 1378",
+    "sg:postcode":"600015",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://sukmpra.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903867,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68LSO552iMcH8RfbpWUGRn_13.024794_80.218216@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"15ef7d5ca5c0d443b54cc22d19cd415a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903867,
+            "region_id":85672245,
+            "venue_id":169584653
+        }
+    ],
+    "wof:id":169584653,
+    "wof:lastmodified":1449033037,
+    "wof:name":"Life Time Associates Pvt. Ltd.",
+    "wof:parent_id":85903867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.218216,13.024794,80.218216,13.024794],
+  "geometry": {"coordinates":[80.218216,13.024794],"type":"Point"}
+}

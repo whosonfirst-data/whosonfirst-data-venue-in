@@ -1,0 +1,61 @@
+{
+  "id": 169561225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.578857,17.434832,78.578857,17.434832",
+    "geom:latitude":17.434832,
+    "geom:longitude":78.578857,
+    "iso:country":"IN",
+    "sg:address":"Plot No.141/a, Ida Mallapur,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2717 0004",
+    "sg:postcode":"500076",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VfCp7gpmMC7XnSQS2qWHP_17.434832_78.578857@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"125c00fe3e0af872bfd9a92d2469962a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169561225
+        }
+    ],
+    "wof:id":169561225,
+    "wof:lastmodified":1449035018,
+    "wof:name":"Ensure Bio Tech",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.578857,17.434832,78.578857,17.434832],
+  "geometry": {"coordinates":[78.578857,17.434832],"type":"Point"}
+}

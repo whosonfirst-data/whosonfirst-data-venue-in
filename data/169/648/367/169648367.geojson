@@ -1,0 +1,58 @@
+{
+  "id": 169648367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.594376,12.971606,77.594376,12.971606",
+    "geom:latitude":12.971606,
+    "geom:longitude":77.594376,
+    "iso:country":"IN",
+    "sg:address":"No.1132, 3rd Floor, 100ft Road H.A.L II Stage",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560 038",
+    "sg:website":"http://www.fourint.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930949,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Fi66BJoSZDqZFcQHpy7ot_12.971606_77.594376@1308163236"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c17417b40568d672e1ad678ab13e3bd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930949,
+            "region_id":85672165,
+            "venue_id":169648367
+        }
+    ],
+    "wof:id":169648367,
+    "wof:lastmodified":1449033585,
+    "wof:name":"Four Interactive",
+    "wof:parent_id":85930949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.594376,12.971606,77.594376,12.971606],
+  "geometry": {"coordinates":[77.594376,12.971606],"type":"Point"}
+}

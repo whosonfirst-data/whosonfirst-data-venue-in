@@ -1,0 +1,65 @@
+{
+  "id": 169543031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.539787,13.009834,77.539787,13.009834",
+    "geom:latitude":13.009834,
+    "geom:longitude":77.539787,
+    "iso:country":"IN",
+    "sg:address":"40, 4th Main, 2a Cross, Shankar Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2337 0305",
+    "sg:postcode":"560096",
+    "sg:tags":[
+        "equipment",
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35Kyqe4Rl097YmaKAhbCoM_13.009834_77.539787@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f76104b5cb9231d19c8610c0fc73be11",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169543031
+        }
+    ],
+    "wof:id":169543031,
+    "wof:lastmodified":1449033334,
+    "wof:name":"Rupee Planner",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telecommunication"
+    ]
+},
+  "bbox": [77.539787,13.009834,77.539787,13.009834],
+  "geometry": {"coordinates":[77.539787,13.009834],"type":"Point"}
+}

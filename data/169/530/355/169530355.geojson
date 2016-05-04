@@ -1,0 +1,65 @@
+{
+  "id": 169530355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833817,18.930189,72.833817,18.930189",
+    "geom:latitude":18.930189,
+    "geom:longitude":72.833817,
+    "iso:country":"IN",
+    "sg:address":"93, Mumbai Samachar Marg, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2263 0588",
+    "sg:postcode":"400023",
+    "sg:tags":[
+        "compressor",
+        "allied"
+    ],
+    "sg:website":"http://www.compressorindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Gfkarpt9dtipbQ0wt30Wi_18.930189_72.833817@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"309a49cf45868b1fb2b380b0f10934cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169530355
+        }
+    ],
+    "wof:id":169530355,
+    "wof:lastmodified":1449034443,
+    "wof:name":"Compressor Parts Company",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compressor",
+        "allied"
+    ]
+},
+  "bbox": [72.833817,18.930189,72.833817,18.930189],
+  "geometry": {"coordinates":[72.833817,18.930189],"type":"Point"}
+}

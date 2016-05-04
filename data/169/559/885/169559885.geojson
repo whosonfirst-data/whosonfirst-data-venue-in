@@ -1,0 +1,63 @@
+{
+  "id": 169559885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.350563,22.571367,88.350563,22.571367",
+    "geom:latitude":22.571367,
+    "geom:longitude":88.350563,
+    "iso:country":"IN",
+    "sg:address":"Stephen House, 4, B.b.d. Bag(e), 3rd Floor, Room No. 51c,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2231 4497",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931969,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VKSX3j517r2jWbg4osTP3_22.571367_88.350563@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f7c447027ef56ec52624adaa733b2e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931969,
+            "region_id":85672219,
+            "venue_id":169559885
+        }
+    ],
+    "wof:id":169559885,
+    "wof:lastmodified":1449035237,
+    "wof:name":"D. K. Steels",
+    "wof:parent_id":85931969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [88.350563,22.571367,88.350563,22.571367],
+  "geometry": {"coordinates":[88.350563,22.571367],"type":"Point"}
+}

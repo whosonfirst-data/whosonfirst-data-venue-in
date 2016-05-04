@@ -1,0 +1,62 @@
+{
+  "id": 169629117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.161896,11.650387,78.161896,11.650387",
+    "geom:latitude":11.650387,
+    "geom:longitude":78.161896,
+    "iso:country":"IN",
+    "sg:address":"No 15, Kitchipalayam Main Road,",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 427 226 6682",
+    "sg:postcode":"636001",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028771,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R7vOA5Hmjqa7wTpCRoPZO_11.650387_78.161896@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"62d1646e16a82531a5b83788c887a971",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028771,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169629117
+        }
+    ],
+    "wof:id":169629117,
+    "wof:lastmodified":1449035186,
+    "wof:name":"Ssag International",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [78.161896,11.650387,78.161896,11.650387],
+  "geometry": {"coordinates":[78.161896,11.650387],"type":"Point"}
+}

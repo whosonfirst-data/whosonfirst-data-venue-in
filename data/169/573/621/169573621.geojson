@@ -1,0 +1,53 @@
+{
+  "id": 169573621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.622826,13.001755,77.622826,13.001755",
+    "geom:latitude":13.001755,
+    "geom:longitude":77.622826,
+    "iso:country":"IN",
+    "sg:address":"Cooke Town",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 805495324",
+    "sg:postcode":"560005",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930863,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cAedpW4FDK6PAqcBd3ojs_13.001755_77.622826@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"98bf7da36c4c042f48084ed6a627d5d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930863,
+            "region_id":85672165,
+            "venue_id":169573621
+        }
+    ],
+    "wof:id":169573621,
+    "wof:lastmodified":1449035114,
+    "wof:name":"Amazon Environtech Pvt Ltd",
+    "wof:parent_id":85930863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.622826,13.001755,77.622826,13.001755],
+  "geometry": {"coordinates":[77.622826,13.001755],"type":"Point"}
+}

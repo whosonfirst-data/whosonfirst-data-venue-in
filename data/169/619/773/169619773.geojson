@@ -1,0 +1,65 @@
+{
+  "id": 169619773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.093857,28.620123,77.093857,28.620123",
+    "geom:latitude":28.620123,
+    "geom:longitude":77.093857,
+    "iso:country":"IN",
+    "sg:address":"B-1/161, Janak Puri,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2559 7326",
+    "sg:postcode":"110058",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928581,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kMc2OUgNqd6Jt2PMhlxUA_28.620123_77.093857@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"52eaebca6d2bcfcda6fdc6f26ddcfc6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928581,
+            "region_id":85672123,
+            "venue_id":169619773
+        }
+    ],
+    "wof:id":169619773,
+    "wof:lastmodified":1449033282,
+    "wof:name":"Shiva Packaging Industry",
+    "wof:parent_id":85928581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [77.093857,28.620123,77.093857,28.620123],
+  "geometry": {"coordinates":[77.093857,28.620123],"type":"Point"}
+}

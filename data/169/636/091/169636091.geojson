@@ -1,0 +1,63 @@
+{
+  "id": 169636091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.347008,22.571184,88.347008,22.571184",
+    "geom:latitude":22.571184,
+    "geom:longitude":88.347008,
+    "iso:country":"IN",
+    "sg:address":"12, B.b.d. Bag East,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 3090 2952",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931969,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AOOgqIRB0nPpDYXvEAM79_22.571184_88.347008@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7e5cd3ae56219884f2ddb6e594964ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931969,
+            "region_id":85672219,
+            "venue_id":169636091
+        }
+    ],
+    "wof:id":169636091,
+    "wof:lastmodified":1449033986,
+    "wof:name":"The Sahara Chemicals",
+    "wof:parent_id":85931969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.347008,22.571184,88.347008,22.571184],
+  "geometry": {"coordinates":[88.347008,22.571184],"type":"Point"}
+}

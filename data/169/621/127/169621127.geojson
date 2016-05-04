@@ -1,0 +1,62 @@
+{
+  "id": 169621127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.142776,12.918714,80.142776,12.918714",
+    "geom:latitude":12.918714,
+    "geom:longitude":80.142776,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 56, Ganesh Nagar, Selaiyur,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2461 5880",
+    "sg:postcode":"600073",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kXta4nXVxWjX4zI9f9UCp_12.918714_80.142776@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f73bf8ebd0850aa29977925c97c8244c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169621127
+        }
+    ],
+    "wof:id":169621127,
+    "wof:lastmodified":1449035560,
+    "wof:name":"Shree Impex",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.142776,12.918714,80.142776,12.918714],
+  "geometry": {"coordinates":[80.142776,12.918714],"type":"Point"}
+}

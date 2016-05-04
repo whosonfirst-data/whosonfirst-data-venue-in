@@ -1,0 +1,58 @@
+{
+  "id": 169543351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.515366,13.038951,77.515366,13.038951",
+    "geom:latitude":13.038951,
+    "geom:longitude":77.515366,
+    "iso:country":"IN",
+    "sg:address":"No.12, Chokkasandra, B-57,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4117 2080",
+    "sg:postcode":"560057",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930987,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19keldOKer0Yy7GRxarasW_13.038951_77.515366@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ddc5950dfe4a5cf31e0f0e7e82c65ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930987,
+            "region_id":85672165,
+            "venue_id":169543351
+        }
+    ],
+    "wof:id":169543351,
+    "wof:lastmodified":1449033336,
+    "wof:name":"Thomas Exims Combine",
+    "wof:parent_id":85930987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.515366,13.038951,77.515366,13.038951],
+  "geometry": {"coordinates":[77.515366,13.038951],"type":"Point"}
+}

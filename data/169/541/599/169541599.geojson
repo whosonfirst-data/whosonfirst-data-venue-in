@@ -1,0 +1,64 @@
+{
+  "id": 169541599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.674034,12.843727,77.674034,12.843727",
+    "geom:latitude":12.843727,
+    "geom:longitude":77.674034,
+    "iso:country":"IN",
+    "sg:address":"17, Electronics City, Hosur Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2852 2660",
+    "sg:postcode":"560100",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"http://www.vxl.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930867,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20EaJfenIY2ohEVqcZiUz4_12.843727_77.674034@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"97e290ee5a2e10f48a07f0acd98accf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930867,
+            "region_id":85672165,
+            "venue_id":169541599
+        }
+    ],
+    "wof:id":169541599,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Vxl Etech",
+    "wof:parent_id":85930867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.674034,12.843727,77.674034,12.843727],
+  "geometry": {"coordinates":[77.674034,12.843727],"type":"Point"}
+}

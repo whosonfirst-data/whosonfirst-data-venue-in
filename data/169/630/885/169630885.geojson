@@ -1,0 +1,61 @@
+{
+  "id": 169630885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.289886,13.091798,80.289886,13.091798",
+    "geom:latitude":13.091798,
+    "geom:longitude":80.289886,
+    "iso:country":"IN",
+    "sg:address":"161/1, Angappa Naicken Street,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"600001",
+    "sg:tags":[
+        "chemical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903951,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79zdjfIi4cEcyGShdaXsNX_13.091798_80.289886@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f4e7bfa5ee9d83fb8543e0c806f91b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102029537,
+            "neighbourhood_id":85903951,
+            "region_id":85672245,
+            "venue_id":169630885
+        }
+    ],
+    "wof:id":169630885,
+    "wof:lastmodified":1449033869,
+    "wof:name":"Sunkamal Impex",
+    "wof:parent_id":85903951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical"
+    ]
+},
+  "bbox": [80.289886,13.091798,80.289886,13.091798],
+  "geometry": {"coordinates":[80.289886,13.091798],"type":"Point"}
+}

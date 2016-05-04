@@ -1,0 +1,63 @@
+{
+  "id": 169614921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.207756,13.070078,80.207756,13.070078",
+    "geom:latitude":13.070078,
+    "geom:longitude":80.207756,
+    "iso:country":"IN",
+    "sg:address":"No. Ss-20, Sidco Indl. Estate, Ambattur,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2635 0563",
+    "sg:postcode":"600098",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931707,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72VOD8BPNMZ9roNCA437nY_13.070078_80.207756@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"93feb0a7eeddd1a4ba3c232e9c5108cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931707,
+            "region_id":85672245,
+            "venue_id":169614921
+        }
+    ],
+    "wof:id":169614921,
+    "wof:lastmodified":1449036057,
+    "wof:name":"Sakthi Rubber Lining Works",
+    "wof:parent_id":85931707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [80.207756,13.070078,80.207756,13.070078],
+  "geometry": {"coordinates":[80.207756,13.070078],"type":"Point"}
+}

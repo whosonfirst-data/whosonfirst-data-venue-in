@@ -1,0 +1,62 @@
+{
+  "id": 169592231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.906151,22.719877,75.906151,22.719877",
+    "geom:latitude":22.719877,
+    "geom:longitude":75.906151,
+    "iso:country":"IN",
+    "sg:address":"136, Piplya Rao,",
+    "sg:city":"Indore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 731 210 4459",
+    "sg:postcode":"452002",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030041,
+        85672239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XUhBeuajlnJbQDJnobyFr_22.719877_75.906151@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3ffc9a9c90c6978b2ec0abc2de248843",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030041,
+            "neighbourhood_id":-1,
+            "region_id":85672239,
+            "venue_id":169592231
+        }
+    ],
+    "wof:id":169592231,
+    "wof:lastmodified":1449034584,
+    "wof:name":"Nadia Biotech India",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.906151,22.719877,75.906151,22.719877],
+  "geometry": {"coordinates":[75.906151,22.719877],"type":"Point"}
+}

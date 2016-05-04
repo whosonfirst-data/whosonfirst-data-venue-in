@@ -1,0 +1,52 @@
+{
+  "id": 169555247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.83065,18.932547,72.83065,18.932547",
+    "geom:latitude":18.932547,
+    "geom:longitude":72.83065,
+    "iso:country":"IN",
+    "sg:address":"12/14, Veer Nariman Road, Fort",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2204 8361",
+    "sg:postcode":"400001",
+    "sg:province":"Maharashtra",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ISibhnWVCCyGTz3VOIWRP_18.932547_72.830650@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"20a2fb03e3e0fc7af1c14fe5991ea27c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169555247
+        }
+    ],
+    "wof:id":169555247,
+    "wof:lastmodified":1449035494,
+    "wof:name":"W H Brady & Company Ltd",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.83065,18.932547,72.83065,18.932547],
+  "geometry": {"coordinates":[72.83065,18.932547],"type":"Point"}
+}

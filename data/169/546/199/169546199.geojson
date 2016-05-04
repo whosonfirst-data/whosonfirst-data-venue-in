@@ -1,0 +1,63 @@
+{
+  "id": 169546199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.215248,28.645788,77.215248,28.645788",
+    "geom:latitude":28.645788,
+    "geom:longitude":77.215248,
+    "iso:country":"IN",
+    "sg:address":"383, P.n. Road, Hotel Everest,",
+    "sg:city":"Tiruppur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 223 1349",
+    "sg:postcode":"641602",
+    "sg:tags":[
+        "t-shirt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903937,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ycYhdqgfY8x6ABcHn1Elr_28.645788_77.215248@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2d61bd07dbadea6de68d9cfd5a706207",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903937,
+            "region_id":85672123,
+            "venue_id":169546199
+        }
+    ],
+    "wof:id":169546199,
+    "wof:lastmodified":1449032677,
+    "wof:name":"Knk Garments",
+    "wof:parent_id":85903937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "t-shirt"
+    ]
+},
+  "bbox": [77.215248,28.645788,77.215248,28.645788],
+  "geometry": {"coordinates":[77.215248,28.645788],"type":"Point"}
+}

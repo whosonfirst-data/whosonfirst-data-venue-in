@@ -1,0 +1,63 @@
+{
+  "id": 169616121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.282036,28.625694,77.282036,28.625694",
+    "geom:latitude":28.625694,
+    "geom:longitude":77.282036,
+    "iso:country":"IN",
+    "sg:address":"M.b 112-a, Gali No. 3, Shakarpur,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2241 2174",
+    "sg:postcode":"110092",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928143,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4thVUcJM6AYY0UQDOXrxa3_28.625694_77.282036@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fd7f478cc03fe080f50afe26efc7ffeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928143,
+            "region_id":85672123,
+            "venue_id":169616121
+        }
+    ],
+    "wof:id":169616121,
+    "wof:lastmodified":1449035102,
+    "wof:name":"Santosh Rubber Industry",
+    "wof:parent_id":85928143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.282036,28.625694,77.282036,28.625694],
+  "geometry": {"coordinates":[77.282036,28.625694],"type":"Point"}
+}

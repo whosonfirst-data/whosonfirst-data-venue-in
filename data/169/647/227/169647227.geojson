@@ -1,0 +1,63 @@
+{
+  "id": 169647227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.153275,28.722284,77.153275,28.722284",
+    "geom:latitude":28.722284,
+    "geom:longitude":77.153275,
+    "iso:country":"IN",
+    "sg:address":"Industrial Area, Jhotwara, Near Shalimaar Crossing,",
+    "sg:city":"Jaipur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 141 234 2879",
+    "sg:postcode":"302012",
+    "sg:tags":[
+        "paper"
+    ],
+    "sg:website":"http://www.wirefabrik.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cS7RN6WgvZMTh2W1B5X1X_28.722284_77.153275@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d50812fb01c47ec7d1369599501c9d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169647227
+        }
+    ],
+    "wof:id":169647227,
+    "wof:lastmodified":1449034240,
+    "wof:name":"Wires & Fabriks (s.a.) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paper"
+    ]
+},
+  "bbox": [77.153275,28.722284,77.153275,28.722284],
+  "geometry": {"coordinates":[77.153275,28.722284],"type":"Point"}
+}

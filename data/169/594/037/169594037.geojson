@@ -1,0 +1,64 @@
+{
+  "id": 169594037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.98204,19.211187,72.98204,19.211187",
+    "geom:latitude":19.211187,
+    "geom:longitude":72.98204,
+    "iso:country":"IN",
+    "sg:address":"Mumbai Agra Road, Balkum,",
+    "sg:city":"Thane",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2534 3508",
+    "sg:postcode":"400608",
+    "sg:tags":[
+        "fine"
+    ],
+    "sg:website":"http://www.vfcdnicholas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931383,
+        85632469,
+        102028465,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zfoa1W5Vnc7Z2mu0gJJm4_19.211187_72.982040@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"70aaa8248fab5552c8d01d1f18324581",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028465,
+            "neighbourhood_id":85931383,
+            "region_id":85672171,
+            "venue_id":169594037
+        }
+    ],
+    "wof:id":169594037,
+    "wof:lastmodified":1449033166,
+    "wof:name":"Nicholas Piramal India Limited",
+    "wof:parent_id":85931383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fine"
+    ]
+},
+  "bbox": [72.98204,19.211187,72.98204,19.211187],
+  "geometry": {"coordinates":[72.98204,19.211187],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 169649873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"4.769483,44.667237,4.769483,44.667237",
+    "geom:latitude":44.667237,
+    "geom:longitude":4.769483,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 83 & 84, Road # 2 Banjara Hills",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"500034",
+    "sg:tags":[
+        "software-testing",
+        "quality-management",
+        "quailty-assurance",
+        "third-party-validation",
+        "independent-testing-services",
+        "software-testing-services"
+    ],
+    "sg:website":"http://www.applabs.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633147,
+        85683421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rS3uWdLdQCqJhyzxozWHN_44.667237_4.769483@1308163239"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d534dcdebd9854d1859c6e4c76d673d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633147,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85683421,
+            "venue_id":169649873
+        }
+    ],
+    "wof:id":169649873,
+    "wof:lastmodified":1449034942,
+    "wof:name":"AppLabs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software-testing",
+        "quality-management",
+        "quailty-assurance",
+        "third-party-validation",
+        "independent-testing-services",
+        "software-testing-services"
+    ]
+},
+  "bbox": [4.769483,44.667237,4.769483,44.667237],
+  "geometry": {"coordinates":[4.769483,44.667237],"type":"Point"}
+}

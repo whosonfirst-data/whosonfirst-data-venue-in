@@ -1,0 +1,65 @@
+{
+  "id": 169610987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.614281,12.97456,77.614281,12.97456",
+    "geom:latitude":12.97456,
+    "geom:longitude":77.614281,
+    "iso:country":"IN",
+    "sg:address":"3920, G.i.d.c. Estate,",
+    "sg:city":"Ankleshwar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2646 224 350",
+    "sg:postcode":"393002",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930841,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fgtipFsSx7PDmWmzhU1gU_12.974560_77.614281@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"215068f3539063f82d2725c22f8667e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930841,
+            "region_id":85672165,
+            "venue_id":169610987
+        }
+    ],
+    "wof:id":169610987,
+    "wof:lastmodified":1449035910,
+    "wof:name":"Reva Chemicals",
+    "wof:parent_id":85930841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [77.614281,12.97456,77.614281,12.97456],
+  "geometry": {"coordinates":[77.614281,12.97456],"type":"Point"}
+}

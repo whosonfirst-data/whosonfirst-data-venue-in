@@ -1,0 +1,64 @@
+{
+  "id": 169551359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.522934,23.037258,72.522934,23.037258",
+    "geom:latitude":23.037258,
+    "geom:longitude":72.522934,
+    "iso:country":"IN",
+    "sg:address":"103-5, Yash Complex,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 237 0139",
+    "sg:tags":[
+        "building",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928669,
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q0Au0a4hK3uCTANN8i10c_23.037258_72.522934@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"22181b402dd6cc3c15f51e34a03e8ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":85928669,
+            "region_id":85672249,
+            "venue_id":169551359
+        }
+    ],
+    "wof:id":169551359,
+    "wof:lastmodified":1449033351,
+    "wof:name":"Sri Scaffolding Pvt. Ltd.",
+    "wof:parent_id":85928669,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "supply"
+    ]
+},
+  "bbox": [72.522934,23.037258,72.522934,23.037258],
+  "geometry": {"coordinates":[72.522934,23.037258],"type":"Point"}
+}

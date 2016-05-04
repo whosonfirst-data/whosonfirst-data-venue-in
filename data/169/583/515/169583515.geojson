@@ -1,0 +1,64 @@
+{
+  "id": 169583515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.162392,13.086576,80.162392,13.086576",
+    "geom:latitude":13.086576,
+    "geom:longitude":80.162392,
+    "iso:country":"IN",
+    "sg:address":"D-8, Industrial Estate, Mogappair West,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2624 3432",
+    "sg:postcode":"600037",
+    "sg:tags":[
+        "pigment"
+    ],
+    "sg:website":"http://www.kromatiks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927699,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jCjchCF7NPhhqxOYhUpFP_13.086576_80.162392@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f1b0f2c4348def57d75fcfe5e67aff11",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85927699,
+            "region_id":85672245,
+            "venue_id":169583515
+        }
+    ],
+    "wof:id":169583515,
+    "wof:lastmodified":1449035266,
+    "wof:name":"Kromatiks & Insulants Pvt. Ltd.",
+    "wof:parent_id":85927699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [80.162392,13.086576,80.162392,13.086576],
+  "geometry": {"coordinates":[80.162392,13.086576],"type":"Point"}
+}

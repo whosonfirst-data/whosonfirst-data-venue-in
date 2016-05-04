@@ -1,0 +1,67 @@
+{
+  "id": 169639685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.345329,22.573307,88.345329,22.573307",
+    "geom:latitude":22.573307,
+    "geom:longitude":88.345329,
+    "iso:country":"IN",
+    "sg:address":"40/1, Strand Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2243 1774",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931969,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Rgt9Kdz5XQ801iqB0NkFi_22.573307_88.345329@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3f5571952b5076eb91262eb76755410f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931969,
+            "region_id":85672219,
+            "venue_id":169639685
+        }
+    ],
+    "wof:id":169639685,
+    "wof:lastmodified":1449035954,
+    "wof:name":"United Paint Industries",
+    "wof:parent_id":85931969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [88.345329,22.573307,88.345329,22.573307],
+  "geometry": {"coordinates":[88.345329,22.573307],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169541835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.549934,13.003607,77.549934,13.003607",
+    "geom:latitude":13.003607,
+    "geom:longitude":77.549934,
+    "iso:country":"IN",
+    "sg:address":"West Of Chord Road, 1st 'r' Block, Rajajinagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2357 8346",
+    "sg:postcode":"560010",
+    "sg:tags":[
+        "seasoning",
+        "spice"
+    ],
+    "sg:website":"http://www.ecoagri.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G9DVAIisX1KROVy5APHxl_13.003607_77.549934@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6b8c7b91c575abf0d4b1604f111b5ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169541835
+        }
+    ],
+    "wof:id":169541835,
+    "wof:lastmodified":1449033039,
+    "wof:name":"Eco Agri",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seasoning",
+        "spice"
+    ]
+},
+  "bbox": [77.549934,13.003607,77.549934,13.003607],
+  "geometry": {"coordinates":[77.549934,13.003607],"type":"Point"}
+}

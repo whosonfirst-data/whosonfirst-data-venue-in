@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.618111,12.97191,77.618111,12.97191",
+    "geom:latitude":12.97191,
+    "geom:longitude":77.618111,
+    "iso:country":"IN",
+    "sg:address":"1, Midford Gardens",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 805584487",
+    "sg:postcode":"560001",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931137,
+        85632469,
+        102030819,
+        85672165,
+        85930841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WDAQdJrTprwve9PiZfSbN_12.971910_77.618111@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bc2e40329dc30f90a7dc046d5e5c24b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931137,
+            "region_id":85672165,
+            "venue_id":169557935
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930841,
+            "region_id":85672165,
+            "venue_id":169557935
+        }
+    ],
+    "wof:id":169557935,
+    "wof:lastmodified":1449035037,
+    "wof:name":"India Sugars & Refineries Ltd",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.618111,12.97191,77.618111,12.97191],
+  "geometry": {"coordinates":[77.618111,12.97191],"type":"Point"}
+}

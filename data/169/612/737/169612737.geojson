@@ -1,0 +1,60 @@
+{
+  "id": 169612737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"70.678185,22.239304,70.678185,22.239304",
+    "geom:latitude":22.239304,
+    "geom:longitude":70.678185,
+    "iso:country":"IN",
+    "sg:address":"E-1, G.i.d.c., Metoda,",
+    "sg:city":"Rajkot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2827 287 706",
+    "sg:tags":[
+        "polymer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qu8VUS4cbC5rDOTUAWCPD_22.239304_70.678185@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e11e533a86f670321ad86310571cf8dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169612737
+        }
+    ],
+    "wof:id":169612737,
+    "wof:lastmodified":1449034130,
+    "wof:name":"Ruby Polymers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [70.678185,22.239304,70.678185,22.239304],
+  "geometry": {"coordinates":[70.678185,22.239304],"type":"Point"}
+}

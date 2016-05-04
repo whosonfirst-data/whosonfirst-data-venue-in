@@ -1,0 +1,62 @@
+{
+  "id": 169614381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.874619,22.71533,75.874619,22.71533",
+    "geom:latitude":22.71533,
+    "geom:longitude":75.874619,
+    "iso:country":"IN",
+    "sg:address":"305, Chetak Centre, 12/2, R.n.t. Marg,",
+    "sg:city":"Indore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 731 252 8911",
+    "sg:tags":[
+        "chemicals-additives"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933763,
+        85632469,
+        102030041,
+        85672239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yMizn4v4lZmY04ScI46yo_22.715330_75.874619@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"dfd846ecb71ce1b6965032982b601d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030041,
+            "neighbourhood_id":85933763,
+            "region_id":85672239,
+            "venue_id":169614381
+        }
+    ],
+    "wof:id":169614381,
+    "wof:lastmodified":1449036057,
+    "wof:name":"Sachdeva Plastic",
+    "wof:parent_id":85933763,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemicals-additives"
+    ]
+},
+  "bbox": [75.874619,22.71533,75.874619,22.71533],
+  "geometry": {"coordinates":[75.874619,22.71533],"type":"Point"}
+}

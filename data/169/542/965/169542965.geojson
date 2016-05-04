@@ -1,0 +1,65 @@
+{
+  "id": 169542965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.597412,12.907539,77.597412,12.907539",
+    "geom:latitude":12.907539,
+    "geom:longitude":77.597412,
+    "iso:country":"IN",
+    "sg:address":"No. 63-b, 13th Cross, Jp Nagar, 3rd Phase,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2658 5832",
+    "sg:postcode":"560078",
+    "sg:tags":[
+        "equipment",
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931061,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qPigzP8ZxHrI4pCqa8C6w_12.907539_77.597412@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f421d35644408994306ba58e96729b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931061,
+            "region_id":85672165,
+            "venue_id":169542965
+        }
+    ],
+    "wof:id":169542965,
+    "wof:lastmodified":1449035222,
+    "wof:name":"Keytronix",
+    "wof:parent_id":85931061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telecommunication"
+    ]
+},
+  "bbox": [77.597412,12.907539,77.597412,12.907539],
+  "geometry": {"coordinates":[77.597412,12.907539],"type":"Point"}
+}

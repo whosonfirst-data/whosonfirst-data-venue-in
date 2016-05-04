@@ -1,0 +1,63 @@
+{
+  "id": 169526181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.210854,28.641275,77.210854,28.641275",
+    "geom:latitude":28.641275,
+    "geom:longitude":77.210854,
+    "iso:country":"IN",
+    "sg:address":"336, V.p. Road, Near Imperial Cenima,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2382 1955",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "auto"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903937,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ib5yw1lzZ2RhLBvS6bjTz_28.641275_77.210854@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bd82dde736b34b0a60b2e172db1f934e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903937,
+            "region_id":85672123,
+            "venue_id":169526181
+        }
+    ],
+    "wof:id":169526181,
+    "wof:lastmodified":1449033700,
+    "wof:name":"Standard Inc. Exports",
+    "wof:parent_id":85903937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto"
+    ]
+},
+  "bbox": [77.210854,28.641275,77.210854,28.641275],
+  "geometry": {"coordinates":[77.210854,28.641275],"type":"Point"}
+}

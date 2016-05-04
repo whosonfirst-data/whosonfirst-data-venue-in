@@ -1,0 +1,66 @@
+{
+  "id": 169576465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.518494,23.012314,72.518494,23.012314",
+    "geom:latitude":23.012314,
+    "geom:longitude":72.518494,
+    "iso:country":"IN",
+    "sg:address":"C-202, Kanak Kala-ii, 100 Feet Road, Satellite,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 3004 8370",
+    "sg:postcode":"380015",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "sg:website":"http://www.ewokecolour.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933479,
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bxy8rj6LYS70ePOIpwocW_23.012314_72.518494@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d400866a4a5f736d0c754068c24038c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":85933479,
+            "region_id":85672249,
+            "venue_id":169576465
+        }
+    ],
+    "wof:id":169576465,
+    "wof:lastmodified":1449035198,
+    "wof:name":"E-woke Colour Inc.",
+    "wof:parent_id":85933479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [72.518494,23.012314,72.518494,23.012314],
+  "geometry": {"coordinates":[72.518494,23.012314],"type":"Point"}
+}

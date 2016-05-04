@@ -1,0 +1,53 @@
+{
+  "id": 169528973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.567986,13.000125,77.567986,13.000125",
+    "geom:latitude":13.000125,
+    "geom:longitude":77.567986,
+    "iso:country":"IN",
+    "sg:address":"9, Sanjay -a, 1128, V. S. Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:orig_category":"Capacitors",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2422 3095",
+    "sg:postcode":"400025",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yaUh8dOraPET1h9VIHoe2_13.000125_77.567986@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"176e89335abc9855885694f71816eab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169528973
+        }
+    ],
+    "wof:id":169528973,
+    "wof:lastmodified":1449033570,
+    "wof:name":"Hemal Traders",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.567986,13.000125,77.567986,13.000125],
+  "geometry": {"coordinates":[77.567986,13.000125],"type":"Point"}
+}

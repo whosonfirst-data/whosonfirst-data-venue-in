@@ -1,0 +1,65 @@
+{
+  "id": 169537035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.556061,12.925956,77.556061,12.925956",
+    "geom:latitude":12.925956,
+    "geom:longitude":77.556061,
+    "iso:country":"IN",
+    "sg:address":"No. 25/1, 3rd Main, 1st Stage, 2nd Phase,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2337 4227",
+    "sg:postcode":"560054",
+    "sg:tags":[
+        "power",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931103,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J7zNN933jNK7yAKCTxvdj_12.925956_77.556061@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4afa8834601148806b146422db8ab640",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931103,
+            "region_id":85672165,
+            "venue_id":169537035
+        }
+    ],
+    "wof:id":169537035,
+    "wof:lastmodified":1449033499,
+    "wof:name":"Gallant Electronic Controls",
+    "wof:parent_id":85931103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "power",
+        "supply"
+    ]
+},
+  "bbox": [77.556061,12.925956,77.556061,12.925956],
+  "geometry": {"coordinates":[77.556061,12.925956],"type":"Point"}
+}

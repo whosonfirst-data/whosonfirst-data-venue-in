@@ -1,0 +1,63 @@
+{
+  "id": 169541787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.570404,12.946039,77.570404,12.946039",
+    "geom:latitude":12.946039,
+    "geom:longitude":77.570404,
+    "iso:country":"IN",
+    "sg:address":"1/1, 2nd Floor, Gandhi Bazaar Main Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4150 6621",
+    "sg:postcode":"560004",
+    "sg:tags":[
+        "solvent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930849,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JvtZedyyiLvMjQ1vdx6YP_12.946039_77.570404@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"46773f985b60e1a6506351d6ea4ec2a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930849,
+            "region_id":85672165,
+            "venue_id":169541787
+        }
+    ],
+    "wof:id":169541787,
+    "wof:lastmodified":1449033042,
+    "wof:name":"3n International",
+    "wof:parent_id":85930849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solvent"
+    ]
+},
+  "bbox": [77.570404,12.946039,77.570404,12.946039],
+  "geometry": {"coordinates":[77.570404,12.946039],"type":"Point"}
+}

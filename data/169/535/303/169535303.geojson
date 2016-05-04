@@ -1,0 +1,63 @@
+{
+  "id": 169535303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.830254,19.11364,72.830254,19.11364",
+    "geom:latitude":19.11364,
+    "geom:longitude":72.830254,
+    "iso:country":"IN",
+    "sg:address":"8, Hill Crest , North South Road No 10, Juhu Scheme,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2620 0407",
+    "sg:postcode":"400049",
+    "sg:tags":[
+        "equipment",
+        "good"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931479,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j3Y6kzGsEKHlhGVthNT0H_19.113640_72.830254@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3932f96ec1fbc31442bc2e6908960dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931479,
+            "region_id":-1,
+            "venue_id":169535303
+        }
+    ],
+    "wof:id":169535303,
+    "wof:lastmodified":1449033284,
+    "wof:name":"Chemotech India",
+    "wof:parent_id":85931479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "good"
+    ]
+},
+  "bbox": [72.830254,19.11364,72.830254,19.11364],
+  "geometry": {"coordinates":[72.830254,19.11364],"type":"Point"}
+}

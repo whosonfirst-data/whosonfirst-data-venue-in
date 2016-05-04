@@ -1,0 +1,63 @@
+{
+  "id": 169583173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.82737,18.493315,73.82737,18.493315",
+    "geom:latitude":18.493315,
+    "geom:longitude":73.82737,
+    "iso:country":"IN",
+    "sg:address":"Tathawade,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2727 3325",
+    "sg:postcode":"411033",
+    "sg:tags":[
+        "solvent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904003,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7faiZQ8p8Tvl0f7QbW4cHr_18.493315_73.827370@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"98d232af649e802528975308e1351a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85904003,
+            "region_id":85672171,
+            "venue_id":169583173
+        }
+    ],
+    "wof:id":169583173,
+    "wof:lastmodified":1449035264,
+    "wof:name":"Korrocoat Polymers Pvt. Ltd.",
+    "wof:parent_id":85904003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solvent"
+    ]
+},
+  "bbox": [73.82737,18.493315,73.82737,18.493315],
+  "geometry": {"coordinates":[73.82737,18.493315],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169530639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.820824,18.923998,72.820824,18.923998",
+    "geom:latitude":18.923998,
+    "geom:longitude":72.820824,
+    "iso:country":"IN",
+    "sg:address":"B/10, Dalamal Tower, Nariman Point,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2204 3232",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "project",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43uSlqREPYaI460a6vuj3s_18.923998_72.820824@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1157df95b472699ca45adefc0b77851a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169530639
+        }
+    ],
+    "wof:id":169530639,
+    "wof:lastmodified":1449034445,
+    "wof:name":"Sumeet International",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "project",
+        "construction"
+    ]
+},
+  "bbox": [72.820824,18.923998,72.820824,18.923998],
+  "geometry": {"coordinates":[72.820824,18.923998],"type":"Point"}
+}

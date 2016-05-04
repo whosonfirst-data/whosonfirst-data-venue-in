@@ -1,0 +1,62 @@
+{
+  "id": 169620593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.158493,28.64649,77.158493,28.64649",
+    "geom:latitude":28.64649,
+    "geom:longitude":77.158493,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 14, Gurunanak Nagar,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 712 560 1679",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927889,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vrYyqOAIBMKs0YQnN1dGd_28.646490_77.158493@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e07d2df7631e76affd09fe80053d93f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927889,
+            "region_id":85672123,
+            "venue_id":169620593
+        }
+    ],
+    "wof:id":169620593,
+    "wof:lastmodified":1449035676,
+    "wof:name":"Shree Ganesh Corporation",
+    "wof:parent_id":85927889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.158493,28.64649,77.158493,28.64649],
+  "geometry": {"coordinates":[77.158493,28.64649],"type":"Point"}
+}

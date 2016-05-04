@@ -1,0 +1,62 @@
+{
+  "id": 169540593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.667412,23.212027,72.667412,23.212027",
+    "geom:latitude":23.212027,
+    "geom:longitude":72.667412,
+    "iso:country":"IN",
+    "sg:address":"No-28, 1st Floor, G.p.s. Complex, J.m. Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2224 2218",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030253,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WE1xBcMIrqhKXJXGHSVig_23.212027_72.667412@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"112d4772db10166149ee14ddfbf88a59",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030253,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169540593
+        }
+    ],
+    "wof:id":169540593,
+    "wof:lastmodified":1449033976,
+    "wof:name":"C. M. Silks",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [72.667412,23.212027,72.667412,23.212027],
+  "geometry": {"coordinates":[72.667412,23.212027],"type":"Point"}
+}

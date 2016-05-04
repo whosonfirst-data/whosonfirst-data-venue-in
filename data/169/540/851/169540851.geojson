@@ -1,0 +1,63 @@
+{
+  "id": 169540851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.653809,16.50168,80.653809,16.50168",
+    "geom:latitude":16.50168,
+    "geom:longitude":80.653809,
+    "iso:country":"IN",
+    "sg:address":"#1, M. M. V. Road, V. V. Puram,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2661 2436",
+    "sg:postcode":"560004",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903813,
+        85632469,
+        102028271,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cBEexVKNS0zniT9vogZog_16.501680_80.653809@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"97cf9f6576ef3ef292fb39e4819aa368",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028271,
+            "neighbourhood_id":85903813,
+            "region_id":85672141,
+            "venue_id":169540851
+        }
+    ],
+    "wof:id":169540851,
+    "wof:lastmodified":1449033977,
+    "wof:name":"Lalitha Global Silks",
+    "wof:parent_id":85903813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [80.653809,16.50168,80.653809,16.50168],
+  "geometry": {"coordinates":[80.653809,16.50168],"type":"Point"}
+}

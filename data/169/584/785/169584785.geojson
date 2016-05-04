@@ -1,0 +1,68 @@
+{
+  "id": 169584785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.828789,19.016254,72.828789,19.016254",
+    "geom:latitude":19.016254,
+    "geom:longitude":72.828789,
+    "iso:country":"IN",
+    "sg:address":"386, Veer Savarkar Marg, Prabhadevi,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2430 4367",
+    "sg:postcode":"400025",
+    "sg:tags":[
+        "material",
+        "protection",
+        "corrosion"
+    ],
+    "sg:website":"http://www.lloydindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931467,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zs3siT7neKA1hNfEcMot5_19.016254_72.828789@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fc0131c3ef6d822906f39d5299f2dc03",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931467,
+            "region_id":85672171,
+            "venue_id":169584785
+        }
+    ],
+    "wof:id":169584785,
+    "wof:lastmodified":1449033040,
+    "wof:name":"Lloyd Insulations (india) Ltd.",
+    "wof:parent_id":85931467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material",
+        "protection",
+        "corrosion"
+    ]
+},
+  "bbox": [72.828789,19.016254,72.828789,19.016254],
+  "geometry": {"coordinates":[72.828789,19.016254],"type":"Point"}
+}

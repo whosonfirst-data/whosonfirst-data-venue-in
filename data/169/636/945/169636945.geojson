@@ -1,0 +1,63 @@
+{
+  "id": 169636945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.184464,28.53849,77.184464,28.53849",
+    "geom:latitude":28.53849,
+    "geom:longitude":77.184464,
+    "iso:country":"IN",
+    "sg:address":"C-15, Qutab Institutional Area,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2651 3959",
+    "sg:postcode":"110016",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928617,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mGzkBAzKBhDHnmQrTh9nj_28.538490_77.184464@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"183302f56f0f14a9e0a67e7ec293e851",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928617,
+            "region_id":85672123,
+            "venue_id":169636945
+        }
+    ],
+    "wof:id":169636945,
+    "wof:lastmodified":1449033987,
+    "wof:name":"Tradex India",
+    "wof:parent_id":85928617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.184464,28.53849,77.184464,28.53849],
+  "geometry": {"coordinates":[77.184464,28.53849],"type":"Point"}
+}

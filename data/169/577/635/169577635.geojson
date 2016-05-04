@@ -1,0 +1,65 @@
+{
+  "id": 169577635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.231407,28.65027,77.231407,28.65027",
+    "geom:latitude":28.65027,
+    "geom:longitude":77.231407,
+    "iso:country":"IN",
+    "sg:address":"W.x.53, Basti Nau,",
+    "sg:city":"Jalandhar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 181 225 3293",
+    "sg:postcode":"144002",
+    "sg:tags":[
+        "synthetic",
+        "pu/pvc"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928091,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oRKUwQgi0JJprRDeAqZ4P_28.650270_77.231407@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ab382da73e0794f54cfa541c2afe898c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928091,
+            "region_id":85672123,
+            "venue_id":169577635
+        }
+    ],
+    "wof:id":169577635,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Golden Sports",
+    "wof:parent_id":85928091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "synthetic",
+        "pu/pvc"
+    ]
+},
+  "bbox": [77.231407,28.65027,77.231407,28.65027],
+  "geometry": {"coordinates":[77.231407,28.65027],"type":"Point"}
+}

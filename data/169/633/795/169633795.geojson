@@ -1,0 +1,64 @@
+{
+  "id": 169633795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.15863,22.31118,73.15863,22.31118",
+    "geom:latitude":22.31118,
+    "geom:longitude":73.15863,
+    "iso:country":"IN",
+    "sg:address":"8/23-24, Race Course Road,",
+    "sg:city":"Coimbatore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 422 221 8211",
+    "sg:postcode":"641018",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "sg:website":"http://www.t-stanes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933511,
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qu586WiNmHH4L2AzNBu22_22.311180_73.158630@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bf4ef3beb45e734376bbdb5674ff0298",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":85933511,
+            "region_id":85672249,
+            "venue_id":169633795
+        }
+    ],
+    "wof:id":169633795,
+    "wof:lastmodified":1449035940,
+    "wof:name":"T.stanes And Company Pvt. Ltd.",
+    "wof:parent_id":85933511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [73.15863,22.31118,73.15863,22.31118],
+  "geometry": {"coordinates":[73.15863,22.31118],"type":"Point"}
+}

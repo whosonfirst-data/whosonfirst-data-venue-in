@@ -1,0 +1,63 @@
+{
+  "id": 169615975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.203499,28.599014,77.203499,28.599014",
+    "geom:latitude":28.599014,
+    "geom:longitude":77.203499,
+    "iso:country":"IN",
+    "sg:address":"# 2, Race Course Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2225 0975",
+    "sg:postcode":"560001",
+    "sg:tags":[
+        "polymer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928295,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zd7XTNm00LoKm7jyUOLsc_28.599014_77.203499@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7250d539dcd8e9fb7dcca5f752f93dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928295,
+            "region_id":85672123,
+            "venue_id":169615975
+        }
+    ],
+    "wof:id":169615975,
+    "wof:lastmodified":1449033734,
+    "wof:name":"Sankhla Polymers (p) Ltd.",
+    "wof:parent_id":85928295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [77.203499,28.599014,77.203499,28.599014],
+  "geometry": {"coordinates":[77.203499,28.599014],"type":"Point"}
+}

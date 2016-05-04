@@ -1,0 +1,70 @@
+{
+  "id": 169526371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.64093,12.976018,77.64093,12.976018",
+    "geom:latitude":12.976018,
+    "geom:longitude":77.64093,
+    "iso:country":"IN",
+    "sg:address":"105, M.s. Marg,r.no:10, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2266 1954",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ],
+    "sg:website":"http://www.overseasbc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O2Kfsqtyzu4lbg1yLqvSA_12.976018_77.640930@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"679b3dd6e8d65ffd1c302c212b259bfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169526371
+        }
+    ],
+    "wof:id":169526371,
+    "wof:lastmodified":1449033702,
+    "wof:name":"Overseas Business Corporation",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ]
+},
+  "bbox": [77.64093,12.976018,77.64093,12.976018],
+  "geometry": {"coordinates":[77.64093,12.976018],"type":"Point"}
+}

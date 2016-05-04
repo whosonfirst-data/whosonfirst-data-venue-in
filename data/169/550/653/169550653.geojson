@@ -1,0 +1,66 @@
+{
+  "id": 169550653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.227631,28.650665,77.227631,28.650665",
+    "geom:latitude":28.650665,
+    "geom:longitude":77.227631,
+    "iso:country":"IN",
+    "sg:address":"204, P.k. Square, Nr. Tube Company, O.p. Road,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 233 6039",
+    "sg:postcode":"390015",
+    "sg:tags":[
+        "blower",
+        "air"
+    ],
+    "sg:website":"http://www.arihantelectricals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928095,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Qn4kTptnGfMgBPHXFNo3D_28.650665_77.227631@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"daa7639b09acdb02b66b5b6867e5ce3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928095,
+            "region_id":85672123,
+            "venue_id":169550653
+        }
+    ],
+    "wof:id":169550653,
+    "wof:lastmodified":1449034476,
+    "wof:name":"Arihant Systems & Electricals Pvt. Ltd.",
+    "wof:parent_id":85928095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blower",
+        "air"
+    ]
+},
+  "bbox": [77.227631,28.650665,77.227631,28.650665],
+  "geometry": {"coordinates":[77.227631,28.650665],"type":"Point"}
+}

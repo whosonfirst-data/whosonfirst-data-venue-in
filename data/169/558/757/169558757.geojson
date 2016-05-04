@@ -1,0 +1,58 @@
+{
+  "id": 169558757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.388222,22.549633,88.388222,22.549633",
+    "geom:latitude":22.549633,
+    "geom:longitude":88.388222,
+    "iso:country":"IN",
+    "sg:address":"47 South Tangra Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Leather Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2235 0448",
+    "sg:postcode":"700046",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903969,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nfIKwhSJ7nUczCo3OA2tJ_22.549633_88.388222@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"785d59e59417b99a74c0ecf20f4bfa4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903969,
+            "region_id":85672219,
+            "venue_id":169558757
+        }
+    ],
+    "wof:id":169558757,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Calcutta Colour Company",
+    "wof:parent_id":85903969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [88.388222,22.549633,88.388222,22.549633],
+  "geometry": {"coordinates":[88.388222,22.549633],"type":"Point"}
+}

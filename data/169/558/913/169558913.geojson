@@ -1,0 +1,63 @@
+{
+  "id": 169558913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.240143,28.646999,77.240143,28.646999",
+    "geom:latitude":28.646999,
+    "geom:longitude":77.240143,
+    "iso:country":"IN",
+    "sg:address":"352, Rai Bahadur Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2403 3736",
+    "sg:postcode":"700053",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903843,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i6d905YX4NPy4v1PbIFou_28.646999_77.240143@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4ec7b01329157409b63f08f805c5acc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85903843,
+            "region_id":85672123,
+            "venue_id":169558913
+        }
+    ],
+    "wof:id":169558913,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Century Rubber Industries",
+    "wof:parent_id":85903843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.240143,28.646999,77.240143,28.646999],
+  "geometry": {"coordinates":[77.240143,28.646999],"type":"Point"}
+}

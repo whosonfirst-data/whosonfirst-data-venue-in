@@ -1,0 +1,63 @@
+{
+  "id": 169576153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.279053,13.085027,80.279053,13.085027",
+    "geom:latitude":13.085027,
+    "geom:longitude":80.279053,
+    "iso:country":"IN",
+    "sg:address":"5-15/103, Nyniappa Naicken Street,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2535 0777",
+    "sg:postcode":"600003",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931765,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VPPJK3yxQ6RdWkmPiTt5i_13.085027_80.279053@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a615ade8c8602041847b54fe7ed2ac41",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931765,
+            "region_id":85672245,
+            "venue_id":169576153
+        }
+    ],
+    "wof:id":169576153,
+    "wof:lastmodified":1449035196,
+    "wof:name":"Bhansali Pharma-chems",
+    "wof:parent_id":85931765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.279053,13.085027,80.279053,13.085027],
+  "geometry": {"coordinates":[80.279053,13.085027],"type":"Point"}
+}

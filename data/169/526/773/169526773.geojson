@@ -1,0 +1,68 @@
+{
+  "id": 169526773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.825012,19.015327,72.825012,19.015327",
+    "geom:latitude":19.015327,
+    "geom:longitude":72.825012,
+    "iso:country":"IN",
+    "sg:address":"Dgp House, 88c, Old Prabhadevi Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5653 9000",
+    "sg:postcode":"400025",
+    "sg:tags":[
+        "bag",
+        "-",
+        "cotton/canvas/synthetic"
+    ],
+    "sg:website":"http://www.vipbags.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931467,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I9ue8G8xWqhGTNeI88Ii2_19.015327_72.825012@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8e52bae0ee6ead1958cec340e2be8bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931467,
+            "region_id":85672171,
+            "venue_id":169526773
+        }
+    ],
+    "wof:id":169526773,
+    "wof:lastmodified":1449033699,
+    "wof:name":"Vip Industries Limited",
+    "wof:parent_id":85931467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag",
+        "-",
+        "cotton/canvas/synthetic"
+    ]
+},
+  "bbox": [72.825012,19.015327,72.825012,19.015327],
+  "geometry": {"coordinates":[72.825012,19.015327],"type":"Point"}
+}

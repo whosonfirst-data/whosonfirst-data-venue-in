@@ -1,0 +1,64 @@
+{
+  "id": 169531957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833443,18.937195,72.833443,18.937195",
+    "geom:latitude":18.937195,
+    "geom:longitude":72.833443,
+    "iso:country":"IN",
+    "sg:address":"9, Wallace Street, 3rd Floor, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"City Walls",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2209 3670",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "decorative",
+        "laminate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xb05Z4QiiTlul5vY0Dmph_18.937195_72.833443@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"23ac31a3b490605587f2b639b4b9e22e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169531957
+        }
+    ],
+    "wof:id":169531957,
+    "wof:lastmodified":1449033475,
+    "wof:name":"The Bombay Burmah Trading Corp. Ltd",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decorative",
+        "laminate"
+    ]
+},
+  "bbox": [72.833443,18.937195,72.833443,18.937195],
+  "geometry": {"coordinates":[72.833443,18.937195],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169529179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.880058,19.037657,72.880058,19.037657",
+    "geom:latitude":19.037657,
+    "geom:longitude":72.880058,
+    "iso:country":"IN",
+    "sg:address":"Sewri X Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5660 2977",
+    "sg:postcode":"400015",
+    "sg:tags":[
+        "oil",
+        "castor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903847,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ik9LzfBWPvVnfwV793EC7_19.037657_72.880058@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"67f612185693808d4f26bc867dc53e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903847,
+            "region_id":85672171,
+            "venue_id":169529179
+        }
+    ],
+    "wof:id":169529179,
+    "wof:lastmodified":1449034116,
+    "wof:name":"Alif International",
+    "wof:parent_id":85903847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "castor"
+    ]
+},
+  "bbox": [72.880058,19.037657,72.880058,19.037657],
+  "geometry": {"coordinates":[72.880058,19.037657],"type":"Point"}
+}

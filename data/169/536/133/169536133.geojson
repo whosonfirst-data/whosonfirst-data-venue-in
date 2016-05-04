@@ -1,0 +1,58 @@
+{
+  "id": 169536133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.822159,18.923862,72.822159,18.923862",
+    "geom:latitude":18.923862,
+    "geom:longitude":72.822159,
+    "iso:country":"IN",
+    "sg:address":"1422, Maker Chamber V, Nariman Point,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2282 4935",
+    "sg:postcode":"400021",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZwB2iVZcCcclONp7JqYRj_18.923862_72.822159@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ef6aaaea63846cda735f399742b86ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169536133
+        }
+    ],
+    "wof:id":169536133,
+    "wof:lastmodified":1449034660,
+    "wof:name":"Orbit Fabrics Ltd.",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.822159,18.923862,72.822159,18.923862],
+  "geometry": {"coordinates":[72.822159,18.923862],"type":"Point"}
+}

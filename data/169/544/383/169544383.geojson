@@ -1,0 +1,63 @@
+{
+  "id": 169544383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.450989,17.290974,74.450989,17.290974",
+    "geom:latitude":17.290974,
+    "geom:longitude":74.450989,
+    "iso:country":"IN",
+    "sg:address":"730, H.m.t. Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2337 3836",
+    "sg:postcode":"560054",
+    "sg:tags":[
+        "voltage",
+        "stabilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JaaNkLH2enIZDpsofLp5R_17.290974_74.450989@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"01f618f727b7b2bb927937052c2a089e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169544383
+        }
+    ],
+    "wof:id":169544383,
+    "wof:lastmodified":1449035963,
+    "wof:name":"Qualitorn Electricals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "voltage",
+        "stabilizer"
+    ]
+},
+  "bbox": [74.450989,17.290974,74.450989,17.290974],
+  "geometry": {"coordinates":[74.450989,17.290974],"type":"Point"}
+}

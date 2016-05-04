@@ -1,0 +1,64 @@
+{
+  "id": 169580631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.908279,26.865482,80.908279,26.865482",
+    "geom:latitude":26.865482,
+    "geom:longitude":80.908279,
+    "iso:country":"IN",
+    "sg:address":"Tobacco Street,",
+    "sg:city":"Moradabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 591 247 2909",
+    "sg:postcode":"244001",
+    "sg:tags":[
+        "wax"
+    ],
+    "sg:website":"http://www.jasminehandicraft.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933219,
+        85632469,
+        102029557,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5THjwXKQgFycN09efW3gdp_26.865482_80.908279@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"639568de97776c7f7ca6e14982643751",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029557,
+            "neighbourhood_id":85933219,
+            "region_id":85672205,
+            "venue_id":169580631
+        }
+    ],
+    "wof:id":169580631,
+    "wof:lastmodified":1449034916,
+    "wof:name":"Jasmine Handicrafts",
+    "wof:parent_id":85933219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [80.908279,26.865482,80.908279,26.865482],
+  "geometry": {"coordinates":[80.908279,26.865482],"type":"Point"}
+}

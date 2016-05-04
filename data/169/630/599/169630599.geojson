@@ -1,0 +1,66 @@
+{
+  "id": 169630599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.162895,28.523521,77.162895,28.523521",
+    "geom:latitude":28.523521,
+    "geom:longitude":77.162895,
+    "iso:country":"IN",
+    "sg:address":"B-4/3092, Vasant Kunj,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 3249 8639",
+    "sg:postcode":"110070",
+    "sg:tags":[
+        "color",
+        "dyes-natural"
+    ],
+    "sg:website":"http://www.sunfoodcolor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903905,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69WDIwofU3ZL37nWqnmKhZ_28.523521_77.162895@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cd1bc0fe4c62e2824545b19a0564b795",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903905,
+            "region_id":85672123,
+            "venue_id":169630599
+        }
+    ],
+    "wof:id":169630599,
+    "wof:lastmodified":1449033870,
+    "wof:name":"Sun Food Tech",
+    "wof:parent_id":85903905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "color",
+        "dyes-natural"
+    ]
+},
+  "bbox": [77.162895,28.523521,77.162895,28.523521],
+  "geometry": {"coordinates":[77.162895,28.523521],"type":"Point"}
+}

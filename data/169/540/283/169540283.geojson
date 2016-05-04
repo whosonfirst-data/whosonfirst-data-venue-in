@@ -1,0 +1,63 @@
+{
+  "id": 169540283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.652306,13.01449,77.652306,13.01449",
+    "geom:latitude":13.01449,
+    "geom:longitude":77.652306,
+    "iso:country":"IN",
+    "sg:address":"No. 591/1, Near Gem School, Dodda Banaswadi,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2545 1349",
+    "sg:postcode":"560043",
+    "sg:tags":[
+        "shirt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931031,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Zakwr2llpXtHkBQQsIk9E_13.014490_77.652306@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fbb6b77fcdceb0a45ce3bc76b94286fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931031,
+            "region_id":85672165,
+            "venue_id":169540283
+        }
+    ],
+    "wof:id":169540283,
+    "wof:lastmodified":1449033976,
+    "wof:name":"Mohiral Garment",
+    "wof:parent_id":85931031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shirt"
+    ]
+},
+  "bbox": [77.652306,13.01449,77.652306,13.01449],
+  "geometry": {"coordinates":[77.652306,13.01449],"type":"Point"}
+}

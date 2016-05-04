@@ -1,0 +1,63 @@
+{
+  "id": 169541485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.651604,12.958296,77.651604,12.958296",
+    "geom:latitude":12.958296,
+    "geom:longitude":77.651604,
+    "iso:country":"IN",
+    "sg:address":"R-53, 5th Floor, Glodern Enclave,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2507 5927",
+    "sg:postcode":"560017",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931079,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SsvBiEad9zzDy7PJaQWuw_12.958296_77.651604@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ad4d685bf15a0275a083a2bdec50dbfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931079,
+            "region_id":85672165,
+            "venue_id":169541485
+        }
+    ],
+    "wof:id":169541485,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Maxal Consulting Service Inc.",
+    "wof:parent_id":85931079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.651604,12.958296,77.651604,12.958296],
+  "geometry": {"coordinates":[77.651604,12.958296],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169559597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.856239,30.698002,76.856239,30.698002",
+    "geom:latitude":30.698002,
+    "geom:longitude":76.856239,
+    "iso:country":"IN",
+    "sg:address":"H. No. 16, Part-3, Sector-5,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 645 1662",
+    "sg:postcode":"122001",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931825,
+        85632469,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Js4Km9WYUwlx96KImcJUs_30.698002_76.856239@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ddbfb9b4da18404d84fe6e2a398e345e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85931825,
+            "region_id":85672133,
+            "venue_id":169559597
+        }
+    ],
+    "wof:id":169559597,
+    "wof:lastmodified":1449035238,
+    "wof:name":"Concept Automotive",
+    "wof:parent_id":85931825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [76.856239,30.698002,76.856239,30.698002],
+  "geometry": {"coordinates":[76.856239,30.698002],"type":"Point"}
+}

@@ -1,0 +1,54 @@
+{
+  "id": 169555481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.568954,12.996843,77.568954,12.996843",
+    "geom:latitude":12.996843,
+    "geom:longitude":77.568954,
+    "iso:country":"IN",
+    "sg:address":"Malleswaram Circle, Malleswaram",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 803310491",
+    "sg:postcode":"560003",
+    "sg:province":"Karnataka",
+    "sg:website":"http://www.compuageindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XjKDMavY8q27MuWPlAst6_12.996843_77.568954@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e663e4645279977316137676f40e1ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169555481
+        }
+    ],
+    "wof:id":169555481,
+    "wof:lastmodified":1449035496,
+    "wof:name":"Compuage Infocom Ltd",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.568954,12.996843,77.568954,12.996843],
+  "geometry": {"coordinates":[77.568954,12.996843],"type":"Point"}
+}

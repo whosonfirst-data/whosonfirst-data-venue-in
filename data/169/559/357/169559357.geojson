@@ -1,0 +1,63 @@
+{
+  "id": 169559357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.847733,18.532093,73.847733,18.532093",
+    "geom:latitude":18.532093,
+    "geom:longitude":73.847733,
+    "iso:country":"IN",
+    "sg:address":"7/1, Babulal Lane,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2239 9536",
+    "sg:postcode":"700007",
+    "sg:tags":[
+        "wax"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931327,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_160gnPGubH7puO0YapInGa_18.532093_73.847733@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"802a7a89f8f6d219d23d611e9b51d59f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931327,
+            "region_id":85672171,
+            "venue_id":169559357
+        }
+    ],
+    "wof:id":169559357,
+    "wof:lastmodified":1449035238,
+    "wof:name":"Choudhary Chemicals",
+    "wof:parent_id":85931327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [73.847733,18.532093,73.847733,18.532093],
+  "geometry": {"coordinates":[73.847733,18.532093],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169579423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833961,19.135494,72.833961,19.135494",
+    "geom:latitude":19.135494,
+    "geom:longitude":72.833961,
+    "iso:country":"IN",
+    "sg:address":"21/a, Ghanshyam Indl. Estate, Veera Desai Road, Andheri (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2631 5069",
+    "sg:postcode":"400053",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.intimefire.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931475,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C7Q3voLNyzmnwCBZ0vCKS_19.135494_72.833961@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f2761b604c57eb4ce6346c66f521de08",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931475,
+            "region_id":85672171,
+            "venue_id":169579423
+        }
+    ],
+    "wof:id":169579423,
+    "wof:lastmodified":1449033739,
+    "wof:name":"In Time Fire Appliances",
+    "wof:parent_id":85931475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [72.833961,19.135494,72.833961,19.135494],
+  "geometry": {"coordinates":[72.833961,19.135494],"type":"Point"}
+}

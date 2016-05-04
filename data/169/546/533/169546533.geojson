@@ -1,0 +1,58 @@
+{
+  "id": 169546533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.235237,13.097034,80.235237,13.097034",
+    "geom:latitude":13.097034,
+    "geom:longitude":80.235237,
+    "iso:country":"IN",
+    "sg:address":"3/1, Tnss Colony, Gandhi Nagar,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 248 4321",
+    "sg:postcode":"641603",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903819,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EpJjQfcsfVJnh497w0bYo_13.097034_80.235237@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"51371f305e17e1830e8cb4cb586907d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903819,
+            "region_id":85672245,
+            "venue_id":169546533
+        }
+    ],
+    "wof:id":169546533,
+    "wof:lastmodified":1449032678,
+    "wof:name":"Rulex Trading",
+    "wof:parent_id":85903819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.235237,13.097034,80.235237,13.097034],
+  "geometry": {"coordinates":[80.235237,13.097034],"type":"Point"}
+}

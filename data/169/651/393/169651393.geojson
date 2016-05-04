@@ -1,0 +1,73 @@
+{
+  "id": 169651393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.195962,28.565402,77.195962,28.565402",
+    "geom:latitude":28.565402,
+    "geom:longitude":77.195962,
+    "iso:country":"IN",
+    "sg:address":"B-7 Safdarjung Enclave",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110029",
+    "sg:tags":[
+        "business-management",
+        "human-resource-management",
+        "sales-management",
+        "operations-management",
+        "finance-management",
+        "jobs"
+    ],
+    "sg:website":"http://www.citeman.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928651,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d9l8buRBaWVDYKWdIriOL_28.565402_77.195962@1308163241"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ce0d5703dd7dbfb4ee73f478c303b007",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928651,
+            "region_id":85672123,
+            "venue_id":169651393
+        }
+    ],
+    "wof:id":169651393,
+    "wof:lastmodified":1449033346,
+    "wof:name":"CiteMan Network",
+    "wof:parent_id":85928651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business-management",
+        "human-resource-management",
+        "sales-management",
+        "operations-management",
+        "finance-management",
+        "jobs"
+    ]
+},
+  "bbox": [77.195962,28.565402,77.195962,28.565402],
+  "geometry": {"coordinates":[77.195962,28.565402],"type":"Point"}
+}

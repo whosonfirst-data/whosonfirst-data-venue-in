@@ -1,0 +1,65 @@
+{
+  "id": 169527007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.864418,19.115932,72.864418,19.115932",
+    "geom:latitude":19.115932,
+    "geom:longitude":72.864418,
+    "iso:country":"IN",
+    "sg:address":"13, Laxmi Compound, Andheri (east), Chakala,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2838 0683",
+    "sg:postcode":"400099",
+    "sg:tags":[
+        "equipment",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NOQZZCLkmmNNOl1USvAsf_19.115932_72.864418@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d15de166fb10ccad8f34f2e5a51dbe2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169527007
+        }
+    ],
+    "wof:id":169527007,
+    "wof:lastmodified":1449035279,
+    "wof:name":"Symbiosis Biotech",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "baker"
+    ]
+},
+  "bbox": [72.864418,19.115932,72.864418,19.115932],
+  "geometry": {"coordinates":[72.864418,19.115932],"type":"Point"}
+}

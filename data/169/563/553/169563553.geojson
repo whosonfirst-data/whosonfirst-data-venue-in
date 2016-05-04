@@ -1,0 +1,53 @@
+{
+  "id": 169563553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"82.224373,16.966202,82.224373,16.966202",
+    "geom:latitude":16.966202,
+    "geom:longitude":82.224373,
+    "iso:country":"IN",
+    "sg:address":"Gandhinagar",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2761 3399",
+    "sg:postcode":"500080",
+    "sg:province":"Andhra Pradesh",
+    "sg:website":"http://www.suprachem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029919,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5phP08QCagdETl9g7lCnnR_16.966202_82.224373@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"355520b21414304b5f99abdd6cea0ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029919,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169563553
+        }
+    ],
+    "wof:id":169563553,
+    "wof:lastmodified":1449032731,
+    "wof:name":"Suprachem",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [82.224373,16.966202,82.224373,16.966202],
+  "geometry": {"coordinates":[82.224373,16.966202],"type":"Point"}
+}

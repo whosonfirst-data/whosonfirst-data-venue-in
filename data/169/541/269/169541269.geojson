@@ -1,0 +1,64 @@
+{
+  "id": 169541269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.576729,12.972137,77.576729,12.972137",
+    "geom:latitude":12.972137,
+    "geom:longitude":77.576729,
+    "iso:country":"IN",
+    "sg:address":"179, Balepet Main Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2287 5335",
+    "sg:postcode":"560053",
+    "sg:tags":[
+        "snack"
+    ],
+    "sg:website":"http://www.indiamart.com/svsms/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jt9SSmlsrraaz8Rqi3V3Q_12.972137_77.576729@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bafa363b08bb7b5d60e4033a34754116",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169541269
+        }
+    ],
+    "wof:id":169541269,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Sri Venkateshwara Sweets Meat Stall",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack"
+    ]
+},
+  "bbox": [77.576729,12.972137,77.576729,12.972137],
+  "geometry": {"coordinates":[77.576729,12.972137],"type":"Point"}
+}

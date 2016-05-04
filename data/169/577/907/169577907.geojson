@@ -1,0 +1,63 @@
+{
+  "id": 169577907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.385635,22.605705,88.385635,22.605705",
+    "geom:latitude":22.605705,
+    "geom:longitude":88.385635,
+    "iso:country":"IN",
+    "sg:address":"224, A.j.c Bose Road, Room No. 517, 5th Floor, Krishna Building,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2287 6621",
+    "sg:postcode":"700017",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85932001,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nAcnwUDGsfIHJDpWZyQ4B_22.605705_88.385635@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"75cf5f984940e8ad774af6b0b969c06d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85932001,
+            "region_id":85672219,
+            "venue_id":169577907
+        }
+    ],
+    "wof:id":169577907,
+    "wof:lastmodified":1449036070,
+    "wof:name":"Greenland Fertilizers Limited",
+    "wof:parent_id":85932001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [88.385635,22.605705,88.385635,22.605705],
+  "geometry": {"coordinates":[88.385635,22.605705],"type":"Point"}
+}

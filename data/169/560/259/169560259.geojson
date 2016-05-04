@@ -1,0 +1,64 @@
+{
+  "id": 169560259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.838867,25.138891,75.838867,25.138891",
+    "geom:latitude":25.138891,
+    "geom:longitude":75.838867,
+    "iso:country":"IN",
+    "sg:address":"14, Mahaveer Nagar,",
+    "sg:city":"Indore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 731 403 8808",
+    "sg:postcode":"452001",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029669,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JG1tDs31vntbdNj9z9uAm_25.138891_75.838867@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c9e63c07976b7c24cb736942f4555d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029669,
+            "neighbourhood_id":-1,
+            "region_id":85672201,
+            "venue_id":169560259
+        }
+    ],
+    "wof:id":169560259,
+    "wof:lastmodified":1449035179,
+    "wof:name":"Demilune Laboratory",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [75.838867,25.138891,75.838867,25.138891],
+  "geometry": {"coordinates":[75.838867,25.138891],"type":"Point"}
+}

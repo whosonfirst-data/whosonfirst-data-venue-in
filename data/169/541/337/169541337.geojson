@@ -1,0 +1,63 @@
+{
+  "id": 169541337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.614868,12.970896,77.614868,12.970896",
+    "geom:latitude":12.970896,
+    "geom:longitude":77.614868,
+    "iso:country":"IN",
+    "sg:address":"# 201, 202, Prestige Loka, 7/1, Brunton Rd, B-25,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4112 1301",
+    "sg:postcode":"560075",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930841,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19YAh6RLrc9ABSxnXq0KPl_12.970896_77.614868@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6ae3a7fe42079a767d63f6145b74bc5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930841,
+            "region_id":85672165,
+            "venue_id":169541337
+        }
+    ],
+    "wof:id":169541337,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Cyber Werx",
+    "wof:parent_id":85930841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.614868,12.970896,77.614868,12.970896],
+  "geometry": {"coordinates":[77.614868,12.970896],"type":"Point"}
+}

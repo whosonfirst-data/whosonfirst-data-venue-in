@@ -1,0 +1,52 @@
+{
+  "id": 169539607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.590965,12.962548,77.590965,12.962548",
+    "geom:latitude":12.962548,
+    "geom:longitude":77.590965,
+    "iso:country":"IN",
+    "sg:address":"# 20/1, 1st Floor, Mission Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sarees",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560027",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57YtjMHr9qkp5rkyBYOCC2_12.962548_77.590965@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ede67ba6d58263fb3cbf2bed1a84fc81",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169539607
+        }
+    ],
+    "wof:id":169539607,
+    "wof:lastmodified":1449036037,
+    "wof:name":"The House Of Weavers",
+    "wof:parent_id":85930903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.590965,12.962548,77.590965,12.962548],
+  "geometry": {"coordinates":[77.590965,12.962548],"type":"Point"}
+}

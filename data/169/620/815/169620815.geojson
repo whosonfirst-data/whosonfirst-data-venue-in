@@ -1,0 +1,72 @@
+{
+  "id": 169620815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.239166,28.644369,77.239166,28.644369",
+    "geom:latitude":28.644369,
+    "geom:longitude":77.239166,
+    "iso:country":"IN",
+    "sg:address":"82/84, Kazi Sayeed Street,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2341 3599",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "acid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903843,
+        85632469,
+        102030425,
+        85672123,
+        85928091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yCVoGOIXGMhe9iUXN2CJM_28.644369_77.239166@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"99ead4b56d3a2dafa25810c234ffef1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85903843,
+            "region_id":85672123,
+            "venue_id":169620815
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928091,
+            "region_id":85672123,
+            "venue_id":169620815
+        }
+    ],
+    "wof:id":169620815,
+    "wof:lastmodified":1449035674,
+    "wof:name":"Shree Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [77.239166,28.644369,77.239166,28.644369],
+  "geometry": {"coordinates":[77.239166,28.644369],"type":"Point"}
+}

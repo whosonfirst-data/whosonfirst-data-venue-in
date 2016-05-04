@@ -1,0 +1,63 @@
+{
+  "id": 169603313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.155037,28.661768,77.155037,28.661768",
+    "geom:latitude":28.661768,
+    "geom:longitude":77.155037,
+    "iso:country":"IN",
+    "sg:address":"70, Rama Road, Bldg., A-33,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 6549 0003",
+    "sg:postcode":"110015",
+    "sg:tags":[
+        "polymer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927889,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FPLyJAlhERar8jEqNLsLo_28.661768_77.155037@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"038763886f37e71a4e6bd8e8d5deb713",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927889,
+            "region_id":85672123,
+            "venue_id":169603313
+        }
+    ],
+    "wof:id":169603313,
+    "wof:lastmodified":1449035453,
+    "wof:name":"Prayag Polyvinyl Pvt. Ltd.",
+    "wof:parent_id":85927889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [77.155037,28.661768,77.155037,28.661768],
+  "geometry": {"coordinates":[77.155037,28.661768],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169551183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.65799,23.076591,72.65799,23.076591",
+    "geom:latitude":23.076591,
+    "geom:longitude":72.65799,
+    "iso:country":"IN",
+    "sg:address":"902/1/b, Gidc Makkarpura,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 263 6965",
+    "sg:postcode":"390010",
+    "sg:tags":[
+        "body",
+        "equipment",
+        "gym"
+    ],
+    "sg:website":"http://www.atlasgymequip.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rTckbTDH4tD9xxZXsH9dy_23.076591_72.657990@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6e491d34faa6c152abfd11bb34ec0aff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169551183
+        }
+    ],
+    "wof:id":169551183,
+    "wof:lastmodified":1449033353,
+    "wof:name":"Atlas Gymnasium Equipments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "equipment",
+        "gym"
+    ]
+},
+  "bbox": [72.65799,23.076591,72.65799,23.076591],
+  "geometry": {"coordinates":[72.65799,23.076591],"type":"Point"}
+}

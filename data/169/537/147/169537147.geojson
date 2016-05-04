@@ -1,0 +1,71 @@
+{
+  "id": 169537147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.582115,12.910542,77.582115,12.910542",
+    "geom:latitude":12.910542,
+    "geom:longitude":77.582115,
+    "iso:country":"IN",
+    "sg:address":"44/1, Sarakki J.p. Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2653 3114",
+    "sg:postcode":"560078",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931057,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ySiYYVRKZqbUMdG5LK7YI_12.910542_77.582115@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"206918f948fe8a5c0c5b21c93347ce51",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931057,
+            "region_id":85672165,
+            "venue_id":169537147
+        }
+    ],
+    "wof:id":169537147,
+    "wof:lastmodified":1449033501,
+    "wof:name":"Empee Plastics",
+    "wof:parent_id":85931057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.582115,12.910542,77.582115,12.910542],
+  "geometry": {"coordinates":[77.582115,12.910542],"type":"Point"}
+}

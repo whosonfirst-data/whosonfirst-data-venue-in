@@ -1,0 +1,63 @@
+{
+  "id": 169529981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.906708,19.117649,72.906708,19.117649",
+    "geom:latitude":19.117649,
+    "geom:longitude":72.906708,
+    "iso:country":"IN",
+    "sg:address":"E-204, Jal Vayu Vihar, Nr. Hiranandani Gardens, Powai,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2570 2478",
+    "sg:postcode":"400076",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931519,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JqL9Nd7c70gVaoTK5A9Zm_19.117649_72.906708@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4378ac7a98d747957cd976275a7234f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931519,
+            "region_id":85672171,
+            "venue_id":169529981
+        }
+    ],
+    "wof:id":169529981,
+    "wof:lastmodified":1449034117,
+    "wof:name":"Unichem International",
+    "wof:parent_id":85931519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.906708,19.117649,72.906708,19.117649],
+  "geometry": {"coordinates":[72.906708,19.117649],"type":"Point"}
+}

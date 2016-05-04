@@ -1,0 +1,61 @@
+{
+  "id": 169641311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.247787,19.150879,73.247787,19.150879",
+    "geom:latitude":19.150879,
+    "geom:longitude":73.247787,
+    "iso:country":"IN",
+    "sg:address":"W-127(a), Midc, Kharvai,",
+    "sg:city":"Badlapur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 251 269 0440",
+    "sg:postcode":"421201",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JSlojzsXM7k6AKvfHw2F9_19.150879_73.247787@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4e973afdf455e45a8832c307c098c4e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169641311
+        }
+    ],
+    "wof:id":169641311,
+    "wof:lastmodified":1449035169,
+    "wof:name":"V.s. Bhave & Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [73.247787,19.150879,73.247787,19.150879],
+  "geometry": {"coordinates":[73.247787,19.150879],"type":"Point"}
+}

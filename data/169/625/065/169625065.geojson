@@ -1,0 +1,64 @@
+{
+  "id": 169625065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.557434,17.478985,78.557434,17.478985",
+    "geom:latitude":17.478985,
+    "geom:longitude":78.557434,
+    "iso:country":"IN",
+    "sg:address":"Plot No:173, Srinivasa Colony (w), S.r. Nagar Post,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 6661 1133",
+    "sg:postcode":"500038",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "sg:website":"http://www.sldrugs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930661,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61r0CMVKeIxoiRpck64zIF_17.478985_78.557434@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c5803ce49718f7a2f04cb624d889a514",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930661,
+            "region_id":85672141,
+            "venue_id":169625065
+        }
+    ],
+    "wof:id":169625065,
+    "wof:lastmodified":1449036025,
+    "wof:name":"Sl Drugs & Pharmaceuticals",
+    "wof:parent_id":85930661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [78.557434,17.478985,78.557434,17.478985],
+  "geometry": {"coordinates":[78.557434,17.478985],"type":"Point"}
+}

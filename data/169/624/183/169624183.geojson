@@ -1,0 +1,63 @@
+{
+  "id": 169624183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.034859,20.684992,77.034859,20.684992",
+    "geom:latitude":20.684992,
+    "geom:longitude":77.034859,
+    "iso:country":"IN",
+    "sg:address":"Plot No. A-39/40, Midc, Phase-i,",
+    "sg:city":"Dombivili",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 251 247 1367",
+    "sg:postcode":"421203",
+    "sg:tags":[
+        "solvent"
+    ],
+    "sg:website":"http://www.sigmasolvents.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031005,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D6jRlHqLMldaVxZKvm66k_20.684992_77.034859@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"467c9d276d5853f59028602490900674",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031005,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169624183
+        }
+    ],
+    "wof:id":169624183,
+    "wof:lastmodified":1449034959,
+    "wof:name":"Sigma Solvents Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solvent"
+    ]
+},
+  "bbox": [77.034859,20.684992,77.034859,20.684992],
+  "geometry": {"coordinates":[77.034859,20.684992],"type":"Point"}
+}

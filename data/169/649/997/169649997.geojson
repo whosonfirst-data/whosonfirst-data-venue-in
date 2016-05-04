@@ -1,0 +1,58 @@
+{
+  "id": 169649997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.829965,18.530164,73.829965,18.530164",
+    "geom:latitude":18.530164,
+    "geom:longitude":73.829965,
+    "iso:country":"IN",
+    "sg:address":"S-178 MIDC BHOSARI",
+    "sg:city":"PUNE",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"411026",
+    "sg:website":"http://evolve-india.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903811,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iCg01vGt5Fbvk2ypSvthO_18.530164_73.829965@1308163240"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2d324529e04af59ff60a98173480dc7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85903811,
+            "region_id":85672171,
+            "venue_id":169649997
+        }
+    ],
+    "wof:id":169649997,
+    "wof:lastmodified":1449034943,
+    "wof:name":"Evolve Technologies",
+    "wof:parent_id":85903811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [73.829965,18.530164,73.829965,18.530164],
+  "geometry": {"coordinates":[73.829965,18.530164],"type":"Point"}
+}

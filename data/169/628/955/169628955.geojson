@@ -1,0 +1,63 @@
+{
+  "id": 169628955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.481163,17.390066,78.481163,17.390066",
+    "geom:latitude":17.390066,
+    "geom:longitude":78.481163,
+    "iso:country":"IN",
+    "sg:address":"4-1-14, Tilak Road, Abids,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2650 1377",
+    "sg:postcode":"500001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930739,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vwNyAlxXnivuWWMLCGNjC_17.390066_78.481163@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9c5725c616ed9cd2d8e219e4b9288445",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930739,
+            "region_id":85672141,
+            "venue_id":169628955
+        }
+    ],
+    "wof:id":169628955,
+    "wof:lastmodified":1449035333,
+    "wof:name":"Standard Trading Company",
+    "wof:parent_id":85930739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.481163,17.390066,78.481163,17.390066],
+  "geometry": {"coordinates":[78.481163,17.390066],"type":"Point"}
+}

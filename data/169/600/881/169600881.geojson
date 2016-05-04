@@ -1,0 +1,63 @@
+{
+  "id": 169600881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.849396,19.173607,72.849396,19.173607",
+    "geom:latitude":19.173607,
+    "geom:longitude":72.849396,
+    "iso:country":"IN",
+    "sg:address":"F-538, Road No.1d, V.k.i. Area,`",
+    "sg:city":"Jaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 141 410 6346",
+    "sg:postcode":"302013",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yfVPcfQsfmm7pUJEN79t4_19.173607_72.849396@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f3143b14c9f49e1895b5b5f6cd00634b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169600881
+        }
+    ],
+    "wof:id":169600881,
+    "wof:lastmodified":1449032971,
+    "wof:name":"Pinkcity Resins Pvt. Ltd.",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [72.849396,19.173607,72.849396,19.173607],
+  "geometry": {"coordinates":[72.849396,19.173607],"type":"Point"}
+}

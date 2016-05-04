@@ -1,0 +1,69 @@
+{
+  "id": 169549733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.127663,28.685711,77.127663,28.685711",
+    "geom:latitude":28.685711,
+    "geom:longitude":77.127663,
+    "iso:country":"IN",
+    "sg:address":"C 37/20, Rishi Nagar (ext.),",
+    "sg:city":"Ujjain",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 734 251 0820",
+    "sg:postcode":"456001",
+    "sg:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927911,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aFtVzbAZ952sBhNfxeutv_28.685711_77.127663@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"369fa2e940956a6f2e7c2668bf00cc3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85927911,
+            "region_id":85672123,
+            "venue_id":169549733
+        }
+    ],
+    "wof:id":169549733,
+    "wof:lastmodified":1449033591,
+    "wof:name":"Shri Sai Group",
+    "wof:parent_id":85927911,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ]
+},
+  "bbox": [77.127663,28.685711,77.127663,28.685711],
+  "geometry": {"coordinates":[77.127663,28.685711],"type":"Point"}
+}

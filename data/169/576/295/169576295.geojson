@@ -1,0 +1,66 @@
+{
+  "id": 169576295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.175102,28.664825,77.175102,28.664825",
+    "geom:latitude":28.664825,
+    "geom:longitude":77.175102,
+    "iso:country":"IN",
+    "sg:address":"17/6 Anand Parbat Indl. Area, New Rohtak Road,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2571 6983",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "plant",
+        "processing"
+    ],
+    "sg:website":"http://www.bhaskarinterprises.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928115,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TIlfRbLysT2igA78G3oBf_28.664825_77.175102@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"da1afe5207d20cd97b07bc2851424fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928115,
+            "region_id":85672123,
+            "venue_id":169576295
+        }
+    ],
+    "wof:id":169576295,
+    "wof:lastmodified":1449035197,
+    "wof:name":"Bhaskar Enterprises",
+    "wof:parent_id":85928115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [77.175102,28.664825,77.175102,28.664825],
+  "geometry": {"coordinates":[77.175102,28.664825],"type":"Point"}
+}

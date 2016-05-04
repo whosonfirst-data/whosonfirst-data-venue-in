@@ -1,0 +1,65 @@
+{
+  "id": 169537863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.624115,13.010252,77.624115,13.010252",
+    "geom:latitude":13.010252,
+    "geom:longitude":77.624115,
+    "iso:country":"IN",
+    "sg:address":"8/35, 1st Floor, Hennur Main Road, Lingarajapuram,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2546 5724",
+    "sg:postcode":"560084",
+    "sg:tags":[
+        "component",
+        "pressed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930863,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rfebTu7aS51cWdqJK50Oc_13.010252_77.624115@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"521f6a9842e5e4c5bd116d82cbda5d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930863,
+            "region_id":85672165,
+            "venue_id":169537863
+        }
+    ],
+    "wof:id":169537863,
+    "wof:lastmodified":1449033498,
+    "wof:name":"Singh Engineering Works",
+    "wof:parent_id":85930863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "pressed"
+    ]
+},
+  "bbox": [77.624115,13.010252,77.624115,13.010252],
+  "geometry": {"coordinates":[77.624115,13.010252],"type":"Point"}
+}

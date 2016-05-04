@@ -1,0 +1,63 @@
+{
+  "id": 169560071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.190109,28.64922,77.190109,28.64922",
+    "geom:latitude":28.64922,
+    "geom:longitude":77.190109,
+    "iso:country":"IN",
+    "sg:address":"463, Neelkanth, Sector-13, Rohini,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2786 3183",
+    "sg:postcode":"110085",
+    "sg:tags":[
+        "polymer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928243,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q8p8hkTzuP2enjDTShhLU_28.649220_77.190109@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8451b2c3d9f889891899fb7b9e2ec87c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928243,
+            "region_id":85672123,
+            "venue_id":169560071
+        }
+    ],
+    "wof:id":169560071,
+    "wof:lastmodified":1449035181,
+    "wof:name":"Deebee Marketing Pvt. Ltd.",
+    "wof:parent_id":85928243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [77.190109,28.64922,77.190109,28.64922],
+  "geometry": {"coordinates":[77.190109,28.64922],"type":"Point"}
+}

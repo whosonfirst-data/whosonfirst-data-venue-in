@@ -1,0 +1,63 @@
+{
+  "id": 169582771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.359993,22.561852,88.359993,22.561852",
+    "geom:latitude":22.561852,
+    "geom:longitude":88.359993,
+    "iso:country":"IN",
+    "sg:address":"44-c, Indian Mirror Street,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2245 5763",
+    "sg:postcode":"700013",
+    "sg:tags":[
+        "fine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931931,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LAi5xKzHd0qvoxw35oqtk_22.561852_88.359993@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9276ccac63e92e5a7c3046901ac0da67",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931931,
+            "region_id":85672219,
+            "venue_id":169582771
+        }
+    ],
+    "wof:id":169582771,
+    "wof:lastmodified":1449034464,
+    "wof:name":"King Chemicals",
+    "wof:parent_id":85931931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fine"
+    ]
+},
+  "bbox": [88.359993,22.561852,88.359993,22.561852],
+  "geometry": {"coordinates":[88.359993,22.561852],"type":"Point"}
+}

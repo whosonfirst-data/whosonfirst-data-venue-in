@@ -1,0 +1,66 @@
+{
+  "id": 169548873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.85112,19.130119,72.85112,19.130119",
+    "geom:latitude":19.130119,
+    "geom:longitude":72.85112,
+    "iso:country":"IN",
+    "sg:address":"209, Road No 4, Subhash Nager,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 241 1946",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "plant",
+        "processing"
+    ],
+    "sg:website":"http://www.patelenterprises.net/enquiry.html#contact",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931515,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10PxFKmMj3uKzz0SGSBINV_19.130119_72.851120@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d3c8bf6949ac100ecaa0090afa7a22cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931515,
+            "region_id":85672171,
+            "venue_id":169548873
+        }
+    ],
+    "wof:id":169548873,
+    "wof:lastmodified":1449034973,
+    "wof:name":"Patel Enterprises",
+    "wof:parent_id":85931515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [72.85112,19.130119,72.85112,19.130119],
+  "geometry": {"coordinates":[72.85112,19.130119],"type":"Point"}
+}

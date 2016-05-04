@@ -1,0 +1,67 @@
+{
+  "id": 169527757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833992,18.950926,72.833992,18.950926",
+    "geom:latitude":18.950926,
+    "geom:longitude":72.833992,
+    "iso:country":"IN",
+    "sg:address":"72, Nagdevi Cross Lane,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2340 1353",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "spare",
+        "component",
+        "boilers"
+    ],
+    "sg:website":"http://www.reliableindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZFSiHDJqf7LNUPmZTeukS_18.950926_72.833992@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"da7f406266778875259b2383d901c741",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169527757
+        }
+    ],
+    "wof:id":169527757,
+    "wof:lastmodified":1449035277,
+    "wof:name":"Reliable Engineering Company",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "component",
+        "boilers"
+    ]
+},
+  "bbox": [72.833992,18.950926,72.833992,18.950926],
+  "geometry": {"coordinates":[72.833992,18.950926],"type":"Point"}
+}

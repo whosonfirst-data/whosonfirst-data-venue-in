@@ -1,0 +1,63 @@
+{
+  "id": 169542471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"79.071381,21.114597,79.071381,21.114597",
+    "geom:latitude":21.114597,
+    "geom:longitude":79.071381,
+    "iso:country":"IN",
+    "sg:address":"97/3, Residency Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 51 121671",
+    "sg:postcode":"560025",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903845,
+        85632469,
+        102029277,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XPTtCpt5zOe6ZuUxdm4YM_21.114597_79.071381@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7e3f7263ab98beec195f57be37d441ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029277,
+            "neighbourhood_id":85903845,
+            "region_id":85672171,
+            "venue_id":169542471
+        }
+    ],
+    "wof:id":169542471,
+    "wof:lastmodified":1449035220,
+    "wof:name":"Gng Storage Anf Metal Handling",
+    "wof:parent_id":85903845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [79.071381,21.114597,79.071381,21.114597],
+  "geometry": {"coordinates":[79.071381,21.114597],"type":"Point"}
+}

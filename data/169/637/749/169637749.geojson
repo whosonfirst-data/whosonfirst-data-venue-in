@@ -1,0 +1,63 @@
+{
+  "id": 169637749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.249786,13.048869,80.249786,13.048869",
+    "geom:latitude":13.048869,
+    "geom:longitude":80.249786,
+    "iso:country":"IN",
+    "sg:address":"180, Anna Salai,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2852 0781",
+    "sg:postcode":"600006",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903959,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T1jfyU7N9yvThY7SUpSEx_13.048869_80.249786@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2cf79e248d696417476bb29f946fd761",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903959,
+            "region_id":85672245,
+            "venue_id":169637749
+        }
+    ],
+    "wof:id":169637749,
+    "wof:lastmodified":1449032687,
+    "wof:name":"Tvs Tread",
+    "wof:parent_id":85903959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [80.249786,13.048869,80.249786,13.048869],
+  "geometry": {"coordinates":[80.249786,13.048869],"type":"Point"}
+}

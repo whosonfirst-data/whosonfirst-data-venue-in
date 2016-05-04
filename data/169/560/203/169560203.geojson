@@ -1,0 +1,64 @@
+{
+  "id": 169560203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.615784,12.973859,77.615784,12.973859",
+    "geom:latitude":12.973859,
+    "geom:longitude":77.615784,
+    "iso:country":"IN",
+    "sg:address":"105a, Mittal Towers,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2287 2218",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.demoshachemicals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931137,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RVFUM0leFAdnhIgPggmPO_12.973859_77.615784@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5a54726d851cb6431e262cba37c0772e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931137,
+            "region_id":85672165,
+            "venue_id":169560203
+        }
+    ],
+    "wof:id":169560203,
+    "wof:lastmodified":1449035180,
+    "wof:name":"Demosha Chemicals Pvt. Ltd.",
+    "wof:parent_id":85931137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.615784,12.973859,77.615784,12.973859],
+  "geometry": {"coordinates":[77.615784,12.973859],"type":"Point"}
+}

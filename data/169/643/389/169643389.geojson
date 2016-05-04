@@ -1,0 +1,65 @@
+{
+  "id": 169643389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.002357,19.142467,73.002357,19.142467",
+    "geom:latitude":19.142467,
+    "geom:longitude":73.002357,
+    "iso:country":"IN",
+    "sg:address":"R-422, M.i.d.c., Thane Belapur Road, Rabale,",
+    "sg:city":"Navi Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2769 1192",
+    "sg:postcode":"400701",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931409,
+        85632469,
+        102031117,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cbONfm4fOodNJkjmEBLv1_19.142467_73.002357@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4bdd0d0e037526196eca720b3242b132",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031117,
+            "neighbourhood_id":85931409,
+            "region_id":85672171,
+            "venue_id":169643389
+        }
+    ],
+    "wof:id":169643389,
+    "wof:lastmodified":1449035523,
+    "wof:name":"Vijay Chemical Industries",
+    "wof:parent_id":85931409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [73.002357,19.142467,73.002357,19.142467],
+  "geometry": {"coordinates":[73.002357,19.142467],"type":"Point"}
+}

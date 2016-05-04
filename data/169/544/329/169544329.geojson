@@ -1,0 +1,65 @@
+{
+  "id": 169544329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.590935,13.030369,77.590935,13.030369",
+    "geom:latitude":13.030369,
+    "geom:longitude":77.590935,
+    "iso:country":"IN",
+    "sg:address":"401, 3rd Main, Hmt Layout, Anandnagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2333 0386",
+    "sg:postcode":"560024",
+    "sg:tags":[
+        "voltage",
+        "stabilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931009,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kcMAvrAK8rVrSpld3sHU4_13.030369_77.590935@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8bf22527e785fa814b9bf22c2cd555fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931009,
+            "region_id":85672165,
+            "venue_id":169544329
+        }
+    ],
+    "wof:id":169544329,
+    "wof:lastmodified":1449035962,
+    "wof:name":"Ardent Electronic Enterprises",
+    "wof:parent_id":85931009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "voltage",
+        "stabilizer"
+    ]
+},
+  "bbox": [77.590935,13.030369,77.590935,13.030369],
+  "geometry": {"coordinates":[77.590935,13.030369],"type":"Point"}
+}

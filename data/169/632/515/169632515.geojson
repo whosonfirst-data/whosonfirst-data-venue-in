@@ -1,0 +1,63 @@
+{
+  "id": 169632515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.349823,22.576982,88.349823,22.576982",
+    "geom:latitude":22.576982,
+    "geom:longitude":88.349823,
+    "iso:country":"IN",
+    "sg:address":"5/1 Dr. Rajendra Prasad Sarani,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2231 3300",
+    "sg:postcode":"713303",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903957,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HjcX25NZ1fOjex4FGy8mO_22.576982_88.349823@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d631e26305f49beb387920ffc720b8c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903957,
+            "region_id":85672219,
+            "venue_id":169632515
+        }
+    ],
+    "wof:id":169632515,
+    "wof:lastmodified":1449034793,
+    "wof:name":"Sutapa Importers",
+    "wof:parent_id":85903957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [88.349823,22.576982,88.349823,22.576982],
+  "geometry": {"coordinates":[88.349823,22.576982],"type":"Point"}
+}

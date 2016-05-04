@@ -1,0 +1,64 @@
+{
+  "id": 169608805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.242668,28.57057,77.242668,28.57057",
+    "geom:latitude":28.57057,
+    "geom:longitude":77.242668,
+    "iso:country":"IN",
+    "sg:address":"O-36, 2nd Floor, Lajpat Nagar-ii,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4180 2286",
+    "sg:postcode":"110024",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "sg:website":"http://www.rampurfert.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927997,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26fWGbYwyP5QLoz15cLgos_28.570570_77.242668@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"116ea4e9837eea48a9b1a4efb9ef0e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927997,
+            "region_id":85672123,
+            "venue_id":169608805
+        }
+    ],
+    "wof:id":169608805,
+    "wof:lastmodified":1449034084,
+    "wof:name":"Rampur Fertilizers Limited",
+    "wof:parent_id":85927997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.242668,28.57057,77.242668,28.57057],
+  "geometry": {"coordinates":[77.242668,28.57057],"type":"Point"}
+}

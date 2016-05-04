@@ -1,0 +1,64 @@
+{
+  "id": 169542605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.56881,13.03832,77.56881,13.03832",
+    "geom:latitude":13.03832,
+    "geom:longitude":77.56881,
+    "iso:country":"IN",
+    "sg:address":"#94, 15th Cross Ii Phase, Ii Stage, Mahalakshmi Layout,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2349 8056",
+    "sg:postcode":"560086",
+    "sg:tags":[
+        "surgical"
+    ],
+    "sg:website":"http://www.surgitechenterprises.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930923,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MUBm7UPiPdx09sNniBsiz_13.038320_77.568810@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"24150069e1c1c5d342e5b3c7500845a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930923,
+            "region_id":85672165,
+            "venue_id":169542605
+        }
+    ],
+    "wof:id":169542605,
+    "wof:lastmodified":1449035219,
+    "wof:name":"Surgi Tech Enterprises",
+    "wof:parent_id":85930923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical"
+    ]
+},
+  "bbox": [77.56881,13.03832,77.56881,13.03832],
+  "geometry": {"coordinates":[77.56881,13.03832],"type":"Point"}
+}

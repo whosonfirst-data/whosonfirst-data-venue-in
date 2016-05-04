@@ -1,0 +1,63 @@
+{
+  "id": 169541803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.544853,13.009538,77.544853,13.009538",
+    "geom:latitude":13.009538,
+    "geom:longitude":77.544853,
+    "iso:country":"IN",
+    "sg:address":"1265, 11 Cross, 9 Main, 2 Stage, W.c. Road, Mahalakshmipuram,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2349 0005",
+    "sg:postcode":"560086",
+    "sg:tags":[
+        "speaker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WB36i31pEGGwjNBbrIsnL_13.009538_77.544853@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d8922690c3b44e579cda765601785bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169541803
+        }
+    ],
+    "wof:id":169541803,
+    "wof:lastmodified":1449033044,
+    "wof:name":"Gem Paints Ltd.",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "speaker"
+    ]
+},
+  "bbox": [77.544853,13.009538,77.544853,13.009538],
+  "geometry": {"coordinates":[77.544853,13.009538],"type":"Point"}
+}

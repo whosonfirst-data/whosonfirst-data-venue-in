@@ -1,0 +1,58 @@
+{
+  "id": 169583583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.191605,28.648075,77.191605,28.648075",
+    "geom:latitude":28.648075,
+    "geom:longitude":77.191605,
+    "iso:country":"IN",
+    "sg:address":"80/80, Cooper Ganj",
+    "sg:city":"Kanpur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Leather Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 512 252 3051",
+    "sg:postcode":"208001",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928243,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xVBWpDPETJnpuOTbHjkQN_28.648075_77.191605@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d139883afa073d4f15b7b39ae877ab2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928243,
+            "region_id":85672123,
+            "venue_id":169583583
+        }
+    ],
+    "wof:id":169583583,
+    "wof:lastmodified":1449035266,
+    "wof:name":"Kumar Chemicals",
+    "wof:parent_id":85928243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.191605,28.648075,77.191605,28.648075],
+  "geometry": {"coordinates":[77.191605,28.648075],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169533011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.804253,18.951702,72.804253,18.951702",
+    "geom:latitude":18.951702,
+    "geom:longitude":72.804253,
+    "iso:country":"IN",
+    "sg:address":"51, Sagar Mahal, 65, Walkeshwar Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2367 4822",
+    "sg:postcode":"400006",
+    "sg:tags":[
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903909,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1q2xxH8212RBrCWeJXrfIQ_18.951702_72.804253@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"272ce681579025d7ea95bfcc8fb10cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903909,
+            "region_id":-1,
+            "venue_id":169533011
+        }
+    ],
+    "wof:id":169533011,
+    "wof:lastmodified":1449032643,
+    "wof:name":"Amrita Gems",
+    "wof:parent_id":85903909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.804253,18.951702,72.804253,18.951702],
+  "geometry": {"coordinates":[72.804253,18.951702],"type":"Point"}
+}

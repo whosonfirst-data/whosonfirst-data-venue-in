@@ -1,0 +1,72 @@
+{
+  "id": 169537259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.547539,13.014249,77.547539,13.014249",
+    "geom:latitude":13.014249,
+    "geom:longitude":77.547539,
+    "iso:country":"IN",
+    "sg:address":"D-425, 10th Main, 2nd Stage, Peenya Industrial Estate,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2836 2280",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "sg:website":"http://www.accuspirals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JGc4xekcUiJVgkyvQFU4o_13.014249_77.547539@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4f853292184092a3e96e3e1eda8d1761",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169537259
+        }
+    ],
+    "wof:id":169537259,
+    "wof:lastmodified":1449033499,
+    "wof:name":"Accuspirals",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.547539,13.014249,77.547539,13.014249],
+  "geometry": {"coordinates":[77.547539,13.014249],"type":"Point"}
+}

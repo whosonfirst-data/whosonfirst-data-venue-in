@@ -1,0 +1,63 @@
+{
+  "id": 169579913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.27787,28.534464,77.27787,28.534464",
+    "geom:latitude":28.534464,
+    "geom:longitude":77.27787,
+    "iso:country":"IN",
+    "sg:address":"F-49, Okhla Industrial Area-i,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2681 6487",
+    "sg:postcode":"110020",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927991,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0b6mF1P4BEJxDegVQJ4P93_28.534464_77.277870@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6a4fdac35c7da1bd22f096aed473ad93",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927991,
+            "region_id":85672123,
+            "venue_id":169579913
+        }
+    ],
+    "wof:id":169579913,
+    "wof:lastmodified":1449033741,
+    "wof:name":"Intech India Pvt. Ltd.",
+    "wof:parent_id":85927991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [77.27787,28.534464,77.27787,28.534464],
+  "geometry": {"coordinates":[77.27787,28.534464],"type":"Point"}
+}

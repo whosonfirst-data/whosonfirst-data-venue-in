@@ -1,0 +1,67 @@
+{
+  "id": 169583311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.873703,19.198238,72.873703,19.198238",
+    "geom:latitude":19.198238,
+    "geom:longitude":72.873703,
+    "iso:country":"IN",
+    "sg:address":"Lokhandwala Complex, Kandivali (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2846 6185",
+    "sg:postcode":"400101",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931529,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KniTI69xvO6zXXbyRqsbp_19.198238_72.873703@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f72d1f0961944af6927e34523a7eda09",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931529,
+            "region_id":85672171,
+            "venue_id":169583311
+        }
+    ],
+    "wof:id":169583311,
+    "wof:lastmodified":1449035266,
+    "wof:name":"Krish Pharma",
+    "wof:parent_id":85931529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [72.873703,19.198238,72.873703,19.198238],
+  "geometry": {"coordinates":[72.873703,19.198238],"type":"Point"}
+}

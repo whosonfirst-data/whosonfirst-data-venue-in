@@ -1,0 +1,63 @@
+{
+  "id": 169559545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.490532,17.434963,78.490532,17.434963",
+    "geom:latitude":17.434963,
+    "geom:longitude":78.490532,
+    "iso:country":"IN",
+    "sg:address":"5-5-156, 1st Floor, Opp. Lala Temple, Ranigunj,",
+    "sg:city":"Secunderabad",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2771 4695",
+    "sg:postcode":"500003",
+    "sg:tags":[
+        "acid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930705,
+        85632469,
+        102028703,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XAdWPJ1wbhKn8i83tkY9z_17.434963_78.490532@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"80bcf05d8317ca36c93ab985b7d3bb40",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028703,
+            "neighbourhood_id":85930705,
+            "region_id":85672141,
+            "venue_id":169559545
+        }
+    ],
+    "wof:id":169559545,
+    "wof:lastmodified":1449035236,
+    "wof:name":"Comet Chemicals",
+    "wof:parent_id":85930705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [78.490532,17.434963,78.490532,17.434963],
+  "geometry": {"coordinates":[78.490532,17.434963],"type":"Point"}
+}

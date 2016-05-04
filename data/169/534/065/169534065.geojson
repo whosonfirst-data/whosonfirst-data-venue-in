@@ -1,0 +1,64 @@
+{
+  "id": 169534065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.834503,19.114763,72.834503,19.114763",
+    "geom:latitude":19.114763,
+    "geom:longitude":72.834503,
+    "iso:country":"IN",
+    "sg:address":"50, Juhu Supreme Shopping Center, Gulmohar Cross Road No. 9,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2670 1055",
+    "sg:postcode":"400049",
+    "sg:tags":[
+        "medication",
+        "drug"
+    ],
+    "sg:website":"http://www.medicoremedies",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931479,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QAXIZkqbhvg0mM5RwJmHA_19.114763_72.834503@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5470fb7254fb2d41ff6d2cda2df6549e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931479,
+            "region_id":-1,
+            "venue_id":169534065
+        }
+    ],
+    "wof:id":169534065,
+    "wof:lastmodified":1449033553,
+    "wof:name":"Medico Remedies Pvt. Ltd.",
+    "wof:parent_id":85931479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medication",
+        "drug"
+    ]
+},
+  "bbox": [72.834503,19.114763,72.834503,19.114763],
+  "geometry": {"coordinates":[72.834503,19.114763],"type":"Point"}
+}

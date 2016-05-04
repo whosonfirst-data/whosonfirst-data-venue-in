@@ -1,0 +1,67 @@
+{
+  "id": 169646387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.234047,13.04322,80.234047,13.04322",
+    "geom:latitude":13.04322,
+    "geom:longitude":80.234047,
+    "iso:country":"IN",
+    "sg:address":"25/2, Mathamuni Street, T. Nagar,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2815 7899",
+    "sg:postcode":"600017",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903981,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WN0qefdPdOmP0n220pJrs_13.043220_80.234047@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"dcfb5e6e6d75d4f24dd658e3aa6486eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903981,
+            "region_id":85672245,
+            "venue_id":169646387
+        }
+    ],
+    "wof:id":169646387,
+    "wof:lastmodified":1449032609,
+    "wof:name":"Western India Paint & Colour Co. (p) Ltd.",
+    "wof:parent_id":85903981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [80.234047,13.04322,80.234047,13.04322],
+  "geometry": {"coordinates":[80.234047,13.04322],"type":"Point"}
+}

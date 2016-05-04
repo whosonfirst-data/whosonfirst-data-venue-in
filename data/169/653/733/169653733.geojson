@@ -1,0 +1,69 @@
+{
+  "id": 169653733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.251538,13.088373,80.251538,13.088373",
+    "geom:latitude":13.088373,
+    "geom:longitude":80.251538,
+    "iso:country":"IN",
+    "sg:address":"#5 Sadasivam Street Gopalapuram",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"600086",
+    "sg:tags":[
+        "editing",
+        "copy-editing",
+        "proofreading",
+        "resume-writing"
+    ],
+    "sg:website":"http://www.contentconcepts.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903949,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JBXnK5VEkSTfwtJnQ1gMc_13.088373_80.251538@1308163242"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"128edff401ed0614a4573c39ec40c476",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903949,
+            "region_id":85672245,
+            "venue_id":169653733
+        }
+    ],
+    "wof:id":169653733,
+    "wof:lastmodified":1449032916,
+    "wof:name":"ContentConcepts",
+    "wof:parent_id":85903949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "editing",
+        "copy-editing",
+        "proofreading",
+        "resume-writing"
+    ]
+},
+  "bbox": [80.251538,13.088373,80.251538,13.088373],
+  "geometry": {"coordinates":[80.251538,13.088373],"type":"Point"}
+}

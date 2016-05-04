@@ -1,0 +1,64 @@
+{
+  "id": 169545887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"79.279648,17.062149,79.279648,17.062149",
+    "geom:latitude":17.062149,
+    "geom:longitude":79.279648,
+    "iso:country":"IN",
+    "sg:address":"15/8-7, Padmavathi Nagar,",
+    "sg:city":"Tirupati",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 877 224 4239",
+    "sg:postcode":"517514",
+    "sg:tags":[
+        "voltage",
+        "stabilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029263,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sasdb6OZMf1x3xQGWJfVZ_17.062149_79.279648@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6f1713cc573caf8124b135d139a22041",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029263,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169545887
+        }
+    ],
+    "wof:id":169545887,
+    "wof:lastmodified":1449033487,
+    "wof:name":"Sri Lakshmi Venkateswara Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "voltage",
+        "stabilizer"
+    ]
+},
+  "bbox": [79.279648,17.062149,79.279648,17.062149],
+  "geometry": {"coordinates":[79.279648,17.062149],"type":"Point"}
+}

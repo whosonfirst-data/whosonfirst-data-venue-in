@@ -1,0 +1,63 @@
+{
+  "id": 169579541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.341057,28.660917,77.341057,28.660917",
+    "geom:latitude":28.660917,
+    "geom:longitude":77.341057,
+    "iso:country":"IN",
+    "sg:address":"B-50/15, Site Iv, Sahibabad Industrial Area,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2397 2614",
+    "sg:postcode":"201010",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.autotractorparts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y6f3CKFGsMnxYxvH3J90s_28.660917_77.341057@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9d1249af4bfb4f83e2805b0034c77b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169579541
+        }
+    ],
+    "wof:id":169579541,
+    "wof:lastmodified":1449033739,
+    "wof:name":"India Automotives",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.341057,28.660917,77.341057,28.660917],
+  "geometry": {"coordinates":[77.341057,28.660917],"type":"Point"}
+}

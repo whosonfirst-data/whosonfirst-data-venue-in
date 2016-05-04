@@ -1,0 +1,64 @@
+{
+  "id": 169531711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.820526,18.965881,72.820526,18.965881",
+    "geom:latitude":18.965881,
+    "geom:longitude":72.820526,
+    "iso:country":"IN",
+    "sg:address":"1501-b, Pratiksha Towers, R.s. Nimkar Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2305 0931",
+    "sg:postcode":"400008",
+    "sg:tags":[
+        "curtain"
+    ],
+    "sg:website":"http://www.artifactsdecor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903971,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CflfvRk1e9fE38DNkNCiH_18.965881_72.820526@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4229862ddfaeed3a637b6983896f2e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903971,
+            "region_id":85672171,
+            "venue_id":169531711
+        }
+    ],
+    "wof:id":169531711,
+    "wof:lastmodified":1449033475,
+    "wof:name":"Artifacts Decor",
+    "wof:parent_id":85903971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "curtain"
+    ]
+},
+  "bbox": [72.820526,18.965881,72.820526,18.965881],
+  "geometry": {"coordinates":[72.820526,18.965881],"type":"Point"}
+}

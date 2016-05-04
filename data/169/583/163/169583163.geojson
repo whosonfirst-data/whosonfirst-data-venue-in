@@ -1,0 +1,68 @@
+{
+  "id": 169583163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.820374,18.993189,72.820374,18.993189",
+    "geom:latitude":18.993189,
+    "geom:longitude":72.820374,
+    "iso:country":"IN",
+    "sg:address":"Parijat House, 1076, Dr. E. Moses Rd., Worli,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5662 7000",
+    "sg:postcode":"400018",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "sg:website":"http://www.kopran.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931421,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iQwaaOYtckkICqg2hFIxm_18.993189_72.820374@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3ce37edb3d6af163c5dd0c6adceca6f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931421,
+            "region_id":85672171,
+            "venue_id":169583163
+        }
+    ],
+    "wof:id":169583163,
+    "wof:lastmodified":1449035268,
+    "wof:name":"Kopran Limited",
+    "wof:parent_id":85931421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [72.820374,18.993189,72.820374,18.993189],
+  "geometry": {"coordinates":[72.820374,18.993189],"type":"Point"}
+}

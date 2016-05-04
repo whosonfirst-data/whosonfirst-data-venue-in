@@ -1,0 +1,63 @@
+{
+  "id": 169639247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.306595,28.336205,77.306595,28.336205",
+    "geom:latitude":28.336205,
+    "geom:longitude":77.306595,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 18, Sector 25,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 406 0624",
+    "sg:postcode":"121004",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.uniquerubber.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903787,
+        85632469,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XDDV9eAqXpGp2nBjcqYJ8_28.336205_77.306595@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"eb3d67090c1f92dfb87fad2233ac45f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85903787,
+            "region_id":85672133,
+            "venue_id":169639247
+        }
+    ],
+    "wof:id":169639247,
+    "wof:lastmodified":1449035951,
+    "wof:name":"Unique Rubber Udyog",
+    "wof:parent_id":85903787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.306595,28.336205,77.306595,28.336205],
+  "geometry": {"coordinates":[77.306595,28.336205],"type":"Point"}
+}

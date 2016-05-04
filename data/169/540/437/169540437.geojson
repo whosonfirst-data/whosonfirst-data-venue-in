@@ -1,0 +1,66 @@
+{
+  "id": 169540437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.596481,12.906919,77.596481,12.906919",
+    "geom:latitude":12.906919,
+    "geom:longitude":77.596481,
+    "iso:country":"IN",
+    "sg:address":"13/1, 14th Cross, S.r. Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2223 4804",
+    "sg:postcode":"560027",
+    "sg:tags":[
+        "garment",
+        "silk"
+    ],
+    "sg:website":"http://www.garb-a-fab.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931061,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IPUv8nr0BPP2SKRXckDhd_12.906919_77.596481@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"47ebc92eaa0828a0fc4d4ef23a274ff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931061,
+            "region_id":85672165,
+            "venue_id":169540437
+        }
+    ],
+    "wof:id":169540437,
+    "wof:lastmodified":1449033977,
+    "wof:name":"Sri Venkateshwara Textiles",
+    "wof:parent_id":85931061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "silk"
+    ]
+},
+  "bbox": [77.596481,12.906919,77.596481,12.906919],
+  "geometry": {"coordinates":[77.596481,12.906919],"type":"Point"}
+}

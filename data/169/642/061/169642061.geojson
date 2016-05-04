@@ -1,0 +1,62 @@
+{
+  "id": 169642061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.376945,28.680077,77.376945,28.680077",
+    "geom:latitude":28.680077,
+    "geom:longitude":77.376945,
+    "iso:country":"IN",
+    "sg:address":"168-169, Anand Indl. Esatate Mohan Nagar,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 265 7177",
+    "sg:postcode":"2001701",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LjH0XQ0RsLgonaK9kGAlt_28.680077_77.376945@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"05b1c5a0c14f7ac7c1fe4ba4ffd0f2ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169642061
+        }
+    ],
+    "wof:id":169642061,
+    "wof:lastmodified":1449032880,
+    "wof:name":"Varshchem Enterprises Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [77.376945,28.680077,77.376945,28.680077],
+  "geometry": {"coordinates":[77.376945,28.680077],"type":"Point"}
+}

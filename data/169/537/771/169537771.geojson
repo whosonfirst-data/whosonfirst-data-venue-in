@@ -1,0 +1,64 @@
+{
+  "id": 169537771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.523338,13.024735,77.523338,13.024735",
+    "geom:latitude":13.024735,
+    "geom:longitude":77.523338,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 222, 8th Main, 3rd Phase, Peenya Industrial Area,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4117 0702",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "component",
+        "pressed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uNkh2FweJHfbh1QPtG1KW_13.024735_77.523338@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f88ade92c7f88109b5ed5a47d1b42f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169537771
+        }
+    ],
+    "wof:id":169537771,
+    "wof:lastmodified":1449033498,
+    "wof:name":"Pressed Products",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "pressed"
+    ]
+},
+  "bbox": [77.523338,13.024735,77.523338,13.024735],
+  "geometry": {"coordinates":[77.523338,13.024735],"type":"Point"}
+}

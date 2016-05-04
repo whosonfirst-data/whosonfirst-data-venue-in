@@ -1,0 +1,65 @@
+{
+  "id": 169528091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.824829,18.957212,72.824829,18.957212",
+    "geom:latitude":18.957212,
+    "geom:longitude":72.824829,
+    "iso:country":"IN",
+    "sg:address":"238-a, Khetwadi Main Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2388 0176",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "clutch",
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931435,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Cf9yMEMiSFcegzYwvMuET_18.957212_72.824829@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ee916149f1c902fc613fb15d3ec1c9af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931435,
+            "region_id":85672171,
+            "venue_id":169528091
+        }
+    ],
+    "wof:id":169528091,
+    "wof:lastmodified":1449033567,
+    "wof:name":"Auto & Electro Co.",
+    "wof:parent_id":85931435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clutch",
+        "brake"
+    ]
+},
+  "bbox": [72.824829,18.957212,72.824829,18.957212],
+  "geometry": {"coordinates":[72.824829,18.957212],"type":"Point"}
+}

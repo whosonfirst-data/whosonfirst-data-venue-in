@@ -1,0 +1,66 @@
+{
+  "id": 169544509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.713173,12.963557,77.713173,12.963557",
+    "geom:latitude":12.963557,
+    "geom:longitude":77.713173,
+    "iso:country":"IN",
+    "sg:address":"261, A Block 1st Main, Aecs Layout Kundalahalli,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2847 6697",
+    "sg:postcode":"560037",
+    "sg:tags":[
+        "watch",
+        "clock"
+    ],
+    "sg:website":"http://www.condorgroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931159,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w6bhb64qc1RJrSftGdHwL_12.963557_77.713173@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4296af7534ce73a268abf3dd2f219f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931159,
+            "region_id":85672165,
+            "venue_id":169544509
+        }
+    ],
+    "wof:id":169544509,
+    "wof:lastmodified":1449035962,
+    "wof:name":"Condor Watch Straps (i) Pvt. Ltd.",
+    "wof:parent_id":85931159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "watch",
+        "clock"
+    ]
+},
+  "bbox": [77.713173,12.963557,77.713173,12.963557],
+  "geometry": {"coordinates":[77.713173,12.963557],"type":"Point"}
+}

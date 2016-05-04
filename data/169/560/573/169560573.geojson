@@ -1,0 +1,63 @@
+{
+  "id": 169560573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.865578,19.132067,72.865578,19.132067",
+    "geom:latitude":19.132067,
+    "geom:longitude":72.865578,
+    "iso:country":"IN",
+    "sg:address":"602/20b, Bimbisar Nagar, Goregaon East,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2685 2819",
+    "sg:postcode":"400065",
+    "sg:tags":[
+        "chemical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931515,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uaB2Le7OXOvdaZ8m1feD8_19.132067_72.865578@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"865ebbb2ef19b407f4517a9d4890073e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931515,
+            "region_id":85672171,
+            "venue_id":169560573
+        }
+    ],
+    "wof:id":169560573,
+    "wof:lastmodified":1449035181,
+    "wof:name":"Divine Chemicals Company",
+    "wof:parent_id":85931515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical"
+    ]
+},
+  "bbox": [72.865578,19.132067,72.865578,19.132067],
+  "geometry": {"coordinates":[72.865578,19.132067],"type":"Point"}
+}

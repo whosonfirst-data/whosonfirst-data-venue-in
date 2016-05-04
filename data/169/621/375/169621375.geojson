@@ -1,0 +1,63 @@
+{
+  "id": 169621375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.18734,28.66493,77.18734,28.66493",
+    "geom:latitude":28.66493,
+    "geom:longitude":77.18734,
+    "iso:country":"IN",
+    "sg:address":"9947, Sarai Rohilla,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2871 3761",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "pigment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903883,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ehoEbNkHMNwUKYeasdFO7_28.664930_77.187340@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b91ee688f3882bf51847cd51e26cd4c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903883,
+            "region_id":85672123,
+            "venue_id":169621375
+        }
+    ],
+    "wof:id":169621375,
+    "wof:lastmodified":1449035559,
+    "wof:name":"Shree Shyam Chem",
+    "wof:parent_id":85903883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [77.18734,28.66493,77.18734,28.66493],
+  "geometry": {"coordinates":[77.18734,28.66493],"type":"Point"}
+}

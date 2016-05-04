@@ -1,0 +1,66 @@
+{
+  "id": 169537893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.544014,12.971944,77.544014,12.971944",
+    "geom:latitude":12.971944,
+    "geom:longitude":77.544014,
+    "iso:country":"IN",
+    "sg:address":"7, 3rd Cross, 4th Main, Industrial Town, Rajaji Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4128 7206",
+    "sg:postcode":"560044",
+    "sg:tags":[
+        "component",
+        "pressed"
+    ],
+    "sg:website":"http://www.ragaprecisions.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QmISXdajBPpw6ZN6X9pq0_12.971944_77.544014@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"03a2693a88a1315dc4c7ef5ce4c5b05e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169537893
+        }
+    ],
+    "wof:id":169537893,
+    "wof:lastmodified":1449033499,
+    "wof:name":"Raga Precisions",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "pressed"
+    ]
+},
+  "bbox": [77.544014,12.971944,77.544014,12.971944],
+  "geometry": {"coordinates":[77.544014,12.971944],"type":"Point"}
+}

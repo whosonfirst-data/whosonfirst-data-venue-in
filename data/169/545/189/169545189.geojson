@@ -1,0 +1,62 @@
+{
+  "id": 169545189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.82579,19.060612,72.82579,19.060612",
+    "geom:latitude":19.060612,
+    "geom:longitude":72.82579,
+    "iso:country":"IN",
+    "sg:address":"No. 9, St. John Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2558 8182",
+    "sg:postcode":"500042",
+    "sg:tags":[
+        "zipper"
+    ],
+    "sg:website":"http://www.sajawat.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931581,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A1mK4pbkKFZPj0OdMagqk_19.060612_72.825790@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3105f8fe02f2695bf92fd598438367eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931581,
+            "region_id":-1,
+            "venue_id":169545189
+        }
+    ],
+    "wof:id":169545189,
+    "wof:lastmodified":1449033487,
+    "wof:name":"Sajawat Industries Ltd.",
+    "wof:parent_id":85931581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "zipper"
+    ]
+},
+  "bbox": [72.82579,19.060612,72.82579,19.060612],
+  "geometry": {"coordinates":[72.82579,19.060612],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169531625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.837463,18.953346,72.837463,18.953346",
+    "geom:latitude":18.953346,
+    "geom:longitude":72.837463,
+    "iso:country":"IN",
+    "sg:address":"212, Yusuf Meherali Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6553 2709",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "pulley",
+        "coupling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JEpaDyd2rflAPmVIxDEqi_18.953346_72.837463@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3b2105f30e033047e5dc9b70bdb3797f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169531625
+        }
+    ],
+    "wof:id":169531625,
+    "wof:lastmodified":1449033476,
+    "wof:name":"Ravi Transmission Products",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pulley",
+        "coupling"
+    ]
+},
+  "bbox": [72.837463,18.953346,72.837463,18.953346],
+  "geometry": {"coordinates":[72.837463,18.953346],"type":"Point"}
+}

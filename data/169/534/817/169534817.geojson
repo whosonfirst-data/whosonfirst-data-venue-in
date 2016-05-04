@@ -1,0 +1,70 @@
+{
+  "id": 169534817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831146,18.947405,72.831146,18.947405",
+    "geom:latitude":18.947405,
+    "geom:longitude":72.831146,
+    "iso:country":"IN",
+    "sg:address":"Devkaran Mansion, 46, Vithaldas Road, Lohar Chawl,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2205 8547",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "transmission",
+        "line",
+        "good",
+        "electrical"
+    ],
+    "sg:website":"http://www.camaxindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FsigvpOLFcchXT132XvWW_18.947405_72.831146@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c9256d1ad469d18e6801e00964e1adc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169534817
+        }
+    ],
+    "wof:id":169534817,
+    "wof:lastmodified":1449033551,
+    "wof:name":"Camax (india)",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "line",
+        "good",
+        "electrical"
+    ]
+},
+  "bbox": [72.831146,18.947405,72.831146,18.947405],
+  "geometry": {"coordinates":[72.831146,18.947405],"type":"Point"}
+}

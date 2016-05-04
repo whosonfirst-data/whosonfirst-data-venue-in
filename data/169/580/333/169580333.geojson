@@ -1,0 +1,62 @@
+{
+  "id": 169580333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.260666,13.061556,80.260666,13.061556",
+    "geom:latitude":13.061556,
+    "geom:longitude":80.260666,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 893, Mie,",
+    "sg:city":"Bahadurgarh",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"124501",
+    "sg:tags":[
+        "dye"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931755,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o3QI0n3S7ph7F2srFsbh8_13.061556_80.260666@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6a613ceedc5394977252677dbdc91f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931755,
+            "region_id":85672245,
+            "venue_id":169580333
+        }
+    ],
+    "wof:id":169580333,
+    "wof:lastmodified":1449034916,
+    "wof:name":"J.k. Foundry",
+    "wof:parent_id":85931755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye"
+    ]
+},
+  "bbox": [80.260666,13.061556,80.260666,13.061556],
+  "geometry": {"coordinates":[80.260666,13.061556],"type":"Point"}
+}

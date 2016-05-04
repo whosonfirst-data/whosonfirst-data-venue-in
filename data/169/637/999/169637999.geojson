@@ -1,0 +1,62 @@
+{
+  "id": 169637999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"81.331688,21.195816,81.331688,21.195816",
+    "geom:latitude":21.195816,
+    "geom:longitude":81.331688,
+    "iso:country":"IN",
+    "sg:address":"129, Sector-7a,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 400 3889",
+    "sg:postcode":"121006",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030693,
+        85672231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jkYwYnp6Wzc9rO89GjdVF_21.195816_81.331688@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1f860ffedb9fc2f7240853cb5ba0c2cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030693,
+            "neighbourhood_id":-1,
+            "region_id":85672231,
+            "venue_id":169637999
+        }
+    ],
+    "wof:id":169637999,
+    "wof:lastmodified":1449032689,
+    "wof:name":"Tushar Remedies",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [81.331688,21.195816,81.331688,21.195816],
+  "geometry": {"coordinates":[81.331688,21.195816],"type":"Point"}
+}

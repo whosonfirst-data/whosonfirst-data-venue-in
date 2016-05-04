@@ -1,0 +1,64 @@
+{
+  "id": 169526217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.822403,18.925873,72.822403,18.925873",
+    "geom:latitude":18.925873,
+    "geom:longitude":72.822403,
+    "iso:country":"IN",
+    "sg:address":"98, Bajaj Bhawan, Nariman Point,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2202 4071",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "automobile"
+    ],
+    "sg:website":"http://www.lovson.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Aev9TWxtwdRLaV1r2ZmDd_18.925873_72.822403@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b13b41a24bcd05fed8e26ca9b04e9cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169526217
+        }
+    ],
+    "wof:id":169526217,
+    "wof:lastmodified":1449033702,
+    "wof:name":"Lovson Exports Ltd.",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [72.822403,18.925873,72.822403,18.925873],
+  "geometry": {"coordinates":[72.822403,18.925873],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169533997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.841042,18.976231,72.841042,18.976231",
+    "geom:latitude":18.976231,
+    "geom:longitude":72.841042,
+    "iso:country":"IN",
+    "sg:address":"97, Mustafa Bazar, Sant Savata Marg, Byculla,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Race Track",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2372 3090",
+    "sg:postcode":"400010",
+    "sg:tags":[
+        "doors/wooden",
+        "door",
+        "panel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903815,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76EkTQwlqc7OCR7y0ubJf1_18.976231_72.841042@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d2a3c149ae85186d03fa0014d3d0fb70",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903815,
+            "region_id":85672171,
+            "venue_id":169533997
+        }
+    ],
+    "wof:id":169533997,
+    "wof:lastmodified":1449032643,
+    "wof:name":"City Saw Mills",
+    "wof:parent_id":85903815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doors/wooden",
+        "door",
+        "panel"
+    ]
+},
+  "bbox": [72.841042,18.976231,72.841042,18.976231],
+  "geometry": {"coordinates":[72.841042,18.976231],"type":"Point"}
+}

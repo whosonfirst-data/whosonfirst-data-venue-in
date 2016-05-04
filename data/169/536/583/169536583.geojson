@@ -1,0 +1,63 @@
+{
+  "id": 169536583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.565048,12.945239,77.565048,12.945239",
+    "geom:latitude":12.945239,
+    "geom:longitude":77.565048,
+    "iso:country":"IN",
+    "sg:address":"1064, 8th Cross, B.s.k. 1st Stage, Ashoknagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2242 5944",
+    "sg:postcode":"560050",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930907,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bEV8wrRftr445VUFtVJ3H_12.945239_77.565048@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bab4c91bf732006f2b0831e4f6b882b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930907,
+            "region_id":85672165,
+            "venue_id":169536583
+        }
+    ],
+    "wof:id":169536583,
+    "wof:lastmodified":1449034659,
+    "wof:name":"Measurematics",
+    "wof:parent_id":85930907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.565048,12.945239,77.565048,12.945239],
+  "geometry": {"coordinates":[77.565048,12.945239],"type":"Point"}
+}

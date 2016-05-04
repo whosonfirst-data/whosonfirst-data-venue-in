@@ -1,0 +1,64 @@
+{
+  "id": 169578689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"84.859398,22.243811,84.859398,22.243811",
+    "geom:latitude":22.243811,
+    "geom:longitude":84.859398,
+    "iso:country":"IN",
+    "sg:address":"D-40, Sector-6,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 242 1800",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.waldmanco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933795,
+        85632469,
+        102028839,
+        85672157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jls7mQM1BRd7WMwhb2pUO_22.243811_84.859398@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"056a9c3d8dd438c3a0e469cfe2714aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028839,
+            "neighbourhood_id":85933795,
+            "region_id":85672157,
+            "venue_id":169578689
+        }
+    ],
+    "wof:id":169578689,
+    "wof:lastmodified":1449033521,
+    "wof:name":"Highland House Private Limited",
+    "wof:parent_id":85933795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [84.859398,22.243811,84.859398,22.243811],
+  "geometry": {"coordinates":[84.859398,22.243811],"type":"Point"}
+}

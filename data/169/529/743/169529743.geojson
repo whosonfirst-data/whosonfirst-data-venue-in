@@ -1,0 +1,64 @@
+{
+  "id": 169529743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.826363,18.930841,72.826363,18.930841",
+    "geom:latitude":18.930841,
+    "geom:longitude":72.826363,
+    "iso:country":"IN",
+    "sg:address":"14 J. Tata Road, Churchgate,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2282 1213",
+    "sg:postcode":"400020",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.syngenta.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931425,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1huivIZqHjNDLd9LEQIbzR_18.930841_72.826363@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8428b80e09d566a1013eb79a1b62d5c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931425,
+            "region_id":85672171,
+            "venue_id":169529743
+        }
+    ],
+    "wof:id":169529743,
+    "wof:lastmodified":1449034117,
+    "wof:name":"Syngenta India Limited",
+    "wof:parent_id":85931425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.826363,18.930841,72.826363,18.930841],
+  "geometry": {"coordinates":[72.826363,18.930841],"type":"Point"}
+}

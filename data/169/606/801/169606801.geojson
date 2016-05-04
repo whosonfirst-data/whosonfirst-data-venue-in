@@ -1,0 +1,64 @@
+{
+  "id": 169606801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.341057,28.660917,77.341057,28.660917",
+    "geom:latitude":28.660917,
+    "geom:longitude":77.341057,
+    "iso:country":"IN",
+    "sg:address":"S-4, Site-iv, Industrial Area,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2g09COYa3lAEwQSA2K5Hyp_28.660917_77.341057@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9d1249af4bfb4f83e2805b0034c77b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169606801
+        }
+    ],
+    "wof:id":169606801,
+    "wof:lastmodified":1449033202,
+    "wof:name":"R.g. Paints",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.341057,28.660917,77.341057,28.660917],
+  "geometry": {"coordinates":[77.341057,28.660917],"type":"Point"}
+}

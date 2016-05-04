@@ -1,0 +1,65 @@
+{
+  "id": 169525853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.830803,18.927418,72.830803,18.927418",
+    "geom:latitude":18.927418,
+    "geom:longitude":72.830803,
+    "iso:country":"IN",
+    "sg:address":"2-a, Elphinstone House, C.s.t., Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Unesco World Heritage Site",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2207 8310",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "dryer",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931425,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55xIFDoW6WKRYK5sp6GQJd_18.927418_72.830803@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"89a87e97613b914ff11ff2c317b1e103",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931425,
+            "region_id":85672171,
+            "venue_id":169525853
+        }
+    ],
+    "wof:id":169525853,
+    "wof:lastmodified":1449035273,
+    "wof:name":"Lamda Engineering Pvt. Ltd.",
+    "wof:parent_id":85931425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dryer",
+        "air"
+    ]
+},
+  "bbox": [72.830803,18.927418,72.830803,18.927418],
+  "geometry": {"coordinates":[72.830803,18.927418],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169526737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.948273,19.037886,72.948273,19.037886",
+    "geom:latitude":19.037886,
+    "geom:longitude":72.948273,
+    "iso:country":"IN",
+    "sg:address":"G/o/6 Cheeta Camp Trombay-88,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22264163270",
+    "sg:postcode":"400088",
+    "sg:tags":[
+        "case",
+        "bag"
+    ],
+    "sg:website":"http://www.bagsnluggages.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IrVzznKU8kKHgqBiQ4G61_19.037886_72.948273@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"252706840a40258b98b8700c89ca523f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903977,
+            "region_id":85672171,
+            "venue_id":169526737
+        }
+    ],
+    "wof:id":169526737,
+    "wof:lastmodified":1449033700,
+    "wof:name":"1st-class Gift Bags",
+    "wof:parent_id":85903977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "case",
+        "bag"
+    ]
+},
+  "bbox": [72.948273,19.037886,72.948273,19.037886],
+  "geometry": {"coordinates":[72.948273,19.037886],"type":"Point"}
+}

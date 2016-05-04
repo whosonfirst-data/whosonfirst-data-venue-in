@@ -1,0 +1,64 @@
+{
+  "id": 169530101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.832237,18.950575,72.832237,18.950575",
+    "geom:latitude":18.950575,
+    "geom:longitude":72.832237,
+    "iso:country":"IN",
+    "sg:address":"21, Mirza Street,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2342 6473",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "garment",
+        "childrenwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WDo1MwWKK4b2IzgZiPNLF_18.950575_72.832237@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b71c84ea692cc0d4f85590ff84a993d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169530101
+        }
+    ],
+    "wof:id":169530101,
+    "wof:lastmodified":1449034443,
+    "wof:name":"S. Shantilal & Co.",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "childrenwear"
+    ]
+},
+  "bbox": [72.832237,18.950575,72.832237,18.950575],
+  "geometry": {"coordinates":[72.832237,18.950575],"type":"Point"}
+}

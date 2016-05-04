@@ -1,0 +1,63 @@
+{
+  "id": 169617387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.209877,13.091213,80.209877,13.091213",
+    "geom:latitude":13.091213,
+    "geom:longitude":80.209877,
+    "iso:country":"IN",
+    "sg:address":"Z 16, 11th Street, Annanagar-west,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2621 6744",
+    "sg:postcode":"600040",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931701,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Sorm54YmmjOAepakxLNjz_13.091213_80.209877@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f385b29da20e81b799e72afd095607b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931701,
+            "region_id":85672245,
+            "venue_id":169617387
+        }
+    ],
+    "wof:id":169617387,
+    "wof:lastmodified":1449032802,
+    "wof:name":"Sayee Solvents",
+    "wof:parent_id":85931701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [80.209877,13.091213,80.209877,13.091213],
+  "geometry": {"coordinates":[80.209877,13.091213],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169588025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.175468,28.661507,77.175468,28.661507",
+    "geom:latitude":28.661507,
+    "geom:longitude":77.175468,
+    "iso:country":"IN",
+    "sg:address":"A-43, Street No. 7, Anand Parbat Indl. Area,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2572 1277",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "silicon"
+    ],
+    "sg:website":"http://www.indiamart.com/matmanplastics",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928115,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50A9kV23Taf671ibDj4qwD_28.661507_77.175468@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"de8df637b8fc1bd66d9e8a0685d0af03",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928115,
+            "region_id":85672123,
+            "venue_id":169588025
+        }
+    ],
+    "wof:id":169588025,
+    "wof:lastmodified":1449035310,
+    "wof:name":"Matman Plastics",
+    "wof:parent_id":85928115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silicon"
+    ]
+},
+  "bbox": [77.175468,28.661507,77.175468,28.661507],
+  "geometry": {"coordinates":[77.175468,28.661507],"type":"Point"}
+}

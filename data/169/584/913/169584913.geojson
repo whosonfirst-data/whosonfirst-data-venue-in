@@ -1,0 +1,68 @@
+{
+  "id": 169584913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.513054,13.035933,77.513054,13.035933",
+    "geom:latitude":13.035933,
+    "geom:longitude":77.513054,
+    "iso:country":"IN",
+    "sg:address":"No. 21-a, 3rd Main Road, 1st Phase, Peenya Industrial Area,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2332 2561",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "sg:website":"http://www.lakmepaint.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930987,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64nY0pCMVCOVcYpU0SqFTy_13.035933_77.513054@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7ee737ed3e32c1960fd10d09dc0287d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930987,
+            "region_id":85672165,
+            "venue_id":169584913
+        }
+    ],
+    "wof:id":169584913,
+    "wof:lastmodified":1449033038,
+    "wof:name":"Lpv Paints Specialities Pvt. Ltd.",
+    "wof:parent_id":85930987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.513054,13.035933,77.513054,13.035933],
+  "geometry": {"coordinates":[77.513054,13.035933],"type":"Point"}
+}

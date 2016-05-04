@@ -1,0 +1,71 @@
+{
+  "id": 169537597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.554588,12.988219,77.554588,12.988219",
+    "geom:latitude":12.988219,
+    "geom:longitude":77.554588,
+    "iso:country":"IN",
+    "sg:address":"M-123/124, Rajaji Nagar Industrial Estate, Rajaji Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2350 8077",
+    "sg:postcode":"560044",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nnOxfuQUUvzKsEULhErNY_12.988219_77.554588@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"42a5c96aab07bf54b1189af1a7009826",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169537597
+        }
+    ],
+    "wof:id":169537597,
+    "wof:lastmodified":1449033500,
+    "wof:name":"Yesdior Tools & Components",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.554588,12.988219,77.554588,12.988219],
+  "geometry": {"coordinates":[77.554588,12.988219],"type":"Point"}
+}

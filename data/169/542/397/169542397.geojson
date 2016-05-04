@@ -1,0 +1,67 @@
+{
+  "id": 169542397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.713531,12.965158,77.713531,12.965158",
+    "geom:latitude":12.965158,
+    "geom:longitude":77.713531,
+    "iso:country":"IN",
+    "sg:address":"289, Main Road, Whitefield,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2845 2171",
+    "sg:postcode":"560066",
+    "sg:tags":[
+        "steel",
+        "rolling",
+        "mill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931159,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_004xP0EyHMf6bQMMelOejW_12.965158_77.713531@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c325396a2d4814dec89220f99710ea24",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931159,
+            "region_id":85672165,
+            "venue_id":169542397
+        }
+    ],
+    "wof:id":169542397,
+    "wof:lastmodified":1449035220,
+    "wof:name":"Usha Marin Industries Ltd",
+    "wof:parent_id":85931159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "rolling",
+        "mill"
+    ]
+},
+  "bbox": [77.713531,12.965158,77.713531,12.965158],
+  "geometry": {"coordinates":[77.713531,12.965158],"type":"Point"}
+}

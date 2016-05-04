@@ -1,0 +1,65 @@
+{
+  "id": 169544911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.615021,12.998038,77.615021,12.998038",
+    "geom:latitude":12.998038,
+    "geom:longitude":77.615021,
+    "iso:country":"IN",
+    "sg:address":"41, Mosque Road, Fraser Town,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2548 3296",
+    "sg:tags":[
+        "wires/cables",
+        "accessory"
+    ],
+    "sg:website":"http://www.nareer-electricals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930871,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QkkxbFipxNS4ztJLSPJZX_12.998038_77.615021@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7cbecc0f6c90b57ac502ecd52b8ccfe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930871,
+            "region_id":85672165,
+            "venue_id":169544911
+        }
+    ],
+    "wof:id":169544911,
+    "wof:lastmodified":1449035963,
+    "wof:name":"Naseer Electricals (p) Ltd.",
+    "wof:parent_id":85930871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wires/cables",
+        "accessory"
+    ]
+},
+  "bbox": [77.615021,12.998038,77.615021,12.998038],
+  "geometry": {"coordinates":[77.615021,12.998038],"type":"Point"}
+}

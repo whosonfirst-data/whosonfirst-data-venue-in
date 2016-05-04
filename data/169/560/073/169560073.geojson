@@ -1,0 +1,67 @@
+{
+  "id": 169560073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.270111,28.507904,77.270111,28.507904",
+    "geom:latitude":28.507904,
+    "geom:longitude":77.270111,
+    "iso:country":"IN",
+    "sg:address":"57, Industrial Estate, Mehrauli Road,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 232 0889",
+    "sg:postcode":"122001",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903979,
+        85632469,
+        102029189,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QVU8vIRgOsXE2MF2TYSxs_28.507904_77.270111@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1a57b38ed214662f3ee3ed64f8d417a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903979,
+            "region_id":85672133,
+            "venue_id":169560073
+        }
+    ],
+    "wof:id":169560073,
+    "wof:lastmodified":1449035180,
+    "wof:name":"Deena Paints Ltd.",
+    "wof:parent_id":85903979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.270111,28.507904,77.270111,28.507904],
+  "geometry": {"coordinates":[77.270111,28.507904],"type":"Point"}
+}

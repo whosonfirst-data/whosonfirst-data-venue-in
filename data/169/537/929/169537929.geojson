@@ -1,0 +1,65 @@
+{
+  "id": 169537929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.554436,12.989908,77.554436,12.989908",
+    "geom:latitude":12.989908,
+    "geom:longitude":77.554436,
+    "iso:country":"IN",
+    "sg:address":"No: 7/1, 12th Main Road, Rajajinagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2332 6594",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "component",
+        "pressed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FGtPujqdCVd9WpIhMJdsB_12.989908_77.554436@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"de9b3972ae7a6de318d7301879311a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169537929
+        }
+    ],
+    "wof:id":169537929,
+    "wof:lastmodified":1449033498,
+    "wof:name":"Sunray Engineers",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "pressed"
+    ]
+},
+  "bbox": [77.554436,12.989908,77.554436,12.989908],
+  "geometry": {"coordinates":[77.554436,12.989908],"type":"Point"}
+}

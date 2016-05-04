@@ -1,0 +1,63 @@
+{
+  "id": 169540333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.627304,12.933989,77.627304,12.933989",
+    "geom:latitude":12.933989,
+    "geom:longitude":77.627304,
+    "iso:country":"IN",
+    "sg:address":"156 14th Main, 4th Block, Koramangala,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 93 43 779731",
+    "sg:postcode":"560034",
+    "sg:tags":[
+        "shirt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931041,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TJDdnQ8RDTGXny5yfcoZv_12.933989_77.627304@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"aa199c36a0f272e9294e979ed33ff4b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931041,
+            "region_id":85672165,
+            "venue_id":169540333
+        }
+    ],
+    "wof:id":169540333,
+    "wof:lastmodified":1449033978,
+    "wof:name":"K. Mahadev Creations",
+    "wof:parent_id":85931041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shirt"
+    ]
+},
+  "bbox": [77.627304,12.933989,77.627304,12.933989],
+  "geometry": {"coordinates":[77.627304,12.933989],"type":"Point"}
+}

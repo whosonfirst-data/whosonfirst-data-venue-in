@@ -1,0 +1,64 @@
+{
+  "id": 169607895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.202072,28.537661,77.202072,28.537661",
+    "geom:latitude":28.537661,
+    "geom:longitude":77.202072,
+    "iso:country":"IN",
+    "sg:address":"C-197, Sarvodaya Enclave,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2656 3890",
+    "sg:postcode":"110017",
+    "sg:tags":[
+        "solvent"
+    ],
+    "sg:website":"http://www.chemicalmerchant.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928647,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TZXlla9WddpFOXbIDfvqf_28.537661_77.202072@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ce9ab2502fed8fe9277476b664b1a194",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928647,
+            "region_id":85672123,
+            "venue_id":169607895
+        }
+    ],
+    "wof:id":169607895,
+    "wof:lastmodified":1449033121,
+    "wof:name":"Rajiv Traders",
+    "wof:parent_id":85928647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solvent"
+    ]
+},
+  "bbox": [77.202072,28.537661,77.202072,28.537661],
+  "geometry": {"coordinates":[77.202072,28.537661],"type":"Point"}
+}

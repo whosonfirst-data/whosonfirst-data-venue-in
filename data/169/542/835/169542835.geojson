@@ -1,0 +1,65 @@
+{
+  "id": 169542835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.594284,12.965511,77.594284,12.965511",
+    "geom:latitude":12.965511,
+    "geom:longitude":77.594284,
+    "iso:country":"IN",
+    "sg:address":"26, 1st Main Road, S.r. Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2224 0511",
+    "sg:postcode":"560027",
+    "sg:tags":[
+        "tapes-self",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930933,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i5taN73mTTFwlLtFP5cZP_12.965511_77.594284@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"46174059d7549219893940e5313c9403",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930933,
+            "region_id":85672165,
+            "venue_id":169542835
+        }
+    ],
+    "wof:id":169542835,
+    "wof:lastmodified":1449035220,
+    "wof:name":"Polymers & Packaging Systems",
+    "wof:parent_id":85930933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tapes-self",
+        "adhesive"
+    ]
+},
+  "bbox": [77.594284,12.965511,77.594284,12.965511],
+  "geometry": {"coordinates":[77.594284,12.965511],"type":"Point"}
+}

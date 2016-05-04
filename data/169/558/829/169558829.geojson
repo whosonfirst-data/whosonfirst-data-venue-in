@@ -1,0 +1,62 @@
+{
+  "id": 169558829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.30687,31.558502,74.30687,31.558502",
+    "geom:latitude":31.558502,
+    "geom:longitude":74.30687,
+    "iso:country":"IN",
+    "sg:address":"University Road, V.v.nagar,",
+    "sg:city":"Anand",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2692 230 534",
+    "sg:postcode":"380012",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903679,
+        85632659,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dVJUIlsA6qrFeHuonQdnU_31.558502_74.306870@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2a885db0def5a317469fb8487b02da79",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632659,
+            "locality_id":-1,
+            "neighbourhood_id":85903679,
+            "region_id":85675753,
+            "venue_id":169558829
+        }
+    ],
+    "wof:id":169558829,
+    "wof:lastmodified":1449033582,
+    "wof:name":"Ccube Pvt. Ltd.",
+    "wof:parent_id":85903679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [74.30687,31.558502,74.30687,31.558502],
+  "geometry": {"coordinates":[74.30687,31.558502],"type":"Point"}
+}

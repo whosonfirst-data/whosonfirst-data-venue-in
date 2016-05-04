@@ -1,0 +1,53 @@
+{
+  "id": 169570825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.835892,18.988861,72.835892,18.988861",
+    "geom:latitude":18.988861,
+    "geom:longitude":72.835892,
+    "iso:country":"IN",
+    "sg:address":"Connaught Road",
+    "sg:city":"Pune",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 206128585",
+    "sg:postcode":"411001",
+    "sg:province":"Maharashtra",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903827,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ameRvL8HAUSjhDaYjgXIn_18.988861_72.835892@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"88407ebf887930b89541ecf2a8780c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903827,
+            "region_id":85672171,
+            "venue_id":169570825
+        }
+    ],
+    "wof:id":169570825,
+    "wof:lastmodified":1449034645,
+    "wof:name":"Hotel Ashirwad",
+    "wof:parent_id":85903827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.835892,18.988861,72.835892,18.988861],
+  "geometry": {"coordinates":[72.835892,18.988861],"type":"Point"}
+}

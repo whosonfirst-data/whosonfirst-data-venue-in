@@ -1,0 +1,63 @@
+{
+  "id": 169559195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.59996,23.017845,72.59996,23.017845",
+    "geom:latitude":23.017845,
+    "geom:longitude":72.59996,
+    "iso:country":"IN",
+    "sg:address":"17, 1st Floor, New Cloth Market,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 2216 1599",
+    "sg:postcode":"380002",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928703,
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UbADneox72ZcMa30PT9uM_23.017845_72.599960@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"aa1b2bfb1a0ce1117f02c36c84df3a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":85928703,
+            "region_id":85672249,
+            "venue_id":169559195
+        }
+    ],
+    "wof:id":169559195,
+    "wof:lastmodified":1449035239,
+    "wof:name":"Chem-plast",
+    "wof:parent_id":85928703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.59996,23.017845,72.59996,23.017845],
+  "geometry": {"coordinates":[72.59996,23.017845],"type":"Point"}
+}

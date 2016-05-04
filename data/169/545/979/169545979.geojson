@@ -1,0 +1,64 @@
+{
+  "id": 169545979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.767952,15.790452,76.767952,15.790452",
+    "geom:latitude":15.790452,
+    "geom:longitude":76.767952,
+    "iso:country":"IN",
+    "sg:address":"51, Karattankadu, 6th, Street, K.n.p. Colony,",
+    "sg:city":"Tiruppur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 242 4750",
+    "sg:postcode":"641608",
+    "sg:tags":[
+        "garment",
+        "accessory"
+    ],
+    "sg:website":"http://www.prakav.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OhDCHe3qyzXzfSSkLTy9P_15.790452_76.767952@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c0d1bfcb9ba1a3e6de0601e409e220ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169545979
+        }
+    ],
+    "wof:id":169545979,
+    "wof:lastmodified":1449033487,
+    "wof:name":"Sri Vasagam Imptex",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "accessory"
+    ]
+},
+  "bbox": [76.767952,15.790452,76.767952,15.790452],
+  "geometry": {"coordinates":[76.767952,15.790452],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169541669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.556252,12.919668,77.556252,12.919668",
+    "geom:latitude":12.919668,
+    "geom:longitude":77.556252,
+    "iso:country":"IN",
+    "sg:address":"#20, Ist Main, 9th Cross, Padmanabha Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 3294 0435",
+    "sg:postcode":"560061",
+    "sg:tags":[
+        "design",
+        "software"
+    ],
+    "sg:website":"http://www.pulsebangalore.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931103,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51ROqM7CQ3l2m6LGNbvJsO_12.919668_77.556252@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f61993a8b78e4f2c9b5c5fb5e00bd2a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931103,
+            "region_id":85672165,
+            "venue_id":169541669
+        }
+    ],
+    "wof:id":169541669,
+    "wof:lastmodified":1449033039,
+    "wof:name":"Pulse Technology",
+    "wof:parent_id":85931103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "design",
+        "software"
+    ]
+},
+  "bbox": [77.556252,12.919668,77.556252,12.919668],
+  "geometry": {"coordinates":[77.556252,12.919668],"type":"Point"}
+}

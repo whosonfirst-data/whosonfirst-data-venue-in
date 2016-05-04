@@ -1,0 +1,67 @@
+{
+  "id": 169552315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.65799,23.076591,72.65799,23.076591",
+    "geom:latitude":23.076591,
+    "geom:longitude":72.65799,
+    "iso:country":"IN",
+    "sg:address":"992/1/17, Gidc, Makarpura,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 263 3869",
+    "sg:postcode":"390011",
+    "sg:tags":[
+        "component",
+        "product",
+        "electronic"
+    ],
+    "sg:website":"http://www.excelelectronics.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PHC3iTKGT5DIFXe897Mkf_23.076591_72.657990@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6e491d34faa6c152abfd11bb34ec0aff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169552315
+        }
+    ],
+    "wof:id":169552315,
+    "wof:lastmodified":1449034057,
+    "wof:name":"Excel Electronics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "product",
+        "electronic"
+    ]
+},
+  "bbox": [72.65799,23.076591,72.65799,23.076591],
+  "geometry": {"coordinates":[72.65799,23.076591],"type":"Point"}
+}

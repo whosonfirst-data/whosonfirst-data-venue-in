@@ -1,0 +1,64 @@
+{
+  "id": 169531117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.937553,19.151857,72.937553,19.151857",
+    "geom:latitude":19.151857,
+    "geom:longitude":72.937553,
+    "iso:country":"IN",
+    "sg:address":"Village Road, L.b.s. Marg, Bhandup (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2561 9949",
+    "sg:postcode":"400078",
+    "sg:tags":[
+        "copper",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IWK7hCmo8Hn6D94SG93g7_19.151857_72.937553@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"70b02abf65051c0f0f88d66df45089b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169531117
+        }
+    ],
+    "wof:id":169531117,
+    "wof:lastmodified":1449033475,
+    "wof:name":"Rolex Metal Industries (india)",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "copper",
+        "product"
+    ]
+},
+  "bbox": [72.937553,19.151857,72.937553,19.151857],
+  "geometry": {"coordinates":[72.937553,19.151857],"type":"Point"}
+}

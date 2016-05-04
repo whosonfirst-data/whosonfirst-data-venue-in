@@ -1,0 +1,66 @@
+{
+  "id": 169544469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.556404,12.99302,77.556404,12.99302",
+    "geom:latitude":12.99302,
+    "geom:longitude":77.556404,
+    "iso:country":"IN",
+    "sg:address":"652, 3rd Floor, Dr. Rajkumar Road, 2nd Stage, Rajajinagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2332 6606",
+    "sg:postcode":"560010",
+    "sg:tags":[
+        "voltage",
+        "stabilizer"
+    ],
+    "sg:website":"http://www.techser.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B1kEOQDuJ9b0m8GQut5zm_12.993020_77.556404@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f4bbb0d0c07b750dd80e66cadd6c78b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169544469
+        }
+    ],
+    "wof:id":169544469,
+    "wof:lastmodified":1449035964,
+    "wof:name":"Techser Power Solutions Pvt. Ltd.",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "voltage",
+        "stabilizer"
+    ]
+},
+  "bbox": [77.556404,12.99302,77.556404,12.99302],
+  "geometry": {"coordinates":[77.556404,12.99302],"type":"Point"}
+}

@@ -1,0 +1,54 @@
+{
+  "id": 169571325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.275711,28.556496,77.275711,28.556496",
+    "geom:latitude":28.556496,
+    "geom:longitude":77.275711,
+    "iso:country":"IN",
+    "sg:address":"Sukhdev Vihar",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2683 8365",
+    "sg:postcode":"110025",
+    "sg:province":"Delhi",
+    "sg:website":"http://www.vestasrrb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928007,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2elnlo4FBJsi51xpfduK0e_28.556496_77.275711@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a2bdaf56aaa804da0f8356bf0e5165da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928007,
+            "region_id":85672123,
+            "venue_id":169571325
+        }
+    ],
+    "wof:id":169571325,
+    "wof:lastmodified":1449034946,
+    "wof:name":"Vestas Rrb India Ltd",
+    "wof:parent_id":85928007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.275711,28.556496,77.275711,28.556496],
+  "geometry": {"coordinates":[77.275711,28.556496],"type":"Point"}
+}

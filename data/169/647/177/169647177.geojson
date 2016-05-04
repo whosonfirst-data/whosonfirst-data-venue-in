@@ -1,0 +1,64 @@
+{
+  "id": 169647177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.177589,28.663069,77.177589,28.663069",
+    "geom:latitude":28.663069,
+    "geom:longitude":77.177589,
+    "iso:country":"IN",
+    "sg:address":"95/6a, Street No. 5, Than Singh Nagar, \nAnand Parbat,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2871 6355",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.ykrubber.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928115,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0F33BHHvwNjA2dcQZrDORR_28.663069_77.177589@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2bdcbac2176416ef504a67c53a6406ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928115,
+            "region_id":85672123,
+            "venue_id":169647177
+        }
+    ],
+    "wof:id":169647177,
+    "wof:lastmodified":1449034241,
+    "wof:name":"Y. K. Rubber Traders",
+    "wof:parent_id":85928115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.177589,28.663069,77.177589,28.663069],
+  "geometry": {"coordinates":[77.177589,28.663069],"type":"Point"}
+}

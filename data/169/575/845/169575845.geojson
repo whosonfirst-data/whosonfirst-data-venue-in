@@ -1,0 +1,66 @@
+{
+  "id": 169575845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.366386,22.49432,88.366386,22.49432",
+    "geom:latitude":22.49432,
+    "geom:longitude":88.366386,
+    "iso:country":"IN",
+    "sg:address":"17d, North Road, Jadavpur,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2412 3565",
+    "sg:postcode":"700032",
+    "sg:tags":[
+        "lab",
+        "supply"
+    ],
+    "sg:website":"http://www.basynth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903873,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TzOs2ltNtWiPovI8SNv8h_22.494320_88.366386@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"60a512a6aaf876463cce2c6b115196a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903873,
+            "region_id":85672219,
+            "venue_id":169575845
+        }
+    ],
+    "wof:id":169575845,
+    "wof:lastmodified":1449033640,
+    "wof:name":"Basic & Synthetic Chemicals Pvt. Ltd.",
+    "wof:parent_id":85903873,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lab",
+        "supply"
+    ]
+},
+  "bbox": [88.366386,22.49432,88.366386,22.49432],
+  "geometry": {"coordinates":[88.366386,22.49432],"type":"Point"}
+}

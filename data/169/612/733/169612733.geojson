@@ -1,0 +1,61 @@
+{
+  "id": 169612733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.540222,31.335741,75.540222,31.335741",
+    "geom:latitude":31.335741,
+    "geom:longitude":75.540222,
+    "iso:country":"IN",
+    "sg:address":"Basti Bawa Khel,",
+    "sg:city":"Jalandhar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 181 225 7898",
+    "sg:postcode":"144021",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WYZkdC5oDQHZehgbOvCFW_31.335741_75.540222@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"803be4c3f3dbd88288f06ba034f8ee70",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672195,
+            "venue_id":169612733
+        }
+    ],
+    "wof:id":169612733,
+    "wof:lastmodified":1449034131,
+    "wof:name":"Rubber Wing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [75.540222,31.335741,75.540222,31.335741],
+  "geometry": {"coordinates":[75.540222,31.335741],"type":"Point"}
+}

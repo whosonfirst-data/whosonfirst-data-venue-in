@@ -1,0 +1,64 @@
+{
+  "id": 169543627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.571487,12.937844,77.571487,12.937844",
+    "geom:latitude":12.937844,
+    "geom:longitude":77.571487,
+    "iso:country":"IN",
+    "sg:address":"23, Ratna Vilas Road, Basavanagudi,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2661 2520",
+    "sg:postcode":"560004",
+    "sg:tags":[
+        "toy"
+    ],
+    "sg:website":"http://www.kinderplay.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930849,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IN00rjvwA671j63DFPbmb_12.937844_77.571487@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8a1cc8a22a74bc74ff6b727bcfb53b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930849,
+            "region_id":85672165,
+            "venue_id":169543627
+        }
+    ],
+    "wof:id":169543627,
+    "wof:lastmodified":1449033336,
+    "wof:name":"Kinderplay Equipments",
+    "wof:parent_id":85930849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toy"
+    ]
+},
+  "bbox": [77.571487,12.937844,77.571487,12.937844],
+  "geometry": {"coordinates":[77.571487,12.937844],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169584865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.813889,18.973789,72.813889,18.973789",
+    "geom:latitude":18.973789,
+    "geom:longitude":72.813889,
+    "iso:country":"IN",
+    "sg:address":"12, Commerce Center, 78, Tardeo Road, Tardeo,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2494 4265",
+    "sg:postcode":"400034",
+    "sg:tags":[
+        "sulphur"
+    ],
+    "sg:website":"http://www.aster.com.au/sa/lotusoverseas",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903971,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42PGOXk1hxSuqg5nqAsmag_18.973789_72.813889@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"287a1e56f7cbd154d987139d1e3b0c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903971,
+            "region_id":85672171,
+            "venue_id":169584865
+        }
+    ],
+    "wof:id":169584865,
+    "wof:lastmodified":1449033039,
+    "wof:name":"Lotus Overseas Corporations",
+    "wof:parent_id":85903971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sulphur"
+    ]
+},
+  "bbox": [72.813889,18.973789,72.813889,18.973789],
+  "geometry": {"coordinates":[72.813889,18.973789],"type":"Point"}
+}

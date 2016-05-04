@@ -1,0 +1,63 @@
+{
+  "id": 169579247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.359879,22.591402,88.359879,22.591402",
+    "geom:latitude":22.591402,
+    "geom:longitude":88.359879,
+    "iso:country":"IN",
+    "sg:address":"28, Rabindra Sarani, 2nd Floor,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2221 5267",
+    "sg:postcode":"700003",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931965,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T1i7xBoTt9aMSCFqN2h8u_22.591402_88.359879@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"973c77a80a814696b58e41ad9b00e5fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931965,
+            "region_id":85672219,
+            "venue_id":169579247
+        }
+    ],
+    "wof:id":169579247,
+    "wof:lastmodified":1449033741,
+    "wof:name":"Ideal Industries",
+    "wof:parent_id":85931965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.359879,22.591402,88.359879,22.591402],
+  "geometry": {"coordinates":[88.359879,22.591402],"type":"Point"}
+}

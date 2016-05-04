@@ -1,0 +1,67 @@
+{
+  "id": 169647479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.612358,12.998377,77.612358,12.998377",
+    "geom:latitude":12.998377,
+    "geom:longitude":77.612358,
+    "iso:country":"IN",
+    "sg:address":"94, Moore Street,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Leather Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2521 2722",
+    "sg:postcode":"600001",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930871,
+        85632469,
+        102030819,
+        85672165,
+        85930927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41sSiYxCGjuW3k1yoXCRgZ_12.998377_77.612358@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ef5625fc35358fbbebd9d3178d84b69c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930871,
+            "region_id":85672165,
+            "venue_id":169647479
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930927,
+            "region_id":85672165,
+            "venue_id":169647479
+        }
+    ],
+    "wof:id":169647479,
+    "wof:lastmodified":1449034240,
+    "wof:name":"Yes Yem Enterprises Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.612358,12.998377,77.612358,12.998377],
+  "geometry": {"coordinates":[77.612358,12.998377],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169644059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.180855,28.650986,77.180855,28.650986",
+    "geom:latitude":28.650986,
+    "geom:longitude":77.180855,
+    "iso:country":"IN",
+    "sg:address":"12-a, Heavy Ind. Area,",
+    "sg:city":"Jodhpur",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 291 274 0871",
+    "sg:postcode":"342003",
+    "sg:tags":[
+        "acid"
+    ],
+    "sg:website":"http://www.vinayakhandicraft.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903883,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zmW1mhQtDO7RmDRIPrCmm_28.650986_77.180855@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e058cfc205fde62aed62fb7117856e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903883,
+            "region_id":85672123,
+            "venue_id":169644059
+        }
+    ],
+    "wof:id":169644059,
+    "wof:lastmodified":1449034575,
+    "wof:name":"Vinayak Arts",
+    "wof:parent_id":85903883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [77.180855,28.650986,77.180855,28.650986],
+  "geometry": {"coordinates":[77.180855,28.650986],"type":"Point"}
+}

@@ -1,0 +1,53 @@
+{
+  "id": 169570249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.566025,13.003681,77.566025,13.003681",
+    "geom:latitude":13.003681,
+    "geom:longitude":77.566025,
+    "iso:country":"IN",
+    "sg:address":"13th Cross, Malleswaram",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 803341997",
+    "sg:postcode":"560003",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YKkc405g1lEwmsbtc7525_13.003681_77.566025@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"90645c8095affbb269417a8ed968e599",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169570249
+        }
+    ],
+    "wof:id":169570249,
+    "wof:lastmodified":1449034645,
+    "wof:name":"Seshadri & Co Pvt Ltd",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.566025,13.003681,77.566025,13.003681],
+  "geometry": {"coordinates":[77.566025,13.003681],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169541399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.586899,12.90805,77.586899,12.90805",
+    "geom:latitude":12.90805,
+    "geom:longitude":77.586899,
+    "iso:country":"IN",
+    "sg:address":"2004, 19 B Main, Jp Nagar, 2 Phase,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2659 5038",
+    "sg:postcode":"560078",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931057,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EkBOhsv6GqKO0BURqjVBj_12.908050_77.586899@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e1b0d851f1e72ba9b053bb0a0e1e899e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931057,
+            "region_id":85672165,
+            "venue_id":169541399
+        }
+    ],
+    "wof:id":169541399,
+    "wof:lastmodified":1449033042,
+    "wof:name":"G3 At 1 Software Solutions Ltd.",
+    "wof:parent_id":85931057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.586899,12.90805,77.586899,12.90805],
+  "geometry": {"coordinates":[77.586899,12.90805],"type":"Point"}
+}

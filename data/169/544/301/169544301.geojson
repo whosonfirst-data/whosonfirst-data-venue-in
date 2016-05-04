@@ -1,0 +1,66 @@
+{
+  "id": 169544301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.546127,12.99754,77.546127,12.99754",
+    "geom:latitude":12.99754,
+    "geom:longitude":77.546127,
+    "iso:country":"IN",
+    "sg:address":"881/b, Dr. M.c. Modi Hospital Road, Basaveshwara Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2322 0025",
+    "sg:postcode":"560086",
+    "sg:tags":[
+        "voltage",
+        "stabilizer"
+    ],
+    "sg:website":"http://www.electronics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IMue60iabOfFsDEvmAL4X_12.997540_77.546127@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"250d85d35322ccb33603acdb8e7ecf1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169544301
+        }
+    ],
+    "wof:id":169544301,
+    "wof:lastmodified":1449035963,
+    "wof:name":"Electrohms Pvt. Ltd.",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "voltage",
+        "stabilizer"
+    ]
+},
+  "bbox": [77.546127,12.99754,77.546127,12.99754],
+  "geometry": {"coordinates":[77.546127,12.99754],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169541725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.614311,12.935006,77.614311,12.935006",
+    "geom:latitude":12.935006,
+    "geom:longitude":77.614311,
+    "iso:country":"IN",
+    "sg:address":"Zenith House, 4, Industrial Layout, Koramangala,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2552 2861",
+    "sg:postcode":"560095",
+    "sg:tags":[
+        "design",
+        "software"
+    ],
+    "sg:website":"http://www.zenithsoft.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930917,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n44eW9N5RMZUOrjFsYj5z_12.935006_77.614311@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"307e5a95f90f81d96618e7d16d680b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930917,
+            "region_id":85672165,
+            "venue_id":169541725
+        }
+    ],
+    "wof:id":169541725,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Zenith Software Ltd.",
+    "wof:parent_id":85930917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "design",
+        "software"
+    ]
+},
+  "bbox": [77.614311,12.935006,77.614311,12.935006],
+  "geometry": {"coordinates":[77.614311,12.935006],"type":"Point"}
+}

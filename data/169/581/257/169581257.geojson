@@ -1,0 +1,65 @@
+{
+  "id": 169581257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.345367,28.57671,77.345367,28.57671",
+    "geom:latitude":28.57671,
+    "geom:longitude":77.345367,
+    "iso:country":"IN",
+    "sg:address":"35, Sector-31,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 238 0636",
+    "sg:postcode":"122001",
+    "sg:tags":[
+        "transmission",
+        "belting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928411,
+        85632469,
+        102031133,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S0rXEW5Nq1mZAZh8XtGnd_28.576710_77.345367@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9466e0f63f8a5f503fdee1ee46e93e93",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031133,
+            "neighbourhood_id":85928411,
+            "region_id":85672205,
+            "venue_id":169581257
+        }
+    ],
+    "wof:id":169581257,
+    "wof:lastmodified":1449033380,
+    "wof:name":"K. K. Sheets Pvt. Ltd.",
+    "wof:parent_id":85928411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "belting"
+    ]
+},
+  "bbox": [77.345367,28.57671,77.345367,28.57671],
+  "geometry": {"coordinates":[77.345367,28.57671],"type":"Point"}
+}

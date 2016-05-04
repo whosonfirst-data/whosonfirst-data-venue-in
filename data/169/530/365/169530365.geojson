@@ -1,0 +1,66 @@
+{
+  "id": 169530365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.815193,18.968718,72.815193,18.968718",
+    "geom:latitude":18.968718,
+    "geom:longitude":72.815193,
+    "iso:country":"IN",
+    "sg:address":"6/d, Sonawala Bldg., Tardeo,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2380 2527",
+    "sg:postcode":"400007",
+    "sg:tags":[
+        "compressor",
+        "allied"
+    ],
+    "sg:website":"http://www.master-services.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903971,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_075eDsoCFJNjYcs02WSeAd_18.968718_72.815193@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b853e4d53da1f76f3b47c15f2d909354",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903971,
+            "region_id":85672171,
+            "venue_id":169530365
+        }
+    ],
+    "wof:id":169530365,
+    "wof:lastmodified":1449034443,
+    "wof:name":"Master Services",
+    "wof:parent_id":85903971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compressor",
+        "allied"
+    ]
+},
+  "bbox": [72.815193,18.968718,72.815193,18.968718],
+  "geometry": {"coordinates":[72.815193,18.968718],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169527805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.807907,18.976521,72.807907,18.976521",
+    "geom:latitude":18.976521,
+    "geom:longitude":72.807907,
+    "iso:country":"IN",
+    "sg:address":"Mahalaxmi Chambers, 3rd Floor, 22, Bhulabhai Desai Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2494 1656",
+    "sg:postcode":"400026",
+    "sg:tags":[
+        "publisher",
+        "book"
+    ],
+    "sg:website":"http://www.popularprakashan.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903901,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DkgQHmY4kRAsj5S3jrAs8_18.976521_72.807907@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"96e064bbb2ad027cd2c4c211e106bc37",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903901,
+            "region_id":85672171,
+            "venue_id":169527805
+        }
+    ],
+    "wof:id":169527805,
+    "wof:lastmodified":1449035277,
+    "wof:name":"Popular Prakashan Pvt. Ltd.",
+    "wof:parent_id":85903901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher",
+        "book"
+    ]
+},
+  "bbox": [72.807907,18.976521,72.807907,18.976521],
+  "geometry": {"coordinates":[72.807907,18.976521],"type":"Point"}
+}

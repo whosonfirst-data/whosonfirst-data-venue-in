@@ -1,0 +1,66 @@
+{
+  "id": 169535183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.865875,19.017241,72.865875,19.017241",
+    "geom:latitude":19.017241,
+    "geom:longitude":72.865875,
+    "iso:country":"IN",
+    "sg:address":"A-33, Shriram I/e, Wadala,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2414 8551",
+    "sg:postcode":"400031",
+    "sg:tags":[
+        "embroiders",
+        "embroidery"
+    ],
+    "sg:website":"http://www.galaembroidery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903993,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UVy1tC7ZYClnDXGsnN1Ie_19.017241_72.865875@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"06934b349a5f200b8676227af6931c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903993,
+            "region_id":85672171,
+            "venue_id":169535183
+        }
+    ],
+    "wof:id":169535183,
+    "wof:lastmodified":1449033286,
+    "wof:name":"Gala International",
+    "wof:parent_id":85903993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "embroiders",
+        "embroidery"
+    ]
+},
+  "bbox": [72.865875,19.017241,72.865875,19.017241],
+  "geometry": {"coordinates":[72.865875,19.017241],"type":"Point"}
+}

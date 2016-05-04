@@ -1,0 +1,63 @@
+{
+  "id": 169648007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.26384,9.927532,76.26384,9.927532",
+    "geom:latitude":9.927532,
+    "geom:longitude":76.26384,
+    "iso:country":"IN",
+    "sg:address":"6/632, Mattanchery,",
+    "sg:city":"Kochi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 484 222 4615",
+    "sg:postcode":"682016",
+    "sg:tags":[
+        "acid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783499,
+        85632469,
+        102030497,
+        85672149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FJjRljvVuT8XWKQVbJxvZ_9.927532_76.263840@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8a3f57e6f10de9d4467374a650211bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030497,
+            "neighbourhood_id":85783499,
+            "region_id":85672149,
+            "venue_id":169648007
+        }
+    ],
+    "wof:id":169648007,
+    "wof:lastmodified":1449033586,
+    "wof:name":"Zeus Exports Private Ltd.",
+    "wof:parent_id":85783499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [76.26384,9.927532,76.26384,9.927532],
+  "geometry": {"coordinates":[76.26384,9.927532],"type":"Point"}
+}

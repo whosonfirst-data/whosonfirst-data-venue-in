@@ -1,0 +1,62 @@
+{
+  "id": 169622801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.435883,28.67277,77.435883,28.67277",
+    "geom:latitude":28.67277,
+    "geom:longitude":77.435883,
+    "iso:country":"IN",
+    "sg:address":"G-9, Patel Nagar-iii,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 437 8163",
+    "sg:postcode":"201001",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NdpYkpi5mgHRmxqNooYaB_28.672770_77.435883@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6cd331bdd3c612fa9ce164908db27fde",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169622801
+        }
+    ],
+    "wof:id":169622801,
+    "wof:lastmodified":1449035368,
+    "wof:name":"Shri Kuber Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [77.435883,28.67277,77.435883,28.67277],
+  "geometry": {"coordinates":[77.435883,28.67277],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169592173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.495262,17.438169,78.495262,17.438169",
+    "geom:latitude":17.438169,
+    "geom:longitude":78.495262,
+    "iso:country":"IN",
+    "sg:address":"22-937, Shanthi Nilayam,",
+    "sg:city":"Chittoor",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 8572 226 412",
+    "sg:postcode":"517001",
+    "sg:tags":[
+        "solvent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930705,
+        85632469,
+        102028703,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TQklF69rhlIR1uqgyyXHK_17.438169_78.495262@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0345b0e4d6a1b502eff93f5d9c6cb697",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028703,
+            "neighbourhood_id":85930705,
+            "region_id":85672141,
+            "venue_id":169592173
+        }
+    ],
+    "wof:id":169592173,
+    "wof:lastmodified":1449034581,
+    "wof:name":"Narsons Pharma",
+    "wof:parent_id":85930705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solvent"
+    ]
+},
+  "bbox": [78.495262,17.438169,78.495262,17.438169],
+  "geometry": {"coordinates":[78.495262,17.438169],"type":"Point"}
+}

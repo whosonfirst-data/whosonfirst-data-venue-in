@@ -1,0 +1,63 @@
+{
+  "id": 169559257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.951088,19.176222,72.951088,19.176222",
+    "geom:latitude":19.176222,
+    "geom:longitude":72.951088,
+    "iso:country":"IN",
+    "sg:address":"A-8,chanakya Apartments,",
+    "sg:city":"Pondicherry",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 91413244342",
+    "sg:postcode":"605 013",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931655,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_429NHmX1xwQh2YkRBdSFF5_19.176222_72.951088@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6bbc4f411e8c9406a940b688fdba25aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931655,
+            "region_id":85672171,
+            "venue_id":169559257
+        }
+    ],
+    "wof:id":169559257,
+    "wof:lastmodified":1449035237,
+    "wof:name":"Chennai Alum Chemical Pvt.ltd",
+    "wof:parent_id":85931655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [72.951088,19.176222,72.951088,19.176222],
+  "geometry": {"coordinates":[72.951088,19.176222],"type":"Point"}
+}

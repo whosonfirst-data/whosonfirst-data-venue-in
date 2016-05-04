@@ -1,0 +1,63 @@
+{
+  "id": 169528721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.196579,28.64805,77.196579,28.64805",
+    "geom:latitude":28.64805,
+    "geom:longitude":77.196579,
+    "iso:country":"IN",
+    "sg:address":"Abdul Rahman Street, No.346,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2342 5428",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "bulk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928243,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fTJYDkc67MKBeK4oP1k0C_28.648050_77.196579@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2aef23dc1a344faeb9dbf0d9441ab073",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928243,
+            "region_id":85672123,
+            "venue_id":169528721
+        }
+    ],
+    "wof:id":169528721,
+    "wof:lastmodified":1449033571,
+    "wof:name":"M. T. Madon & Co.",
+    "wof:parent_id":85928243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk"
+    ]
+},
+  "bbox": [77.196579,28.64805,77.196579,28.64805],
+  "geometry": {"coordinates":[77.196579,28.64805],"type":"Point"}
+}

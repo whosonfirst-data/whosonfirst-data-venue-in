@@ -1,0 +1,66 @@
+{
+  "id": 169538351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.522606,13.025704,77.522606,13.025704",
+    "geom:latitude":13.025704,
+    "geom:longitude":77.522606,
+    "iso:country":"IN",
+    "sg:address":"No. A-144, 3rd Cross, Peenya Industrial Estate,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2839 9107",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "equipment",
+        "pump",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kQrUWvbBT9DvPExYaq2Vq_13.025704_77.522606@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b021ee51d0413bb7dd0a5ec44ed9ed08",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169538351
+        }
+    ],
+    "wof:id":169538351,
+    "wof:lastmodified":1449033098,
+    "wof:name":"Akshaya Pumps (p) Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "pump",
+        "pumping"
+    ]
+},
+  "bbox": [77.522606,13.025704,77.522606,13.025704],
+  "geometry": {"coordinates":[77.522606,13.025704],"type":"Point"}
+}

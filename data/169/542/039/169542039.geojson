@@ -1,0 +1,66 @@
+{
+  "id": 169542039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.623909,12.91561,77.623909,12.91561",
+    "geom:latitude":12.91561,
+    "geom:longitude":77.623909,
+    "iso:country":"IN",
+    "sg:address":"137/2, Hosur Rd., Koramangala,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2553 2335",
+    "sg:postcode":"560095",
+    "sg:tags":[
+        "spring",
+        "coil"
+    ],
+    "sg:website":"http://www.sss-india.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931027,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Nn3VCoX5UmWNZcsi8dzgY_12.915610_77.623909@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3e2804b9ef6e1fd3e74c9d9f6523e4b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931027,
+            "region_id":85672165,
+            "venue_id":169542039
+        }
+    ],
+    "wof:id":169542039,
+    "wof:lastmodified":1449035223,
+    "wof:name":"Stumpp Schuele & Somappa Pvt. Ltd.",
+    "wof:parent_id":85931027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spring",
+        "coil"
+    ]
+},
+  "bbox": [77.623909,12.91561,77.623909,12.91561],
+  "geometry": {"coordinates":[77.623909,12.91561],"type":"Point"}
+}

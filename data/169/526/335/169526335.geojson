@@ -1,0 +1,70 @@
+{
+  "id": 169526335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.846375,19.061155,72.846375,19.061155",
+    "geom:latitude":19.061155,
+    "geom:longitude":72.846375,
+    "iso:country":"IN",
+    "sg:address":"C-5, Laxmi Tower, Bandra Kurla Complex, Bandra(e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6754 4555",
+    "sg:postcode":"400051",
+    "sg:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ],
+    "sg:website":"http://www.agraeng.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931567,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bGuBmX7xwAtOaIJ67puIS_19.061155_72.846375@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4b9eb703a82d47a5d9947ac30ef04ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931567,
+            "region_id":85672171,
+            "venue_id":169526335
+        }
+    ],
+    "wof:id":169526335,
+    "wof:lastmodified":1449033702,
+    "wof:name":"Agra Engineering Company",
+    "wof:parent_id":85931567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ]
+},
+  "bbox": [72.846375,19.061155,72.846375,19.061155],
+  "geometry": {"coordinates":[72.846375,19.061155],"type":"Point"}
+}

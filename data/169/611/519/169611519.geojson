@@ -1,0 +1,63 @@
+{
+  "id": 169611519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.860146,19.111292,72.860146,19.111292",
+    "geom:latitude":19.111292,
+    "geom:longitude":72.860146,
+    "iso:country":"IN",
+    "sg:address":"B-115, Crystal Plaza, Andheri (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2673 3594",
+    "sg:postcode":"400058",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931483,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qvs4MsMt2ZMMCdYnxw47j_19.111292_72.860146@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"68651acbaf0e6288eb1bfc85a071eeed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931483,
+            "region_id":85672171,
+            "venue_id":169611519
+        }
+    ],
+    "wof:id":169611519,
+    "wof:lastmodified":1449035265,
+    "wof:name":"Roffee Chem. Pvt. Ltd.",
+    "wof:parent_id":85931483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.860146,19.111292,72.860146,19.111292],
+  "geometry": {"coordinates":[72.860146,19.111292],"type":"Point"}
+}

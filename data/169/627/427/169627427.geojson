@@ -1,0 +1,61 @@
+{
+  "id": 169627427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.301003,32.287304,74.301003,32.287304",
+    "geom:latitude":32.287304,
+    "geom:longitude":74.301003,
+    "iso:country":"IN",
+    "sg:address":"5566, 1st Floor, D.c. Road, Opp. Sialkot House,",
+    "sg:city":"Ambala Cantt",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 171 400 0566",
+    "sg:postcode":"133001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632659,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SAW2bKBqFqCSSonKr7DN9_32.287304_74.301003@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fec9edeabb0a6989c10a0aa1512de048",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632659,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85675753,
+            "venue_id":169627427
+        }
+    ],
+    "wof:id":169627427,
+    "wof:lastmodified":1449036042,
+    "wof:name":"Spruce Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [74.301003,32.287304,74.301003,32.287304],
+  "geometry": {"coordinates":[74.301003,32.287304],"type":"Point"}
+}

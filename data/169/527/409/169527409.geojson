@@ -1,0 +1,64 @@
+{
+  "id": 169527409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.853477,18.522858,73.853477,18.522858",
+    "geom:latitude":18.522858,
+    "geom:longitude":73.853477,
+    "iso:country":"IN",
+    "sg:address":"Congress House Building, 410, V.p. Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2648 5102",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "bearing"
+    ],
+    "sg:website":"http://www.imbbearing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931327,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V0VV1E1QwcTuvcwJWoXLZ_18.522858_73.853477@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1730ff66ba64e4841f45a153f9674ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931327,
+            "region_id":85672171,
+            "venue_id":169527409
+        }
+    ],
+    "wof:id":169527409,
+    "wof:lastmodified":1449035277,
+    "wof:name":"S. Nanak Singh & Sons",
+    "wof:parent_id":85931327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bearing"
+    ]
+},
+  "bbox": [73.853477,18.522858,73.853477,18.522858],
+  "geometry": {"coordinates":[73.853477,18.522858],"type":"Point"}
+}

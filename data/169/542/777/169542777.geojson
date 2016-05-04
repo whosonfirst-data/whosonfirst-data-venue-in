@@ -1,0 +1,63 @@
+{
+  "id": 169542777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.560959,12.973708,77.560959,12.973708",
+    "geom:latitude":12.973708,
+    "geom:longitude":77.560959,
+    "iso:country":"IN",
+    "sg:address":"No. 23/26, 4th Cross, Magadi Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2350 3667",
+    "sg:postcode":"560023",
+    "sg:tags":[
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U1KiM3gPRw5U1GTDQGowa_12.973708_77.560959@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f050ef7e475e38fc7be8cc1502d15e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169542777
+        }
+    ],
+    "wof:id":169542777,
+    "wof:lastmodified":1449035222,
+    "wof:name":"D. S. K. International",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tape"
+    ]
+},
+  "bbox": [77.560959,12.973708,77.560959,12.973708],
+  "geometry": {"coordinates":[77.560959,12.973708],"type":"Point"}
+}

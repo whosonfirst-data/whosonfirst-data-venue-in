@@ -1,0 +1,64 @@
+{
+  "id": 169605303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.351143,22.543427,88.351143,22.543427",
+    "geom:latitude":22.543427,
+    "geom:longitude":88.351143,
+    "iso:country":"IN",
+    "sg:address":"7-b, Pritoria Street,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2282 2181",
+    "sg:postcode":"700071",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.quakerchem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931951,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mnZXL9ftBivSWUeptMzYy_22.543427_88.351143@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"eb97194bee93131f0d2c7a397331335e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931951,
+            "region_id":85672219,
+            "venue_id":169605303
+        }
+    ],
+    "wof:id":169605303,
+    "wof:lastmodified":1449034287,
+    "wof:name":"Quaker Chemical India Ltd.",
+    "wof:parent_id":85931951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.351143,22.543427,88.351143,22.543427],
+  "geometry": {"coordinates":[88.351143,22.543427],"type":"Point"}
+}

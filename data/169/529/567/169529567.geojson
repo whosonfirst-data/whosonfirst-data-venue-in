@@ -1,0 +1,64 @@
+{
+  "id": 169529567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.896721,19.053493,72.896721,19.053493",
+    "geom:latitude":19.053493,
+    "geom:longitude":72.896721,
+    "iso:country":"IN",
+    "sg:address":"Corporate Park, Unit 1, V N Purav Marg, Chembur,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6597 8521",
+    "sg:postcode":"400071",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.dow.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931489,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kM2Kf8MBHA8e4Asxv2Eow_19.053493_72.896721@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a54fd9e8eacaaeb20295d6caa0915dbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931489,
+            "region_id":85672171,
+            "venue_id":169529567
+        }
+    ],
+    "wof:id":169529567,
+    "wof:lastmodified":1449034116,
+    "wof:name":"Dow Chemical International Ltd.",
+    "wof:parent_id":85931489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.896721,19.053493,72.896721,19.053493],
+  "geometry": {"coordinates":[72.896721,19.053493],"type":"Point"}
+}

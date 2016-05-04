@@ -1,0 +1,58 @@
+{
+  "id": 169541233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.571251,13.005418,77.571251,13.005418",
+    "geom:latitude":13.005418,
+    "geom:longitude":77.571251,
+    "iso:country":"IN",
+    "sg:address":"365, 15th Cross, Mahalakshmipuram,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 56 982417",
+    "sg:postcode":"560086",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nJ8LNLQpOhVPzV5KIX94h_13.005418_77.571251@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3e46e1952419fdb467e0394eb02e63d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169541233
+        }
+    ],
+    "wof:id":169541233,
+    "wof:lastmodified":1449033045,
+    "wof:name":"Arun Kannur",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.571251,13.005418,77.571251,13.005418],
+  "geometry": {"coordinates":[77.571251,13.005418],"type":"Point"}
+}

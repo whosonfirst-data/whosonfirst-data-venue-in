@@ -1,0 +1,63 @@
+{
+  "id": 169643435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.85067,11.269944,75.85067,11.269944",
+    "geom:latitude":11.269944,
+    "geom:longitude":75.85067,
+    "iso:country":"IN",
+    "sg:address":"P.o. Velliparamba, Calicut,",
+    "sg:city":"Kozhikode",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 495 235 6009",
+    "sg:postcode":"673008",
+    "sg:tags":[
+        "acid"
+    ],
+    "sg:website":"http://www.indiamart.com/victorysoaps",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029641,
+        85672149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Kkbi7o76NIuWtm3zBLUPZ_11.269944_75.850670@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6c8d27ed4fd8826bab736e6b4a87b15d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029641,
+            "neighbourhood_id":-1,
+            "region_id":85672149,
+            "venue_id":169643435
+        }
+    ],
+    "wof:id":169643435,
+    "wof:lastmodified":1449035524,
+    "wof:name":"Victory Soap Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [75.85067,11.269944,75.85067,11.269944],
+  "geometry": {"coordinates":[75.85067,11.269944],"type":"Point"}
+}

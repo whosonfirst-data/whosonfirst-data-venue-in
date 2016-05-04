@@ -1,0 +1,64 @@
+{
+  "id": 169575589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.832726,18.956556,72.832726,18.956556",
+    "geom:latitude":18.956556,
+    "geom:longitude":72.832726,
+    "iso:country":"IN",
+    "sg:address":"Mustafa Bldg, 2nd Floor, Sir P.m. Road, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2266 0325",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mSGPJPC93GWsiDDpkM0fI_18.956556_72.832726@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3a6297932b72e3e72fd147ea44022af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903863,
+            "region_id":85672171,
+            "venue_id":169575589
+        }
+    ],
+    "wof:id":169575589,
+    "wof:lastmodified":1449033642,
+    "wof:name":"B.r. Herman & Mohatta Pvt. Ltd.",
+    "wof:parent_id":85903863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.832726,18.956556,72.832726,18.956556],
+  "geometry": {"coordinates":[72.832726,18.956556],"type":"Point"}
+}

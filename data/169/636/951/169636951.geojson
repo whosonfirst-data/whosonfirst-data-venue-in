@@ -1,0 +1,63 @@
+{
+  "id": 169636951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.341408,22.520306,88.341408,22.520306",
+    "geom:latitude":22.520306,
+    "geom:longitude":88.341408,
+    "iso:country":"IN",
+    "sg:address":"39/1/1, Kalighat Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2455 2483",
+    "sg:postcode":"700025",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85932071,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1namjQ9x18wkWTeDp1bARC_22.520306_88.341408@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2e0645b450d0ba7ac385543f923114b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85932071,
+            "region_id":85672219,
+            "venue_id":169636951
+        }
+    ],
+    "wof:id":169636951,
+    "wof:lastmodified":1449033985,
+    "wof:name":"Trans World Marketing Co.",
+    "wof:parent_id":85932071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.341408,22.520306,88.341408,22.520306],
+  "geometry": {"coordinates":[88.341408,22.520306],"type":"Point"}
+}

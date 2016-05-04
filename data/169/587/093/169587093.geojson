@@ -1,0 +1,63 @@
+{
+  "id": 169587093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.522743,23.026245,72.522743,23.026245",
+    "geom:latitude":23.026245,
+    "geom:longitude":72.522743,
+    "iso:country":"IN",
+    "sg:address":"B-902, Iskon Park, Satellite Road,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 2692 3380",
+    "sg:postcode":"380015",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928669,
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M59nsaMKVDdX9jAaZVqgq_23.026245_72.522743@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"38aa62a7517dbe8a86f25f7d7d51d2d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":85928669,
+            "region_id":85672249,
+            "venue_id":169587093
+        }
+    ],
+    "wof:id":169587093,
+    "wof:lastmodified":1449033821,
+    "wof:name":"Manibhadra Petrochem",
+    "wof:parent_id":85928669,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.522743,23.026245,72.522743,23.026245],
+  "geometry": {"coordinates":[72.522743,23.026245],"type":"Point"}
+}

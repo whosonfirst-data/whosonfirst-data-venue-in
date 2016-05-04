@@ -1,0 +1,63 @@
+{
+  "id": 169559421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.85881,18.517784,73.85881,18.517784",
+    "geom:latitude":18.517784,
+    "geom:longitude":73.85881,
+    "iso:country":"IN",
+    "sg:address":"910, Budhwar Peth,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 3290 0670",
+    "sg:postcode":"411002",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903913,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06woQ67xd9VnrHcaCc742F_18.517784_73.858810@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1ad0c4669d48ae65fc6448444c34e145",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85903913,
+            "region_id":85672171,
+            "venue_id":169559421
+        }
+    ],
+    "wof:id":169559421,
+    "wof:lastmodified":1449035238,
+    "wof:name":"Classic Rubber & Engineering Stores",
+    "wof:parent_id":85903913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [73.85881,18.517784,73.85881,18.517784],
+  "geometry": {"coordinates":[73.85881,18.517784],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169541245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.53685,12.966931,77.53685,12.966931",
+    "geom:latitude":12.966931,
+    "geom:longitude":77.53685,
+    "iso:country":"IN",
+    "sg:address":"5/6, 1st Cross, Magadi Chord Road, Vijayanagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2335 8399",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "slate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4M99Jj0TYhIPZRi93YqD1y_12.966931_77.536850@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2f942442193676188fb1e4a7d5a833ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169541245
+        }
+    ],
+    "wof:id":169541245,
+    "wof:lastmodified":1449033043,
+    "wof:name":"Sri Ganesh Stones",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "slate"
+    ]
+},
+  "bbox": [77.53685,12.966931,77.53685,12.966931],
+  "geometry": {"coordinates":[77.53685,12.966931],"type":"Point"}
+}

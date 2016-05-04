@@ -1,0 +1,63 @@
+{
+  "id": 169619991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.23423,28.655645,77.23423,28.655645",
+    "geom:latitude":28.655645,
+    "geom:longitude":77.23423,
+    "iso:country":"IN",
+    "sg:address":"Mohna Road,",
+    "sg:city":"Ballabgarh",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 224 8777",
+    "sg:postcode":"121004",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928099,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SwEh1dmtGCayaouYXjOba_28.655645_77.234230@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cba436526cbbcbb2e4f8c72003d2bf03",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928099,
+            "region_id":85672123,
+            "venue_id":169619991
+        }
+    ],
+    "wof:id":169619991,
+    "wof:lastmodified":1449033282,
+    "wof:name":"Shivam Rubber",
+    "wof:parent_id":85928099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.23423,28.655645,77.23423,28.655645],
+  "geometry": {"coordinates":[77.23423,28.655645],"type":"Point"}
+}

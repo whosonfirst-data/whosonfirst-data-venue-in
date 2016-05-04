@@ -1,0 +1,65 @@
+{
+  "id": 169613187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.642967,25.335764,74.642967,25.335764",
+    "geom:latitude":25.335764,
+    "geom:longitude":74.642967,
+    "iso:country":"IN",
+    "sg:address":"B-1711, Shastri Nagar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2364 1337",
+    "sg:postcode":"110052",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "sg:website":"http://www.skfcheetah.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030691,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G4smF3WkmD4OmYF824xlY_25.335764_74.642967@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9029ec419b4c2ca77773042bcf8f1762",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030691,
+            "neighbourhood_id":-1,
+            "region_id":85672201,
+            "venue_id":169613187
+        }
+    ],
+    "wof:id":169613187,
+    "wof:lastmodified":1449034211,
+    "wof:name":"S. K. Florescences",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [74.642967,25.335764,74.642967,25.335764],
+  "geometry": {"coordinates":[74.642967,25.335764],"type":"Point"}
+}

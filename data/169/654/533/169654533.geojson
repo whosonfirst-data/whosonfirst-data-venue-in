@@ -1,0 +1,57 @@
+{
+  "id": 169654533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.941617,11.025884,76.941617,11.025884",
+    "geom:latitude":11.025884,
+    "geom:longitude":76.941617,
+    "iso:country":"IN",
+    "sg:address":"151, NSR Road, Saibaba Colony",
+    "sg:city":"Coimbatore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"641011",
+    "sg:website":"http://www.sgstechnologies.net/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dQofLUeTpQMSTC0pUgdGo_11.025884_76.941617@1308163242"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0b80e90b82872ebc6b73eb6a99802540",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169654533
+        }
+    ],
+    "wof:id":169654533,
+    "wof:lastmodified":1449033790,
+    "wof:name":"SGS Technologie",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [76.941617,11.025884,76.941617,11.025884],
+  "geometry": {"coordinates":[76.941617,11.025884],"type":"Point"}
+}

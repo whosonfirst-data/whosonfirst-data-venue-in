@@ -1,0 +1,64 @@
+{
+  "id": 169559241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.170372,22.309984,73.170372,22.309984",
+    "geom:latitude":22.309984,
+    "geom:longitude":73.170372,
+    "iso:country":"IN",
+    "sg:address":"406, Windsor Plaza, 4th Floor, R.c.dutt Road, Alkapuri,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 235 4015",
+    "sg:postcode":"390007",
+    "sg:tags":[
+        "acid"
+    ],
+    "sg:website":"http://www.chemtechpharma.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933511,
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G18qQqNHrVyOeVtU6r0M1_22.309984_73.170372@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"791d8b63a60b2224a8a23f34153d68a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":85933511,
+            "region_id":85672249,
+            "venue_id":169559241
+        }
+    ],
+    "wof:id":169559241,
+    "wof:lastmodified":1449035239,
+    "wof:name":"Chemtech Intermediates Pvt. Ltd.",
+    "wof:parent_id":85933511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [73.170372,22.309984,73.170372,22.309984],
+  "geometry": {"coordinates":[73.170372,22.309984],"type":"Point"}
+}

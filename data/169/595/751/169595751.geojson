@@ -1,0 +1,64 @@
+{
+  "id": 169595751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.853951,19.16082,72.853951,19.16082",
+    "geom:latitude":19.16082,
+    "geom:longitude":72.853951,
+    "iso:country":"IN",
+    "sg:address":"18, Deven Industrial Estate, I.b. Patel Road, Goregaon (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2685 9754",
+    "sg:postcode":"400063",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.oscoseals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pTkc9jSUSISe7H3aDODQW_19.160820_72.853951@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"080ebef4a7bdd98ef5d83b44dd5991c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169595751
+        }
+    ],
+    "wof:id":169595751,
+    "wof:lastmodified":1449035634,
+    "wof:name":"Oil Seals Corporation",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.853951,19.16082,72.853951,19.16082],
+  "geometry": {"coordinates":[72.853951,19.16082],"type":"Point"}
+}

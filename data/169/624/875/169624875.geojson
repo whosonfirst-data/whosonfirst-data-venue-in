@@ -1,0 +1,62 @@
+{
+  "id": 169624875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.926125,19.063095,72.926125,19.063095",
+    "geom:latitude":19.063095,
+    "geom:longitude":72.926125,
+    "iso:country":"IN",
+    "sg:address":"W-129, M.i.d.c., Phase-ii,",
+    "sg:city":"Dombivili",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 251 287 1612",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931557,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n9kcCEZTDnpMba4vH0Nr6_19.063095_72.926125@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e60b8cca7021b962457170a1b4c06817",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931557,
+            "region_id":85672171,
+            "venue_id":169624875
+        }
+    ],
+    "wof:id":169624875,
+    "wof:lastmodified":1449034959,
+    "wof:name":"Skom Chemicals",
+    "wof:parent_id":85931557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.926125,19.063095,72.926125,19.063095],
+  "geometry": {"coordinates":[72.926125,19.063095],"type":"Point"}
+}

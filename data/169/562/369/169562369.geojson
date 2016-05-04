@@ -1,0 +1,53 @@
+{
+  "id": 169562369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.569382,12.999205,77.569382,12.999205",
+    "geom:latitude":12.999205,
+    "geom:longitude":77.569382,
+    "iso:country":"IN",
+    "sg:address":"8th Cross, Malleswaram",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 803346271",
+    "sg:postcode":"560008",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_046l5SnYGeMsjmKpdmbp5c_12.999205_77.569382@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cb3d38c43291b9ca803080dbfca023db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169562369
+        }
+    ],
+    "wof:id":169562369,
+    "wof:lastmodified":1449034437,
+    "wof:name":"Vayu Automation",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.569382,12.999205,77.569382,12.999205],
+  "geometry": {"coordinates":[77.569382,12.999205],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169578543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.864166,19.179108,72.864166,19.179108",
+    "geom:latitude":19.179108,
+    "geom:longitude":72.864166,
+    "iso:country":"IN",
+    "sg:address":"3/911, Pathanwada,",
+    "sg:city":"Surat",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 261 241 3154",
+    "sg:postcode":"395003",
+    "sg:tags":[
+        "solvent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931525,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hWoHV39GsYu6FTkMgWOjU_19.179108_72.864166@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7457d143da9cc030a69aa3573c52bed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931525,
+            "region_id":85672171,
+            "venue_id":169578543
+        }
+    ],
+    "wof:id":169578543,
+    "wof:lastmodified":1449033519,
+    "wof:name":"Hatim Abdulkader",
+    "wof:parent_id":85931525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solvent"
+    ]
+},
+  "bbox": [72.864166,19.179108,72.864166,19.179108],
+  "geometry": {"coordinates":[72.864166,19.179108],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169636313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.306572,28.659609,77.306572,28.659609",
+    "geom:latitude":28.659609,
+    "geom:longitude":77.306572,
+    "iso:country":"IN",
+    "sg:address":"Krit Plaza, Plot No. 5, Flat No. 204, Surajmal Vihar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2237 5492",
+    "sg:postcode":"110092",
+    "sg:tags":[
+        "solvent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928573,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cCLAbdtLFog4x3Kud8ZwT_28.659609_77.306572@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"01a27b5f7f297fa5cca375a6ce45f437",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928573,
+            "region_id":85672123,
+            "venue_id":169636313
+        }
+    ],
+    "wof:id":169636313,
+    "wof:lastmodified":1449033985,
+    "wof:name":"Theos Fine Chem",
+    "wof:parent_id":85928573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solvent"
+    ]
+},
+  "bbox": [77.306572,28.659609,77.306572,28.659609],
+  "geometry": {"coordinates":[77.306572,28.659609],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169576021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.537689,17.366924,78.537689,17.366924",
+    "geom:latitude":17.366924,
+    "geom:longitude":78.537689,
+    "iso:country":"IN",
+    "sg:address":"8-63,dilsukhnagar, Hyderabad",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 5665 2434",
+    "sg:postcode":"500060",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930827,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6acHzhM2X0bH64reKgZZ7n_17.366924_78.537689@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"71a693381cedcb79e1da359e1145ddd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930827,
+            "region_id":85672141,
+            "venue_id":169576021
+        }
+    ],
+    "wof:id":169576021,
+    "wof:lastmodified":1449035198,
+    "wof:name":"Bestdeal",
+    "wof:parent_id":85930827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [78.537689,17.366924,78.537689,17.366924],
+  "geometry": {"coordinates":[78.537689,17.366924],"type":"Point"}
+}

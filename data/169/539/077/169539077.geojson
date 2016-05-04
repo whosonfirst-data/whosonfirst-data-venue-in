@@ -1,0 +1,63 @@
+{
+  "id": 169539077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.594421,12.913028,77.594421,12.913028",
+    "geom:latitude":12.913028,
+    "geom:longitude":77.594421,
+    "iso:country":"IN",
+    "sg:address":"4th Cross, Jp Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2665 6792",
+    "sg:postcode":"560078",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931061,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GXRnq77sGM0J72CTAv3zh_12.913028_77.594421@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9e63f77e21007db508f2a591c5bb64e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931061,
+            "region_id":85672165,
+            "venue_id":169539077
+        }
+    ],
+    "wof:id":169539077,
+    "wof:lastmodified":1449036036,
+    "wof:name":"Amar Polymers",
+    "wof:parent_id":85931061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.594421,12.913028,77.594421,12.913028],
+  "geometry": {"coordinates":[77.594421,12.913028],"type":"Point"}
+}

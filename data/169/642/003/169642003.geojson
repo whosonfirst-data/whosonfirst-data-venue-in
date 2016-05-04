@@ -1,0 +1,65 @@
+{
+  "id": 169642003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.357758,22.566383,88.357758,22.566383",
+    "geom:latitude":22.566383,
+    "geom:longitude":88.357758,
+    "iso:country":"IN",
+    "sg:address":"19, Ganesh Chandra Avenue,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2234 5113",
+    "sg:postcode":"700013",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931917,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fhqcR5iLE2MkAuBBIX9xr_22.566383_88.357758@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e2bc3715edd82beba4f4a47e0c91c755",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931917,
+            "region_id":85672219,
+            "venue_id":169642003
+        }
+    ],
+    "wof:id":169642003,
+    "wof:lastmodified":1449032879,
+    "wof:name":"Vee Pee Food Chem",
+    "wof:parent_id":85931917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [88.357758,22.566383,88.357758,22.566383],
+  "geometry": {"coordinates":[88.357758,22.566383],"type":"Point"}
+}

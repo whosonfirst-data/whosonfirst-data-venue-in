@@ -1,0 +1,68 @@
+{
+  "id": 169544813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.647034,12.959599,77.647034,12.959599",
+    "geom:latitude":12.959599,
+    "geom:longitude":77.647034,
+    "iso:country":"IN",
+    "sg:address":"138, 5th Floor, Maruthi Tower, Airport Road, Kodihalli,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2527 5848",
+    "sg:postcode":"560008",
+    "sg:tags":[
+        "equipment",
+        "electrodes",
+        "welding"
+    ],
+    "sg:website":"http://www.maruthiweld.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931147,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h5iDSHHDrEEh5FXLWPxWi_12.959599_77.647034@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4b4d3f198e5cef6d8998851ed38c368e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931147,
+            "region_id":85672165,
+            "venue_id":169544813
+        }
+    ],
+    "wof:id":169544813,
+    "wof:lastmodified":1449035963,
+    "wof:name":"Maruthi Electrodes Pvt. Ltd.",
+    "wof:parent_id":85931147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electrodes",
+        "welding"
+    ]
+},
+  "bbox": [77.647034,12.959599,77.647034,12.959599],
+  "geometry": {"coordinates":[77.647034,12.959599],"type":"Point"}
+}

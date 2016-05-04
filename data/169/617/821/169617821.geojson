@@ -1,0 +1,64 @@
+{
+  "id": 169617821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.194695,28.647078,77.194695,28.647078",
+    "geom:latitude":28.647078,
+    "geom:longitude":77.194695,
+    "iso:country":"IN",
+    "sg:address":"2065/38, Nai Wala, Karol Bagh,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 6546 5467",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.scotduro.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928243,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IIEip7Nc4Keh7GzdrHDOp_28.647078_77.194695@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5af272ea6ce103346839ac4e4413ef42",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928243,
+            "region_id":85672123,
+            "venue_id":169617821
+        }
+    ],
+    "wof:id":169617821,
+    "wof:lastmodified":1449032800,
+    "wof:name":"Scooter Emporium",
+    "wof:parent_id":85928243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.194695,28.647078,77.194695,28.647078],
+  "geometry": {"coordinates":[77.194695,28.647078],"type":"Point"}
+}

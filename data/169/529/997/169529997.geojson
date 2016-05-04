@@ -1,0 +1,61 @@
+{
+  "id": 169529997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.8349,18.944769,72.8349,18.944769",
+    "geom:latitude":18.944769,
+    "geom:longitude":72.8349,
+    "iso:country":"IN",
+    "sg:address":"14, Himalaya House, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2261 2202",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931585,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HggUV5M9Tds3n1DXlO3Mi_18.944769_72.834900@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"287adfe1bcbd93a4a75fa51455b51780",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931585,
+            "region_id":-1,
+            "venue_id":169529997
+        }
+    ],
+    "wof:id":169529997,
+    "wof:lastmodified":1449034117,
+    "wof:name":"Troika",
+    "wof:parent_id":85931585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.8349,18.944769,72.8349,18.944769],
+  "geometry": {"coordinates":[72.8349,18.944769],"type":"Point"}
+}

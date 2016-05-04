@@ -1,0 +1,63 @@
+{
+  "id": 169578205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.172073,28.716578,77.172073,28.716578",
+    "geom:latitude":28.716578,
+    "geom:longitude":77.172073,
+    "iso:country":"IN",
+    "sg:address":"12/568, Sector-12, Indiranagar,",
+    "sg:city":"Lucknow",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"226016",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"www.indiamart.com/company/775203/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928079,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JWMXcY2LV2hFd2LHY5Jhy_28.716578_77.172073@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3e2e4739d67a1ac9a4d810e90f50876b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928079,
+            "region_id":85672123,
+            "venue_id":169578205
+        }
+    ],
+    "wof:id":169578205,
+    "wof:lastmodified":1449033519,
+    "wof:name":"Gupta Grihudyog",
+    "wof:parent_id":85928079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.172073,28.716578,77.172073,28.716578],
+  "geometry": {"coordinates":[77.172073,28.716578],"type":"Point"}
+}

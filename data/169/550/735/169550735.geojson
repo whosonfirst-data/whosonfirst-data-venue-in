@@ -1,0 +1,64 @@
+{
+  "id": 169550735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.17804,22.330755,73.17804,22.330755",
+    "geom:latitude":22.330755,
+    "geom:longitude":73.17804,
+    "iso:country":"IN",
+    "sg:address":"57, Sardar Nagar, Nizampura,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 279 3982",
+    "sg:postcode":"390002",
+    "sg:tags":[
+        "alarm"
+    ],
+    "sg:website":"http://www.safexfire.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933519,
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wINfdsUzGsPBJXXBfazKX_22.330755_73.178040@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0ff23c6ecc328318cd906bfd5313c5a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":85933519,
+            "region_id":85672249,
+            "venue_id":169550735
+        }
+    ],
+    "wof:id":169550735,
+    "wof:lastmodified":1449034477,
+    "wof:name":"Safex Fire Services Ltd.",
+    "wof:parent_id":85933519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm"
+    ]
+},
+  "bbox": [73.17804,22.330755,73.17804,22.330755],
+  "geometry": {"coordinates":[73.17804,22.330755],"type":"Point"}
+}

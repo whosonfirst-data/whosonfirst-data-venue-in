@@ -1,0 +1,66 @@
+{
+  "id": 169528207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.821182,18.924328,72.821182,18.924328",
+    "geom:latitude":18.924328,
+    "geom:longitude":72.821182,
+    "iso:country":"IN",
+    "sg:address":"212, Embassy Centre, Nariman Point,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2288 6329",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "tile",
+        "brick"
+    ],
+    "sg:website":"http://www.cera-india.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rPSLmj5TaQi94lmXrzgGU_18.924328_72.821182@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1c9a911b24196c8a2db92dc9a3f1f6f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169528207
+        }
+    ],
+    "wof:id":169528207,
+    "wof:lastmodified":1449033569,
+    "wof:name":"Cera Sanitaryware Limited",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "brick"
+    ]
+},
+  "bbox": [72.821182,18.924328,72.821182,18.924328],
+  "geometry": {"coordinates":[72.821182,18.924328],"type":"Point"}
+}

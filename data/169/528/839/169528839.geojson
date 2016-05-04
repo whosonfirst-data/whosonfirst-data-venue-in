@@ -1,0 +1,66 @@
+{
+  "id": 169528839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.812668,18.964567,72.812668,18.964567",
+    "geom:latitude":18.964567,
+    "geom:longitude":72.812668,
+    "iso:country":"IN",
+    "sg:address":"8, Matru Mandir Building, 278, Tardeo Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 222389303133",
+    "sg:postcode":"400007",
+    "sg:tags":[
+        "tray",
+        "cable"
+    ],
+    "sg:website":"http://www.urjagroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903971,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P6ZFqdJ1q7AmptE9RIGMA_18.964567_72.812668@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"47bc277a5d357129f6906784abd65444",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903971,
+            "region_id":85672171,
+            "venue_id":169528839
+        }
+    ],
+    "wof:id":169528839,
+    "wof:lastmodified":1449033570,
+    "wof:name":"Urja Engineers Ltd.",
+    "wof:parent_id":85903971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tray",
+        "cable"
+    ]
+},
+  "bbox": [72.812668,18.964567,72.812668,18.964567],
+  "geometry": {"coordinates":[72.812668,18.964567],"type":"Point"}
+}

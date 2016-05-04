@@ -1,0 +1,62 @@
+{
+  "id": 169615433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.292625,13.102119,80.292625,13.102119",
+    "geom:latitude":13.102119,
+    "geom:longitude":80.292625,
+    "iso:country":"IN",
+    "sg:address":"# 2 Rajaji St. West, Kamaraj Nager,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2655 3743",
+    "sg:postcode":"600054",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903951,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61ZTGrVGgo7tytYf8C88Zo_13.102119_80.292625@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"428d121c5f1c79d7a9154f76db008f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102029537,
+            "neighbourhood_id":85903951,
+            "region_id":85672245,
+            "venue_id":169615433
+        }
+    ],
+    "wof:id":169615433,
+    "wof:lastmodified":1449033732,
+    "wof:name":"Sams Trading",
+    "wof:parent_id":85903951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [80.292625,13.102119,80.292625,13.102119],
+  "geometry": {"coordinates":[80.292625,13.102119],"type":"Point"}
+}

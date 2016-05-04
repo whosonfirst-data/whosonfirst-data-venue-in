@@ -1,0 +1,69 @@
+{
+  "id": 169542251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.615662,12.932185,77.615662,12.932185",
+    "geom:latitude":12.932185,
+    "geom:longitude":77.615662,
+    "iso:country":"IN",
+    "sg:address":"88/a Koramangala Industrial Layout,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2553 0047",
+    "sg:postcode":"560095",
+    "sg:tags":[
+        "steel",
+        "stainless",
+        "product",
+        "component"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930917,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g1xuA76SJE2G0NIowCFER_12.932185_77.615662@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b6af7b02b5c0a394624c1a9874e04d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930917,
+            "region_id":85672165,
+            "venue_id":169542251
+        }
+    ],
+    "wof:id":169542251,
+    "wof:lastmodified":1449035218,
+    "wof:name":"Metal Impacts Pvt. Ltd.",
+    "wof:parent_id":85930917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "stainless",
+        "product",
+        "component"
+    ]
+},
+  "bbox": [77.615662,12.932185,77.615662,12.932185],
+  "geometry": {"coordinates":[77.615662,12.932185],"type":"Point"}
+}

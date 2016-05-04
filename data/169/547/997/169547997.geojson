@@ -1,0 +1,63 @@
+{
+  "id": 169547997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.897102,18.55237,73.897102,18.55237",
+    "geom:latitude":18.55237,
+    "geom:longitude":73.897102,
+    "iso:country":"IN",
+    "sg:address":"#159, J.p.plazza, Kumar Nagar,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 533 2433",
+    "sg:postcode":"641603",
+    "sg:tags":[
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931247,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A0M5oJwZKDpV6OZXkTCmQ_18.552370_73.897102@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7b03620fabb1bde03f284f29cd9d3e48",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931247,
+            "region_id":85672171,
+            "venue_id":169547997
+        }
+    ],
+    "wof:id":169547997,
+    "wof:lastmodified":1449033009,
+    "wof:name":"Team One Solutions",
+    "wof:parent_id":85931247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yarn"
+    ]
+},
+  "bbox": [73.897102,18.55237,73.897102,18.55237],
+  "geometry": {"coordinates":[73.897102,18.55237],"type":"Point"}
+}

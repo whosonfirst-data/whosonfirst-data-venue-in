@@ -1,0 +1,61 @@
+{
+  "id": 169604943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.067726,21.059671,73.067726,21.059671",
+    "geom:latitude":21.059671,
+    "geom:longitude":73.067726,
+    "iso:country":"IN",
+    "sg:address":"Prompt Export And Import",
+    "sg:city":"Kottayam",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 481 253 0772",
+    "sg:postcode":"686631",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZCBligEYffpa4CKMR2sLJ_21.059671_73.067726@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d570744dac89aa8a1f2b473b7c13a37d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169604943
+        }
+    ],
+    "wof:id":169604943,
+    "wof:lastmodified":1449035571,
+    "wof:name":"Prompt",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [73.067726,21.059671,73.067726,21.059671],
+  "geometry": {"coordinates":[73.067726,21.059671],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169545787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"83.896156,18.295031,83.896156,18.295031",
+    "geom:latitude":18.295031,
+    "geom:longitude":83.896156,
+    "iso:country":"IN",
+    "sg:address":"15/3, Kumaraveethi,",
+    "sg:city":"Tirunelveli",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 462 258 3341",
+    "sg:postcode":"627005",
+    "sg:tags":[
+        "paint",
+        "industrial",
+        "-",
+        "brush"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028567,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mlOzc8v7ky9AL5fF60ZZ7_18.295031_83.896156@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f0a4b1521e6f6a134c6bfed8691b888a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028567,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169545787
+        }
+    ],
+    "wof:id":169545787,
+    "wof:lastmodified":1449033487,
+    "wof:name":"Siva Industrial Brushes",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "industrial",
+        "-",
+        "brush"
+    ]
+},
+  "bbox": [83.896156,18.295031,83.896156,18.295031],
+  "geometry": {"coordinates":[83.896156,18.295031],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169528567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.913071,19.101727,72.913071,19.101727",
+    "geom:latitude":19.101727,
+    "geom:longitude":72.913071,
+    "iso:country":"IN",
+    "sg:address":"9, Kurla Indl. Est., Ghatkopar (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5597 3340",
+    "sg:postcode":"400086",
+    "sg:tags":[
+        "bulk"
+    ],
+    "sg:website":"http://www.pharmaxindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931627,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Df1ah5IKfvpjgfLZsA7XP_19.101727_72.913071@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"66d7399a86f310771b691fcd5418a4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931627,
+            "region_id":85672171,
+            "venue_id":169528567
+        }
+    ],
+    "wof:id":169528567,
+    "wof:lastmodified":1449033572,
+    "wof:name":"Pharmax (india) Pvt. Ltd.",
+    "wof:parent_id":85931627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk"
+    ]
+},
+  "bbox": [72.913071,19.101727,72.913071,19.101727],
+  "geometry": {"coordinates":[72.913071,19.101727],"type":"Point"}
+}

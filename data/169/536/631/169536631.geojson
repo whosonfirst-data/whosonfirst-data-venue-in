@@ -1,0 +1,63 @@
+{
+  "id": 169536631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.562218,13.080066,77.562218,13.080066",
+    "geom:latitude":13.080066,
+    "geom:longitude":77.562218,
+    "iso:country":"IN",
+    "sg:address":"401-1, 1st Crs., 1st Mn., M. Pura,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 57 682738",
+    "sg:postcode":"48",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931141,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UGbfnlM2sSmCf7I4DkCwa_13.080066_77.562218@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4fb145ac79e80ba6ade00b19b842f1e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931141,
+            "region_id":85672165,
+            "venue_id":169536631
+        }
+    ],
+    "wof:id":169536631,
+    "wof:lastmodified":1449034656,
+    "wof:name":"Saastha Plastics (india) Pvt. Ltd.",
+    "wof:parent_id":85931141,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.562218,13.080066,77.562218,13.080066],
+  "geometry": {"coordinates":[77.562218,13.080066],"type":"Point"}
+}

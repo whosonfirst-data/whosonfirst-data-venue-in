@@ -1,0 +1,63 @@
+{
+  "id": 169576525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.584435,31.313684,75.584435,31.313684",
+    "geom:latitude":31.313684,
+    "geom:longitude":75.584435,
+    "iso:country":"IN",
+    "sg:address":"297, New Jawahar Nagar,",
+    "sg:city":"Jalandhar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 181 222 5207",
+    "sg:postcode":"144001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933825,
+        85632469,
+        102029941,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U2Oeq5s3LfR6MXIMaIG3Q_31.313684_75.584435@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4cb14bd107fc92b20da0253de1f4eb09",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029941,
+            "neighbourhood_id":85933825,
+            "region_id":85672195,
+            "venue_id":169576525
+        }
+    ],
+    "wof:id":169576525,
+    "wof:lastmodified":1449035197,
+    "wof:name":"Exothermics & Foundry Fluxes Pvt. Ltd.",
+    "wof:parent_id":85933825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.584435,31.313684,75.584435,31.313684],
+  "geometry": {"coordinates":[75.584435,31.313684],"type":"Point"}
+}

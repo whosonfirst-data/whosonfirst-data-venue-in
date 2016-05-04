@@ -1,0 +1,63 @@
+{
+  "id": 169631261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"79.911575,23.181822,79.911575,23.181822",
+    "geom:latitude":23.181822,
+    "geom:longitude":79.911575,
+    "iso:country":"IN",
+    "sg:address":"127/29/1, W-1, Saket Nager,",
+    "sg:city":"Kanpur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 512 260 6421",
+    "sg:postcode":"208014",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.sunkemindustries.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030029,
+        85672239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yPUBr7fQNggbkUQ5dbxia_23.181822_79.911575@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ff8c3ad60017117e3f16e45e3caabde5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030029,
+            "neighbourhood_id":-1,
+            "region_id":85672239,
+            "venue_id":169631261
+        }
+    ],
+    "wof:id":169631261,
+    "wof:lastmodified":1449033706,
+    "wof:name":"Sunkem Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [79.911575,23.181822,79.911575,23.181822],
+  "geometry": {"coordinates":[79.911575,23.181822],"type":"Point"}
+}

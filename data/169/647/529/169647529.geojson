@@ -1,0 +1,63 @@
+{
+  "id": 169647529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.841225,18.520874,73.841225,18.520874",
+    "geom:latitude":18.520874,
+    "geom:longitude":73.841225,
+    "iso:country":"IN",
+    "sg:address":"Vaishali, 2165, Sadashiv Peth,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2433 0538",
+    "sg:postcode":"411030",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931201,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JWhtFH03EBKdMsJFAmYJx_18.520874_73.841225@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ae9d899e60893dfdb1a0c2f770d9f12e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931201,
+            "region_id":85672171,
+            "venue_id":169647529
+        }
+    ],
+    "wof:id":169647529,
+    "wof:lastmodified":1449034239,
+    "wof:name":"Yuvraj Chemicals Pvt. Ltd.",
+    "wof:parent_id":85931201,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [73.841225,18.520874,73.841225,18.520874],
+  "geometry": {"coordinates":[73.841225,18.520874],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169620791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.872513,30.898211,75.872513,30.898211",
+    "geom:latitude":30.898211,
+    "geom:longitude":75.872513,
+    "iso:country":"IN",
+    "sg:address":"314-b, Cheema Chowk, Industrial Area-a,",
+    "sg:city":"Ludhiana",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 161 266 2463",
+    "sg:postcode":"141003",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.shorichemicals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029555,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BnJbBolHMRSLYWghUK8cx_30.898211_75.872513@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"83a5795fd95c0a1687d2b4e908f7b750",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029555,
+            "neighbourhood_id":-1,
+            "region_id":85672195,
+            "venue_id":169620791
+        }
+    ],
+    "wof:id":169620791,
+    "wof:lastmodified":1449035675,
+    "wof:name":"Shori Chemicals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.872513,30.898211,75.872513,30.898211],
+  "geometry": {"coordinates":[75.872513,30.898211],"type":"Point"}
+}

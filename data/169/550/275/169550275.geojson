@@ -1,0 +1,63 @@
+{
+  "id": 169550275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.867638,18.48687,73.867638,18.48687",
+    "geom:latitude":18.48687,
+    "geom:longitude":73.867638,
+    "iso:country":"IN",
+    "sg:address":"100, Market Yard, N.g.,",
+    "sg:city":"Unjha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2767 252 694",
+    "sg:postcode":"384170",
+    "sg:tags":[
+        "seed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903913,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2838lMjH0fIggJytBeu6wy_18.486870_73.867638@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a52dcb34eab8e9fa138828d9ab77ed2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85903913,
+            "region_id":85672171,
+            "venue_id":169550275
+        }
+    ],
+    "wof:id":169550275,
+    "wof:lastmodified":1449034476,
+    "wof:name":"Guru Sons.",
+    "wof:parent_id":85903913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seed"
+    ]
+},
+  "bbox": [73.867638,18.48687,73.867638,18.48687],
+  "geometry": {"coordinates":[73.867638,18.48687],"type":"Point"}
+}

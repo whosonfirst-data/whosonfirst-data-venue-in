@@ -1,0 +1,67 @@
+{
+  "id": 169545305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.688797,10.799514,78.688797,10.799514",
+    "geom:latitude":10.799514,
+    "geom:longitude":78.688797,
+    "iso:country":"IN",
+    "sg:address":"5, Bharathiyar Salai, 4th Floor,",
+    "sg:city":"Thiruchirapalli",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 431 240 1782",
+    "sg:postcode":"620001",
+    "sg:tags":[
+        "spare",
+        "component",
+        "boilers"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85772813,
+        85632469,
+        102028441,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Zb54wve2qNovq4nlyWXe7_10.799514_78.688797@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8aff5ea1a34440da7c83d35e5d24d79a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028441,
+            "neighbourhood_id":85772813,
+            "region_id":85672245,
+            "venue_id":169545305
+        }
+    ],
+    "wof:id":169545305,
+    "wof:lastmodified":1449033484,
+    "wof:name":"Enmas Andritz Pvt. Ltd.",
+    "wof:parent_id":85772813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "component",
+        "boilers"
+    ]
+},
+  "bbox": [78.688797,10.799514,78.688797,10.799514],
+  "geometry": {"coordinates":[78.688797,10.799514],"type":"Point"}
+}

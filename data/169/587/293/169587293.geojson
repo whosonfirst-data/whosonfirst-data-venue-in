@@ -1,0 +1,64 @@
+{
+  "id": 169587293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.21357,28.705772,77.21357,28.705772",
+    "geom:latitude":28.705772,
+    "geom:longitude":77.21357,
+    "iso:country":"IN",
+    "sg:address":"339, Indra Vihar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2262 4434",
+    "sg:postcode":"110009",
+    "sg:tags":[
+        "pigment"
+    ],
+    "sg:website":"http://www.manyadyechem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928599,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PcXf0cYFBS7D0ILyqpzFA_28.705772_77.213570@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"786b9f6fd87083d7fe1c4883db5355c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928599,
+            "region_id":85672123,
+            "venue_id":169587293
+        }
+    ],
+    "wof:id":169587293,
+    "wof:lastmodified":1449033820,
+    "wof:name":"Manya Dye-chem",
+    "wof:parent_id":85928599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [77.21357,28.705772,77.21357,28.705772],
+  "geometry": {"coordinates":[77.21357,28.705772],"type":"Point"}
+}

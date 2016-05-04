@@ -1,0 +1,67 @@
+{
+  "id": 169634483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"81.333755,21.165623,81.333755,21.165623",
+    "geom:latitude":21.165623,
+    "geom:longitude":81.333755,
+    "iso:country":"IN",
+    "sg:address":"264, Azad Market,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2355 0886",
+    "sg:postcode":"110006",
+    "sg:tags":[
+        "polyethylene",
+        "foam",
+        "film"
+    ],
+    "sg:website":"http://www.tarpindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030693,
+        85672231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OyyLqU2VhPS61RNM9L5lB_21.165623_81.333755@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c304096e1b23c4f7a1a53a88a93a9e40",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030693,
+            "neighbourhood_id":-1,
+            "region_id":85672231,
+            "venue_id":169634483
+        }
+    ],
+    "wof:id":169634483,
+    "wof:lastmodified":1449034257,
+    "wof:name":"Tarpaulins India Tarp (p) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polyethylene",
+        "foam",
+        "film"
+    ]
+},
+  "bbox": [81.333755,21.165623,81.333755,21.165623],
+  "geometry": {"coordinates":[81.333755,21.165623],"type":"Point"}
+}

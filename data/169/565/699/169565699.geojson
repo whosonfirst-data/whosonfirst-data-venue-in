@@ -1,0 +1,54 @@
+{
+  "id": 169565699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.564804,13.008142,77.564804,13.008142",
+    "geom:latitude":13.008142,
+    "geom:longitude":77.564804,
+    "iso:country":"IN",
+    "sg:address":"Malleswaram",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 803462657",
+    "sg:postcode":"560003",
+    "sg:province":"Karnataka",
+    "sg:website":"http://www.sysnetindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hzjTO5mrFeuduZteDsbwX_13.008142_77.564804@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"60f2e058025d491c3796147a65cfa2b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169565699
+        }
+    ],
+    "wof:id":169565699,
+    "wof:lastmodified":1449035663,
+    "wof:name":"Sysnet Associates (india) Ltd",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.564804,13.008142,77.564804,13.008142],
+  "geometry": {"coordinates":[77.564804,13.008142],"type":"Point"}
+}

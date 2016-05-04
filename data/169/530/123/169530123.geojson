@@ -1,0 +1,65 @@
+{
+  "id": 169530123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.87706,19.199612,72.87706,19.199612",
+    "geom:latitude":19.199612,
+    "geom:longitude":72.87706,
+    "iso:country":"IN",
+    "sg:address":"A-304, Koronet Building, Lokhandwala, Kandeveri East,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2885 6031",
+    "sg:postcode":"400101",
+    "sg:tags":[
+        "garment",
+        "childrenwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931529,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ojmAoH3vdwRSRyennulxC_19.199612_72.877060@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e3c15ba3c20ac57a31371bb43c3c5411",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931529,
+            "region_id":85672171,
+            "venue_id":169530123
+        }
+    ],
+    "wof:id":169530123,
+    "wof:lastmodified":1449034442,
+    "wof:name":"Prime Tex International",
+    "wof:parent_id":85931529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "childrenwear"
+    ]
+},
+  "bbox": [72.87706,19.199612,72.87706,19.199612],
+  "geometry": {"coordinates":[72.87706,19.199612],"type":"Point"}
+}

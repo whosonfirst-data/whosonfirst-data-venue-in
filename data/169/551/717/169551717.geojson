@@ -1,0 +1,64 @@
+{
+  "id": 169551717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.233536,22.286194,73.233536,22.286194",
+    "geom:latitude":22.286194,
+    "geom:longitude":73.233536,
+    "iso:country":"IN",
+    "sg:address":"97/98, G.i.d.c. Waghodia,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 266 2737",
+    "sg:postcode":"391760",
+    "sg:tags":[
+        "board",
+        "circuit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ElBkfCX7yy8nAJtIf6dS7_22.286194_73.233536@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"63e205b03c2abbebd0839cdf490581b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169551717
+        }
+    ],
+    "wof:id":169551717,
+    "wof:lastmodified":1449033351,
+    "wof:name":"Shree Electronics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "board",
+        "circuit"
+    ]
+},
+  "bbox": [73.233536,22.286194,73.233536,22.286194],
+  "geometry": {"coordinates":[73.233536,22.286194],"type":"Point"}
+}

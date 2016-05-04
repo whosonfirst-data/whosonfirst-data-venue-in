@@ -1,0 +1,65 @@
+{
+  "id": 169560003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.561867,17.462868,78.561867,17.462868",
+    "geom:latitude":17.462868,
+    "geom:longitude":78.561867,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 4/b, Phase I, Ida, Cherlapally,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2726 0124",
+    "sg:postcode":"500051",
+    "sg:tags":[
+        "product",
+        "gum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930661,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yrYVPUhZkdoAUC3XT6M6n_17.462868_78.561867@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"025391050c6e3089e7e408b86a17f498",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930661,
+            "region_id":85672141,
+            "venue_id":169560003
+        }
+    ],
+    "wof:id":169560003,
+    "wof:lastmodified":1449035182,
+    "wof:name":"Dayal Industries",
+    "wof:parent_id":85930661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "gum"
+    ]
+},
+  "bbox": [78.561867,17.462868,78.561867,17.462868],
+  "geometry": {"coordinates":[78.561867,17.462868],"type":"Point"}
+}

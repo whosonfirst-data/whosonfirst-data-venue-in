@@ -1,0 +1,63 @@
+{
+  "id": 169580051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.820892,26.924782,75.820892,26.924782",
+    "geom:latitude":26.924782,
+    "geom:longitude":75.820892,
+    "iso:country":"IN",
+    "sg:address":"142, M.g.d. Atish Market,",
+    "sg:city":"Jaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 141 231 2866",
+    "sg:postcode":"302002",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934477,
+        85632469,
+        102030017,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cu7SbEvQklLsEIcFYo6cj_26.924782_75.820892@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6d5bad3af76debdc726bec22ed53f2c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030017,
+            "neighbourhood_id":85934477,
+            "region_id":85672201,
+            "venue_id":169580051
+        }
+    ],
+    "wof:id":169580051,
+    "wof:lastmodified":1449034916,
+    "wof:name":"International Traders (india)",
+    "wof:parent_id":85934477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.820892,26.924782,75.820892,26.924782],
+  "geometry": {"coordinates":[75.820892,26.924782],"type":"Point"}
+}

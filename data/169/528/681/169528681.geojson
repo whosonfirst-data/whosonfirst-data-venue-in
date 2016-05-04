@@ -1,0 +1,64 @@
+{
+  "id": 169528681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.856079,19.109003,72.856079,19.109003",
+    "geom:latitude":19.109003,
+    "geom:longitude":72.856079,
+    "iso:country":"IN",
+    "sg:address":"302, Koldongri C.h.s, Sahar Road, Andheri(e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2834 1654",
+    "sg:postcode":"400099",
+    "sg:tags":[
+        "bulk"
+    ],
+    "sg:website":"http://www.glowexports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931483,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_718IOAkd1QDR844BIFPagN_19.109003_72.856079@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1f585a0aa9a806d47e1b4396e54fc558",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931483,
+            "region_id":85672171,
+            "venue_id":169528681
+        }
+    ],
+    "wof:id":169528681,
+    "wof:lastmodified":1449033569,
+    "wof:name":"Glow Export Trading Pvt. Ltd.",
+    "wof:parent_id":85931483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk"
+    ]
+},
+  "bbox": [72.856079,19.109003,72.856079,19.109003],
+  "geometry": {"coordinates":[72.856079,19.109003],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169589245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.144203,28.73243,77.144203,28.73243",
+    "geom:latitude":28.73243,
+    "geom:longitude":77.144203,
+    "iso:country":"IN",
+    "sg:address":"511, Amba Tower, Community Centre, Dc Chowk, Sector-19, Rohini,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4703 7311",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927931,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QydPTI1XiQZrpPAQHs5cK_28.732430_77.144203@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"60de2b9a3803d175596b7bce79a75b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85927931,
+            "region_id":85672123,
+            "venue_id":169589245
+        }
+    ],
+    "wof:id":169589245,
+    "wof:lastmodified":1449034450,
+    "wof:name":"Metawares India Pvt. Ltd.",
+    "wof:parent_id":85927931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.144203,28.73243,77.144203,28.73243],
+  "geometry": {"coordinates":[77.144203,28.73243],"type":"Point"}
+}

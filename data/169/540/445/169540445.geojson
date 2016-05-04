@@ -1,0 +1,65 @@
+{
+  "id": 169540445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.583336,12.928665,77.583336,12.928665",
+    "geom:latitude":12.928665,
+    "geom:longitude":77.583336,
+    "iso:country":"IN",
+    "sg:address":"#73, 30th Cross, 4th Block, Jayanagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2664 6562",
+    "sg:postcode":"560011",
+    "sg:tags":[
+        "garment",
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930887,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Xw3DR72lK92bzWrMMZ64Y_12.928665_77.583336@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"aa59cd09ca952050024b0649612b247b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930887,
+            "region_id":85672165,
+            "venue_id":169540445
+        }
+    ],
+    "wof:id":169540445,
+    "wof:lastmodified":1449033972,
+    "wof:name":"Sri Vinayaka Textiles",
+    "wof:parent_id":85930887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "silk"
+    ]
+},
+  "bbox": [77.583336,12.928665,77.583336,12.928665],
+  "geometry": {"coordinates":[77.583336,12.928665],"type":"Point"}
+}

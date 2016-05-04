@@ -1,0 +1,63 @@
+{
+  "id": 169629953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.531906,13.015342,77.531906,13.015342",
+    "geom:latitude":13.015342,
+    "geom:longitude":77.531906,
+    "iso:country":"IN",
+    "sg:address":"201, 12th Main, Peenya Industrial Area, 3rd Phase,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2839 4809",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33CIW0nVQzU0ZCFnR4JZxD_13.015342_77.531906@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bad3b8b6d58e6ad5d0bd368064eb560b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169629953
+        }
+    ],
+    "wof:id":169629953,
+    "wof:lastmodified":1449035186,
+    "wof:name":"Sudha Minechem Industries",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.531906,13.015342,77.531906,13.015342],
+  "geometry": {"coordinates":[77.531906,13.015342],"type":"Point"}
+}

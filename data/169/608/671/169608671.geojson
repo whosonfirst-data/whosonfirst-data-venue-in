@@ -1,0 +1,63 @@
+{
+  "id": 169608671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.260017,13.034745,80.260017,13.034745",
+    "geom:latitude":13.034745,
+    "geom:longitude":80.260017,
+    "iso:country":"IN",
+    "sg:address":"46, Warren Road, Mylapore,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2499 4172",
+    "sg:postcode":"600004",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931737,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_445qgYjFdKDSJIhZHHCpYX_13.034745_80.260017@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a14bfe65da450075dac08c725c62f162",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931737,
+            "region_id":85672245,
+            "venue_id":169608671
+        }
+    ],
+    "wof:id":169608671,
+    "wof:lastmodified":1449034079,
+    "wof:name":"Ram Exports",
+    "wof:parent_id":85931737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.260017,13.034745,80.260017,13.034745],
+  "geometry": {"coordinates":[80.260017,13.034745],"type":"Point"}
+}

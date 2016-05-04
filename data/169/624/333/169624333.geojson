@@ -1,0 +1,62 @@
+{
+  "id": 169624333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.273148,28.707514,77.273148,28.707514",
+    "geom:latitude":28.707514,
+    "geom:longitude":77.273148,
+    "iso:country":"IN",
+    "sg:address":"D/66, Street No. 4, Bhajanpura,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2256 3718",
+    "sg:postcode":"110053",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47NTr19JASym7FbPnQ0Fxy_28.707514_77.273148@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b6c2b4476b1adc81efe66fc18142d99c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169624333
+        }
+    ],
+    "wof:id":169624333,
+    "wof:lastmodified":1449034959,
+    "wof:name":"Sigmaa Rubber Inc.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.273148,28.707514,77.273148,28.707514],
+  "geometry": {"coordinates":[77.273148,28.707514],"type":"Point"}
+}

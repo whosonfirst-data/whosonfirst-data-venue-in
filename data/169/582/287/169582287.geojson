@@ -1,0 +1,63 @@
+{
+  "id": 169582287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.199699,28.652229,77.199699,28.652229",
+    "geom:latitude":28.652229,
+    "geom:longitude":77.199699,
+    "iso:country":"IN",
+    "sg:address":"22/740, Joshi Road, Karol Bagh,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2367 5050",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928243,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xm5aXaYUFoOR4WkUhiBsy_28.652229_77.199699@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bb992419973c732edd990b24527da8e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928243,
+            "region_id":85672123,
+            "venue_id":169582287
+        }
+    ],
+    "wof:id":169582287,
+    "wof:lastmodified":1449034462,
+    "wof:name":"Kawatra Agency",
+    "wof:parent_id":85928243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.199699,28.652229,77.199699,28.652229],
+  "geometry": {"coordinates":[77.199699,28.652229],"type":"Point"}
+}

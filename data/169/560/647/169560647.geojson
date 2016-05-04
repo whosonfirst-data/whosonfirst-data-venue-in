@@ -1,0 +1,64 @@
+{
+  "id": 169560647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.289543,28.633049,77.289543,28.633049",
+    "geom:latitude":28.633049,
+    "geom:longitude":77.289543,
+    "iso:country":"IN",
+    "sg:address":"C-147, Madhuban, Near Universal Public School,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2250 2064",
+    "sg:postcode":"110092",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.doshion.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928351,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20tk4AFnTTJQZ25h1LbKpN_28.633049_77.289543@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f84a4ecb46c435166f36eab330b39eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928351,
+            "region_id":85672123,
+            "venue_id":169560647
+        }
+    ],
+    "wof:id":169560647,
+    "wof:lastmodified":1449035182,
+    "wof:name":"Doshi Ion Exchange & Chemical Industries",
+    "wof:parent_id":85928351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [77.289543,28.633049,77.289543,28.633049],
+  "geometry": {"coordinates":[77.289543,28.633049],"type":"Point"}
+}

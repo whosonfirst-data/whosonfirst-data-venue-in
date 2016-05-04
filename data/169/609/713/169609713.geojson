@@ -1,0 +1,66 @@
+{
+  "id": 169609713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.225021,28.665384,77.225021,28.665384",
+    "geom:latitude":28.665384,
+    "geom:longitude":77.225021,
+    "iso:country":"IN",
+    "sg:address":"3491, Nichalson Road,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 6581 3413",
+    "sg:postcode":"110001",
+    "sg:tags":[
+        "silica",
+        "gel"
+    ],
+    "sg:website":"http://www.silicagelindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928109,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M1BvbZYKbi65oyWDQVMcU_28.665384_77.225021@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0cf845d10a9e90f00ba204f9574df6cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928109,
+            "region_id":85672123,
+            "venue_id":169609713
+        }
+    ],
+    "wof:id":169609713,
+    "wof:lastmodified":1449033922,
+    "wof:name":"Ravi Industries",
+    "wof:parent_id":85928109,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silica",
+        "gel"
+    ]
+},
+  "bbox": [77.225021,28.665384,77.225021,28.665384],
+  "geometry": {"coordinates":[77.225021,28.665384],"type":"Point"}
+}

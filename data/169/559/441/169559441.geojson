@@ -1,0 +1,64 @@
+{
+  "id": 169559441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.085381,28.497454,77.085381,28.497454",
+    "geom:latitude":28.497454,
+    "geom:longitude":77.085381,
+    "iso:country":"IN",
+    "sg:address":"896, Udyog Vihar, Phase-i,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 400 4445",
+    "sg:postcode":"122016",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.climaxoverseas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928557,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vrNkEzwxKWk17DM5FJ2Lw_28.497454_77.085381@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0ede4f76612ead9421444df4047a65e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928557,
+            "region_id":85672133,
+            "venue_id":169559441
+        }
+    ],
+    "wof:id":169559441,
+    "wof:lastmodified":1449035237,
+    "wof:name":"Climax Overseas Pvt. Ltd.",
+    "wof:parent_id":85928557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.085381,28.497454,77.085381,28.497454],
+  "geometry": {"coordinates":[77.085381,28.497454],"type":"Point"}
+}

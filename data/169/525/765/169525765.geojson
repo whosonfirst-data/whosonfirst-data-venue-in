@@ -1,0 +1,69 @@
+{
+  "id": 169525765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.825981,18.933695,72.825981,18.933695",
+    "geom:latitude":18.933695,
+    "geom:longitude":72.825981,
+    "iso:country":"IN",
+    "sg:address":"Nagin Mahal, Flat No. 10, 3rd Floor,veer Nariman Road, Churchgate,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2204 8830",
+    "sg:postcode":"400020",
+    "sg:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903879,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KiaPnQHxo3s4WI0nMYEON_18.933695_72.825981@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6d22816ae86cac5e95c7d807cd11386f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903879,
+            "region_id":85672171,
+            "venue_id":169525765
+        }
+    ],
+    "wof:id":169525765,
+    "wof:lastmodified":1449035275,
+    "wof:name":"Taton Commercial Pvt. Ltd.",
+    "wof:parent_id":85903879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ]
+},
+  "bbox": [72.825981,18.933695,72.825981,18.933695],
+  "geometry": {"coordinates":[72.825981,18.933695],"type":"Point"}
+}

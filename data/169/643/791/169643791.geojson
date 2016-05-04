@@ -1,0 +1,64 @@
+{
+  "id": 169643791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.31234,28.468845,77.31234,28.468845",
+    "geom:latitude":28.468845,
+    "geom:longitude":77.31234,
+    "iso:country":"IN",
+    "sg:address":"27, Dlf Ind. Area,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2516 5687",
+    "sg:postcode":"110015",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.vikashrolls.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928379,
+        85632469,
+        102030289,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0siCbt5FvRld1YuW1aKUms_28.468845_77.312340@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e06c64cd92a31c3c5207c483928b0914",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030289,
+            "neighbourhood_id":85928379,
+            "region_id":85672133,
+            "venue_id":169643791
+        }
+    ],
+    "wof:id":169643791,
+    "wof:lastmodified":1449035524,
+    "wof:name":"Vikash Polymers",
+    "wof:parent_id":85928379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.31234,28.468845,77.31234,28.468845],
+  "geometry": {"coordinates":[77.31234,28.468845],"type":"Point"}
+}

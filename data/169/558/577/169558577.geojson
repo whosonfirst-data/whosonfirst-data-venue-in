@@ -1,0 +1,68 @@
+{
+  "id": 169558577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.237106,13.031945,80.237106,13.031945",
+    "geom:latitude":13.031945,
+    "geom:longitude":80.237106,
+    "iso:country":"IN",
+    "sg:address":"66, South Boag Road, T.nagar,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2432 1725",
+    "sg:postcode":"600017",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "sg:website":"http://www.ravigroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903981,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YQNVC6PmckQBHcbPIgEhF_13.031945_80.237106@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b5bc40930376428b5d780cab33cf1330",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903981,
+            "region_id":85672245,
+            "venue_id":169558577
+        }
+    ],
+    "wof:id":169558577,
+    "wof:lastmodified":1449033582,
+    "wof:name":"Brilliant Coatings (p) Ltd.",
+    "wof:parent_id":85903981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [80.237106,13.031945,80.237106,13.031945],
+  "geometry": {"coordinates":[80.237106,13.031945],"type":"Point"}
+}

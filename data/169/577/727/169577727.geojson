@@ -1,0 +1,62 @@
+{
+  "id": 169577727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.277618,9.985191,76.277618,9.985191",
+    "geom:latitude":9.985191,
+    "geom:longitude":76.277618,
+    "iso:country":"IN",
+    "sg:address":"41/1918, Banerji Road, Ernakulam North,",
+    "sg:city":"Kochi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 484 236 9036",
+    "sg:postcode":"682018",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.goodwill.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783505,
+        102030497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M2tfBiCOH0znGwWDfoIqf_9.985191_76.277618@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"02a3699c8981ec64c7e1296f6d44c34b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030497,
+            "neighbourhood_id":85783505,
+            "region_id":-1,
+            "venue_id":169577727
+        }
+    ],
+    "wof:id":169577727,
+    "wof:lastmodified":1449036065,
+    "wof:name":"Goodwill Exports & Imports",
+    "wof:parent_id":85783505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [76.277618,9.985191,76.277618,9.985191],
+  "geometry": {"coordinates":[76.277618,9.985191],"type":"Point"}
+}

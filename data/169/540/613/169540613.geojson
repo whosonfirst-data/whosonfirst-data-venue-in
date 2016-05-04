@@ -1,0 +1,61 @@
+{
+  "id": 169540613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.541473,26.123846,75.541473,26.123846",
+    "geom:latitude":26.123846,
+    "geom:longitude":75.541473,
+    "iso:country":"IN",
+    "sg:address":"73, C.t. Street,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2222 8493",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Dm0U7WkZJ2TK2XBI9dwz6_26.123846_75.541473@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"956b14b31edd59b66e6cc31f20a5d6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672201,
+            "venue_id":169540613
+        }
+    ],
+    "wof:id":169540613,
+    "wof:lastmodified":1449033977,
+    "wof:name":"Balaji Silks",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [75.541473,26.123846,75.541473,26.123846],
+  "geometry": {"coordinates":[75.541473,26.123846],"type":"Point"}
+}

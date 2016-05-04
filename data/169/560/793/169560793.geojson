@@ -1,0 +1,67 @@
+{
+  "id": 169560793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.821991,18.926422,72.821991,18.926422",
+    "geom:latitude":18.926422,
+    "geom:longitude":72.821991,
+    "iso:country":"IN",
+    "sg:address":"114, Mittal Chambers, Nariman Point,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2202 5583",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mjKzRDkdDBHnfqoGdBgyt_18.926422_72.821991@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"12f37ce26217d6b5592de7ada5602dba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169560793
+        }
+    ],
+    "wof:id":169560793,
+    "wof:lastmodified":1449035181,
+    "wof:name":"E. O. C. Tailor Made Polymers India",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [72.821991,18.926422,72.821991,18.926422],
+  "geometry": {"coordinates":[72.821991,18.926422],"type":"Point"}
+}

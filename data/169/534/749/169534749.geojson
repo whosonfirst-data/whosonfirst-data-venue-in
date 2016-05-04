@@ -1,0 +1,67 @@
+{
+  "id": 169534749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.332436,28.559198,77.332436,28.559198",
+    "geom:latitude":28.559198,
+    "geom:longitude":77.332436,
+    "iso:country":"IN",
+    "sg:address":"30, Amrapali Industrial Estate,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2872 2228",
+    "sg:postcode":"400104",
+    "sg:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928411,
+        85632469,
+        102031133,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L90nsPlre4XQVkagGLCV0_28.559198_77.332436@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"306082f1e18b471e464ca939f255b7fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031133,
+            "neighbourhood_id":85928411,
+            "region_id":85672205,
+            "venue_id":169534749
+        }
+    ],
+    "wof:id":169534749,
+    "wof:lastmodified":1449033547,
+    "wof:name":"Jyoti Electric Industries",
+    "wof:parent_id":85928411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ]
+},
+  "bbox": [77.332436,28.559198,77.332436,28.559198],
+  "geometry": {"coordinates":[77.332436,28.559198],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169541609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.597244,12.999515,77.597244,12.999515",
+    "geom:latitude":12.999515,
+    "geom:longitude":77.597244,
+    "iso:country":"IN",
+    "sg:address":"#30, 5 Main Road, Jayamahal Extension,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2333 0913",
+    "sg:postcode":"560046",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"http://www.ssgindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931119,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XvJiie8cKkllIogFiN5kw_12.999515_77.597244@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"490abcd8451437ba7922723cca10d65c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931119,
+            "region_id":85672165,
+            "venue_id":169541609
+        }
+    ],
+    "wof:id":169541609,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Ssg India",
+    "wof:parent_id":85931119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.597244,12.999515,77.597244,12.999515],
+  "geometry": {"coordinates":[77.597244,12.999515],"type":"Point"}
+}

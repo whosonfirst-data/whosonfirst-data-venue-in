@@ -1,0 +1,64 @@
+{
+  "id": 169541635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.220711,13.052671,80.220711,13.052671",
+    "geom:latitude":13.052671,
+    "geom:longitude":80.220711,
+    "iso:country":"IN",
+    "sg:address":"73/b, Electronics City, Industrial Estate,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2852 2297",
+    "sg:postcode":"560100",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"http://www.system-controls.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903935,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NwXmg05cbwMs9wYCc6kKx_13.052671_80.220711@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ab0f7ee0e2ccd725ccfcf31c77be00af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903935,
+            "region_id":85672245,
+            "venue_id":169541635
+        }
+    ],
+    "wof:id":169541635,
+    "wof:lastmodified":1449033042,
+    "wof:name":"System Controls",
+    "wof:parent_id":85903935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [80.220711,13.052671,80.220711,13.052671],
+  "geometry": {"coordinates":[80.220711,13.052671],"type":"Point"}
+}

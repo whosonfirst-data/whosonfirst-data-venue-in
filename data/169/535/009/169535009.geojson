@@ -1,0 +1,68 @@
+{
+  "id": 169535009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.815704,18.961235,72.815704,18.961235",
+    "geom:latitude":18.961235,
+    "geom:longitude":72.815704,
+    "iso:country":"IN",
+    "sg:address":"50, Proctor Road, B-8, Janardan Bldg.,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2388 6082",
+    "sg:postcode":"400007",
+    "sg:tags":[
+        "component",
+        "product",
+        "electronic"
+    ],
+    "sg:website":"http://www.microchip.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903971,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KC1PTFEksICy27yx4Hj6G_18.961235_72.815704@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ba2d2c8770e413019905c8d8b98650a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903971,
+            "region_id":85672171,
+            "venue_id":169535009
+        }
+    ],
+    "wof:id":169535009,
+    "wof:lastmodified":1449033288,
+    "wof:name":"Micro-chip Technologies",
+    "wof:parent_id":85903971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "product",
+        "electronic"
+    ]
+},
+  "bbox": [72.815704,18.961235,72.815704,18.961235],
+  "geometry": {"coordinates":[72.815704,18.961235],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169644279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.271912,28.531528,77.271912,28.531528",
+    "geom:latitude":28.531528,
+    "geom:longitude":77.271912,
+    "iso:country":"IN",
+    "sg:address":"F-26/3, Okhla Industrial Area , Phase - 2,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2638 4198",
+    "sg:postcode":"110020",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.alaska-vinko.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927991,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55o98ipEFsCDltK4svJtWP_28.531528_77.271912@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"60a02d034f33719a2cc38e992920abe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927991,
+            "region_id":85672123,
+            "venue_id":169644279
+        }
+    ],
+    "wof:id":169644279,
+    "wof:lastmodified":1449034576,
+    "wof:name":"Vinko Auto Ind. Ltd.",
+    "wof:parent_id":85927991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.271912,28.531528,77.271912,28.531528],
+  "geometry": {"coordinates":[77.271912,28.531528],"type":"Point"}
+}

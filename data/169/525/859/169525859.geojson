@@ -1,0 +1,65 @@
+{
+  "id": 169525859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.824333,19.011509,72.824333,19.011509",
+    "geom:latitude":19.011509,
+    "geom:longitude":72.824333,
+    "iso:country":"IN",
+    "sg:address":"435/436, Kaliandas Udyog Bhavan, Near Century Bazar, Prabhadevi,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2430 3032",
+    "sg:postcode":"400025",
+    "sg:tags":[
+        "air-compressing",
+        "air-separation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931467,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XGxI8C5QVxZAvRlwemvDi_19.011509_72.824333@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"780df150e6024de716b8e21a9c95e49a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931467,
+            "region_id":85672171,
+            "venue_id":169525859
+        }
+    ],
+    "wof:id":169525859,
+    "wof:lastmodified":1449035275,
+    "wof:name":"Pneumech Compressor Co.",
+    "wof:parent_id":85931467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air-compressing",
+        "air-separation"
+    ]
+},
+  "bbox": [72.824333,19.011509,72.824333,19.011509],
+  "geometry": {"coordinates":[72.824333,19.011509],"type":"Point"}
+}

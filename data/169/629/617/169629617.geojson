@@ -1,0 +1,63 @@
+{
+  "id": 169629617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.217125,28.644213,77.217125,28.644213",
+    "geom:latitude":28.644213,
+    "geom:longitude":77.217125,
+    "iso:country":"IN",
+    "sg:address":"8/6, D. B. Gupta Road, Paharganj,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2358 2379",
+    "sg:postcode":"110055",
+    "sg:tags":[
+        "pigment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903937,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pZztwutBWMgZhCKjapvAC_28.644213_77.217125@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"394feb7f5093fff605d103b4e19dcc9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903937,
+            "region_id":85672123,
+            "venue_id":169629617
+        }
+    ],
+    "wof:id":169629617,
+    "wof:lastmodified":1449035182,
+    "wof:name":"Sudarshan Chemical Ind. Ltd.",
+    "wof:parent_id":85903937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [77.217125,28.644213,77.217125,28.644213],
+  "geometry": {"coordinates":[77.217125,28.644213],"type":"Point"}
+}

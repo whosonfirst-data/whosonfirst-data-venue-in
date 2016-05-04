@@ -1,0 +1,63 @@
+{
+  "id": 169538991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.565048,12.945239,77.565048,12.945239",
+    "geom:latitude":12.945239,
+    "geom:longitude":77.565048,
+    "iso:country":"IN",
+    "sg:address":"37/9, 8th Cross, Azad Nagar, (chamarajpet),",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4113 5384",
+    "sg:postcode":"560018",
+    "sg:tags":[
+        "rice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930907,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0C5vcEH8NZqB7w2ogBqpc1_12.945239_77.565048@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bab4c91bf732006f2b0831e4f6b882b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930907,
+            "region_id":85672165,
+            "venue_id":169538991
+        }
+    ],
+    "wof:id":169538991,
+    "wof:lastmodified":1449033098,
+    "wof:name":"All Indian Naturals",
+    "wof:parent_id":85930907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rice"
+    ]
+},
+  "bbox": [77.565048,12.945239,77.565048,12.945239],
+  "geometry": {"coordinates":[77.565048,12.945239],"type":"Point"}
+}

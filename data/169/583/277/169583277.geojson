@@ -1,0 +1,64 @@
+{
+  "id": 169583277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.851112,19.137617,72.851112,19.137617",
+    "geom:latitude":19.137617,
+    "geom:longitude":72.851112,
+    "iso:country":"IN",
+    "sg:address":"122/123, Pioneer Industrial Estate, Subhash Road, Jogeshwari (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2823 6016",
+    "sg:postcode":"400060",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.chemibond.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931511,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47hGs3diolF9GBS4NZVwg7_19.137617_72.851112@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"936baec92f7b443785052f0b518da855",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931511,
+            "region_id":85672171,
+            "venue_id":169583277
+        }
+    ],
+    "wof:id":169583277,
+    "wof:lastmodified":1449035264,
+    "wof:name":"Kothari Group Of Industries",
+    "wof:parent_id":85931511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.851112,19.137617,72.851112,19.137617],
+  "geometry": {"coordinates":[72.851112,19.137617],"type":"Point"}
+}

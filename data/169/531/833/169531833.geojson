@@ -1,0 +1,70 @@
+{
+  "id": 169531833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.897438,19.123779,72.897438,19.123779",
+    "geom:latitude":19.123779,
+    "geom:longitude":72.897438,
+    "iso:country":"IN",
+    "sg:address":"Saki Powai Road, Chandivali,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2847 1861",
+    "sg:postcode":"400072",
+    "sg:tags":[
+        "cutter",
+        "cutting",
+        "tools",
+        "broach"
+    ],
+    "sg:website":"http://www.totem-forbes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931519,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FYAfog2kk5PyXxbgpVUb4_19.123779_72.897438@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cb1fa63408cddf73855ab85be274e95d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931519,
+            "region_id":85672171,
+            "venue_id":169531833
+        }
+    ],
+    "wof:id":169531833,
+    "wof:lastmodified":1449033472,
+    "wof:name":"Forbes Gokak Ltd.",
+    "wof:parent_id":85931519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cutter",
+        "cutting",
+        "tools",
+        "broach"
+    ]
+},
+  "bbox": [72.897438,19.123779,72.897438,19.123779],
+  "geometry": {"coordinates":[72.897438,19.123779],"type":"Point"}
+}

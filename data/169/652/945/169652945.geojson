@@ -1,0 +1,65 @@
+{
+  "id": 169652945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.260575,13.048569,80.260575,13.048569",
+    "geom:latitude":13.048569,
+    "geom:longitude":80.260575,
+    "iso:country":"IN",
+    "sg:address":"250, Lloyds Road,",
+    "sg:city":"Royapettah, Chennai \n",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"600 014",
+    "sg:tags":[
+        "online-pharmacy",
+        "prescription-drugs"
+    ],
+    "sg:website":"http://www.internationaldrugmart.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903975,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MOvEicVDZ9BS9LsFP2PUI_13.048569_80.260575@1308163238"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a4ded905662b3d1d09458599259fee31",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903975,
+            "region_id":85672245,
+            "venue_id":169652945
+        }
+    ],
+    "wof:id":169652945,
+    "wof:lastmodified":1449034806,
+    "wof:name":"International Drug Mart",
+    "wof:parent_id":85903975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "online-pharmacy",
+        "prescription-drugs"
+    ]
+},
+  "bbox": [80.260575,13.048569,80.260575,13.048569],
+  "geometry": {"coordinates":[80.260575,13.048569],"type":"Point"}
+}

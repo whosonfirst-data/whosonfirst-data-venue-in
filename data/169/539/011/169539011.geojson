@@ -1,0 +1,63 @@
+{
+  "id": 169539011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.58033,12.971139,77.58033,12.971139",
+    "geom:latitude":12.971139,
+    "geom:longitude":77.58033,
+    "iso:country":"IN",
+    "sg:address":"48/1, Sanjeevappa Lane, Avenue Road Cross,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2221 3322",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "rice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mQcIvagyXcGRJ6Av5Rsp3_12.971139_77.580330@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f7458906fa301e1b0bda3395dfaaeebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169539011
+        }
+    ],
+    "wof:id":169539011,
+    "wof:lastmodified":1449036039,
+    "wof:name":"Raja Mahal Silks",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rice"
+    ]
+},
+  "bbox": [77.58033,12.971139,77.58033,12.971139],
+  "geometry": {"coordinates":[77.58033,12.971139],"type":"Point"}
+}

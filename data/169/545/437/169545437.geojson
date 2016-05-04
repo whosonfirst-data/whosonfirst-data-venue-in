@@ -1,0 +1,64 @@
+{
+  "id": 169545437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.943962,11.05149,76.943962,11.05149",
+    "geom:latitude":11.05149,
+    "geom:longitude":76.943962,
+    "iso:country":"IN",
+    "sg:address":"1/1, Cheran Nagar,",
+    "sg:city":"Thiruporur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 435 5956",
+    "sg:postcode":"641606",
+    "sg:tags":[
+        "knitted",
+        "knitwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r0jjLN8IYK1IciSOrzMK0_11.051490_76.943962@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fef3bf66c119146d39c55fb285ec634e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169545437
+        }
+    ],
+    "wof:id":169545437,
+    "wof:lastmodified":1449033486,
+    "wof:name":"The Natural Impex",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitted",
+        "knitwear"
+    ]
+},
+  "bbox": [76.943962,11.05149,76.943962,11.05149],
+  "geometry": {"coordinates":[76.943962,11.05149],"type":"Point"}
+}

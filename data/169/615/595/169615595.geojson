@@ -1,0 +1,63 @@
+{
+  "id": 169615595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.923538,19.056025,72.923538,19.056025",
+    "geom:latitude":19.056025,
+    "geom:longitude":72.923538,
+    "iso:country":"IN",
+    "sg:address":"B-61, Secotr-2,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 645 5199",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931557,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KGpIq0k8ZhMWIzApO5GJ3_19.056025_72.923538@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"49a84a18b191ba674488c804a744b12c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931557,
+            "region_id":85672171,
+            "venue_id":169615595
+        }
+    ],
+    "wof:id":169615595,
+    "wof:lastmodified":1449033733,
+    "wof:name":"Sandhya Engineering Industries",
+    "wof:parent_id":85931557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.923538,19.056025,72.923538,19.056025],
+  "geometry": {"coordinates":[72.923538,19.056025],"type":"Point"}
+}

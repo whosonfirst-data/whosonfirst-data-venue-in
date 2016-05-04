@@ -1,0 +1,63 @@
+{
+  "id": 169583549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.353622,22.548283,88.353622,22.548283",
+    "geom:latitude":22.548283,
+    "geom:longitude":88.353622,
+    "iso:country":"IN",
+    "sg:address":"410, Vardaan Building, 25a, Camac Street,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2287 1367",
+    "sg:postcode":"700016",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931951,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BmM9m8IDLzjf6trTdnyFU_22.548283_88.353622@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5175dd52e625f6ecdd821c5249cafd11",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931951,
+            "region_id":85672219,
+            "venue_id":169583549
+        }
+    ],
+    "wof:id":169583549,
+    "wof:lastmodified":1449035266,
+    "wof:name":"Krypton Industries Ltd.",
+    "wof:parent_id":85931951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.353622,22.548283,88.353622,22.548283],
+  "geometry": {"coordinates":[88.353622,22.548283],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 169536359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.8312,19.144722,72.8312,19.144722",
+    "geom:latitude":19.144722,
+    "geom:longitude":72.8312,
+    "iso:country":"IN",
+    "sg:address":"9-m, Laxmi Industrial Estate, New Link Road, Andheri (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5696 3770",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931475,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66SqC2xLB6Q9oho2nWxNLq_19.144722_72.831200@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"340ce584f00de6e4cbdcad72172fd41f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931475,
+            "region_id":85672171,
+            "venue_id":169536359
+        }
+    ],
+    "wof:id":169536359,
+    "wof:lastmodified":1449034655,
+    "wof:name":"Tredz Creations",
+    "wof:parent_id":85931475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.8312,19.144722,72.8312,19.144722],
+  "geometry": {"coordinates":[72.8312,19.144722],"type":"Point"}
+}

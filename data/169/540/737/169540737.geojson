@@ -1,0 +1,63 @@
+{
+  "id": 169540737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.580116,12.970667,77.580116,12.970667",
+    "geom:latitude":12.970667,
+    "geom:longitude":77.580116,
+    "iso:country":"IN",
+    "sg:address":"No. 1, Annadanappa Lane Avenue Road Cross,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2221 8041",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NUwjdpGcLXkXBCS2civmX_12.970667_77.580116@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c861b5b83f42fa80f380e3ca5233f9be",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169540737
+        }
+    ],
+    "wof:id":169540737,
+    "wof:lastmodified":1449033976,
+    "wof:name":"Kalpana Telematics",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.580116,12.970667,77.580116,12.970667],
+  "geometry": {"coordinates":[77.580116,12.970667],"type":"Point"}
+}

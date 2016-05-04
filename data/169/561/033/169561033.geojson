@@ -1,0 +1,62 @@
+{
+  "id": 169561033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.370003,18.07,75.370003,18.07",
+    "geom:latitude":18.07,
+    "geom:longitude":75.370003,
+    "iso:country":"IN",
+    "sg:address":"C-25, M.i.d.c., Ambad,",
+    "sg:city":"Nashik",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 253 309 5300",
+    "sg:postcode":"422010",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"www.electromechnashik.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cCnnpjfD9PNc1zc06SO2J_18.070000_75.370003@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1939eb287e56ea72824de94a50d608fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169561033
+        }
+    ],
+    "wof:id":169561033,
+    "wof:lastmodified":1449035018,
+    "wof:name":"Electromech Engineering Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [75.370003,18.07,75.370003,18.07],
+  "geometry": {"coordinates":[75.370003,18.07],"type":"Point"}
+}

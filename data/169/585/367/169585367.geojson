@@ -1,0 +1,63 @@
+{
+  "id": 169585367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.153549,28.660975,77.153549,28.660975",
+    "geom:latitude":28.660975,
+    "geom:longitude":77.153549,
+    "iso:country":"IN",
+    "sg:address":"18, Najafgarh Road, Industrial Area,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2592 8554",
+    "sg:postcode":"110015",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927889,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GMwXfkH0uWAMa87CuQXHf_28.660975_77.153549@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d3957520cc85d5390fd18ba000aa8ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927889,
+            "region_id":85672123,
+            "venue_id":169585367
+        }
+    ],
+    "wof:id":169585367,
+    "wof:lastmodified":1449034888,
+    "wof:name":"M.c.a. Industries",
+    "wof:parent_id":85927889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.153549,28.660975,77.153549,28.660975],
+  "geometry": {"coordinates":[77.153549,28.660975],"type":"Point"}
+}

@@ -1,0 +1,53 @@
+{
+  "id": 169557701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.549934,13.003607,77.549934,13.003607",
+    "geom:latitude":13.003607,
+    "geom:longitude":77.549934,
+    "iso:country":"IN",
+    "sg:address":"1st Block, Rajajinagar",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 803327674",
+    "sg:postcode":"560010",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72o4CFJJa1Ng7Ah6P3mBkC_13.003607_77.549934@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6b8c7b91c575abf0d4b1604f111b5ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169557701
+        }
+    ],
+    "wof:id":169557701,
+    "wof:lastmodified":1449035037,
+    "wof:name":"Unique Computers",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.549934,13.003607,77.549934,13.003607],
+  "geometry": {"coordinates":[77.549934,13.003607],"type":"Point"}
+}

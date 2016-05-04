@@ -1,0 +1,63 @@
+{
+  "id": 169578717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.084869,28.508511,77.084869,28.508511",
+    "geom:latitude":28.508511,
+    "geom:longitude":77.084869,
+    "iso:country":"IN",
+    "sg:address":"K-3/106, Dlf Phase-2,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 254 2007",
+    "sg:postcode":"122002",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928563,
+        85632469,
+        102030161,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2clr3c5QbGaOdMCsZIJLGs_28.508511_77.084869@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c474ca78ae87a9e8e14809249ff71bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928563,
+            "region_id":85672123,
+            "venue_id":169578717
+        }
+    ],
+    "wof:id":169578717,
+    "wof:lastmodified":1449033519,
+    "wof:name":"Hilltake International",
+    "wof:parent_id":85928563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.084869,28.508511,77.084869,28.508511],
+  "geometry": {"coordinates":[77.084869,28.508511],"type":"Point"}
+}

@@ -1,0 +1,54 @@
+{
+  "id": 169563729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.849152,18.529585,73.849152,18.529585",
+    "geom:latitude":18.529585,
+    "geom:longitude":73.849152,
+    "iso:country":"IN",
+    "sg:address":"Behind Observatory",
+    "sg:city":"Pune",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 205535384",
+    "sg:postcode":"411005",
+    "sg:province":"Maharashtra",
+    "sg:website":"http://www.rieco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931327,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EM9FWckeLsqdrGTimhVvU_18.529585_73.849152@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"00f9deaa555e71499d65819d874a9e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931327,
+            "region_id":85672171,
+            "venue_id":169563729
+        }
+    ],
+    "wof:id":169563729,
+    "wof:lastmodified":1449032731,
+    "wof:name":"Rieco Industries Ltd",
+    "wof:parent_id":85931327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [73.849152,18.529585,73.849152,18.529585],
+  "geometry": {"coordinates":[73.849152,18.529585],"type":"Point"}
+}

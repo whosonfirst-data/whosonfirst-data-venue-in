@@ -1,0 +1,68 @@
+{
+  "id": 169542075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.633644,12.925854,77.633644,12.925854",
+    "geom:latitude":12.925854,
+    "geom:longitude":77.633644,
+    "iso:country":"IN",
+    "sg:address":"7, P.c. Lane, S.p. Road Cross,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2221 3568",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "steel",
+        "stainless",
+        "utensil"
+    ],
+    "sg:website":"http://www.mysoresteel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931041,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I1NLdHZUMyfNfcZ771Ich_12.925854_77.633644@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"249b8a40e4720609678c498a8c408ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931041,
+            "region_id":85672165,
+            "venue_id":169542075
+        }
+    ],
+    "wof:id":169542075,
+    "wof:lastmodified":1449035223,
+    "wof:name":"Mysore Steel Suppliers",
+    "wof:parent_id":85931041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "stainless",
+        "utensil"
+    ]
+},
+  "bbox": [77.633644,12.925854,77.633644,12.925854],
+  "geometry": {"coordinates":[77.633644,12.925854],"type":"Point"}
+}

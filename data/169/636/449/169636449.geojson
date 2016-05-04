@@ -1,0 +1,62 @@
+{
+  "id": 169636449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.846382,19.171909,72.846382,19.171909",
+    "geom:latitude":19.171909,
+    "geom:longitude":72.846382,
+    "iso:country":"IN",
+    "sg:address":"35-a, Udyog Nagaer,",
+    "sg:city":"Kanpur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"208022",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o4IMj7JYJG7taLOGOi5FI_19.171909_72.846382@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b10abcab3ff5e04f59eb0df093530a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169636449
+        }
+    ],
+    "wof:id":169636449,
+    "wof:lastmodified":1449033988,
+    "wof:name":"Time Rubber Factory",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.846382,19.171909,72.846382,19.171909],
+  "geometry": {"coordinates":[72.846382,19.171909],"type":"Point"}
+}

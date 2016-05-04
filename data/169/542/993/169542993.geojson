@@ -1,0 +1,65 @@
+{
+  "id": 169542993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.547554,13.009221,77.547554,13.009221",
+    "geom:latitude":13.009221,
+    "geom:longitude":77.547554,
+    "iso:country":"IN",
+    "sg:address":"D-2167, 3rd Main Road, Shankar Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2343 8484",
+    "sg:postcode":"560092",
+    "sg:tags":[
+        "equipment",
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HYqOGFwI9mkTO7mhctYvI_13.009221_77.547554@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fb604c37a6dda5b5453a42afeb9d8843",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169542993
+        }
+    ],
+    "wof:id":169542993,
+    "wof:lastmodified":1449035220,
+    "wof:name":"Tele India Dimensions",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telecommunication"
+    ]
+},
+  "bbox": [77.547554,13.009221,77.547554,13.009221],
+  "geometry": {"coordinates":[77.547554,13.009221],"type":"Point"}
+}

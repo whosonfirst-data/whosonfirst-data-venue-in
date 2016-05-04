@@ -1,0 +1,71 @@
+{
+  "id": 169534421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.858429,19.170286,72.858429,19.170286",
+    "geom:latitude":19.170286,
+    "geom:longitude":72.858429,
+    "iso:country":"IN",
+    "sg:address":"139, Kohinoor Indl., Western Express Highway, Goregaon (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6702 2804",
+    "sg:postcode":"400063",
+    "sg:tags":[
+        "lighting",
+        "product",
+        "electrical",
+        "component",
+        "/"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931525,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5flUDvms1FsmCbG4AQGIfP_19.170286_72.858429@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e74112fc2717787172d247f3fba67e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931525,
+            "region_id":85672171,
+            "venue_id":169534421
+        }
+    ],
+    "wof:id":169534421,
+    "wof:lastmodified":1449033549,
+    "wof:name":"Lumens Group Of Companies",
+    "wof:parent_id":85931525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "product",
+        "electrical",
+        "component",
+        "/"
+    ]
+},
+  "bbox": [72.858429,19.170286,72.858429,19.170286],
+  "geometry": {"coordinates":[72.858429,19.170286],"type":"Point"}
+}

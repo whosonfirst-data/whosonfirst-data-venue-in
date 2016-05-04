@@ -1,0 +1,66 @@
+{
+  "id": 169558739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.366592,22.567659,88.366592,22.567659",
+    "geom:latitude":22.567659,
+    "geom:longitude":88.366592,
+    "iso:country":"IN",
+    "sg:address":"126/a, Bepin Behari, Ganguly Street,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2227 2625",
+    "sg:postcode":"700012",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "sg:website":"http://www.aksorganich.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903793,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eLVlXtpXzES0CgrysQmLm_22.567659_88.366592@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"df2ae268a324ccdec0c997c35b604a51",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903793,
+            "region_id":85672219,
+            "venue_id":169558739
+        }
+    ],
+    "wof:id":169558739,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Calcutta Chemical Corporation",
+    "wof:parent_id":85903793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [88.366592,22.567659,88.366592,22.567659],
+  "geometry": {"coordinates":[88.366592,22.567659],"type":"Point"}
+}

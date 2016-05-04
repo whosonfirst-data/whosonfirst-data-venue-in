@@ -1,0 +1,64 @@
+{
+  "id": 169642303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.377815,22.468954,88.377815,22.468954",
+    "geom:latitude":22.468954,
+    "geom:longitude":88.377815,
+    "iso:country":"IN",
+    "sg:address":"1/b, Raja Subodh Mullick Square,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2237 0997",
+    "sg:postcode":"700013",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "sg:website":"http://www.freewebs.com/venucor",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85932047,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06PYfIwrXf4HaiLpxBpA1K_22.468954_88.377815@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2aacb6e9616adc2d0e1b51b8458b193c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85932047,
+            "region_id":85672219,
+            "venue_id":169642303
+        }
+    ],
+    "wof:id":169642303,
+    "wof:lastmodified":1449032877,
+    "wof:name":"Venus Corporation",
+    "wof:parent_id":85932047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [88.377815,22.468954,88.377815,22.468954],
+  "geometry": {"coordinates":[88.377815,22.468954],"type":"Point"}
+}

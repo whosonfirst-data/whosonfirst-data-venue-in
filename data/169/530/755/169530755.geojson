@@ -1,0 +1,62 @@
+{
+  "id": 169530755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833221,18.949291,72.833221,18.949291",
+    "geom:latitude":18.949291,
+    "geom:longitude":72.833221,
+    "iso:country":"IN",
+    "sg:address":"207, Janjikar Street,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2342 5930",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "container"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_496YAfDjiub7AhXDABUmMJ_18.949291_72.833221@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e54c1d1e0ad1d31fedd97be18d02cd97",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169530755
+        }
+    ],
+    "wof:id":169530755,
+    "wof:lastmodified":1449034443,
+    "wof:name":"Vesson Industries",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container"
+    ]
+},
+  "bbox": [72.833221,18.949291,72.833221,18.949291],
+  "geometry": {"coordinates":[72.833221,18.949291],"type":"Point"}
+}

@@ -1,0 +1,52 @@
+{
+  "id": 169570999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.83168,18.952168,72.83168,18.952168",
+    "geom:latitude":18.952168,
+    "geom:longitude":72.83168,
+    "iso:country":"IN",
+    "sg:address":"P.o. Box No. 731, Fort",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2266 3871",
+    "sg:postcode":"400001",
+    "sg:province":"Maharashtra",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vCTQ0hLQVpwO45d6VMlyp_18.952168_72.831680@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3333ae8694a11c203a8db5476cbfeec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169570999
+        }
+    ],
+    "wof:id":169570999,
+    "wof:lastmodified":1449034648,
+    "wof:name":"J M Baxi & Co",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.83168,18.952168,72.83168,18.952168],
+  "geometry": {"coordinates":[72.83168,18.952168],"type":"Point"}
+}

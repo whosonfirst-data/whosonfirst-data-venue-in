@@ -1,0 +1,65 @@
+{
+  "id": 169539229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.843636,19.009495,72.843636,19.009495",
+    "geom:latitude":19.009495,
+    "geom:longitude":72.843636,
+    "iso:country":"IN",
+    "sg:address":"126, Krishna Buildings, Avenue Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2221 4363",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "sandalwood",
+        "artifact"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931539,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NpIoOrCg5H5puKx3eOMa9_19.009495_72.843636@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4759299ae0bbe71621976af9d87d7f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931539,
+            "region_id":85672171,
+            "venue_id":169539229
+        }
+    ],
+    "wof:id":169539229,
+    "wof:lastmodified":1449036038,
+    "wof:name":"Ravi Fine Arts",
+    "wof:parent_id":85931539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandalwood",
+        "artifact"
+    ]
+},
+  "bbox": [72.843636,19.009495,72.843636,19.009495],
+  "geometry": {"coordinates":[72.843636,19.009495],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169543861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.627831,12.905565,77.627831,12.905565",
+    "geom:latitude":12.905565,
+    "geom:longitude":77.627831,
+    "iso:country":"IN",
+    "sg:address":"# 14/15, Begur Road, Bommanahally,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2573 2703",
+    "sg:postcode":"560068",
+    "sg:tags":[
+        "t-shirt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930853,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RocaAb3oximDDPLDafBDE_12.905565_77.627831@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6268e4b772a646ead338e6419ddea218",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930853,
+            "region_id":85672165,
+            "venue_id":169543861
+        }
+    ],
+    "wof:id":169543861,
+    "wof:lastmodified":1449033337,
+    "wof:name":"Veena Firmen",
+    "wof:parent_id":85930853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "t-shirt"
+    ]
+},
+  "bbox": [77.627831,12.905565,77.627831,12.905565],
+  "geometry": {"coordinates":[77.627831,12.905565],"type":"Point"}
+}

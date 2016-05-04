@@ -1,0 +1,63 @@
+{
+  "id": 169541593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.542267,12.970968,77.542267,12.970968",
+    "geom:latitude":12.970968,
+    "geom:longitude":77.542267,
+    "iso:country":"IN",
+    "sg:address":"591, 8th Main, 4th A Cross, R.p.c. Layout,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2338 8002",
+    "sg:postcode":"560040",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n4NbUPNDoOQZVl42VRZHf_12.970968_77.542267@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"68c19558a0aea92089cbdd913c7760a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169541593
+        }
+    ],
+    "wof:id":169541593,
+    "wof:lastmodified":1449033042,
+    "wof:name":"View Inc.",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.542267,12.970968,77.542267,12.970968],
+  "geometry": {"coordinates":[77.542267,12.970968],"type":"Point"}
+}

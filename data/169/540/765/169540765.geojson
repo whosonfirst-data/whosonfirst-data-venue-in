@@ -1,0 +1,64 @@
+{
+  "id": 169540765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.613373,12.934564,77.613373,12.934564",
+    "geom:latitude":12.934564,
+    "geom:longitude":77.613373,
+    "iso:country":"IN",
+    "sg:address":"230, Raheja Arcade, Koramangala,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2553 2970",
+    "sg:postcode":"560095",
+    "sg:tags":[
+        "silk"
+    ],
+    "sg:website":"http://www.jaipuriasilkmills.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930917,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cUDScokPWbG9DeqscSYVT_12.934564_77.613373@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"78ecffa5096e2b3416a686baeefd946d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930917,
+            "region_id":85672165,
+            "venue_id":169540765
+        }
+    ],
+    "wof:id":169540765,
+    "wof:lastmodified":1449033977,
+    "wof:name":"Jaipuria Silk Mills Private Limited",
+    "wof:parent_id":85930917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.613373,12.934564,77.613373,12.934564],
+  "geometry": {"coordinates":[77.613373,12.934564],"type":"Point"}
+}

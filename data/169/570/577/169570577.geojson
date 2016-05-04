@@ -1,0 +1,53 @@
+{
+  "id": 169570577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833809,18.932512,72.833809,18.932512",
+    "geom:latitude":18.932512,
+    "geom:longitude":72.833809,
+    "iso:country":"IN",
+    "sg:address":"Near Bank Of India",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2200 1401",
+    "sg:postcode":"400002",
+    "sg:province":"Maharashtra",
+    "sg:website":"http://www.tejlite.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7699DD4QVgBpm0BnPLe8Vl_18.932512_72.833809@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"343d9d0a9555594825b131e98f75c2db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169570577
+        }
+    ],
+    "wof:id":169570577,
+    "wof:lastmodified":1449034648,
+    "wof:name":"Tej Lite",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.833809,18.932512,72.833809,18.932512],
+  "geometry": {"coordinates":[72.833809,18.932512],"type":"Point"}
+}

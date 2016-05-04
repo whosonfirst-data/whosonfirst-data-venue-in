@@ -1,0 +1,63 @@
+{
+  "id": 169626755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"79.025658,21.11524,79.025658,21.11524",
+    "geom:latitude":21.11524,
+    "geom:longitude":79.025658,
+    "iso:country":"IN",
+    "sg:address":"118 Prasad Nagar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "plant",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029277,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cdsI4K3v4ackaTcABdQxM_21.115240_79.025658@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"93669bc9ab488bccf5873389d84e0718",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029277,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169626755
+        }
+    ],
+    "wof:id":169626755,
+    "wof:lastmodified":1449035970,
+    "wof:name":"Span Numerics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [79.025658,21.11524,79.025658,21.11524],
+  "geometry": {"coordinates":[79.025658,21.11524],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169600847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.824631,18.924906,72.824631,18.924906",
+    "geom:latitude":18.924906,
+    "geom:longitude":72.824631,
+    "iso:country":"IN",
+    "sg:address":"154, Mittal Towers 'b', 210, Nariman Point,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2282 3680",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CKmjkVoEX3nsZXgZntOVq_18.924906_72.824631@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2362a4861fa94c1f0bee465332393fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169600847
+        }
+    ],
+    "wof:id":169600847,
+    "wof:lastmodified":1449032971,
+    "wof:name":"Pine Chemical Suppliers",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [72.824631,18.924906,72.824631,18.924906],
+  "geometry": {"coordinates":[72.824631,18.924906],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169527533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.94342,19.175453,72.94342,19.175453",
+    "geom:latitude":19.175453,
+    "geom:longitude":72.94342,
+    "iso:country":"IN",
+    "sg:address":"29/1, Meghal Industrial Estate, Devidayal Road, Mulund(w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2561 4437",
+    "sg:postcode":"400080",
+    "sg:tags":[
+        "product",
+        "healthcare"
+    ],
+    "sg:website":"http://www.rotundaindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931655,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48IlNuUsfQx4DtehBlwPLg_19.175453_72.943420@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"78029a5fdc495fdc414dea66dc363577",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931655,
+            "region_id":85672171,
+            "venue_id":169527533
+        }
+    ],
+    "wof:id":169527533,
+    "wof:lastmodified":1449035277,
+    "wof:name":"Rotunda Medical Technologies Pvt. Ltd.",
+    "wof:parent_id":85931655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "healthcare"
+    ]
+},
+  "bbox": [72.94342,19.175453,72.94342,19.175453],
+  "geometry": {"coordinates":[72.94342,19.175453],"type":"Point"}
+}

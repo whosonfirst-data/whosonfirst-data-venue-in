@@ -1,0 +1,61 @@
+{
+  "id": 169525925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.842247,19.0329,72.842247,19.0329",
+    "geom:latitude":19.0329,
+    "geom:longitude":72.842247,
+    "iso:country":"IN",
+    "sg:address":"G-2/3, Sheetal Darshan L.j.road, Mahim,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:tags":[
+        "alarm"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903903,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00wBLBBobtsy35Iag1cKX3_19.032900_72.842247@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ca12f96ad876c7753980505d62dbe9a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903903,
+            "region_id":85672171,
+            "venue_id":169525925
+        }
+    ],
+    "wof:id":169525925,
+    "wof:lastmodified":1449035272,
+    "wof:name":"Secutech Automation India Pvt. Ltd.",
+    "wof:parent_id":85903903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm"
+    ]
+},
+  "bbox": [72.842247,19.0329,72.842247,19.0329],
+  "geometry": {"coordinates":[72.842247,19.0329],"type":"Point"}
+}

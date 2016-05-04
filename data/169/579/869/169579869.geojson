@@ -1,0 +1,61 @@
+{
+  "id": 169579869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"81.20047,16.539873,81.20047,16.539873",
+    "geom:latitude":16.539873,
+    "geom:longitude":81.20047,
+    "iso:country":"IN",
+    "sg:address":"Near Railway Crossing,",
+    "sg:city":"Sirhind",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 1763 228 397",
+    "sg:postcode":"140406",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VgweodWZsFchfsnyvlPZn_16.539873_81.200470@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"694cefb9730b4c6caa1e45f0799ddbec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169579869
+        }
+    ],
+    "wof:id":169579869,
+    "wof:lastmodified":1449033743,
+    "wof:name":"Indra Scientific Equipments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [81.20047,16.539873,81.20047,16.539873],
+  "geometry": {"coordinates":[81.20047,16.539873],"type":"Point"}
+}

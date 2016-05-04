@@ -1,0 +1,64 @@
+{
+  "id": 169527983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.856331,19.161161,72.856331,19.161161",
+    "geom:latitude":19.161161,
+    "geom:longitude":72.856331,
+    "iso:country":"IN",
+    "sg:address":"A-2 Laghu Udyog Kendra, Goregoan (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2685 2953",
+    "sg:postcode":"400063",
+    "sg:tags":[
+        "box"
+    ],
+    "sg:website":"http://www.packagingremedies.tradeindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931507,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q6tLNw6TRYRvQ39YGLvce_19.161161_72.856331@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7e790c5b99b52bd20b7161ea8d07862a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931507,
+            "region_id":85672171,
+            "venue_id":169527983
+        }
+    ],
+    "wof:id":169527983,
+    "wof:lastmodified":1449035279,
+    "wof:name":"Packaging Remedies",
+    "wof:parent_id":85931507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "box"
+    ]
+},
+  "bbox": [72.856331,19.161161,72.856331,19.161161],
+  "geometry": {"coordinates":[72.856331,19.161161],"type":"Point"}
+}

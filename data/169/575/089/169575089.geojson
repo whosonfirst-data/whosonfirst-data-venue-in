@@ -1,0 +1,63 @@
+{
+  "id": 169575089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.325264,28.37674,77.325264,28.37674",
+    "geom:latitude":28.37674,
+    "geom:longitude":77.325264,
+    "iso:country":"IN",
+    "sg:address":"A-15, Sector- 10,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 252 8534",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928383,
+        85632469,
+        102030289,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KIY5KJl8yCMxxBPf2xw4L_28.376740_77.325264@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3e1b800f2e217af727b1e6e2746e57f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030289,
+            "neighbourhood_id":85928383,
+            "region_id":85672133,
+            "venue_id":169575089
+        }
+    ],
+    "wof:id":169575089,
+    "wof:lastmodified":1449033640,
+    "wof:name":"Asso Chem Industries",
+    "wof:parent_id":85928383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.325264,28.37674,77.325264,28.37674],
+  "geometry": {"coordinates":[77.325264,28.37674],"type":"Point"}
+}

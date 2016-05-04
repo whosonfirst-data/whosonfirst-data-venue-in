@@ -1,0 +1,63 @@
+{
+  "id": 169542635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.540031,13.0098,77.540031,13.0098",
+    "geom:latitude":13.0098,
+    "geom:longitude":77.540031,
+    "iso:country":"IN",
+    "sg:address":"No. 70, 5th Cross, S.s.i. Area, Rajajinagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Bus Station",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2297 0010",
+    "sg:postcode":"560010",
+    "sg:tags":[
+        "switch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GKzAkUn1p2o3R5nCp49Ou_13.009800_77.540031@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2b9a50f019646151e9a629b3b17484cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169542635
+        }
+    ],
+    "wof:id":169542635,
+    "wof:lastmodified":1449035220,
+    "wof:name":"Paramount Industries",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "switch"
+    ]
+},
+  "bbox": [77.540031,13.0098,77.540031,13.0098],
+  "geometry": {"coordinates":[77.540031,13.0098],"type":"Point"}
+}

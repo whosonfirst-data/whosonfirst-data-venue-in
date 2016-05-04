@@ -1,0 +1,71 @@
+{
+  "id": 169543983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.515373,13.030847,77.515373,13.030847",
+    "geom:latitude":13.030847,
+    "geom:longitude":77.515373,
+    "iso:country":"IN",
+    "sg:address":"B-184, 2nd Stage, Peenya Industrial Estate,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2836 2487",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "repair",
+        "material",
+        "retreading",
+        "tyre",
+        "machinery"
+    ],
+    "sg:website":"http://www.hydroproducts.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6djURs08QkncFCXvRYv99f_13.030847_77.515373@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ce7eb56d68a327c819ac0099d3e64288",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169543983
+        }
+    ],
+    "wof:id":169543983,
+    "wof:lastmodified":1449033336,
+    "wof:name":"Hydro Products",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "material",
+        "retreading",
+        "tyre",
+        "machinery"
+    ]
+},
+  "bbox": [77.515373,13.030847,77.515373,13.030847],
+  "geometry": {"coordinates":[77.515373,13.030847],"type":"Point"}
+}

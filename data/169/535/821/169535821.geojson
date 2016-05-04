@@ -1,0 +1,62 @@
+{
+  "id": 169535821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.835426,18.936367,72.835426,18.936367",
+    "geom:latitude":18.936367,
+    "geom:longitude":72.835426,
+    "iso:country":"IN",
+    "sg:address":"95, Bora Bazar Street, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2862 0195",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "export"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hEBbh9J4FfSep82IgkQxH_18.936367_72.835426@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"58557328220d87c095fe32b7fcd1b823",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169535821
+        }
+    ],
+    "wof:id":169535821,
+    "wof:lastmodified":1449033287,
+    "wof:name":"Solanki Silk House",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "export"
+    ]
+},
+  "bbox": [72.835426,18.936367,72.835426,18.936367],
+  "geometry": {"coordinates":[72.835426,18.936367],"type":"Point"}
+}

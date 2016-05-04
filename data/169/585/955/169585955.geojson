@@ -1,0 +1,63 @@
+{
+  "id": 169585955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.556961,23.026018,72.556961,23.026018",
+    "geom:latitude":23.026018,
+    "geom:longitude":72.556961,
+    "iso:country":"IN",
+    "sg:address":"704, Samedh Building, Panchwati, C.g. Road,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 3002 3200",
+    "sg:postcode":"380009",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928723,
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PJt6VF1aTExq0M7jLU9tG_23.026018_72.556961@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"824a4d6bc753547e16513fe9e2432083",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":85928723,
+            "region_id":85672249,
+            "venue_id":169585955
+        }
+    ],
+    "wof:id":169585955,
+    "wof:lastmodified":1449034887,
+    "wof:name":"Mahalaxmi Chemicals (age.) Pvt. Ltd.",
+    "wof:parent_id":85928723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [72.556961,23.026018,72.556961,23.026018],
+  "geometry": {"coordinates":[72.556961,23.026018],"type":"Point"}
+}

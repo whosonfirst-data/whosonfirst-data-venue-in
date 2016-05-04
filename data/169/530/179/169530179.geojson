@@ -1,0 +1,66 @@
+{
+  "id": 169530179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.856178,19.017656,72.856178,19.017656",
+    "geom:latitude":19.017656,
+    "geom:longitude":72.856178,
+    "iso:country":"IN",
+    "sg:address":"Bombay Cotton Mills Compound, Dattaram Lad Path, Kalachowki,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2375 4863",
+    "sg:postcode":"400033",
+    "sg:tags":[
+        "garment",
+        "childrenwear"
+    ],
+    "sg:website":"http://www.valuem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903993,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5o9MbYLzs6cgTzpM8sIdnf_19.017656_72.856178@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"71a151fdaa2cc8fcb5595b707ef38525",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903993,
+            "region_id":85672171,
+            "venue_id":169530179
+        }
+    ],
+    "wof:id":169530179,
+    "wof:lastmodified":1449034445,
+    "wof:name":"Mode Export Pvt. Ltd.",
+    "wof:parent_id":85903993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "childrenwear"
+    ]
+},
+  "bbox": [72.856178,19.017656,72.856178,19.017656],
+  "geometry": {"coordinates":[72.856178,19.017656],"type":"Point"}
+}

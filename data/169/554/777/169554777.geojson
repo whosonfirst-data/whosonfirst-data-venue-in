@@ -1,0 +1,62 @@
+{
+  "id": 169554777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.164711,22.289513,73.164711,22.289513",
+    "geom:latitude":22.289513,
+    "geom:longitude":73.164711,
+    "iso:country":"IN",
+    "sg:address":"Old Padra Road,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 235 5861",
+    "sg:postcode":"390007",
+    "sg:tags":[
+        "polymer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4751sSXZ8zOrvVOLHoGYsd_22.289513_73.164711@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"743754dd49f9dd9c6133daee155829cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169554777
+        }
+    ],
+    "wof:id":169554777,
+    "wof:lastmodified":1449033370,
+    "wof:name":"Bayer Polymers Lanxess",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [73.164711,22.289513,73.164711,22.289513],
+  "geometry": {"coordinates":[73.164711,22.289513],"type":"Point"}
+}

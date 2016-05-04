@@ -1,0 +1,58 @@
+{
+  "id": 169559965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.078033,28.599966,77.078033,28.599966",
+    "geom:latitude":28.599966,
+    "geom:longitude":77.078033,
+    "iso:country":"IN",
+    "sg:address":"F-1/148, Mahavir Enclave,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Leather Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2503 3418",
+    "sg:postcode":"110045",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927879,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MtFMYxhxaKJP9vXJsKXtp_28.599966_77.078033@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c13401a8faa9a4422becb85a0949b03c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927879,
+            "region_id":85672123,
+            "venue_id":169559965
+        }
+    ],
+    "wof:id":169559965,
+    "wof:lastmodified":1449035239,
+    "wof:name":"Dalton Chemicals Pvt. Ltd.",
+    "wof:parent_id":85927879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.078033,28.599966,77.078033,28.599966],
+  "geometry": {"coordinates":[77.078033,28.599966],"type":"Point"}
+}

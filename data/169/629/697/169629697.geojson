@@ -1,0 +1,64 @@
+{
+  "id": 169629697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.181641,28.707069,77.181641,28.707069",
+    "geom:latitude":28.707069,
+    "geom:longitude":77.181641,
+    "iso:country":"IN",
+    "sg:address":"A-6, G.t. Karnal Road, Industrial Area,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2744 1942",
+    "sg:postcode":"110033",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S3B0151OCz93I8AUVJ92b_28.707069_77.181641@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0ac5b8a904d1458b961ee92ccb943004",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169629697
+        }
+    ],
+    "wof:id":169629697,
+    "wof:lastmodified":1449035186,
+    "wof:name":"Sterling Exports",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [77.181641,28.707069,77.181641,28.707069],
+  "geometry": {"coordinates":[77.181641,28.707069],"type":"Point"}
+}

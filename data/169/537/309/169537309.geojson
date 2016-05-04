@@ -1,0 +1,72 @@
+{
+  "id": 169537309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.596642,12.916805,77.596642,12.916805",
+    "geom:latitude":12.916805,
+    "geom:longitude":77.596642,
+    "iso:country":"IN",
+    "sg:address":"# 8/1, Marenahalli, J P Nagar, 2nd Phase,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2659 1609",
+    "sg:postcode":"560078",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "sg:website":"http://www.bhavani.trade-india.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931061,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48kMWpxwTN0ikYqat4fYVN_12.916805_77.596642@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"00b008973f1db7aba777d7a5a00d31b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931061,
+            "region_id":85672165,
+            "venue_id":169537309
+        }
+    ],
+    "wof:id":169537309,
+    "wof:lastmodified":1449033498,
+    "wof:name":"Bhavani Industries",
+    "wof:parent_id":85931061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.596642,12.916805,77.596642,12.916805],
+  "geometry": {"coordinates":[77.596642,12.916805],"type":"Point"}
+}

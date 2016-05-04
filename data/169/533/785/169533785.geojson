@@ -1,0 +1,66 @@
+{
+  "id": 169533785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.926315,19.122385,72.926315,19.122385",
+    "geom:latitude":19.122385,
+    "geom:longitude":72.926315,
+    "iso:country":"IN",
+    "sg:address":"20, Suyog Industrial Estate, L.b.s. Marg, Vikhroli (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2578 6007",
+    "sg:postcode":"400083",
+    "sg:tags":[
+        "mould",
+        "dy"
+    ],
+    "sg:website":"http://www.pharmachine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931633,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UxnCbuWgpC0a3WyTuN4Ej_19.122385_72.926315@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cd3c78ac2142be4e8f651c22c4c12ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931633,
+            "region_id":85672171,
+            "venue_id":169533785
+        }
+    ],
+    "wof:id":169533785,
+    "wof:lastmodified":1449032643,
+    "wof:name":"Pharmachine India",
+    "wof:parent_id":85931633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mould",
+        "dy"
+    ]
+},
+  "bbox": [72.926315,19.122385,72.926315,19.122385],
+  "geometry": {"coordinates":[72.926315,19.122385],"type":"Point"}
+}

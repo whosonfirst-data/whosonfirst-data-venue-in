@@ -1,0 +1,67 @@
+{
+  "id": 169542555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.672226,13.00342,77.672226,13.00342",
+    "geom:latitude":13.00342,
+    "geom:longitude":77.672226,
+    "iso:country":"IN",
+    "sg:address":"43, Vijanapura,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2565 7185",
+    "sg:postcode":"560016",
+    "sg:tags":[
+        "surgical",
+        "disposable",
+        "dressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931169,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dySTNTJ7yWrEQUKC82VjY_13.003420_77.672226@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"40f631aab7d660d72377632e3d8f1ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931169,
+            "region_id":85672165,
+            "venue_id":169542555
+        }
+    ],
+    "wof:id":169542555,
+    "wof:lastmodified":1449035223,
+    "wof:name":"Chirayil Exim",
+    "wof:parent_id":85931169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "disposable",
+        "dressing"
+    ]
+},
+  "bbox": [77.672226,13.00342,77.672226,13.00342],
+  "geometry": {"coordinates":[77.672226,13.00342],"type":"Point"}
+}

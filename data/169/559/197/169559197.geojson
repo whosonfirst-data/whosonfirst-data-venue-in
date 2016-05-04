@@ -1,0 +1,64 @@
+{
+  "id": 169559197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.253769,13.04846,80.253769,13.04846",
+    "geom:latitude":13.04846,
+    "geom:longitude":80.253769,
+    "iso:country":"IN",
+    "sg:address":"9, Cathedral Road,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2827 3333",
+    "sg:postcode":"600086",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.sanmargroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903959,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LElv7wDm34Q4B97tFWlkT_13.048460_80.253769@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4b6a1feb41e7fa73b8d8dfd01479186a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903959,
+            "region_id":85672245,
+            "venue_id":169559197
+        }
+    ],
+    "wof:id":169559197,
+    "wof:lastmodified":1449035239,
+    "wof:name":"Chemplast Sanmar Limited",
+    "wof:parent_id":85903959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.253769,13.04846,80.253769,13.04846],
+  "geometry": {"coordinates":[80.253769,13.04846],"type":"Point"}
+}

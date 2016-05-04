@@ -1,0 +1,69 @@
+{
+  "id": 169649159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.607796,12.974598,77.607796,12.974598",
+    "geom:latitude":12.974598,
+    "geom:longitude":77.607796,
+    "iso:country":"IN",
+    "sg:address":"206, Brigade Gardens 2nd Floor, No.19, Church Street,",
+    "sg:city":"Bangalore ",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560 001",
+    "sg:tags":[
+        "online-photo-printing",
+        "cameras-india",
+        "digital-printing",
+        "camcorders-india"
+    ],
+    "sg:website":"http://www.gkvale.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930841,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42miXFrM6cYMepE42LTumV_12.974598_77.607796@1308163239"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fc7728dea738fab6abcbfa38a1a3f823",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930841,
+            "region_id":85672165,
+            "venue_id":169649159
+        }
+    ],
+    "wof:id":169649159,
+    "wof:lastmodified":1449034942,
+    "wof:name":"GKVale.com",
+    "wof:parent_id":85930841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "online-photo-printing",
+        "cameras-india",
+        "digital-printing",
+        "camcorders-india"
+    ]
+},
+  "bbox": [77.607796,12.974598,77.607796,12.974598],
+  "geometry": {"coordinates":[77.607796,12.974598],"type":"Point"}
+}

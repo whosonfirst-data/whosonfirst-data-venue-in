@@ -1,0 +1,61 @@
+{
+  "id": 169541171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"86.590889,25.866127,86.590889,25.866127",
+    "geom:latitude":25.866127,
+    "geom:longitude":86.590889,
+    "iso:country":"IN",
+    "sg:address":"50, C.t. Street,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2221 7531",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "silver"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ymWIij1btDMzUN2tUJzCz_25.866127_86.590889@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e1b4d01e62df80ee04abf91a2fa17127",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672225,
+            "venue_id":169541171
+        }
+    ],
+    "wof:id":169541171,
+    "wof:lastmodified":1449033044,
+    "wof:name":"Shanthala Jwellers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silver"
+    ]
+},
+  "bbox": [86.590889,25.866127,86.590889,25.866127],
+  "geometry": {"coordinates":[86.590889,25.866127],"type":"Point"}
+}

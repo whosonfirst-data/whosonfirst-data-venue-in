@@ -1,0 +1,67 @@
+{
+  "id": 169595233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.448067,17.438856,78.448067,17.438856",
+    "geom:latitude":17.438856,
+    "geom:longitude":78.448067,
+    "iso:country":"IN",
+    "sg:address":"6-3-668/10/73, Durga Nagar Colony, Panjagutta,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2340 1032",
+    "sg:postcode":"500082",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930753,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Yy9fUKwKcapUHWDfiX6dc_17.438856_78.448067@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"58721f0be1e85b5cc89122ca1b8c72e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930753,
+            "region_id":85672141,
+            "venue_id":169595233
+        }
+    ],
+    "wof:id":169595233,
+    "wof:lastmodified":1449035637,
+    "wof:name":"Nulli Secondus Impex Pvt. Ltd.",
+    "wof:parent_id":85930753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [78.448067,17.438856,78.448067,17.438856],
+  "geometry": {"coordinates":[78.448067,17.438856],"type":"Point"}
+}

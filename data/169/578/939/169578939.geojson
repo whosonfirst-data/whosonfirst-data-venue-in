@@ -1,0 +1,64 @@
+{
+  "id": 169578939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.390823,22.575443,88.390823,22.575443",
+    "geom:latitude":22.575443,
+    "geom:longitude":88.390823,
+    "iso:country":"IN",
+    "sg:address":"31/2a, Ram Krishna Samadhi Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2320 0572",
+    "sg:postcode":"700054",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.hectechnology.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903807,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mvuOTBOGGkbqI5LOJNHVI_22.575443_88.390823@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"12c3025df8f0bc2015b8dd57c9a91ff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903807,
+            "region_id":85672219,
+            "venue_id":169578939
+        }
+    ],
+    "wof:id":169578939,
+    "wof:lastmodified":1449033518,
+    "wof:name":"Hindusthan Engineering Co.",
+    "wof:parent_id":85903807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.390823,22.575443,88.390823,22.575443],
+  "geometry": {"coordinates":[88.390823,22.575443],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169543821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.564224,12.946641,77.564224,12.946641",
+    "geom:latitude":12.946641,
+    "geom:longitude":77.564224,
+    "iso:country":"IN",
+    "sg:address":"#1, 33/7, 3rd Main, Hanumanthnagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2660 0997",
+    "sg:postcode":"560019",
+    "sg:tags":[
+        "trophy",
+        "memento"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930907,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S6IsMnymPOm0VEmEXdp36_12.946641_77.564224@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"94a9710987c258a83019a853833829bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930907,
+            "region_id":85672165,
+            "venue_id":169543821
+        }
+    ],
+    "wof:id":169543821,
+    "wof:lastmodified":1449033335,
+    "wof:name":"Om Sai Process",
+    "wof:parent_id":85930907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trophy",
+        "memento"
+    ]
+},
+  "bbox": [77.564224,12.946641,77.564224,12.946641],
+  "geometry": {"coordinates":[77.564224,12.946641],"type":"Point"}
+}

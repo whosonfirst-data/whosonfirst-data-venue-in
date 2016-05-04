@@ -1,0 +1,66 @@
+{
+  "id": 169595449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.823929,21.181299,72.823929,21.181299",
+    "geom:latitude":21.181299,
+    "geom:longitude":72.823929,
+    "iso:country":"IN",
+    "sg:address":"Plot No 2428, G.i.d.c, Surat,",
+    "sg:city":"Sachin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 261 559 3354",
+    "sg:postcode":"394230",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "sg:website":"http://www.nutandyechem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933491,
+        85632469,
+        102028539,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TKycvokafBPRKGH9SZung_21.181299_72.823929@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9fa0fd0c11d3c47dc8e893e10b0e9a36",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028539,
+            "neighbourhood_id":85933491,
+            "region_id":85672249,
+            "venue_id":169595449
+        }
+    ],
+    "wof:id":169595449,
+    "wof:lastmodified":1449035638,
+    "wof:name":"Nutan Dye Chem",
+    "wof:parent_id":85933491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [72.823929,21.181299,72.823929,21.181299],
+  "geometry": {"coordinates":[72.823929,21.181299],"type":"Point"}
+}

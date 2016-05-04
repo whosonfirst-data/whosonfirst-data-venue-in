@@ -1,0 +1,67 @@
+{
+  "id": 169534889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.81813,19.00596,72.81813,19.00596",
+    "geom:latitude":19.00596,
+    "geom:longitude":72.81813,
+    "iso:country":"IN",
+    "sg:address":"6th Floor, C.g. House, Dr. Annie Besant Road, Prabhadevi,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2423 7777",
+    "sg:postcode":"400025",
+    "sg:tags":[
+        "component",
+        "product",
+        "electronic"
+    ],
+    "sg:website":"http://www.cglonline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903999,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D2EuTQsn0IpfJD67NkTBU_19.005960_72.818130@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"63b86b5b946290c07eb58e1ca8ee9261",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903999,
+            "region_id":85672171,
+            "venue_id":169534889
+        }
+    ],
+    "wof:id":169534889,
+    "wof:lastmodified":1449033546,
+    "wof:name":"Crompton Greaves Limited",
+    "wof:parent_id":85903999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "product",
+        "electronic"
+    ]
+},
+  "bbox": [72.81813,19.00596,72.81813,19.00596],
+  "geometry": {"coordinates":[72.81813,19.00596],"type":"Point"}
+}

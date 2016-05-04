@@ -1,0 +1,61 @@
+{
+  "id": 169578579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.926003,30.879322,75.926003,30.879322",
+    "geom:latitude":30.879322,
+    "geom:longitude":75.926003,
+    "iso:country":"IN",
+    "sg:address":"168, Focal Point,",
+    "sg:city":"Amritsar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 183 645 1573",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029555,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GECacqp6rRN0pjD68T6PG_30.879322_75.926003@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"298ab1416f84af9a6fa06bb320dc78b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029555,
+            "neighbourhood_id":-1,
+            "region_id":85672195,
+            "venue_id":169578579
+        }
+    ],
+    "wof:id":169578579,
+    "wof:lastmodified":1449033518,
+    "wof:name":"Hari Rubbers P. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [75.926003,30.879322,75.926003,30.879322],
+  "geometry": {"coordinates":[75.926003,30.879322],"type":"Point"}
+}

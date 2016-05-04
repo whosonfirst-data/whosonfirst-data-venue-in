@@ -1,0 +1,65 @@
+{
+  "id": 169578241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.885101,22.723486,75.885101,22.723486",
+    "geom:latitude":22.723486,
+    "geom:longitude":75.885101,
+    "iso:country":"IN",
+    "sg:address":"7-c/3, M.g. Road, South Tukoganj,",
+    "sg:city":"Indore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 731 252 5339",
+    "sg:postcode":"452001",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933763,
+        85632469,
+        102030041,
+        85672239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BK80o6YmP1sXmfL7eI35O_22.723486_75.885101@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"138ed929d5edde51a7bbafef4ca3219e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030041,
+            "neighbourhood_id":85933763,
+            "region_id":85672239,
+            "venue_id":169578241
+        }
+    ],
+    "wof:id":169578241,
+    "wof:lastmodified":1449033520,
+    "wof:name":"Gurukrupa Engineers",
+    "wof:parent_id":85933763,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [75.885101,22.723486,75.885101,22.723486],
+  "geometry": {"coordinates":[75.885101,22.723486],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169559741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.242851,13.060466,80.242851,13.060466",
+    "geom:latitude":13.060466,
+    "geom:longitude":80.242851,
+    "iso:country":"IN",
+    "sg:address":"No. 198, Valluvarkottam High Road, Nungambakkam,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2827 3919",
+    "sg:postcode":"600034",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903935,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hzYxO6EB1MxIV7Y4MFqGD_13.060466_80.242851@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a103b7176554bd30a4d813b9e09ca64b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903935,
+            "region_id":85672245,
+            "venue_id":169559741
+        }
+    ],
+    "wof:id":169559741,
+    "wof:lastmodified":1449035236,
+    "wof:name":"Cpg Export",
+    "wof:parent_id":85903935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.242851,13.060466,80.242851,13.060466],
+  "geometry": {"coordinates":[80.242851,13.060466],"type":"Point"}
+}

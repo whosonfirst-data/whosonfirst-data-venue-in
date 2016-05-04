@@ -1,0 +1,64 @@
+{
+  "id": 169560505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.817665,18.956108,72.817665,18.956108",
+    "geom:latitude":18.956108,
+    "geom:longitude":72.817665,
+    "iso:country":"IN",
+    "sg:address":"21, 2nd Bhatwadi, Girgaum Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6504 7817",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.dhwani-impex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931435,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WK4s9isdqnRc9muJybZDO_18.956108_72.817665@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"16d3fbe0e083f52b322ce7cd502c7a97",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931435,
+            "region_id":85672171,
+            "venue_id":169560505
+        }
+    ],
+    "wof:id":169560505,
+    "wof:lastmodified":1449035182,
+    "wof:name":"Dhwani Impex",
+    "wof:parent_id":85931435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.817665,18.956108,72.817665,18.956108],
+  "geometry": {"coordinates":[72.817665,18.956108],"type":"Point"}
+}

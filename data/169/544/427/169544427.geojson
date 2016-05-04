@@ -1,0 +1,65 @@
+{
+  "id": 169544427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.562752,12.975628,77.562752,12.975628",
+    "geom:latitude":12.975628,
+    "geom:longitude":77.562752,
+    "iso:country":"IN",
+    "sg:address":"#1, 1st Cross, Manjunatha Nagar, Magadi Main Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2335 5794",
+    "sg:postcode":"560023",
+    "sg:tags":[
+        "voltage",
+        "stabilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_290ebkOrqucGY79LHU2vp5_12.975628_77.562752@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2360eabd2c5191625c11eba1fdae3609",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169544427
+        }
+    ],
+    "wof:id":169544427,
+    "wof:lastmodified":1449035963,
+    "wof:name":"Shash Controls",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "voltage",
+        "stabilizer"
+    ]
+},
+  "bbox": [77.562752,12.975628,77.562752,12.975628],
+  "geometry": {"coordinates":[77.562752,12.975628],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169646881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.250572,28.55913,77.250572,28.55913",
+    "geom:latitude":28.55913,
+    "geom:longitude":77.250572,
+    "iso:country":"IN",
+    "sg:address":"E-17, East Of Kailash,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4162 4661",
+    "sg:postcode":"110065",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928185,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6b17Upxt8F4wC1SL1HGupw_28.559130_77.250572@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"18ec83b09dc70dc579a64663313a714a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928185,
+            "region_id":85672123,
+            "venue_id":169646881
+        }
+    ],
+    "wof:id":169646881,
+    "wof:lastmodified":1449032607,
+    "wof:name":"Wisdom Pharma Pvt. Ltd.",
+    "wof:parent_id":85928185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [77.250572,28.55913,77.250572,28.55913],
+  "geometry": {"coordinates":[77.250572,28.55913],"type":"Point"}
+}

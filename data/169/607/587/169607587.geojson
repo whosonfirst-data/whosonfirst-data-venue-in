@@ -1,0 +1,63 @@
+{
+  "id": 169607587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.240967,12.952813,80.240967,12.952813",
+    "geom:latitude":12.952813,
+    "geom:longitude":80.240967,
+    "iso:country":"IN",
+    "sg:address":"28, Ii Street, P.h. Road,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2662 4439",
+    "sg:postcode":"600012",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927597,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jGFJhbw9zUBNuXBDpOltg_12.952813_80.240967@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f416335e4a3f88ab85f6513d163b3a04",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85927597,
+            "region_id":85672245,
+            "venue_id":169607587
+        }
+    ],
+    "wof:id":169607587,
+    "wof:lastmodified":1449033121,
+    "wof:name":"Rajamani Consultants",
+    "wof:parent_id":85927597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [80.240967,12.952813,80.240967,12.952813],
+  "geometry": {"coordinates":[80.240967,12.952813],"type":"Point"}
+}

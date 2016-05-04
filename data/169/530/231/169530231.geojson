@@ -1,0 +1,64 @@
+{
+  "id": 169530231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.816086,18.957186,72.816086,18.957186",
+    "geom:latitude":18.957186,
+    "geom:longitude":72.816086,
+    "iso:country":"IN",
+    "sg:address":"2, Parekh Mansion, 512, S.v.p. Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2389 4900",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "cleaning"
+    ],
+    "sg:website":"http://www.aquamix.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931463,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lsUshRiIA5z9bUfa5xZP9_18.957186_72.816086@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b04f523545348f5831c3c2d1f6c620f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931463,
+            "region_id":85672171,
+            "venue_id":169530231
+        }
+    ],
+    "wof:id":169530231,
+    "wof:lastmodified":1449034443,
+    "wof:name":"Aqua Mix",
+    "wof:parent_id":85931463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaning"
+    ]
+},
+  "bbox": [72.816086,18.957186,72.816086,18.957186],
+  "geometry": {"coordinates":[72.816086,18.957186],"type":"Point"}
+}

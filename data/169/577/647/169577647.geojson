@@ -1,0 +1,63 @@
+{
+  "id": 169577647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.207695,28.632992,77.207695,28.632992",
+    "geom:latitude":28.632992,
+    "geom:longitude":77.207695,
+    "iso:country":"IN",
+    "sg:address":"Nehru Co-operative Colony,",
+    "sg:city":"Hospet",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 8394 232 003",
+    "sg:postcode":"583203",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928273,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f7Mxkgb8w5AWjNIHvghXT_28.632992_77.207695@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c958f65c3b3c74fa16751f74f41a8150",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928273,
+            "region_id":85672123,
+            "venue_id":169577647
+        }
+    ],
+    "wof:id":169577647,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Good Earth Chemical Pvt. Ltd.",
+    "wof:parent_id":85928273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.207695,28.632992,77.207695,28.632992],
+  "geometry": {"coordinates":[77.207695,28.632992],"type":"Point"}
+}

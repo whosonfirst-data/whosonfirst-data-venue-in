@@ -1,0 +1,65 @@
+{
+  "id": 169544975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.647057,12.95889,77.647057,12.95889",
+    "geom:latitude":12.95889,
+    "geom:longitude":77.647057,
+    "iso:country":"IN",
+    "sg:address":"501, 4th Floor, Oxford Towers, 139, Airport Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2221 4447",
+    "sg:postcode":"560008",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931147,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IR26EoM5t3ENrqTZZYwZY_12.958890_77.647057@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b7fb1c135f18bd3f079c74917d0b3ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931147,
+            "region_id":85672165,
+            "venue_id":169544975
+        }
+    ],
+    "wof:id":169544975,
+    "wof:lastmodified":1449035965,
+    "wof:name":"Frontline Ventures",
+    "wof:parent_id":85931147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [77.647057,12.95889,77.647057,12.95889],
+  "geometry": {"coordinates":[77.647057,12.95889],"type":"Point"}
+}

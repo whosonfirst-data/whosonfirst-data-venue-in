@@ -1,0 +1,62 @@
+{
+  "id": 169549323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"85.324211,23.355747,85.324211,23.355747",
+    "geom:latitude":23.355747,
+    "geom:longitude":85.324211,
+    "iso:country":"IN",
+    "sg:address":"223, Ashok Nagar, Main Road,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 244 0694",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "marble"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028861,
+        85672213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hZY95jOPhDgw4vkRXVhvk_23.355747_85.324211@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0a005fc3c8cdc572bb961eed8af6ba29",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028861,
+            "neighbourhood_id":-1,
+            "region_id":85672213,
+            "venue_id":169549323
+        }
+    ],
+    "wof:id":169549323,
+    "wof:lastmodified":1449033590,
+    "wof:name":"Rock Granites",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marble"
+    ]
+},
+  "bbox": [85.324211,23.355747,85.324211,23.355747],
+  "geometry": {"coordinates":[85.324211,23.355747],"type":"Point"}
+}

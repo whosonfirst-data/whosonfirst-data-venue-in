@@ -1,0 +1,54 @@
+{
+  "id": 169556633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.567543,12.952799,77.567543,12.952799",
+    "geom:latitude":12.952799,
+    "geom:longitude":77.567543,
+    "iso:country":"IN",
+    "sg:address":"Bull Temple Road",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 806610330",
+    "sg:postcode":"560019",
+    "sg:province":"Karnataka",
+    "sg:website":"http://www.sonata-software.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930907,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DH7jrNHSmb8HkclsXNTt5_12.952799_77.567543@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"db7c7432b5007326425674fe838e5505",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930907,
+            "region_id":85672165,
+            "venue_id":169556633
+        }
+    ],
+    "wof:id":169556633,
+    "wof:lastmodified":1449033509,
+    "wof:name":"Sonata Software Ltd",
+    "wof:parent_id":85930907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.567543,12.952799,77.567543,12.952799],
+  "geometry": {"coordinates":[77.567543,12.952799],"type":"Point"}
+}

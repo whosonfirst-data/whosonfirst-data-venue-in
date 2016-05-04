@@ -1,0 +1,63 @@
+{
+  "id": 169531509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.847137,19.016357,72.847137,19.016357",
+    "geom:latitude":19.016357,
+    "geom:longitude":72.847137,
+    "iso:country":"IN",
+    "sg:address":"Broadway Shopping Centre, Dadar, T.t.,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2388 3056",
+    "sg:postcode":"400014",
+    "sg:tags":[
+        "cotton"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931545,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AeHXa0dAm0QpgVXYWjA9L_19.016357_72.847137@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"02da385fff72fa403d176812e27cf4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931545,
+            "region_id":85672171,
+            "venue_id":169531509
+        }
+    ],
+    "wof:id":169531509,
+    "wof:lastmodified":1449033475,
+    "wof:name":"Babubhai Jagjivandas",
+    "wof:parent_id":85931545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cotton"
+    ]
+},
+  "bbox": [72.847137,19.016357,72.847137,19.016357],
+  "geometry": {"coordinates":[72.847137,19.016357],"type":"Point"}
+}

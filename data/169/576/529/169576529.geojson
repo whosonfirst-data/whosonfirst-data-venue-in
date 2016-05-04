@@ -1,0 +1,64 @@
+{
+  "id": 169576529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.368217,22.515085,88.368217,22.515085",
+    "geom:latitude":22.515085,
+    "geom:longitude":88.368217,
+    "iso:country":"IN",
+    "sg:address":"82/8, Ballygunge Place,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"700019",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931927,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Tltt64rtxvuTd1opOiefH_22.515085_88.368217@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d81dd575130aa779190d14344c65f7e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931927,
+            "region_id":85672219,
+            "venue_id":169576529
+        }
+    ],
+    "wof:id":169576529,
+    "wof:lastmodified":1449035197,
+    "wof:name":"Eximcorp",
+    "wof:parent_id":85931927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [88.368217,22.515085,88.368217,22.515085],
+  "geometry": {"coordinates":[88.368217,22.515085],"type":"Point"}
+}

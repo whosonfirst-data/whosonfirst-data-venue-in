@@ -1,0 +1,61 @@
+{
+  "id": 169530017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.826866,19.102552,72.826866,19.102552",
+    "geom:latitude":19.102552,
+    "geom:longitude":72.826866,
+    "iso:country":"IN",
+    "sg:address":"303, Beach Haven-2 Juhu Road, Santacruz- West,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5697 3105",
+    "sg:postcode":"400049",
+    "sg:tags":[
+        "chemicals-additives"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931479,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mTke3P8ZaXjtY8ZxRbaby_19.102552_72.826866@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"728a2b5982e4ea9bcb0a7a43c26a53ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931479,
+            "region_id":-1,
+            "venue_id":169530017
+        }
+    ],
+    "wof:id":169530017,
+    "wof:lastmodified":1449034443,
+    "wof:name":"Aci Industrial Organic Pvt. Ltd.",
+    "wof:parent_id":85931479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemicals-additives"
+    ]
+},
+  "bbox": [72.826866,19.102552,72.826866,19.102552],
+  "geometry": {"coordinates":[72.826866,19.102552],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 169648907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.630227,12.911824,77.630227,12.911824",
+    "geom:latitude":12.911824,
+    "geom:longitude":77.630227,
+    "iso:country":"IN",
+    "sg:address":"#664, 2nd Floor, 17th cross 6th Phase, JP Nagar",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560078",
+    "sg:tags":[
+        "employer-reviews-ratings",
+        "company-reviews",
+        "professional-networking",
+        "salary-information"
+    ],
+    "sg:website":"http://www.jobeehive.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931041,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yQdbDwdKZ6o7Av6jo2ueb_12.911824_77.630227@1308163239"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"df02b1b39f4451d00bdd9bd5e8f0612e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931041,
+            "region_id":85672165,
+            "venue_id":169648907
+        }
+    ],
+    "wof:id":169648907,
+    "wof:lastmodified":1449033587,
+    "wof:name":"JobeeHive",
+    "wof:parent_id":85931041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "employer-reviews-ratings",
+        "company-reviews",
+        "professional-networking",
+        "salary-information"
+    ]
+},
+  "bbox": [77.630227,12.911824,77.630227,12.911824],
+  "geometry": {"coordinates":[77.630227,12.911824],"type":"Point"}
+}

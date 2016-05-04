@@ -1,0 +1,63 @@
+{
+  "id": 169539745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.591866,13.047576,77.591866,13.047576",
+    "geom:latitude":13.047576,
+    "geom:longitude":77.591866,
+    "iso:country":"IN",
+    "sg:address":"93/94, 5th Mile, Bellary Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2333 0706",
+    "sg:postcode":"560024",
+    "sg:tags":[
+        "sculpture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931095,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kBXSiPfnYaaeGLO0yN2n9_13.047576_77.591866@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2ef993bb5984cdd8aa9d40944ff2400e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931095,
+            "region_id":85672165,
+            "venue_id":169539745
+        }
+    ],
+    "wof:id":169539745,
+    "wof:lastmodified":1449036040,
+    "wof:name":"Balaji Exports",
+    "wof:parent_id":85931095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sculpture"
+    ]
+},
+  "bbox": [77.591866,13.047576,77.591866,13.047576],
+  "geometry": {"coordinates":[77.591866,13.047576],"type":"Point"}
+}

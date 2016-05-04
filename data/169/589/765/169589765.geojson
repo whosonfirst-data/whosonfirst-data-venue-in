@@ -1,0 +1,63 @@
+{
+  "id": 169589765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.882332,18.535173,73.882332,18.535173",
+    "geom:latitude":18.535173,
+    "geom:longitude":73.882332,
+    "iso:country":"IN",
+    "sg:address":"11, Mangaldas Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2201 5364",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903913,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QpRwc6kakN5cRX63UC3Pn_18.535173_73.882332@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bcb70aaa4be4dfdb6e8d7e08ee9f6565",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85903913,
+            "region_id":85672171,
+            "venue_id":169589765
+        }
+    ],
+    "wof:id":169589765,
+    "wof:lastmodified":1449034447,
+    "wof:name":"Minerva Biogenix Pvt. Ltd.",
+    "wof:parent_id":85903913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [73.882332,18.535173,73.882332,18.535173],
+  "geometry": {"coordinates":[73.882332,18.535173],"type":"Point"}
+}

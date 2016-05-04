@@ -1,0 +1,64 @@
+{
+  "id": 169593217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.130058,28.652243,77.130058,28.652243",
+    "geom:latitude":28.652243,
+    "geom:longitude":77.130058,
+    "iso:country":"IN",
+    "sg:address":"35-c, Shivaji Marg,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2592 8821",
+    "sg:postcode":"110015",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.navinfluorine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928129,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Yp4DKy2Y1njcfX73TlpK9_28.652243_77.130058@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3d578ce8abdf0ea4eb1a0a6887431c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928129,
+            "region_id":85672123,
+            "venue_id":169593217
+        }
+    ],
+    "wof:id":169593217,
+    "wof:lastmodified":1449034879,
+    "wof:name":"Navin Fluorine International Ltd.",
+    "wof:parent_id":85928129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.130058,28.652243,77.130058,28.652243],
+  "geometry": {"coordinates":[77.130058,28.652243],"type":"Point"}
+}

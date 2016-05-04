@@ -1,0 +1,58 @@
+{
+  "id": 169561227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.411331,17.424519,78.411331,17.424519",
+    "geom:latitude":17.424519,
+    "geom:longitude":78.411331,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 1345, Road No. 68, Jubilee Hills,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Leather Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2354 3847",
+    "sg:postcode":"500033",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930761,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NywxQfQiyKM8lwaL9Xwmp_17.424519_78.411331@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7a590ee9640233909378b68f5de0aea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930761,
+            "region_id":85672141,
+            "venue_id":169561227
+        }
+    ],
+    "wof:id":169561227,
+    "wof:lastmodified":1449035019,
+    "wof:name":"Euro Leathers Pvt. Ltd.",
+    "wof:parent_id":85930761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [78.411331,17.424519,78.411331,17.424519],
+  "geometry": {"coordinates":[78.411331,17.424519],"type":"Point"}
+}

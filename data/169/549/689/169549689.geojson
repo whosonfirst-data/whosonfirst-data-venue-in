@@ -1,0 +1,66 @@
+{
+  "id": 169549689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.832176,18.950495,72.832176,18.950495",
+    "geom:latitude":18.950495,
+    "geom:longitude":72.832176,
+    "iso:country":"IN",
+    "sg:address":"33, G.i.d.c. Estate, Vithal,",
+    "sg:city":"Udyognagar",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2692 236 110",
+    "sg:postcode":"388121",
+    "sg:tags":[
+        "funicular",
+        "car",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NNga7B0X4qOpZolsvkFfm_18.950495_72.832176@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"70b3bfeed000cafe66dd49b37d233aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169549689
+        }
+    ],
+    "wof:id":169549689,
+    "wof:lastmodified":1449033593,
+    "wof:name":"Industrial Equipment Manufacturers",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "funicular",
+        "car",
+        "elevator"
+    ]
+},
+  "bbox": [72.832176,18.950495,72.832176,18.950495],
+  "geometry": {"coordinates":[72.832176,18.950495],"type":"Point"}
+}

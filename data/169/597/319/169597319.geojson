@@ -1,0 +1,60 @@
+{
+  "id": 169597319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.373421,28.66238,77.373421,28.66238",
+    "geom:latitude":28.66238,
+    "geom:longitude":77.373421,
+    "iso:country":"IN",
+    "sg:address":"F-80, A/4, Rajinder Nagar, Indl. Area, Mohan Nagar,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lFgmvuiCQccxxw7isJ105_28.662380_77.373421@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"631f4d495308029a7acb64a073075286",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169597319
+        }
+    ],
+    "wof:id":169597319,
+    "wof:lastmodified":1449035923,
+    "wof:name":"Overseas Products",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.373421,28.66238,77.373421,28.66238],
+  "geometry": {"coordinates":[77.373421,28.66238],"type":"Point"}
+}

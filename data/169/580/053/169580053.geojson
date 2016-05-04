@@ -1,0 +1,66 @@
+{
+  "id": 169580053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.005379,19.06193,73.005379,19.06193",
+    "geom:latitude":19.06193,
+    "geom:longitude":73.005379,
+    "iso:country":"IN",
+    "sg:address":"F-11, Block, Plot No. 48, Midc,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2765 0978",
+    "sg:postcode":"411018",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "sg:website":"http://www.ionbond.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931637,
+        85632469,
+        102031087,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZUd6sDlZ5zT2di2aySDqe_19.061930_73.005379@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1588e85ff05d98f634b1aa9fe9fff2de",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031087,
+            "neighbourhood_id":85931637,
+            "region_id":85672171,
+            "venue_id":169580053
+        }
+    ],
+    "wof:id":169580053,
+    "wof:lastmodified":1449034914,
+    "wof:name":"Ionbond Coating Pvt. Ltd.",
+    "wof:parent_id":85931637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [73.005379,19.06193,73.005379,19.06193],
+  "geometry": {"coordinates":[73.005379,19.06193],"type":"Point"}
+}

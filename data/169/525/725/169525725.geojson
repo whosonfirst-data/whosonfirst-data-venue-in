@@ -1,0 +1,69 @@
+{
+  "id": 169525725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.919479,19.114925,72.919479,19.114925",
+    "geom:latitude":19.114925,
+    "geom:longitude":72.919479,
+    "iso:country":"IN",
+    "sg:address":"Vikhroli (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2518 0425",
+    "sg:postcode":"400079",
+    "sg:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931627,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tWHb9DjHmdpwQ5frBJZoK_19.114925_72.919479@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cb449935517150212e6bc86f99c8a82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931627,
+            "region_id":85672171,
+            "venue_id":169525725
+        }
+    ],
+    "wof:id":169525725,
+    "wof:lastmodified":1449035273,
+    "wof:name":"Okean International",
+    "wof:parent_id":85931627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ]
+},
+  "bbox": [72.919479,19.114925,72.919479,19.114925],
+  "geometry": {"coordinates":[72.919479,19.114925],"type":"Point"}
+}

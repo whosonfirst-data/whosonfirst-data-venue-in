@@ -1,0 +1,62 @@
+{
+  "id": 169579165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.306595,28.336205,77.306595,28.336205",
+    "geom:latitude":28.336205,
+    "geom:longitude":77.306595,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 72, Sector-25,",
+    "sg:city":"Ballabgarh",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 223 0022",
+    "sg:postcode":"121004",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903787,
+        85632469,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dOS2f1w2n8uBunONbmADY_28.336205_77.306595@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"eb3d67090c1f92dfb87fad2233ac45f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85903787,
+            "region_id":85672133,
+            "venue_id":169579165
+        }
+    ],
+    "wof:id":169579165,
+    "wof:lastmodified":1449033742,
+    "wof:name":"Hpl Industries (p) Ltd.",
+    "wof:parent_id":85903787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [77.306595,28.336205,77.306595,28.336205],
+  "geometry": {"coordinates":[77.306595,28.336205],"type":"Point"}
+}

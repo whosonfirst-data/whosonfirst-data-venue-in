@@ -1,0 +1,64 @@
+{
+  "id": 169582171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.56118,13.004516,77.56118,13.004516",
+    "geom:latitude":13.004516,
+    "geom:longitude":77.56118,
+    "iso:country":"IN",
+    "sg:address":"180, 1st Main Road, Mahalaxmi Layout, Extension,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2349 4406",
+    "sg:postcode":"560086",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "sg:website":"http://www.multiplexgroup.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EcgARMyiq6L5wRTr9cxkk_13.004516_77.561180@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fffcefea43ae2fb9fe62be083610ca4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169582171
+        }
+    ],
+    "wof:id":169582171,
+    "wof:lastmodified":1449034466,
+    "wof:name":"Karnataka Agro Chemicals Multiplex Fertilizers Pvt. Ltd.",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.56118,13.004516,77.56118,13.004516],
+  "geometry": {"coordinates":[77.56118,13.004516],"type":"Point"}
+}

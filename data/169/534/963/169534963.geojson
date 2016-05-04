@@ -1,0 +1,67 @@
+{
+  "id": 169534963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.475182,17.36648,78.475182,17.36648",
+    "geom:latitude":17.36648,
+    "geom:longitude":78.475182,
+    "iso:country":"IN",
+    "sg:address":"75-c, Mohd Ali Rd.,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2342 9865",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "component",
+        "product",
+        "electronic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930797,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2brFFn84QoJi3Sg6UuggIj_17.366480_78.475182@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e09e146a00d10ae5994ca38405f6f5d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930797,
+            "region_id":85672141,
+            "venue_id":169534963
+        }
+    ],
+    "wof:id":169534963,
+    "wof:lastmodified":1449033547,
+    "wof:name":"S. B. Dungarpurwala & Co.",
+    "wof:parent_id":85930797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "product",
+        "electronic"
+    ]
+},
+  "bbox": [78.475182,17.36648,78.475182,17.36648],
+  "geometry": {"coordinates":[78.475182,17.36648],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169645781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.850471,30.686115,76.850471,30.686115",
+    "geom:latitude":30.686115,
+    "geom:longitude":76.850471,
+    "iso:country":"IN",
+    "sg:address":"D-3, Sector-11,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 251 8146",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931825,
+        85632469,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dRZMjzIiEXqZtjTj7SjxI_30.686115_76.850471@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"da5d1ab3f800bd606d84eb9bfc48a70b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85931825,
+            "region_id":85672133,
+            "venue_id":169645781
+        }
+    ],
+    "wof:id":169645781,
+    "wof:lastmodified":1449033004,
+    "wof:name":"Waco Motherson Elastomer Ltd.",
+    "wof:parent_id":85931825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [76.850471,30.686115,76.850471,30.686115],
+  "geometry": {"coordinates":[76.850471,30.686115],"type":"Point"}
+}

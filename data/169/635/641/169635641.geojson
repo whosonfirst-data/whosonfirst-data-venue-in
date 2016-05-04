@@ -1,0 +1,66 @@
+{
+  "id": 169635641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.242668,28.553358,77.242668,28.553358",
+    "geom:latitude":28.553358,
+    "geom:longitude":77.242668,
+    "iso:country":"IN",
+    "sg:address":"H-9, Kailash Colony,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4163 4883",
+    "sg:postcode":"110048",
+    "sg:tags":[
+        "product",
+        "gum"
+    ],
+    "sg:website":"http://www.thegacgroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928369,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xqX6nZIdk2xe4zc9XjAPZ_28.553358_77.242668@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"85fcb5711319d6a148374d6f2ee03c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928369,
+            "region_id":85672123,
+            "venue_id":169635641
+        }
+    ],
+    "wof:id":169635641,
+    "wof:lastmodified":1449034098,
+    "wof:name":"The Gac Group",
+    "wof:parent_id":85928369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "gum"
+    ]
+},
+  "bbox": [77.242668,28.553358,77.242668,28.553358],
+  "geometry": {"coordinates":[77.242668,28.553358],"type":"Point"}
+}

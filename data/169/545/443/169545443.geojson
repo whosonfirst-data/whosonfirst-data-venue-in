@@ -1,0 +1,69 @@
+{
+  "id": 169545443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.2957,9.961592,76.2957,9.961592",
+    "geom:latitude":9.961592,
+    "geom:longitude":76.2957,
+    "iso:country":"IN",
+    "sg:address":"201, P.t.p. Nagar,",
+    "sg:city":"Thiruvananthapuram",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 471 236 1787",
+    "sg:postcode":"695038",
+    "sg:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783459,
+        85632469,
+        102030301,
+        85672149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EaXa1E0OkHTdSs9sTY8Ro_9.961592_76.295700@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e4f18b21fb5cd8caa4d47618abf6ced8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030301,
+            "neighbourhood_id":85783459,
+            "region_id":85672149,
+            "venue_id":169545443
+        }
+    ],
+    "wof:id":169545443,
+    "wof:lastmodified":1449033486,
+    "wof:name":"Jobson Engineering Co.",
+    "wof:parent_id":85783459,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ]
+},
+  "bbox": [76.2957,9.961592,76.2957,9.961592],
+  "geometry": {"coordinates":[76.2957,9.961592],"type":"Point"}
+}

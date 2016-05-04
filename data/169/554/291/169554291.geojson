@@ -1,0 +1,64 @@
+{
+  "id": 169554291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.171837,22.313663,73.171837,22.313663",
+    "geom:latitude":22.313663,
+    "geom:longitude":73.171837,
+    "iso:country":"IN",
+    "sg:address":"6th Floor, Premier Chembur, Alkapuri,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 552 2841",
+    "sg:tags":[
+        "pharmaceutical",
+        "formulation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933511,
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sRl2sqBEaw1emJ5p3HvdJ_22.313663_73.171837@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3816c455ba0c3d733d42c9ccc98e6131",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":85933511,
+            "region_id":85672249,
+            "venue_id":169554291
+        }
+    ],
+    "wof:id":169554291,
+    "wof:lastmodified":1449033369,
+    "wof:name":"Ashutosh Konkar",
+    "wof:parent_id":85933511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "formulation"
+    ]
+},
+  "bbox": [73.171837,22.313663,73.171837,22.313663],
+  "geometry": {"coordinates":[73.171837,22.313663],"type":"Point"}
+}

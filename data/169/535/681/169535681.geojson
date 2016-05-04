@@ -1,0 +1,64 @@
+{
+  "id": 169535681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.93129,19.150547,72.93129,19.150547",
+    "geom:latitude":19.150547,
+    "geom:longitude":72.93129,
+    "iso:country":"IN",
+    "sg:address":"Bhandup Ind. Estate, A-wing, Unit No.1037, L.b.s.marg, Pannalal Compound, Bhandup (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5599 3015",
+    "sg:postcode":"400078",
+    "sg:tags":[
+        "aromatics",
+        "essential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aOgaSBDrgwZKsACKe4FXy_19.150547_72.931290@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"856dc7945d28ebb821f295e1897cdb50",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169535681
+        }
+    ],
+    "wof:id":169535681,
+    "wof:lastmodified":1449033286,
+    "wof:name":"Abhisek Aromatics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aromatics",
+        "essential"
+    ]
+},
+  "bbox": [72.93129,19.150547,72.93129,19.150547],
+  "geometry": {"coordinates":[72.93129,19.150547],"type":"Point"}
+}

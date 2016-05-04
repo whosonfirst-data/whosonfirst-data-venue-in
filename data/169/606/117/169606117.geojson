@@ -1,0 +1,61 @@
+{
+  "id": 169606117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.953506,30.851166,76.953506,30.851166",
+    "geom:latitude":30.851166,
+    "geom:longitude":76.953506,
+    "iso:country":"IN",
+    "sg:address":"H.no. 1741, Sec-4, Panchkula,",
+    "sg:city":"Chandigarh",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 172 257 3634",
+    "sg:postcode":"134109",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GKfMSf2UTButHxLinT1kI_30.851166_76.953506@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8142205041795cd354db370ca4cc19fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672129,
+            "venue_id":169606117
+        }
+    ],
+    "wof:id":169606117,
+    "wof:lastmodified":1449033203,
+    "wof:name":"R & A Merchants",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [76.953506,30.851166,76.953506,30.851166],
+  "geometry": {"coordinates":[76.953506,30.851166],"type":"Point"}
+}

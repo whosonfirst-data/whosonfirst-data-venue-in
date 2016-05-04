@@ -1,0 +1,67 @@
+{
+  "id": 169645891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.337471,22.587643,88.337471,22.587643",
+    "geom:latitude":22.587643,
+    "geom:longitude":88.337471,
+    "iso:country":"IN",
+    "sg:address":"71, B.r.b. Basu Road, Room No. B-411, 4th Floor,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2235 8933",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903957,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jIn9zH8Lv8SPUedinYVwK_22.587643_88.337471@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"14c37b46f7e62b7eb948e74e0d7d9c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903957,
+            "region_id":85672219,
+            "venue_id":169645891
+        }
+    ],
+    "wof:id":169645891,
+    "wof:lastmodified":1449033005,
+    "wof:name":"Waylink International",
+    "wof:parent_id":85903957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [88.337471,22.587643,88.337471,22.587643],
+  "geometry": {"coordinates":[88.337471,22.587643],"type":"Point"}
+}

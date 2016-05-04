@@ -1,0 +1,61 @@
+{
+  "id": 169641497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.751274,10.799159,78.751274,10.799159",
+    "geom:latitude":10.799159,
+    "geom:longitude":78.751274,
+    "iso:country":"IN",
+    "sg:address":"B-8, First Floor, East Of Kailash,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2632 4443",
+    "sg:postcode":"110065",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77vKtzF4QVZFiPjVeCLcbd_10.799159_78.751274@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2c20ac9f2187258e1586a5d36d438557",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169641497
+        }
+    ],
+    "wof:id":169641497,
+    "wof:lastmodified":1449035170,
+    "wof:name":"Vaishnavi Agency",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [78.751274,10.799159,78.751274,10.799159],
+  "geometry": {"coordinates":[78.751274,10.799159],"type":"Point"}
+}

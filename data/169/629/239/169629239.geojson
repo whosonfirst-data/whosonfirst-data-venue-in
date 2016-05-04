@@ -1,0 +1,73 @@
+{
+  "id": 169629239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.23423,28.591099,77.23423,28.591099",
+    "geom:latitude":28.591099,
+    "geom:longitude":77.23423,
+    "iso:country":"IN",
+    "sg:address":"Ispat Bhavan, Lodhi Road, P.b. No. 673,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2436 7481",
+    "sg:postcode":"110003",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "sg:website":"http://www.sail.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928317,
+        85632469,
+        102029189,
+        85672123,
+        85928255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60s98ubbFK5TpHc8dud8gs_28.591099_77.234230@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b1c7790799d2c007bcda9f3162604160",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928317,
+            "region_id":85672123,
+            "venue_id":169629239
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928255,
+            "region_id":85672123,
+            "venue_id":169629239
+        }
+    ],
+    "wof:id":169629239,
+    "wof:lastmodified":1449035183,
+    "wof:name":"Steel Authority Of India (sail) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.23423,28.591099,77.23423,28.591099],
+  "geometry": {"coordinates":[77.23423,28.591099],"type":"Point"}
+}

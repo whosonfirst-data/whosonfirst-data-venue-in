@@ -1,0 +1,63 @@
+{
+  "id": 169607909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.012436,19.071564,73.012436,19.071564",
+    "geom:latitude":19.071564,
+    "geom:longitude":73.012436,
+    "iso:country":"IN",
+    "sg:address":"88/a, Sector 23, Turbhe,",
+    "sg:city":"Navi Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2783 1097",
+    "sg:postcode":"400705",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.rajkiranind.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931599,
+        85632469,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pVvR4RjWbeFXK8yOT6ejC_19.071564_73.012436@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f02ca482f6db8ebfc640119b69546fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85931599,
+            "region_id":85672171,
+            "venue_id":169607909
+        }
+    ],
+    "wof:id":169607909,
+    "wof:lastmodified":1449033125,
+    "wof:name":"Raj-kiran Industries",
+    "wof:parent_id":85931599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [73.012436,19.071564,73.012436,19.071564],
+  "geometry": {"coordinates":[73.012436,19.071564],"type":"Point"}
+}

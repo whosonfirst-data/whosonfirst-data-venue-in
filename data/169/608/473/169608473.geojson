@@ -1,0 +1,62 @@
+{
+  "id": 169608473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.072083,28.691763,77.072083,28.691763",
+    "geom:latitude":28.691763,
+    "geom:longitude":77.072083,
+    "iso:country":"IN",
+    "sg:address":"A-43, Naresh Park, Ind. Area. Nangloi,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2594 9283",
+    "sg:postcode":"110041",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05kY2Y9zSRH5vtLokeFyns_28.691763_77.072083@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"50ca1e0e0f6726be4adcdec80156955e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169608473
+        }
+    ],
+    "wof:id":169608473,
+    "wof:lastmodified":1449034080,
+    "wof:name":"Rakesh Frp. Polymers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.072083,28.691763,77.072083,28.691763],
+  "geometry": {"coordinates":[77.072083,28.691763],"type":"Point"}
+}

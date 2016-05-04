@@ -1,0 +1,65 @@
+{
+  "id": 169576223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.235672,13.028213,80.235672,13.028213",
+    "geom:latitude":13.028213,
+    "geom:longitude":80.235672,
+    "iso:country":"IN",
+    "sg:address":"472/b 2nd Floor, Anna Salai, Nandanam,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 4306 0043",
+    "sg:postcode":"600035",
+    "sg:tags":[
+        "chemical",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903981,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WMMyZCIfzk6ZkCe17CEfL_13.028213_80.235672@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"46c6e4e3c2ec102a10bf3ec7e3d4d2b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903981,
+            "region_id":85672245,
+            "venue_id":169576223
+        }
+    ],
+    "wof:id":169576223,
+    "wof:lastmodified":1449035195,
+    "wof:name":"Bharat Polymers",
+    "wof:parent_id":85903981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "-"
+    ]
+},
+  "bbox": [80.235672,13.028213,80.235672,13.028213],
+  "geometry": {"coordinates":[80.235672,13.028213],"type":"Point"}
+}

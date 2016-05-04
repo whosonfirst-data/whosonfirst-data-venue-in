@@ -1,0 +1,64 @@
+{
+  "id": 169582643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.21183,28.643013,77.21183,28.643013",
+    "geom:latitude":28.643013,
+    "geom:longitude":77.21183,
+    "iso:country":"IN",
+    "sg:address":"23/1040, Gandhi Gali, Tilak Bazar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2391 7338",
+    "sg:postcode":"110006",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "sg:website":"http://www.kishavhichem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903937,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JdhM2DkFOODbE3BriqDjH_28.643013_77.211830@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"96e3fd1c6a0e13ebe85362e665a1346e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903937,
+            "region_id":85672123,
+            "venue_id":169582643
+        }
+    ],
+    "wof:id":169582643,
+    "wof:lastmodified":1449034466,
+    "wof:name":"Keshav Hichem",
+    "wof:parent_id":85903937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [77.21183,28.643013,77.21183,28.643013],
+  "geometry": {"coordinates":[77.21183,28.643013],"type":"Point"}
+}

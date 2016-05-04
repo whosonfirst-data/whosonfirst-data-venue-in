@@ -1,0 +1,63 @@
+{
+  "id": 169536601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.613373,12.934564,77.613373,12.934564",
+    "geom:latitude":12.934564,
+    "geom:longitude":77.613373,
+    "iso:country":"IN",
+    "sg:address":"B-27, Raheja Arcade, Koramangala,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2550 4751",
+    "sg:postcode":"560095",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930917,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IaK9mkPUbrEDl5qGGYOaO_12.934564_77.613373@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"78ecffa5096e2b3416a686baeefd946d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930917,
+            "region_id":85672165,
+            "venue_id":169536601
+        }
+    ],
+    "wof:id":169536601,
+    "wof:lastmodified":1449034659,
+    "wof:name":"Laxmi Plastopack India Pvt. Ltd.",
+    "wof:parent_id":85930917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.613373,12.934564,77.613373,12.934564],
+  "geometry": {"coordinates":[77.613373,12.934564],"type":"Point"}
+}

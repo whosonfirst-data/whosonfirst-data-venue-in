@@ -1,0 +1,60 @@
+{
+  "id": 169558905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.46978,19.5777,74.46978,19.5777",
+    "geom:latitude":19.5777,
+    "geom:longitude":74.46978,
+    "iso:country":"IN",
+    "sg:address":"A-2, Sector A, Tronica City, Loni,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029561,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Yl5RfCuNYQWAIV7RUZSP1_19.577700_74.469780@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"72e841c897912bbc5ef87fa919e4aebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029561,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169558905
+        }
+    ],
+    "wof:id":169558905,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Carbo Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [74.46978,19.5777,74.46978,19.5777],
+  "geometry": {"coordinates":[74.46978,19.5777],"type":"Point"}
+}

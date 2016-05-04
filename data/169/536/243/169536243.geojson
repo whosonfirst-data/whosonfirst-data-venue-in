@@ -1,0 +1,57 @@
+{
+  "id": 169536243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833992,18.950926,72.833992,18.950926",
+    "geom:latitude":18.950926,
+    "geom:longitude":72.833992,
+    "iso:country":"IN",
+    "sg:address":"1/3, Joshi Bldg., 3rd  Floor, Nagdevi St.,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 3345 2425",
+    "sg:postcode":"400003",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tfnC02Ob0HOZZ7xxIAqfe_18.950926_72.833992@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"da7f406266778875259b2383d901c741",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169536243
+        }
+    ],
+    "wof:id":169536243,
+    "wof:lastmodified":1449034657,
+    "wof:name":"Haza Fashions",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.833992,18.950926,72.833992,18.950926],
+  "geometry": {"coordinates":[72.833992,18.950926],"type":"Point"}
+}

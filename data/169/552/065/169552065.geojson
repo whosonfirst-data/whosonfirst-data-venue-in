@@ -1,0 +1,66 @@
+{
+  "id": 169552065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.187622,22.318846,73.187622,22.318846",
+    "geom:latitude":22.318846,
+    "geom:longitude":73.187622,
+    "iso:country":"IN",
+    "sg:address":"103, Saffron Complex, Fathegunj,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 278 4333",
+    "sg:postcode":"390002",
+    "sg:tags":[
+        "calendar",
+        "diary"
+    ],
+    "sg:website":"http://www.parshva.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933519,
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7McmDZSsSfOEYhsRs1EMIO_22.318846_73.187622@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2721292d6b1eec2811d1e6ffe12912e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":85933519,
+            "region_id":85672249,
+            "venue_id":169552065
+        }
+    ],
+    "wof:id":169552065,
+    "wof:lastmodified":1449034058,
+    "wof:name":"Parshva International",
+    "wof:parent_id":85933519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "calendar",
+        "diary"
+    ]
+},
+  "bbox": [73.187622,22.318846,73.187622,22.318846],
+  "geometry": {"coordinates":[73.187622,22.318846],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 169651535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.40286,22.598539,88.40286,22.598539",
+    "geom:latitude":22.598539,
+    "geom:longitude":88.40286,
+    "iso:country":"IN",
+    "sg:address":"211/1 Canal Street",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"700048",
+    "sg:tags":[
+        "web-design",
+        "web-development",
+        "multimedia",
+        "internet-marketing"
+    ],
+    "sg:website":"http://www.primediart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903943,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VcmmJE65vca6jA2Y8Vtfz_22.598539_88.402860@1308163241"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bc460dd8e15a26f09210b9816bfd4d0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903943,
+            "region_id":85672219,
+            "venue_id":169651535
+        }
+    ],
+    "wof:id":169651535,
+    "wof:lastmodified":1449033343,
+    "wof:name":"Primediart",
+    "wof:parent_id":85903943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web-design",
+        "web-development",
+        "multimedia",
+        "internet-marketing"
+    ]
+},
+  "bbox": [88.40286,22.598539,88.40286,22.598539],
+  "geometry": {"coordinates":[88.40286,22.598539],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169541471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.614693,12.910772,77.614693,12.910772",
+    "geom:latitude":12.910772,
+    "geom:longitude":77.614693,
+    "iso:country":"IN",
+    "sg:address":"7/b, 29th Main, Btm Layout Ii Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2668 3700",
+    "sg:postcode":"560076",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"http://www.iwavesystems.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930853,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GDbu20jIU3yFugUdr7Eu1_12.910772_77.614693@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"10ba6b5549fab885055bd331d7bbe40e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930853,
+            "region_id":85672165,
+            "venue_id":169541471
+        }
+    ],
+    "wof:id":169541471,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Iwave Systems Technologies Pvt. Ltd.",
+    "wof:parent_id":85930853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.614693,12.910772,77.614693,12.910772],
+  "geometry": {"coordinates":[77.614693,12.910772],"type":"Point"}
+}

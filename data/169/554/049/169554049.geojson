@@ -1,0 +1,63 @@
+{
+  "id": 169554049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.14785,22.340382,73.14785,22.340382",
+    "geom:latitude":22.340382,
+    "geom:longitude":73.14785,
+    "iso:country":"IN",
+    "sg:address":"Alembic Road,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 228 0550",
+    "sg:postcode":"390003",
+    "sg:tags":[
+        "others"
+    ],
+    "sg:website":"http://www.alembic-india.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xANERJmCl3Vb76qHCO3ad_22.340382_73.147850@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1abec32828e5369dc50ddac8a5cbd453",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169554049
+        }
+    ],
+    "wof:id":169554049,
+    "wof:lastmodified":1449033370,
+    "wof:name":"Alembic Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "others"
+    ]
+},
+  "bbox": [73.14785,22.340382,73.14785,22.340382],
+  "geometry": {"coordinates":[73.14785,22.340382],"type":"Point"}
+}

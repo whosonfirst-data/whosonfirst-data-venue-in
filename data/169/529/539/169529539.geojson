@@ -1,0 +1,63 @@
+{
+  "id": 169529539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.822403,18.925873,72.822403,18.925873",
+    "geom:latitude":18.925873,
+    "geom:longitude":72.822403,
+    "iso:country":"IN",
+    "sg:address":"Bajaj Bhavan, No. 105, Nariman Point,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2282 6969",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LABnf1yLIY1BodBcdBfgW_18.925873_72.822403@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b13b41a24bcd05fed8e26ca9b04e9cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169529539
+        }
+    ],
+    "wof:id":169529539,
+    "wof:lastmodified":1449034117,
+    "wof:name":"C. J. Shah & Co.",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.822403,18.925873,72.822403,18.925873],
+  "geometry": {"coordinates":[72.822403,18.925873],"type":"Point"}
+}

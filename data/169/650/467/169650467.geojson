@@ -1,0 +1,58 @@
+{
+  "id": 169650467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.565547,13.00564,77.565547,13.00564",
+    "geom:latitude":13.00564,
+    "geom:longitude":77.565547,
+    "iso:country":"IN",
+    "sg:address":"#683, 15th Cross Road J.P. Nagar 2nd Phase",
+    "sg:city":"Bangalore ",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560078",
+    "sg:website":"http://www.solitontech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L79HgdESDuII5zNAsFrfn_13.005640_77.565547@1308163240"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a784c3b2487895426f3899841c617453",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169650467
+        }
+    ],
+    "wof:id":169650467,
+    "wof:lastmodified":1449034701,
+    "wof:name":"Soliton Technologies",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.565547,13.00564,77.565547,13.00564],
+  "geometry": {"coordinates":[77.565547,13.00564],"type":"Point"}
+}

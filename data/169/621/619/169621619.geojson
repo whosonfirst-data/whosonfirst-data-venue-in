@@ -1,0 +1,63 @@
+{
+  "id": 169621619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.569366,23.040087,72.569366,23.040087",
+    "geom:latitude":23.040087,
+    "geom:longitude":72.569366,
+    "iso:country":"IN",
+    "sg:address":"7th Floor, H.k. House, Ashram Road,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 2658 6423",
+    "sg:postcode":"380009",
+    "sg:tags":[
+        "acid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933465,
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1itbpDKPrOvDa8B0U4N4Aa_23.040087_72.569366@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"66e74fafe3cff167b25baf655f3c44ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":85933465,
+            "region_id":85672249,
+            "venue_id":169621619
+        }
+    ],
+    "wof:id":169621619,
+    "wof:lastmodified":1449035558,
+    "wof:name":"Shree Sulphurics Pvt. Ltd.",
+    "wof:parent_id":85933465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [72.569366,23.040087,72.569366,23.040087],
+  "geometry": {"coordinates":[72.569366,23.040087],"type":"Point"}
+}

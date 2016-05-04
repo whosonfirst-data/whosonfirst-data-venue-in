@@ -1,0 +1,65 @@
+{
+  "id": 169601077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.220764,28.658045,77.220764,28.658045",
+    "geom:latitude":28.658045,
+    "geom:longitude":77.220764,
+    "iso:country":"IN",
+    "sg:address":"313/314, Tilak Bazar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2393 2737",
+    "sg:postcode":"110006",
+    "sg:tags":[
+        "product",
+        "gum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928087,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c1Lpazcf5ryxaVN4PEurD_28.658045_77.220764@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3bd3bfd19c9499d60409fb06c9d3989b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928087,
+            "region_id":85672123,
+            "venue_id":169601077
+        }
+    ],
+    "wof:id":169601077,
+    "wof:lastmodified":1449034146,
+    "wof:name":"Pioneer In-organics",
+    "wof:parent_id":85928087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "gum"
+    ]
+},
+  "bbox": [77.220764,28.658045,77.220764,28.658045],
+  "geometry": {"coordinates":[77.220764,28.658045],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169551827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.173897,22.3342,73.173897,22.3342",
+    "geom:latitude":22.3342,
+    "geom:longitude":73.173897,
+    "iso:country":"IN",
+    "sg:address":"Chhani Road,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 279 3650",
+    "sg:postcode":"390002",
+    "sg:tags":[
+        "construction",
+        "machinery"
+    ],
+    "sg:website":"http://www.sayaji.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6whSznkz3w4M1ObaBHiZ23_22.334200_73.173897@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b0d76bab372d87c57692c6a0891b3432",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169551827
+        }
+    ],
+    "wof:id":169551827,
+    "wof:lastmodified":1449033354,
+    "wof:name":"Sayaji Iron & Engineering Co. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction",
+        "machinery"
+    ]
+},
+  "bbox": [73.173897,22.3342,73.173897,22.3342],
+  "geometry": {"coordinates":[73.173897,22.3342],"type":"Point"}
+}

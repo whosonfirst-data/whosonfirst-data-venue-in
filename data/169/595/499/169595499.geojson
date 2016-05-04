@@ -1,0 +1,63 @@
+{
+  "id": 169595499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"83.302101,17.716927,83.302101,17.716927",
+    "geom:latitude":17.716927,
+    "geom:longitude":83.302101,
+    "iso:country":"IN",
+    "sg:address":"30-9-24, Daba Gardens,",
+    "sg:city":"Vishakapattanam",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 891 275 1245",
+    "sg:postcode":"530020",
+    "sg:tags":[
+        "fine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903995,
+        85632469,
+        102028261,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TaQMXRr8aWV80LXg6W1gr_17.716927_83.302101@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e70a58b8aaa2bedbcc58c81103e26600",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028261,
+            "neighbourhood_id":85903995,
+            "region_id":85672141,
+            "venue_id":169595499
+        }
+    ],
+    "wof:id":169595499,
+    "wof:lastmodified":1449035636,
+    "wof:name":"Nu-way Engineering Pvt. Limited",
+    "wof:parent_id":85903995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fine"
+    ]
+},
+  "bbox": [83.302101,17.716927,83.302101,17.716927],
+  "geometry": {"coordinates":[83.302101,17.716927],"type":"Point"}
+}

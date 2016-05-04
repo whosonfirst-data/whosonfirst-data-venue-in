@@ -1,0 +1,65 @@
+{
+  "id": 169617767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.211105,13.009055,80.211105,13.009055",
+    "geom:latitude":13.009055,
+    "geom:longitude":80.211105,
+    "iso:country":"IN",
+    "sg:address":"E-10, Industrial Estate, Guindy,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2232 1202",
+    "sg:postcode":"600032",
+    "sg:tags":[
+        "lab",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903867,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hxSsVTlUAG3cuUU3fEmc7_13.009055_80.211105@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f79a23b5b53eb94960d01f2b983de00d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903867,
+            "region_id":85672245,
+            "venue_id":169617767
+        }
+    ],
+    "wof:id":169617767,
+    "wof:lastmodified":1449032799,
+    "wof:name":"Scientific Supply (p) Ltd.",
+    "wof:parent_id":85903867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lab",
+        "supply"
+    ]
+},
+  "bbox": [80.211105,13.009055,80.211105,13.009055],
+  "geometry": {"coordinates":[80.211105,13.009055],"type":"Point"}
+}

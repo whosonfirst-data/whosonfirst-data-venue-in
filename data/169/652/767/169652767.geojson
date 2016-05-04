@@ -1,0 +1,67 @@
+{
+  "id": 169652767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.376765,17.474957,78.376765,17.474957",
+    "geom:latitude":17.474957,
+    "geom:longitude":78.376765,
+    "iso:country":"IN",
+    "sg:address":"Kukatpally",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"500072",
+    "sg:tags":[
+        "event-planner",
+        "local-search",
+        "social-networking"
+    ],
+    "sg:website":"http://www.funpiper.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930669,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eQaBUXSofK8o2aIodsvYy_17.474957_78.376765@1308163238"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"45407dff8a3131179ace2ed611bb54f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930669,
+            "region_id":85672141,
+            "venue_id":169652767
+        }
+    ],
+    "wof:id":169652767,
+    "wof:lastmodified":1449034807,
+    "wof:name":"Funpiper",
+    "wof:parent_id":85930669,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "event-planner",
+        "local-search",
+        "social-networking"
+    ]
+},
+  "bbox": [78.376765,17.474957,78.376765,17.474957],
+  "geometry": {"coordinates":[78.376765,17.474957],"type":"Point"}
+}

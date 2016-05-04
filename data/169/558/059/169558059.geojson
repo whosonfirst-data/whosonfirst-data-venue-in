@@ -1,0 +1,54 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831917,19.136951,72.831917,19.136951",
+    "geom:latitude":19.136951,
+    "geom:longitude":72.831917,
+    "iso:country":"IN",
+    "sg:address":"1st Floor, New Link Road",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2823 1872",
+    "sg:postcode":"400069",
+    "sg:province":"Maharashtra",
+    "sg:website":"http://www.atc.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931475,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X9KVHZnK7YZlggFO2K9cu_19.136951_72.831917@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7e37e252b6fb53afcc00b20f9a5c1c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931475,
+            "region_id":85672171,
+            "venue_id":169558059
+        }
+    ],
+    "wof:id":169558059,
+    "wof:lastmodified":1449033580,
+    "wof:name":"A T C (clearing & Shipping) Pvt Ltd",
+    "wof:parent_id":85931475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.831917,19.136951,72.831917,19.136951],
+  "geometry": {"coordinates":[72.831917,19.136951],"type":"Point"}
+}

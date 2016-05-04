@@ -1,0 +1,70 @@
+{
+  "id": 169525693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.821442,18.924643,72.821442,18.924643",
+    "geom:latitude":18.924643,
+    "geom:longitude":72.821442,
+    "iso:country":"IN",
+    "sg:address":"1105 Regent Chambers, 208 Nariman Point,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5630 7200",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ],
+    "sg:website":"http://www.agritradex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PCfKc1F95kZZM77ECZsTw_18.924643_72.821442@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d168619fea64483ffc98fb9438eaa7aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169525693
+        }
+    ],
+    "wof:id":169525693,
+    "wof:lastmodified":1449035273,
+    "wof:name":"Agritradex Commodities Pvt. Ltd.",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ]
+},
+  "bbox": [72.821442,18.924643,72.821442,18.924643],
+  "geometry": {"coordinates":[72.821442,18.924643],"type":"Point"}
+}

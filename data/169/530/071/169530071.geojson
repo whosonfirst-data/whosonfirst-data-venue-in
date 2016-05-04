@@ -1,0 +1,65 @@
+{
+  "id": 169530071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.836128,19.014359,72.836128,19.014359",
+    "geom:latitude":19.014359,
+    "geom:longitude":72.836128,
+    "iso:country":"IN",
+    "sg:address":"B-4, Tambakuwala Building, Masjid Gali, B. S. Road, Dadar (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2436 0745",
+    "sg:postcode":"400028",
+    "sg:tags":[
+        "garment",
+        "childrenwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931467,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38QPbf2B2Xamz1COeCRkZz_19.014359_72.836128@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5b5aa52d1c29821f46d85d22aba78d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931467,
+            "region_id":85672171,
+            "venue_id":169530071
+        }
+    ],
+    "wof:id":169530071,
+    "wof:lastmodified":1449034442,
+    "wof:name":"Akash Creation",
+    "wof:parent_id":85931467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "childrenwear"
+    ]
+},
+  "bbox": [72.836128,19.014359,72.836128,19.014359],
+  "geometry": {"coordinates":[72.836128,19.014359],"type":"Point"}
+}

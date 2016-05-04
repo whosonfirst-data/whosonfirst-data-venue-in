@@ -1,0 +1,65 @@
+{
+  "id": 169591703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.830635,18.947435,72.830635,18.947435",
+    "geom:latitude":18.947435,
+    "geom:longitude":72.830635,
+    "iso:country":"IN",
+    "sg:address":"2 Floor, 89, Princess Street,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2208 2844",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "lab",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wZir3EnB9Esl5QQE8TR2g_18.947435_72.830635@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fbc8ecccd38f0c07f606ca249aa73d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169591703
+        }
+    ],
+    "wof:id":169591703,
+    "wof:lastmodified":1449034449,
+    "wof:name":"N. Sunderlal & Co.",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lab",
+        "supply"
+    ]
+},
+  "bbox": [72.830635,18.947435,72.830635,18.947435],
+  "geometry": {"coordinates":[72.830635,18.947435],"type":"Point"}
+}

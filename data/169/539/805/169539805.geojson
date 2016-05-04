@@ -1,0 +1,63 @@
+{
+  "id": 169539805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.587914,12.985008,77.587914,12.985008",
+    "geom:latitude":12.985008,
+    "geom:longitude":77.587914,
+    "iso:country":"IN",
+    "sg:address":"No. 4404/5, High Point 4, 45, Palace Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2225 1427",
+    "sg:postcode":"560001",
+    "sg:tags":[
+        "seed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930961,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UN8HGSTm2pFcKi67bBxay_12.985008_77.587914@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7f783c75969c5c71fc6665ea00f4fae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930961,
+            "region_id":85672165,
+            "venue_id":169539805
+        }
+    ],
+    "wof:id":169539805,
+    "wof:lastmodified":1449036038,
+    "wof:name":"Ramesh Enterprises Ltd.",
+    "wof:parent_id":85930961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seed"
+    ]
+},
+  "bbox": [77.587914,12.985008,77.587914,12.985008],
+  "geometry": {"coordinates":[77.587914,12.985008],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169633815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"84.859398,22.243811,84.859398,22.243811",
+    "geom:latitude":22.243811,
+    "geom:longitude":84.859398,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 60, Sector-6,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 406 7000",
+    "sg:postcode":"121006",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.talbrospolymers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933795,
+        85632469,
+        102028839,
+        85672157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w7UxhA9BPgDJONxIaw4XC_22.243811_84.859398@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"056a9c3d8dd438c3a0e469cfe2714aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028839,
+            "neighbourhood_id":85933795,
+            "region_id":85672157,
+            "venue_id":169633815
+        }
+    ],
+    "wof:id":169633815,
+    "wof:lastmodified":1449035939,
+    "wof:name":"Talbros Private Limited",
+    "wof:parent_id":85933795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [84.859398,22.243811,84.859398,22.243811],
+  "geometry": {"coordinates":[84.859398,22.243811],"type":"Point"}
+}

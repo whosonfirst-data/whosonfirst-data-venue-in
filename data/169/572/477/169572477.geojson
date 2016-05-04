@@ -1,0 +1,53 @@
+{
+  "id": 169572477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.352699,22.541399,88.352699,22.541399",
+    "geom:latitude":22.541399,
+    "geom:longitude":88.352699,
+    "iso:country":"IN",
+    "sg:address":"Acharya Jagadish Chandra Bose Road",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2284 1533",
+    "sg:postcode":"700014",
+    "sg:province":"West Bengal",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931935,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6T92ABZkS3ryYDj2D5TZ4O_22.541399_88.352699@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b0e1da4cdef81b07f8a509d883370a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931935,
+            "region_id":85672219,
+            "venue_id":169572477
+        }
+    ],
+    "wof:id":169572477,
+    "wof:lastmodified":1449034703,
+    "wof:name":"Hotel Circular",
+    "wof:parent_id":85931935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [88.352699,22.541399,88.352699,22.541399],
+  "geometry": {"coordinates":[88.352699,22.541399],"type":"Point"}
+}

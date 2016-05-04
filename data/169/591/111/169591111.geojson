@@ -1,0 +1,66 @@
+{
+  "id": 169591111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.254509,13.061238,80.254509,13.061238",
+    "geom:latitude":13.061238,
+    "geom:longitude":80.254509,
+    "iso:country":"IN",
+    "sg:address":"124, Greams Road,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2829 2777",
+    "sg:postcode":"600006",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "sg:website":"http://www.mrftyres.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903849,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gdmIHWO20h9CYnuZxnQik_13.061238_80.254509@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d1c4370c9a22b04eff0bebcb29a4162f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903849,
+            "region_id":85672245,
+            "venue_id":169591111
+        }
+    ],
+    "wof:id":169591111,
+    "wof:lastmodified":1449034455,
+    "wof:name":"Mrf Limited",
+    "wof:parent_id":85903849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [80.254509,13.061238,80.254509,13.061238],
+  "geometry": {"coordinates":[80.254509,13.061238],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169641563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.839546,30.875616,75.839546,30.875616",
+    "geom:latitude":30.875616,
+    "geom:longitude":75.839546,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 70133, 441st Phase, G.i.d.c,",
+    "sg:city":"Vapi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 260 654 3630",
+    "sg:postcode":"396195",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.varshchemicals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933875,
+        85632469,
+        102029555,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QMbLl3PAoXT2ywCBqwHf8_30.875616_75.839546@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"48fbf05754ddc5eb1c3f90d851147e66",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029555,
+            "neighbourhood_id":85933875,
+            "region_id":85672195,
+            "venue_id":169641563
+        }
+    ],
+    "wof:id":169641563,
+    "wof:lastmodified":1449035168,
+    "wof:name":"Varsh Chemical",
+    "wof:parent_id":85933875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.839546,30.875616,75.839546,30.875616],
+  "geometry": {"coordinates":[75.839546,30.875616],"type":"Point"}
+}

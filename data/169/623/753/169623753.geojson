@@ -1,0 +1,62 @@
+{
+  "id": 169623753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.311882,22.596968,75.311882,22.596968",
+    "geom:latitude":22.596968,
+    "geom:longitude":75.311882,
+    "iso:country":"IN",
+    "sg:address":"A-50, Janta Colony,",
+    "sg:city":"Jaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 141 264 0323",
+    "sg:postcode":"302004",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.indiamart.com/shyamenterprises",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43MC0TyLTQKVio4qVQJ4SB_22.596968_75.311882@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"244045265619196d9cf8513d376cf544",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672239,
+            "venue_id":169623753
+        }
+    ],
+    "wof:id":169623753,
+    "wof:lastmodified":1449034996,
+    "wof:name":"Shyam Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.311882,22.596968,75.311882,22.596968],
+  "geometry": {"coordinates":[75.311882,22.596968],"type":"Point"}
+}

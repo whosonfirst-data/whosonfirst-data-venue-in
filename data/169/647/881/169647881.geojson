@@ -1,0 +1,67 @@
+{
+  "id": 169647881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.133415,28.693428,77.133415,28.693428",
+    "geom:latitude":28.693428,
+    "geom:longitude":77.133415,
+    "iso:country":"IN",
+    "sg:address":"129, Harsh Vihar, Pitam Pura,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2393 4867",
+    "sg:postcode":"110034",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928043,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61ZoO43V0WAqizwUh90OFa_28.693428_77.133415@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a10bc3e2df97cc97e76fddb4f7cf5bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928043,
+            "region_id":85672123,
+            "venue_id":169647881
+        }
+    ],
+    "wof:id":169647881,
+    "wof:lastmodified":1449034239,
+    "wof:name":"Zee Plast (india) Pvt. Ltd.",
+    "wof:parent_id":85928043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.133415,28.693428,77.133415,28.693428],
+  "geometry": {"coordinates":[77.133415,28.693428],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169627049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.348991,22.576496,88.348991,22.576496",
+    "geom:latitude":22.576496,
+    "geom:longitude":88.348991,
+    "iso:country":"IN",
+    "sg:address":"23a, Netaji Subhas Road, 11th Floor, Room No. 11,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2334 0458",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931969,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EToOcJECMorBU84DwtqrU_22.576496_88.348991@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b81e749351fffd91506590a770846273",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931969,
+            "region_id":85672219,
+            "venue_id":169627049
+        }
+    ],
+    "wof:id":169627049,
+    "wof:lastmodified":1449036042,
+    "wof:name":"Sree Exports & Marketing Ltd.",
+    "wof:parent_id":85931969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [88.348991,22.576496,88.348991,22.576496],
+  "geometry": {"coordinates":[88.348991,22.576496],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169526227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.832909,19.145893,72.832909,19.145893",
+    "geom:latitude":19.145893,
+    "geom:longitude":72.832909,
+    "iso:country":"IN",
+    "sg:address":"796, Adarsh Nagar, New Link Road, Oshiwara, Jogeshwari (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2673 6588",
+    "sg:postcode":"400102",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931475,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37V5VgdCDZEME7jVjjMM2O_19.145893_72.832909@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"595c9a55e78624472b73c71c09e7d582",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931475,
+            "region_id":85672171,
+            "venue_id":169526227
+        }
+    ],
+    "wof:id":169526227,
+    "wof:lastmodified":1449033700,
+    "wof:name":"Indian Products International Marketing",
+    "wof:parent_id":85931475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [72.832909,19.145893,72.832909,19.145893],
+  "geometry": {"coordinates":[72.832909,19.145893],"type":"Point"}
+}

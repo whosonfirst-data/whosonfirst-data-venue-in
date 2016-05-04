@@ -1,0 +1,54 @@
+{
+  "id": 169568645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.660408,12.860955,77.660408,12.860955",
+    "geom:latitude":12.860955,
+    "geom:longitude":77.660408,
+    "iso:country":"IN",
+    "sg:address":"Hosur Main Road",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80552271314",
+    "sg:postcode":"560095",
+    "sg:province":"Karnataka",
+    "sg:website":"http://www.mphasis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930867,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FPtSYVI1dlMZtzvxqq6w3_12.860955_77.660408@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6e060dd95cb47e4d802270fb1c4c5a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930867,
+            "region_id":85672165,
+            "venue_id":169568645
+        }
+    ],
+    "wof:id":169568645,
+    "wof:lastmodified":1449032609,
+    "wof:name":"Mphasis Bfl Ltd",
+    "wof:parent_id":85930867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.660408,12.860955,77.660408,12.860955],
+  "geometry": {"coordinates":[77.660408,12.860955],"type":"Point"}
+}

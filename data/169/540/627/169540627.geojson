@@ -1,0 +1,64 @@
+{
+  "id": 169540627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.646141,13.019475,77.646141,13.019475",
+    "geom:latitude":13.019475,
+    "geom:longitude":77.646141,
+    "iso:country":"IN",
+    "sg:address":"#1/18, 1st Floor, 4th Cross, S.g. Palya,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4130 3789",
+    "sg:postcode":"560029",
+    "sg:tags":[
+        "silk"
+    ],
+    "sg:website":"http://www.avexporterss.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931031,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RmBVR2bkHxANFQux4RyId_13.019475_77.646141@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"975456ae4c5276f4cea2e0a01b2a42cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931031,
+            "region_id":85672165,
+            "venue_id":169540627
+        }
+    ],
+    "wof:id":169540627,
+    "wof:lastmodified":1449033978,
+    "wof:name":"A.v. Exporterss",
+    "wof:parent_id":85931031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.646141,13.019475,77.646141,13.019475],
+  "geometry": {"coordinates":[77.646141,13.019475],"type":"Point"}
+}

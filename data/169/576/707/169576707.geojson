@@ -1,0 +1,65 @@
+{
+  "id": 169576707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.974365,19.216032,72.974365,19.216032",
+    "geom:latitude":19.216032,
+    "geom:longitude":72.974365,
+    "iso:country":"IN",
+    "sg:address":"2nd Pokhran Road, Opp. Oswal Park,",
+    "sg:city":"Thane",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2534 6436",
+    "sg:postcode":"400601",
+    "sg:tags":[
+        "plant",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931383,
+        85632469,
+        102028465,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AwOIczrfpN5UrHRJeDM3U_19.216032_72.974365@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7b8e3ffa8c9878cc139afce5ff14c3ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028465,
+            "neighbourhood_id":85931383,
+            "region_id":85672171,
+            "venue_id":169576707
+        }
+    ],
+    "wof:id":169576707,
+    "wof:lastmodified":1449035196,
+    "wof:name":"Fitwell Engineering Company",
+    "wof:parent_id":85931383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [72.974365,19.216032,72.974365,19.216032],
+  "geometry": {"coordinates":[72.974365,19.216032],"type":"Point"}
+}

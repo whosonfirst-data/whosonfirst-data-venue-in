@@ -1,0 +1,68 @@
+{
+  "id": 169554765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.19857,22.255503,73.19857,22.255503",
+    "geom:latitude":22.255503,
+    "geom:longitude":73.19857,
+    "iso:country":"IN",
+    "sg:address":"746/7b Gidc, Makarpurna Road,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 264 2355",
+    "sg:postcode":"380015",
+    "sg:tags":[
+        "control",
+        "equipment",
+        "monitoring",
+        "pollution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71fJyQwhfcBH9YGTvowWQC_22.255503_73.198570@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6e22de04ca9f3972c3459edfa9241aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169554765
+        }
+    ],
+    "wof:id":169554765,
+    "wof:lastmodified":1449033370,
+    "wof:name":"Gunatit Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "equipment",
+        "monitoring",
+        "pollution"
+    ]
+},
+  "bbox": [73.19857,22.255503,73.19857,22.255503],
+  "geometry": {"coordinates":[73.19857,22.255503],"type":"Point"}
+}

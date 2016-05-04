@@ -1,0 +1,63 @@
+{
+  "id": 169595219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.592026,13.033483,77.592026,13.033483",
+    "geom:latitude":13.033483,
+    "geom:longitude":77.592026,
+    "iso:country":"IN",
+    "sg:address":"W-40(c), Anand Nagar, M. I. D. C,",
+    "sg:city":"Ambernath",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 251 262 0367",
+    "sg:postcode":"421506",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930999,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FMzxtWUxrJRWnmj79Xt60_13.033483_77.592026@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9f4957772ba3470cce4b985229e88237",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930999,
+            "region_id":85672165,
+            "venue_id":169595219
+        }
+    ],
+    "wof:id":169595219,
+    "wof:lastmodified":1449035637,
+    "wof:name":"Nugendra Phosphate Products",
+    "wof:parent_id":85930999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.592026,13.033483,77.592026,13.033483],
+  "geometry": {"coordinates":[77.592026,13.033483],"type":"Point"}
+}

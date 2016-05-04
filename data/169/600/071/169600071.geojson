@@ -1,0 +1,65 @@
+{
+  "id": 169600071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.258301,13.001217,80.258301,13.001217",
+    "geom:latitude":13.001217,
+    "geom:longitude":80.258301,
+    "iso:country":"IN",
+    "sg:address":"L-17, Dr. V.s.i. Estate, Thiruvanmiyur,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2448 5748",
+    "sg:postcode":"600041",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903855,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54HP45RT7M82MXB2MFPshs_13.001217_80.258301@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7281abd11ef10e68b73be392010d796b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903855,
+            "region_id":85672245,
+            "venue_id":169600071
+        }
+    ],
+    "wof:id":169600071,
+    "wof:lastmodified":1449032971,
+    "wof:name":"Pearl Cottage Industries",
+    "wof:parent_id":85903855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [80.258301,13.001217,80.258301,13.001217],
+  "geometry": {"coordinates":[80.258301,13.001217],"type":"Point"}
+}

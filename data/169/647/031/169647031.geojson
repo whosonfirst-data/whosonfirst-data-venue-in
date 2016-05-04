@@ -1,0 +1,64 @@
+{
+  "id": 169647031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.21553,13.069853,80.21553,13.069853",
+    "geom:latitude":13.069853,
+    "geom:longitude":80.21553,
+    "iso:country":"IN",
+    "sg:address":"Anbu Colony, No. 264/4, Anna Nagar (west),",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2618 4401",
+    "sg:postcode":"600040",
+    "sg:tags":[
+        "polymer"
+    ],
+    "sg:website":"http://www.xmoldpolymers.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931707,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52iEMJ6zS2pVJR8kg8EODr_13.069853_80.215530@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f5b7e04dbb0833c7c393f2433da0d28b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931707,
+            "region_id":85672245,
+            "venue_id":169647031
+        }
+    ],
+    "wof:id":169647031,
+    "wof:lastmodified":1449034240,
+    "wof:name":"Xmold Polymers Pvt. Ltd.",
+    "wof:parent_id":85931707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [80.21553,13.069853,80.21553,13.069853],
+  "geometry": {"coordinates":[80.21553,13.069853],"type":"Point"}
+}

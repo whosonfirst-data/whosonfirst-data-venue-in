@@ -1,0 +1,66 @@
+{
+  "id": 169535689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.830635,18.947435,72.830635,18.947435",
+    "geom:latitude":18.947435,
+    "geom:longitude":72.830635,
+    "iso:country":"IN",
+    "sg:address":"205, Princess Street,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2206 2626",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "aromatics",
+        "essential"
+    ],
+    "sg:website":"http://www.privi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D9yzFZrojiQVtuZDJJqkF_18.947435_72.830635@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fbc8ecccd38f0c07f606ca249aa73d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169535689
+        }
+    ],
+    "wof:id":169535689,
+    "wof:lastmodified":1449033289,
+    "wof:name":"Privi Organics Limited",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aromatics",
+        "essential"
+    ]
+},
+  "bbox": [72.830635,18.947435,72.830635,18.947435],
+  "geometry": {"coordinates":[72.830635,18.947435],"type":"Point"}
+}

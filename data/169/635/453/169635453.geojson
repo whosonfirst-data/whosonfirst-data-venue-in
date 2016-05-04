@@ -1,0 +1,74 @@
+{
+  "id": 169635453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.582146,12.953601,77.582146,12.953601",
+    "geom:latitude":12.953601,
+    "geom:longitude":77.582146,
+    "iso:country":"IN",
+    "sg:address":"4/1, Kempanna Street, Doddamavalli,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2657 3191",
+    "sg:postcode":"560004",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165,
+        85930971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C6G7cMrmcYNPFpIulcGG4_12.953601_77.582146@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5cb7a1af8d52594314449b42eddbd638",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169635453
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930971,
+            "region_id":85672165,
+            "venue_id":169635453
+        }
+    ],
+    "wof:id":169635453,
+    "wof:lastmodified":1449034098,
+    "wof:name":"The Chemical Engineering Corporation Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [77.582146,12.953601,77.582146,12.953601],
+  "geometry": {"coordinates":[77.582146,12.953601],"type":"Point"}
+}

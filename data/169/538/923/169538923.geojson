@@ -1,0 +1,65 @@
+{
+  "id": 169538923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.512062,13.022278,77.512062,13.022278",
+    "geom:latitude":13.022278,
+    "geom:longitude":77.512062,
+    "iso:country":"IN",
+    "sg:address":"C 314, 9th Cross, 1 Stage, Peenya Industrial Estate,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2839 3539",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "equipment",
+        "refrigeration"
+    ],
+    "sg:website":"http://www.northstar.net.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xbdnK2ihEbp0ifziGgeEm_13.022278_77.512062@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c79516410108f823a532ee6684572c1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169538923
+        }
+    ],
+    "wof:id":169538923,
+    "wof:lastmodified":1449033101,
+    "wof:name":"North Star Refrigeration (p). Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "refrigeration"
+    ]
+},
+  "bbox": [77.512062,13.022278,77.512062,13.022278],
+  "geometry": {"coordinates":[77.512062,13.022278],"type":"Point"}
+}

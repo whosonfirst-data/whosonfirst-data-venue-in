@@ -1,0 +1,65 @@
+{
+  "id": 169594049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.091698,28.465778,77.091698,28.465778",
+    "geom:latitude":28.465778,
+    "geom:longitude":77.091698,
+    "iso:country":"IN",
+    "sg:address":"C-17, Sector 27,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 431 1821",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "active",
+        "carbon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928525,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3k0kXz57LNzdrFSXp1oFtj_28.465778_77.091698@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"44d2f4608b15fe509166b04015f0efb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928525,
+            "region_id":85672133,
+            "venue_id":169594049
+        }
+    ],
+    "wof:id":169594049,
+    "wof:lastmodified":1449033164,
+    "wof:name":"Nicon Enterprises",
+    "wof:parent_id":85928525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "active",
+        "carbon"
+    ]
+},
+  "bbox": [77.091698,28.465778,77.091698,28.465778],
+  "geometry": {"coordinates":[77.091698,28.465778],"type":"Point"}
+}

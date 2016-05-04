@@ -1,0 +1,66 @@
+{
+  "id": 169544071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.541046,13.000804,77.541046,13.000804",
+    "geom:latitude":13.000804,
+    "geom:longitude":77.541046,
+    "iso:country":"IN",
+    "sg:address":"No. 1465, 14th Main, 2nd Stage, W.o.c. Road, Mahalakshmipuram,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2319 0954",
+    "sg:postcode":"560086",
+    "sg:tags":[
+        "ups",
+        "power"
+    ],
+    "sg:website":"http://www.adelphionline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ToHJspUdbX9fA70w0mgai_13.000804_77.541046@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"db96baebc5dd7e01605f7fe168b4934c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169544071
+        }
+    ],
+    "wof:id":169544071,
+    "wof:lastmodified":1449035964,
+    "wof:name":"Adelphi Technologies Pvt. Ltd.",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ups",
+        "power"
+    ]
+},
+  "bbox": [77.541046,13.000804,77.541046,13.000804],
+  "geometry": {"coordinates":[77.541046,13.000804],"type":"Point"}
+}

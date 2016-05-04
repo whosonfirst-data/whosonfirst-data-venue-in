@@ -1,0 +1,66 @@
+{
+  "id": 169561121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.838799,18.995945,72.838799,18.995945",
+    "geom:latitude":18.995945,
+    "geom:longitude":72.838799,
+    "iso:country":"IN",
+    "sg:address":"10, Peninsula Centre, S.s. Rao Road, Parel,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5660 8999",
+    "sg:postcode":"400012",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "sg:website":"http://www.engichem.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903941,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20acWUULERokDZCNqgYWBX_18.995945_72.838799@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"703c77643fd3c01efd9d315943550b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903941,
+            "region_id":85672171,
+            "venue_id":169561121
+        }
+    ],
+    "wof:id":169561121,
+    "wof:lastmodified":1449035021,
+    "wof:name":"Engichem Specialities Pvt. Ltd.",
+    "wof:parent_id":85903941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [72.838799,18.995945,72.838799,18.995945],
+  "geometry": {"coordinates":[72.838799,18.995945],"type":"Point"}
+}

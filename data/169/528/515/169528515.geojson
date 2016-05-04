@@ -1,0 +1,64 @@
+{
+  "id": 169528515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.820915,18.924906,72.820915,18.924906",
+    "geom:latitude":18.924906,
+    "geom:longitude":72.820915,
+    "iso:country":"IN",
+    "sg:address":"Earnest House, 10th Floor, 194, Nariman Point, N. C. P. A,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2283 2017",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "bulk"
+    ],
+    "sg:website":"http://www.earnestjohn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IdJN0ORHsgy9yNf8bUAcB_18.924906_72.820915@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b5872cfe843430030c44c45c67e7abbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169528515
+        }
+    ],
+    "wof:id":169528515,
+    "wof:lastmodified":1449033571,
+    "wof:name":"Earnest John Drugs & Pharmceuticals Ltd.",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk"
+    ]
+},
+  "bbox": [72.820915,18.924906,72.820915,18.924906],
+  "geometry": {"coordinates":[72.820915,18.924906],"type":"Point"}
+}

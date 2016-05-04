@@ -1,0 +1,64 @@
+{
+  "id": 169526267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.860771,19.19792,72.860771,19.19792",
+    "geom:latitude":19.19792,
+    "geom:longitude":72.860771,
+    "iso:country":"IN",
+    "sg:address":"79, Virwani Industrial Estate, Western Express Highway, Goregaon (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2874 6746",
+    "sg:tags":[
+        "automobile",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931529,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XUTrfERXKuzgEJhUpmCca_19.197920_72.860771@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f170af255cf98a1d4f2fb363c6c7c88b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931529,
+            "region_id":85672171,
+            "venue_id":169526267
+        }
+    ],
+    "wof:id":169526267,
+    "wof:lastmodified":1449033702,
+    "wof:name":"Exhause Manufacturing Company",
+    "wof:parent_id":85931529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "accessory"
+    ]
+},
+  "bbox": [72.860771,19.19792,72.860771,19.19792],
+  "geometry": {"coordinates":[72.860771,19.19792],"type":"Point"}
+}

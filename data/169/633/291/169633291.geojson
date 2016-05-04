@@ -1,0 +1,64 @@
+{
+  "id": 169633291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.364937,19.883276,75.364937,19.883276",
+    "geom:latitude":19.883276,
+    "geom:longitude":75.364937,
+    "iso:country":"IN",
+    "sg:address":"N-101,midc Area Jalgaon",
+    "sg:city":"Jalgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 257 221 1447",
+    "sg:postcode":"425003",
+    "sg:tags":[
+        "plant",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030887,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7S9mCtZr64lVe1GCTUfE0u_19.883276_75.364937@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6f6da59359cf0f2d73233a4f07e2b21f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030887,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169633291
+        }
+    ],
+    "wof:id":169633291,
+    "wof:lastmodified":1449035938,
+    "wof:name":"Swami Vessels",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [75.364937,19.883276,75.364937,19.883276],
+  "geometry": {"coordinates":[75.364937,19.883276],"type":"Point"}
+}

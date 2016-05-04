@@ -1,0 +1,62 @@
+{
+  "id": 169580183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.452629,28.691135,77.452629,28.691135",
+    "geom:latitude":28.691135,
+    "geom:longitude":77.452629,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 35, Sector G, Shastri Nagar,",
+    "sg:city":"Jodhpur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 291 243 3183",
+    "sg:postcode":"342001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Opsw5RTud6uaWV9B30P9g_28.691135_77.452629@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0bd0ddf43a19b56fc4bcd61b655f95a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169580183
+        }
+    ],
+    "wof:id":169580183,
+    "wof:lastmodified":1449034914,
+    "wof:name":"Itex",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.452629,28.691135,77.452629,28.691135],
+  "geometry": {"coordinates":[77.452629,28.691135],"type":"Point"}
+}

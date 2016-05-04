@@ -1,0 +1,53 @@
+{
+  "id": 169528825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.844948,19.031162,72.844948,19.031162",
+    "geom:latitude":19.031162,
+    "geom:longitude":72.844948,
+    "iso:country":"IN",
+    "sg:address":"22/2,  Dalmia Bldg., T.h. Kataria Marg, Matunga (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cable Terminal, Lugs & Socket",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2430 8353",
+    "sg:postcode":"400016",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931443,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SFakfCAifR7rUUifmHjvs_19.031162_72.844948@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1065097c73c4e1e10a5f440b13638b66",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931443,
+            "region_id":85672171,
+            "venue_id":169528825
+        }
+    ],
+    "wof:id":169528825,
+    "wof:lastmodified":1449033566,
+    "wof:name":"Thrilec International",
+    "wof:parent_id":85931443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.844948,19.031162,72.844948,19.031162],
+  "geometry": {"coordinates":[72.844948,19.031162],"type":"Point"}
+}

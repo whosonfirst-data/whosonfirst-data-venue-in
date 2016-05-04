@@ -1,0 +1,69 @@
+{
+  "id": 169525733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.952934,19.17033,72.952934,19.17033",
+    "geom:latitude":19.17033,
+    "geom:longitude":72.952934,
+    "iso:country":"IN",
+    "sg:address":"601, 6th Floor, Parshva Apt., Dr.ambedkar Road, Mulund-west,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5654 5359",
+    "sg:postcode":"400080",
+    "sg:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931655,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ER1JG6bTYoyXHXHMdexqt_19.170330_72.952934@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6d56a67de03853bd3713054c367519f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931655,
+            "region_id":85672171,
+            "venue_id":169525733
+        }
+    ],
+    "wof:id":169525733,
+    "wof:lastmodified":1449035273,
+    "wof:name":"Pdm Exports",
+    "wof:parent_id":85931655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ]
+},
+  "bbox": [72.952934,19.17033,72.952934,19.17033],
+  "geometry": {"coordinates":[72.952934,19.17033],"type":"Point"}
+}

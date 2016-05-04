@@ -1,0 +1,66 @@
+{
+  "id": 169624123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.28183,13.093294,80.28183,13.093294",
+    "geom:latitude":13.093294,
+    "geom:longitude":80.28183,
+    "iso:country":"IN",
+    "sg:address":"91, Govindappa Naicken Street, 3rd Floor,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2539 0928",
+    "sg:postcode":"600001",
+    "sg:tags":[
+        "silica",
+        "gel"
+    ],
+    "sg:website":"http://www.silichemindia.netfirms.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931765,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CPKCwWxCZp5alPfXm06ML_13.093294_80.281830@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"de5b29313535a5099f7efe646f431a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931765,
+            "region_id":85672245,
+            "venue_id":169624123
+        }
+    ],
+    "wof:id":169624123,
+    "wof:lastmodified":1449034957,
+    "wof:name":"Silichem India",
+    "wof:parent_id":85931765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silica",
+        "gel"
+    ]
+},
+  "bbox": [80.28183,13.093294,80.28183,13.093294],
+  "geometry": {"coordinates":[80.28183,13.093294],"type":"Point"}
+}

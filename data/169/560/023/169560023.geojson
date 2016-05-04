@@ -1,0 +1,64 @@
+{
+  "id": 169560023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.225319,28.630249,77.225319,28.630249",
+    "geom:latitude":28.630249,
+    "geom:longitude":77.225319,
+    "iso:country":"IN",
+    "sg:address":"Kanchenjunga Building, 6th Floor 18, Barakhamba Road,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2332 1413",
+    "sg:postcode":"110001",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.dcmsr.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903833,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qfyYatsmacd1DlrSXjiA3_28.630249_77.225319@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b1b38dace11f8379cf14ba22267f0392",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903833,
+            "region_id":85672123,
+            "venue_id":169560023
+        }
+    ],
+    "wof:id":169560023,
+    "wof:lastmodified":1449035182,
+    "wof:name":"Dcm Shriram Industries Ltd.",
+    "wof:parent_id":85903833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.225319,28.630249,77.225319,28.630249],
+  "geometry": {"coordinates":[77.225319,28.630249],"type":"Point"}
+}

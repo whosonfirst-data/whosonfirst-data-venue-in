@@ -1,0 +1,66 @@
+{
+  "id": 169544399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.600479,12.924129,77.600479,12.924129",
+    "geom:latitude":12.924129,
+    "geom:longitude":77.600479,
+    "iso:country":"IN",
+    "sg:address":"# 564/b, N.s Palya, Bannerghatta Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2668 8592",
+    "sg:postcode":"560076",
+    "sg:tags":[
+        "voltage",
+        "stabilizer"
+    ],
+    "sg:website":"http://www.kprsbangalore.trade-inida.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930991,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_091ELY3ZgAOPQQ68qUGMWa_12.924129_77.600479@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bc131b302d05b1a1fefc66747be82110",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930991,
+            "region_id":85672165,
+            "venue_id":169544399
+        }
+    ],
+    "wof:id":169544399,
+    "wof:lastmodified":1449035962,
+    "wof:name":"Kiran Power Rectification Services Pvt. Ltd.",
+    "wof:parent_id":85930991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "voltage",
+        "stabilizer"
+    ]
+},
+  "bbox": [77.600479,12.924129,77.600479,12.924129],
+  "geometry": {"coordinates":[77.600479,12.924129],"type":"Point"}
+}

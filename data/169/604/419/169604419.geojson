@@ -1,0 +1,63 @@
+{
+  "id": 169604419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.345222,10.004638,76.345222,10.004638",
+    "geom:latitude":10.004638,
+    "geom:longitude":76.345222,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 14a, Cochin Special Economic Zone, Kakkanad,",
+    "sg:city":"Kochi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 484 241 3063",
+    "sg:postcode":"682037",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.primusgloves.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030497,
+        85672149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oU7GgE0mDjN5QuauiBwhO_10.004638_76.345222@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"be866d1ad14f533968700300f7c6ecb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030497,
+            "neighbourhood_id":-1,
+            "region_id":85672149,
+            "venue_id":169604419
+        }
+    ],
+    "wof:id":169604419,
+    "wof:lastmodified":1449035571,
+    "wof:name":"Primus Gloves (p) Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [76.345222,10.004638,76.345222,10.004638],
+  "geometry": {"coordinates":[76.345222,10.004638],"type":"Point"}
+}

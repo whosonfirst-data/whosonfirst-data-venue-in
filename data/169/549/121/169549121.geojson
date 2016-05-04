@@ -1,0 +1,61 @@
+{
+  "id": 169549121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.628426,23.032934,72.628426,23.032934",
+    "geom:latitude":23.032934,
+    "geom:longitude":72.628426,
+    "iso:country":"IN",
+    "sg:address":"30, 1st Floor, Bapu Nagar,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 252 9653",
+    "sg:tags":[
+        "handicraft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZyNoWjn2ybVc1sbL9SiPM_23.032934_72.628426@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0489351bda064480d25c3d78b0cac401",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169549121
+        }
+    ],
+    "wof:id":169549121,
+    "wof:lastmodified":1449033592,
+    "wof:name":"Popular Handicrafts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handicraft"
+    ]
+},
+  "bbox": [72.628426,23.032934,72.628426,23.032934],
+  "geometry": {"coordinates":[72.628426,23.032934],"type":"Point"}
+}

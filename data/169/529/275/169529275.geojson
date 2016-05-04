@@ -1,0 +1,65 @@
+{
+  "id": 169529275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.846756,19.124294,72.846756,19.124294",
+    "geom:latitude":19.124294,
+    "geom:longitude":72.846756,
+    "iso:country":"IN",
+    "sg:address":"Near Sub-way, 22, S.v.rd., Andheri (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Army Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2677 4984",
+    "sg:postcode":"400058",
+    "sg:tags":[
+        "sand",
+        "cement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931515,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XyuiI1e2lQCobLQNVkDsF_19.124294_72.846756@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3dfe890a0bfd0c4f41cade4e98371924",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931515,
+            "region_id":85672171,
+            "venue_id":169529275
+        }
+    ],
+    "wof:id":169529275,
+    "wof:lastmodified":1449034114,
+    "wof:name":"Deccan Lime Company",
+    "wof:parent_id":85931515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sand",
+        "cement"
+    ]
+},
+  "bbox": [72.846756,19.124294,72.846756,19.124294],
+  "geometry": {"coordinates":[72.846756,19.124294],"type":"Point"}
+}

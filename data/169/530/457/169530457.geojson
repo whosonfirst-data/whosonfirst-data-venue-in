@@ -1,0 +1,63 @@
+{
+  "id": 169530457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.866608,19.111197,72.866608,19.111197",
+    "geom:latitude":19.111197,
+    "geom:longitude":72.866608,
+    "iso:country":"IN",
+    "sg:address":"B-1, G-1, Greenland, \nJ.b. Nagar, Andheri (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2832 0939",
+    "sg:postcode":"400059",
+    "sg:tags":[
+        "stationery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EYxdoSENfVHVLGMaCEnSp_19.111197_72.866608@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5d1cec49481badf04b8b06702a1ffda9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169530457
+        }
+    ],
+    "wof:id":169530457,
+    "wof:lastmodified":1449034446,
+    "wof:name":"Shivam Book Manufacturing Co.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stationery"
+    ]
+},
+  "bbox": [72.866608,19.111197,72.866608,19.111197],
+  "geometry": {"coordinates":[72.866608,19.111197],"type":"Point"}
+}

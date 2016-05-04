@@ -1,0 +1,63 @@
+{
+  "id": 169579211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.851112,19.137617,72.851112,19.137617",
+    "geom:latitude":19.137617,
+    "geom:longitude":72.851112,
+    "iso:country":"IN",
+    "sg:address":"9 K C Ind Estate, Subhash Road, Jogeshwari (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2832 5874",
+    "sg:postcode":"400060",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931511,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QxYxkTpzRlSknwvu4E9nj_19.137617_72.851112@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"936baec92f7b443785052f0b518da855",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931511,
+            "region_id":85672171,
+            "venue_id":169579211
+        }
+    ],
+    "wof:id":169579211,
+    "wof:lastmodified":1449033740,
+    "wof:name":"I P Group",
+    "wof:parent_id":85931511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.851112,19.137617,72.851112,19.137617],
+  "geometry": {"coordinates":[72.851112,19.137617],"type":"Point"}
+}

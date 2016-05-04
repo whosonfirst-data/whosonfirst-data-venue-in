@@ -1,0 +1,64 @@
+{
+  "id": 169532275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.896065,19.045639,72.896065,19.045639",
+    "geom:latitude":19.045639,
+    "geom:longitude":72.896065,
+    "iso:country":"IN",
+    "sg:address":"Ms Bldg. 13/455, Chembur Colony, Chembur  (east).",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2553 1553",
+    "sg:postcode":"400074",
+    "sg:tags":[
+        "diamond"
+    ],
+    "sg:website":"http://www.pummyjewels.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931489,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s7F3o6zPzoRog1BrIjYE1_19.045639_72.896065@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4df4828686b2bf74533b9beaf9160580",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931489,
+            "region_id":85672171,
+            "venue_id":169532275
+        }
+    ],
+    "wof:id":169532275,
+    "wof:lastmodified":1449033795,
+    "wof:name":"Pummy Fashion Jewellery",
+    "wof:parent_id":85931489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.896065,19.045639,72.896065,19.045639],
+  "geometry": {"coordinates":[72.896065,19.045639],"type":"Point"}
+}

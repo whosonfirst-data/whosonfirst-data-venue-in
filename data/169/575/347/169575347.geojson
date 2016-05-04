@@ -1,0 +1,63 @@
+{
+  "id": 169575347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.191551,28.650553,77.191551,28.650553",
+    "geom:latitude":28.650553,
+    "geom:longitude":77.191551,
+    "iso:country":"IN",
+    "sg:address":"E-17, Road No.1, Vishwakarma Industrial Area,",
+    "sg:city":"Jaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 141 410 7828",
+    "sg:postcode":"302013",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928243,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76JIskyEBzlimYQTueDVad_28.650553_77.191551@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"30ee60cf6cfc5c2ae5fedaf945365f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928243,
+            "region_id":85672123,
+            "venue_id":169575347
+        }
+    ],
+    "wof:id":169575347,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Avantika Metal Udyog (p) Ltd.",
+    "wof:parent_id":85928243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.191551,28.650553,77.191551,28.650553],
+  "geometry": {"coordinates":[77.191551,28.650553],"type":"Point"}
+}

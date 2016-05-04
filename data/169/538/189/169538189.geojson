@@ -1,0 +1,64 @@
+{
+  "id": 169538189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.612144,12.996496,77.612144,12.996496",
+    "geom:latitude":12.996496,
+    "geom:longitude":77.612144,
+    "iso:country":"IN",
+    "sg:address":"No. 31/1, Coles Road, Frazer Town,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4125 3291",
+    "sg:postcode":"560005",
+    "sg:tags":[
+        "material"
+    ],
+    "sg:website":"http://www.pearlinfomedia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930871,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g9RtlMNvWRGpccZPPD9lY_12.996496_77.612144@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b9ca34793e80eacec07b025e5c91efa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930871,
+            "region_id":85672165,
+            "venue_id":169538189
+        }
+    ],
+    "wof:id":169538189,
+    "wof:lastmodified":1449033100,
+    "wof:name":"Blue Pearl Infomedia Pvt. Ltd.",
+    "wof:parent_id":85930871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [77.612144,12.996496,77.612144,12.996496],
+  "geometry": {"coordinates":[77.612144,12.996496],"type":"Point"}
+}

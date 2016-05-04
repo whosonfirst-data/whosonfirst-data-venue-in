@@ -1,0 +1,54 @@
+{
+  "id": 169574033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.645866,12.3033,76.645866,12.3033",
+    "geom:latitude":12.3033,
+    "geom:longitude":76.645866,
+    "iso:country":"IN",
+    "sg:address":"Mysore Road, Amchepalaya",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 808437144",
+    "sg:postcode":"560074",
+    "sg:province":"Karnataka",
+    "sg:website":"http://www.farcomcables.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933595,
+        85632469,
+        102029303,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PAvw6d9tjqi8zZjmaDTmz_12.303300_76.645866@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2b173fd4b5f5f759043c760695965978",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029303,
+            "neighbourhood_id":85933595,
+            "region_id":85672165,
+            "venue_id":169574033
+        }
+    ],
+    "wof:id":169574033,
+    "wof:lastmodified":1449032661,
+    "wof:name":"Farcom Cable Systems Pvt Ltd",
+    "wof:parent_id":85933595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [76.645866,12.3033,76.645866,12.3033],
+  "geometry": {"coordinates":[76.645866,12.3033],"type":"Point"}
+}

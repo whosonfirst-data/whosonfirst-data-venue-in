@@ -1,0 +1,64 @@
+{
+  "id": 169547543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.238251,13.041321,80.238251,13.041321",
+    "geom:latitude":13.041321,
+    "geom:longitude":80.238251,
+    "iso:country":"IN",
+    "sg:address":"55, Kumar Nagar East,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 223 8827",
+    "sg:postcode":"641003",
+    "sg:tags":[
+        "short"
+    ],
+    "sg:website":"http://www.dean-textiles.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903981,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XCI87Ri0fVA2Z07PG07vc_13.041321_80.238251@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6e73b97280eeab808b3ded34c1aed69b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903981,
+            "region_id":85672245,
+            "venue_id":169547543
+        }
+    ],
+    "wof:id":169547543,
+    "wof:lastmodified":1449033007,
+    "wof:name":"Maple Apparels",
+    "wof:parent_id":85903981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "short"
+    ]
+},
+  "bbox": [80.238251,13.041321,80.238251,13.041321],
+  "geometry": {"coordinates":[80.238251,13.041321],"type":"Point"}
+}

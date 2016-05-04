@@ -1,0 +1,71 @@
+{
+  "id": 169537269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.616577,12.932907,77.616577,12.932907",
+    "geom:latitude":12.932907,
+    "geom:longitude":77.616577,
+    "iso:country":"IN",
+    "sg:address":"# 57, Koramangala Indl Layout, Opp. Jyoti Nivas College,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4111 4782",
+    "sg:postcode":"560095",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930917,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ALdfH0qFQ7AbvrVbiwLok_12.932907_77.616577@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"da5f43baf7ffd939956ee1a8a24908a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930917,
+            "region_id":85672165,
+            "venue_id":169537269
+        }
+    ],
+    "wof:id":169537269,
+    "wof:lastmodified":1449033498,
+    "wof:name":"Allied Auto Electricals & Electronics",
+    "wof:parent_id":85930917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.616577,12.932907,77.616577,12.932907],
+  "geometry": {"coordinates":[77.616577,12.932907],"type":"Point"}
+}

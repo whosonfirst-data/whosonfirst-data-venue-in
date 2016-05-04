@@ -1,0 +1,63 @@
+{
+  "id": 169638113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"87.300682,23.538763,87.300682,23.538763",
+    "geom:latitude":23.538763,
+    "geom:longitude":87.300682,
+    "iso:country":"IN",
+    "sg:address":"11-15-150/a, Plot No.8, Doctors Colony,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2403 0188",
+    "sg:postcode":"500074",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.tycheindustries.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030323,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JA5g8s0ZJjPGmgdKARCW9_23.538763_87.300682@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6e6c3e6ad125c23187b3a398d4351720",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030323,
+            "neighbourhood_id":-1,
+            "region_id":85672219,
+            "venue_id":169638113
+        }
+    ],
+    "wof:id":169638113,
+    "wof:lastmodified":1449032868,
+    "wof:name":"Tyche Industries Ltd",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [87.300682,23.538763,87.300682,23.538763],
+  "geometry": {"coordinates":[87.300682,23.538763],"type":"Point"}
+}

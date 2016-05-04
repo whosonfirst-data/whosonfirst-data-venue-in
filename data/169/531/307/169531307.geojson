@@ -1,0 +1,65 @@
+{
+  "id": 169531307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.82943,18.955406,72.82943,18.955406",
+    "geom:latitude":18.955406,
+    "geom:longitude":72.82943,
+    "iso:country":"IN",
+    "sg:address":"81, Gulal Wadi, Kika Street,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Hair Removal",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2346 4750",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "cosmetic",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931435,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AS2oNWYOdYNFWDD2Edk58_18.955406_72.829430@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5f4f99960b7b94f2afb15b75e2ce5b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931435,
+            "region_id":85672171,
+            "venue_id":169531307
+        }
+    ],
+    "wof:id":169531307,
+    "wof:lastmodified":1449033472,
+    "wof:name":"S. K. Gupta & Co.",
+    "wof:parent_id":85931435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "accessory"
+    ]
+},
+  "bbox": [72.82943,18.955406,72.82943,18.955406],
+  "geometry": {"coordinates":[72.82943,18.955406],"type":"Point"}
+}

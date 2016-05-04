@@ -1,0 +1,64 @@
+{
+  "id": 169531225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.822289,18.923733,72.822289,18.923733",
+    "geom:latitude":18.923733,
+    "geom:longitude":72.822289,
+    "iso:country":"IN",
+    "sg:address":"112, Maker Chambers-v, Nariman Point,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2281 7581",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "corporate"
+    ],
+    "sg:website":"http://www.legacy-world.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p5SipbiQWiiiuIpSHpZvl_18.923733_72.822289@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9729b57135d1157f5516074d819c8b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169531225
+        }
+    ],
+    "wof:id":169531225,
+    "wof:lastmodified":1449033473,
+    "wof:name":"Legacy",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corporate"
+    ]
+},
+  "bbox": [72.822289,18.923733,72.822289,18.923733],
+  "geometry": {"coordinates":[72.822289,18.923733],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169570195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"79.826523,11.923723,79.826523,11.923723",
+    "geom:latitude":11.923723,
+    "geom:longitude":79.826523,
+    "iso:country":"IN",
+    "sg:address":"Colas Nagar",
+    "sg:city":"Pondicherry",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 413358500",
+    "sg:postcode":"605001",
+    "sg:province":"Pondicherry",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934401,
+        85632469,
+        102028985,
+        85672241,
+        85904025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v4pjflURTrceeZNAox4nZ_11.923723_79.826523@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"71b714cfa59fa6a983aa82948358baf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028985,
+            "neighbourhood_id":85934401,
+            "region_id":85672241,
+            "venue_id":169570195
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028985,
+            "neighbourhood_id":85904025,
+            "region_id":85672241,
+            "venue_id":169570195
+        }
+    ],
+    "wof:id":169570195,
+    "wof:lastmodified":1449034646,
+    "wof:name":"Brihat Consultants (india) Pvt Ltd",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [79.826523,11.923723,79.826523,11.923723],
+  "geometry": {"coordinates":[79.826523,11.923723],"type":"Point"}
+}

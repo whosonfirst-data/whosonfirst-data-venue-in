@@ -1,0 +1,57 @@
+{
+  "id": 169536181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.839378,18.937794,72.839378,18.937794",
+    "geom:latitude":18.937794,
+    "geom:longitude":72.839378,
+    "iso:country":"IN",
+    "sg:address":"K.k.chambers, 3rd Floor, P.t.marg, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6639 6254",
+    "sg:postcode":"400001",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Mt2RCazzlIfXHQfMDRCzZ_18.937794_72.839378@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"40cd355fcf88e651ec9ddeef81d8869c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169536181
+        }
+    ],
+    "wof:id":169536181,
+    "wof:lastmodified":1449034660,
+    "wof:name":"Komal Goods Exports Pvt. Ltd",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.839378,18.937794,72.839378,18.937794],
+  "geometry": {"coordinates":[72.839378,18.937794],"type":"Point"}
+}

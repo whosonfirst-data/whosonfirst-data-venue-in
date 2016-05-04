@@ -1,0 +1,64 @@
+{
+  "id": 169541563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.540573,12.971159,77.540573,12.971159",
+    "geom:latitude":12.971159,
+    "geom:longitude":77.540573,
+    "iso:country":"IN",
+    "sg:address":"No. 826, 9th Main, R. P. C. Layout,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2311 5838",
+    "sg:postcode":"560040",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"http://www.rakshainfotech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OsMeuRDeaDiy9fSe9RueU_12.971159_77.540573@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3296f3062c492b33b3419237dce4df99",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169541563
+        }
+    ],
+    "wof:id":169541563,
+    "wof:lastmodified":1449033040,
+    "wof:name":"Raksha Infotech",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.540573,12.971159,77.540573,12.971159],
+  "geometry": {"coordinates":[77.540573,12.971159],"type":"Point"}
+}

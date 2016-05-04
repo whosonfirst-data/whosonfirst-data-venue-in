@@ -1,0 +1,66 @@
+{
+  "id": 169615603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.32589,22.538437,88.32589,22.538437",
+    "geom:latitude":22.538437,
+    "geom:longitude":88.32589,
+    "iso:country":"IN",
+    "sg:address":"22-a, Mansatala Row,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2449 5113",
+    "sg:postcode":"700023",
+    "sg:tags":[
+        "silica",
+        "gel"
+    ],
+    "sg:website":"http://www.stepnext.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931957,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cPz84oEDFHSobwplMEGBX_22.538437_88.325890@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f8d0c2c3f2e659a0db37a5509712f42b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931957,
+            "region_id":85672219,
+            "venue_id":169615603
+        }
+    ],
+    "wof:id":169615603,
+    "wof:lastmodified":1449033733,
+    "wof:name":"Sand Chain Industries",
+    "wof:parent_id":85931957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silica",
+        "gel"
+    ]
+},
+  "bbox": [88.32589,22.538437,88.32589,22.538437],
+  "geometry": {"coordinates":[88.32589,22.538437],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169603125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.308029,28.593264,77.308029,28.593264",
+    "geom:latitude":28.593264,
+    "geom:longitude":77.308029,
+    "iso:country":"IN",
+    "sg:address":"85, New Ashok Nagar,",
+    "sg:city":"Jalandhar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 181 654 8303",
+    "sg:postcode":"144002",
+    "sg:tags":[
+        "transmission",
+        "belting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928047,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ixs4whNr9qxCFqGKXLr8r_28.593264_77.308029@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8aac92b417008f4d9d770fe4007f40a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928047,
+            "region_id":85672123,
+            "venue_id":169603125
+        }
+    ],
+    "wof:id":169603125,
+    "wof:lastmodified":1449035454,
+    "wof:name":"Pratham Industries",
+    "wof:parent_id":85928047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "belting"
+    ]
+},
+  "bbox": [77.308029,28.593264,77.308029,28.593264],
+  "geometry": {"coordinates":[77.308029,28.593264],"type":"Point"}
+}

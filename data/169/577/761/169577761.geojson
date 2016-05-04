@@ -1,0 +1,64 @@
+{
+  "id": 169577761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.180046,28.663038,77.180046,28.663038",
+    "geom:latitude":28.663038,
+    "geom:longitude":77.180046,
+    "iso:country":"IN",
+    "sg:address":"31/6, Street No. 1, New Rothak Road,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2572 5422",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.gopalsonsauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928115,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49bJPgjhcJsYaPWQxuSPfJ_28.663038_77.180046@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9719ef3ec118b2fcb1571d154ff45e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928115,
+            "region_id":85672123,
+            "venue_id":169577761
+        }
+    ],
+    "wof:id":169577761,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Gopalsons Auto Industries",
+    "wof:parent_id":85928115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.180046,28.663038,77.180046,28.663038],
+  "geometry": {"coordinates":[77.180046,28.663038],"type":"Point"}
+}

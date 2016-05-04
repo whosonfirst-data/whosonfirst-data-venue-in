@@ -1,0 +1,65 @@
+{
+  "id": 169561209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.308777,26.471178,80.308777,26.471178",
+    "geom:latitude":26.471178,
+    "geom:longitude":80.308777,
+    "iso:country":"IN",
+    "sg:address":"D-193, Lajpat Nagar-i,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2981 6867",
+    "sg:postcode":"110024",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903809,
+        85632469,
+        102029855,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JTOGksaWktFbA0iN2a553_26.471178_80.308777@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a1953d5c646fa282132d4039e758b0a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029855,
+            "neighbourhood_id":85903809,
+            "region_id":85672205,
+            "venue_id":169561209
+        }
+    ],
+    "wof:id":169561209,
+    "wof:lastmodified":1449035020,
+    "wof:name":"Esson Chemicals Ind. Pvt. Ltd.",
+    "wof:parent_id":85903809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [80.308777,26.471178,80.308777,26.471178],
+  "geometry": {"coordinates":[80.308777,26.471178],"type":"Point"}
+}

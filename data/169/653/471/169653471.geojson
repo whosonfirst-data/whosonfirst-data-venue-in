@@ -1,0 +1,71 @@
+{
+  "id": 169653471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.383492,28.625395,77.383492,28.625395",
+    "geom:latitude":28.625395,
+    "geom:longitude":77.383492,
+    "iso:country":"IN",
+    "sg:address":"B 75, Sector 63",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"201307",
+    "sg:tags":[
+        "india-hotel-booking",
+        "india-tour-packages",
+        "india-travel-article",
+        "india-travel-guide",
+        "india-hotel-review"
+    ],
+    "sg:website":"http://www.indiahotelreview.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928443,
+        85632469,
+        102031133,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1V7w3dLN9Y0hmEQ7KhLDON_28.625395_77.383492@1308163242"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d831d6b0df0d0849b546bc9093ce0ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031133,
+            "neighbourhood_id":85928443,
+            "region_id":85672205,
+            "venue_id":169653471
+        }
+    ],
+    "wof:id":169653471,
+    "wof:lastmodified":1449032918,
+    "wof:name":"IndiaHotelReview",
+    "wof:parent_id":85928443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "india-hotel-booking",
+        "india-tour-packages",
+        "india-travel-article",
+        "india-travel-guide",
+        "india-hotel-review"
+    ]
+},
+  "bbox": [77.383492,28.625395,77.383492,28.625395],
+  "geometry": {"coordinates":[77.383492,28.625395],"type":"Point"}
+}

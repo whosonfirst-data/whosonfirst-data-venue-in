@@ -1,0 +1,65 @@
+{
+  "id": 169578265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.163506,28.659233,77.163506,28.659233",
+    "geom:latitude":28.659233,
+    "geom:longitude":77.163506,
+    "iso:country":"IN",
+    "sg:address":"26/29, East Patel Nagar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 4154 7745",
+    "sg:postcode":"110008",
+    "sg:tags":[
+        "synthetic",
+        "pu/pvc"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927901,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0s1fpTlijmLmhkCGgEyxsr_28.659233_77.163506@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"240dceb1edccd0e7cc8faf487e145c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927901,
+            "region_id":85672123,
+            "venue_id":169578265
+        }
+    ],
+    "wof:id":169578265,
+    "wof:lastmodified":1449033519,
+    "wof:name":"H S Impex",
+    "wof:parent_id":85927901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "synthetic",
+        "pu/pvc"
+    ]
+},
+  "bbox": [77.163506,28.659233,77.163506,28.659233],
+  "geometry": {"coordinates":[77.163506,28.659233],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169539871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.622108,12.931787,77.622108,12.931787",
+    "geom:latitude":12.931787,
+    "geom:longitude":77.622108,
+    "iso:country":"IN",
+    "sg:address":"92/b, Koramangala,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2550 3709",
+    "sg:postcode":"560047",
+    "sg:tags":[
+        "semiconductor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930917,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CfCNDCyeGRZu3kvOlwNya_12.931787_77.622108@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7d9f06c560e7efae518ffe796f8a55f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930917,
+            "region_id":85672165,
+            "venue_id":169539871
+        }
+    ],
+    "wof:id":169539871,
+    "wof:lastmodified":1449036038,
+    "wof:name":"Kiran Electronics",
+    "wof:parent_id":85930917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "semiconductor"
+    ]
+},
+  "bbox": [77.622108,12.931787,77.622108,12.931787],
+  "geometry": {"coordinates":[77.622108,12.931787],"type":"Point"}
+}

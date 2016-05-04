@@ -1,0 +1,68 @@
+{
+  "id": 169538257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.635307,13.023878,77.635307,13.023878",
+    "geom:latitude":13.023878,
+    "geom:longitude":77.635307,
+    "iso:country":"IN",
+    "sg:address":"223, 4-a, Cross, 1st Floor, Hrbr Layout, 3rd Block, Kalyan Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Musical Instruments",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2543 2664",
+    "sg:postcode":"560043",
+    "sg:tags":[
+        "process",
+        "control",
+        "equipment"
+    ],
+    "sg:website":"http://www.masibus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931107,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IwKdp0w4KTd64ODV5uRCX_13.023878_77.635307@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e98f5cf06890ff225a32420cc12cda1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931107,
+            "region_id":85672165,
+            "venue_id":169538257
+        }
+    ],
+    "wof:id":169538257,
+    "wof:lastmodified":1449033099,
+    "wof:name":"Masibus Process Instruments (p) Ltd.",
+    "wof:parent_id":85931107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "process",
+        "control",
+        "equipment"
+    ]
+},
+  "bbox": [77.635307,13.023878,77.635307,13.023878],
+  "geometry": {"coordinates":[77.635307,13.023878],"type":"Point"}
+}

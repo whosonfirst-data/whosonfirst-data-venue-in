@@ -1,0 +1,65 @@
+{
+  "id": 169540457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.593254,12.965711,77.593254,12.965711",
+    "geom:latitude":12.965711,
+    "geom:longitude":77.593254,
+    "iso:country":"IN",
+    "sg:address":"No. 14, 9th Cross, Cubbonpet,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2221 5035",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "textile",
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930935,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FhkB1xgP37AvyZxuDulza_12.965711_77.593254@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"183d6dce9f14c9c35dc21016f1b6feb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930935,
+            "region_id":85672165,
+            "venue_id":169540457
+        }
+    ],
+    "wof:id":169540457,
+    "wof:lastmodified":1449033976,
+    "wof:name":"Shankarlon Exports",
+    "wof:parent_id":85930935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "textile",
+        "silk"
+    ]
+},
+  "bbox": [77.593254,12.965711,77.593254,12.965711],
+  "geometry": {"coordinates":[77.593254,12.965711],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169580649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.220764,28.658045,77.220764,28.658045",
+    "geom:latitude":28.658045,
+    "geom:longitude":77.220764,
+    "iso:country":"IN",
+    "sg:address":"2136, Tilak Bazar, Khari Badli,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2396 4522",
+    "sg:postcode":"110006",
+    "sg:tags":[
+        "dyestuff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928087,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qy61TAKmGNahhyLZuh0jB_28.658045_77.220764@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3bd3bfd19c9499d60409fb06c9d3989b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928087,
+            "region_id":85672123,
+            "venue_id":169580649
+        }
+    ],
+    "wof:id":169580649,
+    "wof:lastmodified":1449034914,
+    "wof:name":"Jay Kay Dyes & Chemicals",
+    "wof:parent_id":85928087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dyestuff"
+    ]
+},
+  "bbox": [77.220764,28.658045,77.220764,28.658045],
+  "geometry": {"coordinates":[77.220764,28.658045],"type":"Point"}
+}

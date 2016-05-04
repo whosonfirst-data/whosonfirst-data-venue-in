@@ -1,0 +1,63 @@
+{
+  "id": 169527523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.837357,19.159933,72.837357,19.159933",
+    "geom:latitude":19.159933,
+    "geom:longitude":72.837357,
+    "iso:country":"IN",
+    "sg:address":"201, Shastri Nagar, S.v. Road, Borivali,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:tags":[
+        "product",
+        "healthcare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lnZloSYppSHdLSfP4vH4I_19.159933_72.837357@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2ee4e6cde473d5d6dba4841e919149ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169527523
+        }
+    ],
+    "wof:id":169527523,
+    "wof:lastmodified":1449035278,
+    "wof:name":"Food & Fade Imp .",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "healthcare"
+    ]
+},
+  "bbox": [72.837357,19.159933,72.837357,19.159933],
+  "geometry": {"coordinates":[72.837357,19.159933],"type":"Point"}
+}

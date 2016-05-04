@@ -1,0 +1,65 @@
+{
+  "id": 169635819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.874435,18.51832,73.874435,18.51832",
+    "geom:latitude":18.51832,
+    "geom:longitude":73.874435,
+    "iso:country":"IN",
+    "sg:address":"4, Synagogue Street, 6th Floor, Room No. 605,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2242 4006",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "active",
+        "carbon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903913,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s41pslwN54uQSGFT49zXP_18.518320_73.874435@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"66e5a2b6c449df5fec8cc4aebefb3c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85903913,
+            "region_id":85672171,
+            "venue_id":169635819
+        }
+    ],
+    "wof:id":169635819,
+    "wof:lastmodified":1449034098,
+    "wof:name":"The Mineral & Chemical Corporation",
+    "wof:parent_id":85903913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "active",
+        "carbon"
+    ]
+},
+  "bbox": [73.874435,18.51832,73.874435,18.51832],
+  "geometry": {"coordinates":[73.874435,18.51832],"type":"Point"}
+}

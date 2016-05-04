@@ -1,0 +1,69 @@
+{
+  "id": 169542307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.57576,12.998901,77.57576,12.998901",
+    "geom:latitude":12.998901,
+    "geom:longitude":77.57576,
+    "iso:country":"IN",
+    "sg:address":"7, Palace Guttahalli Main Road, Malleswaram,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2336 3109",
+    "sg:postcode":"560003",
+    "sg:tags":[
+        "steel",
+        "stainless",
+        "product",
+        "component"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WPNmWOY1sl8ckEtFaVR60_12.998901_77.575760@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"640d2394a87aa2212f41190c231aeba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169542307
+        }
+    ],
+    "wof:id":169542307,
+    "wof:lastmodified":1449035219,
+    "wof:name":"Raja Mechanical Engineering Co.",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "stainless",
+        "product",
+        "component"
+    ]
+},
+  "bbox": [77.57576,12.998901,77.57576,12.998901],
+  "geometry": {"coordinates":[77.57576,12.998901],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169592141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831924,18.934898,72.831924,18.934898",
+    "geom:latitude":18.934898,
+    "geom:longitude":72.831924,
+    "iso:country":"IN",
+    "sg:address":"2/3, Napier Town,",
+    "sg:city":"Jabalpur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 761 400 4248",
+    "sg:postcode":"482001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4diMOZwKLgaTMGckBHfsN8_18.934898_72.831924@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0a8f180ead8c07853c966560b80a60ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169592141
+        }
+    ],
+    "wof:id":169592141,
+    "wof:lastmodified":1449034581,
+    "wof:name":"Narmada Scientific Co.",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.831924,18.934898,72.831924,18.934898],
+  "geometry": {"coordinates":[72.831924,18.934898],"type":"Point"}
+}

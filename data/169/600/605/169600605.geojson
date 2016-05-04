@@ -1,0 +1,63 @@
+{
+  "id": 169600605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.391563,22.536467,88.391563,22.536467",
+    "geom:latitude":22.536467,
+    "geom:longitude":88.391563,
+    "iso:country":"IN",
+    "sg:address":"2a, Gulam Jilani Khan Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2343 4859",
+    "sg:postcode":"700039",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85932037,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wKohMcYl8ilipCKbHlRm6_22.536467_88.391563@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6ea9640f299cff1b22f9261cf1d917dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85932037,
+            "region_id":85672219,
+            "venue_id":169600605
+        }
+    ],
+    "wof:id":169600605,
+    "wof:lastmodified":1449032971,
+    "wof:name":"Perma Colours & Chemicals Pvt. Ltd.",
+    "wof:parent_id":85932037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.391563,22.536467,88.391563,22.536467],
+  "geometry": {"coordinates":[88.391563,22.536467],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169575937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.990593,19.238312,72.990593,19.238312",
+    "geom:latitude":19.238312,
+    "geom:longitude":72.990593,
+    "iso:country":"IN",
+    "sg:address":"Kolshet Road,",
+    "sg:city":"Thane",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2531 1234",
+    "sg:postcode":"400607",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "sg:website":"http://www.bayergroupindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028465,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QbOfi85J9C0Bq1ml0bGjw_19.238312_72.990593@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4784c287c1beaa3590a92a97fbdab6b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028465,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169575937
+        }
+    ],
+    "wof:id":169575937,
+    "wof:lastmodified":1449033641,
+    "wof:name":"Bayer (india) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [72.990593,19.238312,72.990593,19.238312],
+  "geometry": {"coordinates":[72.990593,19.238312],"type":"Point"}
+}

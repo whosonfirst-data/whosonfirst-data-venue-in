@@ -1,0 +1,67 @@
+{
+  "id": 169560113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.397072,17.492115,78.397072,17.492115",
+    "geom:latitude":17.492115,
+    "geom:longitude":78.397072,
+    "iso:country":"IN",
+    "sg:address":"Plot No. A-4, Road No. 9, Ida Kukatpalli,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2307 8581",
+    "sg:postcode":"500037",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930679,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZG2B7lhJfOzDM2DLf3Crj_17.492115_78.397072@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ad8b35a878772975125499a70468f689",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930679,
+            "region_id":85672141,
+            "venue_id":169560113
+        }
+    ],
+    "wof:id":169560113,
+    "wof:lastmodified":1449035181,
+    "wof:name":"Deepak Paints",
+    "wof:parent_id":85930679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [78.397072,17.492115,78.397072,17.492115],
+  "geometry": {"coordinates":[78.397072,17.492115],"type":"Point"}
+}

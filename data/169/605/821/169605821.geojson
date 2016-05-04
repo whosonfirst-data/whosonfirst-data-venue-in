@@ -1,0 +1,63 @@
+{
+  "id": 169605821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.515366,13.038951,77.515366,13.038951",
+    "geom:latitude":13.038951,
+    "geom:longitude":77.515366,
+    "iso:country":"IN",
+    "sg:address":"39, Chokkasandra, T-dasarahalli P.o,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2837 1610",
+    "sg:postcode":"560057",
+    "sg:tags":[
+        "x-ray"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930987,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zVFBct805XorWPETFCqiv_13.038951_77.515366@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ddc5950dfe4a5cf31e0f0e7e82c65ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930987,
+            "region_id":85672165,
+            "venue_id":169605821
+        }
+    ],
+    "wof:id":169605821,
+    "wof:lastmodified":1449034288,
+    "wof:name":"R. B. X-ray Systems",
+    "wof:parent_id":85930987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "x-ray"
+    ]
+},
+  "bbox": [77.515366,13.038951,77.515366,13.038951],
+  "geometry": {"coordinates":[77.515366,13.038951],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169530287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.880486,19.114191,72.880486,19.114191",
+    "geom:latitude":19.114191,
+    "geom:longitude":72.880486,
+    "iso:country":"IN",
+    "sg:address":"G-10, Zakaria Indl. Premises, Marol Maroshi Road, Andheri (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2925 2745",
+    "sg:postcode":"400059",
+    "sg:tags":[
+        "machined",
+        "component",
+        "cnc"
+    ],
+    "sg:website":"http://www.suyash.tradeindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OxcaZ5ISoOcZl3KPWd8O3_19.114191_72.880486@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"994df6cad2bf99dd6cf4de1e90e02e55",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169530287
+        }
+    ],
+    "wof:id":169530287,
+    "wof:lastmodified":1449034442,
+    "wof:name":"Suyash Impex Pvt. Ltd.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machined",
+        "component",
+        "cnc"
+    ]
+},
+  "bbox": [72.880486,19.114191,72.880486,19.114191],
+  "geometry": {"coordinates":[72.880486,19.114191],"type":"Point"}
+}

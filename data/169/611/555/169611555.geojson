@@ -1,0 +1,65 @@
+{
+  "id": 169611555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.866585,19.117281,72.866585,19.117281",
+    "geom:latitude":19.117281,
+    "geom:longitude":72.866585,
+    "iso:country":"IN",
+    "sg:address":"45/44, 2nd Street, Midc, Andheri (e),",
+    "sg:city":"Mahim",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2827 1933",
+    "sg:postcode":"400093",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZNiP5zJi2BpiHpeDENwnW_19.117281_72.866585@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5362f8d61f3235d32d0e757d98eb7a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169611555
+        }
+    ],
+    "wof:id":169611555,
+    "wof:lastmodified":1449035264,
+    "wof:name":"Rohadyechem",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [72.866585,19.117281,72.866585,19.117281],
+  "geometry": {"coordinates":[72.866585,19.117281],"type":"Point"}
+}

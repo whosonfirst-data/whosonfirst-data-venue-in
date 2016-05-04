@@ -1,0 +1,72 @@
+{
+  "id": 169607263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.94091,26.847851,80.94091,26.847851",
+    "geom:latitude":26.847851,
+    "geom:longitude":80.94091,
+    "iso:country":"IN",
+    "sg:address":"123/779, Fazal Ganj,",
+    "sg:city":"Kanpur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 512 223 4045",
+    "sg:postcode":"208012",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933223,
+        85632469,
+        102029557,
+        85672205,
+        85933213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RdWxsEokwE2TOBR4BdAMo_26.847851_80.940910@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"87f9aec2125e56d56188d2ade0f09191",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029557,
+            "neighbourhood_id":85933223,
+            "region_id":85672205,
+            "venue_id":169607263
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029557,
+            "neighbourhood_id":85933213,
+            "region_id":85672205,
+            "venue_id":169607263
+        }
+    ],
+    "wof:id":169607263,
+    "wof:lastmodified":1449033124,
+    "wof:name":"Raghunath Overseas Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [80.94091,26.847851,80.94091,26.847851],
+  "geometry": {"coordinates":[80.94091,26.847851],"type":"Point"}
+}

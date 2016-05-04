@@ -1,0 +1,65 @@
+{
+  "id": 169642057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.159592,28.564775,77.159592,28.564775",
+    "geom:latitude":28.564775,
+    "geom:longitude":77.159592,
+    "iso:country":"IN",
+    "sg:address":"E-6, Sector-6,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 12022816481",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927949,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YaZSqlIPQYV4wq7kXovxI_28.564775_77.159592@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a21d7ed71a8bb17da21a20d5ce51a43c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927949,
+            "region_id":85672123,
+            "venue_id":169642057
+        }
+    ],
+    "wof:id":169642057,
+    "wof:lastmodified":1449032876,
+    "wof:name":"Veekay Industries",
+    "wof:parent_id":85927949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [77.159592,28.564775,77.159592,28.564775],
+  "geometry": {"coordinates":[77.159592,28.564775],"type":"Point"}
+}

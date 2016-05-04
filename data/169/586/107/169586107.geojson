@@ -1,0 +1,64 @@
+{
+  "id": 169586107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.124069,28.704706,77.124069,28.704706",
+    "geom:latitude":28.704706,
+    "geom:longitude":77.124069,
+    "iso:country":"IN",
+    "sg:address":"C-8, Sector-8,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 242 4523",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"www.packliquids.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928043,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LKqyiKjdXWgNTXYU2IYEl_28.704706_77.124069@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5a3eda3ff89fe2acbb188d90e895b28e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928043,
+            "region_id":85672123,
+            "venue_id":169586107
+        }
+    ],
+    "wof:id":169586107,
+    "wof:lastmodified":1449035572,
+    "wof:name":"Mahanagar Engg. Pvt. Ltd.",
+    "wof:parent_id":85928043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.124069,28.704706,77.124069,28.704706],
+  "geometry": {"coordinates":[77.124069,28.704706],"type":"Point"}
+}

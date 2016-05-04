@@ -1,0 +1,73 @@
+{
+  "id": 169651159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.258641,13.162076,80.258641,13.162076",
+    "geom:latitude":13.162076,
+    "geom:longitude":80.258641,
+    "iso:country":"IN",
+    "sg:address":"10 Parthasarathy Street Ayanavaram",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"600023",
+    "sg:tags":[
+        "it-services",
+        "web-services",
+        "outsourcing",
+        "india",
+        "quality-solution",
+        "business-consulting",
+        "internet-marketing"
+    ],
+    "sg:website":"http://www.kenriche.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Vv4VzfurubxFL5fZRt3lr_13.162076_80.258641@1308163237"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"09f411cee9f49625daccdf38986ae628",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169651159
+        }
+    ],
+    "wof:id":169651159,
+    "wof:lastmodified":1449033345,
+    "wof:name":"Kenriche Technologies",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "it-services",
+        "web-services",
+        "outsourcing",
+        "india",
+        "quality-solution",
+        "business-consulting",
+        "internet-marketing"
+    ]
+},
+  "bbox": [80.258641,13.162076,80.258641,13.162076],
+  "geometry": {"coordinates":[80.258641,13.162076],"type":"Point"}
+}

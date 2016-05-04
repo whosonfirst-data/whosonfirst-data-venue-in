@@ -1,0 +1,68 @@
+{
+  "id": 169526393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.840614,19.079731,72.840614,19.079731",
+    "geom:latitude":19.079731,
+    "geom:longitude":72.840614,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 25, Sweety Bungalow, Vithal Nagar, Vile Parle (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2620 7905",
+    "sg:postcode":"400049",
+    "sg:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931575,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yTjxK3I4flQ8ETXTJDPrn_19.079731_72.840614@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1e80f35fc0a4a7e0e842deba6b5439e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931575,
+            "region_id":85672171,
+            "venue_id":169526393
+        }
+    ],
+    "wof:id":169526393,
+    "wof:lastmodified":1449033699,
+    "wof:name":"Auto International",
+    "wof:parent_id":85931575,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ]
+},
+  "bbox": [72.840614,19.079731,72.840614,19.079731],
+  "geometry": {"coordinates":[72.840614,19.079731],"type":"Point"}
+}

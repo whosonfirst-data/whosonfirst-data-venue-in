@@ -1,0 +1,66 @@
+{
+  "id": 169542847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.584076,12.934655,77.584076,12.934655",
+    "geom:latitude":12.934655,
+    "geom:longitude":77.584076,
+    "iso:country":"IN",
+    "sg:address":"13, 9th Main, 3rd Block, Jayanagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2665 5691",
+    "sg:postcode":"560011",
+    "sg:tags":[
+        "tapes-self",
+        "adhesive"
+    ],
+    "sg:website":"http://www.intektapes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930887,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c1tP3RvrZc5Yq5z2mP9F1_12.934655_77.584076@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bdd3526333cc99b9bdb8c38babed5277",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930887,
+            "region_id":85672165,
+            "venue_id":169542847
+        }
+    ],
+    "wof:id":169542847,
+    "wof:lastmodified":1449035220,
+    "wof:name":"Intek Tapes Pvt. Ltd.",
+    "wof:parent_id":85930887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tapes-self",
+        "adhesive"
+    ]
+},
+  "bbox": [77.584076,12.934655,77.584076,12.934655],
+  "geometry": {"coordinates":[77.584076,12.934655],"type":"Point"}
+}

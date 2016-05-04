@@ -1,0 +1,64 @@
+{
+  "id": 169585009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.806847,12.949685,74.806847,12.949685",
+    "geom:latitude":12.949685,
+    "geom:longitude":74.806847,
+    "iso:country":"IN",
+    "sg:address":"Plot No.192-c, Industrial Area, Baikampady,",
+    "sg:city":"Mangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 824 240 8565",
+    "sg:postcode":"575001",
+    "sg:tags":[
+        "resin"
+    ],
+    "sg:website":"http://www.mcplywoods.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933561,
+        85632469,
+        102029439,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v8sFKIADiipEuzqoAdi1L_12.949685_74.806847@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2632355422fbf54a4068ea97f23a2a43",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029439,
+            "neighbourhood_id":85933561,
+            "region_id":85672165,
+            "venue_id":169585009
+        }
+    ],
+    "wof:id":169585009,
+    "wof:lastmodified":1449034887,
+    "wof:name":"M. A. Board Products Pvt. Ltd.",
+    "wof:parent_id":85933561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [74.806847,12.949685,74.806847,12.949685],
+  "geometry": {"coordinates":[74.806847,12.949685],"type":"Point"}
+}

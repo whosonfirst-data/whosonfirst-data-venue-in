@@ -1,0 +1,63 @@
+{
+  "id": 169577115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.51815,13.039126,77.51815,13.039126",
+    "geom:latitude":13.039126,
+    "geom:longitude":77.51815,
+    "iso:country":"IN",
+    "sg:address":"H-117, Behind New Power House, Industrial Area,",
+    "sg:city":"Jodhpur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 291 274 1674",
+    "sg:postcode":"342003",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930987,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Pz8kxBcX7oLfQusguOGqB_13.039126_77.518150@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2e930de9c5fb0c0b72826371332c578b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930987,
+            "region_id":85672165,
+            "venue_id":169577115
+        }
+    ],
+    "wof:id":169577115,
+    "wof:lastmodified":1449036065,
+    "wof:name":"Ganga Jamuna Chemicals",
+    "wof:parent_id":85930987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.51815,13.039126,77.51815,13.039126],
+  "geometry": {"coordinates":[77.51815,13.039126],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169543043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.580421,12.923445,77.580421,12.923445",
+    "geom:latitude":12.923445,
+    "geom:longitude":77.580421,
+    "iso:country":"IN",
+    "sg:address":"#65/10, 36th A Cross, 4th T Block, Jayanagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4121 4531",
+    "sg:postcode":"560069",
+    "sg:tags":[
+        "equipment",
+        "telecommunication"
+    ],
+    "sg:website":"http://www.usbahgroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930887,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FCDSXu4ec5yMRLjaxtrlO_12.923445_77.580421@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3682cda3ceef4f14b84d3bfcc84b1b1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930887,
+            "region_id":85672165,
+            "venue_id":169543043
+        }
+    ],
+    "wof:id":169543043,
+    "wof:lastmodified":1449033336,
+    "wof:name":"Usbah Electricals And Telecommunications Projects Pvt. Ltd.",
+    "wof:parent_id":85930887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telecommunication"
+    ]
+},
+  "bbox": [77.580421,12.923445,77.580421,12.923445],
+  "geometry": {"coordinates":[77.580421,12.923445],"type":"Point"}
+}

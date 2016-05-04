@@ -1,0 +1,63 @@
+{
+  "id": 169588301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.643593,12.973783,77.643593,12.973783",
+    "geom:latitude":12.973783,
+    "geom:longitude":77.643593,
+    "iso:country":"IN",
+    "sg:address":"Indiranagar Ii Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2525 0928",
+    "sg:postcode":"560038",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a1MNlSM36LMMepCtIA1DL_12.973783_77.643593@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f7a3ed3ba8e6829b64b337c900eadc59",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169588301
+        }
+    ],
+    "wof:id":169588301,
+    "wof:lastmodified":1449035307,
+    "wof:name":"Mda Import Service Pvt. Ltd.",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.643593,12.973783,77.643593,12.973783],
+  "geometry": {"coordinates":[77.643593,12.973783],"type":"Point"}
+}

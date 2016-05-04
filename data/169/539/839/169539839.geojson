@@ -1,0 +1,63 @@
+{
+  "id": 169539839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.578133,13.034295,77.578133,13.034295",
+    "geom:latitude":13.034295,
+    "geom:longitude":77.578133,
+    "iso:country":"IN",
+    "sg:address":"241, 15th Main, Rmv Extension,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2361 5370",
+    "sg:postcode":"560080",
+    "sg:tags":[
+        "semiconductor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930999,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o5uAySYaQrpSHPUK5NwCr_13.034295_77.578133@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"339a44ee8293c986ef3b667fc86dcdff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930999,
+            "region_id":85672165,
+            "venue_id":169539839
+        }
+    ],
+    "wof:id":169539839,
+    "wof:lastmodified":1449036038,
+    "wof:name":"Chiptech",
+    "wof:parent_id":85930999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "semiconductor"
+    ]
+},
+  "bbox": [77.578133,13.034295,77.578133,13.034295],
+  "geometry": {"coordinates":[77.578133,13.034295],"type":"Point"}
+}

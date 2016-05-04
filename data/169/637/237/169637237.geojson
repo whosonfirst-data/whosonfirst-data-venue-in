@@ -1,0 +1,62 @@
+{
+  "id": 169637237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.069893,28.593531,77.069893,28.593531",
+    "geom:latitude":28.593531,
+    "geom:longitude":77.069893,
+    "iso:country":"IN",
+    "sg:address":"101, Pankaj Plaza, Plot No. 1, Central Mkt., Sector-6, Dwarka,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2508 0416",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927879,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53NmgR0S7OEKqkIWCLPB2x_28.593531_77.069893@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5fca4c7e743dccdd9b418e1a3c0abc42",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927879,
+            "region_id":85672123,
+            "venue_id":169637237
+        }
+    ],
+    "wof:id":169637237,
+    "wof:lastmodified":1449032688,
+    "wof:name":"Tribiotech Technologies",
+    "wof:parent_id":85927879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.069893,28.593531,77.069893,28.593531],
+  "geometry": {"coordinates":[77.069893,28.593531],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169583437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.828674,18.964548,72.828674,18.964548",
+    "geom:latitude":18.964548,
+    "geom:longitude":72.828674,
+    "iso:country":"IN",
+    "sg:address":"195/205, Upper Duncan Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2300 7021",
+    "sg:postcode":"400008",
+    "sg:tags":[
+        "silicon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yAgHdVWMYFaAutVe2wiJv_18.964548_72.828674@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f1cbe4d36912f51bfe53d510bf493d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903863,
+            "region_id":85672171,
+            "venue_id":169583437
+        }
+    ],
+    "wof:id":169583437,
+    "wof:lastmodified":1449035265,
+    "wof:name":"Krishna Electrical Steels",
+    "wof:parent_id":85903863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silicon"
+    ]
+},
+  "bbox": [72.828674,18.964548,72.828674,18.964548],
+  "geometry": {"coordinates":[72.828674,18.964548],"type":"Point"}
+}

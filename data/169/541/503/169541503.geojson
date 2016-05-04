@@ -1,0 +1,63 @@
+{
+  "id": 169541503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.603645,12.973545,77.603645,12.973545",
+    "geom:latitude":12.973545,
+    "geom:longitude":77.603645,
+    "iso:country":"IN",
+    "sg:address":"315-316, Raheja Chambers, 12, Museum Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2558 6563",
+    "sg:postcode":"560052",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930949,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JDZDFl4Be3zuTvQnrmo3j_12.973545_77.603645@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"91a0c9d11b73c7bfa8c353d442f14e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930949,
+            "region_id":85672165,
+            "venue_id":169541503
+        }
+    ],
+    "wof:id":169541503,
+    "wof:lastmodified":1449033043,
+    "wof:name":"Macmillan India Ltd.",
+    "wof:parent_id":85930949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.603645,12.973545,77.603645,12.973545],
+  "geometry": {"coordinates":[77.603645,12.973545],"type":"Point"}
+}

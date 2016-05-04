@@ -1,0 +1,65 @@
+{
+  "id": 169634679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.583862,12.925317,77.583862,12.925317",
+    "geom:latitude":12.925317,
+    "geom:longitude":77.583862,
+    "iso:country":"IN",
+    "sg:address":"117a, C.r.avenue,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2235 7526",
+    "sg:postcode":"700073",
+    "sg:tags":[
+        "transmission",
+        "belting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930887,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WgvRnGgugqUx9nr9RqG5p_12.925317_77.583862@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"852c45a86369f70a57f0684982d70cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930887,
+            "region_id":85672165,
+            "venue_id":169634679
+        }
+    ],
+    "wof:id":169634679,
+    "wof:lastmodified":1449034257,
+    "wof:name":"Techno Waxchem Pvt. Ltd",
+    "wof:parent_id":85930887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "belting"
+    ]
+},
+  "bbox": [77.583862,12.925317,77.583862,12.925317],
+  "geometry": {"coordinates":[77.583862,12.925317],"type":"Point"}
+}

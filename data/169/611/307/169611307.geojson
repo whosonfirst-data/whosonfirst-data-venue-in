@@ -1,0 +1,63 @@
+{
+  "id": 169611307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.359879,22.591402,88.359879,22.591402",
+    "geom:latitude":22.591402,
+    "geom:longitude":88.359879,
+    "iso:country":"IN",
+    "sg:address":"524-b, Rabindra Sarani,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 3290 2275",
+    "sg:postcode":"700003",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931965,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cmBo3op6N3rwosaaXYosJ_22.591402_88.359879@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"973c77a80a814696b58e41ad9b00e5fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931965,
+            "region_id":85672219,
+            "venue_id":169611307
+        }
+    ],
+    "wof:id":169611307,
+    "wof:lastmodified":1449035262,
+    "wof:name":"Rishi Krishi",
+    "wof:parent_id":85931965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [88.359879,22.591402,88.359879,22.591402],
+  "geometry": {"coordinates":[88.359879,22.591402],"type":"Point"}
+}

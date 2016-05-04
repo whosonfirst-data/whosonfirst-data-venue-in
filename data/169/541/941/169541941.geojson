@@ -1,0 +1,64 @@
+{
+  "id": 169541941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.610336,12.909214,77.610336,12.909214",
+    "geom:latitude":12.909214,
+    "geom:longitude":77.610336,
+    "iso:country":"IN",
+    "sg:address":"729, 11th Cross, 16th Main Road, Btm Layout,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560068",
+    "sg:tags":[
+        "seasoning",
+        "spice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930853,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eXNsvZvnLjENV2Z2tpBzz_12.909214_77.610336@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"721608b4b6468aa0cf44b8cd3090a15d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930853,
+            "region_id":85672165,
+            "venue_id":169541941
+        }
+    ],
+    "wof:id":169541941,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Wings International Co.",
+    "wof:parent_id":85930853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seasoning",
+        "spice"
+    ]
+},
+  "bbox": [77.610336,12.909214,77.610336,12.909214],
+  "geometry": {"coordinates":[77.610336,12.909214],"type":"Point"}
+}

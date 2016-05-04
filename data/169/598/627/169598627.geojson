@@ -1,0 +1,63 @@
+{
+  "id": 169598627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.234047,19.841904,75.234047,19.841904",
+    "geom:latitude":19.841904,
+    "geom:longitude":75.234047,
+    "iso:country":"IN",
+    "sg:address":"44, Bajaj Nagar,",
+    "sg:city":"Nagpur",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 712 309 8048",
+    "sg:postcode":"440010",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "sg:website":"http://www.ppl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028241,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03tooHIusIdw5zXeURJhWM_19.841904_75.234047@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9904d96291cdcac36a4b0499129de1a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028241,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169598627
+        }
+    ],
+    "wof:id":169598627,
+    "wof:lastmodified":1449032860,
+    "wof:name":"Paradeep Phosphates Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [75.234047,19.841904,75.234047,19.841904],
+  "geometry": {"coordinates":[75.234047,19.841904],"type":"Point"}
+}

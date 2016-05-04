@@ -1,0 +1,63 @@
+{
+  "id": 169538177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.586708,12.958899,77.586708,12.958899",
+    "geom:latitude":12.958899,
+    "geom:longitude":77.586708,
+    "iso:country":"IN",
+    "sg:address":"204, 4th Cross, Lalbagh Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2223 3279",
+    "sg:postcode":"560027",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WUmKXVVP4cxwnUp8ZB0DW_12.958899_77.586708@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"86de2abd9334166addbbe8e95fc9e177",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169538177
+        }
+    ],
+    "wof:id":169538177,
+    "wof:lastmodified":1449033101,
+    "wof:name":"Alora Printers",
+    "wof:parent_id":85930903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [77.586708,12.958899,77.586708,12.958899],
+  "geometry": {"coordinates":[77.586708,12.958899],"type":"Point"}
+}

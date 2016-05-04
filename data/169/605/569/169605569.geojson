@@ -1,0 +1,63 @@
+{
+  "id": 169605569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.555855,12.924725,77.555855,12.924725",
+    "geom:latitude":12.924725,
+    "geom:longitude":77.555855,
+    "iso:country":"IN",
+    "sg:address":"C-1, 1812/3, 3rd Phase, G.i.d.c.,",
+    "sg:city":"Vapi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 260 240 1072",
+    "sg:postcode":"396195",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931103,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vLmbw143Ok5NSHWPzaMRX_12.924725_77.555855@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"12cb6734c5313ccc9baa1c450b3bcfac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931103,
+            "region_id":85672165,
+            "venue_id":169605569
+        }
+    ],
+    "wof:id":169605569,
+    "wof:lastmodified":1449034292,
+    "wof:name":"Quality Rubber Industries",
+    "wof:parent_id":85931103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [77.555855,12.924725,77.555855,12.924725],
+  "geometry": {"coordinates":[77.555855,12.924725],"type":"Point"}
+}

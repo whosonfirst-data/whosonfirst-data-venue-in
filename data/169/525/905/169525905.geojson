@@ -1,0 +1,65 @@
+{
+  "id": 169525905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831223,18.989298,72.831223,18.989298",
+    "geom:latitude":18.989298,
+    "geom:longitude":72.831223,
+    "iso:country":"IN",
+    "sg:address":"3-b, Thacker Idnustrial Estate, N.m. Joshi Marg,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2305 0183",
+    "sg:postcode":"400011",
+    "sg:tags":[
+        "equipment",
+        "air-conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903827,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pBGDXdzBvgeLX3rmGWyWj_18.989298_72.831223@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8b90ce149393a0638ce1ed1af474b03b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903827,
+            "region_id":85672171,
+            "venue_id":169525905
+        }
+    ],
+    "wof:id":169525905,
+    "wof:lastmodified":1449035273,
+    "wof:name":"Panasia Engineers Pvt. Ltd.",
+    "wof:parent_id":85903827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "air-conditioning"
+    ]
+},
+  "bbox": [72.831223,18.989298,72.831223,18.989298],
+  "geometry": {"coordinates":[72.831223,18.989298],"type":"Point"}
+}

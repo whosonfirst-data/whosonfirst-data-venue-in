@@ -1,0 +1,65 @@
+{
+  "id": 169534265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.823875,18.924194,72.823875,18.924194",
+    "geom:latitude":18.924194,
+    "geom:longitude":72.823875,
+    "iso:country":"IN",
+    "sg:address":"408, Tulsiani Chambers, Nariman Point,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2282 4851",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "oil",
+        "edible"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08c0HlDgCWrLRu0fspwnQ2_18.924194_72.823875@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fe16f16d9fd4916b0e3866fb24ac659d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169534265
+        }
+    ],
+    "wof:id":169534265,
+    "wof:lastmodified":1449033548,
+    "wof:name":"General Foods Limited",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "edible"
+    ]
+},
+  "bbox": [72.823875,18.924194,72.823875,18.924194],
+  "geometry": {"coordinates":[72.823875,18.924194],"type":"Point"}
+}

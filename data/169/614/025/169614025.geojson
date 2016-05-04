@@ -1,0 +1,62 @@
+{
+  "id": 169614025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.487762,23.254745,77.487762,23.254745",
+    "geom:latitude":23.254745,
+    "geom:longitude":77.487762,
+    "iso:country":"IN",
+    "sg:address":"H-90, Ashok Vihar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2392 8018",
+    "sg:postcode":"110052",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030673,
+        85672239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18yYgTHVkOvHRl6z3ayBQL_23.254745_77.487762@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"778604bf5832c94c5b89b210f53352b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030673,
+            "neighbourhood_id":-1,
+            "region_id":85672239,
+            "venue_id":169614025
+        }
+    ],
+    "wof:id":169614025,
+    "wof:lastmodified":1449036061,
+    "wof:name":"S.k.g. Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.487762,23.254745,77.487762,23.254745],
+  "geometry": {"coordinates":[77.487762,23.254745],"type":"Point"}
+}

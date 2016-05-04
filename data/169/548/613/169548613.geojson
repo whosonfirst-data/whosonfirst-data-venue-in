@@ -1,0 +1,67 @@
+{
+  "id": 169548613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"79.083572,21.169006,79.083572,21.169006",
+    "geom:latitude":21.169006,
+    "geom:longitude":79.083572,
+    "iso:country":"IN",
+    "sg:address":"153, New Colony,",
+    "sg:city":"Tuticorin",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 461 232 4759",
+    "sg:postcode":"628003",
+    "sg:tags":[
+        "equipment",
+        "pump",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903845,
+        85632469,
+        102029277,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TiXLuCivjivz8m0Omyd82_21.169006_79.083572@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b04b768ba3a27c8240a78a51141ab5f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029277,
+            "neighbourhood_id":85903845,
+            "region_id":85672171,
+            "venue_id":169548613
+        }
+    ],
+    "wof:id":169548613,
+    "wof:lastmodified":1449034974,
+    "wof:name":"Shree Shastha Exporters",
+    "wof:parent_id":85903845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "pump",
+        "pumping"
+    ]
+},
+  "bbox": [79.083572,21.169006,79.083572,21.169006],
+  "geometry": {"coordinates":[79.083572,21.169006],"type":"Point"}
+}

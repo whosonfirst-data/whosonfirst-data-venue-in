@@ -1,0 +1,63 @@
+{
+  "id": 169613617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.435379,17.465509,78.435379,17.465509",
+    "geom:latitude":17.465509,
+    "geom:longitude":78.435379,
+    "iso:country":"IN",
+    "sg:address":"5-9-287, R. G. Nagar, I.e., Kukatpally, Balanagar,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2372 0394",
+    "sg:postcode":"500037",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.ssrubbers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fIkcZ7Z40kBzf39NjMedn_17.465509_78.435379@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d546c3726c3d149bd2a1f1cbad9ff524",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169613617
+        }
+    ],
+    "wof:id":169613617,
+    "wof:lastmodified":1449034210,
+    "wof:name":"S. S. Rubbers Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [78.435379,17.465509,78.435379,17.465509],
+  "geometry": {"coordinates":[78.435379,17.465509],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 169537505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.510437,13.021831,77.510437,13.021831",
+    "geom:latitude":13.021831,
+    "geom:longitude":77.510437,
+    "iso:country":"IN",
+    "sg:address":"#392/1, 10th Cross, Peenya Industrial \nArea, 4th Phase,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 6571 4983",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "sg:website":"http://www.locusmt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rc6rerGFNrrbwepLx1N8W_13.021831_77.510437@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fe4bf50f12418c497a42aa3077e1f366",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169537505
+        }
+    ],
+    "wof:id":169537505,
+    "wof:lastmodified":1449033500,
+    "wof:name":"Locus Machine Tools Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.510437,13.021831,77.510437,13.021831],
+  "geometry": {"coordinates":[77.510437,13.021831],"type":"Point"}
+}

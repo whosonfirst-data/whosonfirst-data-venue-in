@@ -1,0 +1,62 @@
+{
+  "id": 169585097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.281456,28.639215,77.281456,28.639215",
+    "geom:latitude":28.639215,
+    "geom:longitude":77.281456,
+    "iso:country":"IN",
+    "sg:address":"350, West Guru Angad Nagar, Gurudwara Road, Laxmi Nagar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2202 3217",
+    "sg:postcode":"110092",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iPPBkQtJgwgrSev0dkgyP_28.639215_77.281456@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"84c1fd7996294a209e7b579f651c3357",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169585097
+        }
+    ],
+    "wof:id":169585097,
+    "wof:lastmodified":1449034885,
+    "wof:name":"M K Infrastructures",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.281456,28.639215,77.281456,28.639215],
+  "geometry": {"coordinates":[77.281456,28.639215],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169616811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.167366,28.66964,77.167366,28.66964",
+    "geom:latitude":28.66964,
+    "geom:longitude":77.167366,
+    "iso:country":"IN",
+    "sg:address":"B-25, Gupta Complex, Inder Lok,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2364 1559",
+    "sg:postcode":"110037",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JTiQPxIPnjNcEhBKWTZS5_28.669640_77.167366@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d1f87d0c7842ea88c9531e529126a8e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169616811
+        }
+    ],
+    "wof:id":169616811,
+    "wof:lastmodified":1449035102,
+    "wof:name":"Saras International",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.167366,28.66964,77.167366,28.66964],
+  "geometry": {"coordinates":[77.167366,28.66964],"type":"Point"}
+}

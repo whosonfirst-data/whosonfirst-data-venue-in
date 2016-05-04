@@ -1,0 +1,53 @@
+{
+  "id": 169526273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.867493,19.210114,72.867493,19.210114",
+    "geom:latitude":19.210114,
+    "geom:longitude":72.867493,
+    "iso:country":"IN",
+    "sg:address":"27, Ashar Bldg., A.g. Street,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:orig_category":"Automobile Electrical Spares",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2385 4653",
+    "sg:postcode":"400004",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931529,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Mz3F8YdGW3zorcJw3952w_19.210114_72.867493@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cb21251568b3cacb0b6602ddc22a70c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931529,
+            "region_id":85672171,
+            "venue_id":169526273
+        }
+    ],
+    "wof:id":169526273,
+    "wof:lastmodified":1449033699,
+    "wof:name":"Autolux Lamps",
+    "wof:parent_id":85931529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.867493,19.210114,72.867493,19.210114],
+  "geometry": {"coordinates":[72.867493,19.210114],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169541513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.615906,12.994699,77.615906,12.994699",
+    "geom:latitude":12.994699,
+    "geom:longitude":77.615906,
+    "iso:country":"IN",
+    "sg:address":"151/1, Wheeler Road, Frazer Town,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2557 3833",
+    "sg:postcode":"560005",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"http://www.m2india.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930871,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LBrw8nsnjP9a7EAQztTu3_12.994699_77.615906@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e70d9cf1bd6de3ce901b00a5e9d1f4c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930871,
+            "region_id":85672165,
+            "venue_id":169541513
+        }
+    ],
+    "wof:id":169541513,
+    "wof:lastmodified":1449033042,
+    "wof:name":"M2- Software",
+    "wof:parent_id":85930871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.615906,12.994699,77.615906,12.994699],
+  "geometry": {"coordinates":[77.615906,12.994699],"type":"Point"}
+}

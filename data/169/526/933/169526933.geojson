@@ -1,0 +1,65 @@
+{
+  "id": 169526933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.808678,18.963247,72.808678,18.963247",
+    "geom:latitude":18.963247,
+    "geom:longitude":72.808678,
+    "iso:country":"IN",
+    "sg:address":"B-92/94, Gowalia Tank Road, Opp. Cumballa Hill Hospital, Kemps Corner,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2387 1228",
+    "sg:postcode":"400026",
+    "sg:tags":[
+        "bag",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931429,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u7044mYYyYAOGKsYRke61_18.963247_72.808678@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"340f544f21440e0df8524833dfac3493",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931429,
+            "region_id":85672171,
+            "venue_id":169526933
+        }
+    ],
+    "wof:id":169526933,
+    "wof:lastmodified":1449033699,
+    "wof:name":"Blue Tack",
+    "wof:parent_id":85931429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag",
+        "-"
+    ]
+},
+  "bbox": [72.808678,18.963247,72.808678,18.963247],
+  "geometry": {"coordinates":[72.808678,18.963247],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169528667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.93203,19.166861,72.93203,19.166861",
+    "geom:latitude":19.166861,
+    "geom:longitude":72.93203,
+    "iso:country":"IN",
+    "sg:address":"Mulund Goregaon, Link Road, Bahndup (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2564 2583",
+    "sg:postcode":"400078",
+    "sg:tags":[
+        "bulk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931655,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z5Qc5PBaOn7HvWeM0HBv1_19.166861_72.932030@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"784f8ebdc55ec9daf5edf02e0f00bfe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931655,
+            "region_id":85672171,
+            "venue_id":169528667
+        }
+    ],
+    "wof:id":169528667,
+    "wof:lastmodified":1449033569,
+    "wof:name":"Merind Limited",
+    "wof:parent_id":85931655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk"
+    ]
+},
+  "bbox": [72.93203,19.166861,72.93203,19.166861],
+  "geometry": {"coordinates":[72.93203,19.166861],"type":"Point"}
+}

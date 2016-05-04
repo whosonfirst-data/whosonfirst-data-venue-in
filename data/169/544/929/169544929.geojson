@@ -1,0 +1,65 @@
+{
+  "id": 169544929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.631081,12.979028,77.631081,12.979028",
+    "geom:latitude":12.979028,
+    "geom:longitude":77.631081,
+    "iso:country":"IN",
+    "sg:address":"#2791, 18th 'b' Main, Hal 2nd Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2526 0050",
+    "sg:postcode":"560008",
+    "sg:tags":[
+        "wires/cables",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dEyTOakbUaJbb53fW3Ouh_12.979028_77.631081@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"93aaeb889212847a78099b250068e7f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169544929
+        }
+    ],
+    "wof:id":169544929,
+    "wof:lastmodified":1449035963,
+    "wof:name":"Maruti Tex Travellers Inc.",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wires/cables",
+        "accessory"
+    ]
+},
+  "bbox": [77.631081,12.979028,77.631081,12.979028],
+  "geometry": {"coordinates":[77.631081,12.979028],"type":"Point"}
+}

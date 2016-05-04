@@ -1,0 +1,65 @@
+{
+  "id": 169545595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.214218,10.525535,76.214218,10.525535",
+    "geom:latitude":10.525535,
+    "geom:longitude":76.214218,
+    "iso:country":"IN",
+    "sg:address":"34/711,veliyannur, Trichur,",
+    "sg:city":"Thrissur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 91487428084",
+    "sg:postcode":"680021",
+    "sg:tags":[
+        "knitted",
+        "knitwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783429,
+        85632469,
+        102028409,
+        85672149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VULXzCB6XomRlSwM4yOQi_10.525535_76.214218@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f6288386a432e29f1fd0e5d4562d30cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028409,
+            "neighbourhood_id":85783429,
+            "region_id":85672149,
+            "venue_id":169545595
+        }
+    ],
+    "wof:id":169545595,
+    "wof:lastmodified":1449033487,
+    "wof:name":"Nidus Enterprises",
+    "wof:parent_id":85783429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitted",
+        "knitwear"
+    ]
+},
+  "bbox": [76.214218,10.525535,76.214218,10.525535],
+  "geometry": {"coordinates":[76.214218,10.525535],"type":"Point"}
+}

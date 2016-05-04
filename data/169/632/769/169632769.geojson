@@ -1,0 +1,63 @@
+{
+  "id": 169632769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.336746,28.68775,77.336746,28.68775",
+    "geom:latitude":28.68775,
+    "geom:longitude":77.336746,
+    "iso:country":"IN",
+    "sg:address":"12-b, Indl. Area-a Extn.,",
+    "sg:city":"Ludhiana",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 161 260 3204",
+    "sg:postcode":"141003",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.suryarubbers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r03gO0nTVJK7Nmj2g48PE_28.687750_77.336746@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2f0f9a032a49c0496dc06c39fd9f0bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169632769
+        }
+    ],
+    "wof:id":169632769,
+    "wof:lastmodified":1449034792,
+    "wof:name":"Surya Rubbers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.336746,28.68775,77.336746,28.68775],
+  "geometry": {"coordinates":[77.336746,28.68775],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169559867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.160736,28.657366,77.160736,28.657366",
+    "geom:latitude":28.657366,
+    "geom:longitude":77.160736,
+    "iso:country":"IN",
+    "sg:address":"T-510/c-52/3, Baljeet Nagar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2587 6286",
+    "sg:postcode":"110008",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927889,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55RYnvuZGSxdyVtUWaGh1B_28.657366_77.160736@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4f1cf72e3d83f713349e411baeb1edc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927889,
+            "region_id":85672123,
+            "venue_id":169559867
+        }
+    ],
+    "wof:id":169559867,
+    "wof:lastmodified":1449035237,
+    "wof:name":"D. D. International",
+    "wof:parent_id":85927889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.160736,28.657366,77.160736,28.657366],
+  "geometry": {"coordinates":[77.160736,28.657366],"type":"Point"}
+}

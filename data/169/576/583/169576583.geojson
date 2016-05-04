@@ -1,0 +1,64 @@
+{
+  "id": 169576583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"84.859398,22.243811,84.859398,22.243811",
+    "geom:latitude":22.243811,
+    "geom:longitude":84.859398,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 77, Sector-6,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 406 3817",
+    "sg:postcode":"121007",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.fbtindustries.com, www.fbtindustries.tradeindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933795,
+        85632469,
+        102028839,
+        85672157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50eObz9Lu1SDfdQBDO6Dts_22.243811_84.859398@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"056a9c3d8dd438c3a0e469cfe2714aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028839,
+            "neighbourhood_id":85933795,
+            "region_id":85672157,
+            "venue_id":169576583
+        }
+    ],
+    "wof:id":169576583,
+    "wof:lastmodified":1449035197,
+    "wof:name":"Fbt Industries (p) Ltd.",
+    "wof:parent_id":85933795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [84.859398,22.243811,84.859398,22.243811],
+  "geometry": {"coordinates":[84.859398,22.243811],"type":"Point"}
+}

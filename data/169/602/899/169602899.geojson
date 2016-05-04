@@ -1,0 +1,64 @@
+{
+  "id": 169602899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.824036,18.47817,73.824036,18.47817",
+    "geom:latitude":18.47817,
+    "geom:longitude":73.824036,
+    "iso:country":"IN",
+    "sg:address":"S.no. 25/5, Nanded Phata, Sinhgad Road,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 6570 1569",
+    "sg:postcode":"411041",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.pratapchem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904003,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i0ZC6n8n5RWnhYeVOXfUm_18.478170_73.824036@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1a595c431415d351ad6460281660bcdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85904003,
+            "region_id":85672171,
+            "venue_id":169602899
+        }
+    ],
+    "wof:id":169602899,
+    "wof:lastmodified":1449034231,
+    "wof:name":"Pratap Tex-chem Pvt. Ltd.",
+    "wof:parent_id":85904003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [73.824036,18.47817,73.824036,18.47817],
+  "geometry": {"coordinates":[73.824036,18.47817],"type":"Point"}
+}

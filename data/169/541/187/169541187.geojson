@@ -1,0 +1,63 @@
+{
+  "id": 169541187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.795761,21.197405,72.795761,21.197405",
+    "geom:latitude":21.197405,
+    "geom:longitude":72.795761,
+    "iso:country":"IN",
+    "sg:address":"#108, 1st Floor, Anand Complex, C.t. Street,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2223 4599",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "silver"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933495,
+        85632469,
+        102028539,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PWXl3t2Og8vrf34Vkt8QW_21.197405_72.795761@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"08e68125c9ff0f3d7611eca77815b85d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028539,
+            "neighbourhood_id":85933495,
+            "region_id":85672249,
+            "venue_id":169541187
+        }
+    ],
+    "wof:id":169541187,
+    "wof:lastmodified":1449033039,
+    "wof:name":"Vijeta Jewellers",
+    "wof:parent_id":85933495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silver"
+    ]
+},
+  "bbox": [72.795761,21.197405,72.795761,21.197405],
+  "geometry": {"coordinates":[72.795761,21.197405],"type":"Point"}
+}

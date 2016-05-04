@@ -1,0 +1,66 @@
+{
+  "id": 169534933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.013901,19.113665,73.013901,19.113665",
+    "geom:latitude":19.113665,
+    "geom:longitude":73.013901,
+    "iso:country":"IN",
+    "sg:address":"A-555, T.t.c., Industrial Area, M.i.d.c., Mahape,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 3959 8608",
+    "sg:postcode":"400701",
+    "sg:tags":[
+        "component",
+        "product",
+        "electronic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031115,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K7BhzIwlEsm0luBd3PNrT_19.113665_73.013901@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bc3f02725e4df9a6c4e9e8c009152b18",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031115,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169534933
+        }
+    ],
+    "wof:id":169534933,
+    "wof:lastmodified":1449033548,
+    "wof:name":"Shoeeji Impex",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "product",
+        "electronic"
+    ]
+},
+  "bbox": [73.013901,19.113665,73.013901,19.113665],
+  "geometry": {"coordinates":[73.013901,19.113665],"type":"Point"}
+}

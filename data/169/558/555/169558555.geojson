@@ -1,0 +1,63 @@
+{
+  "id": 169558555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.337471,28.606802,77.337471,28.606802",
+    "geom:latitude":28.606802,
+    "geom:longitude":77.337471,
+    "iso:country":"IN",
+    "sg:address":"D-240, Sector-63, Phase-iii,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 426 0560",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.bonny-products.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031133,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JbPsUHABd4Z57XiDmRSsc_28.606802_77.337471@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ab223c603b4debc2d07d14c3e44b774d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031133,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169558555
+        }
+    ],
+    "wof:id":169558555,
+    "wof:lastmodified":1449033582,
+    "wof:name":"Bonny Products Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.337471,28.606802,77.337471,28.606802],
+  "geometry": {"coordinates":[77.337471,28.606802],"type":"Point"}
+}

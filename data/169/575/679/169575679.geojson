@@ -1,0 +1,63 @@
+{
+  "id": 169575679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.106804,28.619938,77.106804,28.619938",
+    "geom:latitude":28.619938,
+    "geom:longitude":77.106804,
+    "iso:country":"IN",
+    "sg:address":"C-47, Maya Puri, Phase-ii,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 6545 9004",
+    "sg:postcode":"110064",
+    "sg:tags":[
+        "pigment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928577,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DEjtvibVvx7jvhCmEhTnm_28.619938_77.106804@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"71541cd0ec0c2652e2d093c8651674f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928577,
+            "region_id":85672123,
+            "venue_id":169575679
+        }
+    ],
+    "wof:id":169575679,
+    "wof:lastmodified":1449033643,
+    "wof:name":"Bajaj Rubber Co. Pvt. Ltd.",
+    "wof:parent_id":85928577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [77.106804,28.619938,77.106804,28.619938],
+  "geometry": {"coordinates":[77.106804,28.619938],"type":"Point"}
+}

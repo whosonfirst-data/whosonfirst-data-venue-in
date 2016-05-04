@@ -1,0 +1,64 @@
+{
+  "id": 169539825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.551674,12.957237,77.551674,12.957237",
+    "geom:latitude":12.957237,
+    "geom:longitude":77.551674,
+    "iso:country":"IN",
+    "sg:address":"78/1, 3rd Cross, Gavipuram Extension,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4120 3991",
+    "sg:postcode":"560019",
+    "sg:tags":[
+        "semiconductor"
+    ],
+    "sg:website":"http://www.hynetic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CxxrRpRhk7S89ulfEkdxU_12.957237_77.551674@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b1ef54c36c63ae11bb1e3d18c2547f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169539825
+        }
+    ],
+    "wof:id":169539825,
+    "wof:lastmodified":1449036036,
+    "wof:name":"Hynetic Electronics Pvt. Ltd.",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "semiconductor"
+    ]
+},
+  "bbox": [77.551674,12.957237,77.551674,12.957237],
+  "geometry": {"coordinates":[77.551674,12.957237],"type":"Point"}
+}

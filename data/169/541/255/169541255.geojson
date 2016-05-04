@@ -1,0 +1,63 @@
+{
+  "id": 169541255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.590919,12.965468,77.590919,12.965468",
+    "geom:latitude":12.965468,
+    "geom:longitude":77.590919,
+    "iso:country":"IN",
+    "sg:address":"No. 7, 8th Main Road, Sampangirama Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:orig_category":"Slotted Angles",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2222 3216",
+    "sg:postcode":"560027",
+    "sg:website":"http://www.asianfurnitureco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930935,
+        85632469,
+        102030819,
+        85672165,
+        85930903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kG3bKccxG5vD2vrwyb9da_12.965468_77.590919@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"627187d855d2a72b0b19b9f016698034",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930935,
+            "region_id":85672165,
+            "venue_id":169541255
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169541255
+        }
+    ],
+    "wof:id":169541255,
+    "wof:lastmodified":1449033043,
+    "wof:name":"Asian Furniture Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.590919,12.965468,77.590919,12.965468],
+  "geometry": {"coordinates":[77.590919,12.965468],"type":"Point"}
+}

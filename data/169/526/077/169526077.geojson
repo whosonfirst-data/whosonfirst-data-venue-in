@@ -1,0 +1,64 @@
+{
+  "id": 169526077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.280022,28.663019,77.280022,28.663019",
+    "geom:latitude":28.663019,
+    "geom:longitude":77.280022,
+    "iso:country":"IN",
+    "sg:address":"51-165, C.m.azad Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2309 4109",
+    "sg:postcode":"400008",
+    "sg:tags":[
+        "asbestos",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ewpu0nNe3tFDfoCEhfIyu_28.663019_77.280022@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"31f9ae3715edf6694e12108278298a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169526077
+        }
+    ],
+    "wof:id":169526077,
+    "wof:lastmodified":1449033699,
+    "wof:name":"Abdul Kaiyum Roomalwala",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asbestos",
+        "product"
+    ]
+},
+  "bbox": [77.280022,28.663019,77.280022,28.663019],
+  "geometry": {"coordinates":[77.280022,28.663019],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 169534405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.843079,19.179806,72.843079,19.179806",
+    "geom:latitude":19.179806,
+    "geom:longitude":72.843079,
+    "iso:country":"IN",
+    "sg:address":"236, Bombay Talkies Compound, Malad (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2889 7695",
+    "sg:postcode":"400064",
+    "sg:tags":[
+        "lighting",
+        "product",
+        "electrical",
+        "component",
+        "/"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931619,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MRxuI2wP14BBTp38adKZ3_19.179806_72.843079@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e6a59cdbfe83a1e35cffeed84d4246d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931619,
+            "region_id":85672171,
+            "venue_id":169534405
+        }
+    ],
+    "wof:id":169534405,
+    "wof:lastmodified":1449033550,
+    "wof:name":"Arco Industries",
+    "wof:parent_id":85931619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "product",
+        "electrical",
+        "component",
+        "/"
+    ]
+},
+  "bbox": [72.843079,19.179806,72.843079,19.179806],
+  "geometry": {"coordinates":[72.843079,19.179806],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169531877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.827477,18.944361,72.827477,18.944361",
+    "geom:latitude":18.944361,
+    "geom:longitude":72.827477,
+    "iso:country":"IN",
+    "sg:address":"42, 4th Marine Street, 1st Floor, Dhobi Talao,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 229820765234",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zCooxNSJqJlYRIGbfieam_18.944361_72.827477@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d75903c6ac9a93961ba3cc8c0afa2c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903889,
+            "region_id":85672171,
+            "venue_id":169531877
+        }
+    ],
+    "wof:id":169531877,
+    "wof:lastmodified":1449033476,
+    "wof:name":"Nk Foods Enterprise",
+    "wof:parent_id":85903889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.827477,18.944361,72.827477,18.944361],
+  "geometry": {"coordinates":[72.827477,18.944361],"type":"Point"}
+}

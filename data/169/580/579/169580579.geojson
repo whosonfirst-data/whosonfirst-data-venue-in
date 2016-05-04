@@ -1,0 +1,63 @@
+{
+  "id": 169580579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.837517,19.156689,72.837517,19.156689",
+    "geom:latitude":19.156689,
+    "geom:longitude":72.837517,
+    "iso:country":"IN",
+    "sg:address":"61/488, Motilal Nagar No. 1, Goregaon (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2876 8747",
+    "sg:postcode":"400104",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25NaFtTcv9jkhHEWM9ku3m_19.156689_72.837517@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bdeacc202929287dca3f32a787d8c5d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169580579
+        }
+    ],
+    "wof:id":169580579,
+    "wof:lastmodified":1449034914,
+    "wof:name":"Jamnadas Industries",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.837517,19.156689,72.837517,19.156689],
+  "geometry": {"coordinates":[72.837517,19.156689],"type":"Point"}
+}

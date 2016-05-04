@@ -1,0 +1,64 @@
+{
+  "id": 169583177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.188065,17.753113,73.188065,17.753113",
+    "geom:latitude":17.753113,
+    "geom:longitude":73.188065,
+    "iso:country":"IN",
+    "sg:address":"House No. 18, Dapali Harnai Road, Tal. Dapoli,",
+    "sg:city":"Ratnagiri",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2352 282 954",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "sg:website":"http://www.kokansynthetics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030445,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PSfZxLxgxBgVKJaEWVp20_17.753113_73.188065@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"137d898b3bd1d747082821d57067fa05",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030445,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169583177
+        }
+    ],
+    "wof:id":169583177,
+    "wof:lastmodified":1449035270,
+    "wof:name":"Kokan Synthetics & Chemicals Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [73.188065,17.753113,73.188065,17.753113],
+  "geometry": {"coordinates":[73.188065,17.753113],"type":"Point"}
+}

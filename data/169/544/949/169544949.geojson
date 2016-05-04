@@ -1,0 +1,65 @@
+{
+  "id": 169544949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.735886,12.98569,77.735886,12.98569",
+    "geom:latitude":12.98569,
+    "geom:longitude":77.735886,
+    "iso:country":"IN",
+    "sg:address":"#22b, Whitefield, Itpl,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2854 0800",
+    "sg:postcode":"560048",
+    "sg:tags":[
+        "wires/cables",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931165,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EUE3VGLnNVZjbvl1mTs57_12.985690_77.735886@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"975374eeefd5997e4b821493c6e5bc0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931165,
+            "region_id":85672165,
+            "venue_id":169544949
+        }
+    ],
+    "wof:id":169544949,
+    "wof:lastmodified":1449035964,
+    "wof:name":"Tyco Electronics",
+    "wof:parent_id":85931165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wires/cables",
+        "accessory"
+    ]
+},
+  "bbox": [77.735886,12.98569,77.735886,12.98569],
+  "geometry": {"coordinates":[77.735886,12.98569],"type":"Point"}
+}

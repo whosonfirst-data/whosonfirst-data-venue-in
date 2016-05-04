@@ -1,0 +1,64 @@
+{
+  "id": 169578257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"79.827072,11.933856,79.827072,11.933856",
+    "geom:latitude":11.933856,
+    "geom:longitude":79.827072,
+    "iso:country":"IN",
+    "sg:address":"457 Bharahty Street,",
+    "sg:city":"Pondicherry",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 413 420 1796",
+    "sg:postcode":"605001",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "sg:website":"http://www.geocities.com/jeyarajx/mypage.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934411,
+        85632469,
+        102028985,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GA3IOTsWTuCTz8NdYsKwD_11.933856_79.827072@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"114947c2193fcbbb948a8d8034eb5b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028985,
+            "neighbourhood_id":85934411,
+            "region_id":85672245,
+            "venue_id":169578257
+        }
+    ],
+    "wof:id":169578257,
+    "wof:lastmodified":1449033518,
+    "wof:name":"Gx Agencies",
+    "wof:parent_id":85934411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [79.827072,11.933856,79.827072,11.933856],
+  "geometry": {"coordinates":[79.827072,11.933856],"type":"Point"}
+}

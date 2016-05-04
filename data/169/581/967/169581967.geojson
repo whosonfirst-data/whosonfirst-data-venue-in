@@ -1,0 +1,63 @@
+{
+  "id": 169581967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.212494,28.557657,77.212494,28.557657",
+    "geom:latitude":28.557657,
+    "geom:longitude":77.212494,
+    "iso:country":"IN",
+    "sg:address":"D-83, Gulmohar Park,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2696 1849",
+    "sg:postcode":"110049",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927961,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fcLPhdUWi4NtCiPMey9pT_28.557657_77.212494@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"80dc308e5f16a80f6d29c9df2be2a211",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927961,
+            "region_id":85672123,
+            "venue_id":169581967
+        }
+    ],
+    "wof:id":169581967,
+    "wof:lastmodified":1449033383,
+    "wof:name":"Kanoria Organic Fertilizer",
+    "wof:parent_id":85927961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.212494,28.557657,77.212494,28.557657],
+  "geometry": {"coordinates":[77.212494,28.557657],"type":"Point"}
+}

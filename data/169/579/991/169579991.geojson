@@ -1,0 +1,63 @@
+{
+  "id": 169579991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.169838,28.55913,77.169838,28.55913",
+    "geom:latitude":28.55913,
+    "geom:longitude":77.169838,
+    "iso:country":"IN",
+    "sg:address":"46, Basant Lok, Vasant Vihar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2614 9159",
+    "sg:postcode":"110057",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927949,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pv2YDvCUq04TQIMDWOgfo_28.559130_77.169838@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"05b770384b1c9def4d4823da874b096a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927949,
+            "region_id":85672123,
+            "venue_id":169579991
+        }
+    ],
+    "wof:id":169579991,
+    "wof:lastmodified":1449033740,
+    "wof:name":"Intermark Corporation",
+    "wof:parent_id":85927949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.169838,28.55913,77.169838,28.55913],
+  "geometry": {"coordinates":[77.169838,28.55913],"type":"Point"}
+}

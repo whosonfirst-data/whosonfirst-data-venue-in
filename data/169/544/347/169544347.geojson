@@ -1,0 +1,66 @@
+{
+  "id": 169544347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.538445,12.989657,77.538445,12.989657",
+    "geom:latitude":12.989657,
+    "geom:longitude":77.538445,
+    "iso:country":"IN",
+    "sg:address":"288, 3a Cross, 2nd Block, 3rd Stage, West Of Chord Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2322 0859",
+    "sg:postcode":"560079",
+    "sg:tags":[
+        "voltage",
+        "stabilizer"
+    ],
+    "sg:website":"http://www.adigaindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70eLHFLOc3s5nIGwsM0VCE_12.989657_77.538445@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1b5bde4a2ecf3beaedbee6e70e53e341",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169544347
+        }
+    ],
+    "wof:id":169544347,
+    "wof:lastmodified":1449035964,
+    "wof:name":"Adiga Transformers & Coils Pvt. Ltd.",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "voltage",
+        "stabilizer"
+    ]
+},
+  "bbox": [77.538445,12.989657,77.538445,12.989657],
+  "geometry": {"coordinates":[77.538445,12.989657],"type":"Point"}
+}

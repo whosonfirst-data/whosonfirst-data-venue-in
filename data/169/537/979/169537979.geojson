@@ -1,0 +1,66 @@
+{
+  "id": 169537979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.665985,12.995467,77.665985,12.995467",
+    "geom:latitude":12.995467,
+    "geom:longitude":77.665985,
+    "iso:country":"IN",
+    "sg:address":"78, Old Madras Road, Doorvaninagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2221 7438",
+    "sg:postcode":"560016",
+    "sg:tags":[
+        "pressure",
+        "cooker"
+    ],
+    "sg:website":"http://www.ttk-prestige.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930859,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D4sn9Vtml4Or54iXWq6yu_12.995467_77.665985@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"90a0738aa1e42939d5f12b9ed47fac4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930859,
+            "region_id":85672165,
+            "venue_id":169537979
+        }
+    ],
+    "wof:id":169537979,
+    "wof:lastmodified":1449033499,
+    "wof:name":"T. T. K. Prestige Limited",
+    "wof:parent_id":85930859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pressure",
+        "cooker"
+    ]
+},
+  "bbox": [77.665985,12.995467,77.665985,12.995467],
+  "geometry": {"coordinates":[77.665985,12.995467],"type":"Point"}
+}

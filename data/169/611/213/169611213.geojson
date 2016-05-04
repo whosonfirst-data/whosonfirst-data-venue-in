@@ -1,0 +1,63 @@
+{
+  "id": 169611213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.191856,13.028824,80.191856,13.028824",
+    "geom:latitude":13.028824,
+    "geom:longitude":80.191856,
+    "iso:country":"IN",
+    "sg:address":"73, Indira Nagar, Valasaravakkam,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2486 9750",
+    "sg:postcode":"600087",
+    "sg:tags":[
+        "reagent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927573,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CLSZh06WuvpAUuJarSODG_13.028824_80.191856@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a7c88489baf47e0aab42668646aa3b96",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85927573,
+            "region_id":85672245,
+            "venue_id":169611213
+        }
+    ],
+    "wof:id":169611213,
+    "wof:lastmodified":1449035261,
+    "wof:name":"Rimini Industries (india)",
+    "wof:parent_id":85927573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reagent"
+    ]
+},
+  "bbox": [80.191856,13.028824,80.191856,13.028824],
+  "geometry": {"coordinates":[80.191856,13.028824],"type":"Point"}
+}

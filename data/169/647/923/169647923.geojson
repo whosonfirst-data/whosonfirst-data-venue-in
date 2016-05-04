@@ -1,0 +1,64 @@
+{
+  "id": 169647923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.420319,26.706356,88.420319,26.706356",
+    "geom:latitude":26.706356,
+    "geom:longitude":88.420319,
+    "iso:country":"IN",
+    "sg:address":"17/a Sp Mukherji Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2465 9499",
+    "sg:postcode":"700026",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.zeninternational.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934155,
+        85632469,
+        102028677,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EBPwTxdifrQOIGuQv1VUn_26.706356_88.420319@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"21e80d0e0a6554e301bbca722ac90dc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028677,
+            "neighbourhood_id":85934155,
+            "region_id":85672219,
+            "venue_id":169647923
+        }
+    ],
+    "wof:id":169647923,
+    "wof:lastmodified":1449034241,
+    "wof:name":"Zen International",
+    "wof:parent_id":85934155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [88.420319,26.706356,88.420319,26.706356],
+  "geometry": {"coordinates":[88.420319,26.706356],"type":"Point"}
+}

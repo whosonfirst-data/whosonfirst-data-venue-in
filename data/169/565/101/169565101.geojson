@@ -1,0 +1,54 @@
+{
+  "id": 169565101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.595169,12.951335,77.595169,12.951335",
+    "geom:latitude":12.951335,
+    "geom:longitude":77.595169,
+    "iso:country":"IN",
+    "sg:address":"H Siddaiah Road",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 805269968",
+    "sg:postcode":"560002",
+    "sg:province":"Karnataka",
+    "sg:website":"http://www.stellarubber.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930939,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tcg7Os1dJCWDPnl2TBFpb_12.951335_77.595169@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"85e4b6007a42b48c889f1a72945cc8b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930939,
+            "region_id":85672165,
+            "venue_id":169565101
+        }
+    ],
+    "wof:id":169565101,
+    "wof:lastmodified":1449035665,
+    "wof:name":"Stella Rubber Works",
+    "wof:parent_id":85930939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.595169,12.951335,77.595169,12.951335],
+  "geometry": {"coordinates":[77.595169,12.951335],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169618407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.748787,28.964806,77.748787,28.964806",
+    "geom:latitude":28.964806,
+    "geom:longitude":77.748787,
+    "iso:country":"IN",
+    "sg:address":"C2/208, Janakpuri,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2554 5002",
+    "sg:postcode":"110058",
+    "sg:tags":[
+        "polymer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029389,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RJD44FxAi1twMPlZ5tNCK_28.964806_77.748787@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e09179921b08882faf876fbd221f5d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029389,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169618407
+        }
+    ],
+    "wof:id":169618407,
+    "wof:lastmodified":1449034737,
+    "wof:name":"Servoms",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [77.748787,28.964806,77.748787,28.964806],
+  "geometry": {"coordinates":[77.748787,28.964806],"type":"Point"}
+}

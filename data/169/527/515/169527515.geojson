@@ -1,0 +1,65 @@
+{
+  "id": 169527515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833595,19.089176,72.833595,19.089176",
+    "geom:latitude":19.089176,
+    "geom:longitude":72.833595,
+    "iso:country":"IN",
+    "sg:address":"36, Dheeraj Heritage, 5th Floor, S. V. Road, Santacruz (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2648 0730",
+    "sg:postcode":"400054",
+    "sg:tags":[
+        "product",
+        "healthcare"
+    ],
+    "sg:website":"http://www.herbo-chem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931575,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sropUnyLXrG3K4JnFiTMc_19.089176_72.833595@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8230c9e86b51a1dbaca74a0b088b78e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931575,
+            "region_id":85672171,
+            "venue_id":169527515
+        }
+    ],
+    "wof:id":169527515,
+    "wof:lastmodified":1449035277,
+    "wof:name":"Herbochem",
+    "wof:parent_id":85931575,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "healthcare"
+    ]
+},
+  "bbox": [72.833595,19.089176,72.833595,19.089176],
+  "geometry": {"coordinates":[72.833595,19.089176],"type":"Point"}
+}

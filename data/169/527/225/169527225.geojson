@@ -1,0 +1,68 @@
+{
+  "id": 169527225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.820618,18.924555,72.820618,18.924555",
+    "geom:latitude":18.924555,
+    "geom:longitude":72.820618,
+    "iso:country":"IN",
+    "sg:address":"305, Arcadia, Nariman Point,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2282 8285",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "banking",
+        "product",
+        "automation"
+    ],
+    "sg:website":"http://www.sinicindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4h9t4FO8NVd0oIgxy1S067_18.924555_72.820618@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"08e918c276743751eb4f574106310608",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169527225
+        }
+    ],
+    "wof:id":169527225,
+    "wof:lastmodified":1449035278,
+    "wof:name":"Sinic Electronics Private Ltd.",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "product",
+        "automation"
+    ]
+},
+  "bbox": [72.820618,18.924555,72.820618,18.924555],
+  "geometry": {"coordinates":[72.820618,18.924555],"type":"Point"}
+}

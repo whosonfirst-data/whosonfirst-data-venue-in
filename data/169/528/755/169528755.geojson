@@ -1,0 +1,66 @@
+{
+  "id": 169528755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.331474,11.122075,77.331474,11.122075",
+    "geom:latitude":11.122075,
+    "geom:longitude":77.331474,
+    "iso:country":"IN",
+    "sg:address":"43, Dr. V.b. Gandhi Marg, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2204 6307",
+    "sg:postcode":"400023",
+    "sg:tags":[
+        "burners/industrial",
+        "burner",
+        "incinerator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028425,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MVpXKZBBLijM9pU9W3HqO_11.122075_77.331474@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1e1c60cb255d280c4f318352291034b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028425,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169528755
+        }
+    ],
+    "wof:id":169528755,
+    "wof:lastmodified":1449033568,
+    "wof:name":"Heatly & Gresham (i) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burners/industrial",
+        "burner",
+        "incinerator"
+    ]
+},
+  "bbox": [77.331474,11.122075,77.331474,11.122075],
+  "geometry": {"coordinates":[77.331474,11.122075],"type":"Point"}
+}

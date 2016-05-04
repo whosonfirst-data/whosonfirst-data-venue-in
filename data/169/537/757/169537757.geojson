@@ -1,0 +1,74 @@
+{
+  "id": 169537757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.614388,12.913878,77.614388,12.913878",
+    "geom:latitude":12.913878,
+    "geom:longitude":77.614388,
+    "iso:country":"IN",
+    "sg:address":"60/1, 3rd 'a' Main, N. S. Palya, Btm, 2nd Stage, R.g. Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4146 5366",
+    "sg:postcode":"560076",
+    "sg:tags":[
+        "component",
+        "pressed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930853,
+        85632469,
+        102030819,
+        85672165,
+        85931027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WyF98Hge4XoAXBKTBAkTE_12.913878_77.614388@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"417b0009bf741a0716b7ae9b9aa46edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930853,
+            "region_id":85672165,
+            "venue_id":169537757
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931027,
+            "region_id":85672165,
+            "venue_id":169537757
+        }
+    ],
+    "wof:id":169537757,
+    "wof:lastmodified":1449033499,
+    "wof:name":"Press Mould Precision",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "pressed"
+    ]
+},
+  "bbox": [77.614388,12.913878,77.614388,12.913878],
+  "geometry": {"coordinates":[77.614388,12.913878],"type":"Point"}
+}

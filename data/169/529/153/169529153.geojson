@@ -1,0 +1,62 @@
+{
+  "id": 169529153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.838051,19.084053,72.838051,19.084053",
+    "geom:latitude":19.084053,
+    "geom:longitude":72.838051,
+    "iso:country":"IN",
+    "sg:address":"B-17, Sangam Appt., Opposite Vijay Sales, S.v. Road, Santacruz (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:tags":[
+        "equipment",
+        "cast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931575,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xp7ZQgeeKM6orwRPG4BLG_19.084053_72.838051@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"82d3359b3a998f87b2423d2e056da37b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931575,
+            "region_id":85672171,
+            "venue_id":169529153
+        }
+    ],
+    "wof:id":169529153,
+    "wof:lastmodified":1449034114,
+    "wof:name":"Pratik International",
+    "wof:parent_id":85931575,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "cast"
+    ]
+},
+  "bbox": [72.838051,19.084053,72.838051,19.084053],
+  "geometry": {"coordinates":[72.838051,19.084053],"type":"Point"}
+}

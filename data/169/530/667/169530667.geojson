@@ -1,0 +1,66 @@
+{
+  "id": 169530667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.844627,19.164398,72.844627,19.164398",
+    "geom:latitude":19.164398,
+    "geom:longitude":72.844627,
+    "iso:country":"IN",
+    "sg:address":"30/252, Unnat Nagar, 2nd Goregaon (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2875 8481",
+    "sg:postcode":"400062",
+    "sg:tags":[
+        "consultant",
+        "negotiator"
+    ],
+    "sg:website":"http://www.mjrinternational.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iFM2Y9HYJw86a2EzezyNv_19.164398_72.844627@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4c328edaba910081470904bd0103f217",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169530667
+        }
+    ],
+    "wof:id":169530667,
+    "wof:lastmodified":1449034445,
+    "wof:name":"Mjr International",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "negotiator"
+    ]
+},
+  "bbox": [72.844627,19.164398,72.844627,19.164398],
+  "geometry": {"coordinates":[72.844627,19.164398],"type":"Point"}
+}

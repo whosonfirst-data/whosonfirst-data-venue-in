@@ -1,0 +1,65 @@
+{
+  "id": 169613877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.354691,22.557243,88.354691,22.557243",
+    "geom:latitude":22.557243,
+    "geom:longitude":88.354691,
+    "iso:country":"IN",
+    "sg:address":"56d, Mirza Ghalib Street,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2217 0026",
+    "sg:postcode":"700016",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931931,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CoInW83ljUKvTi969zidN_22.557243_88.354691@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1928d0f6eb3d0beaf4d9f4ee779fa281",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931931,
+            "region_id":85672219,
+            "venue_id":169613877
+        }
+    ],
+    "wof:id":169613877,
+    "wof:lastmodified":1449034213,
+    "wof:name":"S.p. Sinha & Company",
+    "wof:parent_id":85931931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [88.354691,22.557243,88.354691,22.557243],
+  "geometry": {"coordinates":[88.354691,22.557243],"type":"Point"}
+}

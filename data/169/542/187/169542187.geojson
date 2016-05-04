@@ -1,0 +1,58 @@
+{
+  "id": 169542187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.548683,13.009043,77.548683,13.009043",
+    "geom:latitude":13.009043,
+    "geom:longitude":77.548683,
+    "iso:country":"IN",
+    "sg:address":"#188, 1st Main, Mahalakshmi Layout,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2349 2197",
+    "sg:postcode":"560086",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MdDnOd5QUps6Dcm1MjSAa_13.009043_77.548683@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"50ddeef769e4af6bb06319ad6564d590",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169542187
+        }
+    ],
+    "wof:id":169542187,
+    "wof:lastmodified":1449035219,
+    "wof:name":"Super Seals",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.548683,13.009043,77.548683,13.009043],
+  "geometry": {"coordinates":[77.548683,13.009043],"type":"Point"}
+}

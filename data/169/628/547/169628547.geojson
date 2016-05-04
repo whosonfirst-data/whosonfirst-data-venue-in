@@ -1,0 +1,64 @@
+{
+  "id": 169628547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.205124,28.647751,77.205124,28.647751",
+    "geom:latitude":28.647751,
+    "geom:longitude":77.205124,
+    "iso:country":"IN",
+    "sg:address":"Block - C, Sector - 45,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 465 4400",
+    "sg:postcode":"122003",
+    "sg:tags":[
+        "polymer"
+    ],
+    "sg:website":"http://www.srf.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928243,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oaKCdL14v8wMFPriP13KJ_28.647751_77.205124@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"95ac09a7cd05d59ffe8eb433ead407c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928243,
+            "region_id":85672123,
+            "venue_id":169628547
+        }
+    ],
+    "wof:id":169628547,
+    "wof:lastmodified":1449035332,
+    "wof:name":"Sriram Fibres Limited",
+    "wof:parent_id":85928243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [77.205124,28.647751,77.205124,28.647751],
+  "geometry": {"coordinates":[77.205124,28.647751],"type":"Point"}
+}

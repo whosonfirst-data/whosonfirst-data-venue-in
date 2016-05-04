@@ -1,0 +1,65 @@
+{
+  "id": 169620441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.236725,28.655243,77.236725,28.655243",
+    "geom:latitude":28.655243,
+    "geom:longitude":77.236725,
+    "iso:country":"IN",
+    "sg:address":"23a , Netaji Subhash Road, 2nd Floor, Room No. # 17,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2230 2052",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928105,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NO24inenvPC1WD9PoaQ6v_28.655243_77.236725@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"76810f593a08b8afc564526023fb17b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928105,
+            "region_id":85672123,
+            "venue_id":169620441
+        }
+    ],
+    "wof:id":169620441,
+    "wof:lastmodified":1449035673,
+    "wof:name":"Shivon Epoxilite Private Limited",
+    "wof:parent_id":85928105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [77.236725,28.655243,77.236725,28.655243],
+  "geometry": {"coordinates":[77.236725,28.655243],"type":"Point"}
+}

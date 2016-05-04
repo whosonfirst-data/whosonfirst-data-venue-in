@@ -1,0 +1,75 @@
+{
+  "id": 169648977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.219373,13.053581,80.219373,13.053581",
+    "geom:latitude":13.053581,
+    "geom:longitude":80.219373,
+    "iso:country":"IN",
+    "sg:address":"54 Vellalar Street Adambakkam",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"600088",
+    "sg:tags":[
+        "web-development",
+        "pst2html",
+        "psd-conversion",
+        "joomla",
+        "oscommerce",
+        "php",
+        "software-company"
+    ],
+    "sg:website":"http://www.platoon.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903935,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NzHJ1VlnJY1Lavf0b86BE_13.053581_80.219373@1308163239"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b5e92bb385702728530164a535445a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903935,
+            "region_id":85672245,
+            "venue_id":169648977
+        }
+    ],
+    "wof:id":169648977,
+    "wof:lastmodified":1449033587,
+    "wof:name":"Platoon Technologies",
+    "wof:parent_id":85903935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web-development",
+        "pst2html",
+        "psd-conversion",
+        "joomla",
+        "oscommerce",
+        "php",
+        "software-company"
+    ]
+},
+  "bbox": [80.219373,13.053581,80.219373,13.053581],
+  "geometry": {"coordinates":[80.219373,13.053581],"type":"Point"}
+}

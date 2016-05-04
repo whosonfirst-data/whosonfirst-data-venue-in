@@ -1,0 +1,64 @@
+{
+  "id": 169580539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.175224,28.661869,77.175224,28.661869",
+    "geom:latitude":28.661869,
+    "geom:longitude":77.175224,
+    "iso:country":"IN",
+    "sg:address":"N-17/a, Gali No-9, Anand Parbat Industrial Area,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 6544 4250",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.jainsonsjaliwala.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928115,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64HsvOCfzWYe5DRzMVv7gm_28.661869_77.175224@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f724fab1e541330cc4bc8cddcfa990d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928115,
+            "region_id":85672123,
+            "venue_id":169580539
+        }
+    ],
+    "wof:id":169580539,
+    "wof:lastmodified":1449034917,
+    "wof:name":"Jainsons Engineering (p) Ltd.",
+    "wof:parent_id":85928115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.175224,28.661869,77.175224,28.661869],
+  "geometry": {"coordinates":[77.175224,28.661869],"type":"Point"}
+}

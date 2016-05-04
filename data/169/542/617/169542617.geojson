@@ -1,0 +1,65 @@
+{
+  "id": 169542617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.614716,12.976317,77.614716,12.976317",
+    "geom:latitude":12.976317,
+    "geom:longitude":77.614716,
+    "iso:country":"IN",
+    "sg:address":"27, Dickenson Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2554 9012",
+    "sg:postcode":"560042",
+    "sg:tags":[
+        "sweet",
+        "namkeen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930841,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05vudMjv63SYRQc1ZuRv4t_12.976317_77.614716@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0006b0bfde0b93af49e4f4ac5b52a881",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930841,
+            "region_id":85672165,
+            "venue_id":169542617
+        }
+    ],
+    "wof:id":169542617,
+    "wof:lastmodified":1449035219,
+    "wof:name":"Tewari Bros Mithaishoppe",
+    "wof:parent_id":85930841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sweet",
+        "namkeen"
+    ]
+},
+  "bbox": [77.614716,12.976317,77.614716,12.976317],
+  "geometry": {"coordinates":[77.614716,12.976317],"type":"Point"}
+}

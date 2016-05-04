@@ -1,0 +1,68 @@
+{
+  "id": 169542535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.598206,12.890531,77.598206,12.890531",
+    "geom:latitude":12.890531,
+    "geom:longitude":77.598206,
+    "iso:country":"IN",
+    "sg:address":"7/16-13, Arekere Gate, Bannerghatta Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2658 0135",
+    "sg:postcode":"560076",
+    "sg:tags":[
+        "surgical",
+        "disposable",
+        "dressing"
+    ],
+    "sg:website":"http://www.devoncatheters.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930957,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M54PvLM8YonRu8VgVd7tv_12.890531_77.598206@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6f7f449cea117bd4847bc09c251640f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930957,
+            "region_id":85672165,
+            "venue_id":169542535
+        }
+    ],
+    "wof:id":169542535,
+    "wof:lastmodified":1449035220,
+    "wof:name":"Devon Innovations Pvt. Ltd.",
+    "wof:parent_id":85930957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "disposable",
+        "dressing"
+    ]
+},
+  "bbox": [77.598206,12.890531,77.598206,12.890531],
+  "geometry": {"coordinates":[77.598206,12.890531],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169583659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.203148,28.733789,77.203148,28.733789",
+    "geom:latitude":28.733789,
+    "geom:longitude":77.203148,
+    "iso:country":"IN",
+    "sg:address":"B-86, Sanath Nagar Extention,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2377 2538",
+    "sg:postcode":"500018",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928119,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00ObYHU6usq9tovSOJctV4_28.733789_77.203148@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d71640cede7f703b0ecd0129bb073070",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928119,
+            "region_id":85672123,
+            "venue_id":169583659
+        }
+    ],
+    "wof:id":169583659,
+    "wof:lastmodified":1449035265,
+    "wof:name":"Kumar Rubber Moulding Works",
+    "wof:parent_id":85928119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.203148,28.733789,77.203148,28.733789],
+  "geometry": {"coordinates":[77.203148,28.733789],"type":"Point"}
+}

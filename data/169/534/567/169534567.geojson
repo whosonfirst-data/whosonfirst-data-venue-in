@@ -1,0 +1,68 @@
+{
+  "id": 169534567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.890808,19.111546,72.890808,19.111546",
+    "geom:latitude":19.111546,
+    "geom:longitude":72.890808,
+    "iso:country":"IN",
+    "sg:address":"6, Liberty Indl. Estate, Chandivli Andheri-e,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2847 8665",
+    "sg:postcode":"400072",
+    "sg:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ],
+    "sg:website":"http://www.veppl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931519,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QtgTjL83XAHXiaClzD7P7_19.111546_72.890808@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e53ec2a2f68a0492d40c7a940924df77",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931519,
+            "region_id":85672171,
+            "venue_id":169534567
+        }
+    ],
+    "wof:id":169534567,
+    "wof:lastmodified":1449033552,
+    "wof:name":"Vinayak Electrical Products Pvt. Ltd.",
+    "wof:parent_id":85931519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "goods",
+        "electrical"
+    ]
+},
+  "bbox": [72.890808,19.111546,72.890808,19.111546],
+  "geometry": {"coordinates":[72.890808,19.111546],"type":"Point"}
+}

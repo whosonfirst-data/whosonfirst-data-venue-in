@@ -1,0 +1,57 @@
+{
+  "id": 169627691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.683052,11.402356,76.683052,11.402356",
+    "geom:latitude":11.402356,
+    "geom:longitude":76.683052,
+    "iso:country":"IN",
+    "sg:address":"P-240, Lake Road",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Leather Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"700028",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934397,
+        85632469,
+        102028381,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zjd1DOSA24cbTnOCznLTo_11.402356_76.683052@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7ad9544e9ba84e05a8e1924bacadeb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028381,
+            "neighbourhood_id":85934397,
+            "region_id":85672245,
+            "venue_id":169627691
+        }
+    ],
+    "wof:id":169627691,
+    "wof:lastmodified":1449036039,
+    "wof:name":"Sri Ganesha Associates (p)ltd.",
+    "wof:parent_id":85934397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [76.683052,11.402356,76.683052,11.402356],
+  "geometry": {"coordinates":[76.683052,11.402356],"type":"Point"}
+}

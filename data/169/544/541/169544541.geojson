@@ -1,0 +1,65 @@
+{
+  "id": 169544541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.670792,12.840919,77.670792,12.840919",
+    "geom:latitude":12.840919,
+    "geom:longitude":77.670792,
+    "iso:country":"IN",
+    "sg:address":"82/a, Electroincs City,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2852 0852",
+    "sg:postcode":"560100",
+    "sg:tags":[
+        "watch",
+        "clock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930867,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KMnFZsVbecNubOKc4GZFO_12.840919_77.670792@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0288cbc2e4ec3b5bc96bd68568074678",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930867,
+            "region_id":85672165,
+            "venue_id":169544541
+        }
+    ],
+    "wof:id":169544541,
+    "wof:lastmodified":1449035963,
+    "wof:name":"Indo Swiss Jewels Limited",
+    "wof:parent_id":85930867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "watch",
+        "clock"
+    ]
+},
+  "bbox": [77.670792,12.840919,77.670792,12.840919],
+  "geometry": {"coordinates":[77.670792,12.840919],"type":"Point"}
+}

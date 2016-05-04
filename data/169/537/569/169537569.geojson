@@ -1,0 +1,71 @@
+{
+  "id": 169537569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.615021,12.936488,77.615021,12.936488",
+    "geom:latitude":12.936488,
+    "geom:longitude":77.615021,
+    "iso:country":"IN",
+    "sg:address":"151, 1st Main Road, 8th Block, Koramangala,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4110 3509",
+    "sg:postcode":"560095",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930917,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OrZUhAkFVn6v1Hy1tPlvC_12.936488_77.615021@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"26a5e486d0bf97a13e1b7b168e16e6a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930917,
+            "region_id":85672165,
+            "venue_id":169537569
+        }
+    ],
+    "wof:id":169537569,
+    "wof:lastmodified":1449033501,
+    "wof:name":"Va Products",
+    "wof:parent_id":85930917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.615021,12.936488,77.615021,12.936488],
+  "geometry": {"coordinates":[77.615021,12.936488],"type":"Point"}
+}

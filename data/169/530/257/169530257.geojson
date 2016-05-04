@@ -1,0 +1,68 @@
+{
+  "id": 169530257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.827652,18.933075,72.827652,18.933075",
+    "geom:latitude":18.933075,
+    "geom:longitude":72.827652,
+    "iso:country":"IN",
+    "sg:address":"46, Veer Nariman Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6617 1819",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "clearing",
+        "forwarding",
+        "agent"
+    ],
+    "sg:website":"http://www.tkpl.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903879,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DVhalgDATYCGhHRAhDXpb_18.933075_72.827652@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"47620e169b2ba88ade90f69b91605cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903879,
+            "region_id":85672171,
+            "venue_id":169530257
+        }
+    ],
+    "wof:id":169530257,
+    "wof:lastmodified":1449034442,
+    "wof:name":"Tulsidas Khimji Pvt. Ltd.",
+    "wof:parent_id":85903879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clearing",
+        "forwarding",
+        "agent"
+    ]
+},
+  "bbox": [72.827652,18.933075,72.827652,18.933075],
+  "geometry": {"coordinates":[72.827652,18.933075],"type":"Point"}
+}

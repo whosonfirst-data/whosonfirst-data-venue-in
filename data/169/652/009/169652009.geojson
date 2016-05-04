@@ -1,0 +1,57 @@
+{
+  "id": 169652009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.685107,12.816192,77.685107,12.816192",
+    "geom:latitude":12.816192,
+    "geom:longitude":77.685107,
+    "iso:country":"IN",
+    "sg:address":"122 E Bommasandra Industrial Area Hosur Road",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560099",
+    "sg:website":"http://www.revaindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pu5iFqfULjkho8KyJMUNx_12.816192_77.685107@1308163241"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5202d515561004da975b141ebada4b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169652009
+        }
+    ],
+    "wof:id":169652009,
+    "wof:lastmodified":1449034811,
+    "wof:name":"REVA Electric Car",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.685107,12.816192,77.685107,12.816192],
+  "geometry": {"coordinates":[77.685107,12.816192],"type":"Point"}
+}

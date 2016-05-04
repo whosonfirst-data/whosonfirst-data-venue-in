@@ -1,0 +1,63 @@
+{
+  "id": 169526139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.826439,19.20808,72.826439,19.20808",
+    "geom:latitude":19.20808,
+    "geom:longitude":72.826439,
+    "iso:country":"IN",
+    "sg:address":"67, Charkop Ind Estate, Kandivli West,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2868 6967",
+    "sg:postcode":"400064",
+    "sg:tags":[
+        "auto"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931623,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kWRatqo195UfMFphhTSfA_19.208080_72.826439@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e22af88caf099fa99fbc5fd91981adae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931623,
+            "region_id":85672171,
+            "venue_id":169526139
+        }
+    ],
+    "wof:id":169526139,
+    "wof:lastmodified":1449033699,
+    "wof:name":"Windals Auto Pvt. Ltd.",
+    "wof:parent_id":85931623,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto"
+    ]
+},
+  "bbox": [72.826439,19.20808,72.826439,19.20808],
+  "geometry": {"coordinates":[72.826439,19.20808],"type":"Point"}
+}

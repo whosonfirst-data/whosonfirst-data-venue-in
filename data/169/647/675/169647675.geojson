@@ -1,0 +1,63 @@
+{
+  "id": 169647675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.157608,29.947826,78.157608,29.947826",
+    "geom:latitude":29.947826,
+    "geom:longitude":78.157608,
+    "iso:country":"IN",
+    "sg:address":"212-a, G.i.d.c., Industiral Area, Chitra,",
+    "sg:city":"Bhavnagar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 278 309 1409",
+    "sg:postcode":"364004",
+    "sg:tags":[
+        "fine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934293,
+        85632469,
+        102030115,
+        85672209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QtPZdvzaWxSP7zvfzMtjg_29.947826_78.157608@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"29c302380132392f78450c10948193d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030115,
+            "neighbourhood_id":85934293,
+            "region_id":85672209,
+            "venue_id":169647675
+        }
+    ],
+    "wof:id":169647675,
+    "wof:lastmodified":1449034240,
+    "wof:name":"Zacfa Chemicals",
+    "wof:parent_id":85934293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fine"
+    ]
+},
+  "bbox": [78.157608,29.947826,78.157608,29.947826],
+  "geometry": {"coordinates":[78.157608,29.947826],"type":"Point"}
+}

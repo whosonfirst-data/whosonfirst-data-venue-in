@@ -1,0 +1,63 @@
+{
+  "id": 169558685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.348007,22.545883,88.348007,22.545883",
+    "geom:latitude":22.545883,
+    "geom:longitude":88.348007,
+    "iso:country":"IN",
+    "sg:address":"95, Park Street, 2nd Floor,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2226 1393",
+    "sg:postcode":"700016",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931951,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HX1Bon2eDLmFc7zeSK5D3_22.545883_88.348007@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bef75c39e46baa51f47bb31bbe35ea26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931951,
+            "region_id":85672219,
+            "venue_id":169558685
+        }
+    ],
+    "wof:id":169558685,
+    "wof:lastmodified":1449033582,
+    "wof:name":"C & E Limited",
+    "wof:parent_id":85931951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.348007,22.545883,88.348007,22.545883],
+  "geometry": {"coordinates":[88.348007,22.545883],"type":"Point"}
+}

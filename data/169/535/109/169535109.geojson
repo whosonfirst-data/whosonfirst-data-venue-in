@@ -1,0 +1,68 @@
+{
+  "id": 169535109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.828781,19.01132,72.828781,19.01132",
+    "geom:latitude":19.01132,
+    "geom:longitude":72.828781,
+    "iso:country":"IN",
+    "sg:address":"Electric Mansion, 6th Floor, A.m. Marg, Prabhadevi,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2430 6237",
+    "sg:postcode":"400025",
+    "sg:tags":[
+        "funicular",
+        "car",
+        "elevator"
+    ],
+    "sg:website":"http://www.bharatbijlee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931467,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bXefXQg1oNTueF2X4mPrF_19.011320_72.828781@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8def8c1ce060d2390fc2d47ffc16c03a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931467,
+            "region_id":85672171,
+            "venue_id":169535109
+        }
+    ],
+    "wof:id":169535109,
+    "wof:lastmodified":1449033285,
+    "wof:name":"Bharat Bijlee Limited",
+    "wof:parent_id":85931467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "funicular",
+        "car",
+        "elevator"
+    ]
+},
+  "bbox": [72.828781,19.01132,72.828781,19.01132],
+  "geometry": {"coordinates":[72.828781,19.01132],"type":"Point"}
+}

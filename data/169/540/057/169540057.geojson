@@ -1,0 +1,67 @@
+{
+  "id": 169540057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.542229,13.050529,77.542229,13.050529",
+    "geom:latitude":13.050529,
+    "geom:longitude":77.542229,
+    "iso:country":"IN",
+    "sg:address":"C-01/c-02, Hmt Industrial Estate, Hmt Post,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Dive Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2838 2446",
+    "sg:postcode":"560031",
+    "sg:tags":[
+        "shaft",
+        "bright",
+        "collar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903877,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HKgchqKxTx9EF2RnYkd7D_13.050529_77.542229@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5e2d76e4f83bf7bb2dbdb5fa8350f292",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903877,
+            "region_id":85672165,
+            "venue_id":169540057
+        }
+    ],
+    "wof:id":169540057,
+    "wof:lastmodified":1449033975,
+    "wof:name":"Vishnu Forge Industries Ltd.",
+    "wof:parent_id":85903877,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shaft",
+        "bright",
+        "collar"
+    ]
+},
+  "bbox": [77.542229,13.050529,77.542229,13.050529],
+  "geometry": {"coordinates":[77.542229,13.050529],"type":"Point"}
+}

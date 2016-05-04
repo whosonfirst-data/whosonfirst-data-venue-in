@@ -1,0 +1,67 @@
+{
+  "id": 169537111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.604172,12.960987,77.604172,12.960987",
+    "geom:latitude":12.960987,
+    "geom:longitude":77.604172,
+    "iso:country":"IN",
+    "sg:address":"10/3, Alfred Street, Richmond Town,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2570 1990",
+    "sg:postcode":"560025",
+    "sg:tags":[
+        "precious",
+        "stone",
+        "semi"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930939,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mb9uLOYdBE72PxqnpVqlH_12.960987_77.604172@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3b1a71bf874763edb3c95bdfae372c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930939,
+            "region_id":85672165,
+            "venue_id":169537111
+        }
+    ],
+    "wof:id":169537111,
+    "wof:lastmodified":1449033500,
+    "wof:name":"Green Diamond Exports",
+    "wof:parent_id":85930939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "precious",
+        "stone",
+        "semi"
+    ]
+},
+  "bbox": [77.604172,12.960987,77.604172,12.960987],
+  "geometry": {"coordinates":[77.604172,12.960987],"type":"Point"}
+}

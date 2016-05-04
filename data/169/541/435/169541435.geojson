@@ -1,0 +1,62 @@
+{
+  "id": 169541435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"79.514671,18.769482,79.514671,18.769482",
+    "geom:latitude":18.769482,
+    "geom:longitude":79.514671,
+    "iso:country":"IN",
+    "sg:address":"Ganganagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2345 6123",
+    "sg:postcode":"560024",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031195,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZQzkEOhd7UjzQXxGhgDLW_18.769482_79.514671@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"021367282ace6125ae97ce3a00a646ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031195,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169541435
+        }
+    ],
+    "wof:id":169541435,
+    "wof:lastmodified":1449033044,
+    "wof:name":"Bka Software",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [79.514671,18.769482,79.514671,18.769482],
+  "geometry": {"coordinates":[79.514671,18.769482],"type":"Point"}
+}

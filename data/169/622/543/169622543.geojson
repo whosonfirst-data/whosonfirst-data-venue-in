@@ -1,0 +1,64 @@
+{
+  "id": 169622543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.271912,28.531528,77.271912,28.531528",
+    "geom:latitude":28.531528,
+    "geom:longitude":77.271912,
+    "iso:country":"IN",
+    "sg:address":"A-11, D.d.a. Sheds, Okhla Phase-ii",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2638 8119",
+    "sg:postcode":"110020",
+    "sg:tags":[
+        "dye"
+    ],
+    "sg:website":"http://www.sltextiles.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927991,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VirLB3u3Qp6ua6qGY70DP_28.531528_77.271912@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"60a02d034f33719a2cc38e992920abe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927991,
+            "region_id":85672123,
+            "venue_id":169622543
+        }
+    ],
+    "wof:id":169622543,
+    "wof:lastmodified":1449035365,
+    "wof:name":"Shri Lakshmi Textiles",
+    "wof:parent_id":85927991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye"
+    ]
+},
+  "bbox": [77.271912,28.531528,77.271912,28.531528],
+  "geometry": {"coordinates":[77.271912,28.531528],"type":"Point"}
+}

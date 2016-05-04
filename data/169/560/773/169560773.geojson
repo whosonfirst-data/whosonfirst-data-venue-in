@@ -1,0 +1,63 @@
+{
+  "id": 169560773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.269096,28.56741,77.269096,28.56741",
+    "geom:latitude":28.56741,
+    "geom:longitude":77.269096,
+    "iso:country":"IN",
+    "sg:address":"E/4, Kalindi Colony, C.v. Raman Marg,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2684 8250",
+    "sg:postcode":"110065",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928007,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gaP6UonUL7CQ6tYkpMtfw_28.567410_77.269096@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d2619a8081a2e77d0ae22834b7108a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928007,
+            "region_id":85672123,
+            "venue_id":169560773
+        }
+    ],
+    "wof:id":169560773,
+    "wof:lastmodified":1449035179,
+    "wof:name":"Dynamic Marketing Networks",
+    "wof:parent_id":85928007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [77.269096,28.56741,77.269096,28.56741],
+  "geometry": {"coordinates":[77.269096,28.56741],"type":"Point"}
+}

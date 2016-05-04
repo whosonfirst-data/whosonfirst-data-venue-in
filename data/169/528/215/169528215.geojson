@@ -1,0 +1,65 @@
+{
+  "id": 169528215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.836845,19.12743,72.836845,19.12743",
+    "geom:latitude":19.12743,
+    "geom:longitude":72.836845,
+    "iso:country":"IN",
+    "sg:address":"35/593, Azad Nagar, Veera Desai Road, Andheri (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2631 3893",
+    "sg:postcode":"400053",
+    "sg:tags":[
+        "tile",
+        "brick"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931475,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21087qJepEtt84FABnUgIA_19.127430_72.836845@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f9f5bd0dcd7254c5efe2242982334f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931475,
+            "region_id":85672171,
+            "venue_id":169528215
+        }
+    ],
+    "wof:id":169528215,
+    "wof:lastmodified":1449033570,
+    "wof:name":"Vipurva Pavers & Tiles",
+    "wof:parent_id":85931475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "brick"
+    ]
+},
+  "bbox": [72.836845,19.12743,72.836845,19.12743],
+  "geometry": {"coordinates":[72.836845,19.12743],"type":"Point"}
+}

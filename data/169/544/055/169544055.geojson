@@ -1,0 +1,66 @@
+{
+  "id": 169544055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.541245,13.034839,77.541245,13.034839",
+    "geom:latitude":13.034839,
+    "geom:longitude":77.541245,
+    "iso:country":"IN",
+    "sg:address":"M.e.s. Road, Jalahalli P.o.,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2345 4299",
+    "sg:postcode":"560013",
+    "sg:tags":[
+        "ups",
+        "power"
+    ],
+    "sg:website":"http://www.heatconsensors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930975,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kWezLWKvDTdAzeY5HtP3d_13.034839_77.541245@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2b96ecbbefa28b4fcf972c5f69dcf8ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930975,
+            "region_id":85672165,
+            "venue_id":169544055
+        }
+    ],
+    "wof:id":169544055,
+    "wof:lastmodified":1449035963,
+    "wof:name":"Heatcon Sensors (p) Ltd.",
+    "wof:parent_id":85930975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ups",
+        "power"
+    ]
+},
+  "bbox": [77.541245,13.034839,77.541245,13.034839],
+  "geometry": {"coordinates":[77.541245,13.034839],"type":"Point"}
+}

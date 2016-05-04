@@ -1,0 +1,62 @@
+{
+  "id": 169596725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.139168,28.749847,77.139168,28.749847",
+    "geom:latitude":28.749847,
+    "geom:longitude":77.139168,
+    "iso:country":"IN",
+    "sg:address":"D-39a, Yadav Nagar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110042",
+    "sg:tags":[
+        "silica",
+        "gel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nUGHfRMP1zG01YtiojTbJ_28.749847_77.139168@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0315846f38c72e44caa96ef726f9b43a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169596725
+        }
+    ],
+    "wof:id":169596725,
+    "wof:lastmodified":1449034372,
+    "wof:name":"Organic Chemicals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silica",
+        "gel"
+    ]
+},
+  "bbox": [77.139168,28.749847,77.139168,28.749847],
+  "geometry": {"coordinates":[77.139168,28.749847],"type":"Point"}
+}

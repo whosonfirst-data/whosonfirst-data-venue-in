@@ -1,0 +1,61 @@
+{
+  "id": 169560915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.269279,12.996187,80.269279,12.996187",
+    "geom:latitude":12.996187,
+    "geom:longitude":80.269279,
+    "iso:country":"IN",
+    "sg:address":"10, 16th Cross Street, Besant Nagar,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2446 4528",
+    "sg:postcode":"600090",
+    "sg:tags":[
+        "sulphur"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931669,
+        102029537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QCC6AyCXVOkeMSMZWTAuq_12.996187_80.269279@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"00c207712f5db0804df532f44d9aeba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102029537,
+            "neighbourhood_id":85931669,
+            "region_id":-1,
+            "venue_id":169560915
+        }
+    ],
+    "wof:id":169560915,
+    "wof:lastmodified":1449035181,
+    "wof:name":"Edenglows",
+    "wof:parent_id":85931669,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sulphur"
+    ]
+},
+  "bbox": [80.269279,12.996187,80.269279,12.996187],
+  "geometry": {"coordinates":[80.269279,12.996187],"type":"Point"}
+}

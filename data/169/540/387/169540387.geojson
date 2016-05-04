@@ -1,0 +1,63 @@
+{
+  "id": 169540387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.549278,12.958491,77.549278,12.958491",
+    "geom:latitude":12.958491,
+    "geom:longitude":77.549278,
+    "iso:country":"IN",
+    "sg:address":"No. 2/5, 6th Cross, Mysore Road, Old Guddahalli,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2674 3862",
+    "sg:postcode":"560026",
+    "sg:tags":[
+        "short"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MJ6W88u87tYGmr3Se9yyG_12.958491_77.549278@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"955de2f9d532c9c17e7d15a49d341670",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169540387
+        }
+    ],
+    "wof:id":169540387,
+    "wof:lastmodified":1449033977,
+    "wof:name":"Vigosa Exports",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "short"
+    ]
+},
+  "bbox": [77.549278,12.958491,77.549278,12.958491],
+  "geometry": {"coordinates":[77.549278,12.958491],"type":"Point"}
+}

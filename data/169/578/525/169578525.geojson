@@ -1,0 +1,62 @@
+{
+  "id": 169578525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.074432,28.591736,77.074432,28.591736",
+    "geom:latitude":28.591736,
+    "geom:longitude":77.074432,
+    "iso:country":"IN",
+    "sg:address":"944, Sector-7 Extension,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"122001",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927879,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SDOv1hxAoI9kCo0NITzMl_28.591736_77.074432@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"738539741974faa34bc253f49375f753",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927879,
+            "region_id":85672123,
+            "venue_id":169578525
+        }
+    ],
+    "wof:id":169578525,
+    "wof:lastmodified":1449033521,
+    "wof:name":"Harry Rubber Indus",
+    "wof:parent_id":85927879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.074432,28.591736,77.074432,28.591736],
+  "geometry": {"coordinates":[77.074432,28.591736],"type":"Point"}
+}

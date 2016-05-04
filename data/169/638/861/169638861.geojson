@@ -1,0 +1,63 @@
+{
+  "id": 169638861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.961143,19.174145,72.961143,19.174145",
+    "geom:latitude":19.174145,
+    "geom:longitude":72.961143,
+    "iso:country":"IN",
+    "sg:address":"D-28, Palm Acres, Mulund_east,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2568 0949",
+    "sg:postcode":"400081",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931655,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_097bPs7fmcV6AH4pAWIYY8_19.174145_72.961143@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bf3d78c288fa84966c38459beeab0c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931655,
+            "region_id":85672171,
+            "venue_id":169638861
+        }
+    ],
+    "wof:id":169638861,
+    "wof:lastmodified":1449032871,
+    "wof:name":"Unik Enterprises",
+    "wof:parent_id":85931655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [72.961143,19.174145,72.961143,19.174145],
+  "geometry": {"coordinates":[72.961143,19.174145],"type":"Point"}
+}

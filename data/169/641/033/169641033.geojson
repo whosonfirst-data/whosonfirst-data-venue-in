@@ -1,0 +1,63 @@
+{
+  "id": 169641033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.242409,28.642303,77.242409,28.642303",
+    "geom:latitude":28.642303,
+    "geom:longitude":77.242409,
+    "iso:country":"IN",
+    "sg:address":"4805/24, Bharat Ram Road, Daryaganj,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2328 9897",
+    "sg:postcode":"110002",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903843,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lgVDSZpkGHqkdcfIz1XV6_28.642303_77.242409@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"74d668cc6f0cdf5b94027255fec1304b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85903843,
+            "region_id":85672123,
+            "venue_id":169641033
+        }
+    ],
+    "wof:id":169641033,
+    "wof:lastmodified":1449035169,
+    "wof:name":"Vaishali Export Interworld",
+    "wof:parent_id":85903843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.242409,28.642303,77.242409,28.642303],
+  "geometry": {"coordinates":[77.242409,28.642303],"type":"Point"}
+}

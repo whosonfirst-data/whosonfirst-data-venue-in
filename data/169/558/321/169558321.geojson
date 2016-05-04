@@ -1,0 +1,53 @@
+{
+  "id": 169558321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.289635,28.532372,77.289635,28.532372",
+    "geom:latitude":28.532372,
+    "geom:longitude":77.289635,
+    "iso:country":"IN",
+    "sg:address":"Commercial Complex",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2570 1678",
+    "sg:postcode":"110008",
+    "sg:province":"Delhi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928199,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ICF0nO00iArlsv83Ab9lL_28.532372_77.289635@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ed449d43446660c39112cc62256eb681",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928199,
+            "region_id":85672123,
+            "venue_id":169558321
+        }
+    ],
+    "wof:id":169558321,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Trans Air Logicstics Services",
+    "wof:parent_id":85928199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.289635,28.532372,77.289635,28.532372],
+  "geometry": {"coordinates":[77.289635,28.532372],"type":"Point"}
+}

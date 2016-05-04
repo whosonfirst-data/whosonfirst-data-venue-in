@@ -1,0 +1,63 @@
+{
+  "id": 169644391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.16877,28.698965,77.16877,28.698965",
+    "geom:latitude":28.698965,
+    "geom:longitude":77.16877,
+    "iso:country":"IN",
+    "sg:address":"194, Udyog Vihar, Phase-iv,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 234 0348",
+    "sg:postcode":"122015",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928079,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3opOo1GnC0YY9GiO7myoEe_28.698965_77.168770@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"887add249b4abca7fd789199d6816db4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928079,
+            "region_id":85672123,
+            "venue_id":169644391
+        }
+    ],
+    "wof:id":169644391,
+    "wof:lastmodified":1449034576,
+    "wof:name":"Vintex Rubber Industries",
+    "wof:parent_id":85928079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.16877,28.698965,77.16877,28.698965],
+  "geometry": {"coordinates":[77.16877,28.698965],"type":"Point"}
+}

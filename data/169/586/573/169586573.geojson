@@ -1,0 +1,62 @@
+{
+  "id": 169586573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.356056,22.524797,88.356056,22.524797",
+    "geom:latitude":22.524797,
+    "geom:longitude":88.356056,
+    "iso:country":"IN",
+    "sg:address":"27, Hazra Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"700020",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931939,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_213YNeX12CNpwuzZeDefPB_22.524797_88.356056@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b7d768750996d16a161b02ae0b45789e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931939,
+            "region_id":85672219,
+            "venue_id":169586573
+        }
+    ],
+    "wof:id":169586573,
+    "wof:lastmodified":1449035576,
+    "wof:name":"Mala Homes Pvt. Ltd.",
+    "wof:parent_id":85931939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [88.356056,22.524797,88.356056,22.524797],
+  "geometry": {"coordinates":[88.356056,22.524797],"type":"Point"}
+}

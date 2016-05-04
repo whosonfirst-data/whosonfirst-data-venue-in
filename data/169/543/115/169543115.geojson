@@ -1,0 +1,66 @@
+{
+  "id": 169543115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.555138,13.04901,77.555138,13.04901",
+    "geom:latitude":13.04901,
+    "geom:longitude":77.555138,
+    "iso:country":"IN",
+    "sg:address":"B-13, Bel Industrial Estate, Jalahalli,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Tunnel",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2345 1848",
+    "sg:postcode":"560013",
+    "sg:tags":[
+        "tarpaulin",
+        "tent"
+    ],
+    "sg:website":"http://www.polyvynideproducts.trade-india.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903877,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6chO2c264KC7jPUKYduMpX_13.049010_77.555138@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c6450390fbc65d1ef8c9c4038dfd121c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903877,
+            "region_id":85672165,
+            "venue_id":169543115
+        }
+    ],
+    "wof:id":169543115,
+    "wof:lastmodified":1449033334,
+    "wof:name":"Polyvynide Products Company Pvt. Ltd.",
+    "wof:parent_id":85903877,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tarpaulin",
+        "tent"
+    ]
+},
+  "bbox": [77.555138,13.04901,77.555138,13.04901],
+  "geometry": {"coordinates":[77.555138,13.04901],"type":"Point"}
+}

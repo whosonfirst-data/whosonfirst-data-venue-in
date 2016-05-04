@@ -1,0 +1,74 @@
+{
+  "id": 169537639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.582703,12.951085,77.582703,12.951085",
+    "geom:latitude":12.951085,
+    "geom:longitude":77.582703,
+    "iso:country":"IN",
+    "sg:address":"11/1-38, Krumbiegal Road, Mavalli,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2657 4194",
+    "sg:postcode":"560004",
+    "sg:tags":[
+        "component",
+        "pressed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165,
+        85930971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iHILF0XLcPveNHeO43mw1_12.951085_77.582703@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2e83748fa0f5a60879c4bf14e97f7c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169537639
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930971,
+            "region_id":85672165,
+            "venue_id":169537639
+        }
+    ],
+    "wof:id":169537639,
+    "wof:lastmodified":1449033501,
+    "wof:name":"Daroga Group",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "pressed"
+    ]
+},
+  "bbox": [77.582703,12.951085,77.582703,12.951085],
+  "geometry": {"coordinates":[77.582703,12.951085],"type":"Point"}
+}

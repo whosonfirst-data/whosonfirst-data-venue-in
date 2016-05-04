@@ -1,0 +1,63 @@
+{
+  "id": 169619457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.203079,28.658995,77.203079,28.658995",
+    "geom:latitude":28.658995,
+    "geom:longitude":77.203079,
+    "iso:country":"IN",
+    "sg:address":"49, 1st Floor, Rani Jhansi Raod,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2355 9536",
+    "sg:postcode":"110055",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903953,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s2QIY2usgXQnamipsbmAx_28.658995_77.203079@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"29afd641a84709a068232e2fdd9417e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85903953,
+            "region_id":85672123,
+            "venue_id":169619457
+        }
+    ],
+    "wof:id":169619457,
+    "wof:lastmodified":1449033282,
+    "wof:name":"Shikhar Enterprises",
+    "wof:parent_id":85903953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [77.203079,28.658995,77.203079,28.658995],
+  "geometry": {"coordinates":[77.203079,28.658995],"type":"Point"}
+}

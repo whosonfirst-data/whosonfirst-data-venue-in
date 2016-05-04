@@ -1,0 +1,63 @@
+{
+  "id": 169532215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.876656,19.123783,72.876656,19.123783",
+    "geom:latitude":19.123783,
+    "geom:longitude":72.876656,
+    "iso:country":"IN",
+    "sg:address":"W.i.c.e.l., E-4, Plot No. 15, 1st Floor, Opp. Seepz, M.i.d.c., Andheri (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2838 4021",
+    "sg:postcode":"400093",
+    "sg:tags":[
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w4T1G5413YQevclJucZU9_19.123783_72.876656@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9127d664afe782a7cc2f99801f82fb44",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169532215
+        }
+    ],
+    "wof:id":169532215,
+    "wof:lastmodified":1449033795,
+    "wof:name":"Rst Jewels Pvt. Ltd.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.876656,19.123783,72.876656,19.123783],
+  "geometry": {"coordinates":[72.876656,19.123783],"type":"Point"}
+}

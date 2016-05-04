@@ -1,0 +1,64 @@
+{
+  "id": 169549165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.24752,28.542105,77.24752,28.542105",
+    "geom:latitude":28.542105,
+    "geom:longitude":77.24752,
+    "iso:country":"IN",
+    "sg:address":"Lake Place Road, Rangniwas Police Choki, Near Arya Samaj Mandir,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 242 3279",
+    "sg:postcode":"313003",
+    "sg:tags":[
+        "handicraft"
+    ],
+    "sg:website":"http://www.webindiasearch.com/sanskriti.asp",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928369,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YeErQ9xSqHYcVrARkgBji_28.542105_77.247520@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"10342e5685402cf4387242fa3e11061e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928369,
+            "region_id":85672123,
+            "venue_id":169549165
+        }
+    ],
+    "wof:id":169549165,
+    "wof:lastmodified":1449033596,
+    "wof:name":"Sanskriti",
+    "wof:parent_id":85928369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handicraft"
+    ]
+},
+  "bbox": [77.24752,28.542105,77.24752,28.542105],
+  "geometry": {"coordinates":[77.24752,28.542105],"type":"Point"}
+}

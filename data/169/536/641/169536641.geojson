@@ -1,0 +1,63 @@
+{
+  "id": 169536641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.621147,13.008491,77.621147,13.008491",
+    "geom:latitude":13.008491,
+    "geom:longitude":77.621147,
+    "iso:country":"IN",
+    "sg:address":"No. 6/1, 9th Cross, N. R. Colony,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2677 0163",
+    "sg:postcode":"560019",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930863,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hLwbRpxnB6iJ9h38I9bsk_13.008491_77.621147@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f102c8c697ad88c5aa6c9944f4d89b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930863,
+            "region_id":85672165,
+            "venue_id":169536641
+        }
+    ],
+    "wof:id":169536641,
+    "wof:lastmodified":1449034660,
+    "wof:name":"Utkarsh Plastics",
+    "wof:parent_id":85930863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.621147,13.008491,77.621147,13.008491],
+  "geometry": {"coordinates":[77.621147,13.008491],"type":"Point"}
+}

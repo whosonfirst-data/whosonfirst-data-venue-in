@@ -1,0 +1,54 @@
+{
+  "id": 169573169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.619965,12.935216,77.619965,12.935216",
+    "geom:latitude":12.935216,
+    "geom:longitude":77.619965,
+    "iso:country":"IN",
+    "sg:address":"5th Block, Koramangala",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 805521358",
+    "sg:postcode":"560095",
+    "sg:province":"Karnataka",
+    "sg:website":"http://www.sterlingandwilson.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930917,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21GjNPDt0SbmP3tYwRX4Fs_12.935216_77.619965@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ce1f6d312ac76eeb635fc8db3dc244e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930917,
+            "region_id":85672165,
+            "venue_id":169573169
+        }
+    ],
+    "wof:id":169573169,
+    "wof:lastmodified":1449035115,
+    "wof:name":"Sterling & Wilson Electricals (p) Ltd",
+    "wof:parent_id":85930917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.619965,12.935216,77.619965,12.935216],
+  "geometry": {"coordinates":[77.619965,12.935216],"type":"Point"}
+}

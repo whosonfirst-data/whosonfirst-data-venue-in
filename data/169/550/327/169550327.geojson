@@ -1,0 +1,62 @@
+{
+  "id": 169550327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.343567,28.67585,77.343567,28.67585",
+    "geom:latitude":28.67585,
+    "geom:longitude":77.343567,
+    "iso:country":"IN",
+    "sg:address":"D-11, Site-1, Industrial Area,",
+    "sg:city":"Unnao",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Leather Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 512 246 0694",
+    "sg:postcode":"208010",
+    "sg:tags":[
+        "finished"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tYVttnqOZlCLD07o8k5fF_28.675850_77.343567@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7beb945f73b3e447f93fb82036038523",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169550327
+        }
+    ],
+    "wof:id":169550327,
+    "wof:lastmodified":1449034476,
+    "wof:name":"Inyati Footwears Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finished"
+    ]
+},
+  "bbox": [77.343567,28.67585,77.343567,28.67585],
+  "geometry": {"coordinates":[77.343567,28.67585],"type":"Point"}
+}

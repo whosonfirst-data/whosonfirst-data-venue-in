@@ -1,0 +1,62 @@
+{
+  "id": 169652617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.458903,23.27711,77.458903,23.27711",
+    "geom:latitude":23.27711,
+    "geom:longitude":77.458903,
+    "iso:country":"IN",
+    "sg:address":"Bhopal Bhopal",
+    "sg:city":"Bhopal",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"462021",
+    "sg:tags":[
+        "web-development-company"
+    ],
+    "sg:website":"http://www.hariomtechnologies.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030673,
+        85672239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FxjQAWLNsR9oqAWvIESHV_23.277110_77.458903@1308163241"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4dcc470229f8fb43190c0d2e96bc9ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030673,
+            "neighbourhood_id":-1,
+            "region_id":85672239,
+            "venue_id":169652617
+        }
+    ],
+    "wof:id":169652617,
+    "wof:lastmodified":1449034806,
+    "wof:name":"HariOmTechnologies",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web-development-company"
+    ]
+},
+  "bbox": [77.458903,23.27711,77.458903,23.27711],
+  "geometry": {"coordinates":[77.458903,23.27711],"type":"Point"}
+}

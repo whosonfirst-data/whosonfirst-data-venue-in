@@ -1,0 +1,53 @@
+{
+  "id": 169569863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.258713,13.067673,80.258713,13.067673",
+    "geom:latitude":13.067673,
+    "geom:longitude":80.258713,
+    "iso:country":"IN",
+    "sg:address":"Montieth Road, Egmore",
+    "sg:city":"Chennai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2855 3040",
+    "sg:postcode":"600008",
+    "sg:province":"Tamil Nadu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903849,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0niqUUBMpTMer6We8kh1NL_13.067673_80.258713@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"def3bb87659ccaf59db15f2c66a34999",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903849,
+            "region_id":85672245,
+            "venue_id":169569863
+        }
+    ],
+    "wof:id":169569863,
+    "wof:lastmodified":1449035831,
+    "wof:name":"Tebma Shipyards Ltd",
+    "wof:parent_id":85903849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.258713,13.067673,80.258713,13.067673],
+  "geometry": {"coordinates":[80.258713,13.067673],"type":"Point"}
+}

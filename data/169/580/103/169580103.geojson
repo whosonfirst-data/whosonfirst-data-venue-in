@@ -1,0 +1,62 @@
+{
+  "id": 169580103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.732208,30.699339,76.732208,30.699339",
+    "geom:latitude":30.699339,
+    "geom:longitude":76.732208,
+    "iso:country":"IN",
+    "sg:address":"E-82, Industrial Area, Phase-viii, S.a.s. Nagar,",
+    "sg:city":"Mohali",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 172 554 1212",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927783,
+        85632469,
+        102031103,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oRnoBcU6dXVbNRU6TtZse_30.699339_76.732208@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0f5e0fe8261b00a9eb3673defef3faea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031103,
+            "neighbourhood_id":85927783,
+            "region_id":85672195,
+            "venue_id":169580103
+        }
+    ],
+    "wof:id":169580103,
+    "wof:lastmodified":1449034914,
+    "wof:name":"Ishar Industries",
+    "wof:parent_id":85927783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [76.732208,30.699339,76.732208,30.699339],
+  "geometry": {"coordinates":[76.732208,30.699339],"type":"Point"}
+}

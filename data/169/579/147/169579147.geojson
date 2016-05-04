@@ -1,0 +1,68 @@
+{
+  "id": 169579147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.103325,28.626047,77.103325,28.626047",
+    "geom:latitude":28.626047,
+    "geom:longitude":77.103325,
+    "iso:country":"IN",
+    "sg:address":"10, Community Centre, Mayapuri Phase-1,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2638 9968",
+    "sg:postcode":"110064",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "sg:website":"http://www.howardindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928577,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sRN5OJbYhWSTBUCX7Qjwc_28.626047_77.103325@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"073ad1500adb7989fecf8d3635f2a9ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928577,
+            "region_id":85672123,
+            "venue_id":169579147
+        }
+    ],
+    "wof:id":169579147,
+    "wof:lastmodified":1449033743,
+    "wof:name":"Howard",
+    "wof:parent_id":85928577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.103325,28.626047,77.103325,28.626047],
+  "geometry": {"coordinates":[77.103325,28.626047],"type":"Point"}
+}

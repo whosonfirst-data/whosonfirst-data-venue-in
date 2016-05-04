@@ -1,0 +1,63 @@
+{
+  "id": 169576997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.124069,28.670321,77.124069,28.670321",
+    "geom:latitude":28.670321,
+    "geom:longitude":77.124069,
+    "iso:country":"IN",
+    "sg:address":"G.n. House, 36/55, West Punjabi Bagh,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2704 5600",
+    "sg:postcode":"110026",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928591,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZusNLbhM6wjqgJy0SV6qT_28.670321_77.124069@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"048d1421341c221bc8941c05c5256b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928591,
+            "region_id":85672123,
+            "venue_id":169576997
+        }
+    ],
+    "wof:id":169576997,
+    "wof:lastmodified":1449035197,
+    "wof:name":"G. N. Overseas",
+    "wof:parent_id":85928591,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.124069,28.670321,77.124069,28.670321],
+  "geometry": {"coordinates":[77.124069,28.670321],"type":"Point"}
+}

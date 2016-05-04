@@ -1,0 +1,63 @@
+{
+  "id": 169542647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.641029,13.036842,77.641029,13.036842",
+    "geom:latitude":13.036842,
+    "geom:longitude":77.641029,
+    "iso:country":"IN",
+    "sg:address":"No. 11/2 B Opp Hennur Bande, Hennur Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Bus Station",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2544 0855",
+    "sg:postcode":"560043",
+    "sg:tags":[
+        "switch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931099,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QW9rHP7jgqcT4jBQB0XhD_13.036842_77.641029@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e019f5d1dbcdf14b0759fd0f74325220",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931099,
+            "region_id":85672165,
+            "venue_id":169542647
+        }
+    ],
+    "wof:id":169542647,
+    "wof:lastmodified":1449035220,
+    "wof:name":"Mani Enterprises",
+    "wof:parent_id":85931099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "switch"
+    ]
+},
+  "bbox": [77.641029,13.036842,77.641029,13.036842],
+  "geometry": {"coordinates":[77.641029,13.036842],"type":"Point"}
+}

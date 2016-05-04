@@ -1,0 +1,67 @@
+{
+  "id": 169526987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.830208,18.959145,72.830208,18.959145",
+    "geom:latitude":18.959145,
+    "geom:longitude":72.830208,
+    "iso:country":"IN",
+    "sg:address":"42, Gujar Street,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2346 6633",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "bag",
+        "-"
+    ],
+    "sg:website":"http://www.rasulbhaiadamji.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uzA6BLo852b6RkAHUfCAz_18.959145_72.830208@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"52b9faebd7b03c3a4a9700a6dc98597a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903863,
+            "region_id":85672171,
+            "venue_id":169526987
+        }
+    ],
+    "wof:id":169526987,
+    "wof:lastmodified":1449033699,
+    "wof:name":"Rasulbhai Adamji & Sons",
+    "wof:parent_id":85903863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag",
+        "-"
+    ]
+},
+  "bbox": [72.830208,18.959145,72.830208,18.959145],
+  "geometry": {"coordinates":[72.830208,18.959145],"type":"Point"}
+}

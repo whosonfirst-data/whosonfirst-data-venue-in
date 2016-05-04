@@ -1,0 +1,65 @@
+{
+  "id": 169535625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.928932,19.135406,72.928932,19.135406",
+    "geom:latitude":19.135406,
+    "geom:longitude":72.928932,
+    "iso:country":"IN",
+    "sg:address":"Lal Bahadur Shastri Marg, Bhandup,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2578 4331",
+    "sg:postcode":"400078",
+    "sg:tags":[
+        "equipment",
+        "good"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931633,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KTTS5ustHtTWPQsqzPZom_19.135406_72.928932@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7be5845a61bad5b8872d74e83c18d86b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931633,
+            "region_id":85672171,
+            "venue_id":169535625
+        }
+    ],
+    "wof:id":169535625,
+    "wof:lastmodified":1449033289,
+    "wof:name":"The Indian Smelting & Refining Co. Limited",
+    "wof:parent_id":85931633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "good"
+    ]
+},
+  "bbox": [72.928932,19.135406,72.928932,19.135406],
+  "geometry": {"coordinates":[72.928932,19.135406],"type":"Point"}
+}

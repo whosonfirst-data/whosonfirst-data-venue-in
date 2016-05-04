@@ -1,0 +1,66 @@
+{
+  "id": 169531251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.836563,18.956739,72.836563,18.956739",
+    "geom:latitude":18.956739,
+    "geom:longitude":72.836563,
+    "iso:country":"IN",
+    "sg:address":"78, Hazarat Abbas Street, Dongri,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Hair Removal",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2343 5563",
+    "sg:postcode":"400009",
+    "sg:tags":[
+        "cosmetic",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6z6kSeKauZXabeZV0EP4ws_18.956739_72.836563@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4dc1a29ea5c3817312618134aadc74ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903863,
+            "region_id":85672171,
+            "venue_id":169531251
+        }
+    ],
+    "wof:id":169531251,
+    "wof:lastmodified":1449033473,
+    "wof:name":"Datu Manji Padamshi Surmawala",
+    "wof:parent_id":85903863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "accessory"
+    ]
+},
+  "bbox": [72.836563,18.956739,72.836563,18.956739],
+  "geometry": {"coordinates":[72.836563,18.956739],"type":"Point"}
+}

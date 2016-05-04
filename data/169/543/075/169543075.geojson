@@ -1,0 +1,65 @@
+{
+  "id": 169543075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.644806,12.968687,77.644806,12.968687",
+    "geom:latitude":12.968687,
+    "geom:longitude":77.644806,
+    "iso:country":"IN",
+    "sg:address":"169/a, 1st Floor, 13th Main, Hal 2nd Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4125 5556",
+    "sg:postcode":"560008",
+    "sg:tags":[
+        "video",
+        "telephones"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QzvnUjXZMllr9eYuJQQ1u_12.968687_77.644806@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5f6adae735e5eb3cd98061909e87b684",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169543075
+        }
+    ],
+    "wof:id":169543075,
+    "wof:lastmodified":1449033334,
+    "wof:name":"Total Solution Inc.",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "telephones"
+    ]
+},
+  "bbox": [77.644806,12.968687,77.644806,12.968687],
+  "geometry": {"coordinates":[77.644806,12.968687],"type":"Point"}
+}

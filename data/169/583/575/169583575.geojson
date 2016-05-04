@@ -1,0 +1,61 @@
+{
+  "id": 169583575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.780029,26.962561,75.780029,26.962561",
+    "geom:latitude":26.962561,
+    "geom:longitude":75.780029,
+    "iso:country":"IN",
+    "sg:address":"220, Unnati Tower, Central Spine Vidyadhar Nagar,",
+    "sg:city":"Jaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 141 286 4121",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030017,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HL5r1p8d3GhzdHnOyohjz_26.962561_75.780029@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b364ed56799b7bac10671122f920a9a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030017,
+            "neighbourhood_id":-1,
+            "region_id":85672201,
+            "venue_id":169583575
+        }
+    ],
+    "wof:id":169583575,
+    "wof:lastmodified":1449035266,
+    "wof:name":"Krishi Chemicals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.780029,26.962561,75.780029,26.962561],
+  "geometry": {"coordinates":[75.780029,26.962561],"type":"Point"}
+}

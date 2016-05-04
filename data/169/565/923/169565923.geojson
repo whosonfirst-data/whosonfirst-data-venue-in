@@ -1,0 +1,53 @@
+{
+  "id": 169565923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.656998,12.968318,77.656998,12.968318",
+    "geom:latitude":12.968318,
+    "geom:longitude":77.656998,
+    "iso:country":"IN",
+    "sg:address":"Hal 3rd Stage",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 805295412",
+    "sg:postcode":"560075",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931035,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4agFCS1xxENcT8pUZa64TM_12.968318_77.656998@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"19ef1441799e3591d1fda17b61b05fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931035,
+            "region_id":85672165,
+            "venue_id":169565923
+        }
+    ],
+    "wof:id":169565923,
+    "wof:lastmodified":1449035669,
+    "wof:name":"Veeyes Electronics Pvt Ltd",
+    "wof:parent_id":85931035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.656998,12.968318,77.656998,12.968318],
+  "geometry": {"coordinates":[77.656998,12.968318],"type":"Point"}
+}

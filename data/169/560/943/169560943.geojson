@@ -1,0 +1,63 @@
+{
+  "id": 169560943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.199249,13.107629,80.199249,13.107629",
+    "geom:latitude":13.107629,
+    "geom:longitude":80.199249,
+    "iso:country":"IN",
+    "sg:address":"394, Sidco Industrial Estate, Ambattur,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2624 5619",
+    "sg:postcode":"600098",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903945,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RQgfEtyVJL4wmhka4TmGu_13.107629_80.199249@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2c646a5bbcbceb941d68bfa4aca4fc7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903945,
+            "region_id":85672245,
+            "venue_id":169560943
+        }
+    ],
+    "wof:id":169560943,
+    "wof:lastmodified":1449035179,
+    "wof:name":"Elastomer Auto Products",
+    "wof:parent_id":85903945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [80.199249,13.107629,80.199249,13.107629],
+  "geometry": {"coordinates":[80.199249,13.107629],"type":"Point"}
+}

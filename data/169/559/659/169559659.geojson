@@ -1,0 +1,62 @@
+{
+  "id": 169559659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.52253,13.030821,77.52253,13.030821",
+    "geom:latitude":13.030821,
+    "geom:longitude":77.52253,
+    "iso:country":"IN",
+    "sg:address":"A-27, Iii Stage, Peenya Industrial Area,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2836 1453",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "polymer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bSzBbBGLi7BuuMS4jfgoL_13.030821_77.522530@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9a4d5b960e6dd8d9ce33dddb81488f8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169559659
+        }
+    ],
+    "wof:id":169559659,
+    "wof:lastmodified":1449035236,
+    "wof:name":"Concord Tools Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [77.52253,13.030821,77.52253,13.030821],
+  "geometry": {"coordinates":[77.52253,13.030821],"type":"Point"}
+}

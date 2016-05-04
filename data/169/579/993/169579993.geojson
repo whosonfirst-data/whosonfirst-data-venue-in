@@ -1,0 +1,73 @@
+{
+  "id": 169579993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.233574,28.63575,77.233574,28.63575",
+    "geom:latitude":28.63575,
+    "geom:longitude":77.233574,
+    "iso:country":"IN",
+    "sg:address":"22, Rose Avenue,",
+    "sg:city":"Amritsar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 183 222 6824",
+    "sg:postcode":"143001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903833,
+        85632469,
+        102029189,
+        85672123,
+        85928017,
+        102030425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lyb0NssBa1GZAAe1l7PCq_28.635750_77.233574@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4296deaf116a27521a3b63b1d66f7104",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903833,
+            "region_id":85672123,
+            "venue_id":169579993
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928017,
+            "region_id":85672123,
+            "venue_id":169579993
+        }
+    ],
+    "wof:id":169579993,
+    "wof:lastmodified":1449033740,
+    "wof:name":"International Chemical Corporation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.233574,28.63575,77.233574,28.63575],
+  "geometry": {"coordinates":[77.233574,28.63575],"type":"Point"}
+}

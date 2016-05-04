@@ -1,0 +1,65 @@
+{
+  "id": 169593261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831161,19.069754,72.831161,19.069754",
+    "geom:latitude":19.069754,
+    "geom:longitude":72.831161,
+    "iso:country":"IN",
+    "sg:address":"C80 & 81, 16th Cross, M.i.e.,",
+    "sg:city":"Pondicherry",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 413 227 1688",
+    "sg:postcode":"605009",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931493,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10HYNDHDDHPzzXHuOlmpzW_19.069754_72.831161@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6583f49fdf671d459c86b31009f624f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931493,
+            "region_id":85672171,
+            "venue_id":169593261
+        }
+    ],
+    "wof:id":169593261,
+    "wof:lastmodified":1449034875,
+    "wof:name":"Navrang Industrial Corporation",
+    "wof:parent_id":85931493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [72.831161,19.069754,72.831161,19.069754],
+  "geometry": {"coordinates":[72.831161,19.069754],"type":"Point"}
+}

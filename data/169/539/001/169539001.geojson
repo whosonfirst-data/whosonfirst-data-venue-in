@@ -1,0 +1,63 @@
+{
+  "id": 169539001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.566315,13.007462,77.566315,13.007462",
+    "geom:latitude":13.007462,
+    "geom:longitude":77.566315,
+    "iso:country":"IN",
+    "sg:address":"#14, 17th Cross, Malleswaram,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2334 4115",
+    "sg:postcode":"560055",
+    "sg:tags":[
+        "rice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K5yH7S4IZZtSG9uexUJxP_13.007462_77.566315@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c32b617dcf40821be411ea1d78e43527",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169539001
+        }
+    ],
+    "wof:id":169539001,
+    "wof:lastmodified":1449036038,
+    "wof:name":"Mandi Foods Pvt. Ltd.",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rice"
+    ]
+},
+  "bbox": [77.566315,13.007462,77.566315,13.007462],
+  "geometry": {"coordinates":[77.566315,13.007462],"type":"Point"}
+}

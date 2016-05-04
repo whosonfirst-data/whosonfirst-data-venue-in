@@ -1,0 +1,62 @@
+{
+  "id": 169530809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.839005,18.953011,72.839005,18.953011",
+    "geom:latitude":18.953011,
+    "geom:longitude":72.839005,
+    "iso:country":"IN",
+    "sg:address":"15, Fancy Chambers, 94 Surat St., Masjid,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2379 1412",
+    "sg:postcode":"400009",
+    "sg:tags":[
+        "container"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TAKW1EvDS5Vsnn4k63rsc_18.953011_72.839005@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8603f2518666b52ed9a580b830dc38cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169530809
+        }
+    ],
+    "wof:id":169530809,
+    "wof:lastmodified":1449034446,
+    "wof:name":"M.p.bombay Transport Carriers",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container"
+    ]
+},
+  "bbox": [72.839005,18.953011,72.839005,18.953011],
+  "geometry": {"coordinates":[72.839005,18.953011],"type":"Point"}
+}

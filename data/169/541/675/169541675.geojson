@@ -1,0 +1,66 @@
+{
+  "id": 169541675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.593628,12.988998,77.593628,12.988998",
+    "geom:latitude":12.988998,
+    "geom:longitude":77.593628,
+    "iso:country":"IN",
+    "sg:address":"# 511 Westminster, Cunningham Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 802220613031",
+    "sg:postcode":"560052",
+    "sg:tags":[
+        "design",
+        "software"
+    ],
+    "sg:website":"http://www.peakxv.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930961,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NKrthanNGOGc762RSWPe6_12.988998_77.593628@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"04f7f10eb1bbfff36dacc0c34f57939d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930961,
+            "region_id":85672165,
+            "venue_id":169541675
+        }
+    ],
+    "wof:id":169541675,
+    "wof:lastmodified":1449033043,
+    "wof:name":"Peak Xv Networks Pvt Ltd",
+    "wof:parent_id":85930961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "design",
+        "software"
+    ]
+},
+  "bbox": [77.593628,12.988998,77.593628,12.988998],
+  "geometry": {"coordinates":[77.593628,12.988998],"type":"Point"}
+}

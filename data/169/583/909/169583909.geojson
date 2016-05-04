@@ -1,0 +1,65 @@
+{
+  "id": 169583909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.622719,12.917508,77.622719,12.917508",
+    "geom:latitude":12.917508,
+    "geom:longitude":77.622719,
+    "iso:country":"IN",
+    "sg:address":"11/1, Hosur Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2553 6800",
+    "sg:postcode":"560029",
+    "sg:tags":[
+        "lab",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931027,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IUcd05kGvSk7mHn2iJb7x_12.917508_77.622719@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"10d4c4636b0d8c22bf46380d83614eac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931027,
+            "region_id":85672165,
+            "venue_id":169583909
+        }
+    ],
+    "wof:id":169583909,
+    "wof:lastmodified":1449035267,
+    "wof:name":"Lab & General Exports Pvt. Ltd.",
+    "wof:parent_id":85931027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lab",
+        "supply"
+    ]
+},
+  "bbox": [77.622719,12.917508,77.622719,12.917508],
+  "geometry": {"coordinates":[77.622719,12.917508],"type":"Point"}
+}

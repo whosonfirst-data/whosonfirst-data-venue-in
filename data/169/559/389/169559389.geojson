@@ -1,0 +1,63 @@
+{
+  "id": 169559389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.253448,28.550797,77.253448,28.550797",
+    "geom:latitude":28.550797,
+    "geom:longitude":77.253448,
+    "iso:country":"IN",
+    "sg:address":"5th Floor, 71 Nehru Place,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2641 3310",
+    "sg:postcode":"110019",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928361,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PwoPcXY2K7nHJ5SZO9YJY_28.550797_77.253448@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"309631e7304c7a52ad11928134e359c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928361,
+            "region_id":85672123,
+            "venue_id":169559389
+        }
+    ],
+    "wof:id":169559389,
+    "wof:lastmodified":1449035238,
+    "wof:name":"Cifc Pvt. Ltd.",
+    "wof:parent_id":85928361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.253448,28.550797,77.253448,28.550797],
+  "geometry": {"coordinates":[77.253448,28.550797],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169582883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.259895,12.987642,80.259895,12.987642",
+    "geom:latitude":12.987642,
+    "geom:longitude":80.259895,
+    "iso:country":"IN",
+    "sg:address":"18 K.k.road, Valmiki Nagar, Tiruvanmiyur,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2445 4556",
+    "sg:postcode":"600041",
+    "sg:tags":[
+        "sulphur"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903973,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_321ViJzCylusTFRpK9AzEO_12.987642_80.259895@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bca52a0dbcbd72b0f6f0433f0d6f0d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903973,
+            "region_id":85672245,
+            "venue_id":169582883
+        }
+    ],
+    "wof:id":169582883,
+    "wof:lastmodified":1449034467,
+    "wof:name":"Kliss Trading Pvt. Ltd.",
+    "wof:parent_id":85903973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sulphur"
+    ]
+},
+  "bbox": [80.259895,12.987642,80.259895,12.987642],
+  "geometry": {"coordinates":[80.259895,12.987642],"type":"Point"}
+}

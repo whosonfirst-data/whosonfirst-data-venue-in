@@ -1,0 +1,63 @@
+{
+  "id": 169649371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.15539,28.7584,77.15539,28.7584",
+    "geom:latitude":28.7584,
+    "geom:longitude":77.15539,
+    "iso:country":"IN",
+    "sg:address":"A2/A2 , 3rd Floor, Shiv Arcade,  Acharya Niketan, Mayur Vihar, Phase - 1,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110091",
+    "sg:tags":[
+        "packers-and-movers",
+        "packers-movers"
+    ],
+    "sg:website":"http://www.indiamoverspackers.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L6UW3XE3D8ebucSHSflDv_28.758400_77.155390@1308163239"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b40ea2693f4a9afb74c32586d80c31cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169649371
+        }
+    ],
+    "wof:id":169649371,
+    "wof:lastmodified":1449034945,
+    "wof:name":"India Movers Packers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packers-and-movers",
+        "packers-movers"
+    ]
+},
+  "bbox": [77.15539,28.7584,77.15539,28.7584],
+  "geometry": {"coordinates":[77.15539,28.7584],"type":"Point"}
+}

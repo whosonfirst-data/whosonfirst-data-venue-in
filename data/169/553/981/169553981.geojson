@@ -1,0 +1,64 @@
+{
+  "id": 169553981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.167511,22.310783,73.167511,22.310783",
+    "geom:latitude":22.310783,
+    "geom:longitude":73.167511,
+    "iso:country":"IN",
+    "sg:address":"A-301, Alkapuri Arcade, R.c. Dutt Road,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 234 1514",
+    "sg:postcode":"390007",
+    "sg:tags":[
+        "lubricant"
+    ],
+    "sg:website":"http://www.tashoil.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933511,
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MJQTI9IrhdnLQ0BuUSiIh_22.310783_73.167511@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"846cfca41f08cbea53ebafe5636fd7f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":85933511,
+            "region_id":85672249,
+            "venue_id":169553981
+        }
+    ],
+    "wof:id":169553981,
+    "wof:lastmodified":1449032709,
+    "wof:name":"Tashkent Oil Company Pvt. Ltd.",
+    "wof:parent_id":85933511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lubricant"
+    ]
+},
+  "bbox": [73.167511,22.310783,73.167511,22.310783],
+  "geometry": {"coordinates":[73.167511,22.310783],"type":"Point"}
+}

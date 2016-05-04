@@ -1,0 +1,69 @@
+{
+  "id": 169526497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.593254,12.990212,77.593254,12.990212",
+    "geom:latitude":12.990212,
+    "geom:longitude":77.593254,
+    "iso:country":"IN",
+    "sg:address":"316, Sanjay Chambers, V P Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2382 1635",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930961,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XUx8nXKPzGAPAVjEQ18gB_12.990212_77.593254@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1b967ffef2f21dca911a6edc6d7897d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930961,
+            "region_id":85672165,
+            "venue_id":169526497
+        }
+    ],
+    "wof:id":169526497,
+    "wof:lastmodified":1449033703,
+    "wof:name":"The Automotive & Allied Ind. Pvt.ltd.",
+    "wof:parent_id":85930961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "automotive",
+        "parts",
+        "component"
+    ]
+},
+  "bbox": [77.593254,12.990212,77.593254,12.990212],
+  "geometry": {"coordinates":[77.593254,12.990212],"type":"Point"}
+}

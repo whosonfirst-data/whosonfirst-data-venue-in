@@ -1,0 +1,67 @@
+{
+  "id": 169646059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.221115,28.653109,77.221115,28.653109",
+    "geom:latitude":28.653109,
+    "geom:longitude":77.221115,
+    "iso:country":"IN",
+    "sg:address":"2001, Lal Kuan Bazar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2321 4134",
+    "sg:postcode":"110006",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928087,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fq6axQehOptB9FiGsOpkA_28.653109_77.221115@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3cef63172d01ac232473db2a5eba4339",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928087,
+            "region_id":85672123,
+            "venue_id":169646059
+        }
+    ],
+    "wof:id":169646059,
+    "wof:lastmodified":1449032606,
+    "wof:name":"Welbro Paints Pvt. Ltd.",
+    "wof:parent_id":85928087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.221115,28.653109,77.221115,28.653109],
+  "geometry": {"coordinates":[77.221115,28.653109],"type":"Point"}
+}

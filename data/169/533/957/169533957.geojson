@@ -1,0 +1,63 @@
+{
+  "id": 169533957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833702,18.950251,72.833702,18.950251",
+    "geom:latitude":18.950251,
+    "geom:longitude":72.833702,
+    "iso:country":"IN",
+    "sg:address":"126/128, Nagdevi Street, 3rd Floor, Laxmi Buillding,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2340 1781",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "distributor"
+    ],
+    "sg:website":"http://www.medicalequipmenthub.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bGM44p11mLyUxbVk9LZLR_18.950251_72.833702@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b80018c65ac40af6d30abcff1b770532",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169533957
+        }
+    ],
+    "wof:id":169533957,
+    "wof:lastmodified":1449032645,
+    "wof:name":"Siddharth Trades & Exports",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distributor"
+    ]
+},
+  "bbox": [72.833702,18.950251,72.833702,18.950251],
+  "geometry": {"coordinates":[72.833702,18.950251],"type":"Point"}
+}

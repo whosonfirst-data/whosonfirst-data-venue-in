@@ -1,0 +1,72 @@
+{
+  "id": 169534427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.835564,18.976408,72.835564,18.976408",
+    "geom:latitude":18.976408,
+    "geom:longitude":72.835564,
+    "iso:country":"IN",
+    "sg:address":"154, Sant Savata Marg, Byculla East,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2372 5424",
+    "sg:postcode":"400027",
+    "sg:tags":[
+        "lighting",
+        "product",
+        "electrical",
+        "component",
+        "/"
+    ],
+    "sg:website":"http://www.lumexlighting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903815,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GyMH1lWZY1VrNBNyo8MHZ_18.976408_72.835564@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b3921f833aade6a520ace9639c30aec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903815,
+            "region_id":85672171,
+            "venue_id":169534427
+        }
+    ],
+    "wof:id":169534427,
+    "wof:lastmodified":1449033548,
+    "wof:name":"Lumex Lighting Pvt. Ltd.",
+    "wof:parent_id":85903815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "product",
+        "electrical",
+        "component",
+        "/"
+    ]
+},
+  "bbox": [72.835564,18.976408,72.835564,18.976408],
+  "geometry": {"coordinates":[72.835564,18.976408],"type":"Point"}
+}

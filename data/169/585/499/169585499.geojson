@@ -1,0 +1,63 @@
+{
+  "id": 169585499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.199165,13.104588,80.199165,13.104588",
+    "geom:latitude":13.104588,
+    "geom:longitude":80.199165,
+    "iso:country":"IN",
+    "sg:address":"No. 84, Sidco Industrial Estate, Ambathur,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 4208 0042",
+    "sg:postcode":"600098",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931701,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RcWt6xxafLpGorwRX2zBW_13.104588_80.199165@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"10261003ba0d25625222d27ddb20bb01",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931701,
+            "region_id":85672245,
+            "venue_id":169585499
+        }
+    ],
+    "wof:id":169585499,
+    "wof:lastmodified":1449034884,
+    "wof:name":"M.m. Rubber Company Ltd.",
+    "wof:parent_id":85931701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [80.199165,13.104588,80.199165,13.104588],
+  "geometry": {"coordinates":[80.199165,13.104588],"type":"Point"}
+}

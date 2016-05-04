@@ -1,0 +1,64 @@
+{
+  "id": 169577141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.778671,18.639656,73.778671,18.639656",
+    "geom:latitude":18.639656,
+    "geom:longitude":73.778671,
+    "iso:country":"IN",
+    "sg:address":"T/140, Midc, Bhosari,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2712 1477",
+    "sg:postcode":"411026",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.gaurifinechemicals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931299,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11kbiSeDdu0KzUZXFkFRho_18.639656_73.778671@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3b1b463a9f6680bf9f727ad14cfcecb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931299,
+            "region_id":85672171,
+            "venue_id":169577141
+        }
+    ],
+    "wof:id":169577141,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Gauri Fine Chemicals",
+    "wof:parent_id":85931299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [73.778671,18.639656,73.778671,18.639656],
+  "geometry": {"coordinates":[73.778671,18.639656],"type":"Point"}
+}

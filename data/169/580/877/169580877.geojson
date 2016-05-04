@@ -1,0 +1,64 @@
+{
+  "id": 169580877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.862694,19.044937,72.862694,19.044937",
+    "geom:latitude":19.044937,
+    "geom:longitude":72.862694,
+    "iso:country":"IN",
+    "sg:address":"8th Floor, Laxmi Nagar, Tower Bandra Kurla Complex, Bandra (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6644 4222",
+    "sg:postcode":"400051",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.johansondiversey.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903847,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PmYzWJF3cNL8KuagDkPVJ_19.044937_72.862694@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d7a5afc1599d9dc4b39850569100843c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903847,
+            "region_id":85672171,
+            "venue_id":169580877
+        }
+    ],
+    "wof:id":169580877,
+    "wof:lastmodified":1449034914,
+    "wof:name":"Johanson Diversey India Pvt. Ltd.",
+    "wof:parent_id":85903847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [72.862694,19.044937,72.862694,19.044937],
+  "geometry": {"coordinates":[72.862694,19.044937],"type":"Point"}
+}

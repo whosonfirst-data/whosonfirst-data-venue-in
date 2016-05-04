@@ -1,0 +1,66 @@
+{
+  "id": 169528279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.828377,18.947071,72.828377,18.947071",
+    "geom:latitude":18.947071,
+    "geom:longitude":72.828377,
+    "iso:country":"IN",
+    "sg:address":"200-206, Panjrapole Road, Near Post Office,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2242 5006",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "tile",
+        "brick"
+    ],
+    "sg:website":"http://www.nathalalmoortiwala.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Aul37Qw4y9mn5laEIWGFl_18.947071_72.828377@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"aebba24126ca6484f895f9dead811efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169528279
+        }
+    ],
+    "wof:id":169528279,
+    "wof:lastmodified":1449033570,
+    "wof:name":"Nathalal Moortiwala & Sons",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "brick"
+    ]
+},
+  "bbox": [72.828377,18.947071,72.828377,18.947071],
+  "geometry": {"coordinates":[72.828377,18.947071],"type":"Point"}
+}

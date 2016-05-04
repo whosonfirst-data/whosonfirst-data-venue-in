@@ -1,0 +1,59 @@
+{
+  "id": 169549257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.692757,24.575169,73.692757,24.575169",
+    "geom:latitude":24.575169,
+    "geom:longitude":73.692757,
+    "iso:country":"IN",
+    "sg:address":"32, Lake Palace Road,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 252 0214",
+    "sg:postcode":"313001",
+    "sg:website":"http://mariajju.tripod.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934005,
+        85632469,
+        102028377,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HHXwQ9Uj39mFKQPIEXRN8_24.575169_73.692757@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0d118bd92523f471a6b84effc65a9306",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028377,
+            "neighbourhood_id":85934005,
+            "region_id":85672201,
+            "venue_id":169549257
+        }
+    ],
+    "wof:id":169549257,
+    "wof:lastmodified":1449033591,
+    "wof:name":"Mariajju Exports",
+    "wof:parent_id":85934005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [73.692757,24.575169,73.692757,24.575169],
+  "geometry": {"coordinates":[73.692757,24.575169],"type":"Point"}
+}

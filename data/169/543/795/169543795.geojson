@@ -1,0 +1,65 @@
+{
+  "id": 169543795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.589012,12.959101,77.589012,12.959101",
+    "geom:latitude":12.959101,
+    "geom:longitude":77.589012,
+    "iso:country":"IN",
+    "sg:address":"103/6, 4th Cross, 2nd Floor, Kalasipalyam New Extension,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2227 1217",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "transporters",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77pDDGjeIrYnFAiSa5tH00_12.959101_77.589012@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"418386c69deee7b664c17f1c392f6df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169543795
+        }
+    ],
+    "wof:id":169543795,
+    "wof:lastmodified":1449033335,
+    "wof:name":"Bic Logistics",
+    "wof:parent_id":85930903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transporters",
+        "transport"
+    ]
+},
+  "bbox": [77.589012,12.959101,77.589012,12.959101],
+  "geometry": {"coordinates":[77.589012,12.959101],"type":"Point"}
+}

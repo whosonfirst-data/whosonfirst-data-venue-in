@@ -1,0 +1,65 @@
+{
+  "id": 169560863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.838097,19.113432,72.838097,19.113432",
+    "geom:latitude":19.113432,
+    "geom:longitude":72.838097,
+    "iso:country":"IN",
+    "sg:address":"25, Radheshyam Appt., Juhu Lane, \nAndheri (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2623 8941",
+    "sg:postcode":"400058",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931479,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tlZXHduzj7zHmFGEDrv2M_19.113432_72.838097@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2c571aaee5f749904bae9cd208829e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931479,
+            "region_id":-1,
+            "venue_id":169560863
+        }
+    ],
+    "wof:id":169560863,
+    "wof:lastmodified":1449035182,
+    "wof:name":"Eastern Chemical",
+    "wof:parent_id":85931479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [72.838097,19.113432,72.838097,19.113432],
+  "geometry": {"coordinates":[72.838097,19.113432],"type":"Point"}
+}

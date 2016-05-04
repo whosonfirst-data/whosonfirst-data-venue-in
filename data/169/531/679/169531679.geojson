@@ -1,0 +1,63 @@
+{
+  "id": 169531679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.824333,19.011509,72.824333,19.011509",
+    "geom:latitude":19.011509,
+    "geom:longitude":72.824333,
+    "iso:country":"IN",
+    "sg:address":"262, Kaliandas Udyog Bhawan, Worli,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2431 2296",
+    "sg:postcode":"400025",
+    "sg:tags":[
+        "curtain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931467,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fo4riTCNaYPv8RADpMHHC_19.011509_72.824333@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"780df150e6024de716b8e21a9c95e49a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931467,
+            "region_id":85672171,
+            "venue_id":169531679
+        }
+    ],
+    "wof:id":169531679,
+    "wof:lastmodified":1449033475,
+    "wof:name":"Woven Sensations",
+    "wof:parent_id":85931467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "curtain"
+    ]
+},
+  "bbox": [72.824333,19.011509,72.824333,19.011509],
+  "geometry": {"coordinates":[72.824333,19.011509],"type":"Point"}
+}

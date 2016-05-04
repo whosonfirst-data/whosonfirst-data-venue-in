@@ -1,0 +1,63 @@
+{
+  "id": 169577725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.215157,28.644403,77.215157,28.644403",
+    "geom:latitude":28.644403,
+    "geom:longitude":77.215157,
+    "iso:country":"IN",
+    "sg:address":"1294, D. B. Gupta Road, Karol Bagh,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2875 1338",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "solvent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903937,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1quL6lPdomHjcZgQyZ74VY_28.644403_77.215157@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"054df69057fd4b6d1226e0f0ee32e300",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903937,
+            "region_id":85672123,
+            "venue_id":169577725
+        }
+    ],
+    "wof:id":169577725,
+    "wof:lastmodified":1449036065,
+    "wof:name":"Goodwill Paints & Chemicals Co.",
+    "wof:parent_id":85903937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solvent"
+    ]
+},
+  "bbox": [77.215157,28.644403,77.215157,28.644403],
+  "geometry": {"coordinates":[77.215157,28.644403],"type":"Point"}
+}

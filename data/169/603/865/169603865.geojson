@@ -1,0 +1,63 @@
+{
+  "id": 169603865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.837852,19.156733,72.837852,19.156733",
+    "geom:latitude":19.156733,
+    "geom:longitude":72.837852,
+    "iso:country":"IN",
+    "sg:address":"J-65, Lane No. 4, Laxmi Nagar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2250 7917",
+    "sg:postcode":"110092",
+    "sg:tags":[
+        "wax"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931563,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GMilO6DAYpOdaaNvqjZuT_19.156733_72.837852@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2285bd0524e0fa2ff2bd3bc61102d67a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931563,
+            "region_id":85672171,
+            "venue_id":169603865
+        }
+    ],
+    "wof:id":169603865,
+    "wof:lastmodified":1449035454,
+    "wof:name":"Prestige Petrochemicals P Ltd.",
+    "wof:parent_id":85931563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [72.837852,19.156733,72.837852,19.156733],
+  "geometry": {"coordinates":[72.837852,19.156733],"type":"Point"}
+}

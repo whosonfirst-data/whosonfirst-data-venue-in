@@ -1,0 +1,64 @@
+{
+  "id": 169578155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.295822,28.638712,77.295822,28.638712",
+    "geom:latitude":28.638712,
+    "geom:longitude":77.295822,
+    "iso:country":"IN",
+    "sg:address":"G-81, Preet Vihar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2251 4751",
+    "sg:postcode":"110092",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.gulshanind.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928351,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YJHf6TGeqrrP3a9WTzfZW_28.638712_77.295822@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"019bf122456fd240bebe466f22a0c8da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928351,
+            "region_id":85672123,
+            "venue_id":169578155
+        }
+    ],
+    "wof:id":169578155,
+    "wof:lastmodified":1449033521,
+    "wof:name":"Gulshan Impex Pvt. Ltd.",
+    "wof:parent_id":85928351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.295822,28.638712,77.295822,28.638712],
+  "geometry": {"coordinates":[77.295822,28.638712],"type":"Point"}
+}

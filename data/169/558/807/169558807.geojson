@@ -1,0 +1,64 @@
+{
+  "id": 169558807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.867638,18.512791,73.867638,18.512791",
+    "geom:latitude":18.512791,
+    "geom:longitude":73.867638,
+    "iso:country":"IN",
+    "sg:address":"123, Nana Peth,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2635 1200",
+    "sg:postcode":"411002",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"www.canpex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903913,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10fLyzK51n84jOjP0nxFXT_18.512791_73.867638@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"874c67180ed4233115cda07be6f8530e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85903913,
+            "region_id":85672171,
+            "venue_id":169558807
+        }
+    ],
+    "wof:id":169558807,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Canpex Import Export Pvt. Ltd.",
+    "wof:parent_id":85903913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [73.867638,18.512791,73.867638,18.512791],
+  "geometry": {"coordinates":[73.867638,18.512791],"type":"Point"}
+}

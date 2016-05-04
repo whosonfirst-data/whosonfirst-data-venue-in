@@ -1,0 +1,53 @@
+{
+  "id": 169557215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.614944,12.963933,77.614944,12.963933",
+    "geom:latitude":12.963933,
+    "geom:longitude":77.614944,
+    "iso:country":"IN",
+    "sg:address":"Victoria Layout",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 805514471",
+    "sg:postcode":"560047",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930841,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bbcNnZKnoirVqrsNbtBP5_12.963933_77.614944@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c6aa0839a05e9d4fb5acc895342bbfd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930841,
+            "region_id":85672165,
+            "venue_id":169557215
+        }
+    ],
+    "wof:id":169557215,
+    "wof:lastmodified":1449035037,
+    "wof:name":"Aci Infocom Ltd",
+    "wof:parent_id":85930841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.614944,12.963933,77.614944,12.963933],
+  "geometry": {"coordinates":[77.614944,12.963933],"type":"Point"}
+}

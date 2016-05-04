@@ -1,0 +1,64 @@
+{
+  "id": 169559191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.174042,28.596645,77.174042,28.596645",
+    "geom:latitude":28.596645,
+    "geom:longitude":77.174042,
+    "iso:country":"IN",
+    "sg:address":"127, J.p. Towers, Tagore Road,",
+    "sg:city":"Rajkot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 281 246 4814",
+    "sg:postcode":"360002",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.diaphragmhandpump.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928227,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bvofIov4IP1VnjeBF2UOq_28.596645_77.174042@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a7e538d48574304d17af551aa3f22c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928227,
+            "region_id":85672123,
+            "venue_id":169559191
+        }
+    ],
+    "wof:id":169559191,
+    "wof:lastmodified":1449035239,
+    "wof:name":"Chemineers",
+    "wof:parent_id":85928227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.174042,28.596645,77.174042,28.596645],
+  "geometry": {"coordinates":[77.174042,28.596645],"type":"Point"}
+}

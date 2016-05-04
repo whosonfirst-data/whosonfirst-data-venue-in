@@ -1,0 +1,65 @@
+{
+  "id": 169537983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.547554,13.009221,77.547554,13.009221",
+    "geom:latitude":13.009221,
+    "geom:longitude":77.547554,
+    "iso:country":"IN",
+    "sg:address":"195, 239, 3rd Main, Mahalakshmipuram Layout,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2349 1214",
+    "sg:postcode":"560086",
+    "sg:tags":[
+        "vessel",
+        "pressure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7etBg2dmOHyHtvWO8tCT4J_13.009221_77.547554@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fb604c37a6dda5b5453a42afeb9d8843",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169537983
+        }
+    ],
+    "wof:id":169537983,
+    "wof:lastmodified":1449033501,
+    "wof:name":"Kanara Engineering Co. (m) Pvt. Ltd.",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vessel",
+        "pressure"
+    ]
+},
+  "bbox": [77.547554,13.009221,77.547554,13.009221],
+  "geometry": {"coordinates":[77.547554,13.009221],"type":"Point"}
+}

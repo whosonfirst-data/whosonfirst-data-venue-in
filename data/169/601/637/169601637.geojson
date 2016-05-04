@@ -1,0 +1,63 @@
+{
+  "id": 169601637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.315514,28.361219,77.315514,28.361219",
+    "geom:latitude":28.361219,
+    "geom:longitude":77.315514,
+    "iso:country":"IN",
+    "sg:address":"14/6, Mathura Road,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 404 8027",
+    "sg:postcode":"121003",
+    "sg:tags":[
+        "polymer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928383,
+        85632469,
+        102030289,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U2y4ZVM98nxape41u7R2q_28.361219_77.315514@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"120bfdecf4d262cddac1af42d7631c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030289,
+            "neighbourhood_id":85928383,
+            "region_id":85672133,
+            "venue_id":169601637
+        }
+    ],
+    "wof:id":169601637,
+    "wof:lastmodified":1449034146,
+    "wof:name":"Pluss Polymers Pvt Ltd",
+    "wof:parent_id":85928383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [77.315514,28.361219,77.315514,28.361219],
+  "geometry": {"coordinates":[77.315514,28.361219],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169593397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.736992,30.73361,76.736992,30.73361",
+    "geom:latitude":30.73361,
+    "geom:longitude":76.736992,
+    "iso:country":"IN",
+    "sg:address":"Sco 38-39, Sector-9d,",
+    "sg:city":"Chandigarh",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 172 304 7782",
+    "sg:postcode":"160009",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927777,
+        85632469,
+        102031103,
+        85672119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jvMUX8OqIAyY8BnKM5AO0_30.733610_76.736992@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"50d8700870af30e9c064046d0af8e0b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031103,
+            "neighbourhood_id":85927777,
+            "region_id":85672119,
+            "venue_id":169593397
+        }
+    ],
+    "wof:id":169593397,
+    "wof:lastmodified":1449034877,
+    "wof:name":"Nectar Lifesciences Limited",
+    "wof:parent_id":85927777,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [76.736992,30.73361,76.736992,30.73361],
+  "geometry": {"coordinates":[76.736992,30.73361],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169526751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.836662,18.951439,72.836662,18.951439",
+    "geom:latitude":18.951439,
+    "geom:longitude":72.836662,
+    "iso:country":"IN",
+    "sg:address":"180/82, Sameul Street,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6702 3453",
+    "sg:postcode":"400009",
+    "sg:tags":[
+        "case",
+        "bag"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20eJUx0WcEmlPXAAo86yo3_18.951439_72.836662@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c43afed6161f1c6dc6119a64f6b5dca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169526751
+        }
+    ],
+    "wof:id":169526751,
+    "wof:lastmodified":1449033698,
+    "wof:name":"Stedim",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "case",
+        "bag"
+    ]
+},
+  "bbox": [72.836662,18.951439,72.836662,18.951439],
+  "geometry": {"coordinates":[72.836662,18.951439],"type":"Point"}
+}

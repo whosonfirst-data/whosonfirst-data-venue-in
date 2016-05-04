@@ -1,0 +1,64 @@
+{
+  "id": 169541627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.62529,13.03078,77.62529,13.03078",
+    "geom:latitude":13.03078,
+    "geom:longitude":77.62529,
+    "iso:country":"IN",
+    "sg:address":"# 248, 1st Block, Hrbr Layout, Kalyan Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4161 4333",
+    "sg:postcode":"560043",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"http://www.syscongroup.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931099,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z0oPTuqYhWERdtN4rgeyy_13.030780_77.625290@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"91cc2f7570923ac4306c18b9366db12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931099,
+            "region_id":85672165,
+            "venue_id":169541627
+        }
+    ],
+    "wof:id":169541627,
+    "wof:lastmodified":1449033045,
+    "wof:name":"Syscon",
+    "wof:parent_id":85931099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.62529,13.03078,77.62529,13.03078],
+  "geometry": {"coordinates":[77.62529,13.03078],"type":"Point"}
+}

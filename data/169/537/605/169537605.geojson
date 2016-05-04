@@ -1,0 +1,71 @@
+{
+  "id": 169537605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.559395,13.022392,77.559395,13.022392",
+    "geom:latitude":13.022392,
+    "geom:longitude":77.559395,
+    "iso:country":"IN",
+    "sg:address":"147/b, 6th Main, Mathkiere Extn.,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2360 7395",
+    "sg:postcode":"560054",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930923,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FfcIgQdCs92XGuF8u7xh6_13.022392_77.559395@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"059eacfe20034b99e32103daa9f6a8ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930923,
+            "region_id":85672165,
+            "venue_id":169537605
+        }
+    ],
+    "wof:id":169537605,
+    "wof:lastmodified":1449033499,
+    "wof:name":"Vinaya Enterprises",
+    "wof:parent_id":85930923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.559395,13.022392,77.559395,13.022392],
+  "geometry": {"coordinates":[77.559395,13.022392],"type":"Point"}
+}

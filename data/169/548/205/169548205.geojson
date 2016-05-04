@@ -1,0 +1,64 @@
+{
+  "id": 169548205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.183174,13.049146,80.183174,13.049146",
+    "geom:latitude":13.049146,
+    "geom:longitude":80.183174,
+    "iso:country":"IN",
+    "sg:address":"20, South Street, Chidhambaram Nagar,",
+    "sg:city":"Tuticorin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 461 400 0642",
+    "sg:postcode":"628008",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.peterjebaraj.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927541,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26sTU1cRByAiFGpJJ53iDd_13.049146_80.183174@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"842c50502c7722e5afab181126dda334",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85927541,
+            "region_id":85672245,
+            "venue_id":169548205
+        }
+    ],
+    "wof:id":169548205,
+    "wof:lastmodified":1449034975,
+    "wof:name":"Dharun Exports",
+    "wof:parent_id":85927541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.183174,13.049146,80.183174,13.049146],
+  "geometry": {"coordinates":[80.183174,13.049146],"type":"Point"}
+}

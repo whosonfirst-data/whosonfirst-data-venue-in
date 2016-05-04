@@ -1,0 +1,63 @@
+{
+  "id": 169547083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.335037,11.112531,77.335037,11.112531",
+    "geom:latitude":11.112531,
+    "geom:longitude":77.335037,
+    "iso:country":"IN",
+    "sg:address":"25, Bungalow Road, Odakkadu,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 224 9298",
+    "sg:postcode":"641603",
+    "sg:tags":[
+        "menswear"
+    ],
+    "sg:website":"http://www.eastmanexports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028425,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WIpyn08rXyog8txbmAkuG_11.112531_77.335037@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"15626944355ec4750bfe5422ed096437",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028425,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169547083
+        }
+    ],
+    "wof:id":169547083,
+    "wof:lastmodified":1449033009,
+    "wof:name":"Eastman Exports",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "menswear"
+    ]
+},
+  "bbox": [77.335037,11.112531,77.335037,11.112531],
+  "geometry": {"coordinates":[77.335037,11.112531],"type":"Point"}
+}

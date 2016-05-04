@@ -1,0 +1,64 @@
+{
+  "id": 169539755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.593124,12.910188,77.593124,12.910188",
+    "geom:latitude":12.910188,
+    "geom:longitude":77.593124,
+    "iso:country":"IN",
+    "sg:address":"1739, 9th Cross, J. P. Nagar, Phase-ii,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2654 8674",
+    "sg:postcode":"560078",
+    "sg:tags":[
+        "sculpture"
+    ],
+    "sg:website":"http://www.bhasininternational.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931061,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y83R900KUDFwsv70puXjK_12.910188_77.593124@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d3e1e2bf52871ffd500f2b70a61fa87e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931061,
+            "region_id":85672165,
+            "venue_id":169539755
+        }
+    ],
+    "wof:id":169539755,
+    "wof:lastmodified":1449036037,
+    "wof:name":"Bhasin Intl.",
+    "wof:parent_id":85931061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sculpture"
+    ]
+},
+  "bbox": [77.593124,12.910188,77.593124,12.910188],
+  "geometry": {"coordinates":[77.593124,12.910188],"type":"Point"}
+}

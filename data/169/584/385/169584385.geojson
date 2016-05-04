@@ -1,0 +1,63 @@
+{
+  "id": 169584385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.784363,18.651051,73.784363,18.651051",
+    "geom:latitude":18.651051,
+    "geom:longitude":73.784363,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 6007/1, G.i.d.c.,",
+    "sg:city":"Ankleshwar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2646 221 867",
+    "sg:postcode":"393002",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931265,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_332S2epOceviq62dMROSyE_18.651051_73.784363@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f706f7c0d38211839e64a2057d785d49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931265,
+            "region_id":85672171,
+            "venue_id":169584385
+        }
+    ],
+    "wof:id":169584385,
+    "wof:lastmodified":1449033037,
+    "wof:name":"Laxmi Chemical Industries",
+    "wof:parent_id":85931265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [73.784363,18.651051,73.784363,18.651051],
+  "geometry": {"coordinates":[73.784363,18.651051],"type":"Point"}
+}

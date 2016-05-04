@@ -1,0 +1,65 @@
+{
+  "id": 169595953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.830803,19.070023,72.830803,19.070023",
+    "geom:latitude":19.070023,
+    "geom:longitude":72.830803,
+    "iso:country":"IN",
+    "sg:address":"35-a/43, Brindaban, Thane West,",
+    "sg:city":"Thane",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 6817 7921",
+    "sg:postcode":"400601",
+    "sg:tags":[
+        "plant",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931493,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O1OjKm5DEQBOXYk815rPz_19.070023_72.830803@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a70ea01206296862fa005d81a5e64afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931493,
+            "region_id":85672171,
+            "venue_id":169595953
+        }
+    ],
+    "wof:id":169595953,
+    "wof:lastmodified":1449035638,
+    "wof:name":"Omega Process Engineers",
+    "wof:parent_id":85931493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [72.830803,19.070023,72.830803,19.070023],
+  "geometry": {"coordinates":[72.830803,19.070023],"type":"Point"}
+}

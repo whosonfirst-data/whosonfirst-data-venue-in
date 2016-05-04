@@ -1,0 +1,63 @@
+{
+  "id": 169580669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.124657,9.921018,78.124657,9.921018",
+    "geom:latitude":9.921018,
+    "geom:longitude":78.124657,
+    "iso:country":"IN",
+    "sg:address":"227-b, South Marret Street,",
+    "sg:city":"Madurai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 452 233 2223",
+    "sg:postcode":"625001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783651,
+        85632469,
+        102029533,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19xF84HLLWNuLvA7h7YBZS_9.921018_78.124657@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2da01b1bc8f696ca73953ab23eb5b757",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029533,
+            "neighbourhood_id":85783651,
+            "region_id":85672245,
+            "venue_id":169580669
+        }
+    ],
+    "wof:id":169580669,
+    "wof:lastmodified":1449034912,
+    "wof:name":"Jayanthi Trading Company",
+    "wof:parent_id":85783651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.124657,9.921018,78.124657,9.921018],
+  "geometry": {"coordinates":[78.124657,9.921018],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 169653679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.646408,12.87879,77.646408,12.87879",
+    "geom:latitude":12.87879,
+    "geom:longitude":77.646408,
+    "iso:country":"IN",
+    "sg:address":"BAGALORE ROAD",
+    "sg:city":"HOSUR",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"635109",
+    "sg:tags":[
+        "ebook",
+        "ebooks",
+        "ebookshop",
+        "lowcostebookshop"
+    ],
+    "sg:website":"http://www.lowcostebookshop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930979,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XOFvZM01qkCPX7ZxtTzE9_12.878790_77.646408@1308163242"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"41cf8a1a23168e928ea0d08f57bd9fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930979,
+            "region_id":85672165,
+            "venue_id":169653679
+        }
+    ],
+    "wof:id":169653679,
+    "wof:lastmodified":1449032917,
+    "wof:name":"Lowcostebookshop",
+    "wof:parent_id":85930979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ebook",
+        "ebooks",
+        "ebookshop",
+        "lowcostebookshop"
+    ]
+},
+  "bbox": [77.646408,12.87879,77.646408,12.87879],
+  "geometry": {"coordinates":[77.646408,12.87879],"type":"Point"}
+}

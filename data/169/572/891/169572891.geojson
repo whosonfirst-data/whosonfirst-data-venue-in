@@ -1,0 +1,53 @@
+{
+  "id": 169572891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.853287,19.103678,72.853287,19.103678",
+    "geom:latitude":19.103678,
+    "geom:longitude":72.853287,
+    "iso:country":"IN",
+    "sg:address":"Hanuman Road, Vile Parle (e)",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2838 0571",
+    "sg:postcode":"400057",
+    "sg:province":"Maharashtra",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931483,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15mhAUYYcrDpBOzToqeFzT_19.103678_72.853287@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f01b2ceb3d04cae7d7f05472d3073d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931483,
+            "region_id":85672171,
+            "venue_id":169572891
+        }
+    ],
+    "wof:id":169572891,
+    "wof:lastmodified":1449034707,
+    "wof:name":"Iveon Laboratories",
+    "wof:parent_id":85931483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.853287,19.103678,72.853287,19.103678],
+  "geometry": {"coordinates":[72.853287,19.103678],"type":"Point"}
+}

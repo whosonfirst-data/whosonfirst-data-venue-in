@@ -1,0 +1,62 @@
+{
+  "id": 169640149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.648445,23.234776,72.648445,23.234776",
+    "geom:latitude":23.234776,
+    "geom:longitude":72.648445,
+    "iso:country":"IN",
+    "sg:address":"K-191, Rd. No. 5, I.p.t.a.,",
+    "sg:city":"Kota",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 744 242 5137",
+    "sg:postcode":"324005",
+    "sg:tags":[
+        "fine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030253,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cG2ORXIsV4OEN2RZ4RAyb_23.234776_72.648445@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7da98f0ea83a7375fd09472bf9572b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030253,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169640149
+        }
+    ],
+    "wof:id":169640149,
+    "wof:lastmodified":1449034100,
+    "wof:name":"Universal Chemicals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fine"
+    ]
+},
+  "bbox": [72.648445,23.234776,72.648445,23.234776],
+  "geometry": {"coordinates":[72.648445,23.234776],"type":"Point"}
+}

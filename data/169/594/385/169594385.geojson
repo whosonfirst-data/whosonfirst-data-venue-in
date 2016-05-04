@@ -1,0 +1,62 @@
+{
+  "id": 169594385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.16613,28.672571,77.16613,28.672571",
+    "geom:latitude":28.672571,
+    "geom:longitude":77.16613,
+    "iso:country":"IN",
+    "sg:address":"B-9/68, Inderlok,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 119312242075",
+    "sg:postcode":"110035",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S2dTkd131JJnQF5mxfWad_28.672571_77.166130@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"257e95415ad8593c54f56c90fc4406b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169594385
+        }
+    ],
+    "wof:id":169594385,
+    "wof:lastmodified":1449033165,
+    "wof:name":"Nihaldas Trading Co.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.16613,28.672571,77.16613,28.672571],
+  "geometry": {"coordinates":[77.16613,28.672571],"type":"Point"}
+}

@@ -1,0 +1,54 @@
+{
+  "id": 169556493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.225021,28.665384,77.225021,28.665384",
+    "geom:latitude":28.665384,
+    "geom:longitude":77.225021,
+    "iso:country":"IN",
+    "sg:address":"Nicholson Road",
+    "sg:city":"Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2396 5423",
+    "sg:postcode":"110006",
+    "sg:province":"Delhi",
+    "sg:website":"http://www.belatrading.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928109,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WyDPBPK1sLLjRJ4SdOfOx_28.665384_77.225021@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0cf845d10a9e90f00ba204f9574df6cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928109,
+            "region_id":85672123,
+            "venue_id":169556493
+        }
+    ],
+    "wof:id":169556493,
+    "wof:lastmodified":1449033507,
+    "wof:name":"Bela Trading Engineers",
+    "wof:parent_id":85928109,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.225021,28.665384,77.225021,28.665384],
+  "geometry": {"coordinates":[77.225021,28.665384],"type":"Point"}
+}

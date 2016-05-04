@@ -1,0 +1,70 @@
+{
+  "id": 169546319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.293091,13.142231,80.293091,13.142231",
+    "geom:latitude":13.142231,
+    "geom:longitude":80.293091,
+    "iso:country":"IN",
+    "sg:address":"38-a, Kumaran Road,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 653 3077",
+    "sg:postcode":"641601",
+    "sg:tags":[
+        "equipment",
+        "sticker",
+        "coded",
+        "bar"
+    ],
+    "sg:website":"http://www.indiamart.com/geminigraphic/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903945,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vIReT54HYIuM80wKdBkKQ_13.142231_80.293091@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"77c1bc4c9de573c96c9e5827fc8fe5a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903945,
+            "region_id":85672245,
+            "venue_id":169546319
+        }
+    ],
+    "wof:id":169546319,
+    "wof:lastmodified":1449032679,
+    "wof:name":"Gemini Graphic",
+    "wof:parent_id":85903945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "sticker",
+        "coded",
+        "bar"
+    ]
+},
+  "bbox": [80.293091,13.142231,80.293091,13.142231],
+  "geometry": {"coordinates":[80.293091,13.142231],"type":"Point"}
+}

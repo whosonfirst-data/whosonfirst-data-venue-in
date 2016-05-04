@@ -1,0 +1,64 @@
+{
+  "id": 169578069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.572121,23.025814,72.572121,23.025814",
+    "geom:latitude":23.025814,
+    "geom:longitude":72.572121,
+    "iso:country":"IN",
+    "sg:address":"2nd Floor, Gujarat Chamber's Building, Ashram Road,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 2658 5757",
+    "sg:postcode":"380009",
+    "sg:tags":[
+        "chemical"
+    ],
+    "sg:website":"http://www.gsecl.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933453,
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Vcx5bMkTFQEZ6np0BYxeG_23.025814_72.572121@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f46eb738a293c4f1c1f80dd4f73dc5ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":85933453,
+            "region_id":85672249,
+            "venue_id":169578069
+        }
+    ],
+    "wof:id":169578069,
+    "wof:lastmodified":1449033521,
+    "wof:name":"Gujarat State Export Corporation Ltd.",
+    "wof:parent_id":85933453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical"
+    ]
+},
+  "bbox": [72.572121,23.025814,72.572121,23.025814],
+  "geometry": {"coordinates":[72.572121,23.025814],"type":"Point"}
+}

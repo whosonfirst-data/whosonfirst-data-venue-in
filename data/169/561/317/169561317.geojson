@@ -1,0 +1,53 @@
+{
+  "id": 169561317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.817039,18.960367,72.817039,18.960367",
+    "geom:latitude":18.960367,
+    "geom:longitude":72.817039,
+    "iso:country":"IN",
+    "sg:address":"Opera House",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2385 7281",
+    "sg:postcode":"400004",
+    "sg:province":"Maharashtra",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903971,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pCwjCgxtX5D1wkeR31fx4_18.960367_72.817039@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4327088fa1f684062da10cade1b76e04",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903971,
+            "region_id":85672171,
+            "venue_id":169561317
+        }
+    ],
+    "wof:id":169561317,
+    "wof:lastmodified":1449035020,
+    "wof:name":"G P Trade Agency",
+    "wof:parent_id":85903971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.817039,18.960367,72.817039,18.960367],
+  "geometry": {"coordinates":[72.817039,18.960367],"type":"Point"}
+}

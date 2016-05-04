@@ -1,0 +1,66 @@
+{
+  "id": 169582911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.254883,28.54376,77.254883,28.54376",
+    "geom:latitude":28.54376,
+    "geom:longitude":77.254883,
+    "iso:country":"IN",
+    "sg:address":"B-6/g-4, Alaknanda Shopping Complex, Kalkaji,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2603 3254",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903881,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qLyzTUTfhXq6b05r6Icsa_28.543760_77.254883@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5183d4d06178ad83b210a23ce9d24418",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903881,
+            "region_id":85672123,
+            "venue_id":169582911
+        }
+    ],
+    "wof:id":169582911,
+    "wof:lastmodified":1449034466,
+    "wof:name":"Kls Paints & Construction",
+    "wof:parent_id":85903881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.254883,28.54376,77.254883,28.54376],
+  "geometry": {"coordinates":[77.254883,28.54376],"type":"Point"}
+}

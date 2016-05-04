@@ -1,0 +1,64 @@
+{
+  "id": 169559437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.836815,18.511568,73.836815,18.511568",
+    "geom:latitude":18.511568,
+    "geom:longitude":73.836815,
+    "iso:country":"IN",
+    "sg:address":"8/20 Erandwana, Off Karve Road,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2543 9583",
+    "sg:postcode":"411004",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.carbofoil.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931201,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VIIjqM58ylJDWIuWPZcDY_18.511568_73.836815@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0b488b26336248801b64cd869d392eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931201,
+            "region_id":85672171,
+            "venue_id":169559437
+        }
+    ],
+    "wof:id":169559437,
+    "wof:lastmodified":1449035239,
+    "wof:name":"Cleanline Products Pvt. Ltd.",
+    "wof:parent_id":85931201,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [73.836815,18.511568,73.836815,18.511568],
+  "geometry": {"coordinates":[73.836815,18.511568],"type":"Point"}
+}

@@ -1,0 +1,54 @@
+{
+  "id": 169570445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.612411,12.992892,77.612411,12.992892",
+    "geom:latitude":12.992892,
+    "geom:longitude":77.612411,
+    "iso:country":"IN",
+    "sg:address":"Promenade Road, Frazer Town",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 805514338",
+    "sg:postcode":"560005",
+    "sg:province":"Karnataka",
+    "sg:website":"http://www.edstechnologies.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930871,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29Cb2XWvkBfTSXxWhzFFTh_12.992892_77.612411@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1c94d2bf3a5a6423e8c27a2e1cfaec75",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930871,
+            "region_id":85672165,
+            "venue_id":169570445
+        }
+    ],
+    "wof:id":169570445,
+    "wof:lastmodified":1449034645,
+    "wof:name":"Eds Technologies Pvt Ltd",
+    "wof:parent_id":85930871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.612411,12.992892,77.612411,12.992892],
+  "geometry": {"coordinates":[77.612411,12.992892],"type":"Point"}
+}

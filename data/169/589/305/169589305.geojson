@@ -1,0 +1,64 @@
+{
+  "id": 169589305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.589165,12.911851,77.589165,12.911851",
+    "geom:latitude":12.911851,
+    "geom:longitude":77.589165,
+    "iso:country":"IN",
+    "sg:address":"A-2/407-408, Phase Ii, Gidc Industrial Estate, Vatva,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 2583 0093",
+    "sg:postcode":"380006",
+    "sg:tags":[
+        "pigment"
+    ],
+    "sg:website":"http://www.metrochemgroup.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931065,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_144GXYBlMq3Au4a4Zizfrc_12.911851_77.589165@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6cc5c38f18ea588964106ca50326ec56",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931065,
+            "region_id":85672165,
+            "venue_id":169589305
+        }
+    ],
+    "wof:id":169589305,
+    "wof:lastmodified":1449034445,
+    "wof:name":"Metrochem Industries Limited",
+    "wof:parent_id":85931065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [77.589165,12.911851,77.589165,12.911851],
+  "geometry": {"coordinates":[77.589165,12.911851],"type":"Point"}
+}

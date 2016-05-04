@@ -1,0 +1,66 @@
+{
+  "id": 169615543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.209,13.069983,80.209,13.069983",
+    "geom:latitude":13.069983,
+    "geom:longitude":80.209,
+    "iso:country":"IN",
+    "sg:address":"3, Sidco Industrial Estate,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2624 7915",
+    "sg:postcode":"600098",
+    "sg:tags":[
+        "transmission",
+        "belting"
+    ],
+    "sg:website":"http://www.helicord.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931707,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11pDcbSmjGEqkrGt6cqF3L_13.069983_80.209000@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"71067026949948aba05e6308f3de37a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931707,
+            "region_id":85672245,
+            "venue_id":169615543
+        }
+    ],
+    "wof:id":169615543,
+    "wof:lastmodified":1449033732,
+    "wof:name":"Samson Rubber Industries Pvt. Ltd.",
+    "wof:parent_id":85931707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "belting"
+    ]
+},
+  "bbox": [80.209,13.069983,80.209,13.069983],
+  "geometry": {"coordinates":[80.209,13.069983],"type":"Point"}
+}

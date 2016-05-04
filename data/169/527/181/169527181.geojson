@@ -1,0 +1,71 @@
+{
+  "id": 169527181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.207932,28.631531,77.207932,28.631531",
+    "geom:latitude":28.631531,
+    "geom:longitude":77.207932,
+    "iso:country":"IN",
+    "sg:address":"Nikko House, 399, V.p. Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2235 5155",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "bearing",
+        "bush",
+        "ball",
+        "roller",
+        "/"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928273,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79UyzJhLWfW89fzh1DyhVO_28.631531_77.207932@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"63c9ebfa601462536908dc4910cacc5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928273,
+            "region_id":85672123,
+            "venue_id":169527181
+        }
+    ],
+    "wof:id":169527181,
+    "wof:lastmodified":1449035278,
+    "wof:name":"Indo Nikko Bearings Ltd.",
+    "wof:parent_id":85928273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bearing",
+        "bush",
+        "ball",
+        "roller",
+        "/"
+    ]
+},
+  "bbox": [77.207932,28.631531,77.207932,28.631531],
+  "geometry": {"coordinates":[77.207932,28.631531],"type":"Point"}
+}

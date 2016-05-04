@@ -1,0 +1,63 @@
+{
+  "id": 169644301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.815231,18.956123,72.815231,18.956123",
+    "geom:latitude":18.956123,
+    "geom:longitude":72.815231,
+    "iso:country":"IN",
+    "sg:address":"8, Kala Bhavan, 2nd Floor, 3, Mathew Road, Opera House,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2369 4528",
+    "sg:postcode":"400008",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931463,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17oc5W7T2xPkYnDYqxLYsf_18.956123_72.815231@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"190c0dd368b1d6b0e803866870ee7abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931463,
+            "region_id":85672171,
+            "venue_id":169644301
+        }
+    ],
+    "wof:id":169644301,
+    "wof:lastmodified":1449034577,
+    "wof:name":"Vinod Trading Co.",
+    "wof:parent_id":85931463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [72.815231,18.956123,72.815231,18.956123],
+  "geometry": {"coordinates":[72.815231,18.956123],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169536543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.560165,13.007565,77.560165,13.007565",
+    "geom:latitude":13.007565,
+    "geom:longitude":77.560165,
+    "iso:country":"IN",
+    "sg:address":"1133-1134, 1st Floor, 1st Main Road, Yeshwanthpur,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2836 0655",
+    "sg:postcode":"560022",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.powertechindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78jdrCppxK8pj9npRWqrbR_13.007565_77.560165@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7d8a28527ac110a3aedcb28eb6463857",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169536543
+        }
+    ],
+    "wof:id":169536543,
+    "wof:lastmodified":1449034655,
+    "wof:name":"Powertech Pollution Controls Pvt. Ltd.",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.560165,13.007565,77.560165,13.007565],
+  "geometry": {"coordinates":[77.560165,13.007565],"type":"Point"}
+}

@@ -1,0 +1,54 @@
+{
+  "id": 169571519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.216087,28.587399,77.216087,28.587399",
+    "geom:latitude":28.587399,
+    "geom:longitude":77.216087,
+    "iso:country":"IN",
+    "sg:address":"Jor Bagh",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2465 1611",
+    "sg:postcode":"110003",
+    "sg:province":"Delhi",
+    "sg:website":"http://www.asaasc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928309,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OfjFzRhb5oazNOdWpyAjJ_28.587399_77.216087@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d5917fd5de6d7d07f9cbcab42e74f77f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928309,
+            "region_id":85672123,
+            "venue_id":169571519
+        }
+    ],
+    "wof:id":169571519,
+    "wof:lastmodified":1449034948,
+    "wof:name":"American Soybean Association",
+    "wof:parent_id":85928309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.216087,28.587399,77.216087,28.587399],
+  "geometry": {"coordinates":[77.216087,28.587399],"type":"Point"}
+}

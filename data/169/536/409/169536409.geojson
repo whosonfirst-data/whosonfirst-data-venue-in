@@ -1,0 +1,66 @@
+{
+  "id": 169536409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.852913,19.122063,72.852913,19.122063",
+    "geom:latitude":19.122063,
+    "geom:longitude":72.852913,
+    "iso:country":"IN",
+    "sg:address":"34q, Laxmi Estate, Andheri (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2633 5010",
+    "sg:postcode":"400053",
+    "sg:tags":[
+        "garment",
+        "accessory"
+    ],
+    "sg:website":"http://www.shivamnarrowfabrics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931515,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f7wl8yKyNWYaN2whE3dc0_19.122063_72.852913@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ee04fc28b5273678c48093ef7ba1f3ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931515,
+            "region_id":85672171,
+            "venue_id":169536409
+        }
+    ],
+    "wof:id":169536409,
+    "wof:lastmodified":1449034659,
+    "wof:name":"Shivam Impex",
+    "wof:parent_id":85931515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "accessory"
+    ]
+},
+  "bbox": [72.852913,19.122063,72.852913,19.122063],
+  "geometry": {"coordinates":[72.852913,19.122063],"type":"Point"}
+}

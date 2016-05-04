@@ -1,0 +1,64 @@
+{
+  "id": 169584341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.164711,22.289513,73.164711,22.289513",
+    "geom:latitude":22.289513,
+    "geom:longitude":73.164711,
+    "iso:country":"IN",
+    "sg:address":"Abs Towers, Old Padra Road,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 235 5861",
+    "sg:postcode":"390007",
+    "sg:tags":[
+        "dye",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oYciNwZoegHAfeA53amf7_22.289513_73.164711@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"743754dd49f9dd9c6133daee155829cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169584341
+        }
+    ],
+    "wof:id":169584341,
+    "wof:lastmodified":1449033039,
+    "wof:name":"Lanxess Energizing Chemistry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dye",
+        "intermediate"
+    ]
+},
+  "bbox": [73.164711,22.289513,73.164711,22.289513],
+  "geometry": {"coordinates":[73.164711,22.289513],"type":"Point"}
+}

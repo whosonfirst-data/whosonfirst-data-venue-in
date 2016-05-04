@@ -1,0 +1,63 @@
+{
+  "id": 169547645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.946663,11.025138,76.946663,11.025138",
+    "geom:latitude":11.025138,
+    "geom:longitude":76.946663,
+    "iso:country":"IN",
+    "sg:address":"79/51, P. N. Road, Weavers Colony,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 247 5577",
+    "sg:postcode":"641606",
+    "sg:tags":[
+        "t-shirt"
+    ],
+    "sg:website":"http://www.arunaapparels.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H5LPx5ohnAWIESsKD8BB1_11.025138_76.946663@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ba8da69473541ef007f8471a84969386",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169547645
+        }
+    ],
+    "wof:id":169547645,
+    "wof:lastmodified":1449033006,
+    "wof:name":"Aruna Apparels",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "t-shirt"
+    ]
+},
+  "bbox": [76.946663,11.025138,76.946663,11.025138],
+  "geometry": {"coordinates":[76.946663,11.025138],"type":"Point"}
+}

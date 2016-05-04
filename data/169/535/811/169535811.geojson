@@ -1,0 +1,64 @@
+{
+  "id": 169535811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.82885,18.948298,72.82885,18.948298",
+    "geom:latitude":18.948298,
+    "geom:longitude":72.82885,
+    "iso:country":"IN",
+    "sg:address":"R. No. 1, 1st Floor, Swadeshi Market, 316, Kalbadevi Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2200 2785",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "export"
+    ],
+    "sg:website":"http://www.indisilk.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931439,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57wzk3f7JHcqMO2Ir4aTXn_18.948298_72.828850@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"286469cdbb9032512d9d027d4b4096f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931439,
+            "region_id":85672171,
+            "venue_id":169535811
+        }
+    ],
+    "wof:id":169535811,
+    "wof:lastmodified":1449033286,
+    "wof:name":"Shree Balaji Textile Mills",
+    "wof:parent_id":85931439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "export"
+    ]
+},
+  "bbox": [72.82885,18.948298,72.82885,18.948298],
+  "geometry": {"coordinates":[72.82885,18.948298],"type":"Point"}
+}

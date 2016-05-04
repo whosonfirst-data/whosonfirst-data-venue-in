@@ -1,0 +1,65 @@
+{
+  "id": 169535603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.943123,19.153494,72.943123,19.153494",
+    "geom:latitude":19.153494,
+    "geom:longitude":72.943123,
+    "iso:country":"IN",
+    "sg:address":"Subhash Nagar, Bhandup,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2566 3101",
+    "sg:postcode":"421078",
+    "sg:tags":[
+        "equipment",
+        "good"
+    ],
+    "sg:website":"http://www.kilburnengg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29k8ZNgyKg8WJ5o8sBY2xA_19.153494_72.943123@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"979cd382c5df0277494b88019b97aa5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169535603
+        }
+    ],
+    "wof:id":169535603,
+    "wof:lastmodified":1449033288,
+    "wof:name":"Kilburn Engineering Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "good"
+    ]
+},
+  "bbox": [72.943123,19.153494,72.943123,19.153494],
+  "geometry": {"coordinates":[72.943123,19.153494],"type":"Point"}
+}

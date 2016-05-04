@@ -1,0 +1,64 @@
+{
+  "id": 169580733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.217453,28.62397,77.217453,28.62397",
+    "geom:latitude":28.62397,
+    "geom:longitude":77.217453,
+    "iso:country":"IN",
+    "sg:address":"Thapar House, 124, Janpath,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2334 2860",
+    "sg:postcode":"110001",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.jcttextiles.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903833,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5REWdslVsrUvgMKZLedcNK_28.623970_77.217453@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fca7cc0e916396d2531bcca6c19793bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903833,
+            "region_id":85672123,
+            "venue_id":169580733
+        }
+    ],
+    "wof:id":169580733,
+    "wof:lastmodified":1449034911,
+    "wof:name":"Jct Limited",
+    "wof:parent_id":85903833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.217453,28.62397,77.217453,28.62397],
+  "geometry": {"coordinates":[77.217453,28.62397],"type":"Point"}
+}

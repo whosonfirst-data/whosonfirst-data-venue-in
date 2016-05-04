@@ -1,0 +1,60 @@
+{
+  "id": 169559317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"74.693832,29.958469,74.693832,29.958469",
+    "geom:latitude":29.958469,
+    "geom:longitude":74.693832,
+    "iso:country":"IN",
+    "sg:address":"B-20, New Grain Mandi,",
+    "sg:city":"Kota",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 744 236 8427",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tx2rFr0uMKroV9uaG3EkP_29.958469_74.693832@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"423b0c9a1c8d2ad06087c8697ab50ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672195,
+            "venue_id":169559317
+        }
+    ],
+    "wof:id":169559317,
+    "wof:lastmodified":1449035237,
+    "wof:name":"Chemtech Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [74.693832,29.958469,74.693832,29.958469],
+  "geometry": {"coordinates":[74.693832,29.958469],"type":"Point"}
+}

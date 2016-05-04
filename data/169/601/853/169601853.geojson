@@ -1,0 +1,63 @@
+{
+  "id": 169601853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.336029,28.586586,77.336029,28.586586",
+    "geom:latitude":28.586586,
+    "geom:longitude":77.336029,
+    "iso:country":"IN",
+    "sg:address":"350, Sector 21-b,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 241 2186",
+    "sg:postcode":"121001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928405,
+        85632469,
+        102031133,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OIlHxNaTezdSocAf3emNu_28.586586_77.336029@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fd9836a70c5fdcff35434848dad129c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031133,
+            "neighbourhood_id":85928405,
+            "region_id":85672205,
+            "venue_id":169601853
+        }
+    ],
+    "wof:id":169601853,
+    "wof:lastmodified":1449034147,
+    "wof:name":"Pnp & Associates Pvt. Ltd.",
+    "wof:parent_id":85928405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.336029,28.586586,77.336029,28.586586],
+  "geometry": {"coordinates":[77.336029,28.586586],"type":"Point"}
+}

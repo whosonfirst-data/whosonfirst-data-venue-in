@@ -1,0 +1,63 @@
+{
+  "id": 169583719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.232941,28.65781,77.232941,28.65781",
+    "geom:latitude":28.65781,
+    "geom:longitude":77.232941,
+    "iso:country":"IN",
+    "sg:address":"15d, Everest House, 46c, J.l. Nehru Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2288 1217",
+    "sg:tags":[
+        "fine"
+    ],
+    "sg:website":"http://www.kunjal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928099,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CranPLE6GjOCHZtZQSLEw_28.657810_77.232941@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"614c32dfcfbb7fd57f2e9090b792ff3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928099,
+            "region_id":85672123,
+            "venue_id":169583719
+        }
+    ],
+    "wof:id":169583719,
+    "wof:lastmodified":1449035264,
+    "wof:name":"Kunjal Synergies Private Limited",
+    "wof:parent_id":85928099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fine"
+    ]
+},
+  "bbox": [77.232941,28.65781,77.232941,28.65781],
+  "geometry": {"coordinates":[77.232941,28.65781],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169617903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.926125,19.063095,72.926125,19.063095",
+    "geom:latitude":19.063095,
+    "geom:longitude":72.926125,
+    "iso:country":"IN",
+    "sg:address":"B-153, Phase-ii,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 256 7460",
+    "sg:postcode":"201305",
+    "sg:tags":[
+        "sealant",
+        "adhesive"
+    ],
+    "sg:website":"http://www.seagull-adhesives.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931557,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qfV0lDoOTG4OazeVUdUbe_19.063095_72.926125@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e60b8cca7021b962457170a1b4c06817",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931557,
+            "region_id":85672171,
+            "venue_id":169617903
+        }
+    ],
+    "wof:id":169617903,
+    "wof:lastmodified":1449032799,
+    "wof:name":"Seagull Industrial Adhesives Pvt. Ltd.",
+    "wof:parent_id":85931557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sealant",
+        "adhesive"
+    ]
+},
+  "bbox": [72.926125,19.063095,72.926125,19.063095],
+  "geometry": {"coordinates":[72.926125,19.063095],"type":"Point"}
+}

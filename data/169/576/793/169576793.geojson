@@ -1,0 +1,64 @@
+{
+  "id": 169576793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.206306,28.518024,77.206306,28.518024",
+    "geom:latitude":28.518024,
+    "geom:longitude":77.206306,
+    "iso:country":"IN",
+    "sg:address":"A-1/152, Neb Sarai, Ignou Road,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2953 1288",
+    "sg:postcode":"110068",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.fontuswater.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928609,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mR9cmqExjesSword0In7A_28.518024_77.206306@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ea8e429bafa71134b5840c0cfb9e75bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928609,
+            "region_id":85672123,
+            "venue_id":169576793
+        }
+    ],
+    "wof:id":169576793,
+    "wof:lastmodified":1449035198,
+    "wof:name":"Fontus Water Ltd.",
+    "wof:parent_id":85928609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.206306,28.518024,77.206306,28.518024],
+  "geometry": {"coordinates":[77.206306,28.518024],"type":"Point"}
+}

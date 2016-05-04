@@ -1,0 +1,65 @@
+{
+  "id": 169527875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.829842,18.955637,72.829842,18.955637",
+    "geom:latitude":18.955637,
+    "geom:longitude":72.829842,
+    "iso:country":"IN",
+    "sg:address":"132/134, Bapu Khote St.,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2346 0134",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "publisher",
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931435,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KbP7hBY6efCGwEsfucrXN_18.955637_72.829842@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"59fefef629d86895dacbaab76b62905c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931435,
+            "region_id":85672171,
+            "venue_id":169527875
+        }
+    ],
+    "wof:id":169527875,
+    "wof:lastmodified":1449035278,
+    "wof:name":"Molvi Mohammed Bin Gulamrasul Surtis Sons",
+    "wof:parent_id":85931435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher",
+        "book"
+    ]
+},
+  "bbox": [72.829842,18.955637,72.829842,18.955637],
+  "geometry": {"coordinates":[72.829842,18.955637],"type":"Point"}
+}

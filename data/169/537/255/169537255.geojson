@@ -1,0 +1,71 @@
+{
+  "id": 169537255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.535645,12.983744,77.535645,12.983744",
+    "geom:latitude":12.983744,
+    "geom:longitude":77.535645,
+    "iso:country":"IN",
+    "sg:address":"No. 241, Ews, 2nd Stage, Khb Colony, Basaveshwaranagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2338 1472",
+    "sg:postcode":"560079",
+    "sg:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_734euJ0QXuYuDvB4PXqF3Q_12.983744_77.535645@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"db9c86aa585eb5388a5e51366bd710d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169537255
+        }
+    ],
+    "wof:id":169537255,
+    "wof:lastmodified":1449033498,
+    "wof:name":"Arun Precision Engineering",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "auto",
+        "part",
+        "turned",
+        "precision"
+    ]
+},
+  "bbox": [77.535645,12.983744,77.535645,12.983744],
+  "geometry": {"coordinates":[77.535645,12.983744],"type":"Point"}
+}

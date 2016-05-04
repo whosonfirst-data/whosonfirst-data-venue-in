@@ -1,0 +1,70 @@
+{
+  "id": 169534829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.935242,19.130491,72.935242,19.130491",
+    "geom:latitude":19.130491,
+    "geom:longitude":72.935242,
+    "iso:country":"IN",
+    "sg:address":"L.b.s. Marg, Nr. Sbi, Bhandup (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2596 8191",
+    "sg:postcode":"400078",
+    "sg:tags":[
+        "transmission",
+        "line",
+        "good",
+        "electrical"
+    ],
+    "sg:website":"http://www.itpplindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931633,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a1Gfo5JFnKr4IoqRNSdcd_19.130491_72.935242@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"666a6001e4132a1f19f78c749dd6dfe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931633,
+            "region_id":85672171,
+            "venue_id":169534829
+        }
+    ],
+    "wof:id":169534829,
+    "wof:lastmodified":1449033552,
+    "wof:name":"International Transmission Products Pvt. Ltd.",
+    "wof:parent_id":85931633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "line",
+        "good",
+        "electrical"
+    ]
+},
+  "bbox": [72.935242,19.130491,72.935242,19.130491],
+  "geometry": {"coordinates":[72.935242,19.130491],"type":"Point"}
+}

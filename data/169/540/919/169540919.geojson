@@ -1,0 +1,64 @@
+{
+  "id": 169540919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.5877,12.962626,77.5877,12.962626",
+    "geom:latitude":12.962626,
+    "geom:longitude":77.5877,
+    "iso:country":"IN",
+    "sg:address":"# 64, 3rd Cross, Cubbonpet,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2224 0042",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "silk"
+    ],
+    "sg:website":"http://www.chowdeswarisilks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PKwv8LTnBslrckxcBoBiK_12.962626_77.587700@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"05456eefa314c68db065aa1be75e9652",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169540919
+        }
+    ],
+    "wof:id":169540919,
+    "wof:lastmodified":1449033976,
+    "wof:name":"Sri Chowdeswari Silk",
+    "wof:parent_id":85930903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.5877,12.962626,77.5877,12.962626],
+  "geometry": {"coordinates":[77.5877,12.962626],"type":"Point"}
+}

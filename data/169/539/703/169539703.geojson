@@ -1,0 +1,63 @@
+{
+  "id": 169539703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.549568,13.00691,77.549568,13.00691",
+    "geom:latitude":13.00691,
+    "geom:longitude":77.549568,
+    "iso:country":"IN",
+    "sg:address":"#133, 3rd Cross, Milk Colony, Malleswaram West,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Musical Instruments",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2342 0750",
+    "sg:postcode":"560055",
+    "sg:tags":[
+        "scientific"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UUwJibeG01tBrfNb8gu9x_13.006910_77.549568@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b129b84ebb891ebbff0ed52839e70425",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169539703
+        }
+    ],
+    "wof:id":169539703,
+    "wof:lastmodified":1449036036,
+    "wof:name":"Heat Control Instruments",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scientific"
+    ]
+},
+  "bbox": [77.549568,13.00691,77.549568,13.00691],
+  "geometry": {"coordinates":[77.549568,13.00691],"type":"Point"}
+}

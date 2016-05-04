@@ -1,0 +1,64 @@
+{
+  "id": 169542589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.651192,13.01047,77.651192,13.01047",
+    "geom:latitude":13.01047,
+    "geom:longitude":77.651192,
+    "iso:country":"IN",
+    "sg:address":"#83, 3rd Main Road, N.s. Palya,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2678 6133",
+    "sg:postcode":"560076",
+    "sg:tags":[
+        "surgical"
+    ],
+    "sg:website":"http://www.dentalsurge.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931129,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dSM93eGvL2QWnvN702kJM_13.010470_77.651192@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f897b37739feaf3c39d19432381a8ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931129,
+            "region_id":85672165,
+            "venue_id":169542589
+        }
+    ],
+    "wof:id":169542589,
+    "wof:lastmodified":1449035222,
+    "wof:name":"Dental Surge",
+    "wof:parent_id":85931129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical"
+    ]
+},
+  "bbox": [77.651192,13.01047,77.651192,13.01047],
+  "geometry": {"coordinates":[77.651192,13.01047],"type":"Point"}
+}

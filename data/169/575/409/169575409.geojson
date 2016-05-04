@@ -1,0 +1,61 @@
+{
+  "id": 169575409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.52063,16.589197,80.52063,16.589197",
+    "geom:latitude":16.589197,
+    "geom:longitude":80.52063,
+    "iso:country":"IN",
+    "sg:address":"173, M.g.road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2238 4061",
+    "sg:postcode":"700007",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30ssRa35JqgavYHB2LzSKQ_16.589197_80.520630@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"562cc893c7e5c6493d907eb4049cfc60",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169575409
+        }
+    ],
+    "wof:id":169575409,
+    "wof:lastmodified":1449033641,
+    "wof:name":"Aurum Pharmachem (p) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [80.52063,16.589197,80.52063,16.589197],
+  "geometry": {"coordinates":[80.52063,16.589197],"type":"Point"}
+}

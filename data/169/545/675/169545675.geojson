@@ -1,0 +1,63 @@
+{
+  "id": 169545675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.191254,13.039797,80.191254,13.039797",
+    "geom:latitude":13.039797,
+    "geom:longitude":80.191254,
+    "iso:country":"IN",
+    "sg:address":"3x/95, Mariyamman Koil Street, M.g.r.nagar,",
+    "sg:city":"Thuthipattu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Leather Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2224 1086",
+    "sg:postcode":"635811",
+    "sg:tags":[
+        "finished"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903779,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IKzudzNWqAMQMoeWUFVrZ_13.039797_80.191254@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"80a0ee4c14c2bccff8dfeca5e02e574f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903779,
+            "region_id":85672245,
+            "venue_id":169545675
+        }
+    ],
+    "wof:id":169545675,
+    "wof:lastmodified":1449033487,
+    "wof:name":"Winytan Leather Exports",
+    "wof:parent_id":85903779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finished"
+    ]
+},
+  "bbox": [80.191254,13.039797,80.191254,13.039797],
+  "geometry": {"coordinates":[80.191254,13.039797],"type":"Point"}
+}

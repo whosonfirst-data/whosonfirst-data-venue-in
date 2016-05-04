@@ -1,0 +1,73 @@
+{
+  "id": 169651183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.347944,22.545893,88.347944,22.545893",
+    "geom:latitude":22.545893,
+    "geom:longitude":88.347944,
+    "iso:country":"IN",
+    "sg:address":"43 Jawaharlal Nehru Road Kolkata 700 071",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"700071",
+    "sg:tags":[
+        "online-auction",
+        "ecommerce",
+        "indian-steel",
+        "indian-coal",
+        "sourcing",
+        "conference"
+    ],
+    "sg:website":"http://www.mjunction.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931951,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bPnXPjQEQZg3W8MxsmlVr_22.545893_88.347944@1308163241"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"89b19ebb8ca4157de687cf325d7860ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931951,
+            "region_id":85672219,
+            "venue_id":169651183
+        }
+    ],
+    "wof:id":169651183,
+    "wof:lastmodified":1449033346,
+    "wof:name":"mjunction services limite",
+    "wof:parent_id":85931951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "online-auction",
+        "ecommerce",
+        "indian-steel",
+        "indian-coal",
+        "sourcing",
+        "conference"
+    ]
+},
+  "bbox": [88.347944,22.545893,88.347944,22.545893],
+  "geometry": {"coordinates":[88.347944,22.545893],"type":"Point"}
+}

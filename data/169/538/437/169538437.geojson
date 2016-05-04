@@ -1,0 +1,68 @@
+{
+  "id": 169538437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.750946,12.977327,77.750946,12.977327",
+    "geom:latitude":12.977327,
+    "geom:longitude":77.750946,
+    "iso:country":"IN",
+    "sg:address":"P.b. No. 16, Whitefield Road, Whitefield,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2845 2088",
+    "sg:postcode":"560066",
+    "sg:tags":[
+        "equipment",
+        "pump",
+        "pumping"
+    ],
+    "sg:website":"http://www.yukenindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931165,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1INk3uSk6Uyo78p396tfpf_12.977327_77.750946@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8aaf2e21ef34ce195be77bc7238b35cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931165,
+            "region_id":85672165,
+            "venue_id":169538437
+        }
+    ],
+    "wof:id":169538437,
+    "wof:lastmodified":1449033099,
+    "wof:name":"Yuken India Limited",
+    "wof:parent_id":85931165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "pump",
+        "pumping"
+    ]
+},
+  "bbox": [77.750946,12.977327,77.750946,12.977327],
+  "geometry": {"coordinates":[77.750946,12.977327],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169549339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.820831,18.552414,73.820831,18.552414",
+    "geom:latitude":18.552414,
+    "geom:longitude":73.820831,
+    "iso:country":"IN",
+    "sg:address":"17, Anand Nagar, Unversity Road,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 244 0333",
+    "sg:postcode":"313001",
+    "sg:tags":[
+        "marble"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903811,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iBaLzkByzB0ET8UXm7dI9_18.552414_73.820831@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6403f6818460f76f63bad84fb8ff2ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85903811,
+            "region_id":85672171,
+            "venue_id":169549339
+        }
+    ],
+    "wof:id":169549339,
+    "wof:lastmodified":1449033593,
+    "wof:name":"Rajdeep Marble",
+    "wof:parent_id":85903811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marble"
+    ]
+},
+  "bbox": [73.820831,18.552414,73.820831,18.552414],
+  "geometry": {"coordinates":[73.820831,18.552414],"type":"Point"}
+}

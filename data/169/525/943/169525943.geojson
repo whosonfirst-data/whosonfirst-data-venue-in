@@ -1,0 +1,65 @@
+{
+  "id": 169525943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.0093,27.177719,78.0093,27.177719",
+    "geom:latitude":27.177719,
+    "geom:longitude":78.0093,
+    "iso:country":"IN",
+    "sg:address":"Agra Road, Ind. Premises Co-op. Society Ltd., C/25a, Ghatkopar (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2500 8758",
+    "sg:postcode":"400086",
+    "sg:tags":[
+        "aluminium",
+        "foil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903907,
+        85632469,
+        102031021,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R7rLN0zaNhj18evaW6lMJ_27.177719_78.009300@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ce4cce8a057e500da680acb571c71d18",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031021,
+            "neighbourhood_id":85903907,
+            "region_id":85672205,
+            "venue_id":169525943
+        }
+    ],
+    "wof:id":169525943,
+    "wof:lastmodified":1449035272,
+    "wof:name":"Alfabco",
+    "wof:parent_id":85903907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aluminium",
+        "foil"
+    ]
+},
+  "bbox": [78.0093,27.177719,78.0093,27.177719],
+  "geometry": {"coordinates":[78.0093,27.177719],"type":"Point"}
+}

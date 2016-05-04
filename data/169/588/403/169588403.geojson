@@ -1,0 +1,63 @@
+{
+  "id": 169588403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.873344,19.117481,72.873344,19.117481",
+    "geom:latitude":19.117481,
+    "geom:longitude":72.873344,
+    "iso:country":"IN",
+    "sg:address":"E-108, Road No. 7, V.k.i. Area,",
+    "sg:city":"Jaipur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 141 233 0726",
+    "sg:postcode":"302013",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zykyQODDPGTFJO4OZ9Hto_19.117481_72.873344@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3e34e210e0d668cfa43f088b4600ed49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169588403
+        }
+    ],
+    "wof:id":169588403,
+    "wof:lastmodified":1449035310,
+    "wof:name":"Medicoptics Pvt. Ltd.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.873344,19.117481,72.873344,19.117481],
+  "geometry": {"coordinates":[72.873344,19.117481],"type":"Point"}
+}

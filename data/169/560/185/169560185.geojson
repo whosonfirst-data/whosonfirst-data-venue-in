@@ -1,0 +1,64 @@
+{
+  "id": 169560185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.778671,18.639656,73.778671,18.639656",
+    "geom:latitude":18.639656,
+    "geom:longitude":73.778671,
+    "iso:country":"IN",
+    "sg:address":"W-264, Midc, Bhosari,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2712 1030",
+    "sg:postcode":"411026",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.demichem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931299,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Kc7OXoKzSVH1zvKLsrS0d_18.639656_73.778671@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3b1b463a9f6680bf9f727ad14cfcecb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931299,
+            "region_id":85672171,
+            "venue_id":169560185
+        }
+    ],
+    "wof:id":169560185,
+    "wof:lastmodified":1449035180,
+    "wof:name":"Demi Specialty Chemicals & Co.",
+    "wof:parent_id":85931299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [73.778671,18.639656,73.778671,18.639656],
+  "geometry": {"coordinates":[73.778671,18.639656],"type":"Point"}
+}

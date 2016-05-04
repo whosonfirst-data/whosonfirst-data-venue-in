@@ -1,0 +1,63 @@
+{
+  "id": 169539659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.507484,17.427467,78.507484,17.427467",
+    "geom:latitude":17.427467,
+    "geom:longitude":78.507484,
+    "iso:country":"IN",
+    "sg:address":"17/3, J.c. Road Cross, Behind Sbi,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4114 2305",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "scaffolding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930701,
+        85632469,
+        102028703,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PotVW4RTNyw00E2VjQKYP_17.427467_78.507484@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a94e278887a35c9aa9d6f5c6af2a585d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028703,
+            "neighbourhood_id":85930701,
+            "region_id":85672141,
+            "venue_id":169539659
+        }
+    ],
+    "wof:id":169539659,
+    "wof:lastmodified":1449036037,
+    "wof:name":"Mahashakthi Construction Equipments Co.",
+    "wof:parent_id":85930701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scaffolding"
+    ]
+},
+  "bbox": [78.507484,17.427467,78.507484,17.427467],
+  "geometry": {"coordinates":[78.507484,17.427467],"type":"Point"}
+}

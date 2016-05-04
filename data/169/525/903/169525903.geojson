@@ -1,0 +1,65 @@
+{
+  "id": 169525903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.809395,19.139736,72.809395,19.139736",
+    "geom:latitude":19.139736,
+    "geom:longitude":72.809395,
+    "iso:country":"IN",
+    "sg:address":"604/a, Nirman Cottage, Yari Road, Andheri(w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2636 4360",
+    "sg:postcode":"400061",
+    "sg:tags":[
+        "equipment",
+        "air-conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931475,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zh81rA3E84QWxOrh44i0w_19.139736_72.809395@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8e7ca55ad3be59962eee79716e284d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931475,
+            "region_id":85672171,
+            "venue_id":169525903
+        }
+    ],
+    "wof:id":169525903,
+    "wof:lastmodified":1449035273,
+    "wof:name":"Pharma Access",
+    "wof:parent_id":85931475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "air-conditioning"
+    ]
+},
+  "bbox": [72.809395,19.139736,72.809395,19.139736],
+  "geometry": {"coordinates":[72.809395,19.139736],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169528017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.850136,19.206161,72.850136,19.206161",
+    "geom:latitude":19.206161,
+    "geom:longitude":72.850136,
+    "iso:country":"IN",
+    "sg:address":"15, Gopal House, I.b. Patel, Goregaon (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2686 5088",
+    "sg:postcode":"400063",
+    "sg:tags":[
+        "box"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931623,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UYKOypHwS3Ml5KdtRSe0X_19.206161_72.850136@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1eacb5e898db295b715571c46fce15cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931623,
+            "region_id":85672171,
+            "venue_id":169528017
+        }
+    ],
+    "wof:id":169528017,
+    "wof:lastmodified":1449033569,
+    "wof:name":"Bharat Enterprises",
+    "wof:parent_id":85931623,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "box"
+    ]
+},
+  "bbox": [72.850136,19.206161,72.850136,19.206161],
+  "geometry": {"coordinates":[72.850136,19.206161],"type":"Point"}
+}

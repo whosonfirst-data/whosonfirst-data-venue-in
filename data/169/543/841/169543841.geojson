@@ -1,0 +1,63 @@
+{
+  "id": 169543841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.59494,12.992598,77.59494,12.992598",
+    "geom:latitude":12.992598,
+    "geom:longitude":77.59494,
+    "iso:country":"IN",
+    "sg:address":"48, Millers Tank Bund Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2235 0905",
+    "sg:postcode":"560052",
+    "sg:tags":[
+        "t-shirt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930961,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eFNWwz02l73IE6R58KfTI_12.992598_77.594940@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2172d3225c99a8b98a147fd89155c8b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930961,
+            "region_id":85672165,
+            "venue_id":169543841
+        }
+    ],
+    "wof:id":169543841,
+    "wof:lastmodified":1449033334,
+    "wof:name":"J. R. Trading Pvt. Ltd.",
+    "wof:parent_id":85930961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "t-shirt"
+    ]
+},
+  "bbox": [77.59494,12.992598,77.59494,12.992598],
+  "geometry": {"coordinates":[77.59494,12.992598],"type":"Point"}
+}

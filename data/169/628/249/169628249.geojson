@@ -1,0 +1,65 @@
+{
+  "id": 169628249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.949402,11.010008,76.949402,11.010008",
+    "geom:latitude":11.010008,
+    "geom:longitude":76.949402,
+    "iso:country":"IN",
+    "sg:address":"121, T.v. Swamy Road (west), R.s. Puram,",
+    "sg:city":"Coimbatore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 422 255 3589",
+    "sg:postcode":"641002",
+    "sg:tags":[
+        "natural",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783699,
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IEumaCJNVPYHuWfCeeX9u_11.010008_76.949402@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f9b37b7a63174247d6d58a51cc790a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":85783699,
+            "region_id":85672245,
+            "venue_id":169628249
+        }
+    ],
+    "wof:id":169628249,
+    "wof:lastmodified":1449035332,
+    "wof:name":"Sriji Enterprises",
+    "wof:parent_id":85783699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "natural",
+        "-"
+    ]
+},
+  "bbox": [76.949402,11.010008,76.949402,11.010008],
+  "geometry": {"coordinates":[76.949402,11.010008],"type":"Point"}
+}

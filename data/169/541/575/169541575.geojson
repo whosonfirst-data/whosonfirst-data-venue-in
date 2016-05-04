@@ -1,0 +1,63 @@
+{
+  "id": 169541575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.600098,12.967547,77.600098,12.967547",
+    "geom:latitude":12.967547,
+    "geom:longitude":77.600098,
+    "iso:country":"IN",
+    "sg:address":"No.407, 4th Floor, Devtha Plaza, Residency Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 802222156256",
+    "sg:postcode":"560025",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930949,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tju2cJUmqRpyucYLzO4df_12.967547_77.600098@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c835cc8be003e41139b05ed056d215d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930949,
+            "region_id":85672165,
+            "venue_id":169541575
+        }
+    ],
+    "wof:id":169541575,
+    "wof:lastmodified":1449033043,
+    "wof:name":"Wendt India Ltd.",
+    "wof:parent_id":85930949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [77.600098,12.967547,77.600098,12.967547],
+  "geometry": {"coordinates":[77.600098,12.967547],"type":"Point"}
+}

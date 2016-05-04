@@ -1,0 +1,65 @@
+{
+  "id": 169534371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.818054,19.00559,72.818054,19.00559",
+    "geom:latitude":19.00559,
+    "geom:longitude":72.818054,
+    "iso:country":"IN",
+    "sg:address":"79, Dr. Annie Besant Road, Worli,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2493 2071",
+    "sg:postcode":"400018",
+    "sg:tags":[
+        "electric",
+        "power"
+    ],
+    "sg:website":"http://www.boschindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903999,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y98rq5apqzBGZAgQt7s0y_19.005590_72.818054@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"500674193d93e859abe441bdeac1d6fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903999,
+            "region_id":85672171,
+            "venue_id":169534371
+        }
+    ],
+    "wof:id":169534371,
+    "wof:lastmodified":1449033552,
+    "wof:name":"Motor Industries Co. Ltd.",
+    "wof:parent_id":85903999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "power"
+    ]
+},
+  "bbox": [72.818054,19.00559,72.818054,19.00559],
+  "geometry": {"coordinates":[72.818054,19.00559],"type":"Point"}
+}

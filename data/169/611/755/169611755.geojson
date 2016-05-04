@@ -1,0 +1,63 @@
+{
+  "id": 169611755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833595,19.089176,72.833595,19.089176",
+    "geom:latitude":19.089176,
+    "geom:longitude":72.833595,
+    "iso:country":"IN",
+    "sg:address":"42/44-a, Dhiraj Heritage, 4th Floor, S.v. Road, Santacruz (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2660 3166",
+    "sg:postcode":"400054",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.rooprasayan.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931575,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60t8SuBFeaTQAADhLOjm4l_19.089176_72.833595@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8230c9e86b51a1dbaca74a0b088b78e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85931575,
+            "region_id":85672171,
+            "venue_id":169611755
+        }
+    ],
+    "wof:id":169611755,
+    "wof:lastmodified":1449035263,
+    "wof:name":"Roop Rasyan Industries Pvt. Ltd.",
+    "wof:parent_id":85931575,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [72.833595,19.089176,72.833595,19.089176],
+  "geometry": {"coordinates":[72.833595,19.089176],"type":"Point"}
+}

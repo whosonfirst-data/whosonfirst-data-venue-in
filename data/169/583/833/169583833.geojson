@@ -1,0 +1,63 @@
+{
+  "id": 169583833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.222298,28.659807,77.222298,28.659807",
+    "geom:latitude":28.659807,
+    "geom:longitude":77.222298,
+    "iso:country":"IN",
+    "sg:address":"Bg-7 East, Shalimar Bagh,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2749 4536",
+    "sg:postcode":"110088",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928109,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RXLiLFroHdO3jJaImcsWt_28.659807_77.222298@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a8e6c5fa6c81f89ad016d4d3f5d716b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928109,
+            "region_id":85672123,
+            "venue_id":169583833
+        }
+    ],
+    "wof:id":169583833,
+    "wof:lastmodified":1449035264,
+    "wof:name":"Kwality Rubber Products Co.",
+    "wof:parent_id":85928109,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.222298,28.659807,77.222298,28.659807],
+  "geometry": {"coordinates":[77.222298,28.659807],"type":"Point"}
+}

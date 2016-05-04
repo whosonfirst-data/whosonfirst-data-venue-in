@@ -1,0 +1,63 @@
+{
+  "id": 169581325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.155037,28.661768,77.155037,28.661768",
+    "geom:latitude":28.661768,
+    "geom:longitude":77.155037,
+    "iso:country":"IN",
+    "sg:address":"70, Najafgarh Road Indl. Area, (rama Road),",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2593 4095",
+    "sg:postcode":"110015",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927889,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20zllyaNr3RiW7HydKIHIJ_28.661768_77.155037@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"038763886f37e71a4e6bd8e8d5deb713",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927889,
+            "region_id":85672123,
+            "venue_id":169581325
+        }
+    ],
+    "wof:id":169581325,
+    "wof:lastmodified":1449033379,
+    "wof:name":"K. V. Paints & Chemical Co.",
+    "wof:parent_id":85927889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [77.155037,28.661768,77.155037,28.661768],
+  "geometry": {"coordinates":[77.155037,28.661768],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169576717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.192368,28.650362,77.192368,28.650362",
+    "geom:latitude":28.650362,
+    "geom:longitude":77.192368,
+    "iso:country":"IN",
+    "sg:address":"16/10196, Beodan Pura, Karol Bagh,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2875 5431",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.floretimpex.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928243,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TbnzpPNZy68xzEUp9bnLJ_28.650362_77.192368@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9a5fdd4ff379e7a1315a27c6c7596d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928243,
+            "region_id":85672123,
+            "venue_id":169576717
+        }
+    ],
+    "wof:id":169576717,
+    "wof:lastmodified":1449035195,
+    "wof:name":"Floret Impex Pvt. Ltd.",
+    "wof:parent_id":85928243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.192368,28.650362,77.192368,28.650362],
+  "geometry": {"coordinates":[77.192368,28.650362],"type":"Point"}
+}

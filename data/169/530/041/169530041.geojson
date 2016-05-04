@@ -1,0 +1,65 @@
+{
+  "id": 169530041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.840912,18.988207,72.840912,18.988207",
+    "geom:latitude":18.988207,
+    "geom:longitude":72.840912,
+    "iso:country":"IN",
+    "sg:address":"Abhudaya Nagar, Kala Chowky,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2470 8074",
+    "sg:postcode":"400033",
+    "sg:tags":[
+        "garment",
+        "childrenwear"
+    ],
+    "sg:website":"http://www.eleena.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903961,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55XzagsBpMNwroTuIpBKOZ_18.988207_72.840912@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5ad9f76a488e9bf01d0f09f7b90a6543",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903961,
+            "region_id":-1,
+            "venue_id":169530041
+        }
+    ],
+    "wof:id":169530041,
+    "wof:lastmodified":1449034443,
+    "wof:name":"Eleena Exports Inc.",
+    "wof:parent_id":85903961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "childrenwear"
+    ]
+},
+  "bbox": [72.840912,18.988207,72.840912,18.988207],
+  "geometry": {"coordinates":[72.840912,18.988207],"type":"Point"}
+}

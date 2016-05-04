@@ -1,0 +1,54 @@
+{
+  "id": 169570327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.253448,28.550797,77.253448,28.550797",
+    "geom:latitude":28.550797,
+    "geom:longitude":77.253448,
+    "iso:country":"IN",
+    "sg:address":"43, Nehru Place",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2622 9154",
+    "sg:postcode":"110019",
+    "sg:province":"Delhi",
+    "sg:website":"http://www.integral-world.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928361,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WatkbdForIGsqmApNM04Z_28.550797_77.253448@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"309631e7304c7a52ad11928134e359c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928361,
+            "region_id":85672123,
+            "venue_id":169570327
+        }
+    ],
+    "wof:id":169570327,
+    "wof:lastmodified":1449034644,
+    "wof:name":"Integral Computers",
+    "wof:parent_id":85928361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.253448,28.550797,77.253448,28.550797],
+  "geometry": {"coordinates":[77.253448,28.550797],"type":"Point"}
+}

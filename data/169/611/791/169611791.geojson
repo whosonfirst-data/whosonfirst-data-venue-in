@@ -1,0 +1,66 @@
+{
+  "id": 169611791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.226303,13.02526,80.226303,13.02526",
+    "geom:latitude":13.02526,
+    "geom:longitude":80.226303,
+    "iso:country":"IN",
+    "sg:address":"68 East Jones Road,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2431 0015",
+    "sg:postcode":"600015",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "sg:website":"http://www.roopamproducts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903867,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aTsE6tlm9WFDFwmJpadbx_13.025260_80.226303@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"71b6b450b5e72898dd9aca5fe0204042",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903867,
+            "region_id":85672245,
+            "venue_id":169611791
+        }
+    ],
+    "wof:id":169611791,
+    "wof:lastmodified":1449035265,
+    "wof:name":"Roopam Products",
+    "wof:parent_id":85903867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [80.226303,13.02526,80.226303,13.02526],
+  "geometry": {"coordinates":[80.226303,13.02526],"type":"Point"}
+}

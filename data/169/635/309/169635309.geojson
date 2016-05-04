@@ -1,0 +1,64 @@
+{
+  "id": 169635309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.264877,12.995867,80.264877,12.995867",
+    "geom:latitude":12.995867,
+    "geom:longitude":80.264877,
+    "iso:country":"IN",
+    "sg:address":"291, Pandian Nagar, First Street,",
+    "sg:city":"Thiruthangal",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 4562 230 011",
+    "sg:postcode":"626130",
+    "sg:tags":[
+        "wax"
+    ],
+    "sg:website":"http://business.vsnl.com/matchmakers/index.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903973,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7P33SxoI43UBCfkXArwtKV_12.995867_80.264877@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1b86e12e17f4e8ac4e739a545c2b4637",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903973,
+            "region_id":85672245,
+            "venue_id":169635309
+        }
+    ],
+    "wof:id":169635309,
+    "wof:lastmodified":1449034097,
+    "wof:name":"Thangavel Match Industries",
+    "wof:parent_id":85903973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [80.264877,12.995867,80.264877,12.995867],
+  "geometry": {"coordinates":[80.264877,12.995867],"type":"Point"}
+}

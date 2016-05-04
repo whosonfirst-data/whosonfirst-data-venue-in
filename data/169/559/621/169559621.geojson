@@ -1,0 +1,53 @@
+{
+  "id": 169559621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.849991,18.511253,73.849991,18.511253",
+    "geom:latitude":18.511253,
+    "geom:longitude":73.849991,
+    "iso:country":"IN",
+    "sg:address":"Sadashiv Peth",
+    "sg:city":"Pune",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 204475448",
+    "sg:postcode":"411030",
+    "sg:province":"Maharashtra",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931207,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H7vJeYopUdi2eENBuPMx2_18.511253_73.849991@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fcd03e30de12972b91552b5daa9dd5e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931207,
+            "region_id":85672171,
+            "venue_id":169559621
+        }
+    ],
+    "wof:id":169559621,
+    "wof:lastmodified":1449035238,
+    "wof:name":"Fine Lasercut Pvt Ltd",
+    "wof:parent_id":85931207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [73.849991,18.511253,73.849991,18.511253],
+  "geometry": {"coordinates":[73.849991,18.511253],"type":"Point"}
+}

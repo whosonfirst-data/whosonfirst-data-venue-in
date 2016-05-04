@@ -1,0 +1,54 @@
+{
+  "id": 169570265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.566696,13.007428,77.566696,13.007428",
+    "geom:latitude":13.007428,
+    "geom:longitude":77.566696,
+    "iso:country":"IN",
+    "sg:address":"17th Cross, 6th Main Malleswaram West",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 803344994",
+    "sg:postcode":"560055",
+    "sg:province":"Karnataka",
+    "sg:website":"http://www.smsoftware.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CiPc0blmccO71x6yUys5o_13.007428_77.566696@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e4499f414f40026a582e7fe6da27e275",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169570265
+        }
+    ],
+    "wof:id":169570265,
+    "wof:lastmodified":1449034645,
+    "wof:name":"Sm Software",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.566696,13.007428,77.566696,13.007428],
+  "geometry": {"coordinates":[77.566696,13.007428],"type":"Point"}
+}

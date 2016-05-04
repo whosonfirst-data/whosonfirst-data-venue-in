@@ -1,0 +1,54 @@
+{
+  "id": 169556335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.853104,19.014492,72.853104,19.014492",
+    "geom:latitude":19.014492,
+    "geom:longitude":72.853104,
+    "iso:country":"IN",
+    "sg:address":"T. J. Road, Sewree",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2413 7094",
+    "sg:postcode":"400015",
+    "sg:province":"Maharashtra",
+    "sg:website":"http://www.bombayengg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903993,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HGYXCAPPIwwMBcvpA5TrR_19.014492_72.853104@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0bb65cc197c9ebbcf21c3c87bbcd0160",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903993,
+            "region_id":85672171,
+            "venue_id":169556335
+        }
+    ],
+    "wof:id":169556335,
+    "wof:lastmodified":1449033508,
+    "wof:name":"The Bombay Engineering Works",
+    "wof:parent_id":85903993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.853104,19.014492,72.853104,19.014492],
+  "geometry": {"coordinates":[72.853104,19.014492],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169596013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.135574,28.714409,77.135574,28.714409",
+    "geom:latitude":28.714409,
+    "geom:longitude":77.135574,
+    "iso:country":"IN",
+    "sg:address":"B-52, Prashant Vihar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2756 6054",
+    "sg:postcode":"110085",
+    "sg:tags":[
+        "wax"
+    ],
+    "sg:website":"http://www.opgbeads.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928043,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WyV4eUaD5qYQqDICq7sIi_28.714409_77.135574@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f03e142064c257ef376b54d169d29a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928043,
+            "region_id":85672123,
+            "venue_id":169596013
+        }
+    ],
+    "wof:id":169596013,
+    "wof:lastmodified":1449034374,
+    "wof:name":"Opg-india",
+    "wof:parent_id":85928043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [77.135574,28.714409,77.135574,28.714409],
+  "geometry": {"coordinates":[77.135574,28.714409],"type":"Point"}
+}

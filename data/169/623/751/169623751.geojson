@@ -1,0 +1,63 @@
+{
+  "id": 169623751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.560837,12.983385,77.560837,12.983385",
+    "geom:latitude":12.983385,
+    "geom:longitude":77.560837,
+    "iso:country":"IN",
+    "sg:address":"No-75/2, 4th N-block, Rajajinagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2342 0806",
+    "sg:postcode":"560010",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZVJf5dxkMJwnIBQg7iMlQ_12.983385_77.560837@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"083ccf90879e250367f6910305243c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169623751
+        }
+    ],
+    "wof:id":169623751,
+    "wof:lastmodified":1449034997,
+    "wof:name":"Sigma Projects And Concepts",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.560837,12.983385,77.560837,12.983385],
+  "geometry": {"coordinates":[77.560837,12.983385],"type":"Point"}
+}

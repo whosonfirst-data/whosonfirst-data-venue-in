@@ -1,0 +1,63 @@
+{
+  "id": 169558971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.356621,22.570993,88.356621,22.570993",
+    "geom:latitude":22.570993,
+    "geom:longitude":88.356621,
+    "iso:country":"IN",
+    "sg:address":"46, B.b.ganguly Street,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2225 0301",
+    "sg:postcode":"700012",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903793,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GihAXbztbSdofUMpB7sOH_22.570993_88.356621@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"925c2041dc196070c35fb8292b39ddf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903793,
+            "region_id":85672219,
+            "venue_id":169558971
+        }
+    ],
+    "wof:id":169558971,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Chem International",
+    "wof:parent_id":85903793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.356621,22.570993,88.356621,22.570993],
+  "geometry": {"coordinates":[88.356621,22.570993],"type":"Point"}
+}

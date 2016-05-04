@@ -1,0 +1,62 @@
+{
+  "id": 169585175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.57061,31.328199,75.57061,31.328199",
+    "geom:latitude":31.328199,
+    "geom:longitude":75.57061,
+    "iso:country":"IN",
+    "sg:address":"108 Shakti Nagar,",
+    "sg:city":"Kota",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 744 329 7800",
+    "sg:postcode":"324009",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029941,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V6zkgqvkwd35KjyVG8qvX_31.328199_75.570610@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"562e7bd59b2cb20e818e749989119242",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029941,
+            "neighbourhood_id":-1,
+            "region_id":85672195,
+            "venue_id":169585175
+        }
+    ],
+    "wof:id":169585175,
+    "wof:lastmodified":1449034887,
+    "wof:name":"M M Trading Corporation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [75.57061,31.328199,75.57061,31.328199],
+  "geometry": {"coordinates":[75.57061,31.328199],"type":"Point"}
+}

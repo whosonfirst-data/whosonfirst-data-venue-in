@@ -1,0 +1,63 @@
+{
+  "id": 169628565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.835953,26.924614,75.835953,26.924614",
+    "geom:latitude":26.924614,
+    "geom:longitude":75.835953,
+    "iso:country":"IN",
+    "sg:address":"57, Dayanand Marg,",
+    "sg:city":"Allahabad",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 532 260 0551",
+    "sg:postcode":"211002",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934607,
+        85632469,
+        102030017,
+        85672201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20y7ol0LSDdUa3fwriuz5j_26.924614_75.835953@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"10ee5c4d1085f04e149bb391bd20d9d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030017,
+            "neighbourhood_id":85934607,
+            "region_id":85672201,
+            "venue_id":169628565
+        }
+    ],
+    "wof:id":169628565,
+    "wof:lastmodified":1449035336,
+    "wof:name":"Srishti Trading Ltd.",
+    "wof:parent_id":85934607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [75.835953,26.924614,75.835953,26.924614],
+  "geometry": {"coordinates":[75.835953,26.924614],"type":"Point"}
+}

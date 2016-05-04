@@ -1,0 +1,67 @@
+{
+  "id": 169544603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.566124,12.919749,77.566124,12.919749",
+    "geom:latitude":12.919749,
+    "geom:longitude":77.566124,
+    "iso:country":"IN",
+    "sg:address":"# 1762, 14th Main Road, Kumaraswamy Layout, 1st Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 3297 6798",
+    "sg:postcode":"560078",
+    "sg:tags":[
+        "water",
+        "softener",
+        "purifier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930845,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GrEqWnAvCMBSl8vUKpPAf_12.919749_77.566124@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"51f74546e344bff6fe2dab35e6174d22",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930845,
+            "region_id":85672165,
+            "venue_id":169544603
+        }
+    ],
+    "wof:id":169544603,
+    "wof:lastmodified":1449035964,
+    "wof:name":"Damodar Enterprises",
+    "wof:parent_id":85930845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "softener",
+        "purifier"
+    ]
+},
+  "bbox": [77.566124,12.919749,77.566124,12.919749],
+  "geometry": {"coordinates":[77.566124,12.919749],"type":"Point"}
+}

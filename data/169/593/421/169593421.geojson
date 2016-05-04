@@ -1,0 +1,63 @@
+{
+  "id": 169593421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.16877,28.698965,77.16877,28.698965",
+    "geom:latitude":28.698965,
+    "geom:longitude":77.16877,
+    "iso:country":"IN",
+    "sg:address":"96-97, Udyog Vihar, Phase-iv,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 234 1867",
+    "sg:postcode":"122015",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928079,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25tmvO58oNxbblyFuy2q1r_28.698965_77.168770@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"887add249b4abca7fd789199d6816db4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928079,
+            "region_id":85672123,
+            "venue_id":169593421
+        }
+    ],
+    "wof:id":169593421,
+    "wof:lastmodified":1449034877,
+    "wof:name":"Neel International",
+    "wof:parent_id":85928079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [77.16877,28.698965,77.16877,28.698965],
+  "geometry": {"coordinates":[77.16877,28.698965],"type":"Point"}
+}

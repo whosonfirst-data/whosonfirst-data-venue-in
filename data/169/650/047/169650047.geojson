@@ -1,0 +1,65 @@
+{
+  "id": 169650047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.856178,19.017656,72.856178,19.017656",
+    "geom:latitude":19.017656,
+    "geom:longitude":72.856178,
+    "iso:country":"IN",
+    "sg:address":"P.O. Box No:16489 Mahim",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"400016",
+    "sg:tags":[
+        "india",
+        "local"
+    ],
+    "sg:website":"http://www.burrp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903993,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45pNt8S3fEQvkXDPcEaddj_19.017656_72.856178@1308163240"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"71a151fdaa2cc8fcb5595b707ef38525",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903993,
+            "region_id":85672171,
+            "venue_id":169650047
+        }
+    ],
+    "wof:id":169650047,
+    "wof:lastmodified":1449034701,
+    "wof:name":"burrp!",
+    "wof:parent_id":85903993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "india",
+        "local"
+    ]
+},
+  "bbox": [72.856178,19.017656,72.856178,19.017656],
+  "geometry": {"coordinates":[72.856178,19.017656],"type":"Point"}
+}

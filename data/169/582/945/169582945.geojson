@@ -1,0 +1,64 @@
+{
+  "id": 169582945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.834961,18.630056,73.834961,18.630056",
+    "geom:latitude":18.630056,
+    "geom:longitude":73.834961,
+    "iso:country":"IN",
+    "sg:address":"Plot No. S-183, M.i.d.c., Bhosari,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2712 1821",
+    "sg:postcode":"411026",
+    "sg:tags":[
+        "chemical",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D2Edig0ANPeTDyP7oIUYZ_18.630056_73.834961@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5d2efa20cc8d6b71ace1f689ac0114b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169582945
+        }
+    ],
+    "wof:id":169582945,
+    "wof:lastmodified":1449034461,
+    "wof:name":"Kirti Chemicals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "-"
+    ]
+},
+  "bbox": [73.834961,18.630056,73.834961,18.630056],
+  "geometry": {"coordinates":[73.834961,18.630056],"type":"Point"}
+}

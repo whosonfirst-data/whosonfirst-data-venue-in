@@ -1,0 +1,63 @@
+{
+  "id": 169559365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.025246,27.215521,78.025246,27.215521",
+    "geom:latitude":27.215521,
+    "geom:longitude":78.025246,
+    "iso:country":"IN",
+    "sg:address":"405-d, Kamla Nagar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2735 1295",
+    "sg:postcode":"110007",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933115,
+        85632469,
+        102031021,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6N33dj4DG9nlco9O1Mf9SB_27.215521_78.025246@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"31349acc22282096ad7c23bafea42cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031021,
+            "neighbourhood_id":85933115,
+            "region_id":85672205,
+            "venue_id":169559365
+        }
+    ],
+    "wof:id":169559365,
+    "wof:lastmodified":1449035237,
+    "wof:name":"Choukhany India Ltd.",
+    "wof:parent_id":85933115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.025246,27.215521,78.025246,27.215521],
+  "geometry": {"coordinates":[78.025246,27.215521],"type":"Point"}
+}

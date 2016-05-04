@@ -1,0 +1,67 @@
+{
+  "id": 169530047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.830276,18.965227,72.830276,18.965227",
+    "geom:latitude":18.965227,
+    "geom:longitude":72.830276,
+    "iso:country":"IN",
+    "sg:address":"143/145, Dimtimkar Road, Nagpada,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2307 8331",
+    "sg:postcode":"400008",
+    "sg:tags":[
+        "garment",
+        "childrenwear"
+    ],
+    "sg:website":"http://www.ruffkids.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85672171,
+        85632701,
+        102030609,
+        85903863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XYBvNb6bEjYciCviklf8u_18.965227_72.830276@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"db29d7d633d45b35df552a20bf2e0ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632701,
+            "county_id":-1,
+            "locality_id":102030609,
+            "neighbourhood_id":85903863,
+            "region_id":85672171,
+            "venue_id":169530047
+        }
+    ],
+    "wof:id":169530047,
+    "wof:lastmodified":1449034445,
+    "wof:name":"D. S. Corporation",
+    "wof:parent_id":85903863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "childrenwear"
+    ]
+},
+  "bbox": [72.830276,18.965227,72.830276,18.965227],
+  "geometry": {"coordinates":[72.830276,18.965227],"type":"Point"}
+}

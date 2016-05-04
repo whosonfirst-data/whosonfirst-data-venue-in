@@ -1,0 +1,54 @@
+{
+  "id": 169574101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.261406,13.000641,80.261406,13.000641",
+    "geom:latitude":13.000641,
+    "geom:longitude":80.261406,
+    "iso:country":"IN",
+    "sg:address":"Shastri Nagar",
+    "sg:city":"Chennai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2491 4133",
+    "sg:postcode":"600020",
+    "sg:province":"Tamil Nadu",
+    "sg:website":"http://www.otsil.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903855,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DfWfwjBovwZIsnvZFTpXM_13.000641_80.261406@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6baa94e4469cd5463af07740bf035139",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903855,
+            "region_id":85672245,
+            "venue_id":169574101
+        }
+    ],
+    "wof:id":169574101,
+    "wof:lastmodified":1449032662,
+    "wof:name":"Ozone Technologies & Systems (i) Pvt Ltd",
+    "wof:parent_id":85903855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.261406,13.000641,80.261406,13.000641],
+  "geometry": {"coordinates":[80.261406,13.000641],"type":"Point"}
+}

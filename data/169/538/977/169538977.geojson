@@ -1,0 +1,64 @@
+{
+  "id": 169538977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.564369,12.924562,77.564369,12.924562",
+    "geom:latitude":12.924562,
+    "geom:longitude":77.564369,
+    "iso:country":"IN",
+    "sg:address":"2311, 21st Cross, K.r.road, Banashankari 2nd Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Race Track",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2676 3489",
+    "sg:postcode":"560070",
+    "sg:tags":[
+        "relay"
+    ],
+    "sg:website":"http://www.inelecindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930845,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xwwLKZrsvXloAhyYU9HHW_12.924562_77.564369@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6122ae0b6fc0764762cf4e5336522cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930845,
+            "region_id":85672165,
+            "venue_id":169538977
+        }
+    ],
+    "wof:id":169538977,
+    "wof:lastmodified":1449033101,
+    "wof:name":"Inelec Engineers",
+    "wof:parent_id":85930845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "relay"
+    ]
+},
+  "bbox": [77.564369,12.924562,77.564369,12.924562],
+  "geometry": {"coordinates":[77.564369,12.924562],"type":"Point"}
+}

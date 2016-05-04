@@ -1,0 +1,63 @@
+{
+  "id": 169632371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.228996,28.647358,77.228996,28.647358",
+    "geom:latitude":28.647358,
+    "geom:longitude":77.228996,
+    "iso:country":"IN",
+    "sg:address":"61/33, Sita Ram Mohal,",
+    "sg:city":"Kanpur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 512 235 6088",
+    "sg:postcode":"208001",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928091,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FurOage4HODYv6Xsq0H4L_28.647358_77.228996@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7686c1e92b3f7b8fcabe7389ac6add5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928091,
+            "region_id":85672123,
+            "venue_id":169632371
+        }
+    ],
+    "wof:id":169632371,
+    "wof:lastmodified":1449034796,
+    "wof:name":"Surya Chemicals And Minerals",
+    "wof:parent_id":85928091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [77.228996,28.647358,77.228996,28.647358],
+  "geometry": {"coordinates":[77.228996,28.647358],"type":"Point"}
+}

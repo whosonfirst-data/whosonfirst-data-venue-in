@@ -1,0 +1,65 @@
+{
+  "id": 169544579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.595787,12.912714,77.595787,12.912714",
+    "geom:latitude":12.912714,
+    "geom:longitude":77.595787,
+    "iso:country":"IN",
+    "sg:address":"687, 7th Main, 3rd Phase, Jp Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2658 7612",
+    "sg:postcode":"560078",
+    "sg:tags":[
+        "watch",
+        "clock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931061,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lafZoXgvTfYw09rJ1irgp_12.912714_77.595787@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9782453b3b89e3e54be027dfd67f29d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931061,
+            "region_id":85672165,
+            "venue_id":169544579
+        }
+    ],
+    "wof:id":169544579,
+    "wof:lastmodified":1449035963,
+    "wof:name":"Unisoft",
+    "wof:parent_id":85931061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "watch",
+        "clock"
+    ]
+},
+  "bbox": [77.595787,12.912714,77.595787,12.912714],
+  "geometry": {"coordinates":[77.595787,12.912714],"type":"Point"}
+}

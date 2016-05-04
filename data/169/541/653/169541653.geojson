@@ -1,0 +1,66 @@
+{
+  "id": 169541653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.560394,13.006784,77.560394,13.006784",
+    "geom:latitude":13.006784,
+    "geom:longitude":77.560394,
+    "iso:country":"IN",
+    "sg:address":"4215, First Main Road, Subramanyanagar,  P.o. Box 2139,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2357 7924",
+    "sg:postcode":"560021",
+    "sg:tags":[
+        "design",
+        "software"
+    ],
+    "sg:website":"http://www.esaindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ex3K4OpKt11UpedigU5vT_13.006784_77.560394@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"22bc5684c5ae77ef5fff6dc786171157",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169541653
+        }
+    ],
+    "wof:id":169541653,
+    "wof:lastmodified":1449033039,
+    "wof:name":"Electro Systems Associates Pvt. Ltd.",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "design",
+        "software"
+    ]
+},
+  "bbox": [77.560394,13.006784,77.560394,13.006784],
+  "geometry": {"coordinates":[77.560394,13.006784],"type":"Point"}
+}

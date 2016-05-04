@@ -1,0 +1,65 @@
+{
+  "id": 169528359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.848831,19.128029,72.848831,19.128029",
+    "geom:latitude":19.128029,
+    "geom:longitude":72.848831,
+    "iso:country":"IN",
+    "sg:address":"Anand Dham, Near-amboli Crossing, Andheri (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2374 0546",
+    "sg:postcode":"400069",
+    "sg:tags":[
+        "building",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931515,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WhrctOjB7jp1gxd253OJQ_19.128029_72.848831@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e275f75f9357831125dec4ae8ab6fbce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931515,
+            "region_id":85672171,
+            "venue_id":169528359
+        }
+    ],
+    "wof:id":169528359,
+    "wof:lastmodified":1449033566,
+    "wof:name":"Mikhil Marketing Pvt. Ltd.",
+    "wof:parent_id":85931515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "supply"
+    ]
+},
+  "bbox": [72.848831,19.128029,72.848831,19.128029],
+  "geometry": {"coordinates":[72.848831,19.128029],"type":"Point"}
+}

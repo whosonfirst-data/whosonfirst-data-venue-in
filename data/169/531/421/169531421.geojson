@@ -1,0 +1,62 @@
+{
+  "id": 169531421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.83902,18.951038,72.83902,18.951038",
+    "geom:latitude":18.951038,
+    "geom:longitude":72.83902,
+    "iso:country":"IN",
+    "sg:address":"Office No. 20/21, 178 Sant Tukaram Road, Masjid Bunder (east),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 3633 6636",
+    "sg:postcode":"400009",
+    "sg:tags":[
+        "cotton"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75XE6m7jPdheHAHk5OUXzb_18.951038_72.839020@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"74daca7b64810b9a9d5e2baeb152ae33",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169531421
+        }
+    ],
+    "wof:id":169531421,
+    "wof:lastmodified":1449033475,
+    "wof:name":"D. P. Cotton Co.",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cotton"
+    ]
+},
+  "bbox": [72.83902,18.951038,72.83902,18.951038],
+  "geometry": {"coordinates":[72.83902,18.951038],"type":"Point"}
+}

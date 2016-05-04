@@ -1,0 +1,65 @@
+{
+  "id": 169649191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.821321,18.558432,73.821321,18.558432",
+    "geom:latitude":18.558432,
+    "geom:longitude":73.821321,
+    "iso:country":"IN",
+    "sg:address":"Aundh",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"411007",
+    "sg:tags":[
+        "testing",
+        "qa"
+    ],
+    "sg:website":"http://www.focusqa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903811,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AQoVbBUb7boZRFdfo3RM3_18.558432_73.821321@1308163239"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5c9c74bf945a78f893abfe954610836e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85903811,
+            "region_id":85672171,
+            "venue_id":169649191
+        }
+    ],
+    "wof:id":169649191,
+    "wof:lastmodified":1449034945,
+    "wof:name":"focusQA",
+    "wof:parent_id":85903811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "testing",
+        "qa"
+    ]
+},
+  "bbox": [73.821321,18.558432,73.821321,18.558432],
+  "geometry": {"coordinates":[73.821321,18.558432],"type":"Point"}
+}

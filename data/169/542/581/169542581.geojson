@@ -1,0 +1,65 @@
+{
+  "id": 169542581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"82.984848,24.46394,82.984848,24.46394",
+    "geom:latitude":24.46394,
+    "geom:longitude":82.984848,
+    "iso:country":"IN",
+    "sg:address":"28, K.r. Road, (opp. V.v. Hospital),",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2670 5431",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "surgical",
+        "disposable",
+        "dressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hYu0EGtq5rOnKrc4dfuPI_24.463940_82.984848@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"761c02bebc3f5a8d362f3533ea565153",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169542581
+        }
+    ],
+    "wof:id":169542581,
+    "wof:lastmodified":1449035220,
+    "wof:name":"The South India Surgical Co.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "disposable",
+        "dressing"
+    ]
+},
+  "bbox": [82.984848,24.46394,82.984848,24.46394],
+  "geometry": {"coordinates":[82.984848,24.46394],"type":"Point"}
+}

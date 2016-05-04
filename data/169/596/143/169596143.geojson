@@ -1,0 +1,66 @@
+{
+  "id": 169596143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.447403,28.682056,77.447403,28.682056",
+    "geom:latitude":28.682056,
+    "geom:longitude":77.447403,
+    "iso:country":"IN",
+    "sg:address":"D-10, Sector-17, Kavi Nagar Industrial Area,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 270 1477",
+    "sg:postcode":"201002",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KFsCfeXMOgF8qH2cQLu2K_28.682056_77.447403@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"036df2ac00ba4e14455cec6ce92c6b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169596143
+        }
+    ],
+    "wof:id":169596143,
+    "wof:lastmodified":1449034374,
+    "wof:name":"Omega Biotech Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [77.447403,28.682056,77.447403,28.682056],
+  "geometry": {"coordinates":[77.447403,28.682056],"type":"Point"}
+}

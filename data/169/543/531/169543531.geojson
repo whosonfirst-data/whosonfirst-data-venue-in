@@ -1,0 +1,65 @@
+{
+  "id": 169543531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.548859,12.974743,77.548859,12.974743",
+    "geom:latitude":12.974743,
+    "geom:longitude":77.548859,
+    "iso:country":"IN",
+    "sg:address":"No. 92/5, Near Tolgate, Magadi Main Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2330 6585",
+    "sg:postcode":"560044",
+    "sg:tags":[
+        "plank",
+        "timber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gnL6SuEf1BkmliVit85uq_12.974743_77.548859@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e918f28b4761b051d553f5bbb3868cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169543531
+        }
+    ],
+    "wof:id":169543531,
+    "wof:lastmodified":1449033335,
+    "wof:name":"Shalimar Timber",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plank",
+        "timber"
+    ]
+},
+  "bbox": [77.548859,12.974743,77.548859,12.974743],
+  "geometry": {"coordinates":[77.548859,12.974743],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169544885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.557899,12.99098,77.557899,12.99098",
+    "geom:latitude":12.99098,
+    "geom:longitude":77.557899,
+    "iso:country":"IN",
+    "sg:address":"71, 1st Floor, Dr. Rajkumar Road, Prakashnagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2312 4046",
+    "sg:postcode":"560021",
+    "sg:tags":[
+        "rope",
+        "wire"
+    ],
+    "sg:website":"http://www.seekandsource.com/dhoist",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UqtbSG7NDNtKL0m5wVsDj_12.990980_77.557899@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4da44194bcfe9f2e6fd5ad882a1bb3ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169544885
+        }
+    ],
+    "wof:id":169544885,
+    "wof:lastmodified":1449035964,
+    "wof:name":"D. C. Hoist & Instruments",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rope",
+        "wire"
+    ]
+},
+  "bbox": [77.557899,12.99098,77.557899,12.99098],
+  "geometry": {"coordinates":[77.557899,12.99098],"type":"Point"}
+}

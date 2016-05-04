@@ -1,0 +1,64 @@
+{
+  "id": 169597579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.225174,13.093437,80.225174,13.093437",
+    "geom:latitude":13.093437,
+    "geom:longitude":80.225174,
+    "iso:country":"IN",
+    "sg:address":"71-c, New Avadi Road, Kilpauk,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 5218 3033",
+    "sg:postcode":"600010",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.pincgroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903819,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FRuKP28lyx5DVfEfhii0S_13.093437_80.225174@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bac1e527ec5dd0cd8093435a0e6242d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903819,
+            "region_id":85672245,
+            "venue_id":169597579
+        }
+    ],
+    "wof:id":169597579,
+    "wof:lastmodified":1449035922,
+    "wof:name":"Padmaja Systems & Services Pvt. Ltd.",
+    "wof:parent_id":85903819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.225174,13.093437,80.225174,13.093437],
+  "geometry": {"coordinates":[80.225174,13.093437],"type":"Point"}
+}

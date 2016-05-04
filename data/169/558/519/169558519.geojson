@@ -1,0 +1,62 @@
+{
+  "id": 169558519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.769478,31.123856,75.769478,31.123856",
+    "geom:latitude":31.123856,
+    "geom:longitude":75.769478,
+    "iso:country":"IN",
+    "sg:address":"Main Bazar,",
+    "sg:city":"Ballabgarh",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 224 2248",
+    "sg:postcode":"121004",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.bohra.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aRhadZXYFUSClpl1nhtyk_31.123856_75.769478@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"004af0706168244fbc1111e8abe4815b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672195,
+            "venue_id":169558519
+        }
+    ],
+    "wof:id":169558519,
+    "wof:lastmodified":1449033582,
+    "wof:name":"Bohra Rubber Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [75.769478,31.123856,75.769478,31.123856],
+  "geometry": {"coordinates":[75.769478,31.123856],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169588777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.387688,28.677977,77.387688,28.677977",
+    "geom:latitude":28.677977,
+    "geom:longitude":77.387688,
+    "iso:country":"IN",
+    "sg:address":"E-50, South Site G.t. Road, Industrial Area,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 284 0708",
+    "sg:postcode":"201010",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0euboafj4p8tzEk4ow4EHh_28.677977_77.387688@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e855bb2ffc050ad313818cfe5c3fdc41",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169588777
+        }
+    ],
+    "wof:id":169588777,
+    "wof:lastmodified":1449035311,
+    "wof:name":"Meera Polymers (p) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.387688,28.677977,77.387688,28.677977],
+  "geometry": {"coordinates":[77.387688,28.677977],"type":"Point"}
+}

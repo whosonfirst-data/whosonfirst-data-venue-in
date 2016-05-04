@@ -1,0 +1,63 @@
+{
+  "id": 169579235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.844315,19.072371,72.844315,19.072371",
+    "geom:latitude":19.072371,
+    "geom:longitude":72.844315,
+    "iso:country":"IN",
+    "sg:address":"501, Siddharth Building,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2643 1100",
+    "sg:postcode":"110019",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931497,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Y1estxAcg3oOT9TTXS0WF_19.072371_72.844315@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"59510db977114bc3496bd1c5b1166ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931497,
+            "region_id":85672171,
+            "venue_id":169579235
+        }
+    ],
+    "wof:id":169579235,
+    "wof:lastmodified":1449033739,
+    "wof:name":"Ici Group",
+    "wof:parent_id":85931497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [72.844315,19.072371,72.844315,19.072371],
+  "geometry": {"coordinates":[72.844315,19.072371],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 169534867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.851112,19.137617,72.851112,19.137617",
+    "geom:latitude":19.137617,
+    "geom:longitude":72.851112,
+    "iso:country":"IN",
+    "sg:address":"53, Satyam Industrial Estate, Subhash Rd., Jogeshwari (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6508 1035",
+    "sg:postcode":"400060",
+    "sg:tags":[
+        "indicator",
+        "electronic",
+        "controller",
+        "liquid",
+        "level"
+    ],
+    "sg:website":"http://www.arsen-india.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931511,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xas8hFzLo7hindnEz57dm_19.137617_72.851112@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"936baec92f7b443785052f0b518da855",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931511,
+            "region_id":85672171,
+            "venue_id":169534867
+        }
+    ],
+    "wof:id":169534867,
+    "wof:lastmodified":1449033549,
+    "wof:name":"C-tru Process Equipments",
+    "wof:parent_id":85931511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "indicator",
+        "electronic",
+        "controller",
+        "liquid",
+        "level"
+    ]
+},
+  "bbox": [72.851112,19.137617,72.851112,19.137617],
+  "geometry": {"coordinates":[72.851112,19.137617],"type":"Point"}
+}

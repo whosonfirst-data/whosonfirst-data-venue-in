@@ -1,0 +1,58 @@
+{
+  "id": 169649635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.183689,13.043777,80.183689,13.043777",
+    "geom:latitude":13.043777,
+    "geom:longitude":80.183689,
+    "iso:country":"IN",
+    "sg:address":"82,arcot road, kodambakam",
+    "sg:city":"chennai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"600 024",
+    "sg:website":"http://mayfrantec.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903779,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SSiybG6H7HxAvVtw4QAPq_13.043777_80.183689@1308163240"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4a76b74ab3f33bf87d742809034c76ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903779,
+            "region_id":85672245,
+            "venue_id":169649635
+        }
+    ],
+    "wof:id":169649635,
+    "wof:lastmodified":1449034941,
+    "wof:name":"MAYFRAN technologies",
+    "wof:parent_id":85903779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.183689,13.043777,80.183689,13.043777],
+  "geometry": {"coordinates":[80.183689,13.043777],"type":"Point"}
+}

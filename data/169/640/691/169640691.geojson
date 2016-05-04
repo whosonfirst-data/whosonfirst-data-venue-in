@@ -1,0 +1,62 @@
+{
+  "id": 169640691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.291016,28.416983,77.291016,28.416983",
+    "geom:latitude":28.416983,
+    "geom:longitude":77.291016,
+    "iso:country":"IN",
+    "sg:address":"G1/75, Indira Enclave, Sector-21d,",
+    "sg:city":"Faridabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 129 408 1101",
+    "sg:postcode":"121001",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030289,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17wHhyj2dCstOYxiW9zsux_28.416983_77.291016@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"69f33ffae1ec9d8227c4627c04f4ae84",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030289,
+            "neighbourhood_id":-1,
+            "region_id":85672133,
+            "venue_id":169640691
+        }
+    ],
+    "wof:id":169640691,
+    "wof:lastmodified":1449034101,
+    "wof:name":"Urmi Plast",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.291016,28.416983,77.291016,28.416983],
+  "geometry": {"coordinates":[77.291016,28.416983],"type":"Point"}
+}

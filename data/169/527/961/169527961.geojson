@@ -1,0 +1,63 @@
+{
+  "id": 169527961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.86412,19.110233,72.86412,19.110233",
+    "geom:latitude":19.110233,
+    "geom:longitude":72.86412,
+    "iso:country":"IN",
+    "sg:address":"2nd Floor, 40 Bhagat Singh Road, Vile Parle (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2628 8177",
+    "sg:postcode":"400056",
+    "sg:tags":[
+        "box"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4W4ZiZqqCQeOkISHdl3u02_19.110233_72.864120@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"123cf64b9acf48bbf999267179dcca56",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169527961
+        }
+    ],
+    "wof:id":169527961,
+    "wof:lastmodified":1449035279,
+    "wof:name":"Steel Case (i) Pvt. Ltd.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "box"
+    ]
+},
+  "bbox": [72.86412,19.110233,72.86412,19.110233],
+  "geometry": {"coordinates":[72.86412,19.110233],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 169536003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.857437,19.226105,72.857437,19.226105",
+    "geom:latitude":19.226105,
+    "geom:longitude":72.857437,
+    "iso:country":"IN",
+    "sg:address":"10, Dattani Apartment, L.t.road, Borivali West,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2898 0418",
+    "sg:postcode":"400092",
+    "sg:website":"http://www.indserve.com.viva",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933015,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HNUcGNJSSbi4fG9qt49Hn_19.226105_72.857437@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d1359b36808973d133713972f70de4f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85933015,
+            "region_id":85672171,
+            "venue_id":169536003
+        }
+    ],
+    "wof:id":169536003,
+    "wof:lastmodified":1449034659,
+    "wof:name":"Viva Impex",
+    "wof:parent_id":85933015,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.857437,19.226105,72.857437,19.226105],
+  "geometry": {"coordinates":[72.857437,19.226105],"type":"Point"}
+}

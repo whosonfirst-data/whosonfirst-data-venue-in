@@ -1,0 +1,63 @@
+{
+  "id": 169540727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.863518,19.250887,72.863518,19.250887",
+    "geom:latitude":19.250887,
+    "geom:longitude":72.863518,
+    "iso:country":"IN",
+    "sg:address":"76, Vishal Complex, J.m. Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2221 3810",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931553,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Kn2T9rxHIJjaaSXLaZPfb_19.250887_72.863518@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0e441a66d4324aef411e16548b5eb23f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931553,
+            "region_id":85672171,
+            "venue_id":169540727
+        }
+    ],
+    "wof:id":169540727,
+    "wof:lastmodified":1449033973,
+    "wof:name":"Kambli Silk",
+    "wof:parent_id":85931553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [72.863518,19.250887,72.863518,19.250887],
+  "geometry": {"coordinates":[72.863518,19.250887],"type":"Point"}
+}

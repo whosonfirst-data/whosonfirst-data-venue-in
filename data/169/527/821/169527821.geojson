@@ -1,0 +1,65 @@
+{
+  "id": 169527821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.941544,19.153999,72.941544,19.153999",
+    "geom:latitude":19.153999,
+    "geom:longitude":72.941544,
+    "iso:country":"IN",
+    "sg:address":"6, Datta Mandir Road, Bhandup (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2565 2148",
+    "sg:postcode":"400078",
+    "sg:tags":[
+        "publisher",
+        "book"
+    ],
+    "sg:website":"http://www.printhouseindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44N98RF5Wpsz83IO3g8uOZ_19.153999_72.941544@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6843b2491460ff706e8e926103588d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169527821
+        }
+    ],
+    "wof:id":169527821,
+    "wof:lastmodified":1449035277,
+    "wof:name":"Print House India Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher",
+        "book"
+    ]
+},
+  "bbox": [72.941544,19.153999,72.941544,19.153999],
+  "geometry": {"coordinates":[72.941544,19.153999],"type":"Point"}
+}

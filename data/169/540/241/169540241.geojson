@@ -1,0 +1,63 @@
+{
+  "id": 169540241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.594376,12.971606,77.594376,12.971606",
+    "geom:latitude":12.971606,
+    "geom:longitude":77.594376,
+    "iso:country":"IN",
+    "sg:address":"Bangalore Hosiery Complex, # 107, Ist Floor, A.s. Char Street,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4122 0654",
+    "sg:postcode":"560053",
+    "sg:tags":[
+        "shirt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930949,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rP6zcZFvF0i19iVFp8fiM_12.971606_77.594376@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c17417b40568d672e1ad678ab13e3bd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930949,
+            "region_id":85672165,
+            "venue_id":169540241
+        }
+    ],
+    "wof:id":169540241,
+    "wof:lastmodified":1449033978,
+    "wof:name":"Denim City",
+    "wof:parent_id":85930949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shirt"
+    ]
+},
+  "bbox": [77.594376,12.971606,77.594376,12.971606],
+  "geometry": {"coordinates":[77.594376,12.971606],"type":"Point"}
+}

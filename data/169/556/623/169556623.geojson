@@ -1,0 +1,53 @@
+{
+  "id": 169556623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.233452,28.641699,77.233452,28.641699",
+    "geom:latitude":28.641699,
+    "geom:longitude":77.233452,
+    "iso:country":"IN",
+    "sg:address":"Asaf Ali Road",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2323 4552",
+    "sg:postcode":"110002",
+    "sg:province":"Delhi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927917,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iFyMXcDyu76CTDNQ2eDgV_28.641699_77.233452@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4b85b36c8c68622d397c2e4beb362aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85927917,
+            "region_id":85672123,
+            "venue_id":169556623
+        }
+    ],
+    "wof:id":169556623,
+    "wof:lastmodified":1449033509,
+    "wof:name":"Forte Financial Services Ltd",
+    "wof:parent_id":85927917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.233452,28.641699,77.233452,28.641699],
+  "geometry": {"coordinates":[77.233452,28.641699],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 169633031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.130096,15.372372,75.130096,15.372372",
+    "geom:latitude":15.372372,
+    "geom:longitude":75.130096,
+    "iso:country":"IN",
+    "sg:address":"R-13/95, Raj Nagar,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"201002",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030067,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MbEyVbTXRmuDOCHGroIwy_15.372372_75.130096@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8a333f15f802f3ddbf00a960a2573866",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030067,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169633031
+        }
+    ],
+    "wof:id":169633031,
+    "wof:lastmodified":1449035939,
+    "wof:name":"Swadeshi Gases",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [75.130096,15.372372,75.130096,15.372372],
+  "geometry": {"coordinates":[75.130096,15.372372],"type":"Point"}
+}

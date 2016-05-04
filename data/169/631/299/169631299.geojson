@@ -1,0 +1,63 @@
+{
+  "id": 169631299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.279785,13.086932,80.279785,13.086932",
+    "geom:latitude":13.086932,
+    "geom:longitude":80.279785,
+    "iso:country":"IN",
+    "sg:address":"48, Venkatachala Street, Park Town,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2535 2525",
+    "sg:postcode":"600003",
+    "sg:tags":[
+        "fine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931765,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_544uXqoo508IbDuneUw9qV_13.086932_80.279785@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f8915177bff7c7c625c6426a6bc269f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931765,
+            "region_id":85672245,
+            "venue_id":169631299
+        }
+    ],
+    "wof:id":169631299,
+    "wof:lastmodified":1449033707,
+    "wof:name":"Super Chem India",
+    "wof:parent_id":85931765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fine"
+    ]
+},
+  "bbox": [80.279785,13.086932,80.279785,13.086932],
+  "geometry": {"coordinates":[80.279785,13.086932],"type":"Point"}
+}

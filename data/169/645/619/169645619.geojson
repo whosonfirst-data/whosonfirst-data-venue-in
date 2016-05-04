@@ -1,0 +1,66 @@
+{
+  "id": 169645619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.794342,18.640661,73.794342,18.640661",
+    "geom:latitude":18.640661,
+    "geom:longitude":73.794342,
+    "iso:country":"IN",
+    "sg:address":"J-138, Bhosari Industrial Area, Bhosari,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2712 2331",
+    "sg:postcode":"411026",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "sg:website":"http://www.vrcoatings.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931299,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AZfr16x1eaQHbiVJGDcf7_18.640661_73.794342@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"735ae7e554c86d0c25ec4723ada87293",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931299,
+            "region_id":85672171,
+            "venue_id":169645619
+        }
+    ],
+    "wof:id":169645619,
+    "wof:lastmodified":1449033004,
+    "wof:name":"Vr Coatings Pvt. Ltd.",
+    "wof:parent_id":85931299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [73.794342,18.640661,73.794342,18.640661],
+  "geometry": {"coordinates":[73.794342,18.640661],"type":"Point"}
+}

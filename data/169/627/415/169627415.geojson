@@ -1,0 +1,62 @@
+{
+  "id": 169627415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.311096,22.507265,88.311096,22.507265",
+    "geom:latitude":22.507265,
+    "geom:longitude":88.311096,
+    "iso:country":"IN",
+    "sg:address":"4/2, Mayadasi Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2406 0368",
+    "sg:postcode":"700060",
+    "sg:tags":[
+        "acid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05GqMkYWDVAov9zZInqI0x_22.507265_88.311096@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"57b3f8bc95da66acb0f388c8d8cd0fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":-1,
+            "region_id":85672219,
+            "venue_id":169627415
+        }
+    ],
+    "wof:id":169627415,
+    "wof:lastmodified":1449036041,
+    "wof:name":"Sree Ma Trading Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [88.311096,22.507265,88.311096,22.507265],
+  "geometry": {"coordinates":[88.311096,22.507265],"type":"Point"}
+}

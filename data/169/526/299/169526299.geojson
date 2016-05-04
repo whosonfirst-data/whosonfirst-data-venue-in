@@ -1,0 +1,67 @@
+{
+  "id": 169526299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.82653,18.983915,72.82653,18.983915",
+    "geom:latitude":18.983915,
+    "geom:longitude":72.82653,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 81, Office No. 19, 1st Floor, Dr. E. Moses Road, Worli,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6519 4787",
+    "sg:postcode":"400018",
+    "sg:tags":[
+        "automotive",
+        "chain",
+        "sprocket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903827,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kNEeBA5YmU88pH1jTgbZh_18.983915_72.826530@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5bd01c608af2ca8f9f1953c503f2ca27",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903827,
+            "region_id":85672171,
+            "venue_id":169526299
+        }
+    ],
+    "wof:id":169526299,
+    "wof:lastmodified":1449033700,
+    "wof:name":"Essential Consultancy",
+    "wof:parent_id":85903827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "chain",
+        "sprocket"
+    ]
+},
+  "bbox": [72.82653,18.983915,72.82653,18.983915],
+  "geometry": {"coordinates":[72.82653,18.983915],"type":"Point"}
+}

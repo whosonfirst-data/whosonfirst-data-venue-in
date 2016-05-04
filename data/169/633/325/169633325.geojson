@@ -1,0 +1,63 @@
+{
+  "id": 169633325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.840385,30.672375,76.840385,30.672375",
+    "geom:latitude":30.672375,
+    "geom:longitude":76.840385,
+    "iso:country":"IN",
+    "sg:address":"B-13/14, Industrial Area, Phase-i,",
+    "sg:city":"Mohali",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 172 401 3316",
+    "sg:postcode":"160051",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.swani-rubber.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030563,
+        85672119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54U9aJUl5rWV5zPftNBCB6_30.672375_76.840385@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cc5193d97f475f766d58681d1e3f07f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030563,
+            "neighbourhood_id":-1,
+            "region_id":85672119,
+            "venue_id":169633325
+        }
+    ],
+    "wof:id":169633325,
+    "wof:lastmodified":1449035938,
+    "wof:name":"Swani Rubber Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [76.840385,30.672375,76.840385,30.672375],
+  "geometry": {"coordinates":[76.840385,30.672375],"type":"Point"}
+}

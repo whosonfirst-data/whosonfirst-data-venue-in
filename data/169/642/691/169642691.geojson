@@ -1,0 +1,64 @@
+{
+  "id": 169642691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.26384,13.116433,80.26384,13.116433",
+    "geom:latitude":13.116433,
+    "geom:longitude":80.26384,
+    "iso:country":"IN",
+    "sg:address":"135-a, Kennedy Nagar,",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 427 233 6628",
+    "sg:postcode":"636005",
+    "sg:tags":[
+        "explosive"
+    ],
+    "sg:website":"http://www.vetrivelexplosives.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903945,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0apkzz3g7jhQTyDkLQRTev_13.116433_80.263840@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9fd815ba882d89ecbfd18ca5f21d0ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903945,
+            "region_id":85672245,
+            "venue_id":169642691
+        }
+    ],
+    "wof:id":169642691,
+    "wof:lastmodified":1449032877,
+    "wof:name":"Vetrivel Explosives Pvt. Ltd.",
+    "wof:parent_id":85903945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "explosive"
+    ]
+},
+  "bbox": [80.26384,13.116433,80.26384,13.116433],
+  "geometry": {"coordinates":[80.26384,13.116433],"type":"Point"}
+}

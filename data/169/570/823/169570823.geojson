@@ -1,0 +1,53 @@
+{
+  "id": 169570823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"81.835297,25.455595,81.835297,25.455595",
+    "geom:latitude":25.455595,
+    "geom:longitude":81.835297,
+    "iso:country":"IN",
+    "sg:address":"Tashkent Marg",
+    "sg:city":"Allahabad",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 532601519",
+    "sg:postcode":"211001",
+    "sg:province":"Uttar Pradesh",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933019,
+        85632469,
+        102030995,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ewG5rgjjw1rxDvvL3tkLO_25.455595_81.835297@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8b3f55d281b4a6431d1c1e98921d98dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030995,
+            "neighbourhood_id":85933019,
+            "region_id":85672205,
+            "venue_id":169570823
+        }
+    ],
+    "wof:id":169570823,
+    "wof:lastmodified":1449034647,
+    "wof:name":"Hotel Allahabad Regency",
+    "wof:parent_id":85933019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [81.835297,25.455595,81.835297,25.455595],
+  "geometry": {"coordinates":[81.835297,25.455595],"type":"Point"}
+}

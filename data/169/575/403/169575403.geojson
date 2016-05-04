@@ -1,0 +1,62 @@
+{
+  "id": 169575403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.826439,21.154736,72.826439,21.154736",
+    "geom:latitude":21.154736,
+    "geom:longitude":72.826439,
+    "iso:country":"IN",
+    "sg:address":"C-1-b, 105, G.i.d.c., Pandesara,",
+    "sg:city":"Surat",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 261 289 2835",
+    "sg:postcode":"394221",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028539,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uXBmD6xYmf7vN23squcpb_21.154736_72.826439@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bb88af875402d75a5a3f09ce351ccc4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028539,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169575403
+        }
+    ],
+    "wof:id":169575403,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Auto And Industrial Chemical Corporation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [72.826439,21.154736,72.826439,21.154736],
+  "geometry": {"coordinates":[72.826439,21.154736],"type":"Point"}
+}

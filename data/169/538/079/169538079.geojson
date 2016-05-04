@@ -1,0 +1,68 @@
+{
+  "id": 169538079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"81.730705,16.516787,81.730705,16.516787",
+    "geom:latitude":16.516787,
+    "geom:longitude":81.730705,
+    "iso:country":"IN",
+    "sg:address":"136, A.m. Road, K.p.n. Extension,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2223 3054",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "paint",
+        "material",
+        "ink",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029141,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MwLZk4ObTkXv053T1zANS_16.516787_81.730705@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9d997c7888fe009cc657179d96aa0234",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029141,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169538079
+        }
+    ],
+    "wof:id":169538079,
+    "wof:lastmodified":1449033099,
+    "wof:name":"Colorinks Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "material",
+        "ink",
+        "raw"
+    ]
+},
+  "bbox": [81.730705,16.516787,81.730705,16.516787],
+  "geometry": {"coordinates":[81.730705,16.516787],"type":"Point"}
+}

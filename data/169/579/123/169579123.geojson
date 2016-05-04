@@ -1,0 +1,64 @@
+{
+  "id": 169579123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.581024,23.026983,72.581024,23.026983",
+    "geom:latitude":23.026983,
+    "geom:longitude":72.581024,
+    "iso:country":"IN",
+    "sg:address":"Victoria Capital Ventures Ltd., Opp Sidi Saiyad Mosque, Lal Darwaja,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 2550 6946",
+    "sg:postcode":"380001",
+    "sg:tags":[
+        "wax"
+    ],
+    "sg:website":"http://www.houseofmg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933453,
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R1QuaLrJ43J0z6LoRqYQ4_23.026983_72.581024@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d95befa8ead08bd799d5b7e783e62b05",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":85933453,
+            "region_id":85672249,
+            "venue_id":169579123
+        }
+    ],
+    "wof:id":169579123,
+    "wof:lastmodified":1449033740,
+    "wof:name":"House Of Mg Life Style",
+    "wof:parent_id":85933453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [72.581024,23.026983,72.581024,23.026983],
+  "geometry": {"coordinates":[72.581024,23.026983],"type":"Point"}
+}

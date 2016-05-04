@@ -1,0 +1,67 @@
+{
+  "id": 169527289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.82016,19.211685,72.82016,19.211685",
+    "geom:latitude":19.211685,
+    "geom:longitude":72.82016,
+    "iso:country":"IN",
+    "sg:address":"Sai Nagar, B, 2nd Floor, Room No.-29, M.g.road, Kandivali (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 3241 5590",
+    "sg:postcode":"400067",
+    "sg:tags":[
+        "toilet",
+        "bathroom",
+        "accessories/fittings"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931623,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q0q86pe18fuGndClRlcks_19.211685_72.820160@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b3950b003683e6192da5246bb48cbb3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931623,
+            "region_id":85672171,
+            "venue_id":169527289
+        }
+    ],
+    "wof:id":169527289,
+    "wof:lastmodified":1449035280,
+    "wof:name":"Om Marketing",
+    "wof:parent_id":85931623,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toilet",
+        "bathroom",
+        "accessories/fittings"
+    ]
+},
+  "bbox": [72.82016,19.211685,72.82016,19.211685],
+  "geometry": {"coordinates":[72.82016,19.211685],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169578089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.534103,23.079943,72.534103,23.079943",
+    "geom:latitude":23.079943,
+    "geom:longitude":72.534103,
+    "iso:country":"IN",
+    "sg:address":"Pushpak Building, 3rd Floor,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 2560 1350",
+    "sg:postcode":"380001",
+    "sg:tags":[
+        "wax"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_657MBF23VzWWsLYb7Ms2Si_23.079943_72.534103@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bf3f312495c78faaf17657b3c5fec1bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169578089
+        }
+    ],
+    "wof:id":169578089,
+    "wof:lastmodified":1449033519,
+    "wof:name":"Gujarat Cold Storage Association",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [72.534103,23.079943,72.534103,23.079943],
+  "geometry": {"coordinates":[72.534103,23.079943],"type":"Point"}
+}

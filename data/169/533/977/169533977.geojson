@@ -1,0 +1,63 @@
+{
+  "id": 169533977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.828682,19.016851,72.828682,19.016851",
+    "geom:latitude":19.016851,
+    "geom:longitude":72.828682,
+    "iso:country":"IN",
+    "sg:address":"Unit No. 9, 3rd Floor, Prabhadevi Industrial Estate, 408, Veer Savarkar Marg, Prabhadevi,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2422 6193",
+    "sg:postcode":"400025",
+    "sg:tags":[
+        "distributor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931467,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23fgnIryIPNnhcl2CU2kNe_19.016851_72.828682@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bdfcdcf505460f74a96abb4828f4c593",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931467,
+            "region_id":85672171,
+            "venue_id":169533977
+        }
+    ],
+    "wof:id":169533977,
+    "wof:lastmodified":1449032644,
+    "wof:name":"Framroze Marketing Co. Pvt. Ltd.",
+    "wof:parent_id":85931467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distributor"
+    ]
+},
+  "bbox": [72.828682,19.016851,72.828682,19.016851],
+  "geometry": {"coordinates":[72.828682,19.016851],"type":"Point"}
+}

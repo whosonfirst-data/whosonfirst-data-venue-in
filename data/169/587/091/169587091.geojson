@@ -1,0 +1,64 @@
+{
+  "id": 169587091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.8731,19.198158,72.8731,19.198158",
+    "geom:latitude":19.198158,
+    "geom:longitude":72.8731,
+    "iso:country":"IN",
+    "sg:address":"9a/301, Alicanagar, Lokhandwala Complex, Kandivali (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6523 1514",
+    "sg:postcode":"400101",
+    "sg:tags":[
+        "dyestuff"
+    ],
+    "sg:website":"http://www.indiaglobalventures.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931529,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zCOzBb4cg3H8c8YJH2Pna_19.198158_72.873100@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7f7345bae55699f45149c9b366927fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931529,
+            "region_id":85672171,
+            "venue_id":169587091
+        }
+    ],
+    "wof:id":169587091,
+    "wof:lastmodified":1449033821,
+    "wof:name":"Mandev Enterprises",
+    "wof:parent_id":85931529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dyestuff"
+    ]
+},
+  "bbox": [72.8731,19.198158,72.8731,19.198158],
+  "geometry": {"coordinates":[72.8731,19.198158],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169644763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.827423,18.933029,72.827423,18.933029",
+    "geom:latitude":18.933029,
+    "geom:longitude":72.827423,
+    "iso:country":"IN",
+    "sg:address":"Opp. Bus Station,",
+    "sg:city":"Vapi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 260 654 4254",
+    "sg:postcode":"396191",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903879,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54lxAKaQ6KOSwANvUlSUck_18.933029_72.827423@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0b02f99b1675c5387139e8ab8386b935",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903879,
+            "region_id":85672171,
+            "venue_id":169644763
+        }
+    ],
+    "wof:id":169644763,
+    "wof:lastmodified":1449034579,
+    "wof:name":"Vishal Agro",
+    "wof:parent_id":85903879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [72.827423,18.933029,72.827423,18.933029],
+  "geometry": {"coordinates":[72.827423,18.933029],"type":"Point"}
+}

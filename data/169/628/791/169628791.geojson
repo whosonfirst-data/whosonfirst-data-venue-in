@@ -1,0 +1,63 @@
+{
+  "id": 169628791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.543404,13.011591,77.543404,13.011591",
+    "geom:latitude":13.011591,
+    "geom:longitude":77.543404,
+    "iso:country":"IN",
+    "sg:address":"Opp. A-9, 1st Main Road, Peenya 2nd Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4117 1636",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XdYknvNEHQbkn5LpY47aJ_13.011591_77.543404@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8a3804c9196a1325e48b181dd7361f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169628791
+        }
+    ],
+    "wof:id":169628791,
+    "wof:lastmodified":1449035335,
+    "wof:name":"Standard Rubber & Fabrication Industries",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.543404,13.011591,77.543404,13.011591],
+  "geometry": {"coordinates":[77.543404,13.011591],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169548661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"79.083572,21.169006,79.083572,21.169006",
+    "geom:latitude":21.169006,
+    "geom:longitude":79.083572,
+    "iso:country":"IN",
+    "sg:address":"126a/2, New Colony,",
+    "sg:city":"Tuticorin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 461 232 3975",
+    "sg:postcode":"628003",
+    "sg:tags":[
+        "salt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903845,
+        85632469,
+        102029277,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_016aXWotX4eflYlxtr3FxW_21.169006_79.083572@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b04b768ba3a27c8240a78a51141ab5f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029277,
+            "neighbourhood_id":85903845,
+            "region_id":85672171,
+            "venue_id":169548661
+        }
+    ],
+    "wof:id":169548661,
+    "wof:lastmodified":1449034975,
+    "wof:name":"Sri Kailash Company",
+    "wof:parent_id":85903845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salt"
+    ]
+},
+  "bbox": [79.083572,21.169006,79.083572,21.169006],
+  "geometry": {"coordinates":[79.083572,21.169006],"type":"Point"}
+}

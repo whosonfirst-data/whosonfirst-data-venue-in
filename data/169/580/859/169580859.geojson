@@ -1,0 +1,63 @@
+{
+  "id": 169580859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.837654,19.204832,72.837654,19.204832",
+    "geom:latitude":19.204832,
+    "geom:longitude":72.837654,
+    "iso:country":"IN",
+    "sg:address":"1, Anton Appartment, Shivaji Road, Kandivli (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2808 6521",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.liquidlifeindia.tripod.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931623,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14wuWsoCXcPYnOaYzvV1ez_19.204832_72.837654@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1dd4420c63ff3cda857bdf5d271758a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931623,
+            "region_id":85672171,
+            "venue_id":169580859
+        }
+    ],
+    "wof:id":169580859,
+    "wof:lastmodified":1449034915,
+    "wof:name":"Jineshwar International",
+    "wof:parent_id":85931623,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.837654,19.204832,72.837654,19.204832],
+  "geometry": {"coordinates":[72.837654,19.204832],"type":"Point"}
+}

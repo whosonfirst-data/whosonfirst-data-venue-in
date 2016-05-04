@@ -1,0 +1,62 @@
+{
+  "id": 169623869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"70.92411,20.711803,70.92411,20.711803",
+    "geom:latitude":20.711803,
+    "geom:longitude":70.92411,
+    "iso:country":"IN",
+    "sg:address":"Opp. G.e.b. Office, Bunder Road,",
+    "sg:city":"Mandvi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"370465",
+    "sg:tags":[
+        "salt"
+    ],
+    "sg:website":"http://www.siddharthminerals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030341,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6klix1c4s8KrJx0jJVNdbg_20.711803_70.924110@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a495eae4ffa9382979f671244f75a36e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030341,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169623869
+        }
+    ],
+    "wof:id":169623869,
+    "wof:lastmodified":1449034999,
+    "wof:name":"Siddharth Minerals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salt"
+    ]
+},
+  "bbox": [70.92411,20.711803,70.92411,20.711803],
+  "geometry": {"coordinates":[70.92411,20.711803],"type":"Point"}
+}

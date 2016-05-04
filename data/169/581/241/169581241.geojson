@@ -1,0 +1,62 @@
+{
+  "id": 169581241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.41539,26.688623,88.41539,26.688623",
+    "geom:latitude":26.688623,
+    "geom:longitude":88.41539,
+    "iso:country":"IN",
+    "sg:address":"10-b, Burdwan Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2242 6594",
+    "sg:postcode":"700027",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028677,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tKRmlDMhnyUA8IN19i1Cr_26.688623_88.415390@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1d0fd791bf313a53c680b76257638b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028677,
+            "neighbourhood_id":-1,
+            "region_id":85672219,
+            "venue_id":169581241
+        }
+    ],
+    "wof:id":169581241,
+    "wof:lastmodified":1449033383,
+    "wof:name":"K Chemicals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.41539,26.688623,88.41539,26.688623],
+  "geometry": {"coordinates":[88.41539,26.688623],"type":"Point"}
+}

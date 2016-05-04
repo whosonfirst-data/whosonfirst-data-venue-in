@@ -1,0 +1,68 @@
+{
+  "id": 169584929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.226715,28.630407,77.226715,28.630407",
+    "geom:latitude":28.630407,
+    "geom:longitude":77.226715,
+    "iso:country":"IN",
+    "sg:address":"World Trade Tower, 4th Floor Barakhamba Avenue,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2341 3038",
+    "sg:postcode":"110001",
+    "sg:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ],
+    "sg:website":"http://www.lupinworld.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903833,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bPCz5SOtvFiuMPctw0AHG_28.630407_77.226715@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"65ba556c38f09f5e7d13191d3a452c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903833,
+            "region_id":85672123,
+            "venue_id":169584929
+        }
+    ],
+    "wof:id":169584929,
+    "wof:lastmodified":1449033038,
+    "wof:name":"Lupin Limited",
+    "wof:parent_id":85903833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "material",
+        "raw"
+    ]
+},
+  "bbox": [77.226715,28.630407,77.226715,28.630407],
+  "geometry": {"coordinates":[77.226715,28.630407],"type":"Point"}
+}

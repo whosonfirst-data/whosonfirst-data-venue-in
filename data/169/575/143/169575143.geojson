@@ -1,0 +1,63 @@
+{
+  "id": 169575143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.25309,13.06575,80.25309,13.06575",
+    "geom:latitude":13.06575,
+    "geom:longitude":80.25309,
+    "iso:country":"IN",
+    "sg:address":"11, Moores Road, Thousand Lights,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2827 3947",
+    "sg:postcode":"600006",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903849,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZaBM3dCWUMdbO0XSp9whH_13.065750_80.253090@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b36078d67aece8400e8aecfad0b1fc8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903849,
+            "region_id":85672245,
+            "venue_id":169575143
+        }
+    ],
+    "wof:id":169575143,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Astrra Chemicals",
+    "wof:parent_id":85903849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.25309,13.06575,80.25309,13.06575],
+  "geometry": {"coordinates":[80.25309,13.06575],"type":"Point"}
+}

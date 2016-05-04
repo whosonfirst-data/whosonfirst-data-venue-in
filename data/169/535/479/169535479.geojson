@@ -1,0 +1,66 @@
+{
+  "id": 169535479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.483711,17.385187,78.483711,17.385187",
+    "geom:latitude":17.385187,
+    "geom:longitude":78.483711,
+    "iso:country":"IN",
+    "sg:address":"4th Floor, Office No. 14, Central Bank Main Bldg, M G Road, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2265 4309",
+    "sg:postcode":"400023",
+    "sg:tags":[
+        "equipment",
+        "good"
+    ],
+    "sg:website":"http://www.conceptengg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930737,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CQPhfs2a2xIYOyGF8gw7q_17.385187_78.483711@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4fbea86cbf441ca44e137f32f389c40f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930737,
+            "region_id":85672141,
+            "venue_id":169535479
+        }
+    ],
+    "wof:id":169535479,
+    "wof:lastmodified":1449033285,
+    "wof:name":"Archana Plants & Equipments Pvt. Ltd.",
+    "wof:parent_id":85930737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "good"
+    ]
+},
+  "bbox": [78.483711,17.385187,78.483711,17.385187],
+  "geometry": {"coordinates":[78.483711,17.385187],"type":"Point"}
+}

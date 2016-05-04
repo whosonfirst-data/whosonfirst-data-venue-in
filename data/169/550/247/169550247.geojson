@@ -1,0 +1,64 @@
+{
+  "id": 169550247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.934517,26.837732,80.934517,26.837732",
+    "geom:latitude":26.837732,
+    "geom:longitude":80.934517,
+    "iso:country":"IN",
+    "sg:address":"Station Road,",
+    "sg:city":"Unjha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2767 252 506",
+    "sg:postcode":"384170",
+    "sg:tags":[
+        "seed"
+    ],
+    "sg:website":"http://www.kbsonsindia.tk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933213,
+        85632469,
+        102029557,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N5M9dBMYt5H7ECPmt5lGo_26.837732_80.934517@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"851dcec84da33632d19e304ceb6235e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029557,
+            "neighbourhood_id":85933213,
+            "region_id":85672205,
+            "venue_id":169550247
+        }
+    ],
+    "wof:id":169550247,
+    "wof:lastmodified":1449034477,
+    "wof:name":"K. B. Sons",
+    "wof:parent_id":85933213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seed"
+    ]
+},
+  "bbox": [80.934517,26.837732,80.934517,26.837732],
+  "geometry": {"coordinates":[80.934517,26.837732],"type":"Point"}
+}

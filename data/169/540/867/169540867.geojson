@@ -1,0 +1,63 @@
+{
+  "id": 169540867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.579666,12.969664,77.579666,12.969664",
+    "geom:latitude":12.969664,
+    "geom:longitude":77.579666,
+    "iso:country":"IN",
+    "sg:address":"36, Jumma Masjid Road, Avenue Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2221 6141",
+    "sg:postcode":"560002",
+    "sg:tags":[
+        "silk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o25NjVf1rdWwED14AI1Mo_12.969664_77.579666@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"31e67fc24060e63eccde9af1579689a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169540867
+        }
+    ],
+    "wof:id":169540867,
+    "wof:lastmodified":1449033977,
+    "wof:name":"Laxmi Exports",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silk"
+    ]
+},
+  "bbox": [77.579666,12.969664,77.579666,12.969664],
+  "geometry": {"coordinates":[77.579666,12.969664],"type":"Point"}
+}

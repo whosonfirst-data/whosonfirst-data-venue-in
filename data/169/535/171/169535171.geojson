@@ -1,0 +1,64 @@
+{
+  "id": 169535171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.833618,18.952265,72.833618,18.952265",
+    "geom:latitude":18.952265,
+    "geom:longitude":72.833618,
+    "iso:country":"IN",
+    "sg:address":"5, Bibijan Street, (nagdevi Street),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 3094 1351",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "embroiders",
+        "embroidery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lsDBlZXJUh8EFruSd6RP1_18.952265_72.833618@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0732c4d7217560cc4b6229cf78af12fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169535171
+        }
+    ],
+    "wof:id":169535171,
+    "wof:lastmodified":1449033288,
+    "wof:name":"Burhani Exports & Imports",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "embroiders",
+        "embroidery"
+    ]
+},
+  "bbox": [72.833618,18.952265,72.833618,18.952265],
+  "geometry": {"coordinates":[72.833618,18.952265],"type":"Point"}
+}

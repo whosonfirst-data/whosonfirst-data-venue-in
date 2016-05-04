@@ -1,0 +1,62 @@
+{
+  "id": 169558629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.523338,13.024735,77.523338,13.024735",
+    "geom:latitude":13.024735,
+    "geom:longitude":77.523338,
+    "iso:country":"IN",
+    "sg:address":"No. 128, 8th Main, 3rd Phase, \nPeenya Industrial Area,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2839 5153",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S1pcRAmJ2jr4tTM9avsRP_13.024735_77.523338@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f88ade92c7f88109b5ed5a47d1b42f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169558629
+        }
+    ],
+    "wof:id":169558629,
+    "wof:lastmodified":1449033582,
+    "wof:name":"Bremels Rubber Industries Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.523338,13.024735,77.523338,13.024735],
+  "geometry": {"coordinates":[77.523338,13.024735],"type":"Point"}
+}

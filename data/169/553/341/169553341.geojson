@@ -1,0 +1,68 @@
+{
+  "id": 169553341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.170372,22.309984,73.170372,22.309984",
+    "geom:latitude":22.309984,
+    "geom:longitude":73.170372,
+    "iso:country":"IN",
+    "sg:address":"510, Windsor Plaza, R.c. Dutt Road, Alkapuri,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Department Of Motor Vehicles",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 232 0255",
+    "sg:postcode":"390007",
+    "sg:tags":[
+        "part",
+        "industrial",
+        "machinery"
+    ],
+    "sg:website":"http://www.simpexindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933511,
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76FMOAslfhJPw73diws59H_22.309984_73.170372@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"791d8b63a60b2224a8a23f34153d68a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":85933511,
+            "region_id":85672249,
+            "venue_id":169553341
+        }
+    ],
+    "wof:id":169553341,
+    "wof:lastmodified":1449032709,
+    "wof:name":"Simpex Engineering (india) Pvt. Ltd.",
+    "wof:parent_id":85933511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "part",
+        "industrial",
+        "machinery"
+    ]
+},
+  "bbox": [73.170372,22.309984,73.170372,22.309984],
+  "geometry": {"coordinates":[73.170372,22.309984],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169623015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.145279,28.750793,77.145279,28.750793",
+    "geom:latitude":28.750793,
+    "geom:longitude":77.145279,
+    "iso:country":"IN",
+    "sg:address":"28/31, Libaspur,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2729 2778",
+    "sg:postcode":"110042",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xUExSdFoxHqD7exWPMcDl_28.750793_77.145279@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8176ecd5aee5895544dd2ea6c0ee3225",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169623015
+        }
+    ],
+    "wof:id":169623015,
+    "wof:lastmodified":1449034996,
+    "wof:name":"Shri Ram Paints",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.145279,28.750793,77.145279,28.750793],
+  "geometry": {"coordinates":[77.145279,28.750793],"type":"Point"}
+}

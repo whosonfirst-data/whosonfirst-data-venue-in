@@ -1,0 +1,65 @@
+{
+  "id": 169609073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.10968,28.648876,77.10968,28.648876",
+    "geom:latitude":28.648876,
+    "geom:longitude":77.10968,
+    "iso:country":"IN",
+    "sg:address":"Ae-21, Tagore Garden,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2519 3538",
+    "sg:postcode":"110027",
+    "sg:tags":[
+        "chemical",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927915,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZDUd8OuvLSgMco8gzsLvL_28.648876_77.109680@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"dd981defe4d44da4cc19a6a5dad4213e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85927915,
+            "region_id":85672123,
+            "venue_id":169609073
+        }
+    ],
+    "wof:id":169609073,
+    "wof:lastmodified":1449033919,
+    "wof:name":"Ranoo Exports International",
+    "wof:parent_id":85927915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "-"
+    ]
+},
+  "bbox": [77.10968,28.648876,77.10968,28.648876],
+  "geometry": {"coordinates":[77.10968,28.648876],"type":"Point"}
+}

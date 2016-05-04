@@ -1,0 +1,64 @@
+{
+  "id": 169558323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.444283,17.410025,78.444283,17.410025",
+    "geom:latitude":17.410025,
+    "geom:longitude":78.444283,
+    "iso:country":"IN",
+    "sg:address":"Ho No. -46, Road No-13, Banjara Hills,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2332 0999",
+    "sg:postcode":"500016",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.nandanagrofarms.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930765,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11zmU4bU0acG2onjebs1m0_17.410025_78.444283@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c1a7c47c01c2228192c188527e431a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930765,
+            "region_id":85672141,
+            "venue_id":169558323
+        }
+    ],
+    "wof:id":169558323,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Biomatrix Limited",
+    "wof:parent_id":85930765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.444283,17.410025,78.444283,17.410025],
+  "geometry": {"coordinates":[78.444283,17.410025],"type":"Point"}
+}

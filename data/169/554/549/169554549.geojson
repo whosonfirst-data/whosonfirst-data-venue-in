@@ -1,0 +1,65 @@
+{
+  "id": 169554549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.170372,22.309984,73.170372,22.309984",
+    "geom:latitude":22.309984,
+    "geom:longitude":73.170372,
+    "iso:country":"IN",
+    "sg:address":"801, Windsor Plaza R.c. Dutt Road, Alkapuri,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 235 4524",
+    "sg:postcode":"390005",
+    "sg:tags":[
+        "bag",
+        "paper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933511,
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yswWqp1yXwKV3U6ET4w0U_22.309984_73.170372@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"791d8b63a60b2224a8a23f34153d68a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":85933511,
+            "region_id":85672249,
+            "venue_id":169554549
+        }
+    ],
+    "wof:id":169554549,
+    "wof:lastmodified":1449033369,
+    "wof:name":"Samyak Udyog Plastics Pvt. Ltd.",
+    "wof:parent_id":85933511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag",
+        "paper"
+    ]
+},
+  "bbox": [73.170372,22.309984,73.170372,22.309984],
+  "geometry": {"coordinates":[73.170372,22.309984],"type":"Point"}
+}

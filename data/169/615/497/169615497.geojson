@@ -1,0 +1,62 @@
+{
+  "id": 169615497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.320808,19.855721,75.320808,19.855721",
+    "geom:latitude":19.855721,
+    "geom:longitude":75.320808,
+    "iso:country":"IN",
+    "sg:address":"L-21/22, Midc,",
+    "sg:city":"Satara",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2162 245 223",
+    "sg:postcode":"415004",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030887,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RToFe9XRHomvbxeEZyI6t_19.855721_75.320808@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ee960c9ca12592ef26f48848e59da1ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030887,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169615497
+        }
+    ],
+    "wof:id":169615497,
+    "wof:lastmodified":1449033733,
+    "wof:name":"Samartha Rubber Products Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [75.320808,19.855721,75.320808,19.855721],
+  "geometry": {"coordinates":[75.320808,19.855721],"type":"Point"}
+}

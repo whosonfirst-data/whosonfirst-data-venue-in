@@ -1,0 +1,63 @@
+{
+  "id": 169605823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.605919,12.966026,77.605919,12.966026",
+    "geom:latitude":12.966026,
+    "geom:longitude":77.605919,
+    "iso:country":"IN",
+    "sg:address":"214, Richmond Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 51 125793",
+    "sg:postcode":"560025",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930841,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UHDSqzBUveKGPZMpb37up_12.966026_77.605919@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1e9da4d3b23f518237ed344e9659bc01",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930841,
+            "region_id":85672165,
+            "venue_id":169605823
+        }
+    ],
+    "wof:id":169605823,
+    "wof:lastmodified":1449034292,
+    "wof:name":"R K Chemicals",
+    "wof:parent_id":85930841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.605919,12.966026,77.605919,12.966026],
+  "geometry": {"coordinates":[77.605919,12.966026],"type":"Point"}
+}

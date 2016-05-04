@@ -1,0 +1,54 @@
+{
+  "id": 169568845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.352997,22.558205,88.352997,22.558205",
+    "geom:latitude":22.558205,
+    "geom:longitude":88.352997,
+    "iso:country":"IN",
+    "sg:address":"Sudder Street",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 3322491872249",
+    "sg:postcode":"700016",
+    "sg:province":"West Bengal",
+    "sg:website":"http://www.lyttonhotelindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931931,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VkJx021JJQNRljZXUWWjg_22.558205_88.352997@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"57657d663e4bd055edff40c5d188343e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931931,
+            "region_id":85672219,
+            "venue_id":169568845
+        }
+    ],
+    "wof:id":169568845,
+    "wof:lastmodified":1449032609,
+    "wof:name":"Lytton Hotel",
+    "wof:parent_id":85931931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [88.352997,22.558205,88.352997,22.558205],
+  "geometry": {"coordinates":[88.352997,22.558205],"type":"Point"}
+}

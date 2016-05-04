@@ -1,0 +1,66 @@
+{
+  "id": 169541661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.586052,12.980666,77.586052,12.980666",
+    "geom:latitude":12.980666,
+    "geom:longitude":77.586052,
+    "iso:country":"IN",
+    "sg:address":"11/2, Palace Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 56 940633",
+    "sg:postcode":"560052",
+    "sg:tags":[
+        "design",
+        "software"
+    ],
+    "sg:website":"http://www.cmcltd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930877,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jkpVpX8aRI96Od9FUQwwi_12.980666_77.586052@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"24283c123f19b76f9057941e65aebf51",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930877,
+            "region_id":85672165,
+            "venue_id":169541661
+        }
+    ],
+    "wof:id":169541661,
+    "wof:lastmodified":1449033045,
+    "wof:name":"Cmc Ltd.",
+    "wof:parent_id":85930877,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "design",
+        "software"
+    ]
+},
+  "bbox": [77.586052,12.980666,77.586052,12.980666],
+  "geometry": {"coordinates":[77.586052,12.980666],"type":"Point"}
+}

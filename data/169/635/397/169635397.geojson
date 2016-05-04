@@ -1,0 +1,63 @@
+{
+  "id": 169635397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.014702,19.006781,73.014702,19.006781",
+    "geom:latitude":19.006781,
+    "geom:longitude":73.014702,
+    "iso:country":"IN",
+    "sg:address":"A-76, Sector-58,",
+    "sg:city":"Noida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 249 0285",
+    "sg:postcode":"201301",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931651,
+        85632469,
+        102029191,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zTxLFfSb1gAmqEEKMco2g_19.006781_73.014702@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5c31bfd55419a159621bd043f9bc269c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029191,
+            "neighbourhood_id":85931651,
+            "region_id":85672171,
+            "venue_id":169635397
+        }
+    ],
+    "wof:id":169635397,
+    "wof:lastmodified":1449034099,
+    "wof:name":"The Brassman India",
+    "wof:parent_id":85931651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [73.014702,19.006781,73.014702,19.006781],
+  "geometry": {"coordinates":[73.014702,19.006781],"type":"Point"}
+}

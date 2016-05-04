@@ -1,0 +1,63 @@
+{
+  "id": 169614445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.921463,20.951851,72.921463,20.951851",
+    "geom:latitude":20.951851,
+    "geom:longitude":72.921463,
+    "iso:country":"IN",
+    "sg:address":"Navsari Building, 3rd Floor, 240, Dr. D.n Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2207 1961",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.sued-chemie-india.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029205,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LXZEFXHuCLfuMNZHTJ1jS_20.951851_72.921463@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c826d5d7a3d59a5a827541fca7b094a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029205,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169614445
+        }
+    ],
+    "wof:id":169614445,
+    "wof:lastmodified":1449036057,
+    "wof:name":"S\u00fcd-chemie India Pvt. Ltd",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.921463,20.951851,72.921463,20.951851],
+  "geometry": {"coordinates":[72.921463,20.951851],"type":"Point"}
+}

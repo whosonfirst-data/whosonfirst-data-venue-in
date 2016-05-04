@@ -1,0 +1,63 @@
+{
+  "id": 169548691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"81.08461,20.587545,81.08461,20.587545",
+    "geom:latitude":20.587545,
+    "geom:longitude":81.08461,
+    "iso:country":"IN",
+    "sg:address":"97g/5a, Teachers Colony,",
+    "sg:city":"Tuticorin",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 461 239 2084",
+    "sg:postcode":"628008",
+    "sg:tags":[
+        "agent",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46DfHIOzUjHPZsM0k98vbh_20.587545_81.084610@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4f98bbd88ef4dea0f51d8c63d042ac59",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672231,
+            "venue_id":169548691
+        }
+    ],
+    "wof:id":169548691,
+    "wof:lastmodified":1449034971,
+    "wof:name":"K. S. Murugan Shipping",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping"
+    ]
+},
+  "bbox": [81.08461,20.587545,81.08461,20.587545],
+  "geometry": {"coordinates":[81.08461,20.587545],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169638593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.362259,22.556757,88.362259,22.556757",
+    "geom:latitude":22.556757,
+    "geom:longitude":88.362259,
+    "iso:country":"IN",
+    "sg:address":"1/4, Abdul Halim Lane,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2244 1680",
+    "sg:postcode":"700016",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931931,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KydDHnnV4ou00o5KGTse7_22.556757_88.362259@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7049d9adb7171bf9f05c81853a6159aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931931,
+            "region_id":85672219,
+            "venue_id":169638593
+        }
+    ],
+    "wof:id":169638593,
+    "wof:lastmodified":1449032867,
+    "wof:name":"Uni Print-o-chem Pvt. Ltd.",
+    "wof:parent_id":85931931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.362259,22.556757,88.362259,22.556757],
+  "geometry": {"coordinates":[88.362259,22.556757],"type":"Point"}
+}

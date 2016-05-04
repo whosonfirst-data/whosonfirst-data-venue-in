@@ -1,0 +1,59 @@
+{
+  "id": 169543327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.623184,12.932578,77.623184,12.932578",
+    "geom:latitude":12.932578,
+    "geom:longitude":77.623184,
+    "iso:country":"IN",
+    "sg:address":"52/b, 100 Feet Road, 4th Block, Koramangala,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 56 694238",
+    "sg:postcode":"560034",
+    "sg:website":"http://www.mobiapps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930917,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XbnU1MaLXr57i77PUGbXM_12.932578_77.623184@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"51cb9c932571b321b31c6f4494134aec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930917,
+            "region_id":85672165,
+            "venue_id":169543327
+        }
+    ],
+    "wof:id":169543327,
+    "wof:lastmodified":1449033334,
+    "wof:name":"Mobi Apps",
+    "wof:parent_id":85930917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.623184,12.932578,77.623184,12.932578],
+  "geometry": {"coordinates":[77.623184,12.932578],"type":"Point"}
+}

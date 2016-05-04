@@ -1,0 +1,65 @@
+{
+  "id": 169617697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.540726,13.010231,77.540726,13.010231",
+    "geom:latitude":13.010231,
+    "geom:longitude":77.540726,
+    "iso:country":"IN",
+    "sg:address":"M-17, 7th Cross, Peenya Industrial Estate,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2330 0610",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "silica",
+        "gel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53SBTB4LDPoANIA4XE4yMh_13.010231_77.540726@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"520373f5718251737687ebe0e448a78a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169617697
+        }
+    ],
+    "wof:id":169617697,
+    "wof:lastmodified":1449032803,
+    "wof:name":"Scientific Silica Products",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silica",
+        "gel"
+    ]
+},
+  "bbox": [77.540726,13.010231,77.540726,13.010231],
+  "geometry": {"coordinates":[77.540726,13.010231],"type":"Point"}
+}

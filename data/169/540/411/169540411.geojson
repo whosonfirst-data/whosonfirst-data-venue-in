@@ -1,0 +1,64 @@
+{
+  "id": 169540411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.552628,13.040762,77.552628,13.040762",
+    "geom:latitude":13.040762,
+    "geom:longitude":77.552628,
+    "iso:country":"IN",
+    "sg:address":"2, M. S. R Industrial Estate, Gokula Extension, P.o.,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2360 8401",
+    "sg:postcode":"560054",
+    "sg:tags":[
+        "silicon"
+    ],
+    "sg:website":"http://www.rmc-india.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930975,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Rm2ZOcGSHuCnUx5buBXnN_13.040762_77.552628@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"473de5d7f9e8106ada1e7ab68014013e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930975,
+            "region_id":85672165,
+            "venue_id":169540411
+        }
+    ],
+    "wof:id":169540411,
+    "wof:lastmodified":1449033974,
+    "wof:name":"Resistors Manufacturing Co.",
+    "wof:parent_id":85930975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silicon"
+    ]
+},
+  "bbox": [77.552628,13.040762,77.552628,13.040762],
+  "geometry": {"coordinates":[77.552628,13.040762],"type":"Point"}
+}

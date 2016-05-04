@@ -1,0 +1,62 @@
+{
+  "id": 169555117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.19857,22.255503,73.19857,22.255503",
+    "geom:latitude":22.255503,
+    "geom:longitude":73.19857,
+    "iso:country":"IN",
+    "sg:address":"336/16, Gidc, Industrial Area, Makarpura,",
+    "sg:city":"Vadodara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Atm",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 265 264 1344",
+    "sg:postcode":"390010",
+    "sg:tags":[
+        "rectifier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028331,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MFRjmE4gmCqR5Xm6S5FQF_22.255503_73.198570@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6e22de04ca9f3972c3459edfa9241aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028331,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169555117
+        }
+    ],
+    "wof:id":169555117,
+    "wof:lastmodified":1449035495,
+    "wof:name":"Power-tek Transformers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rectifier"
+    ]
+},
+  "bbox": [73.19857,22.255503,73.19857,22.255503],
+  "geometry": {"coordinates":[73.19857,22.255503],"type":"Point"}
+}

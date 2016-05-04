@@ -1,0 +1,66 @@
+{
+  "id": 169527865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.849426,19.012163,72.849426,19.012163",
+    "geom:latitude":19.012163,
+    "geom:longitude":72.849426,
+    "iso:country":"IN",
+    "sg:address":"215, Wadala Udyog Bhavan, Wadala,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2412 0502",
+    "sg:postcode":"400031",
+    "sg:tags":[
+        "publisher",
+        "book"
+    ],
+    "sg:website":"http://www.jasmineart.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931545,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W0eYiZEjPfFC0CTPKQQrH_19.012163_72.849426@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a30b0c1cc9f67535610d2a6b9825be2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931545,
+            "region_id":85672171,
+            "venue_id":169527865
+        }
+    ],
+    "wof:id":169527865,
+    "wof:lastmodified":1449035279,
+    "wof:name":"Jasmine Art Printers",
+    "wof:parent_id":85931545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher",
+        "book"
+    ]
+},
+  "bbox": [72.849426,19.012163,72.849426,19.012163],
+  "geometry": {"coordinates":[72.849426,19.012163],"type":"Point"}
+}

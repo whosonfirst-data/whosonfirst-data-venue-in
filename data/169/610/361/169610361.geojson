@@ -1,0 +1,63 @@
+{
+  "id": 169610361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.282372,13.092222,80.282372,13.092222",
+    "geom:latitude":13.092222,
+    "geom:longitude":80.282372,
+    "iso:country":"IN",
+    "sg:address":"49, Audiappa Naicken Street, 2nd Floor, Sowcarpet,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2529 7044",
+    "sg:postcode":"600079",
+    "sg:tags":[
+        "acid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931765,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_207S75g9UK8BI0DY5jWYPS_13.092222_80.282372@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f05eb770c1e053504cdf58d9ecbccbe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931765,
+            "region_id":85672245,
+            "venue_id":169610361
+        }
+    ],
+    "wof:id":169610361,
+    "wof:lastmodified":1449035910,
+    "wof:name":"Reliable Petro Chemicals",
+    "wof:parent_id":85931765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [80.282372,13.092222,80.282372,13.092222],
+  "geometry": {"coordinates":[80.282372,13.092222],"type":"Point"}
+}

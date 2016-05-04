@@ -1,0 +1,63 @@
+{
+  "id": 169646629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.353035,22.57485,88.353035,22.57485",
+    "geom:latitude":22.57485,
+    "geom:longitude":88.353035,
+    "iso:country":"IN",
+    "sg:address":"35, Ezra Street, 2nd Floor Suite - B",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 3023 3576",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903957,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DjMBeDl0tJbSY2TZ2Gc2o_22.574850_88.353035@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3d24561b4cefd04ab039390000125dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903957,
+            "region_id":85672219,
+            "venue_id":169646629
+        }
+    ],
+    "wof:id":169646629,
+    "wof:lastmodified":1449032608,
+    "wof:name":"Winmax",
+    "wof:parent_id":85903957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.353035,22.57485,88.353035,22.57485],
+  "geometry": {"coordinates":[88.353035,22.57485],"type":"Point"}
+}

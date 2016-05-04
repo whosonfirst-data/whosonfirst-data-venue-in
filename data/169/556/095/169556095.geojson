@@ -1,0 +1,63 @@
+{
+  "id": 169556095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.8405,19.004057,72.8405,19.004057",
+    "geom:latitude":19.004057,
+    "geom:longitude":72.8405,
+    "iso:country":"IN",
+    "sg:address":"18 Gokhale Society Lane, Parel",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2412 7209",
+    "sg:postcode":"400012",
+    "sg:province":"Maharashtra",
+    "sg:website":"http://www.business.vsnl.com/croesus",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931467,
+        85632469,
+        102030609,
+        85672171,
+        85903941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aBJXLI2XJO5CF2S9vFw3t_19.004057_72.840500@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"445cb98527e5c846a8ad86ea414f35f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931467,
+            "region_id":85672171,
+            "venue_id":169556095
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903941,
+            "region_id":85672171,
+            "venue_id":169556095
+        }
+    ],
+    "wof:id":169556095,
+    "wof:lastmodified":1449033509,
+    "wof:name":"Croesus Finance Company Ltd",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.8405,19.004057,72.8405,19.004057],
+  "geometry": {"coordinates":[72.8405,19.004057],"type":"Point"}
+}

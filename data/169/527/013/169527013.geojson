@@ -1,0 +1,66 @@
+{
+  "id": 169527013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.890099,19.106525,72.890099,19.106525",
+    "geom:latitude":19.106525,
+    "geom:longitude":72.890099,
+    "iso:country":"IN",
+    "sg:address":"R.m. House, Kherani Road, Sakinaka,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2852 0743",
+    "sg:postcode":"400072",
+    "sg:tags":[
+        "equipment",
+        "baker"
+    ],
+    "sg:website":"http://www.geocities.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ipvODBgt2pXjPh03xZgT2_19.106525_72.890099@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"31580f18290ca470c3cfbbf27fd9e966",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169527013
+        }
+    ],
+    "wof:id":169527013,
+    "wof:lastmodified":1449035278,
+    "wof:name":"R.m. Engineering Works",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "baker"
+    ]
+},
+  "bbox": [72.890099,19.106525,72.890099,19.106525],
+  "geometry": {"coordinates":[72.890099,19.106525],"type":"Point"}
+}

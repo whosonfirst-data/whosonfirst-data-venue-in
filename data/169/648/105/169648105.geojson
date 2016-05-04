@@ -1,0 +1,63 @@
+{
+  "id": 169648105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"70.361252,20.933535,70.361252,20.933535",
+    "geom:latitude":20.933535,
+    "geom:longitude":70.361252,
+    "iso:country":"IN",
+    "sg:address":"Opp. Dhorivav, Junagadh Road,",
+    "sg:city":"Dhoraji",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2824 226 790",
+    "sg:postcode":"360410",
+    "sg:tags":[
+        "polymer"
+    ],
+    "sg:website":"http://www.zeal-strap.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028281,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F3ilJ0V5F3CHcF3LK8d8q_20.933535_70.361252@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3070338ff3b671f2513f4cdd0a972dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028281,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169648105
+        }
+    ],
+    "wof:id":169648105,
+    "wof:lastmodified":1449033584,
+    "wof:name":"Zeal Polymers Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [70.361252,20.933535,70.361252,20.933535],
+  "geometry": {"coordinates":[70.361252,20.933535],"type":"Point"}
+}

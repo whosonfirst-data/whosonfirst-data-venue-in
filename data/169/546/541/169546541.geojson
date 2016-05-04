@@ -1,0 +1,64 @@
+{
+  "id": 169546541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.145424,12.949932,80.145424,12.949932",
+    "geom:latitude":12.949932,
+    "geom:longitude":80.145424,
+    "iso:country":"IN",
+    "sg:address":"87, Kumaran Road,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 220 1689",
+    "sg:tags":[
+        "garment",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931809,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67KlDelU5d9iqT5SvwCBM7_12.949932_80.145424@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2320669b17212eb93359e6a4c555efe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931809,
+            "region_id":85672245,
+            "venue_id":169546541
+        }
+    ],
+    "wof:id":169546541,
+    "wof:lastmodified":1449032678,
+    "wof:name":"Sree Seetaram Stores",
+    "wof:parent_id":85931809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "accessory"
+    ]
+},
+  "bbox": [80.145424,12.949932,80.145424,12.949932],
+  "geometry": {"coordinates":[80.145424,12.949932],"type":"Point"}
+}

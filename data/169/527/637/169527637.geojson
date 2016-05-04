@@ -1,0 +1,65 @@
+{
+  "id": 169527637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.840149,18.937328,72.840149,18.937328",
+    "geom:latitude":18.937328,
+    "geom:longitude":72.840149,
+    "iso:country":"IN",
+    "sg:address":"Reliance Centre, 19, Walchand Hirachand Marg, Ballard Estate,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 3032 2100",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "benzene",
+        "ramification"
+    ],
+    "sg:website":"http://www.ril.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903853,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Iu6uyWvCqxDsaAlMlNyL6_18.937328_72.840149@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d172e2fddfad41519154e21ae917f298",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903853,
+            "region_id":-1,
+            "venue_id":169527637
+        }
+    ],
+    "wof:id":169527637,
+    "wof:lastmodified":1449035277,
+    "wof:name":"Reliance Industries Limited",
+    "wof:parent_id":85903853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "benzene",
+        "ramification"
+    ]
+},
+  "bbox": [72.840149,18.937328,72.840149,18.937328],
+  "geometry": {"coordinates":[72.840149,18.937328],"type":"Point"}
+}

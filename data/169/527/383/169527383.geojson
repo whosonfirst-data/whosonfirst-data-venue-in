@@ -1,0 +1,64 @@
+{
+  "id": 169527383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.821182,18.924328,72.821182,18.924328",
+    "geom:latitude":18.924328,
+    "geom:longitude":72.821182,
+    "iso:country":"IN",
+    "sg:address":"1102, Embassy Centre, 11th Floor, Nariman Point,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2284 1123",
+    "sg:postcode":"400021",
+    "sg:tags":[
+        "bean"
+    ],
+    "sg:website":"http://www.rpiyarelall.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931461,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Zy8u4a25yZZIn24gsNYEn_18.924328_72.821182@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1c9a911b24196c8a2db92dc9a3f1f6f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931461,
+            "region_id":85672171,
+            "venue_id":169527383
+        }
+    ],
+    "wof:id":169527383,
+    "wof:lastmodified":1449035277,
+    "wof:name":"R. Piyarelall International Pvt. Ltd.",
+    "wof:parent_id":85931461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bean"
+    ]
+},
+  "bbox": [72.821182,18.924328,72.821182,18.924328],
+  "geometry": {"coordinates":[72.821182,18.924328],"type":"Point"}
+}

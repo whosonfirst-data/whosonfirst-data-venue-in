@@ -1,0 +1,64 @@
+{
+  "id": 169546799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.336746,11.110574,77.336746,11.110574",
+    "geom:latitude":11.110574,
+    "geom:longitude":77.336746,
+    "iso:country":"IN",
+    "sg:address":"No. 28, Stanes Road, 4th Street,",
+    "sg:city":"Tirupur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 421 224 7500",
+    "sg:postcode":"641602",
+    "sg:tags":[
+        "knitted",
+        "knitwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028425,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mlbXUF1Yk1kjSo8yu2w6r_11.110574_77.336746@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"814ae18331f6207c393b3b85516afb4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028425,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169546799
+        }
+    ],
+    "wof:id":169546799,
+    "wof:lastmodified":1449032681,
+    "wof:name":"Canimaara Garments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitted",
+        "knitwear"
+    ]
+},
+  "bbox": [77.336746,11.110574,77.336746,11.110574],
+  "geometry": {"coordinates":[77.336746,11.110574],"type":"Point"}
+}

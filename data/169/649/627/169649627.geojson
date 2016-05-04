@@ -1,0 +1,75 @@
+{
+  "id": 169649627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.629936,12.961908,77.629936,12.961908",
+    "geom:latitude":12.961908,
+    "geom:longitude":77.629936,
+    "iso:country":"IN",
+    "sg:address":"#21, Off Airport Road",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560017",
+    "sg:tags":[
+        "recruitment",
+        "manpower",
+        "placement",
+        "consultant",
+        "headhunting",
+        "corporate-training",
+        "it-solutions"
+    ],
+    "sg:website":"http://www.vividityconsulting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931147,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06PbFcTplThkCpAH4snLFk_12.961908_77.629936@1308163240"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"102ecacd5f60ae80d0e2e9c7940ecf20",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931147,
+            "region_id":85672165,
+            "venue_id":169649627
+        }
+    ],
+    "wof:id":169649627,
+    "wof:lastmodified":1449034945,
+    "wof:name":"Vividity Consulting",
+    "wof:parent_id":85931147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recruitment",
+        "manpower",
+        "placement",
+        "consultant",
+        "headhunting",
+        "corporate-training",
+        "it-solutions"
+    ]
+},
+  "bbox": [77.629936,12.961908,77.629936,12.961908],
+  "geometry": {"coordinates":[77.629936,12.961908],"type":"Point"}
+}

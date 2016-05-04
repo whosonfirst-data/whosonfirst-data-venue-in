@@ -1,0 +1,62 @@
+{
+  "id": 169529953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.837029,18.950844,72.837029,18.950844",
+    "geom:latitude":18.950844,
+    "geom:longitude":72.837029,
+    "iso:country":"IN",
+    "sg:address":"110, Mandvi - Navjivan Bldg., 121/127, Kazi Syed Street,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 222343363738",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IHSoRtAH8ygzk6mrHEfkS_18.950844_72.837029@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"72b42812448dfc62ed39956c767c4d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169529953
+        }
+    ],
+    "wof:id":169529953,
+    "wof:lastmodified":1449034115,
+    "wof:name":"Kalpataru Colours & Chemicals",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.837029,18.950844,72.837029,18.950844],
+  "geometry": {"coordinates":[72.837029,18.950844],"type":"Point"}
+}

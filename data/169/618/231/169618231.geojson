@@ -1,0 +1,64 @@
+{
+  "id": 169618231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.557365,13.038153,77.557365,13.038153",
+    "geom:latitude":13.038153,
+    "geom:longitude":77.557365,
+    "iso:country":"IN",
+    "sg:address":"#1, Msr Indl. Estate, Gokula,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2360 8924",
+    "sg:postcode":"560054",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.shahpolymers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930923,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L29FrmfgFNL6eyxLIAHY1_13.038153_77.557365@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"190cd2e2d21b79ffadb5619498ae493b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930923,
+            "region_id":85672165,
+            "venue_id":169618231
+        }
+    ],
+    "wof:id":169618231,
+    "wof:lastmodified":1449034737,
+    "wof:name":"Shah Polymers",
+    "wof:parent_id":85930923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.557365,13.038153,77.557365,13.038153],
+  "geometry": {"coordinates":[77.557365,13.038153],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169528911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.83223,19.140669,72.83223,19.140669",
+    "geom:latitude":19.140669,
+    "geom:longitude":72.83223,
+    "iso:country":"IN",
+    "sg:address":"507, Laxmi Plaza, Link Road, Andheri (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2804 1154",
+    "sg:postcode":"400053",
+    "sg:tags":[
+        "cables/cable",
+        "conductor",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931475,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UzHexKko86LhSvPNRALYx_19.140669_72.832230@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d26dc3912d79d5de7abb8430ae411111",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931475,
+            "region_id":85672171,
+            "venue_id":169528911
+        }
+    ],
+    "wof:id":169528911,
+    "wof:lastmodified":1449033572,
+    "wof:name":"Modi Cables",
+    "wof:parent_id":85931475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cables/cable",
+        "conductor",
+        "accessory"
+    ]
+},
+  "bbox": [72.83223,19.140669,72.83223,19.140669],
+  "geometry": {"coordinates":[72.83223,19.140669],"type":"Point"}
+}

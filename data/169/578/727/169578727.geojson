@@ -1,0 +1,64 @@
+{
+  "id": 169578727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"70.750671,22.277142,70.750671,22.277142",
+    "geom:latitude":22.277142,
+    "geom:longitude":70.750671,
+    "iso:country":"IN",
+    "sg:address":"B-86, Sarita Vihar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110076",
+    "sg:tags":[
+        "color",
+        "dyes-natural"
+    ],
+    "sg:website":"http://www.hennaandherbs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028901,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YknxkUg4IoNuoMmlDZHdP_22.277142_70.750671@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c4da445990df9799884dc8f0ea0d3940",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028901,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169578727
+        }
+    ],
+    "wof:id":169578727,
+    "wof:lastmodified":1449033518,
+    "wof:name":"Henna, Herbs And Things",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "color",
+        "dyes-natural"
+    ]
+},
+  "bbox": [70.750671,22.277142,70.750671,22.277142],
+  "geometry": {"coordinates":[70.750671,22.277142],"type":"Point"}
+}

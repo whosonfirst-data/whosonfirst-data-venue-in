@@ -1,0 +1,66 @@
+{
+  "id": 169525869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.865227,19.106579,72.865227,19.106579",
+    "geom:latitude":19.106579,
+    "geom:longitude":72.865227,
+    "iso:country":"IN",
+    "sg:address":"293,adarsh Nagar, Jogeshwari (west), Andheri (west),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5691 9796",
+    "sg:postcode":"400102",
+    "sg:tags":[
+        "equipment",
+        "air-conditioning"
+    ],
+    "sg:website":"http://www.dafikas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3odHZI0eETcFc2smbcWkDW_19.106579_72.865227@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"dfca35bf72bc326564a819b2b8349fbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169525869
+        }
+    ],
+    "wof:id":169525869,
+    "wof:lastmodified":1449035274,
+    "wof:name":"Dafikas",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "air-conditioning"
+    ]
+},
+  "bbox": [72.865227,19.106579,72.865227,19.106579],
+  "geometry": {"coordinates":[72.865227,19.106579],"type":"Point"}
+}

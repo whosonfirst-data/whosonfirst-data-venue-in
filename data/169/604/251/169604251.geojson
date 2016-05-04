@@ -1,0 +1,63 @@
+{
+  "id": 169604251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.828125,19.069559,72.828125,19.069559",
+    "geom:latitude":19.069559,
+    "geom:longitude":72.828125,
+    "iso:country":"IN",
+    "sg:address":"18, Highland, 3/318 Pali Hill, Bandra (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2646 3046",
+    "sg:postcode":"400050",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931493,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jUXFApaHxhQAuGsZ1rssU_19.069559_72.828125@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b71573bee6eedf2523c827ab456f5dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931493,
+            "region_id":85672171,
+            "venue_id":169604251
+        }
+    ],
+    "wof:id":169604251,
+    "wof:lastmodified":1449035568,
+    "wof:name":"Priyanjal Farms",
+    "wof:parent_id":85931493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [72.828125,19.069559,72.828125,19.069559],
+  "geometry": {"coordinates":[72.828125,19.069559],"type":"Point"}
+}

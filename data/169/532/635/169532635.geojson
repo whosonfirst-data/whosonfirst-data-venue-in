@@ -1,0 +1,61 @@
+{
+  "id": 169532635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.272552,30.119255,77.272552,30.119255",
+    "geom:latitude":30.119255,
+    "geom:longitude":77.272552,
+    "iso:country":"IN",
+    "sg:address":"D-6, Yamuna Nagar,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2634 4978",
+    "sg:postcode":"400053",
+    "sg:tags":[
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71C5o3TSIgChDyCpRdB6cW_30.119255_77.272552@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"43ef41a3b1b38217bfbd5c2970034e6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672133,
+            "venue_id":169532635
+        }
+    ],
+    "wof:id":169532635,
+    "wof:lastmodified":1449033796,
+    "wof:name":"Deccan Enterprise",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [77.272552,30.119255,77.272552,30.119255],
+  "geometry": {"coordinates":[77.272552,30.119255],"type":"Point"}
+}

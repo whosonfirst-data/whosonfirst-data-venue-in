@@ -1,0 +1,61 @@
+{
+  "id": 169620209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.963287,20.820829,72.963287,20.820829",
+    "geom:latitude":20.820829,
+    "geom:longitude":72.963287,
+    "iso:country":"IN",
+    "sg:address":"B\\\\502, S.l.tower, Apposite, A.p.street,",
+    "sg:city":"Vidyanagar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2775 252 560",
+    "sg:postcode":"388465",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XPCBLmpBOcjmt6VrwvivM_20.820829_72.963287@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9f207db9a44c11eea919fcfe5470ee69",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169620209
+        }
+    ],
+    "wof:id":169620209,
+    "wof:lastmodified":1449035675,
+    "wof:name":"Shivam Chemicals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [72.963287,20.820829,72.963287,20.820829],
+  "geometry": {"coordinates":[72.963287,20.820829],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169558859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.388313,28.673702,77.388313,28.673702",
+    "geom:latitude":28.673702,
+    "geom:longitude":77.388313,
+    "iso:country":"IN",
+    "sg:address":"115, Anand Industrial Estate, Mohan Nagar,",
+    "sg:city":"Ghaziabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 120 651 8817",
+    "sg:postcode":"201007",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030233,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Oawj4QvqitTANRFjxG7t5_28.673702_77.388313@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a7abde10b94d473fdcc72bb13be038b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030233,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169558859
+        }
+    ],
+    "wof:id":169558859,
+    "wof:lastmodified":1449033582,
+    "wof:name":"Can-n-cans",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.388313,28.673702,77.388313,28.673702],
+  "geometry": {"coordinates":[77.388313,28.673702],"type":"Point"}
+}

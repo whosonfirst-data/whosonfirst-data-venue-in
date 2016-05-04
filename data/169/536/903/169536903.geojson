@@ -1,0 +1,69 @@
+{
+  "id": 169536903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.536613,12.998101,77.536613,12.998101",
+    "geom:latitude":12.998101,
+    "geom:longitude":77.536613,
+    "iso:country":"IN",
+    "sg:address":"P.b. No. 7962, No. 401, 2nd 'b' Cross, 3rd Stage, 3rd Block, Basaveshwara Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2323 2643",
+    "sg:postcode":"560079",
+    "sg:tags":[
+        "control",
+        "equipment",
+        "monitoring",
+        "pollution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70instzTqtzpeR8wtRlu5t_12.998101_77.536613@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ca7bac28f54176e851197751883296c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169536903
+        }
+    ],
+    "wof:id":169536903,
+    "wof:lastmodified":1449034656,
+    "wof:name":"Airstream Systems Pvt. Ltd.",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "equipment",
+        "monitoring",
+        "pollution"
+    ]
+},
+  "bbox": [77.536613,12.998101,77.536613,12.998101],
+  "geometry": {"coordinates":[77.536613,12.998101],"type":"Point"}
+}

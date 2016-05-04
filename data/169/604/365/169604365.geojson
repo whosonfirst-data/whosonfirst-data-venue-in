@@ -1,0 +1,64 @@
+{
+  "id": 169604365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.252556,12.995298,80.252556,12.995298",
+    "geom:latitude":12.995298,
+    "geom:longitude":80.252556,
+    "iso:country":"IN",
+    "sg:address":"15, Third Avenue Indira Nagar, Adyar,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2445 4756",
+    "sg:postcode":"600020",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "sg:website":"http://www.proalgenbiotech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903855,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mHK4QkIT1CssIxLSqjKN7_12.995298_80.252556@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a775f1fcc0047caeb1de839f1db403f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903855,
+            "region_id":85672245,
+            "venue_id":169604365
+        }
+    ],
+    "wof:id":169604365,
+    "wof:lastmodified":1449035569,
+    "wof:name":"Proalgen Biotech Limited",
+    "wof:parent_id":85903855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [80.252556,12.995298,80.252556,12.995298],
+  "geometry": {"coordinates":[80.252556,12.995298],"type":"Point"}
+}

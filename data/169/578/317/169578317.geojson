@@ -1,0 +1,64 @@
+{
+  "id": 169578317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.431297,22.573305,88.431297,22.573305",
+    "geom:latitude":22.573305,
+    "geom:longitude":88.431297,
+    "iso:country":"IN",
+    "sg:address":"54/a/1, Salt Lake, Sector V,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2367 3496",
+    "sg:postcode":"700091",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.haldiapetrochemicals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85932005,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08MOnAGcvJ7WGxCFviwaM6_22.573305_88.431297@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a35f244603e7856a4a98598ce12140dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85932005,
+            "region_id":85672219,
+            "venue_id":169578317
+        }
+    ],
+    "wof:id":169578317,
+    "wof:lastmodified":1449033521,
+    "wof:name":"Haldia Petrolium Ltd.",
+    "wof:parent_id":85932005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [88.431297,22.573305,88.431297,22.573305],
+  "geometry": {"coordinates":[88.431297,22.573305],"type":"Point"}
+}

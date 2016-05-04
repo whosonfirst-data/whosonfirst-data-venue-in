@@ -1,0 +1,68 @@
+{
+  "id": 169654453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.006518,11.107754,78.006518,11.107754",
+    "geom:latitude":11.107754,
+    "geom:longitude":78.006518,
+    "iso:country":"IN",
+    "sg:address":"13, Bazaar street",
+    "sg:city":"Namakkal, Tamil Nadu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"637001",
+    "sg:tags":[
+        "adveretising",
+        "interactive",
+        "interactive-advertising",
+        "get-paid"
+    ],
+    "sg:website":"http://www.qnaads.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028285,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vNGLa4lw08Wyh2kWL2WwD_11.107754_78.006518@1308163242"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a1685b427882786c70622867e8cf252b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028285,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169654453
+        }
+    ],
+    "wof:id":169654453,
+    "wof:lastmodified":1449033794,
+    "wof:name":"QnAads",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adveretising",
+        "interactive",
+        "interactive-advertising",
+        "get-paid"
+    ]
+},
+  "bbox": [78.006518,11.107754,78.006518,11.107754],
+  "geometry": {"coordinates":[78.006518,11.107754],"type":"Point"}
+}

@@ -1,0 +1,53 @@
+{
+  "id": 169541825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.456947,17.402048,78.456947,17.402048",
+    "geom:latitude":17.402048,
+    "geom:longitude":78.456947,
+    "iso:country":"IN",
+    "sg:address":"Lakshmi Complex, 4th Floor, No. 40, K.r. Road, Fort,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:orig_category":"Special Transportation Equipment",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2670 8444",
+    "sg:postcode":"560002",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930765,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Sw2IPRrCniwJOJrhzwflw_17.402048_78.456947@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5c03e0f4bc48c596a464ac5a0b98feee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930765,
+            "region_id":85672141,
+            "venue_id":169541825
+        }
+    ],
+    "wof:id":169541825,
+    "wof:lastmodified":1449033040,
+    "wof:name":"Globe Transport Corporation",
+    "wof:parent_id":85930765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [78.456947,17.402048,78.456947,17.402048],
+  "geometry": {"coordinates":[78.456947,17.402048],"type":"Point"}
+}

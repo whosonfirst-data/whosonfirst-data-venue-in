@@ -1,0 +1,67 @@
+{
+  "id": 169528117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.827209,18.955893,72.827209,18.955893",
+    "geom:latitude":18.955893,
+    "geom:longitude":72.827209,
+    "iso:country":"IN",
+    "sg:address":"72, C. P. Tank Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2382 8612",
+    "sg:postcode":"400004",
+    "sg:tags":[
+        "builder",
+        "product",
+        "brass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931435,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rAcxlW5423ZY5QG5HkjfE_18.955893_72.827209@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8bd7ad174e76c7edd0e612ac8325142a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931435,
+            "region_id":85672171,
+            "venue_id":169528117
+        }
+    ],
+    "wof:id":169528117,
+    "wof:lastmodified":1449033570,
+    "wof:name":"N. Shantilal Shah & Co.",
+    "wof:parent_id":85931435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "product",
+        "brass"
+    ]
+},
+  "bbox": [72.827209,18.955893,72.827209,18.955893],
+  "geometry": {"coordinates":[72.827209,18.955893],"type":"Point"}
+}

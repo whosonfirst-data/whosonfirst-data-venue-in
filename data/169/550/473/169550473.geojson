@@ -1,0 +1,65 @@
+{
+  "id": 169550473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.905113,19.085339,72.905113,19.085339",
+    "geom:latitude":19.085339,
+    "geom:longitude":72.905113,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 506, G.i.d.c., Zone F-7,",
+    "sg:city":"V.u. Nagar",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2692 236 203",
+    "sg:postcode":"388121",
+    "sg:tags":[
+        "equipment",
+        "good"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931531,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WMECQLChZgcFxPdj0ra9j_19.085339_72.905113@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8f81839285306fc8305239d3bed333a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931531,
+            "region_id":85672171,
+            "venue_id":169550473
+        }
+    ],
+    "wof:id":169550473,
+    "wof:lastmodified":1449034476,
+    "wof:name":"P. R. Sons",
+    "wof:parent_id":85931531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "good"
+    ]
+},
+  "bbox": [72.905113,19.085339,72.905113,19.085339],
+  "geometry": {"coordinates":[72.905113,19.085339],"type":"Point"}
+}

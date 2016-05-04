@@ -1,0 +1,62 @@
+{
+  "id": 169528595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831619,18.948339,72.831619,18.948339",
+    "geom:latitude":18.948339,
+    "geom:longitude":72.831619,
+    "iso:country":"IN",
+    "sg:address":"B-35, M Mangaldas Building, No. 1, Princess Street,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2208 0435",
+    "sg:postcode":"400002",
+    "sg:tags":[
+        "bulk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gUPxv7vuNl3BJpd9taL0v_18.948339_72.831619@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7b12849f6f7455a38cb1906ef70ccd99",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169528595
+        }
+    ],
+    "wof:id":169528595,
+    "wof:lastmodified":1449033571,
+    "wof:name":"Syntho Rifa Pvt. Ltd.",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk"
+    ]
+},
+  "bbox": [72.831619,18.948339,72.831619,18.948339],
+  "geometry": {"coordinates":[72.831619,18.948339],"type":"Point"}
+}

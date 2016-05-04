@@ -1,0 +1,61 @@
+{
+  "id": 169578743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"82.654129,26.582775,82.654129,26.582775",
+    "geom:latitude":26.582775,
+    "geom:longitude":82.654129,
+    "iso:country":"IN",
+    "sg:address":"2nd Floor, Satkar Building, C.g. Road,",
+    "sg:city":"Ahmedabad",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 79 2644 9199",
+    "sg:postcode":"380006",
+    "sg:tags":[
+        "acid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Bz9Z7ioVk80XRmdVbwuPs_26.582775_82.654129@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9846c3526674c47c641b4da42b515745",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169578743
+        }
+    ],
+    "wof:id":169578743,
+    "wof:lastmodified":1449033523,
+    "wof:name":"Hencom Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [82.654129,26.582775,82.654129,26.582775],
+  "geometry": {"coordinates":[82.654129,26.582775],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169559585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.518112,22.991106,72.518112,22.991106",
+    "geom:latitude":22.991106,
+    "geom:longitude":72.518112,
+    "iso:country":"IN",
+    "sg:address":"H.o. 2, Jawaharlal Nehru Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2237 6955",
+    "sg:postcode":"700013",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031017,
+        85672249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Med6oVLYYp4LyDczkj2i3_22.991106_72.518112@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2baff76946f61f779b6c45cfcd95e850",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031017,
+            "neighbourhood_id":-1,
+            "region_id":85672249,
+            "venue_id":169559585
+        }
+    ],
+    "wof:id":169559585,
+    "wof:lastmodified":1449035238,
+    "wof:name":"Colour & Coatings",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [72.518112,22.991106,72.518112,22.991106],
+  "geometry": {"coordinates":[72.518112,22.991106],"type":"Point"}
+}

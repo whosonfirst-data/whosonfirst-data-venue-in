@@ -1,0 +1,62 @@
+{
+  "id": 169579027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"83.220146,17.689459,83.220146,17.689459",
+    "geom:latitude":17.689459,
+    "geom:longitude":83.220146,
+    "iso:country":"IN",
+    "sg:address":"Zinc Smelter,",
+    "sg:city":"Vishakapattanam",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 891 259 3836",
+    "sg:postcode":"530015",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028261,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f50ApS0c5ERi4uFNwEhaN_17.689459_83.220146@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c85fdc7dffe111e795f82fcb0344faf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028261,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169579027
+        }
+    ],
+    "wof:id":169579027,
+    "wof:lastmodified":1449033740,
+    "wof:name":"Hindustan Zinc Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [83.220146,17.689459,83.220146,17.689459],
+  "geometry": {"coordinates":[83.220146,17.689459],"type":"Point"}
+}

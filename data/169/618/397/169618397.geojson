@@ -1,0 +1,62 @@
+{
+  "id": 169618397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.137466,12.922551,80.137466,12.922551",
+    "geom:latitude":12.922551,
+    "geom:longitude":80.137466,
+    "iso:country":"IN",
+    "sg:address":"161, Velachery Road, East Tambaram,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2278 1017",
+    "sg:postcode":"600059",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oqeAeQbsAgrTFjqKse7VT_12.922551_80.137466@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f08327761de60c0aa4b249e7671e75c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169618397
+        }
+    ],
+    "wof:id":169618397,
+    "wof:lastmodified":1449034737,
+    "wof:name":"Senthil Chemicals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [80.137466,12.922551,80.137466,12.922551],
+  "geometry": {"coordinates":[80.137466,12.922551],"type":"Point"}
+}

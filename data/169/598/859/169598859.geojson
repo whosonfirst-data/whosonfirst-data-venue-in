@@ -1,0 +1,63 @@
+{
+  "id": 169598859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.08091,28.50275,77.08091,28.50275",
+    "geom:latitude":28.50275,
+    "geom:longitude":77.08091,
+    "iso:country":"IN",
+    "sg:address":"472, Udyog Vihar, Phase-iii,",
+    "sg:city":"Gurgaon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 124 234 7398",
+    "sg:postcode":"122016",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928557,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RpH4Cr0yl7gVhHDMZW8HE_28.502750_77.080910@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a04a202ae0c1fe5564b26da75e1ba9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928557,
+            "region_id":85672133,
+            "venue_id":169598859
+        }
+    ],
+    "wof:id":169598859,
+    "wof:lastmodified":1449032860,
+    "wof:name":"Parasnath Enterprises Indicators Mfg. Company",
+    "wof:parent_id":85928557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.08091,28.50275,77.08091,28.50275],
+  "geometry": {"coordinates":[77.08091,28.50275],"type":"Point"}
+}

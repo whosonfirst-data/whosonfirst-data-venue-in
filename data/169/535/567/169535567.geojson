@@ -1,0 +1,66 @@
+{
+  "id": 169535567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.914101,19.101273,72.914101,19.101273",
+    "geom:latitude":19.101273,
+    "geom:longitude":72.914101,
+    "iso:country":"IN",
+    "sg:address":"D-125, Ghatkopar Indl. Estate, Ghatkoper,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5599 5421",
+    "sg:postcode":"400086",
+    "sg:tags":[
+        "equipment",
+        "good"
+    ],
+    "sg:website":"http://www.easy2source/jayconcast",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931627,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HgsWG7Yq0KJKwcK9zTScb_19.101273_72.914101@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3227b0797e4f01d3bf0a8065992f38a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931627,
+            "region_id":85672171,
+            "venue_id":169535567
+        }
+    ],
+    "wof:id":169535567,
+    "wof:lastmodified":1449033288,
+    "wof:name":"Jay Concast Corporation",
+    "wof:parent_id":85931627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "good"
+    ]
+},
+  "bbox": [72.914101,19.101273,72.914101,19.101273],
+  "geometry": {"coordinates":[72.914101,19.101273],"type":"Point"}
+}

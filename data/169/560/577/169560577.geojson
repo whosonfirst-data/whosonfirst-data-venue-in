@@ -1,0 +1,61 @@
+{
+  "id": 169560577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.264694,28.702307,77.264694,28.702307",
+    "geom:latitude":28.702307,
+    "geom:longitude":77.264694,
+    "iso:country":"IN",
+    "sg:address":"C239/2, Gali No.9, Bhajanpura,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2217 5044",
+    "sg:postcode":"110053",
+    "sg:tags":[
+        "salt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ItuD36GHcLNUoeVFo2g6A_28.702307_77.264694@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fb16698cd8aab7325bc4870e5bccab3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169560577
+        }
+    ],
+    "wof:id":169560577,
+    "wof:lastmodified":1449035183,
+    "wof:name":"Dhatukarm",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salt"
+    ]
+},
+  "bbox": [77.264694,28.702307,77.264694,28.702307],
+  "geometry": {"coordinates":[77.264694,28.702307],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 169575043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.178604,28.644358,77.178604,28.644358",
+    "geom:latitude":28.644358,
+    "geom:longitude":77.178604,
+    "iso:country":"IN",
+    "sg:address":"'anbros House', 25/31, East Patel Nagar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2581 7671",
+    "sg:postcode":"110008",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.aspseals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927901,
+        85632469,
+        102029189,
+        85672123,
+        85928113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k6elRBti7JsY7ZVqpZEzQ_28.644358_77.178604@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6316c69f06ae97b99a1db3996e8c0f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85927901,
+            "region_id":85672123,
+            "venue_id":169575043
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928113,
+            "region_id":85672123,
+            "venue_id":169575043
+        }
+    ],
+    "wof:id":169575043,
+    "wof:lastmodified":1449033643,
+    "wof:name":"Asp Sealing Products Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.178604,28.644358,77.178604,28.644358],
+  "geometry": {"coordinates":[77.178604,28.644358],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169543613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.645538,12.969718,77.645538,12.969718",
+    "geom:latitude":12.969718,
+    "geom:longitude":77.645538,
+    "iso:country":"IN",
+    "sg:address":"# 695, 8th Cross, 10a 2nd Stage, Indira Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2527 0345",
+    "sg:postcode":"560038",
+    "sg:tags":[
+        "tin",
+        "container"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WpKrF1TiAldP4R5jmAJ1B_12.969718_77.645538@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ad41ce45d3ec00c2d34b2a966e0ba771",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169543613
+        }
+    ],
+    "wof:id":169543613,
+    "wof:lastmodified":1449033333,
+    "wof:name":"Trans-ventures",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tin",
+        "container"
+    ]
+},
+  "bbox": [77.645538,12.969718,77.645538,12.969718],
+  "geometry": {"coordinates":[77.645538,12.969718],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169530585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.907089,19.046846,72.907089,19.046846",
+    "geom:latitude":19.046846,
+    "geom:longitude":72.907089,
+    "iso:country":"IN",
+    "sg:address":"401, Srikant Chambers, Sion-trombay Road, Chembur,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2520 6846",
+    "sg:postcode":"400071",
+    "sg:tags":[
+        "construction",
+        "machinery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931557,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rRnWidDQe8d0sbakkO0iO_19.046846_72.907089@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"709142cfe3308e74bc2f080cbcebab6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931557,
+            "region_id":85672171,
+            "venue_id":169530585
+        }
+    ],
+    "wof:id":169530585,
+    "wof:lastmodified":1449034446,
+    "wof:name":"Action Construction Equipment (p) Ltd.",
+    "wof:parent_id":85931557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction",
+        "machinery"
+    ]
+},
+  "bbox": [72.907089,19.046846,72.907089,19.046846],
+  "geometry": {"coordinates":[72.907089,19.046846],"type":"Point"}
+}

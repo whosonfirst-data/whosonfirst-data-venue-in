@@ -1,0 +1,53 @@
+{
+  "id": 169568785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.607933,12.967108,77.607933,12.967108",
+    "geom:latitude":12.967108,
+    "geom:longitude":77.607933,
+    "iso:country":"IN",
+    "sg:address":"Wood Street",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 805545346",
+    "sg:postcode":"560025",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930841,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32fhtkLnICyd7YFNaBRagB_12.967108_77.607933@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cf12062ca93ac479c23ba6e0974fdfe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930841,
+            "region_id":85672165,
+            "venue_id":169568785
+        }
+    ],
+    "wof:id":169568785,
+    "wof:lastmodified":1449032611,
+    "wof:name":"Mac Industries Ltd",
+    "wof:parent_id":85930841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.607933,12.967108,77.607933,12.967108],
+  "geometry": {"coordinates":[77.607933,12.967108],"type":"Point"}
+}

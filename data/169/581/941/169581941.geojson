@@ -1,0 +1,73 @@
+{
+  "id": 169581941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.352066,22.553488,88.352066,22.553488",
+    "geom:latitude":22.553488,
+    "geom:longitude":88.352066,
+    "iso:country":"IN",
+    "sg:address":"'park Plaza', 71, Park Street,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2249 9472",
+    "sg:postcode":"700016",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.kanoriachem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931951,
+        85632469,
+        102030585,
+        85672219,
+        85931931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wtPJbw0JxePH1RkiWUUdv_22.553488_88.352066@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"dfdeb34d142467eee2eda242e9ee4861",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931951,
+            "region_id":85672219,
+            "venue_id":169581941
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931931,
+            "region_id":85672219,
+            "venue_id":169581941
+        }
+    ],
+    "wof:id":169581941,
+    "wof:lastmodified":1449033381,
+    "wof:name":"Kanoria Chemicals & Industries Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [88.352066,22.553488,88.352066,22.553488],
+  "geometry": {"coordinates":[88.352066,22.553488],"type":"Point"}
+}

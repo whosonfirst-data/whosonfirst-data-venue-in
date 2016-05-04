@@ -1,0 +1,63 @@
+{
+  "id": 169591373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.355141,22.585884,88.355141,22.585884",
+    "geom:latitude":22.585884,
+    "geom:longitude":88.355141,
+    "iso:country":"IN",
+    "sg:address":"3 Kalakar St., 3rd Floor,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2669 8765",
+    "sg:postcode":"700007",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903957,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IcY4lspJGs364n1mVPHdn_22.585884_88.355141@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cba38a2644a3005ff45a3948e2dcdbac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903957,
+            "region_id":85672219,
+            "venue_id":169591373
+        }
+    ],
+    "wof:id":169591373,
+    "wof:lastmodified":1449034450,
+    "wof:name":"Mundhra Industrial Stores",
+    "wof:parent_id":85903957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [88.355141,22.585884,88.355141,22.585884],
+  "geometry": {"coordinates":[88.355141,22.585884],"type":"Point"}
+}

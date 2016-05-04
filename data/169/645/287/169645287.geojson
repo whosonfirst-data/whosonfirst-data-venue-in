@@ -1,0 +1,64 @@
+{
+  "id": 169645287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.397728,17.490532,78.397728,17.490532",
+    "geom:latitude":17.490532,
+    "geom:longitude":78.397728,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 143/144, 2nd Phase, G.i.d.c., Ind. Estate,",
+    "sg:city":"Vapi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 260 242 1721",
+    "sg:postcode":"396195",
+    "sg:tags":[
+        "acid"
+    ],
+    "sg:website":"http://www.vividchemicals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930679,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rxUcD2kg8KHqXSAG654l8_17.490532_78.397728@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"071e516c65684dee3956a014a34be2ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930679,
+            "region_id":85672141,
+            "venue_id":169645287
+        }
+    ],
+    "wof:id":169645287,
+    "wof:lastmodified":1449033002,
+    "wof:name":"Vivid Intermediates Pvt. Ltd.",
+    "wof:parent_id":85930679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [78.397728,17.490532,78.397728,17.490532],
+  "geometry": {"coordinates":[78.397728,17.490532],"type":"Point"}
+}

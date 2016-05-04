@@ -1,0 +1,57 @@
+{
+  "id": 169536113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831627,18.949854,72.831627,18.949854",
+    "geom:latitude":18.949854,
+    "geom:longitude":72.831627,
+    "iso:country":"IN",
+    "sg:address":"32/36, Shamsheth Street, C. P. Chawl, Zaveri Bazar,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2341 3053",
+    "sg:postcode":"400002",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903919,
+        85632469,
+        102030609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LcKVoNXR39MjWx3ZtX35r_18.949854_72.831627@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"906d64a47c3a542064a2cc66814ae578",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903919,
+            "region_id":-1,
+            "venue_id":169536113
+        }
+    ],
+    "wof:id":169536113,
+    "wof:lastmodified":1449034660,
+    "wof:name":"Sapna Emporium",
+    "wof:parent_id":85903919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [72.831627,18.949854,72.831627,18.949854],
+  "geometry": {"coordinates":[72.831627,18.949854],"type":"Point"}
+}

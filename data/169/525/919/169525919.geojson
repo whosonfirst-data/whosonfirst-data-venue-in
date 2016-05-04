@@ -1,0 +1,65 @@
+{
+  "id": 169525919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.821678,18.990374,72.821678,18.990374",
+    "geom:latitude":18.990374,
+    "geom:longitude":72.821678,
+    "iso:country":"IN",
+    "sg:address":"20, Dr. E. Moses Road, Mahalaxmi,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2492 7425",
+    "sg:postcode":"400011",
+    "sg:tags":[
+        "equipment",
+        "air-conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931421,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pkxvRwzfmv0rwa8iZ0rme_18.990374_72.821678@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"120f861b8d5b1f404ca8818d49f8ae6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931421,
+            "region_id":85672171,
+            "venue_id":169525919
+        }
+    ],
+    "wof:id":169525919,
+    "wof:lastmodified":1449035275,
+    "wof:name":"Musa Haji Patrawala Pvt. Ltd.",
+    "wof:parent_id":85931421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "air-conditioning"
+    ]
+},
+  "bbox": [72.821678,18.990374,72.821678,18.990374],
+  "geometry": {"coordinates":[72.821678,18.990374],"type":"Point"}
+}

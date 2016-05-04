@@ -1,0 +1,65 @@
+{
+  "id": 169544415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.685104,12.816192,77.685104,12.816192",
+    "geom:latitude":12.816192,
+    "geom:longitude":77.685104,
+    "iso:country":"IN",
+    "sg:address":"31, Bommasandra Industrial Area,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2783 4978",
+    "sg:postcode":"560099",
+    "sg:tags":[
+        "voltage",
+        "stabilizer"
+    ],
+    "sg:website":"http://www.intravidyut.trade-india.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fU0qIsaeUcFvBqiQ7cHcg_12.816192_77.685104@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5b167f5a67fc97e786cae6652728c233",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169544415
+        }
+    ],
+    "wof:id":169544415,
+    "wof:lastmodified":1449035963,
+    "wof:name":"Intra Vidyut Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "voltage",
+        "stabilizer"
+    ]
+},
+  "bbox": [77.685104,12.816192,77.685104,12.816192],
+  "geometry": {"coordinates":[77.685104,12.816192],"type":"Point"}
+}

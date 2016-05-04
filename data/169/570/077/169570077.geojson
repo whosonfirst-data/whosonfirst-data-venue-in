@@ -1,0 +1,52 @@
+{
+  "id": 169570077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.285957,13.089288,80.285957,13.089288",
+    "geom:latitude":13.089288,
+    "geom:longitude":80.285957,
+    "iso:country":"IN",
+    "sg:address":"Francis Joseph Street",
+    "sg:city":"Chennai",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2536 5615",
+    "sg:postcode":"600001",
+    "sg:province":"Tamil Nadu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903951,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34WARIkFWW6Td56HnYyg2l_13.089288_80.285957@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"86c1cb0d918a5e309944af2f65a4bbd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102029537,
+            "neighbourhood_id":85903951,
+            "region_id":85672245,
+            "venue_id":169570077
+        }
+    ],
+    "wof:id":169570077,
+    "wof:lastmodified":1449034645,
+    "wof:name":"Hi Tech Engineering Company",
+    "wof:parent_id":85903951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [80.285957,13.089288,80.285957,13.089288],
+  "geometry": {"coordinates":[80.285957,13.089288],"type":"Point"}
+}

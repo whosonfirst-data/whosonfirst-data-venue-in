@@ -1,0 +1,65 @@
+{
+  "id": 169533817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.857239,19.118752,72.857239,19.118752",
+    "geom:latitude":19.118752,
+    "geom:longitude":72.857239,
+    "iso:country":"IN",
+    "sg:address":"21, Sethi Indl. Estate, Suren Road, Andheri (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2684 8044",
+    "sg:postcode":"400093",
+    "sg:tags":[
+        "mould",
+        "dy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56uLSgFVLQWtuNHPiEPykk_19.118752_72.857239@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"eb54541e3b1b160754667b697290b320",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169533817
+        }
+    ],
+    "wof:id":169533817,
+    "wof:lastmodified":1449032643,
+    "wof:name":"Plastomech Engineers",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mould",
+        "dy"
+    ]
+},
+  "bbox": [72.857239,19.118752,72.857239,19.118752],
+  "geometry": {"coordinates":[72.857239,19.118752],"type":"Point"}
+}

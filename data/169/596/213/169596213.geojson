@@ -1,0 +1,63 @@
+{
+  "id": 169596213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.252853,28.539352,77.252853,28.539352",
+    "geom:latitude":28.539352,
+    "geom:longitude":77.252853,
+    "iso:country":"IN",
+    "sg:address":"13, Kailash Darshan, 4th Floor,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2380 3200",
+    "sg:postcode":"400007",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903881,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BnrMahh9fHPM963rfJ84N_28.539352_77.252853@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d5f689763b4c10cbf96ef5e403d1cbd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85903881,
+            "region_id":85672123,
+            "venue_id":169596213
+        }
+    ],
+    "wof:id":169596213,
+    "wof:lastmodified":1449034368,
+    "wof:name":"Orbit Life Science Pvt. Ltd.",
+    "wof:parent_id":85903881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.252853,28.539352,77.252853,28.539352],
+  "geometry": {"coordinates":[77.252853,28.539352],"type":"Point"}
+}

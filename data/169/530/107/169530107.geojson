@@ -1,0 +1,65 @@
+{
+  "id": 169530107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.873344,19.117481,72.873344,19.117481",
+    "geom:latitude":19.117481,
+    "geom:longitude":72.873344,
+    "iso:country":"IN",
+    "sg:address":"Plot No.52, 7th Lane Midc, Marol, Andheri (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2820 8697",
+    "sg:postcode":"400093",
+    "sg:tags":[
+        "garment",
+        "childrenwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lGGcUUIJ29vbvPTJN11bh_19.117481_72.873344@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3e34e210e0d668cfa43f088b4600ed49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169530107
+        }
+    ],
+    "wof:id":169530107,
+    "wof:lastmodified":1449034442,
+    "wof:name":"Permeshwar Creations Pvt. Ltd.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "childrenwear"
+    ]
+},
+  "bbox": [72.873344,19.117481,72.873344,19.117481],
+  "geometry": {"coordinates":[72.873344,19.117481],"type":"Point"}
+}

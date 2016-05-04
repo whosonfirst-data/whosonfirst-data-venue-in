@@ -1,0 +1,62 @@
+{
+  "id": 169530963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.863632,19.254427,72.863632,19.254427",
+    "geom:latitude":19.254427,
+    "geom:longitude":72.863632,
+    "iso:country":"IN",
+    "sg:address":"15, Galaxy Apart., B.p. Road, Bhayander E,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Garage",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2819 0522",
+    "sg:postcode":"400105",
+    "sg:tags":[
+        "cookware"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5z4jlpmJlOqpF9ZvmxSPym_19.254427_72.863632@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"761507523b397a79288a94f26fe89845",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169530963
+        }
+    ],
+    "wof:id":169530963,
+    "wof:lastmodified":1449034443,
+    "wof:name":"Shreepal Overseas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cookware"
+    ]
+},
+  "bbox": [72.863632,19.254427,72.863632,19.254427],
+  "geometry": {"coordinates":[72.863632,19.254427],"type":"Point"}
+}

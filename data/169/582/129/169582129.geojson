@@ -1,0 +1,63 @@
+{
+  "id": 169582129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.221024,28.6569,77.221024,28.6569",
+    "geom:latitude":28.6569,
+    "geom:longitude":77.221024,
+    "iso:country":"IN",
+    "sg:address":"6118, Gali Batashan, Khari Baoli,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 6565 3088",
+    "sg:postcode":"110065",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928087,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DyfBqvw43M4R2DPHiVaHG_28.656900_77.221024@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"cf2b85c214b20d47b2df4feebd52f2c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928087,
+            "region_id":85672123,
+            "venue_id":169582129
+        }
+    ],
+    "wof:id":169582129,
+    "wof:lastmodified":1449034467,
+    "wof:name":"Karam Singh & Sons",
+    "wof:parent_id":85928087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.221024,28.6569,77.221024,28.6569],
+  "geometry": {"coordinates":[77.221024,28.6569],"type":"Point"}
+}

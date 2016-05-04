@@ -1,0 +1,64 @@
+{
+  "id": 169644749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.871109,19.12203,72.871109,19.12203",
+    "geom:latitude":19.12203,
+    "geom:longitude":72.871109,
+    "iso:country":"IN",
+    "sg:address":"Premier House, 6th Floor, 38, Central Road, Midc, Andheri (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6644 3333",
+    "sg:postcode":"400093",
+    "sg:tags":[
+        "polymer"
+    ],
+    "sg:website":"http://www.visen.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TP8kAaZuD5xBzoHCwEdbB_19.122030_72.871109@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"477ada6763725bf7858a81d57e1f77ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169644749
+        }
+    ],
+    "wof:id":169644749,
+    "wof:lastmodified":1449034576,
+    "wof:name":"Visen Industries Ltd.",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polymer"
+    ]
+},
+  "bbox": [72.871109,19.12203,72.871109,19.12203],
+  "geometry": {"coordinates":[72.871109,19.12203],"type":"Point"}
+}

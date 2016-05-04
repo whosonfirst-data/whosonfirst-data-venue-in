@@ -1,0 +1,66 @@
+{
+  "id": 169543163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.622459,12.984752,77.622459,12.984752",
+    "geom:latitude":12.984752,
+    "geom:longitude":77.622459,
+    "iso:country":"IN",
+    "sg:address":"#22, Kensington Road, Ulsoor,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Emissions Testing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2556 7104",
+    "sg:postcode":"560008",
+    "sg:tags":[
+        "measuring",
+        "instrument"
+    ],
+    "sg:website":"http://www.zeiss.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930871,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dGKnWuvizemiJZDCWW8ST_12.984752_77.622459@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0df4fc42bfa8e62c4a78cac6df117dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930871,
+            "region_id":85672165,
+            "venue_id":169543163
+        }
+    ],
+    "wof:id":169543163,
+    "wof:lastmodified":1449033335,
+    "wof:name":"Carl Zeiss India Pvt. Ltd.",
+    "wof:parent_id":85930871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "measuring",
+        "instrument"
+    ]
+},
+  "bbox": [77.622459,12.984752,77.622459,12.984752],
+  "geometry": {"coordinates":[77.622459,12.984752],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169559003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.944641,11.059973,76.944641,11.059973",
+    "geom:latitude":11.059973,
+    "geom:longitude":76.944641,
+    "iso:country":"IN",
+    "sg:address":"8/10, Mettupalayam Road, Gn Mills Post,",
+    "sg:city":"Coimbatore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 422 264 2909",
+    "sg:postcode":"641029",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.chandysons.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iTL3rR7LldxouOUfWjQDd_11.059973_76.944641@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7fc43edaccbee35b7e744cf41f31516e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169559003
+        }
+    ],
+    "wof:id":169559003,
+    "wof:lastmodified":1449035239,
+    "wof:name":"Chandy Sons Industrial Mouldings",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [76.944641,11.059973,76.944641,11.059973],
+  "geometry": {"coordinates":[76.944641,11.059973],"type":"Point"}
+}

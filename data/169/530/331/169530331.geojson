@@ -1,0 +1,65 @@
+{
+  "id": 169530331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831299,18.92923,72.831299,18.92923",
+    "geom:latitude":18.92923,
+    "geom:longitude":72.831299,
+    "iso:country":"IN",
+    "sg:address":"144/7, M.g. Road, Fort,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2284 3125",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931425,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VK2RMdnqFngJQ7qBuShQX_18.929230_72.831299@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f532c266e1f07ced44601a145e8042ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931425,
+            "region_id":85672171,
+            "venue_id":169530331
+        }
+    ],
+    "wof:id":169530331,
+    "wof:lastmodified":1449034443,
+    "wof:name":"Champion",
+    "wof:parent_id":85931425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [72.831299,18.92923,72.831299,18.92923],
+  "geometry": {"coordinates":[72.831299,18.92923],"type":"Point"}
+}

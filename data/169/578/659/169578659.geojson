@@ -1,0 +1,64 @@
+{
+  "id": 169578659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.707344,12.97374,77.707344,12.97374",
+    "geom:latitude":12.97374,
+    "geom:longitude":77.707344,
+    "iso:country":"IN",
+    "sg:address":"37, 3rd, Main Raod, R.a Puram,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 5529 1770",
+    "sg:postcode":"600028",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.supershieldindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931159,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lmzPtik4oigXFTCTrnPsA_12.973740_77.707344@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"09ac2a88e10b74560802e58739b2caea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931159,
+            "region_id":85672165,
+            "venue_id":169578659
+        }
+    ],
+    "wof:id":169578659,
+    "wof:lastmodified":1449033518,
+    "wof:name":"Heptagon Consultancy Pvt. Ltd.",
+    "wof:parent_id":85931159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.707344,12.97374,77.707344,12.97374],
+  "geometry": {"coordinates":[77.707344,12.97374],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169531687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.828575,18.942356,72.828575,18.942356",
+    "geom:latitude":18.942356,
+    "geom:longitude":72.828575,
+    "iso:country":"IN",
+    "sg:address":"3 Dadi Mansion, Cinema Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2203 3468",
+    "sg:postcode":"400020",
+    "sg:tags":[
+        "curtain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931457,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QkNUE5jdJw2e8QqSt5GGv_18.942356_72.828575@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"12b3444603d0ff7281c83aac6a8ac507",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931457,
+            "region_id":85672171,
+            "venue_id":169531687
+        }
+    ],
+    "wof:id":169531687,
+    "wof:lastmodified":1449033473,
+    "wof:name":"Adnani Enterprises",
+    "wof:parent_id":85931457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "curtain"
+    ]
+},
+  "bbox": [72.828575,18.942356,72.828575,18.942356],
+  "geometry": {"coordinates":[72.828575,18.942356],"type":"Point"}
+}

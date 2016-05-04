@@ -1,0 +1,54 @@
+{
+  "id": 169557747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.457787,17.404873,78.457787,17.404873",
+    "geom:latitude":17.404873,
+    "geom:longitude":78.457787,
+    "iso:country":"IN",
+    "sg:address":"A.c.guards",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2339 4392",
+    "sg:postcode":"500004",
+    "sg:province":"Andhra Pradesh",
+    "sg:website":"http://www.apfdc.apts.gov.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930765,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eKkHE3H8YagUB1ssn5CIx_17.404873_78.457787@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d1aaa04d2131eb8557c866c7035b1c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930765,
+            "region_id":85672141,
+            "venue_id":169557747
+        }
+    ],
+    "wof:id":169557747,
+    "wof:lastmodified":1449035035,
+    "wof:name":"A P Forest Development Corpn Ltd",
+    "wof:parent_id":85930765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [78.457787,17.404873,78.457787,17.404873],
+  "geometry": {"coordinates":[78.457787,17.404873],"type":"Point"}
+}

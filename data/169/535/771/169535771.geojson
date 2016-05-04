@@ -1,0 +1,66 @@
+{
+  "id": 169535771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.829018,18.935812,72.829018,18.935812",
+    "geom:latitude":18.935812,
+    "geom:longitude":72.829018,
+    "iso:country":"IN",
+    "sg:address":"615, Churchgate Chambers, 5, New Marine Lines, Churchgate,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2263 2316",
+    "sg:postcode":"400020",
+    "sg:tags":[
+        "garment",
+        "ethnic"
+    ],
+    "sg:website":"www.noi.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903879,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kwiayP0KJq37mpxWTa0px_18.935812_72.829018@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1d7a73c3ac950b075b51709139cf3113",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903879,
+            "region_id":85672171,
+            "venue_id":169535771
+        }
+    ],
+    "wof:id":169535771,
+    "wof:lastmodified":1449033286,
+    "wof:name":"Krislon Synthetics Pvt. Ltd.",
+    "wof:parent_id":85903879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "ethnic"
+    ]
+},
+  "bbox": [72.829018,18.935812,72.829018,18.935812],
+  "geometry": {"coordinates":[72.829018,18.935812],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 169653673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.800734,18.507673,73.800734,18.507673",
+    "geom:latitude":18.507673,
+    "geom:longitude":73.800734,
+    "iso:country":"IN",
+    "sg:address":"Kothrud",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"411038",
+    "sg:tags":[
+        "web-development",
+        "ajax",
+        "php",
+        "mysql",
+        "jquery"
+    ],
+    "sg:website":"http://www.brainofast.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931203,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WEla5iM0CHdkgTPHVypZU_18.507673_73.800734@1308163242"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"95c36a0ebd00c5146c01be98bfc11a30",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931203,
+            "region_id":85672171,
+            "venue_id":169653673
+        }
+    ],
+    "wof:id":169653673,
+    "wof:lastmodified":1449032917,
+    "wof:name":"Brainofast",
+    "wof:parent_id":85931203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web-development",
+        "ajax",
+        "php",
+        "mysql",
+        "jquery"
+    ]
+},
+  "bbox": [73.800734,18.507673,73.800734,18.507673],
+  "geometry": {"coordinates":[73.800734,18.507673],"type":"Point"}
+}

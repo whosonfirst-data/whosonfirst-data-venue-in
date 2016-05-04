@@ -1,0 +1,63 @@
+{
+  "id": 169600377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.220299,28.597507,77.220299,28.597507",
+    "geom:latitude":28.597507,
+    "geom:longitude":77.220299,
+    "iso:country":"IN",
+    "sg:address":"1304 Modi Tower, 98 Nehru Place,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"110019",
+    "sg:tags":[
+        "resin"
+    ],
+    "sg:website":"http://www.peoplesglobal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928287,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66YYqztmQotX94dPJuikM2_28.597507_77.220299@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c42fa071a77a17fde70d545b7710a11c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928287,
+            "region_id":85672123,
+            "venue_id":169600377
+        }
+    ],
+    "wof:id":169600377,
+    "wof:lastmodified":1449032970,
+    "wof:name":"Peoples Techtronics Pvt. Ltd.",
+    "wof:parent_id":85928287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [77.220299,28.597507,77.220299,28.597507],
+  "geometry": {"coordinates":[77.220299,28.597507],"type":"Point"}
+}

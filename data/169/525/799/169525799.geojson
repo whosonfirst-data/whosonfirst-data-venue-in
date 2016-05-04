@@ -1,0 +1,69 @@
+{
+  "id": 169525799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.837669,19.075155,72.837669,19.075155",
+    "geom:latitude":19.075155,
+    "geom:longitude":72.837669,
+    "iso:country":"IN",
+    "sg:address":"No.7, Ram Krishna Building, 160, Off. S.v. Road, Vile Parle (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2612 1365",
+    "sg:postcode":"400056",
+    "sg:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931493,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qWQjN2xUqyhp7KZrVWh5N_19.075155_72.837669@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"72d7cc89b121cd281ce51195c309893c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931493,
+            "region_id":85672171,
+            "venue_id":169525799
+        }
+    ],
+    "wof:id":169525799,
+    "wof:lastmodified":1449035275,
+    "wof:name":"Jyoti Corporation",
+    "wof:parent_id":85931493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ]
+},
+  "bbox": [72.837669,19.075155,72.837669,19.075155],
+  "geometry": {"coordinates":[72.837669,19.075155],"type":"Point"}
+}

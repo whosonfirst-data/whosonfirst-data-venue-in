@@ -1,0 +1,63 @@
+{
+  "id": 169603979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.236725,28.655243,77.236725,28.655243",
+    "geom:latitude":28.655243,
+    "geom:longitude":77.236725,
+    "iso:country":"IN",
+    "sg:address":"23-a, Nejaji Subash Road, 6th Floor,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2220 9506",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928105,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m27DsCmyCtBMGr15f5rv2_28.655243_77.236725@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"76810f593a08b8afc564526023fb17b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928105,
+            "region_id":85672123,
+            "venue_id":169603979
+        }
+    ],
+    "wof:id":169603979,
+    "wof:lastmodified":1449035453,
+    "wof:name":"Primex Resin (i) Pvt. Ltd.",
+    "wof:parent_id":85928105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [77.236725,28.655243,77.236725,28.655243],
+  "geometry": {"coordinates":[77.236725,28.655243],"type":"Point"}
+}

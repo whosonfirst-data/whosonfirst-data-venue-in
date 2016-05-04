@@ -1,0 +1,61 @@
+{
+  "id": 169558499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.536209,9.057627,76.536209,9.057627",
+    "geom:latitude":9.057627,
+    "geom:longitude":76.536209,
+    "iso:country":"IN",
+    "sg:address":"D-98, M.i.d.c.,",
+    "sg:city":"Ahmednagar",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 241 277 8142",
+    "sg:postcode":"414111",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DSd2GiESIw86C5mx0Cj9m_9.057627_76.536209@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"11f6dab78540dd640a4e6f8211e5eb76",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672149,
+            "venue_id":169558499
+        }
+    ],
+    "wof:id":169558499,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Bnl Ammonia Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [76.536209,9.057627,76.536209,9.057627],
+  "geometry": {"coordinates":[76.536209,9.057627],"type":"Point"}
+}

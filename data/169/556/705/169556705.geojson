@@ -1,0 +1,53 @@
+{
+  "id": 169556705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.578285,12.963707,77.578285,12.963707",
+    "geom:latitude":12.963707,
+    "geom:longitude":77.578285,
+    "iso:country":"IN",
+    "sg:address":"N. R. Road",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 806704388",
+    "sg:postcode":"560002",
+    "sg:province":"Karnataka",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33Tb3UX1YFQr3j0p3pMpHR_12.963707_77.578285@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"04c11587e85013e97705637c6c7e76a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169556705
+        }
+    ],
+    "wof:id":169556705,
+    "wof:lastmodified":1449033508,
+    "wof:name":"Spray Systems",
+    "wof:parent_id":85930903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.578285,12.963707,77.578285,12.963707],
+  "geometry": {"coordinates":[77.578285,12.963707],"type":"Point"}
+}

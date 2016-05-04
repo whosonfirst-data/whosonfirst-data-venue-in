@@ -1,0 +1,71 @@
+{
+  "id": 169527201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.87001,19.231665,72.87001,19.231665",
+    "geom:latitude":19.231665,
+    "geom:longitude":72.87001,
+    "iso:country":"IN",
+    "sg:address":"39, Abhinav Nagar, Borivalli (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2897 4890",
+    "sg:postcode":"400066",
+    "sg:tags":[
+        "bearing",
+        "bush",
+        "ball",
+        "roller",
+        "/"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931549,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cZGkMOLOAVjtUa2plT8eH_19.231665_72.870010@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b78abfea3f05f87bf5bf966ad4251f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931549,
+            "region_id":85672171,
+            "venue_id":169527201
+        }
+    ],
+    "wof:id":169527201,
+    "wof:lastmodified":1449035280,
+    "wof:name":"Muktananda Impex",
+    "wof:parent_id":85931549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bearing",
+        "bush",
+        "ball",
+        "roller",
+        "/"
+    ]
+},
+  "bbox": [72.87001,19.231665,72.87001,19.231665],
+  "geometry": {"coordinates":[72.87001,19.231665],"type":"Point"}
+}

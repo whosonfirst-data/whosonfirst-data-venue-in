@@ -1,0 +1,63 @@
+{
+  "id": 169559815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.1082,28.69455,77.1082,28.69455",
+    "geom:latitude":28.69455,
+    "geom:longitude":77.1082,
+    "iso:country":"IN",
+    "sg:address":"1-8-144/152, A.v.a. Sangam Bldg., 1st Floor, P.g. Road,",
+    "sg:city":"Secunderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2784 5994",
+    "sg:postcode":"500003",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927911,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CMBFidfhH0xVe6nBAg2d0_28.694550_77.108200@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"63cb683b99aa38eee3da503bfc0c1923",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85927911,
+            "region_id":85672123,
+            "venue_id":169559815
+        }
+    ],
+    "wof:id":169559815,
+    "wof:lastmodified":1449035237,
+    "wof:name":"Crystal Polymers & Additives Limited",
+    "wof:parent_id":85927911,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.1082,28.69455,77.1082,28.69455],
+  "geometry": {"coordinates":[77.1082,28.69455],"type":"Point"}
+}

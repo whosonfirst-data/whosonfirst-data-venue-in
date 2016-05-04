@@ -1,0 +1,67 @@
+{
+  "id": 169588059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.189491,28.698812,77.189491,28.698812",
+    "geom:latitude":28.698812,
+    "geom:longitude":77.189491,
+    "iso:country":"IN",
+    "sg:address":"A-262, Derawal Nagar,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2722 8217",
+    "sg:postcode":"110009",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928585,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UMjGbpTnEfqYtGq3jzMmj_28.698812_77.189491@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bb45954e06df9f38614e32dfc15951fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928585,
+            "region_id":85672123,
+            "venue_id":169588059
+        }
+    ],
+    "wof:id":169588059,
+    "wof:lastmodified":1449035308,
+    "wof:name":"Maya Paints And Chemicals Pvt. Ltd.",
+    "wof:parent_id":85928585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [77.189491,28.698812,77.189491,28.698812],
+  "geometry": {"coordinates":[77.189491,28.698812],"type":"Point"}
+}

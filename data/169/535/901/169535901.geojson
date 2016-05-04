@@ -1,0 +1,63 @@
+{
+  "id": 169535901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.858009,19.274897,72.858009,19.274897",
+    "geom:latitude":19.274897,
+    "geom:longitude":72.858009,
+    "iso:country":"IN",
+    "sg:address":"37, Patel Industrial Estate, S.v.road, Dahisar (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2893 1398",
+    "sg:tags":[
+        "fabricator"
+    ],
+    "sg:website":"http://www.krunish.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931413,
+        85632469,
+        102031079,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LbdPzaCqgXxfFWLN9FD5Z_19.274897_72.858009@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"791c138eff58e6f2aa1b9cda177f2135",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031079,
+            "neighbourhood_id":85931413,
+            "region_id":85672171,
+            "venue_id":169535901
+        }
+    ],
+    "wof:id":169535901,
+    "wof:lastmodified":1449033286,
+    "wof:name":"Krunish Engineers & Fabricators Pvt. Ltd",
+    "wof:parent_id":85931413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator"
+    ]
+},
+  "bbox": [72.858009,19.274897,72.858009,19.274897],
+  "geometry": {"coordinates":[72.858009,19.274897],"type":"Point"}
+}

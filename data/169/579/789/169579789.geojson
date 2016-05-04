@@ -1,0 +1,60 @@
+{
+  "id": 169579789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.270157,12.995386,80.270157,12.995386",
+    "geom:latitude":12.995386,
+    "geom:longitude":80.270157,
+    "iso:country":"IN",
+    "sg:address":"M-92/2, 7th Avenue, Besant Nagar,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2491 1915",
+    "sg:tags":[
+        "paper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931669,
+        102029537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63stNt6j6Oonychh4OTprE_12.995386_80.270157@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d045cc4cfbf6fd5fcfcc12bb1bda68b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102029537,
+            "neighbourhood_id":85931669,
+            "region_id":-1,
+            "venue_id":169579789
+        }
+    ],
+    "wof:id":169579789,
+    "wof:lastmodified":1449033740,
+    "wof:name":"Industrial Consultancy Technical Services",
+    "wof:parent_id":85931669,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paper"
+    ]
+},
+  "bbox": [80.270157,12.995386,80.270157,12.995386],
+  "geometry": {"coordinates":[80.270157,12.995386],"type":"Point"}
+}

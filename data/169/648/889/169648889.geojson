@@ -1,0 +1,75 @@
+{
+  "id": 169648889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"2.34668,48.870806,2.34668,48.870806",
+    "geom:latitude":48.870806,
+    "geom:longitude":2.34668,
+    "iso:country":"IN",
+    "sg:address":"13, rue Vivienne",
+    "sg:city":"Paris",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"75002",
+    "sg:tags":[
+        "homepage",
+        "ajaxhomepage",
+        "ajax",
+        "startpage",
+        "pageflakes",
+        "france"
+    ],
+    "sg:website":"http://www.netvibes.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85683497,
+        85633147,
+        101751119,
+        102068731,
+        85873883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s0Q0albwLag2dhKWuNTFo_48.870806_2.346680@1308163236"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4e8a80513bcb7de0c7f5feeb474acd4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633147,
+            "county_id":102068731,
+            "locality_id":101751119,
+            "neighbourhood_id":85873883,
+            "region_id":85683497,
+            "venue_id":169648889
+        }
+    ],
+    "wof:id":169648889,
+    "wof:lastmodified":1449033582,
+    "wof:name":"Netvibes",
+    "wof:parent_id":85873883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "homepage",
+        "ajaxhomepage",
+        "ajax",
+        "startpage",
+        "pageflakes",
+        "france"
+    ]
+},
+  "bbox": [2.34668,48.870806,2.34668,48.870806],
+  "geometry": {"coordinates":[2.34668,48.870806],"type":"Point"}
+}

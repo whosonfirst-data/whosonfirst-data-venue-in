@@ -1,0 +1,64 @@
+{
+  "id": 169579859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.168167,28.667292,77.168167,28.667292",
+    "geom:latitude":28.667292,
+    "geom:longitude":77.168167,
+    "iso:country":"IN",
+    "sg:address":"16/43, 2nd Floor, New Rohtak Road, Karol Bagh,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 6515 7975",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.infotelindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928115,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RvU45fGItAWMR3o9ISQir_28.667292_77.168167@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"45caafa14160c32d2ee70d60295540c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928115,
+            "region_id":85672123,
+            "venue_id":169579859
+        }
+    ],
+    "wof:id":169579859,
+    "wof:lastmodified":1449033740,
+    "wof:name":"Infotel India (p) Ltd.",
+    "wof:parent_id":85928115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.168167,28.667292,77.168167,28.667292],
+  "geometry": {"coordinates":[77.168167,28.667292],"type":"Point"}
+}

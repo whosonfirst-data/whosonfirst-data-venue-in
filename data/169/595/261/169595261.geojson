@@ -1,0 +1,63 @@
+{
+  "id": 169595261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.03067,28.451967,77.03067,28.451967",
+    "geom:latitude":28.451967,
+    "geom:longitude":77.03067,
+    "iso:country":"IN",
+    "sg:address":"332, Patel Nagar, Railway Road,",
+    "sg:city":"Hapur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 122 231 2071",
+    "sg:postcode":"245101",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928503,
+        85632469,
+        102030161,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tc16ODTzHltv5tLPcmvxK_28.451967_77.030670@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"60e050845efedec9d450d2db2df5fb02",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030161,
+            "neighbourhood_id":85928503,
+            "region_id":85672133,
+            "venue_id":169595261
+        }
+    ],
+    "wof:id":169595261,
+    "wof:lastmodified":1449035635,
+    "wof:name":"Numex Chemical Products",
+    "wof:parent_id":85928503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [77.03067,28.451967,77.03067,28.451967],
+  "geometry": {"coordinates":[77.03067,28.451967],"type":"Point"}
+}

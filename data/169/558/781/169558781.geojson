@@ -1,0 +1,64 @@
+{
+  "id": 169558781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.831703,18.928949,72.831703,18.928949",
+    "geom:latitude":18.928949,
+    "geom:longitude":72.831703,
+    "iso:country":"IN",
+    "sg:address":"133, Jehangir Building, M.g. Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2267 0833",
+    "sg:postcode":"400001",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.camphor-allied.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931425,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gFkPddT89gSyL3wRNkxKa_18.928949_72.831703@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5f00d88b0493f719cc436bcee7738329",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931425,
+            "region_id":85672171,
+            "venue_id":169558781
+        }
+    ],
+    "wof:id":169558781,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Camphor & Allied Products Ltd.",
+    "wof:parent_id":85931425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.831703,18.928949,72.831703,18.928949],
+  "geometry": {"coordinates":[72.831703,18.928949],"type":"Point"}
+}

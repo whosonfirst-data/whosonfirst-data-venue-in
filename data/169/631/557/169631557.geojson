@@ -1,0 +1,63 @@
+{
+  "id": 169631557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"75.873611,22.716345,75.873611,22.716345",
+    "geom:latitude":22.716345,
+    "geom:longitude":75.873611,
+    "iso:country":"IN",
+    "sg:address":"80, Rnt Marg, Navlakha,",
+    "sg:city":"Indore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 731 246 4800",
+    "sg:postcode":"452001",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85933763,
+        85632469,
+        102030041,
+        85672239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ihoWhxblSYNkUcOPcMKal_22.716345_75.873611@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a8e1fc7883354983c9576723cb608e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030041,
+            "neighbourhood_id":85933763,
+            "region_id":85672239,
+            "venue_id":169631557
+        }
+    ],
+    "wof:id":169631557,
+    "wof:lastmodified":1449033708,
+    "wof:name":"Superflex Rubbers Pvt. Ltd.",
+    "wof:parent_id":85933763,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [75.873611,22.716345,75.873611,22.716345],
+  "geometry": {"coordinates":[75.873611,22.716345],"type":"Point"}
+}

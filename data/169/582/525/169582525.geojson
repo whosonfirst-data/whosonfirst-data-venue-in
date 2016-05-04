@@ -1,0 +1,63 @@
+{
+  "id": 169582525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.172165,13.085525,80.172165,13.085525",
+    "geom:latitude":13.085525,
+    "geom:longitude":80.172165,
+    "iso:country":"IN",
+    "sg:address":"D-8, Mugappair Indl Estate East,",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 44 2653 0835",
+    "sg:postcode":"600037",
+    "sg:tags":[
+        "resin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927699,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ts4TErVrc3CfmInPT99l9_13.085525_80.172165@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6949f9e69801a63e3ef23b92227deb88",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85927699,
+            "region_id":85672245,
+            "venue_id":169582525
+        }
+    ],
+    "wof:id":169582525,
+    "wof:lastmodified":1449034467,
+    "wof:name":"Kemira Polymers",
+    "wof:parent_id":85927699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resin"
+    ]
+},
+  "bbox": [80.172165,13.085525,80.172165,13.085525],
+  "geometry": {"coordinates":[80.172165,13.085525],"type":"Point"}
+}

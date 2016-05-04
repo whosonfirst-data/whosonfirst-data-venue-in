@@ -1,0 +1,63 @@
+{
+  "id": 169577207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.487038,17.401066,78.487038,17.401066",
+    "geom:latitude":17.401066,
+    "geom:longitude":78.487038,
+    "iso:country":"IN",
+    "sg:address":"Gaytri Bhwwan,",
+    "sg:city":"Yavatmal",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 7232 244 219",
+    "sg:postcode":"445001",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930719,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YCyFMqlAv34pdHgNczBhC_17.401066_78.487038@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"817100011ceeae1540b689f70d723ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930719,
+            "region_id":85672141,
+            "venue_id":169577207
+        }
+    ],
+    "wof:id":169577207,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Gayatri Micro Elements & Chemicals",
+    "wof:parent_id":85930719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [78.487038,17.401066,78.487038,17.401066],
+  "geometry": {"coordinates":[78.487038,17.401066],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169645305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.980324,19.252792,72.980324,19.252792",
+    "geom:latitude":19.252792,
+    "geom:longitude":72.980324,
+    "iso:country":"IN",
+    "sg:address":"201-a, Hamilton, Hiranandani Estate,",
+    "sg:city":"Thane",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5598 9555",
+    "sg:postcode":"400607",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028465,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QCtM5zZ0Bk3X36dyFUdCu_19.252792_72.980324@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4f7f43e9c32ee901873c17319c16fc08",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028465,
+            "neighbourhood_id":-1,
+            "region_id":85672171,
+            "venue_id":169645305
+        }
+    ],
+    "wof:id":169645305,
+    "wof:lastmodified":1449033001,
+    "wof:name":"Vista International",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [72.980324,19.252792,72.980324,19.252792],
+  "geometry": {"coordinates":[72.980324,19.252792],"type":"Point"}
+}

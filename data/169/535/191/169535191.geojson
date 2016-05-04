@@ -1,0 +1,66 @@
+{
+  "id": 169535191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.813797,18.973169,72.813797,18.973169",
+    "geom:latitude":18.973169,
+    "geom:longitude":72.813797,
+    "iso:country":"IN",
+    "sg:address":"505, Arun Chambers, Tardeo Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6666 9135",
+    "sg:postcode":"400034",
+    "sg:tags":[
+        "embroiders",
+        "embroidery"
+    ],
+    "sg:website":"http://www.ishanis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903971,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kVKK2w7lDY46of3GX5jLP_18.973169_72.813797@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d38908ba8e71e373d873f5b735ec2d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903971,
+            "region_id":85672171,
+            "venue_id":169535191
+        }
+    ],
+    "wof:id":169535191,
+    "wof:lastmodified":1449033286,
+    "wof:name":"Ishani",
+    "wof:parent_id":85903971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "embroiders",
+        "embroidery"
+    ]
+},
+  "bbox": [72.813797,18.973169,72.813797,18.973169],
+  "geometry": {"coordinates":[72.813797,18.973169],"type":"Point"}
+}

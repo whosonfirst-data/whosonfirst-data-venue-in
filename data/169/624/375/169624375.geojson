@@ -1,0 +1,63 @@
+{
+  "id": 169624375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.292297,28.665133,77.292297,28.665133",
+    "geom:latitude":28.665133,
+    "geom:longitude":77.292297,
+    "iso:country":"IN",
+    "sg:address":"2654, St. No. 6, Bihari Colony, Shahdara,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 6527 5580",
+    "sg:postcode":"110032",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.silicaindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22gtDQ5UXEXSUg27T09gNM_28.665133_77.292297@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bb466658771507f940440c061d04b7df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169624375
+        }
+    ],
+    "wof:id":169624375,
+    "wof:lastmodified":1449034956,
+    "wof:name":"Silica Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.292297,28.665133,77.292297,28.665133],
+  "geometry": {"coordinates":[77.292297,28.665133],"type":"Point"}
+}

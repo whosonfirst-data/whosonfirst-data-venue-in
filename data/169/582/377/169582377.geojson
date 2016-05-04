@@ -1,0 +1,64 @@
+{
+  "id": 169582377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.309906,28.654676,77.309906,28.654676",
+    "geom:latitude":28.654676,
+    "geom:longitude":77.309906,
+    "iso:country":"IN",
+    "sg:address":"141, Pushpanjali, Near Anand Vihar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2237 6441",
+    "sg:postcode":"110092",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.kecoautoindustries.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928573,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gLPVlargysaarlIYfBRSm_28.654676_77.309906@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fe3f2f5ff4f9c9ae3ac490d8f952de4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928573,
+            "region_id":85672123,
+            "venue_id":169582377
+        }
+    ],
+    "wof:id":169582377,
+    "wof:lastmodified":1449034464,
+    "wof:name":"Keco Auto Industries",
+    "wof:parent_id":85928573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.309906,28.654676,77.309906,28.654676],
+  "geometry": {"coordinates":[77.309906,28.654676],"type":"Point"}
+}

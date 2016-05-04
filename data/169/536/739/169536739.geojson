@@ -1,0 +1,64 @@
+{
+  "id": 169536739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.635033,12.91155,77.635033,12.91155",
+    "geom:latitude":12.91155,
+    "geom:longitude":77.635033,
+    "iso:country":"IN",
+    "sg:address":"# 100, Mysore Road, N.t.y. Layout,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"City Walls",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2674 6252",
+    "sg:postcode":"560026",
+    "sg:tags":[
+        "plywood"
+    ],
+    "sg:website":"http://www.mysoretimber.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930881,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WfjJ6SdlqyloO6UlPmV34_12.911550_77.635033@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2773c380c92f37bd9604301f05107931",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930881,
+            "region_id":85672165,
+            "venue_id":169536739
+        }
+    ],
+    "wof:id":169536739,
+    "wof:lastmodified":1449034660,
+    "wof:name":"Mysore Timber Traders",
+    "wof:parent_id":85930881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plywood"
+    ]
+},
+  "bbox": [77.635033,12.91155,77.635033,12.91155],
+  "geometry": {"coordinates":[77.635033,12.91155],"type":"Point"}
+}

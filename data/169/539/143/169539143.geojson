@@ -1,0 +1,63 @@
+{
+  "id": 169539143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.541,12.986343,77.541,12.986343",
+    "geom:latitude":12.986343,
+    "geom:longitude":77.541,
+    "iso:country":"IN",
+    "sg:address":"13/16, 1st Main Road, Industrial Town, Rajaji Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2335 0333",
+    "sg:postcode":"560044",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26k7kxpHBrmPmliSaen4QS_12.986343_77.541000@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"512e3a6b99ee325906f056cc7281c3a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169539143
+        }
+    ],
+    "wof:id":169539143,
+    "wof:lastmodified":1449036038,
+    "wof:name":"Sachbar Rubber Products",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.541,12.986343,77.541,12.986343],
+  "geometry": {"coordinates":[77.541,12.986343],"type":"Point"}
+}

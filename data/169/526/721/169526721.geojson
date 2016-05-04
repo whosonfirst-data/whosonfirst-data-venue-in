@@ -1,0 +1,67 @@
+{
+  "id": 169526721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.88385,19.094351,72.88385,19.094351",
+    "geom:latitude":19.094351,
+    "geom:longitude":72.88385,
+    "iso:country":"IN",
+    "sg:address":"M. K. Brothers Indl. Estate, No. 7, A.k. Road, Andheri (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2851 6848",
+    "sg:postcode":"400072",
+    "sg:tags":[
+        "bag",
+        "paper",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931605,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gofUZaRWfzPTcaHVwVZi9_19.094351_72.883850@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c479bd18b203bc56de5f1f63f8bb0eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931605,
+            "region_id":85672171,
+            "venue_id":169526721
+        }
+    ],
+    "wof:id":169526721,
+    "wof:lastmodified":1449033704,
+    "wof:name":"Paper Converters",
+    "wof:parent_id":85931605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag",
+        "paper",
+        "-"
+    ]
+},
+  "bbox": [72.88385,19.094351,72.88385,19.094351],
+  "geometry": {"coordinates":[72.88385,19.094351],"type":"Point"}
+}

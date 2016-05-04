@@ -1,0 +1,66 @@
+{
+  "id": 169542545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.675087,13.012037,77.675087,13.012037",
+    "geom:latitude":13.012037,
+    "geom:longitude":77.675087,
+    "iso:country":"IN",
+    "sg:address":"#1157 Ramamurthy Nagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 6561 4431",
+    "sg:postcode":"560016",
+    "sg:tags":[
+        "surgical",
+        "disposable",
+        "dressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nl8XZcHphTaZYf4HOuBcJ_13.012037_77.675087@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9f411579d0c700f08565b651b518e8da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169542545
+        }
+    ],
+    "wof:id":169542545,
+    "wof:lastmodified":1449035220,
+    "wof:name":"Atlandic Marketing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "disposable",
+        "dressing"
+    ]
+},
+  "bbox": [77.675087,13.012037,77.675087,13.012037],
+  "geometry": {"coordinates":[77.675087,13.012037],"type":"Point"}
+}

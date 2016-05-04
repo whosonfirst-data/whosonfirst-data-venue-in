@@ -1,0 +1,53 @@
+{
+  "id": 169557679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.201057,28.651077,77.201057,28.651077",
+    "geom:latitude":28.651077,
+    "geom:longitude":77.201057,
+    "iso:country":"IN",
+    "sg:address":"Faiz Road, Karol Bagh",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2572 5184",
+    "sg:postcode":"110005",
+    "sg:province":"Delhi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928243,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oa1IEDDtQDZsZnR4HBo6l_28.651077_77.201057@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"07f7a0be4cb141daca82a80bc852e7c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928243,
+            "region_id":85672123,
+            "venue_id":169557679
+        }
+    ],
+    "wof:id":169557679,
+    "wof:lastmodified":1449035035,
+    "wof:name":"Auto Guide",
+    "wof:parent_id":85928243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.201057,28.651077,77.201057,28.651077],
+  "geometry": {"coordinates":[77.201057,28.651077],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169526755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.91481,19.054533,72.91481,19.054533",
+    "geom:latitude":19.054533,
+    "geom:longitude":72.91481,
+    "iso:country":"IN",
+    "sg:address":"Sundaram Estate, 1st Floor, Govandi Station Road, Govandi (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 5597 8487",
+    "sg:postcode":"400088",
+    "sg:tags":[
+        "case",
+        "bag"
+    ],
+    "sg:website":"http://www.geniusbags.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931557,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XscXQ89taYeyUfPmCtmSF_19.054533_72.914810@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"47bbf2d0e658b029d3b657594783ae8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931557,
+            "region_id":85672171,
+            "venue_id":169526755
+        }
+    ],
+    "wof:id":169526755,
+    "wof:lastmodified":1449033699,
+    "wof:name":"Genius Leathercraft Pvt. Ltd.",
+    "wof:parent_id":85931557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "case",
+        "bag"
+    ]
+},
+  "bbox": [72.91481,19.054533,72.91481,19.054533],
+  "geometry": {"coordinates":[72.91481,19.054533],"type":"Point"}
+}

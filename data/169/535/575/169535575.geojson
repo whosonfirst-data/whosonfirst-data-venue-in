@@ -1,0 +1,65 @@
+{
+  "id": 169535575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.893875,19.11381,72.893875,19.11381",
+    "geom:latitude":19.11381,
+    "geom:longitude":72.893875,
+    "iso:country":"IN",
+    "sg:address":"4123, Oberoi Garden, Chandivili, Andheri (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2847 0971",
+    "sg:postcode":"400072",
+    "sg:tags":[
+        "equipment",
+        "good"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931519,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6d90YRHDnlfpyd09YPXeFp_19.113810_72.893875@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"610bc7806ac18cd14945bedc5de3ec12",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931519,
+            "region_id":85672171,
+            "venue_id":169535575
+        }
+    ],
+    "wof:id":169535575,
+    "wof:lastmodified":1449033286,
+    "wof:name":"H R D Co. P Ltd.",
+    "wof:parent_id":85931519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "good"
+    ]
+},
+  "bbox": [72.893875,19.11381,72.893875,19.11381],
+  "geometry": {"coordinates":[72.893875,19.11381],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169542505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.641396,12.970181,77.641396,12.970181",
+    "geom:latitude":12.970181,
+    "geom:longitude":77.641396,
+    "iso:country":"IN",
+    "sg:address":"#1153, 12th Main, Hal 2nd Stage, Indiranagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 4115 4545",
+    "sg:postcode":"560001",
+    "sg:tags":[
+        "stove",
+        "burner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IF6V4IrnlaNy7trT60xo3_12.970181_77.641396@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bb846dc9dd848efc15341db078e545c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169542505
+        }
+    ],
+    "wof:id":169542505,
+    "wof:lastmodified":1449035222,
+    "wof:name":"A. K. Group",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stove",
+        "burner"
+    ]
+},
+  "bbox": [77.641396,12.970181,77.641396,12.970181],
+  "geometry": {"coordinates":[77.641396,12.970181],"type":"Point"}
+}

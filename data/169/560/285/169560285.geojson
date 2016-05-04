@@ -1,0 +1,64 @@
+{
+  "id": 169560285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.641045,12.977213,77.641045,12.977213",
+    "geom:latitude":12.977213,
+    "geom:longitude":77.641045,
+    "iso:country":"IN",
+    "sg:address":"141/2f, G.i.d.c.,",
+    "sg:city":"Ankleshwar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2646 251 692",
+    "sg:postcode":"393002",
+    "sg:tags":[
+        "pigment"
+    ],
+    "sg:website":"http://www.kpateldyes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QOMIByvUpAqxJgsnW8LvM_12.977213_77.641045@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"59cc75180cf559e43afb603eb56463f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169560285
+        }
+    ],
+    "wof:id":169560285,
+    "wof:lastmodified":1449035179,
+    "wof:name":"Devanshi Dyestuff",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pigment"
+    ]
+},
+  "bbox": [77.641045,12.977213,77.641045,12.977213],
+  "geometry": {"coordinates":[77.641045,12.977213],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 169598053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.449081,17.415102,78.449081,17.415102",
+    "geom:latitude":17.415102,
+    "geom:longitude":78.449081,
+    "iso:country":"IN",
+    "sg:address":"503, City Centre, The Mall,",
+    "sg:city":"Kanpur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Leather Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 512 233 0156",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930765,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BjrMaZjNp7vmRQEXhsj3Y_17.415102_78.449081@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a8753b2ba2189df090e120cb86e18b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930765,
+            "region_id":85672141,
+            "venue_id":169598053
+        }
+    ],
+    "wof:id":169598053,
+    "wof:lastmodified":1449032858,
+    "wof:name":"Pan East Exim (p) Ltd.",
+    "wof:parent_id":85930765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [78.449081,17.415102,78.449081,17.415102],
+  "geometry": {"coordinates":[78.449081,17.415102],"type":"Point"}
+}

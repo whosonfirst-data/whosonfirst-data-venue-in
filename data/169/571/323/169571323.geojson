@@ -1,0 +1,53 @@
+{
+  "id": 169571323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.360397,22.577614,88.360397,22.577614",
+    "geom:latitude":22.577614,
+    "geom:longitude":88.360397,
+    "iso:country":"IN",
+    "sg:address":"Chittaranjan Avenue",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2241 4800",
+    "sg:postcode":"700007",
+    "sg:province":"West Bengal",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903957,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XzDlq6yfT68YFd9xFmv3m_22.577614_88.360397@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5178875f76d9c69eebceac200539d16b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85903957,
+            "region_id":85672219,
+            "venue_id":169571323
+        }
+    ],
+    "wof:id":169571323,
+    "wof:lastmodified":1449034946,
+    "wof:name":"Sanmarg Pvt Ltd",
+    "wof:parent_id":85903957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [88.360397,22.577614,88.360397,22.577614],
+  "geometry": {"coordinates":[88.360397,22.577614],"type":"Point"}
+}

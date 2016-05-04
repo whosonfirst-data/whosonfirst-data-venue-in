@@ -1,0 +1,62 @@
+{
+  "id": 169633295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.647835,12.970927,77.647835,12.970927",
+    "geom:latitude":12.970927,
+    "geom:longitude":77.647835,
+    "iso:country":"IN",
+    "sg:address":"House No. 568, First Floor, Phase 3-a,",
+    "sg:city":"Mohali",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"160036",
+    "sg:tags":[
+        "acid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931151,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MFeCam5Uf2IgFzp8wOqji_12.970927_77.647835@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"26adc1e87fdd67c3e9364a39c19b9751",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931151,
+            "region_id":85672165,
+            "venue_id":169633295
+        }
+    ],
+    "wof:id":169633295,
+    "wof:lastmodified":1449035939,
+    "wof:name":"Swati Agencies",
+    "wof:parent_id":85931151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acid"
+    ]
+},
+  "bbox": [77.647835,12.970927,77.647835,12.970927],
+  "geometry": {"coordinates":[77.647835,12.970927],"type":"Point"}
+}

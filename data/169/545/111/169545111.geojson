@@ -1,0 +1,64 @@
+{
+  "id": 169545111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.580734,12.919883,77.580734,12.919883",
+    "geom:latitude":12.919883,
+    "geom:longitude":77.580734,
+    "iso:country":"IN",
+    "sg:address":"18/j, 1st Floor, 40th. Cross,5th. Main, Jaynagar,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2655 9675",
+    "sg:postcode":"560041",
+    "sg:tags":[
+        "x-ray"
+    ],
+    "sg:website":"http://www.iconanalytical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930887,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HbQb1MRSMenr10hAPryvz_12.919883_77.580734@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8cf58f0f1b6971139432bfd817afc685",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930887,
+            "region_id":85672165,
+            "venue_id":169545111
+        }
+    ],
+    "wof:id":169545111,
+    "wof:lastmodified":1449033488,
+    "wof:name":"Icon Analytical Equipment Pvt Ltd",
+    "wof:parent_id":85930887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "x-ray"
+    ]
+},
+  "bbox": [77.580734,12.919883,77.580734,12.919883],
+  "geometry": {"coordinates":[77.580734,12.919883],"type":"Point"}
+}

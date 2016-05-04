@@ -1,0 +1,53 @@
+{
+  "id": 169572981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.231895,28.650553,77.231895,28.650553",
+    "geom:latitude":28.650553,
+    "geom:longitude":77.231895,
+    "iso:country":"IN",
+    "sg:address":"Chandni Chowk",
+    "sg:city":"Delhi",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 23866751",
+    "sg:postcode":"110006",
+    "sg:province":"Delhi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928091,
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14jbY4UCy0qy0Opi0Vk6mG_28.650553_77.231895@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9982ec1ada0c4ac3b01b0203313bcf87",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":85928091,
+            "region_id":85672123,
+            "venue_id":169572981
+        }
+    ],
+    "wof:id":169572981,
+    "wof:lastmodified":1449034709,
+    "wof:name":"Vaishno Agencies",
+    "wof:parent_id":85928091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [77.231895,28.650553,77.231895,28.650553],
+  "geometry": {"coordinates":[77.231895,28.650553],"type":"Point"}
+}

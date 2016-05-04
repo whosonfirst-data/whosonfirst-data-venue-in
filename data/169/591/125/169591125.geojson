@@ -1,0 +1,72 @@
+{
+  "id": 169591125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.277214,13.084446,80.277214,13.084446",
+    "geom:latitude":13.084446,
+    "geom:longitude":80.277214,
+    "iso:country":"IN",
+    "sg:address":"28, Pereiara Street,",
+    "sg:city":"Tuticorin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 461 400 0642",
+    "sg:postcode":"628001",
+    "sg:tags":[
+        "salt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931751,
+        85632469,
+        102029537,
+        85672245,
+        85931819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g9GiAbY4DKqSm0Y3J8GaY_13.084446_80.277214@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d09cf9e585a1e5f758c5af5a04ad9977",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931751,
+            "region_id":85672245,
+            "venue_id":169591125
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85931819,
+            "region_id":85672245,
+            "venue_id":169591125
+        }
+    ],
+    "wof:id":169591125,
+    "wof:lastmodified":1449034454,
+    "wof:name":"Msa Salt Private Limited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salt"
+    ]
+},
+  "bbox": [80.277214,13.084446,80.277214,13.084446],
+  "geometry": {"coordinates":[80.277214,13.084446],"type":"Point"}
+}

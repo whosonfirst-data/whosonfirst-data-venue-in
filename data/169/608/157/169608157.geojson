@@ -1,0 +1,65 @@
+{
+  "id": 169608157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.220009,28.584024,77.220009,28.584024",
+    "geom:latitude":28.584024,
+    "geom:longitude":77.220009,
+    "iso:country":"IN",
+    "sg:address":"23, Khanna Market, Lodhi Colony,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2462 6485",
+    "sg:postcode":"110003",
+    "sg:tags":[
+        "lab",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928309,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01MmsJrlb3SXi3ESBdkY6L_28.584024_77.220009@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1db4c3616b092597646c7b160a10acef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928309,
+            "region_id":85672123,
+            "venue_id":169608157
+        }
+    ],
+    "wof:id":169608157,
+    "wof:lastmodified":1449034084,
+    "wof:name":"Rakesh Scientific Centre",
+    "wof:parent_id":85928309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lab",
+        "supply"
+    ]
+},
+  "bbox": [77.220009,28.584024,77.220009,28.584024],
+  "geometry": {"coordinates":[77.220009,28.584024],"type":"Point"}
+}

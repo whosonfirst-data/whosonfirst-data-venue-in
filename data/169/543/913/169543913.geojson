@@ -1,0 +1,66 @@
+{
+  "id": 169543913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.529053,13.034797,77.529053,13.034797",
+    "geom:latitude":13.034797,
+    "geom:longitude":77.529053,
+    "iso:country":"IN",
+    "sg:address":"8/9th Mile, Tumkur Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2839 4321",
+    "sg:postcode":"560073",
+    "sg:tags":[
+        "tungsten",
+        "carbide"
+    ],
+    "sg:website":"http://www.widiaindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930975,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uSe4DBqHtheIGnl6rtuJS_13.034797_77.529053@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7d6e54c095cf93b0f8d3bfa0f3ee4f4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930975,
+            "region_id":85672165,
+            "venue_id":169543913
+        }
+    ],
+    "wof:id":169543913,
+    "wof:lastmodified":1449033335,
+    "wof:name":"Kennametal Widia India Limited",
+    "wof:parent_id":85930975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tungsten",
+        "carbide"
+    ]
+},
+  "bbox": [77.529053,13.034797,77.529053,13.034797],
+  "geometry": {"coordinates":[77.529053,13.034797],"type":"Point"}
+}

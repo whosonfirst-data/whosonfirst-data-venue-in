@@ -1,0 +1,63 @@
+{
+  "id": 169536733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.646454,12.880702,77.646454,12.880702",
+    "geom:latitude":12.880702,
+    "geom:longitude":77.646454,
+    "iso:country":"IN",
+    "sg:address":"224/225, Singasandra,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"City Walls",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2573 1496",
+    "sg:postcode":"560068",
+    "sg:tags":[
+        "plywood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930979,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23cf0tKLaykXOvKa7Ambbp_12.880702_77.646454@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8bd5b292ba6269f254b90c0f16fb0dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930979,
+            "region_id":85672165,
+            "venue_id":169536733
+        }
+    ],
+    "wof:id":169536733,
+    "wof:lastmodified":1449034656,
+    "wof:name":"Hariom Timbers",
+    "wof:parent_id":85930979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plywood"
+    ]
+},
+  "bbox": [77.646454,12.880702,77.646454,12.880702],
+  "geometry": {"coordinates":[77.646454,12.880702],"type":"Point"}
+}

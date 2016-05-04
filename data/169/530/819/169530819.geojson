@@ -1,0 +1,63 @@
+{
+  "id": 169530819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.937958,19.167665,72.937958,19.167665",
+    "geom:latitude":19.167665,
+    "geom:longitude":72.937958,
+    "iso:country":"IN",
+    "sg:address":"26, Ashok Industrial Estate, L. B. S. Marg, Mulund,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2564 6804",
+    "sg:postcode":"400080",
+    "sg:tags":[
+        "container"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931655,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZzLDky8e1wRnzXcw7sB9t_19.167665_72.937958@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3088478c25b65d33f09f04b6d86de7ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931655,
+            "region_id":85672171,
+            "venue_id":169530819
+        }
+    ],
+    "wof:id":169530819,
+    "wof:lastmodified":1449034443,
+    "wof:name":"Mono Plastics",
+    "wof:parent_id":85931655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container"
+    ]
+},
+  "bbox": [72.937958,19.167665,72.937958,19.167665],
+  "geometry": {"coordinates":[72.937958,19.167665],"type":"Point"}
+}

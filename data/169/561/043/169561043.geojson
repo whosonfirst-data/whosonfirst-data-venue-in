@@ -1,0 +1,64 @@
+{
+  "id": 169561043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.359947,22.553614,88.359947,22.553614",
+    "geom:latitude":22.553614,
+    "geom:longitude":88.359947,
+    "iso:country":"IN",
+    "sg:address":"3-a, Ripon St., 2nd Floor,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2249 1922",
+    "sg:postcode":"700016",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.ellenbarrie.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931931,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WlQvtio9NQPOWuUSSCCX6_22.553614_88.359947@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9fe49870a70714077b119811b0d8a65a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931931,
+            "region_id":85672219,
+            "venue_id":169561043
+        }
+    ],
+    "wof:id":169561043,
+    "wof:lastmodified":1449035020,
+    "wof:name":"Ellenbarrie Industrial Gases Ltd.",
+    "wof:parent_id":85931931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [88.359947,22.553614,88.359947,22.553614],
+  "geometry": {"coordinates":[88.359947,22.553614],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 169548169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.13221,29.391146,78.13221,29.391146",
+    "geom:latitude":29.391146,
+    "geom:longitude":78.13221,
+    "iso:country":"IN",
+    "sg:address":"111/57 H, State Bank Colony,",
+    "sg:city":"Tuticorin",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 461 234 8107",
+    "sg:postcode":"628002",
+    "sg:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ],
+    "sg:website":"http://www.indianbotanical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030645,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k3krw9d45hhWS2Y8iipeo_29.391146_78.132210@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"6b7ddb37b8f4ccac2415f9d158eb9376",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030645,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169548169
+        }
+    ],
+    "wof:id":169548169,
+    "wof:lastmodified":1449034974,
+    "wof:name":"Indian Botanical Products Pvt. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agro",
+        "product",
+        "based",
+        "commodity"
+    ]
+},
+  "bbox": [78.13221,29.391146,78.13221,29.391146],
+  "geometry": {"coordinates":[78.13221,29.391146],"type":"Point"}
+}

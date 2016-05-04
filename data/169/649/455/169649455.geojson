@@ -1,0 +1,73 @@
+{
+  "id": 169649455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.219142,13.047984,80.219142,13.047984",
+    "geom:latitude":13.047984,
+    "geom:longitude":80.219142,
+    "iso:country":"IN",
+    "sg:address":"23, Dr.Ambedkar Road Kodambakkam",
+    "sg:city":"Chennai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"600024",
+    "sg:tags":[
+        "personal-loan",
+        "home-loan",
+        "credit-cards",
+        "auto-loans",
+        "financial-services",
+        "mortgages"
+    ],
+    "sg:website":"http://www.bankbazaar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903935,
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2p8I8VBp5JTtWJIyCtvKL3_13.047984_80.219142@1308163239"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b5ef655f7ccbe92c1bf5c238caf52e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":85903935,
+            "region_id":85672245,
+            "venue_id":169649455
+        }
+    ],
+    "wof:id":169649455,
+    "wof:lastmodified":1449034943,
+    "wof:name":"BankBazaar.com",
+    "wof:parent_id":85903935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal-loan",
+        "home-loan",
+        "credit-cards",
+        "auto-loans",
+        "financial-services",
+        "mortgages"
+    ]
+},
+  "bbox": [80.219142,13.047984,80.219142,13.047984],
+  "geometry": {"coordinates":[80.219142,13.047984],"type":"Point"}
+}

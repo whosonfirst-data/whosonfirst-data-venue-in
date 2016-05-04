@@ -1,0 +1,65 @@
+{
+  "id": 169550363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.555077,9.457333,77.555077,9.457333",
+    "geom:latitude":9.457333,
+    "geom:longitude":77.555077,
+    "iso:country":"IN",
+    "sg:address":"3-5-2, Theni Road,",
+    "sg:city":"Usilampatti",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 4552 252 257",
+    "sg:postcode":"625532",
+    "sg:tags":[
+        "murabba",
+        "pickle"
+    ],
+    "sg:website":"http://www.keofoods.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028909,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RUhahcbrPTBoUXCEzl56b_9.457333_77.555077@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"944ecfb6dda72a9b4725474a1500a424",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028909,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169550363
+        }
+    ],
+    "wof:id":169550363,
+    "wof:lastmodified":1449034478,
+    "wof:name":"Keofood Products (p) Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "murabba",
+        "pickle"
+    ]
+},
+  "bbox": [77.555077,9.457333,77.555077,9.457333],
+  "geometry": {"coordinates":[77.555077,9.457333],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169575599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.190765,28.650675,77.190765,28.650675",
+    "geom:latitude":28.650675,
+    "geom:longitude":77.190765,
+    "iso:country":"IN",
+    "sg:address":"5328/67, Hardyan Singh Road, Karol Bagh,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2573 3717",
+    "sg:postcode":"110005",
+    "sg:tags":[
+        "synthetic",
+        "pu/pvc"
+    ],
+    "sg:website":"http://www.babaleather.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928243,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ionx3Fm1yhhQoAIj1J8tK_28.650675_77.190765@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a0ddae10fc7ce0f849252f00a13e68ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928243,
+            "region_id":85672123,
+            "venue_id":169575599
+        }
+    ],
+    "wof:id":169575599,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Baba Leather Impex Private Limited",
+    "wof:parent_id":85928243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "synthetic",
+        "pu/pvc"
+    ]
+},
+  "bbox": [77.190765,28.650675,77.190765,28.650675],
+  "geometry": {"coordinates":[77.190765,28.650675],"type":"Point"}
+}

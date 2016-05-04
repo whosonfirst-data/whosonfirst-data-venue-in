@@ -1,0 +1,69 @@
+{
+  "id": 169538061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.613792,12.937043,77.613792,12.937043",
+    "geom:latitude":12.937043,
+    "geom:longitude":77.613792,
+    "iso:country":"IN",
+    "sg:address":"86/3, K.r. Garden, 8th Block, Koramangala Village,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2571 3424",
+    "sg:postcode":"560095",
+    "sg:tags":[
+        "paint",
+        "material",
+        "ink",
+        "raw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930917,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jUAvip6b2hy0K8viVp7Cd_12.937043_77.613792@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"80d657dcf7e52fb555760675fd14ee34",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930917,
+            "region_id":85672165,
+            "venue_id":169538061
+        }
+    ],
+    "wof:id":169538061,
+    "wof:lastmodified":1449033099,
+    "wof:name":"Crystal Printing Ink Co. Pvt. Ltd.",
+    "wof:parent_id":85930917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "material",
+        "ink",
+        "raw"
+    ]
+},
+  "bbox": [77.613792,12.937043,77.613792,12.937043],
+  "geometry": {"coordinates":[77.613792,12.937043],"type":"Point"}
+}

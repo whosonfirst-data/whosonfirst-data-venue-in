@@ -1,0 +1,64 @@
+{
+  "id": 169585369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.376945,22.611607,88.376945,22.611607",
+    "geom:latitude":22.611607,
+    "geom:longitude":88.376945,
+    "iso:country":"IN",
+    "sg:address":"86/1, B.t. Road, Tala,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2555 6957",
+    "sg:postcode":"700002",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.mgmrc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931997,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vCYPN8R7UUWDaGJbZFjK9_22.611607_88.376945@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"33f5ae863663bfaa7f7a3fed0e5d7c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931997,
+            "region_id":85672219,
+            "venue_id":169585369
+        }
+    ],
+    "wof:id":169585369,
+    "wof:lastmodified":1449034887,
+    "wof:name":"M.g.m. Rubber Company",
+    "wof:parent_id":85931997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [88.376945,22.611607,88.376945,22.611607],
+  "geometry": {"coordinates":[88.376945,22.611607],"type":"Point"}
+}

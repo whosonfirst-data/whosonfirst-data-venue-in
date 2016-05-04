@@ -1,0 +1,62 @@
+{
+  "id": 169581153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.719322,9.890144,76.719322,9.890144",
+    "geom:latitude":9.890144,
+    "geom:longitude":76.719322,
+    "iso:country":"IN",
+    "sg:address":"Kanjiramatoom Jn., Thodupuzha East,",
+    "sg:city":"Thodupuzha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 4862 222 136",
+    "sg:postcode":"685585",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85782561,
+        85632469,
+        85672149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r7sHH05F1j4lgBnst7z4b_9.890144_76.719322@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3d27c1d01662fc9015c8ec9ad9b419a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":85782561,
+            "region_id":85672149,
+            "venue_id":169581153
+        }
+    ],
+    "wof:id":169581153,
+    "wof:lastmodified":1449033381,
+    "wof:name":"K. C. Thomas & Co.,",
+    "wof:parent_id":85782561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [76.719322,9.890144,76.719322,9.890144],
+  "geometry": {"coordinates":[76.719322,9.890144],"type":"Point"}
+}

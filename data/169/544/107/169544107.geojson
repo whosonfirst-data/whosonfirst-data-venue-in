@@ -1,0 +1,66 @@
+{
+  "id": 169544107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.53669,12.999166,77.53669,12.999166",
+    "geom:latitude":12.999166,
+    "geom:longitude":77.53669,
+    "iso:country":"IN",
+    "sg:address":"No. 21, 1st Main, 3rd Cross, Saraswathipura, Nandini Layout,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2319 1539",
+    "sg:postcode":"560096",
+    "sg:tags":[
+        "ups",
+        "power"
+    ],
+    "sg:website":"http://www.kinarapower.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U3omNkkYRrih80hccj9UL_12.999166_77.536690@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f4e6ad2fdf163f259e6fade7abd6eb84",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169544107
+        }
+    ],
+    "wof:id":169544107,
+    "wof:lastmodified":1449035962,
+    "wof:name":"Kinara Power Systems And Projects Pvt. Ltd.",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ups",
+        "power"
+    ]
+},
+  "bbox": [77.53669,12.999166,77.53669,12.999166],
+  "geometry": {"coordinates":[77.53669,12.999166],"type":"Point"}
+}

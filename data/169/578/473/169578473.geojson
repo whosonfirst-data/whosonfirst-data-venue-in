@@ -1,0 +1,62 @@
+{
+  "id": 169578473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.165413,28.675367,77.165413,28.675367",
+    "geom:latitude":28.675367,
+    "geom:longitude":77.165413,
+    "iso:country":"IN",
+    "sg:address":"909/59, Lekhu Nagar, Tri Nagar,",
+    "sg:city":"Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 3249 5163",
+    "sg:postcode":"110035",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030425,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l1zqZmb8yAE0SRanMOFbe_28.675367_77.165413@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"39645b3afdb8892bfb9ed76a3fdc4fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030425,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169578473
+        }
+    ],
+    "wof:id":169578473,
+    "wof:lastmodified":1449033518,
+    "wof:name":"Hans Auto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.165413,28.675367,77.165413,28.675367],
+  "geometry": {"coordinates":[77.165413,28.675367],"type":"Point"}
+}

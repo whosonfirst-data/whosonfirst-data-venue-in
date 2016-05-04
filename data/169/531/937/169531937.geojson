@@ -1,0 +1,66 @@
+{
+  "id": 169531937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.937958,19.167665,72.937958,19.167665",
+    "geom:latitude":19.167665,
+    "geom:longitude":72.937958,
+    "iso:country":"IN",
+    "sg:address":"38, Ashok Ind. Est., L.b.s. Marg, Mulund (w),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6649 0300",
+    "sg:postcode":"400080",
+    "sg:tags":[
+        "decorative",
+        "item"
+    ],
+    "sg:website":"http://www.artandbeyond.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931655,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H42QmvvDPWMqfJvcxpWU9_19.167665_72.937958@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3088478c25b65d33f09f04b6d86de7ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931655,
+            "region_id":85672171,
+            "venue_id":169531937
+        }
+    ],
+    "wof:id":169531937,
+    "wof:lastmodified":1449033472,
+    "wof:name":"Art & Beyond",
+    "wof:parent_id":85931655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decorative",
+        "item"
+    ]
+},
+  "bbox": [72.937958,19.167665,72.937958,19.167665],
+  "geometry": {"coordinates":[72.937958,19.167665],"type":"Point"}
+}

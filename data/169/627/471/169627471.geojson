@@ -1,0 +1,62 @@
+{
+  "id": 169627471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.201324,11.662389,78.201324,11.662389",
+    "geom:latitude":11.662389,
+    "geom:longitude":78.201324,
+    "iso:country":"IN",
+    "sg:address":"280-a, N.g.g.o Colony, Thathampatty,",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 427 224 2692",
+    "sg:postcode":"636014",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102028771,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TaaoraxkMjUMmnJOU89ac_11.662389_78.201324@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5a4703108b32305a2413b53f4f32e3b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028771,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169627471
+        }
+    ],
+    "wof:id":169627471,
+    "wof:lastmodified":1449036041,
+    "wof:name":"Sree Manohari Chemicals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [78.201324,11.662389,78.201324,11.662389],
+  "geometry": {"coordinates":[78.201324,11.662389],"type":"Point"}
+}

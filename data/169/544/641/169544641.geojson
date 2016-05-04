@@ -1,0 +1,68 @@
+{
+  "id": 169544641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.617439,13.001942,77.617439,13.001942",
+    "geom:latitude":13.001942,
+    "geom:longitude":77.617439,
+    "iso:country":"IN",
+    "sg:address":"No. 19, Pottery Road, Cooke Town,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2549 5324",
+    "sg:postcode":"560005",
+    "sg:tags":[
+        "chemical",
+        "plant",
+        "treatment"
+    ],
+    "sg:website":"http://www.amazonenviro.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930927,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72n44E2HIrJGOG4JAl4LEC_13.001942_77.617439@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a3b4616240397a6dd1008254191b69fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930927,
+            "region_id":85672165,
+            "venue_id":169544641
+        }
+    ],
+    "wof:id":169544641,
+    "wof:lastmodified":1449035963,
+    "wof:name":"Amazon Envirotech Pvt. Ltd.",
+    "wof:parent_id":85930927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "plant",
+        "treatment"
+    ]
+},
+  "bbox": [77.617439,13.001942,77.617439,13.001942],
+  "geometry": {"coordinates":[77.617439,13.001942],"type":"Point"}
+}

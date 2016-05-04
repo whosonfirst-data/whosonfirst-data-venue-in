@@ -1,0 +1,63 @@
+{
+  "id": 169621131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"88.357292,22.556393,88.357292,22.556393",
+    "geom:latitude":22.556393,
+    "geom:longitude":88.357292,
+    "iso:country":"IN",
+    "sg:address":"46-d, Rafi Ahmed Kidwai Road,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2234 8285",
+    "sg:postcode":"700016",
+    "sg:tags":[
+        "wax"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931931,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v5VjK1XccpAgpEcQciDPN_22.556393_88.357292@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b375074ad9bddd730156218683cff58f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931931,
+            "region_id":85672219,
+            "venue_id":169621131
+        }
+    ],
+    "wof:id":169621131,
+    "wof:lastmodified":1449035557,
+    "wof:name":"Shree Ram Industries",
+    "wof:parent_id":85931931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wax"
+    ]
+},
+  "bbox": [88.357292,22.556393,88.357292,22.556393],
+  "geometry": {"coordinates":[88.357292,22.556393],"type":"Point"}
+}

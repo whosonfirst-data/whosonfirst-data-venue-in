@@ -1,0 +1,65 @@
+{
+  "id": 169537795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.535576,12.981318,77.535576,12.981318",
+    "geom:latitude":12.981318,
+    "geom:longitude":77.535576,
+    "iso:country":"IN",
+    "sg:address":"67/2, Magadi Main Road, Opp. Near Khb Bus Stop, Vijayanagar North,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2328 9259",
+    "sg:postcode":"560079",
+    "sg:tags":[
+        "component",
+        "pressed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11AJmtJ85fPlzOHaYBRWHm_12.981318_77.535576@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"567d01f823023af3b02140a1165b5e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169537795
+        }
+    ],
+    "wof:id":169537795,
+    "wof:lastmodified":1449033498,
+    "wof:name":"Perfect Caps Private Limited",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "component",
+        "pressed"
+    ]
+},
+  "bbox": [77.535576,12.981318,77.535576,12.981318],
+  "geometry": {"coordinates":[77.535576,12.981318],"type":"Point"}
+}

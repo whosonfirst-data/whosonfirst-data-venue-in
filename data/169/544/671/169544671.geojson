@@ -1,0 +1,64 @@
+{
+  "id": 169544671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.590965,12.962548,77.590965,12.962548",
+    "geom:latitude":12.962548,
+    "geom:longitude":77.590965,
+    "iso:country":"IN",
+    "sg:address":"36, Mission Road,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2222 0101",
+    "sg:postcode":"560027",
+    "sg:tags":[
+        "waterproof"
+    ],
+    "sg:website":"http://www.stpltd.com, http://www.arcusdistribution.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930903,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sc8Vchk0zI8IiU3THrZ1c_12.962548_77.590965@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ede67ba6d58263fb3cbf2bed1a84fc81",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930903,
+            "region_id":85672165,
+            "venue_id":169544671
+        }
+    ],
+    "wof:id":169544671,
+    "wof:lastmodified":1449035963,
+    "wof:name":"S T P Limited",
+    "wof:parent_id":85930903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "waterproof"
+    ]
+},
+  "bbox": [77.590965,12.962548,77.590965,12.962548],
+  "geometry": {"coordinates":[77.590965,12.962548],"type":"Point"}
+}

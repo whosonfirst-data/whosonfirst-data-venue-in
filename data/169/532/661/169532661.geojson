@@ -1,0 +1,63 @@
+{
+  "id": 169532661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.824821,18.935431,72.824821,18.935431",
+    "geom:latitude":18.935431,
+    "geom:longitude":72.824821,
+    "iso:country":"IN",
+    "sg:address":"14, Alka B-road, Churchgate,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 6450 7008",
+    "sg:postcode":"400020",
+    "sg:tags":[
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903879,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iCkFMmzUv5CPmyFnrOdKv_18.935431_72.824821@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3d97e9dfb167c97b3fb98f7f88a985e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85903879,
+            "region_id":85672171,
+            "venue_id":169532661
+        }
+    ],
+    "wof:id":169532661,
+    "wof:lastmodified":1449033797,
+    "wof:name":"Dayush & Co.",
+    "wof:parent_id":85903879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [72.824821,18.935431,72.824821,18.935431],
+  "geometry": {"coordinates":[72.824821,18.935431],"type":"Point"}
+}

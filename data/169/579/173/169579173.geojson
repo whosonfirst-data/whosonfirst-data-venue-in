@@ -1,0 +1,63 @@
+{
+  "id": 169579173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.192795,28.649347,77.192795,28.649347",
+    "geom:latitude":28.649347,
+    "geom:longitude":77.192795,
+    "iso:country":"IN",
+    "sg:address":"75, Jariwala Bldg., 3rd Flr., R.no 115, S.v.p Road,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2346 5125",
+    "sg:postcode":"400003",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85928243,
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LrGFOw7OyWz1CYLyT70hq_28.649347_77.192795@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8a921db5e96342a9f87a48f68ce2650c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":85928243,
+            "region_id":85672123,
+            "venue_id":169579173
+        }
+    ],
+    "wof:id":169579173,
+    "wof:lastmodified":1449033740,
+    "wof:name":"Hutaib Rubber Products",
+    "wof:parent_id":85928243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [77.192795,28.649347,77.192795,28.649347],
+  "geometry": {"coordinates":[77.192795,28.649347],"type":"Point"}
+}

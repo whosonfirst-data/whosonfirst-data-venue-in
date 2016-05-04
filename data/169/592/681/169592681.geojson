@@ -1,0 +1,63 @@
+{
+  "id": 169592681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.11544,28.617901,77.11544,28.617901",
+    "geom:latitude":28.617901,
+    "geom:longitude":77.11544,
+    "iso:country":"IN",
+    "sg:address":"A-32, Mayapuri Industrial Area, Phase-ii,",
+    "sg:city":"New Delhi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 11 2811 5079",
+    "sg:postcode":"110064",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.npsolders.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029189,
+        85672123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZVVq15qcEMWl8x04jQsvS_28.617901_77.115440@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a7b55aa2f1e6f05f69488db20ba34706",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029189,
+            "neighbourhood_id":-1,
+            "region_id":85672123,
+            "venue_id":169592681
+        }
+    ],
+    "wof:id":169592681,
+    "wof:lastmodified":1449034585,
+    "wof:name":"National Products",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.11544,28.617901,77.11544,28.617901],
+  "geometry": {"coordinates":[77.11544,28.617901],"type":"Point"}
+}

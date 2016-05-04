@@ -1,0 +1,64 @@
+{
+  "id": 169549073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.824532,19.124662,72.824532,19.124662",
+    "geom:latitude":19.124662,
+    "geom:longitude":72.824532,
+    "iso:country":"IN",
+    "sg:address":"69, Saheli Nagar,",
+    "sg:city":"Udaipur",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 294 244 0493",
+    "sg:postcode":"313003",
+    "sg:tags":[
+        "granite"
+    ],
+    "sg:website":"http://www.sumatiexports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931475,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A6FbpZ1duL3BkeLVhKhTn_19.124662_72.824532@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"379f29e2d5fc2bf0ec7bac6142ade00a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931475,
+            "region_id":85672171,
+            "venue_id":169549073
+        }
+    ],
+    "wof:id":169549073,
+    "wof:lastmodified":1449033591,
+    "wof:name":"Sumati Exports",
+    "wof:parent_id":85931475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "granite"
+    ]
+},
+  "bbox": [72.824532,19.124662,72.824532,19.124662],
+  "geometry": {"coordinates":[72.824532,19.124662],"type":"Point"}
+}

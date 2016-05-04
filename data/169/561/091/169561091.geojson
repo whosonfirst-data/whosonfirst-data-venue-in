@@ -1,0 +1,64 @@
+{
+  "id": 169561091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.912659,19.123096,72.912659,19.123096",
+    "geom:latitude":19.123096,
+    "geom:longitude":72.912659,
+    "iso:country":"IN",
+    "sg:address":"304, Gateway Plaza, Hira Nandani Gardens, Powai,",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2591 7771",
+    "sg:postcode":"400076",
+    "sg:tags":[
+        "chemicals-additives"
+    ],
+    "sg:website":"http://www.emeraldalchymicus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931519,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45QezwoQpUl85CQiSXZQg8_19.123096_72.912659@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"53f2b67567da79c79470a048b9b5319e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931519,
+            "region_id":85672171,
+            "venue_id":169561091
+        }
+    ],
+    "wof:id":169561091,
+    "wof:lastmodified":1449035019,
+    "wof:name":"Emerald Alchymicus P Ltd",
+    "wof:parent_id":85931519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemicals-additives"
+    ]
+},
+  "bbox": [72.912659,19.123096,72.912659,19.123096],
+  "geometry": {"coordinates":[72.912659,19.123096],"type":"Point"}
+}

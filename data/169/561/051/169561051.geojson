@@ -1,0 +1,65 @@
+{
+  "id": 169561051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.963127,11.012264,76.963127,11.012264",
+    "geom:latitude":11.012264,
+    "geom:longitude":76.963127,
+    "iso:country":"IN",
+    "sg:address":"126, Sastri Road, Ram Nagar,",
+    "sg:city":"Coimbatore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 422 223 1377",
+    "sg:postcode":"641009",
+    "sg:tags":[
+        "coatings-powder",
+        "coating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85783699,
+        85632469,
+        102030495,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74WjGhqZnx2EAvoSwlPMMx_11.012264_76.963127@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"91b1c7b8823e410054bf195b2825abd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030495,
+            "neighbourhood_id":85783699,
+            "region_id":85672245,
+            "venue_id":169561051
+        }
+    ],
+    "wof:id":169561051,
+    "wof:lastmodified":1449035021,
+    "wof:name":"Elpower Engineering Works",
+    "wof:parent_id":85783699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coatings-powder",
+        "coating"
+    ]
+},
+  "bbox": [76.963127,11.012264,76.963127,11.012264],
+  "geometry": {"coordinates":[76.963127,11.012264],"type":"Point"}
+}

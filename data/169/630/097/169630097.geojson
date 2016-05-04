@@ -1,0 +1,71 @@
+{
+  "id": 169630097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.850769,19.101038,72.850769,19.101038",
+    "geom:latitude":19.101038,
+    "geom:longitude":72.850769,
+    "iso:country":"IN",
+    "sg:address":"402, Pushpak Apt, Malviya Road, Vile Parle(e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2613 3066",
+    "sg:tags":[
+        "fine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931483,
+        85632469,
+        102030609,
+        85672171,
+        85931603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1C7tOh2Zs0epzTWkNJzpu0_19.101038_72.850769@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c63f6ab1669deeb4f0a40aeb5da937e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931483,
+            "region_id":85672171,
+            "venue_id":169630097
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931603,
+            "region_id":85672171,
+            "venue_id":169630097
+        }
+    ],
+    "wof:id":169630097,
+    "wof:lastmodified":1449033870,
+    "wof:name":"Sumit Enterprise",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fine"
+    ]
+},
+  "bbox": [72.850769,19.101038,72.850769,19.101038],
+  "geometry": {"coordinates":[72.850769,19.101038],"type":"Point"}
+}

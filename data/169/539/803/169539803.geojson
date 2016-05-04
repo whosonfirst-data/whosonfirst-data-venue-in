@@ -1,0 +1,63 @@
+{
+  "id": 169539803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.573761,12.92785,77.573761,12.92785",
+    "geom:latitude":12.92785,
+    "geom:longitude":77.573761,
+    "iso:country":"IN",
+    "sg:address":"# 2981, 17th Cross, K.r. Road, Banashnkari 2nd Stage,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2676 9609",
+    "sg:postcode":"560070",
+    "sg:tags":[
+        "seed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930887,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LzSVqmElvWTZPJhZdGaac_12.927850_77.573761@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"54c1382b2757ca65dc7271f4ecfaa64b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930887,
+            "region_id":85672165,
+            "venue_id":169539803
+        }
+    ],
+    "wof:id":169539803,
+    "wof:lastmodified":1449036039,
+    "wof:name":"National Agro Seeds",
+    "wof:parent_id":85930887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seed"
+    ]
+},
+  "bbox": [77.573761,12.92785,77.573761,12.92785],
+  "geometry": {"coordinates":[77.573761,12.92785],"type":"Point"}
+}

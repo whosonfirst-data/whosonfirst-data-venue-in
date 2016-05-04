@@ -1,0 +1,65 @@
+{
+  "id": 169550521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.717781,30.7176,76.717781,30.7176",
+    "geom:latitude":30.7176,
+    "geom:longitude":76.717781,
+    "iso:country":"IN",
+    "sg:address":"Plot No. 2006/12, Phase-iv,",
+    "sg:city":"V.u. Nagar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 2692 236 345",
+    "sg:postcode":"388121",
+    "sg:tags":[
+        "packaging",
+        "material"
+    ],
+    "sg:website":"http://www.satyamplastics.com/hifa",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102031103,
+        85672195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Fo8Dn31KuliPRyf1BQn90_30.717600_76.717781@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"20e1e39454c53540e0c5489b69ac80da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102031103,
+            "neighbourhood_id":-1,
+            "region_id":85672195,
+            "venue_id":169550521
+        }
+    ],
+    "wof:id":169550521,
+    "wof:lastmodified":1449034478,
+    "wof:name":"Hifa Plastec",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packaging",
+        "material"
+    ]
+},
+  "bbox": [76.717781,30.7176,76.717781,30.7176],
+  "geometry": {"coordinates":[76.717781,30.7176],"type":"Point"}
+}

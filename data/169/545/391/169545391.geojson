@@ -1,0 +1,65 @@
+{
+  "id": 169545391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.120094,12.929003,80.120094,12.929003",
+    "geom:latitude":12.929003,
+    "geom:longitude":80.120094,
+    "iso:country":"IN",
+    "sg:address":"81b, Trunk Road, T.v.kovil,",
+    "sg:city":"Thiruchirapalli",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 431 309 3646",
+    "sg:postcode":"620005",
+    "sg:tags":[
+        "venetian",
+        "blind"
+    ],
+    "sg:website":"http://www.tthomedecors.co.in",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029537,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dNqlHJgSEq07Z1JaFphhG_12.929003_80.120094@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a9f9ebd3c743a6418b3a95dfb7cf9965",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029537,
+            "neighbourhood_id":-1,
+            "region_id":85672245,
+            "venue_id":169545391
+        }
+    ],
+    "wof:id":169545391,
+    "wof:lastmodified":1449033487,
+    "wof:name":"T T Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venetian",
+        "blind"
+    ]
+},
+  "bbox": [80.120094,12.929003,80.120094,12.929003],
+  "geometry": {"coordinates":[80.120094,12.929003],"type":"Point"}
+}

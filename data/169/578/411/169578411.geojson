@@ -1,0 +1,63 @@
+{
+  "id": 169578411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"80.404175,26.433243,80.404175,26.433243",
+    "geom:latitude":26.433243,
+    "geom:longitude":80.404175,
+    "iso:country":"IN",
+    "sg:address":"1-d, Gajju Purwa, Jajmau,",
+    "sg:city":"Kanpur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 512 246 4420",
+    "sg:postcode":"208010",
+    "sg:tags":[
+        "industrial"
+    ],
+    "sg:website":"http://www.hameedgroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102029855,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aHnQXPPxbl15x3s5qQLYC_26.433243_80.404175@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d63670d0ea12d4502d604586dc81cd99",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102029855,
+            "neighbourhood_id":-1,
+            "region_id":85672205,
+            "venue_id":169578411
+        }
+    ],
+    "wof:id":169578411,
+    "wof:lastmodified":1449033518,
+    "wof:name":"Hameed Son's Exports",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [80.404175,26.433243,80.404175,26.433243],
+  "geometry": {"coordinates":[80.404175,26.433243],"type":"Point"}
+}

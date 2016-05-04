@@ -1,0 +1,66 @@
+{
+  "id": 169579095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.487984,17.406265,78.487984,17.406265",
+    "geom:latitude":17.406265,
+    "geom:longitude":78.487984,
+    "iso:country":"IN",
+    "sg:address":"Plot No-85, Near Ashok Nagar,",
+    "sg:city":"Jalandhar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 181 654 0303",
+    "sg:postcode":"144002",
+    "sg:tags":[
+        "transmission",
+        "belting"
+    ],
+    "sg:website":"http://www.prathamindustries.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930709,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SCzkDgFPVj0JS3zuMvbqz_17.406265_78.487984@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9534e5077c95fba85b39922ea8a83393",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930709,
+            "region_id":85672141,
+            "venue_id":169579095
+        }
+    ],
+    "wof:id":169579095,
+    "wof:lastmodified":1449033741,
+    "wof:name":"Honey Rubber Ind.",
+    "wof:parent_id":85930709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "belting"
+    ]
+},
+  "bbox": [78.487984,17.406265,78.487984,17.406265],
+  "geometry": {"coordinates":[78.487984,17.406265],"type":"Point"}
+}

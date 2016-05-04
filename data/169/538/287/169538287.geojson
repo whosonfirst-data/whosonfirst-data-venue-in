@@ -1,0 +1,68 @@
+{
+  "id": 169538287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.627419,12.971731,77.627419,12.971731",
+    "geom:latitude":12.971731,
+    "geom:longitude":77.627419,
+    "iso:country":"IN",
+    "sg:address":"15/39, 1st Floor, Cambridge Road, Ulsoor,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Musical Instruments",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2554 4034",
+    "sg:postcode":"560008",
+    "sg:tags":[
+        "process",
+        "control",
+        "equipment"
+    ],
+    "sg:website":"http://www.xprsec.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931137,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yhqWQnvOK2GWX3CpBaxtm_12.971731_77.627419@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bab68d1cd32e706df781fde20874ad8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85931137,
+            "region_id":85672165,
+            "venue_id":169538287
+        }
+    ],
+    "wof:id":169538287,
+    "wof:lastmodified":1449033097,
+    "wof:name":"Sytech Engineering Pvt. Ltd",
+    "wof:parent_id":85931137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "process",
+        "control",
+        "equipment"
+    ]
+},
+  "bbox": [77.627419,12.971731,77.627419,12.971731],
+  "geometry": {"coordinates":[77.627419,12.971731],"type":"Point"}
+}

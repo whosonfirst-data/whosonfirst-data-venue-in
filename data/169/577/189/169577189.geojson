@@ -1,0 +1,67 @@
+{
+  "id": 169577189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.478439,17.383114,78.478439,17.383114",
+    "geom:latitude":17.383114,
+    "geom:longitude":78.478439,
+    "iso:country":"IN",
+    "sg:address":"5-1-241, Jambagh,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2461 1432",
+    "sg:postcode":"500095",
+    "sg:tags":[
+        "paint",
+        "product",
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930737,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YWZYgIyBzZdQUEZfqLFCJ_17.383114_78.478439@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b4c42329a46689d4eb1529a73c917fc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930737,
+            "region_id":85672141,
+            "venue_id":169577189
+        }
+    ],
+    "wof:id":169577189,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Gayatri Chemicals",
+    "wof:parent_id":85930737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "product",
+        "allied"
+    ]
+},
+  "bbox": [78.478439,17.383114,78.478439,17.383114],
+  "geometry": {"coordinates":[78.478439,17.383114],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169579889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"73.918343,18.552494,73.918343,18.552494",
+    "geom:latitude":18.552494,
+    "geom:longitude":73.918343,
+    "iso:country":"IN",
+    "sg:address":"38-a, Vadgoan Sheri,",
+    "sg:city":"Pune",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 20 2703 3511",
+    "sg:postcode":"411014",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931283,
+        85632469,
+        102028965,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a8qsgB3HjUSpsVHTBp4jf_18.552494_73.918343@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c882af9e3978f596376893a724d58b19",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102028965,
+            "neighbourhood_id":85931283,
+            "region_id":85672171,
+            "venue_id":169579889
+        }
+    ],
+    "wof:id":169579889,
+    "wof:lastmodified":1449033738,
+    "wof:name":"Inox Air Products Limited",
+    "wof:parent_id":85931283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [73.918343,18.552494,73.918343,18.552494],
+  "geometry": {"coordinates":[73.918343,18.552494],"type":"Point"}
+}

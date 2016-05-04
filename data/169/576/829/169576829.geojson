@@ -1,0 +1,64 @@
+{
+  "id": 169576829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.572899,12.991062,77.572899,12.991062",
+    "geom:latitude":12.991062,
+    "geom:longitude":77.572899,
+    "iso:country":"IN",
+    "sg:address":"1st Floor, No. 10, Sirur Park, 'b' Street, Seshadripuram,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2356 3188",
+    "sg:postcode":"560020",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"http://www.fosrocindia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903915,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07Af3iHvsru63THzzDBvfe_12.991062_77.572899@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"08cf574cc22c24f820f18d2b5c23871d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85903915,
+            "region_id":85672165,
+            "venue_id":169576829
+        }
+    ],
+    "wof:id":169576829,
+    "wof:lastmodified":1449035198,
+    "wof:name":"Fosroc Chemicals (india) Pvt. Ltd.",
+    "wof:parent_id":85903915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [77.572899,12.991062,77.572899,12.991062],
+  "geometry": {"coordinates":[77.572899,12.991062],"type":"Point"}
+}

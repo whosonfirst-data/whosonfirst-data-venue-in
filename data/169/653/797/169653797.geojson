@@ -1,0 +1,68 @@
+{
+  "id": 169653797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.313807,17.433175,78.313807,17.433175",
+    "geom:latitude":17.433175,
+    "geom:longitude":78.313807,
+    "iso:country":"IN",
+    "sg:address":"3-248, Plot No 38 Venkatraonagar, KKP",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"500072",
+    "sg:tags":[
+        "software-development",
+        "outsourcing",
+        "offshore-development",
+        "transcription-manager"
+    ],
+    "sg:website":"http://www.core-software.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56k19n3P2wTc4bQfoHXVXA_17.433175_78.313807@1308163239"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d1b98d0810a88a10207a5a24b0f9bde9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":169653797
+        }
+    ],
+    "wof:id":169653797,
+    "wof:lastmodified":1449032918,
+    "wof:name":"Core Software",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software-development",
+        "outsourcing",
+        "offshore-development",
+        "transcription-manager"
+    ]
+},
+  "bbox": [78.313807,17.433175,78.313807,17.433175],
+  "geometry": {"coordinates":[78.313807,17.433175],"type":"Point"}
+}

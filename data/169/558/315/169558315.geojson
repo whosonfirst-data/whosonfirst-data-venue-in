@@ -1,0 +1,64 @@
+{
+  "id": 169558315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"78.520706,17.403738,78.520706,17.403738",
+    "geom:latitude":17.403738,
+    "geom:longitude":78.520706,
+    "iso:country":"IN",
+    "sg:address":"18/1 & 3, Azamabad,",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2761 7831",
+    "sg:postcode":"500020",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "sg:website":"http://www.biological.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85927613,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FNyEi95ObPfEwK2GyFeym_17.403738_78.520706@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5c1c6e7b99fbb29f8a6e92ff098c13d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85927613,
+            "region_id":85672141,
+            "venue_id":169558315
+        }
+    ],
+    "wof:id":169558315,
+    "wof:lastmodified":1449033582,
+    "wof:name":"Biological E. Ltd.",
+    "wof:parent_id":85927613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [78.520706,17.403738,78.520706,17.403738],
+  "geometry": {"coordinates":[78.520706,17.403738],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169527651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"72.86628,19.125051,72.86628,19.125051",
+    "geom:latitude":19.125051,
+    "geom:longitude":72.86628,
+    "iso:country":"IN",
+    "sg:address":"B/102, Sanskriti Park, Mahakali Caves Rd., Andheri (e),",
+    "sg:city":"Mumbai",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 22 2687 4979",
+    "sg:postcode":"400093",
+    "sg:tags":[
+        "spare",
+        "bicycles",
+        "component"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931515,
+        85632469,
+        102030609,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66xeKwvmclZNLTKuEj7OXb_19.125051_72.866280@1306269785"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2e7cb608792b534ce3aa66dd4503f01e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030609,
+            "neighbourhood_id":85931515,
+            "region_id":85672171,
+            "venue_id":169527651
+        }
+    ],
+    "wof:id":169527651,
+    "wof:lastmodified":1449035277,
+    "wof:name":"Asteroid",
+    "wof:parent_id":85931515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "bicycles",
+        "component"
+    ]
+},
+  "bbox": [72.86628,19.125051,72.86628,19.125051],
+  "geometry": {"coordinates":[72.86628,19.125051],"type":"Point"}
+}

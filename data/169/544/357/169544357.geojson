@@ -1,0 +1,65 @@
+{
+  "id": 169544357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"77.539055,13.01035,77.539055,13.01035",
+    "geom:latitude":13.01035,
+    "geom:longitude":77.539055,
+    "iso:country":"IN",
+    "sg:address":"D-430, 2nd Stage, 1 Peenya Industrial Estate,",
+    "sg:city":"Bangalore",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 80 2836 0760",
+    "sg:postcode":"560058",
+    "sg:tags":[
+        "voltage",
+        "stabilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930919,
+        85632469,
+        102030819,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qmec0pC1wwaii6m95QG6d_13.010350_77.539055@1306269786"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4c5362d75e54f377ecd6edf0c68f7f56",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":102030819,
+            "neighbourhood_id":85930919,
+            "region_id":85672165,
+            "venue_id":169544357
+        }
+    ],
+    "wof:id":169544357,
+    "wof:lastmodified":1449035964,
+    "wof:name":"Aarpee Electronics",
+    "wof:parent_id":85930919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "voltage",
+        "stabilizer"
+    ]
+},
+  "bbox": [77.539055,13.01035,77.539055,13.01035],
+  "geometry": {"coordinates":[77.539055,13.01035],"type":"Point"}
+}
