@@ -2,13 +2,14 @@
   "id": 169574789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.834328,19.078598,72.834328,19.078598",
     "geom:latitude":19.078598,
     "geom:longitude":72.834328,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 65, Linking Road, Santacruz (w)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169574789,
-    "wof:lastmodified":1449032663,
+    "wof:lastmodified":1466288776,
     "wof:name":"Surya Morphy Richards Ltd",
     "wof:parent_id":85931493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.834328,19.078598,72.834328,19.078598],
+  "bbox": [
+    72.834328,
+    19.078598,
+    72.834328,
+    19.078598
+],
   "geometry": {"coordinates":[72.834328,19.078598],"type":"Point"}
 }

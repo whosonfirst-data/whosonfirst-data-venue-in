@@ -2,13 +2,14 @@
   "id": 169557779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.612083,12.918597,77.612083,12.918597",
     "geom:latitude":12.918597,
     "geom:longitude":77.612083,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"First Stage, B.t.m. Layout",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169557779,
-    "wof:lastmodified":1449035035,
+    "wof:lastmodified":1466288726,
     "wof:name":"D-link (india) Ltd",
     "wof:parent_id":85931027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.612083,12.918597,77.612083,12.918597],
+  "bbox": [
+    77.612083,
+    12.918597,
+    77.612083,
+    12.918597
+],
   "geometry": {"coordinates":[77.612083,12.918597],"type":"Point"}
 }

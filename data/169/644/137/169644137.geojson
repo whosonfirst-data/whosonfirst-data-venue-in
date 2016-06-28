@@ -2,13 +2,14 @@
   "id": 169644137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"70.361252,20.933535,70.361252,20.933535",
     "geom:latitude":20.933535,
     "geom:longitude":70.361252,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Junagadh Road,",
     "sg:city":"Dhoraji",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169644137,
-    "wof:lastmodified":1449034578,
+    "wof:lastmodified":1466288844,
     "wof:name":"Vikas Plastic Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [70.361252,20.933535,70.361252,20.933535],
-  "geometry": {"coordinates":[70.361252,20.933535],"type":"Point"}
+  "bbox": [
+    70.361252,
+    20.933535,
+    70.361252,
+    20.933535
+],
+  "geometry": {"coordinates":[70.36125199999999,20.933535],"type":"Point"}
 }

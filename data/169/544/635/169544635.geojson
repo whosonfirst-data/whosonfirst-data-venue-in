@@ -2,13 +2,14 @@
   "id": 169544635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.582878,12.893164,77.582878,12.893164",
     "geom:latitude":12.893164,
     "geom:longitude":77.582878,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"# 19, 7th Phase, Jp Nagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169544635,
-    "wof:lastmodified":1449035962,
+    "wof:lastmodified":1466288879,
     "wof:name":"Protect Sytems",
     "wof:parent_id":85931051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "purifier"
     ]
 },
-  "bbox": [77.582878,12.893164,77.582878,12.893164],
-  "geometry": {"coordinates":[77.582878,12.893164],"type":"Point"}
+  "bbox": [
+    77.582878,
+    12.893164,
+    77.582878,
+    12.893164
+],
+  "geometry": {"coordinates":[77.58287799999999,12.893164],"type":"Point"}
 }

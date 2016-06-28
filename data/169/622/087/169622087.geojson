@@ -2,13 +2,14 @@
   "id": 169622087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.272125,28.568346,77.272125,28.568346",
     "geom:latitude":28.568346,
     "geom:longitude":77.272125,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1-a, Friends Colony,",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169622087,
-    "wof:lastmodified":1449035365,
+    "wof:lastmodified":1466288827,
     "wof:name":"Shri Baba Products",
     "wof:parent_id":85928007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.272125,28.568346,77.272125,28.568346],
+  "bbox": [
+    77.272125,
+    28.568346,
+    77.272125,
+    28.568346
+],
   "geometry": {"coordinates":[77.272125,28.568346],"type":"Point"}
 }

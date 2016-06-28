@@ -2,13 +2,14 @@
   "id": 169571183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.618835,12.93824,77.618835,12.93824",
     "geom:latitude":12.93824,
     "geom:longitude":77.618835,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Feet Road, Koramangla",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169571183,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1466288744,
     "wof:name":"Techno Fort Software Pvt Ltd",
     "wof:parent_id":85930917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.618835,12.93824,77.618835,12.93824],
+  "bbox": [
+    77.618835,
+    12.93824,
+    77.618835,
+    12.93824
+],
   "geometry": {"coordinates":[77.618835,12.93824],"type":"Point"}
 }

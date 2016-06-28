@@ -2,13 +2,14 @@
   "id": 169633633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"79.40937,28.35323,79.40937,28.35323",
     "geom:latitude":28.35323,
     "geom:longitude":79.40937,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Bareilly Road, P.o.modipur,",
     "sg:city":"Rampur",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169633633,
-    "wof:lastmodified":1449035941,
+    "wof:lastmodified":1466288840,
     "wof:name":"Swati Menthol & Allied Chemicals Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [79.40937,28.35323,79.40937,28.35323],
+  "bbox": [
+    79.40937,
+    28.35323,
+    79.40937,
+    28.35323
+],
   "geometry": {"coordinates":[79.40937,28.35323],"type":"Point"}
 }

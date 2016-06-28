@@ -2,13 +2,14 @@
   "id": 169569413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.850861,19.160675,72.850861,19.160675",
     "geom:latitude":19.160675,
     "geom:longitude":72.850861,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sonawala Road, Goregoan (east)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169569413,
-    "wof:lastmodified":1449035828,
+    "wof:lastmodified":1466288749,
     "wof:name":"Asha Dyestuff Industries Pvt Ltd",
     "wof:parent_id":85931563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.850861,19.160675,72.850861,19.160675],
-  "geometry": {"coordinates":[72.850861,19.160675],"type":"Point"}
+  "bbox": [
+    72.850861,
+    19.160675,
+    72.850861,
+    19.160675
+],
+  "geometry": {"coordinates":[72.85086099999999,19.160675],"type":"Point"}
 }

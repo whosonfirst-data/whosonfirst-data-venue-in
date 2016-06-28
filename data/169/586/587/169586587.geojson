@@ -2,13 +2,14 @@
   "id": 169586587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.413673,17.484066,78.413673,17.484066",
     "geom:latitude":17.484066,
     "geom:longitude":78.413673,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Industrial Estate,",
     "sg:city":"Angamaly",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169586587,
-    "wof:lastmodified":1449035575,
+    "wof:lastmodified":1466288789,
     "wof:name":"Malabar Ammonia Pvt. Ltd.",
     "wof:parent_id":85930679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [78.413673,17.484066,78.413673,17.484066],
+  "bbox": [
+    78.413673,
+    17.484066,
+    78.413673,
+    17.484066
+],
   "geometry": {"coordinates":[78.413673,17.484066],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169568687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.350906,22.552536,88.350906,22.552536",
     "geom:latitude":22.552536,
     "geom:longitude":88.350906,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Russel Street",
     "sg:city":"Kolkata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169568687,
-    "wof:lastmodified":1449032609,
+    "wof:lastmodified":1466288762,
     "wof:name":"Sutton & Sons (india) Pvt Ltd",
     "wof:parent_id":85931951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [88.350906,22.552536,88.350906,22.552536],
-  "geometry": {"coordinates":[88.350906,22.552536],"type":"Point"}
+  "bbox": [
+    88.350906,
+    22.552536,
+    88.350906,
+    22.552536
+],
+  "geometry": {"coordinates":[88.35090599999999,22.552536],"type":"Point"}
 }

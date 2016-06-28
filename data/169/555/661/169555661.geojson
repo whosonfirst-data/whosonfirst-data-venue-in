@@ -2,13 +2,14 @@
   "id": 169555661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.302284,28.351597,77.302284,28.351597",
     "geom:latitude":28.351597,
     "geom:longitude":77.302284,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 13, Sector 24",
     "sg:city":"Faridabad",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169555661,
-    "wof:lastmodified":1449035497,
+    "wof:lastmodified":1466288718,
     "wof:name":"Hind Hydraulics & Engineers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.302284,28.351597,77.302284,28.351597],
+  "bbox": [
+    77.302284,
+    28.351597,
+    77.302284,
+    28.351597
+],
   "geometry": {"coordinates":[77.302284,28.351597],"type":"Point"}
 }

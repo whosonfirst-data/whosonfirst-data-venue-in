@@ -2,13 +2,14 @@
   "id": 169576079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"87.302643,22.309549,87.302643,22.309549",
     "geom:latitude":22.309549,
     "geom:longitude":87.302643,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"32-1-201, Bowadara Road,",
     "sg:city":"Vishakapattanam",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169576079,
-    "wof:lastmodified":1449035198,
+    "wof:lastmodified":1466288746,
     "wof:name":"Berger Paints Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "allied"
     ]
 },
-  "bbox": [87.302643,22.309549,87.302643,22.309549],
+  "bbox": [
+    87.302643,
+    22.309549,
+    87.302643,
+    22.309549
+],
   "geometry": {"coordinates":[87.302643,22.309549],"type":"Point"}
 }

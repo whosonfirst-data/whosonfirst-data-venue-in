@@ -2,13 +2,14 @@
   "id": 169531421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.83902,18.951038,72.83902,18.951038",
     "geom:latitude":18.951038,
     "geom:longitude":72.83902,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Office No. 20/21, 178 Sant Tukaram Road, Masjid Bunder (east),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169531421,
-    "wof:lastmodified":1449033475,
+    "wof:lastmodified":1466288858,
     "wof:name":"D. P. Cotton Co.",
     "wof:parent_id":85903919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cotton"
     ]
 },
-  "bbox": [72.83902,18.951038,72.83902,18.951038],
+  "bbox": [
+    72.83902,
+    18.951038,
+    72.83902,
+    18.951038
+],
   "geometry": {"coordinates":[72.83902,18.951038],"type":"Point"}
 }

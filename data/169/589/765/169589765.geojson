@@ -2,13 +2,14 @@
   "id": 169589765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.882332,18.535173,73.882332,18.535173",
     "geom:latitude":18.535173,
     "geom:longitude":73.882332,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Mangaldas Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169589765,
-    "wof:lastmodified":1449034447,
+    "wof:lastmodified":1466288802,
     "wof:name":"Minerva Biogenix Pvt. Ltd.",
     "wof:parent_id":85903913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pharmaceutical"
     ]
 },
-  "bbox": [73.882332,18.535173,73.882332,18.535173],
-  "geometry": {"coordinates":[73.882332,18.535173],"type":"Point"}
+  "bbox": [
+    73.882332,
+    18.535173,
+    73.882332,
+    18.535173
+],
+  "geometry": {"coordinates":[73.88233200000001,18.535173],"type":"Point"}
 }

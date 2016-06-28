@@ -2,13 +2,14 @@
   "id": 169531271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.828629,18.939135,72.828629,18.939135",
     "geom:latitude":18.939135,
     "geom:longitude":72.828629,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"211, Dalamal Chambers, New Marine Lines,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169531271,
-    "wof:lastmodified":1449033473,
+    "wof:lastmodified":1466288857,
     "wof:name":"Dew Cosmetics",
     "wof:parent_id":85931457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accessory"
     ]
 },
-  "bbox": [72.828629,18.939135,72.828629,18.939135],
-  "geometry": {"coordinates":[72.828629,18.939135],"type":"Point"}
+  "bbox": [
+    72.828629,
+    18.939135,
+    72.828629,
+    18.939135
+],
+  "geometry": {"coordinates":[72.82862900000001,18.939135],"type":"Point"}
 }

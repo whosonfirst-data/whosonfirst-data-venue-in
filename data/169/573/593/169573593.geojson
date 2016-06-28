@@ -2,13 +2,14 @@
   "id": 169573593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.831665,19.139305,72.831665,19.139305",
     "geom:latitude":19.139305,
     "geom:longitude":72.831665,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"New Link Road, Oshiwara, Andheri (w)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169573593,
-    "wof:lastmodified":1449035116,
+    "wof:lastmodified":1466288760,
     "wof:name":"Jupiter Dyes Pvt Ltd",
     "wof:parent_id":85931475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.831665,19.139305,72.831665,19.139305],
+  "bbox": [
+    72.831665,
+    19.139305,
+    72.831665,
+    19.139305
+],
   "geometry": {"coordinates":[72.831665,19.139305],"type":"Point"}
 }

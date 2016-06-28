@@ -2,13 +2,14 @@
   "id": 169639787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.199951,21.332533,76.199951,21.332533",
     "geom:latitude":21.332533,
     "geom:longitude":76.199951,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 57/1, Lalbagh Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169639787,
-    "wof:lastmodified":1449035951,
+    "wof:lastmodified":1466288849,
     "wof:name":"Uniserve Polymers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [76.199951,21.332533,76.199951,21.332533],
+  "bbox": [
+    76.199951,
+    21.332533,
+    76.199951,
+    21.332533
+],
   "geometry": {"coordinates":[76.199951,21.332533],"type":"Point"}
 }

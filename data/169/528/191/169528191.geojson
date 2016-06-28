@@ -2,13 +2,14 @@
   "id": 169528191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.826286,18.956366,72.826286,18.956366",
     "geom:latitude":18.956366,
     "geom:longitude":72.826286,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"40, 2nd Carpenter Street, Near C.p.tank,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169528191,
-    "wof:lastmodified":1449033570,
+    "wof:lastmodified":1466288680,
     "wof:name":"Navjivan Metal Corporation",
     "wof:parent_id":85931435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "brass"
     ]
 },
-  "bbox": [72.826286,18.956366,72.826286,18.956366],
+  "bbox": [
+    72.826286,
+    18.956366,
+    72.826286,
+    18.956366
+],
   "geometry": {"coordinates":[72.826286,18.956366],"type":"Point"}
 }

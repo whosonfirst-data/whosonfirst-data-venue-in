@@ -2,13 +2,14 @@
   "id": 169567307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.882355,30.334635,76.882355,30.334635",
     "geom:latitude":30.334635,
     "geom:longitude":76.882355,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Industrial Estate",
     "sg:city":"Ambala Cantt.",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169567307,
-    "wof:lastmodified":1449035992,
+    "wof:lastmodified":1466288733,
     "wof:name":"Labex K K International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [76.882355,30.334635,76.882355,30.334635],
+  "bbox": [
+    76.882355,
+    30.334635,
+    76.882355,
+    30.334635
+],
   "geometry": {"coordinates":[76.882355,30.334635],"type":"Point"}
 }

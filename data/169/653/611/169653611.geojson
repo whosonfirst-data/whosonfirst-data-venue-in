@@ -2,13 +2,14 @@
   "id": 169653611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.307313,28.586741,77.307313,28.586741",
     "geom:latitude":28.586741,
     "geom:longitude":77.307313,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"A 14 Sector 7",
     "sg:city":"Noida",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169653611,
-    "wof:lastmodified":1449032917,
+    "wof:lastmodified":1466288855,
     "wof:name":"Mosaic ITES Services",
     "wof:parent_id":85928529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "seo-firms-india"
     ]
 },
-  "bbox": [77.307313,28.586741,77.307313,28.586741],
-  "geometry": {"coordinates":[77.307313,28.586741],"type":"Point"}
+  "bbox": [
+    77.307313,
+    28.586741,
+    77.307313,
+    28.586741
+],
+  "geometry": {"coordinates":[77.30731299999999,28.586741],"type":"Point"}
 }

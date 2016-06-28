@@ -2,13 +2,14 @@
   "id": 169566151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.395798,28.538206,77.395798,28.538206",
     "geom:latitude":28.538206,
     "geom:longitude":77.395798,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Nepz",
     "sg:city":"Noida",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169566151,
-    "wof:lastmodified":1449032751,
+    "wof:lastmodified":1466288719,
     "wof:name":"Ess Ess International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.395798,28.538206,77.395798,28.538206],
+  "bbox": [
+    77.395798,
+    28.538206,
+    77.395798,
+    28.538206
+],
   "geometry": {"coordinates":[77.395798,28.538206],"type":"Point"}
 }

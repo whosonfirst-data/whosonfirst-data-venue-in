@@ -2,13 +2,14 @@
   "id": 169586237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.459564,17.387142,78.459564,17.387142",
     "geom:latitude":17.387142,
     "geom:longitude":78.459564,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"C-369, Mahesh Nager,",
     "sg:city":"Jaipur",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169586237,
-    "wof:lastmodified":1449035572,
+    "wof:lastmodified":1466288783,
     "wof:name":"Mahaveer Container Corporation",
     "wof:parent_id":85930739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [78.459564,17.387142,78.459564,17.387142],
+  "bbox": [
+    78.459564,
+    17.387142,
+    78.459564,
+    17.387142
+],
   "geometry": {"coordinates":[78.459564,17.387142],"type":"Point"}
 }

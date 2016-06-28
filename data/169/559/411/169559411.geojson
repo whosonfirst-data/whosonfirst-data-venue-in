@@ -2,13 +2,14 @@
   "id": 169559411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.302666,28.648165,77.302666,28.648165",
     "geom:latitude":28.648165,
     "geom:longitude":77.302666,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Community Centre, Preet Vihar",
     "sg:city":"Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169559411,
-    "wof:lastmodified":1449035237,
+    "wof:lastmodified":1466288727,
     "wof:name":"Paras Electronics",
     "wof:parent_id":85928573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.302666,28.648165,77.302666,28.648165],
+  "bbox": [
+    77.302666,
+    28.648165,
+    77.302666,
+    28.648165
+],
   "geometry": {"coordinates":[77.302666,28.648165],"type":"Point"}
 }

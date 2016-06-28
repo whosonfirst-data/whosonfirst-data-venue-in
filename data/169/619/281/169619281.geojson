@@ -2,13 +2,14 @@
   "id": 169619281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.405762,30.409376,76.405762,30.409376",
     "geom:latitude":30.409376,
     "geom:longitude":76.405762,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sirhind Road,",
     "sg:city":"Patiala",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169619281,
-    "wof:lastmodified":1449033283,
+    "wof:lastmodified":1466288824,
     "wof:name":"Shant Agro Mech. Belts (p) Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "belting"
     ]
 },
-  "bbox": [76.405762,30.409376,76.405762,30.409376],
+  "bbox": [
+    76.405762,
+    30.409376,
+    76.405762,
+    30.409376
+],
   "geometry": {"coordinates":[76.405762,30.409376],"type":"Point"}
 }

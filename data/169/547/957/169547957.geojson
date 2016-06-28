@@ -2,13 +2,14 @@
   "id": 169547957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.547226,12.984525,77.547226,12.984525",
     "geom:latitude":12.984525,
     "geom:longitude":77.547226,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"424, Annapoorna Layout, Gandhinagar,",
     "sg:city":"Tirupur",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169547957,
-    "wof:lastmodified":1449033008,
+    "wof:lastmodified":1466288683,
     "wof:name":"Vinny International",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woven"
     ]
 },
-  "bbox": [77.547226,12.984525,77.547226,12.984525],
-  "geometry": {"coordinates":[77.547226,12.984525],"type":"Point"}
+  "bbox": [
+    77.547226,
+    12.984525,
+    77.547226,
+    12.984525
+],
+  "geometry": {"coordinates":[77.54722599999999,12.984525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169580757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.429359,22.590101,88.429359,22.590101",
     "geom:latitude":22.590101,
     "geom:longitude":88.429359,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Aj-291, Salt Lake City,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169580757,
-    "wof:lastmodified":1449034915,
+    "wof:lastmodified":1466288808,
     "wof:name":"Jenith Rubber Industries",
     "wof:parent_id":85932011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [88.429359,22.590101,88.429359,22.590101],
-  "geometry": {"coordinates":[88.429359,22.590101],"type":"Point"}
+  "bbox": [
+    88.429359,
+    22.590101,
+    88.429359,
+    22.590101
+],
+  "geometry": {"coordinates":[88.42935900000001,22.590101],"type":"Point"}
 }

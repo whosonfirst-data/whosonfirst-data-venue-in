@@ -2,13 +2,14 @@
   "id": 169533839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.843079,19.179806,72.843079,19.179806",
     "geom:latitude":19.179806,
     "geom:longitude":72.843079,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"35-a/1, Bombay Talkies Compound, Malad (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169533839,
-    "wof:lastmodified":1449032642,
+    "wof:lastmodified":1466288869,
     "wof:name":"Anita Enterprises",
     "wof:parent_id":85931619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "dy"
     ]
 },
-  "bbox": [72.843079,19.179806,72.843079,19.179806],
+  "bbox": [
+    72.843079,
+    19.179806,
+    72.843079,
+    19.179806
+],
   "geometry": {"coordinates":[72.843079,19.179806],"type":"Point"}
 }

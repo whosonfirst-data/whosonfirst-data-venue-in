@@ -2,13 +2,14 @@
   "id": 169539781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"74.825394,16.162796,74.825394,16.162796",
     "geom:latitude":16.162796,
     "geom:longitude":74.825394,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"18, House, I B Cross, R.m.v. Extn.,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169539781,
-    "wof:lastmodified":1449036037,
+    "wof:lastmodified":1466288654,
     "wof:name":"Exim Seeds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seed"
     ]
 },
-  "bbox": [74.825394,16.162796,74.825394,16.162796],
+  "bbox": [
+    74.825394,
+    16.162796,
+    74.825394,
+    16.162796
+],
   "geometry": {"coordinates":[74.825394,16.162796],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169544209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.726486,12.989101,77.726486,12.989101",
     "geom:latitude":12.989101,
     "geom:longitude":77.726486,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No.4, Epip, Whitefield,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169544209,
-    "wof:lastmodified":1449035963,
+    "wof:lastmodified":1466288648,
     "wof:name":"Flowserve Controls India Ltd.",
     "wof:parent_id":85931165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valve"
     ]
 },
-  "bbox": [77.726486,12.989101,77.726486,12.989101],
-  "geometry": {"coordinates":[77.726486,12.989101],"type":"Point"}
+  "bbox": [
+    77.726486,
+    12.989101,
+    77.726486,
+    12.989101
+],
+  "geometry": {"coordinates":[77.72648599999999,12.989101],"type":"Point"}
 }

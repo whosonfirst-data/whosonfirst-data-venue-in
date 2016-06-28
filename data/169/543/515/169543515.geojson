@@ -2,13 +2,14 @@
   "id": 169543515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.619621,13.025422,77.619621,13.025422",
     "geom:latitude":13.025422,
     "geom:longitude":77.619621,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"# 33/1, N.t.y. Layout, Mysore Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169543515,
-    "wof:lastmodified":1449033334,
+    "wof:lastmodified":1466288661,
     "wof:name":"Sri Ganesh Timber Co.",
     "wof:parent_id":85931099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "timber"
     ]
 },
-  "bbox": [77.619621,13.025422,77.619621,13.025422],
+  "bbox": [
+    77.619621,
+    13.025422,
+    77.619621,
+    13.025422
+],
   "geometry": {"coordinates":[77.619621,13.025422],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169576531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.458725,17.441931,78.458725,17.441931",
     "geom:latitude":17.441931,
     "geom:longitude":78.458725,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"140, Govind Building, S.g. Marg,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169576531,
-    "wof:lastmodified":1449035195,
+    "wof:lastmodified":1466288761,
     "wof:name":"Excigen",
     "wof:parent_id":85930831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "raw"
     ]
 },
-  "bbox": [78.458725,17.441931,78.458725,17.441931],
+  "bbox": [
+    78.458725,
+    17.441931,
+    78.458725,
+    17.441931
+],
   "geometry": {"coordinates":[78.458725,17.441931],"type":"Point"}
 }

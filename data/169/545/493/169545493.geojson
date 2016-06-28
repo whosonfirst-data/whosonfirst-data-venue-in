@@ -2,13 +2,14 @@
   "id": 169545493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.293106,9.910691,76.293106,9.910691",
     "geom:latitude":9.910691,
     "geom:longitude":76.293106,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Kumaramangalam P.o.,",
     "sg:city":"Thodupuzha",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169545493,
-    "wof:lastmodified":1449033486,
+    "wof:lastmodified":1466288659,
     "wof:name":"Toyo Rubber",
     "wof:parent_id":85783591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "moulded"
     ]
 },
-  "bbox": [76.293106,9.910691,76.293106,9.910691],
-  "geometry": {"coordinates":[76.293106,9.910691],"type":"Point"}
+  "bbox": [
+    76.293106,
+    9.910691,
+    76.293106,
+    9.910691
+],
+  "geometry": {"coordinates":[76.29310599999999,9.910691],"type":"Point"}
 }

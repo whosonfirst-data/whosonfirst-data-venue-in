@@ -2,13 +2,14 @@
   "id": 169610635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.119865,28.62533,77.119865,28.62533",
     "geom:latitude":28.62533,
     "geom:longitude":77.119865,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B-93, Phase-i, Mayapuri,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169610635,
-    "wof:lastmodified":1449035908,
+    "wof:lastmodified":1466288824,
     "wof:name":"Reino Industrial Organics Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.119865,28.62533,77.119865,28.62533],
+  "bbox": [
+    77.119865,
+    28.62533,
+    77.119865,
+    28.62533
+],
   "geometry": {"coordinates":[77.119865,28.62533],"type":"Point"}
 }

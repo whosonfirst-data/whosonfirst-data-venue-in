@@ -2,13 +2,14 @@
   "id": 169529717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.814407,18.967148,72.814407,18.967148",
     "geom:latitude":18.967148,
     "geom:longitude":72.814407,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"22, Dun Shopping Centre, 225, Tardeo Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169529717,
-    "wof:lastmodified":1449034112,
+    "wof:lastmodified":1466288699,
     "wof:name":"Prithvi Raj Bio Chemicals Pvt. Ltd.",
     "wof:parent_id":85903971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [72.814407,18.967148,72.814407,18.967148],
+  "bbox": [
+    72.814407,
+    18.967148,
+    72.814407,
+    18.967148
+],
   "geometry": {"coordinates":[72.814407,18.967148],"type":"Point"}
 }

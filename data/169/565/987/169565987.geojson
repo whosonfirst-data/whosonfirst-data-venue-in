@@ -2,13 +2,14 @@
   "id": 169565987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.85672,19.111103,72.85672,19.111103",
     "geom:latitude":19.111103,
     "geom:longitude":72.85672,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Chakala, Andheri (east)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169565987,
-    "wof:lastmodified":1449035664,
+    "wof:lastmodified":1466288726,
     "wof:name":"Power Linkers",
     "wof:parent_id":85931483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.85672,19.111103,72.85672,19.111103],
+  "bbox": [
+    72.85672,
+    19.111103,
+    72.85672,
+    19.111103
+],
   "geometry": {"coordinates":[72.85672,19.111103],"type":"Point"}
 }

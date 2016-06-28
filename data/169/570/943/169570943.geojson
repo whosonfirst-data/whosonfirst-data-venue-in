@@ -2,13 +2,14 @@
   "id": 169570943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.629272,12.933542,77.629272,12.933542",
     "geom:latitude":12.933542,
     "geom:longitude":77.629272,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"4th Block, Koramangala",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169570943,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466288775,
     "wof:name":"Educomp Datamatics Ltd",
     "wof:parent_id":85931041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.629272,12.933542,77.629272,12.933542],
+  "bbox": [
+    77.629272,
+    12.933542,
+    77.629272,
+    12.933542
+],
   "geometry": {"coordinates":[77.629272,12.933542],"type":"Point"}
 }

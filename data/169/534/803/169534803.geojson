@@ -2,13 +2,14 @@
   "id": 169534803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.833,18.928308,72.833,18.928308",
     "geom:latitude":18.928308,
     "geom:longitude":72.833,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"407, Commerce House, 140, Nagindas Master Road, Fort,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169534803,
-    "wof:lastmodified":1449033553,
+    "wof:lastmodified":1466288638,
     "wof:name":"Bharat Electronics & Electricals",
     "wof:parent_id":85903853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [72.833,18.928308,72.833,18.928308],
+  "bbox": [
+    72.833,
+    18.928308,
+    72.833,
+    18.928308
+],
   "geometry": {"coordinates":[72.833,18.928308],"type":"Point"}
 }

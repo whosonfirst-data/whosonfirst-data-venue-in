@@ -2,13 +2,14 @@
   "id": 169538951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.594513,12.887074,77.594513,12.887074",
     "geom:latitude":12.887074,
     "geom:longitude":77.594513,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"17/3, Arakere, Bannerghatta Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169538951,
-    "wof:lastmodified":1449033098,
+    "wof:lastmodified":1466288675,
     "wof:name":"Easun Reyrolle Ltd.",
     "wof:parent_id":85931047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "relay"
     ]
 },
-  "bbox": [77.594513,12.887074,77.594513,12.887074],
-  "geometry": {"coordinates":[77.594513,12.887074],"type":"Point"}
+  "bbox": [
+    77.594513,
+    12.887074,
+    77.594513,
+    12.887074
+],
+  "geometry": {"coordinates":[77.59451300000001,12.887074],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169529217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.822823,19.006264,72.822823,19.006264",
     "geom:latitude":19.006264,
     "geom:longitude":72.822823,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"130, Pandurang Marg, Worli,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169529217,
-    "wof:lastmodified":1449034115,
+    "wof:lastmodified":1466288693,
     "wof:name":"Siemens Building Technologies Pvt. Ltd.",
     "wof:parent_id":85903999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surveillance"
     ]
 },
-  "bbox": [72.822823,19.006264,72.822823,19.006264],
+  "bbox": [
+    72.822823,
+    19.006264,
+    72.822823,
+    19.006264
+],
   "geometry": {"coordinates":[72.822823,19.006264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169541653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.560394,13.006784,77.560394,13.006784",
     "geom:latitude":13.006784,
     "geom:longitude":77.560394,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"4215, First Main Road, Subramanyanagar,  P.o. Box 2139,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169541653,
-    "wof:lastmodified":1449033039,
+    "wof:lastmodified":1466288668,
     "wof:name":"Electro Systems Associates Pvt. Ltd.",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "software"
     ]
 },
-  "bbox": [77.560394,13.006784,77.560394,13.006784],
+  "bbox": [
+    77.560394,
+    13.006784,
+    77.560394,
+    13.006784
+],
   "geometry": {"coordinates":[77.560394,13.006784],"type":"Point"}
 }

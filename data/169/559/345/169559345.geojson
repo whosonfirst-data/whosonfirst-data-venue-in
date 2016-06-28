@@ -2,13 +2,14 @@
   "id": 169559345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.184959,13.108692,80.184959,13.108692",
     "geom:latitude":13.108692,
     "geom:longitude":80.184959,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 23/636, 27th Street, Korattur,",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169559345,
-    "wof:lastmodified":1449035239,
+    "wof:lastmodified":1466288721,
     "wof:name":"Chinnu Exports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.184959,13.108692,80.184959,13.108692],
-  "geometry": {"coordinates":[80.184959,13.108692],"type":"Point"}
+  "bbox": [
+    80.184959,
+    13.108692,
+    80.184959,
+    13.108692
+],
+  "geometry": {"coordinates":[80.18495900000001,13.108692],"type":"Point"}
 }

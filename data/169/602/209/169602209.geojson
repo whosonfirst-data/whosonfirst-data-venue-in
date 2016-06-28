@@ -2,13 +2,14 @@
   "id": 169602209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.023567,19.070747,73.023567,19.070747",
     "geom:latitude":19.070747,
     "geom:longitude":73.023567,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"W-102d, Midc, Khairne,",
     "sg:city":"Thane",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169602209,
-    "wof:lastmodified":1449034230,
+    "wof:lastmodified":1466288811,
     "wof:name":"Polyrub Extrusions (india)",
     "wof:parent_id":85931599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [73.023567,19.070747,73.023567,19.070747],
+  "bbox": [
+    73.023567,
+    19.070747,
+    73.023567,
+    19.070747
+],
   "geometry": {"coordinates":[73.023567,19.070747],"type":"Point"}
 }

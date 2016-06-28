@@ -2,13 +2,14 @@
   "id": 169580877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.862694,19.044937,72.862694,19.044937",
     "geom:latitude":19.044937,
     "geom:longitude":72.862694,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"8th Floor, Laxmi Nagar, Tower Bandra Kurla Complex, Bandra (east),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169580877,
-    "wof:lastmodified":1449034914,
+    "wof:lastmodified":1466288813,
     "wof:name":"Johanson Diversey India Pvt. Ltd.",
     "wof:parent_id":85903847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [72.862694,19.044937,72.862694,19.044937],
+  "bbox": [
+    72.862694,
+    19.044937,
+    72.862694,
+    19.044937
+],
   "geometry": {"coordinates":[72.862694,19.044937],"type":"Point"}
 }

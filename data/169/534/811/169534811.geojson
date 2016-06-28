@@ -2,13 +2,14 @@
   "id": 169534811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.834541,19.082394,72.834541,19.082394",
     "geom:latitude":19.082394,
     "geom:longitude":72.834541,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Off Linking Road, Malad (west),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169534811,
-    "wof:lastmodified":1449033548,
+    "wof:lastmodified":1466288638,
     "wof:name":"Intrax Systems Pvt. Ltd.",
     "wof:parent_id":85931575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [72.834541,19.082394,72.834541,19.082394],
+  "bbox": [
+    72.834541,
+    19.082394,
+    72.834541,
+    19.082394
+],
   "geometry": {"coordinates":[72.834541,19.082394],"type":"Point"}
 }

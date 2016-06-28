@@ -2,13 +2,14 @@
   "id": 169561779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.106483,28.532835,77.106483,28.532835",
     "geom:latitude":28.532835,
     "geom:longitude":77.106483,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Mehrauli Gurgoan Road",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169561779,
-    "wof:lastmodified":1449035019,
+    "wof:lastmodified":1466288730,
     "wof:name":"Sarna And Associates Pvt Ltd",
     "wof:parent_id":85928171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.106483,28.532835,77.106483,28.532835],
+  "bbox": [
+    77.106483,
+    28.532835,
+    77.106483,
+    28.532835
+],
   "geometry": {"coordinates":[77.106483,28.532835],"type":"Point"}
 }

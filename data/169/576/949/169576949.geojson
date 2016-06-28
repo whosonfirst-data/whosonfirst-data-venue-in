@@ -2,13 +2,14 @@
   "id": 169576949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.876801,19.055882,72.876801,19.055882",
     "geom:latitude":19.055882,
     "geom:longitude":72.876801,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit No.7/8, Building No.8, Jogani Industrial Complex, Chunabhatti,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169576949,
-    "wof:lastmodified":1449035197,
+    "wof:lastmodified":1466288778,
     "wof:name":"G. K. Industries",
     "wof:parent_id":85903847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "allied"
     ]
 },
-  "bbox": [72.876801,19.055882,72.876801,19.055882],
+  "bbox": [
+    72.876801,
+    19.055882,
+    72.876801,
+    19.055882
+],
   "geometry": {"coordinates":[72.876801,19.055882],"type":"Point"}
 }

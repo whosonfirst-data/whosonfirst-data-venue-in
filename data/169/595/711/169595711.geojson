@@ -2,13 +2,14 @@
   "id": 169595711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.462929,17.399469,78.462929,17.399469",
     "geom:latitude":17.399469,
     "geom:longitude":78.462929,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"504, Bharat House, 317, S.b.s. Road, Fort,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169595711,
-    "wof:lastmodified":1449035638,
+    "wof:lastmodified":1466288810,
     "wof:name":"Ocean Links",
     "wof:parent_id":85930765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [78.462929,17.399469,78.462929,17.399469],
+  "bbox": [
+    78.462929,
+    17.399469,
+    78.462929,
+    17.399469
+],
   "geometry": {"coordinates":[78.462929,17.399469],"type":"Point"}
 }

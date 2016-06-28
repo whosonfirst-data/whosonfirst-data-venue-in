@@ -2,13 +2,14 @@
   "id": 169583201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.308693,28.584785,77.308693,28.584785",
     "geom:latitude":28.584785,
     "geom:longitude":77.308693,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Udyog Marg,",
     "sg:city":"Kota",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169583201,
-    "wof:lastmodified":1449035269,
+    "wof:lastmodified":1466288783,
     "wof:name":"Kota Oxygen Pvt. Ltd.",
     "wof:parent_id":85928529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [77.308693,28.584785,77.308693,28.584785],
-  "geometry": {"coordinates":[77.308693,28.584785],"type":"Point"}
+  "bbox": [
+    77.308693,
+    28.584785,
+    77.308693,
+    28.584785
+],
+  "geometry": {"coordinates":[77.30869300000001,28.584785],"type":"Point"}
 }

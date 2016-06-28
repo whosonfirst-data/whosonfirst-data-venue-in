@@ -2,13 +2,14 @@
   "id": 169540421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.579018,12.969014,77.579018,12.969014",
     "geom:latitude":12.969014,
     "geom:longitude":77.579018,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"560 Avenue Rd., Chickpet,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169540421,
-    "wof:lastmodified":1449033976,
+    "wof:lastmodified":1466288655,
     "wof:name":"Sirigiri Silks",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "silk"
     ]
 },
-  "bbox": [77.579018,12.969014,77.579018,12.969014],
+  "bbox": [
+    77.579018,
+    12.969014,
+    77.579018,
+    12.969014
+],
   "geometry": {"coordinates":[77.579018,12.969014],"type":"Point"}
 }

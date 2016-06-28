@@ -2,13 +2,14 @@
   "id": 169634629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.450333,17.414526,78.450333,17.414526",
     "geom:latitude":17.414526,
     "geom:longitude":78.450333,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"8-2-594/1/1, Banjara Hills, Road No.1, Opp. Taj Krishna Hotel,",
     "sg:city":"Hyderabad",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169634629,
-    "wof:lastmodified":1449034258,
+    "wof:lastmodified":1466288840,
     "wof:name":"Techno India Enterprises",
     "wof:parent_id":85930765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [78.450333,17.414526,78.450333,17.414526],
+  "bbox": [
+    78.450333,
+    17.414526,
+    78.450333,
+    17.414526
+],
   "geometry": {"coordinates":[78.450333,17.414526],"type":"Point"}
 }

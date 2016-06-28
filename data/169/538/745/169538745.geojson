@@ -2,13 +2,14 @@
   "id": 169538745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.622559,12.930661,77.622559,12.930661",
     "geom:latitude":12.930661,
     "geom:longitude":77.622559,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#600, Koramangal Village, Kormangla,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169538745,
-    "wof:lastmodified":1449033100,
+    "wof:lastmodified":1466288666,
     "wof:name":"Rokhein International Pvt. Ltd.",
     "wof:parent_id":85930917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.622559,12.930661,77.622559,12.930661],
+  "bbox": [
+    77.622559,
+    12.930661,
+    77.622559,
+    12.930661
+],
   "geometry": {"coordinates":[77.622559,12.930661],"type":"Point"}
 }

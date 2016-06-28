@@ -2,13 +2,14 @@
   "id": 169601411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.357742,22.542849,88.357742,22.542849",
     "geom:latitude":22.542849,
     "geom:longitude":88.357742,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"8/2, Louden Street,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169601411,
-    "wof:lastmodified":1449034147,
+    "wof:lastmodified":1466288816,
     "wof:name":"Piyanshu Chemicals Pvt. Ltd.",
     "wof:parent_id":85931935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [88.357742,22.542849,88.357742,22.542849],
+  "bbox": [
+    88.357742,
+    22.542849,
+    88.357742,
+    22.542849
+],
   "geometry": {"coordinates":[88.357742,22.542849],"type":"Point"}
 }

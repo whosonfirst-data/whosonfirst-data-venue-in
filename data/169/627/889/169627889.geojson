@@ -2,13 +2,14 @@
   "id": 169627889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.583755,12.961333,77.583755,12.961333",
     "geom:latitude":12.961333,
     "geom:longitude":77.583755,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"31-d, Shivalli,",
     "sg:city":"Manipal",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169627889,
-    "wof:lastmodified":1449036039,
+    "wof:lastmodified":1466288838,
     "wof:name":"Sri Mahalakshmi Essential Oil And Allied Industries",
     "wof:parent_id":85930903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [77.583755,12.961333,77.583755,12.961333],
+  "bbox": [
+    77.583755,
+    12.961333,
+    77.583755,
+    12.961333
+],
   "geometry": {"coordinates":[77.583755,12.961333],"type":"Point"}
 }

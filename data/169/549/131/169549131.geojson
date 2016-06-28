@@ -2,13 +2,14 @@
   "id": 169549131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.692757,24.575169,73.692757,24.575169",
     "geom:latitude":24.575169,
     "geom:longitude":73.692757,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Lake Palace Road,",
     "sg:city":"Udaipur",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169549131,
-    "wof:lastmodified":1449033590,
+    "wof:lastmodified":1466288672,
     "wof:name":"Brahma Arts & Textiles",
     "wof:parent_id":85934005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handicraft"
     ]
 },
-  "bbox": [73.692757,24.575169,73.692757,24.575169],
+  "bbox": [
+    73.692757,
+    24.575169,
+    73.692757,
+    24.575169
+],
   "geometry": {"coordinates":[73.692757,24.575169],"type":"Point"}
 }

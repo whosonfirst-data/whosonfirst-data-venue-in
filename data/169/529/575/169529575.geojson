@@ -2,13 +2,14 @@
   "id": 169529575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.8246,18.944031,72.8246,18.944031",
     "geom:latitude":18.944031,
     "geom:longitude":72.8246,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"308a, Niranjan Bldg., Marine Lines West,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169529575,
-    "wof:lastmodified":1449034114,
+    "wof:lastmodified":1466288698,
     "wof:name":"Wecaba Chemicals",
     "wof:parent_id":85903889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [72.8246,18.944031,72.8246,18.944031],
+  "bbox": [
+    72.8246,
+    18.944031,
+    72.8246,
+    18.944031
+],
   "geometry": {"coordinates":[72.8246,18.944031],"type":"Point"}
 }

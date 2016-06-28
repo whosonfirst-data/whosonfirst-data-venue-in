@@ -2,13 +2,14 @@
   "id": 169625983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.621216,13.021733,77.621216,13.021733",
     "geom:latitude":13.021733,
     "geom:longitude":77.621216,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 145, Vinayaka Temple Road, 1st Floor, K.g. Halli,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169625983,
-    "wof:lastmodified":1449036025,
+    "wof:lastmodified":1466288839,
     "wof:name":"Sony Paints & Chemicals",
     "wof:parent_id":85931099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "allied"
     ]
 },
-  "bbox": [77.621216,13.021733,77.621216,13.021733],
+  "bbox": [
+    77.621216,
+    13.021733,
+    77.621216,
+    13.021733
+],
   "geometry": {"coordinates":[77.621216,13.021733],"type":"Point"}
 }

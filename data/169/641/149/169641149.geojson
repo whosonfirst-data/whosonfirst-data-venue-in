@@ -2,13 +2,14 @@
   "id": 169641149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.270088,13.084654,80.270088,13.084654",
     "geom:latitude":13.084654,
     "geom:longitude":80.270088,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 43/21, Vepery High Road, Periamet,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169641149,
-    "wof:lastmodified":1449035169,
+    "wof:lastmodified":1466288842,
     "wof:name":"Valmax",
     "wof:parent_id":85931751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [80.270088,13.084654,80.270088,13.084654],
+  "bbox": [
+    80.270088,
+    13.084654,
+    80.270088,
+    13.084654
+],
   "geometry": {"coordinates":[80.270088,13.084654],"type":"Point"}
 }

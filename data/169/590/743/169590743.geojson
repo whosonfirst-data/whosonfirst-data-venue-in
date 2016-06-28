@@ -2,13 +2,14 @@
   "id": 169590743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.545273,13.044021,77.545273,13.044021",
     "geom:latitude":13.044021,
     "geom:longitude":77.545273,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 302, V.p. Road, Jalahalli,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169590743,
-    "wof:lastmodified":1449034656,
+    "wof:lastmodified":1466288809,
     "wof:name":"Monarch Self Adhesive Tapes & Foams (i) Pvt. Ltd.",
     "wof:parent_id":85903877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.545273,13.044021,77.545273,13.044021],
-  "geometry": {"coordinates":[77.545273,13.044021],"type":"Point"}
+  "bbox": [
+    77.545273,
+    13.044021,
+    77.545273,
+    13.044021
+],
+  "geometry": {"coordinates":[77.54527299999999,13.044021],"type":"Point"}
 }

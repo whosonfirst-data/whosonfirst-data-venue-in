@@ -2,13 +2,14 @@
   "id": 169533769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.852028,19.159634,72.852028,19.159634",
     "geom:latitude":19.159634,
     "geom:longitude":72.852028,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Near R. S. Industrial Estate, Sonawala Cross Road, No. 2, Goregaon (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169533769,
-    "wof:lastmodified":1449032643,
+    "wof:lastmodified":1466288868,
     "wof:name":"Supercast Founders & Engineers",
     "wof:parent_id":85931563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "casting"
     ]
 },
-  "bbox": [72.852028,19.159634,72.852028,19.159634],
+  "bbox": [
+    72.852028,
+    19.159634,
+    72.852028,
+    19.159634
+],
   "geometry": {"coordinates":[72.852028,19.159634],"type":"Point"}
 }

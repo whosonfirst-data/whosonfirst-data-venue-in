@@ -2,13 +2,14 @@
   "id": 169549003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.91433,19.049887,72.91433,19.049887",
     "geom:latitude":19.049887,
     "geom:longitude":72.91433,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1-a, City Station Road,",
     "sg:city":"Udaipur",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169549003,
-    "wof:lastmodified":1449033593,
+    "wof:lastmodified":1466288879,
     "wof:name":"Sunraj Diamond Tools",
     "wof:parent_id":85931557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "diamond"
     ]
 },
-  "bbox": [72.91433,19.049887,72.91433,19.049887],
-  "geometry": {"coordinates":[72.91433,19.049887],"type":"Point"}
+  "bbox": [
+    72.91433,
+    19.049887,
+    72.91433,
+    19.049887
+],
+  "geometry": {"coordinates":[72.91433000000001,19.049887],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169556469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.245186,28.563995,77.245186,28.563995",
     "geom:latitude":28.563995,
     "geom:longitude":77.245186,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Lajpat Nagar Iv",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169556469,
-    "wof:lastmodified":1449033509,
+    "wof:lastmodified":1466288712,
     "wof:name":"Rdevis Engineers Pvt Ltd",
     "wof:parent_id":85928185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.245186,28.563995,77.245186,28.563995],
+  "bbox": [
+    77.245186,
+    28.563995,
+    77.245186,
+    28.563995
+],
   "geometry": {"coordinates":[77.245186,28.563995],"type":"Point"}
 }

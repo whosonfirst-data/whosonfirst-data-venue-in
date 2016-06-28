@@ -2,13 +2,14 @@
   "id": 169527013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.890099,19.106525,72.890099,19.106525",
     "geom:latitude":19.106525,
     "geom:longitude":72.890099,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"R.m. House, Kherani Road, Sakinaka,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169527013,
-    "wof:lastmodified":1449035278,
+    "wof:lastmodified":1466288619,
     "wof:name":"R.m. Engineering Works",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "baker"
     ]
 },
-  "bbox": [72.890099,19.106525,72.890099,19.106525],
-  "geometry": {"coordinates":[72.890099,19.106525],"type":"Point"}
+  "bbox": [
+    72.890099,
+    19.106525,
+    72.890099,
+    19.106525
+],
+  "geometry": {"coordinates":[72.89009900000001,19.106525],"type":"Point"}
 }

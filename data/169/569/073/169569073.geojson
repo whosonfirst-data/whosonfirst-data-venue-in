@@ -2,13 +2,14 @@
   "id": 169569073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.949341,19.183876,72.949341,19.183876",
     "geom:latitude":19.183876,
     "geom:longitude":72.949341,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"S. P. Marg",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169569073,
-    "wof:lastmodified":1449035829,
+    "wof:lastmodified":1466288732,
     "wof:name":"Radhakrishna Exports (india)",
     "wof:parent_id":85931655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.949341,19.183876,72.949341,19.183876],
+  "bbox": [
+    72.949341,
+    19.183876,
+    72.949341,
+    19.183876
+],
   "geometry": {"coordinates":[72.949341,19.183876],"type":"Point"}
 }

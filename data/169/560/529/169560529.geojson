@@ -2,13 +2,14 @@
   "id": 169560529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.225845,28.62215,77.225845,28.62215",
     "geom:latitude":28.62215,
     "geom:longitude":77.225845,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"K.g. Marg",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169560529,
-    "wof:lastmodified":1449035182,
+    "wof:lastmodified":1466288739,
     "wof:name":"Harzan Export House",
     "wof:parent_id":85903833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.225845,28.62215,77.225845,28.62215],
-  "geometry": {"coordinates":[77.225845,28.62215],"type":"Point"}
+  "bbox": [
+    77.225845,
+    28.62215,
+    77.225845,
+    28.62215
+],
+  "geometry": {"coordinates":[77.22584500000001,28.62215],"type":"Point"}
 }

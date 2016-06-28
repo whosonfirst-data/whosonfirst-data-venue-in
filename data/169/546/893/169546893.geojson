@@ -2,13 +2,14 @@
   "id": 169546893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.278587,28.632776,77.278587,28.632776",
     "geom:latitude":28.632776,
     "geom:longitude":77.278587,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"P.b. 254, 16, Lakshminagar Extension,",
     "sg:city":"Tirupur",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169546893,
-    "wof:lastmodified":1449032679,
+    "wof:lastmodified":1466288678,
     "wof:name":"Dsp Knitting Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "knitwear"
     ]
 },
-  "bbox": [77.278587,28.632776,77.278587,28.632776],
+  "bbox": [
+    77.278587,
+    28.632776,
+    77.278587,
+    28.632776
+],
   "geometry": {"coordinates":[77.278587,28.632776],"type":"Point"}
 }

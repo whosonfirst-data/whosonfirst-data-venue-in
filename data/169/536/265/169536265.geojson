@@ -2,13 +2,14 @@
   "id": 169536265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.826836,18.955708,72.826836,18.955708",
     "geom:latitude":18.955708,
     "geom:longitude":72.826836,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 190, Khetwadi, Main Road, R. K. Patel Building No. 1,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169536265,
-    "wof:lastmodified":1449034657,
+    "wof:lastmodified":1466288874,
     "wof:name":"Industrial Adhesives Tapes Industry",
     "wof:parent_id":85931435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.826836,18.955708,72.826836,18.955708],
+  "bbox": [
+    72.826836,
+    18.955708,
+    72.826836,
+    18.955708
+],
   "geometry": {"coordinates":[72.826836,18.955708],"type":"Point"}
 }

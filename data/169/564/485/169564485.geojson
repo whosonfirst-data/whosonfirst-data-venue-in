@@ -2,13 +2,14 @@
   "id": 169564485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.207817,28.560438,77.207817,28.560438",
     "geom:latitude":28.560438,
     "geom:longitude":77.207817,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Yusuf Sarai",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169564485,
-    "wof:lastmodified":1449035764,
+    "wof:lastmodified":1466288715,
     "wof:name":"Teen Murti Electronics",
     "wof:parent_id":85928233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.207817,28.560438,77.207817,28.560438],
-  "geometry": {"coordinates":[77.207817,28.560438],"type":"Point"}
+  "bbox": [
+    77.207817,
+    28.560438,
+    77.207817,
+    28.560438
+],
+  "geometry": {"coordinates":[77.20781700000001,28.560438],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169560199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.337471,22.587643,88.337471,22.587643",
     "geom:latitude":22.587643,
     "geom:longitude":88.337471,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Basu Road",
     "sg:city":"Kolkata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169560199,
-    "wof:lastmodified":1449035178,
+    "wof:lastmodified":1466288713,
     "wof:name":"Regency Trust Ltd",
     "wof:parent_id":85903957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [88.337471,22.587643,88.337471,22.587643],
-  "geometry": {"coordinates":[88.337471,22.587643],"type":"Point"}
+  "bbox": [
+    88.337471,
+    22.587643,
+    88.337471,
+    22.587643
+],
+  "geometry": {"coordinates":[88.33747099999999,22.587643],"type":"Point"}
 }

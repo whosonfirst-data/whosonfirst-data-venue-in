@@ -2,13 +2,14 @@
   "id": 169526351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.89006,19.057861,72.89006,19.057861",
     "geom:latitude":19.057861,
     "geom:longitude":72.89006,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"192/8, Guru Prasad, 3rd Floor, Sion (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169526351,
-    "wof:lastmodified":1449033702,
+    "wof:lastmodified":1466288624,
     "wof:name":"Steelko Export",
     "wof:parent_id":85931489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "component"
     ]
 },
-  "bbox": [72.89006,19.057861,72.89006,19.057861],
-  "geometry": {"coordinates":[72.89006,19.057861],"type":"Point"}
+  "bbox": [
+    72.89006,
+    19.057861,
+    72.89006,
+    19.057861
+],
+  "geometry": {"coordinates":[72.89006000000001,19.057861],"type":"Point"}
 }

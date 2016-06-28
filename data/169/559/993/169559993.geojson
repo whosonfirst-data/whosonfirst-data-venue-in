@@ -2,13 +2,14 @@
   "id": 169559993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.841835,21.191767,72.841835,21.191767",
     "geom:latitude":21.191767,
     "geom:longitude":72.841835,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"V-2139, Surat Textile Market, Ring Road,",
     "sg:city":"Surat",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169559993,
-    "wof:lastmodified":1449035236,
+    "wof:lastmodified":1466288768,
     "wof:name":"Daxkem Organics",
     "wof:parent_id":85933505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dyestuff"
     ]
 },
-  "bbox": [72.841835,21.191767,72.841835,21.191767],
+  "bbox": [
+    72.841835,
+    21.191767,
+    72.841835,
+    21.191767
+],
   "geometry": {"coordinates":[72.841835,21.191767],"type":"Point"}
 }

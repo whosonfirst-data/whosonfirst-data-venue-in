@@ -2,13 +2,14 @@
   "id": 169561445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.647598,12.877272,77.647598,12.877272",
     "geom:latitude":12.877272,
     "geom:longitude":77.647598,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Hosur Road",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169561445,
-    "wof:lastmodified":1449035018,
+    "wof:lastmodified":1466288722,
     "wof:name":"Lab & General Exports Pvt Ltd",
     "wof:parent_id":85930867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.647598,12.877272,77.647598,12.877272],
+  "bbox": [
+    77.647598,
+    12.877272,
+    77.647598,
+    12.877272
+],
   "geometry": {"coordinates":[77.647598,12.877272],"type":"Point"}
 }

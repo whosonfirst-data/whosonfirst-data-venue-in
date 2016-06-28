@@ -2,13 +2,14 @@
   "id": 169538395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.626007,12.901829,77.626007,12.901829",
     "geom:latitude":12.901829,
     "geom:longitude":77.626007,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No.22, Devarachikkana Halli Road, Bommanahalli Industrial Area,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169538395,
-    "wof:lastmodified":1449033099,
+    "wof:lastmodified":1466288878,
     "wof:name":"Nxl Flow Instruments",
     "wof:parent_id":85930853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pumping"
     ]
 },
-  "bbox": [77.626007,12.901829,77.626007,12.901829],
+  "bbox": [
+    77.626007,
+    12.901829,
+    77.626007,
+    12.901829
+],
   "geometry": {"coordinates":[77.626007,12.901829],"type":"Point"}
 }

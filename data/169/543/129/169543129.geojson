@@ -2,13 +2,14 @@
   "id": 169543129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.571388,12.998337,77.571388,12.998337",
     "geom:latitude":12.998337,
     "geom:longitude":77.571388,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"100/107, Sampige Road, 7th Cross, Malleswaram,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169543129,
-    "wof:lastmodified":1449033337,
+    "wof:lastmodified":1466288642,
     "wof:name":"Elico Limited",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "instrument"
     ]
 },
-  "bbox": [77.571388,12.998337,77.571388,12.998337],
+  "bbox": [
+    77.571388,
+    12.998337,
+    77.571388,
+    12.998337
+],
   "geometry": {"coordinates":[77.571388,12.998337],"type":"Point"}
 }

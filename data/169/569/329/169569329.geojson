@@ -2,13 +2,14 @@
   "id": 169569329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.192802,13.04361,80.192802,13.04361",
     "geom:latitude":13.04361,
     "geom:longitude":80.192802,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Indra Nagar, Valasaravakkam",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169569329,
-    "wof:lastmodified":1449035830,
+    "wof:lastmodified":1466288745,
     "wof:name":"Sterling Decors Pvt Ltd",
     "wof:parent_id":85903779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.192802,13.04361,80.192802,13.04361],
+  "bbox": [
+    80.192802,
+    13.04361,
+    80.192802,
+    13.04361
+],
   "geometry": {"coordinates":[80.192802,13.04361],"type":"Point"}
 }

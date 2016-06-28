@@ -2,13 +2,14 @@
   "id": 169561813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.233452,28.641699,77.233452,28.641699",
     "geom:latitude":28.641699,
     "geom:longitude":77.233452,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Asag Ali Road",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169561813,
-    "wof:lastmodified":1449035020,
+    "wof:lastmodified":1466288730,
     "wof:name":"United Decoratives Pvt Ltd",
     "wof:parent_id":85927917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.233452,28.641699,77.233452,28.641699],
+  "bbox": [
+    77.233452,
+    28.641699,
+    77.233452,
+    28.641699
+],
   "geometry": {"coordinates":[77.233452,28.641699],"type":"Point"}
 }

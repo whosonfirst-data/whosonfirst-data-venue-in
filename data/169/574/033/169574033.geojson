@@ -2,13 +2,14 @@
   "id": 169574033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.645866,12.3033,76.645866,12.3033",
     "geom:latitude":12.3033,
     "geom:longitude":76.645866,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Mysore Road, Amchepalaya",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169574033,
-    "wof:lastmodified":1449032661,
+    "wof:lastmodified":1466288736,
     "wof:name":"Farcom Cable Systems Pvt Ltd",
     "wof:parent_id":85933595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [76.645866,12.3033,76.645866,12.3033],
+  "bbox": [
+    76.645866,
+    12.3033,
+    76.645866,
+    12.3033
+],
   "geometry": {"coordinates":[76.645866,12.3033],"type":"Point"}
 }

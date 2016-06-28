@@ -2,13 +2,14 @@
   "id": 169571145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.444199,17.437292,78.444199,17.437292",
     "geom:latitude":17.437292,
     "geom:longitude":78.444199,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Huda Complex, Ameerpet",
     "sg:city":"Hyderabad",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571145,
-    "wof:lastmodified":1449034946,
+    "wof:lastmodified":1466288742,
     "wof:name":"Posh Chemicals Pvt Ltd",
     "wof:parent_id":85930753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.444199,17.437292,78.444199,17.437292],
+  "bbox": [
+    78.444199,
+    17.437292,
+    78.444199,
+    17.437292
+],
   "geometry": {"coordinates":[78.444199,17.437292],"type":"Point"}
 }

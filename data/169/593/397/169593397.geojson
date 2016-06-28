@@ -2,13 +2,14 @@
   "id": 169593397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.736992,30.73361,76.736992,30.73361",
     "geom:latitude":30.73361,
     "geom:longitude":76.736992,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sco 38-39, Sector-9d,",
     "sg:city":"Chandigarh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169593397,
-    "wof:lastmodified":1449034877,
+    "wof:lastmodified":1466288804,
     "wof:name":"Nectar Lifesciences Limited",
     "wof:parent_id":85927777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "raw"
     ]
 },
-  "bbox": [76.736992,30.73361,76.736992,30.73361],
+  "bbox": [
+    76.736992,
+    30.73361,
+    76.736992,
+    30.73361
+],
   "geometry": {"coordinates":[76.736992,30.73361],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169650601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.08128,28.50641,77.08128,28.50641",
     "geom:latitude":28.50641,
     "geom:longitude":77.08128,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"424 Udyog Vihar Phase IV",
     "sg:city":"Gurgaon",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":169650601,
-    "wof:lastmodified":1449034699,
+    "wof:lastmodified":1466288855,
     "wof:name":"RupeeTimes",
     "wof:parent_id":85928557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "fixed-deposit"
     ]
 },
-  "bbox": [77.08128,28.50641,77.08128,28.50641],
-  "geometry": {"coordinates":[77.08128,28.50641],"type":"Point"}
+  "bbox": [
+    77.08128,
+    28.50641,
+    77.08128,
+    28.50641
+],
+  "geometry": {"coordinates":[77.08128000000001,28.50641],"type":"Point"}
 }

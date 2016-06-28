@@ -2,13 +2,14 @@
   "id": 169547737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.968132,11.019077,76.968132,11.019077",
     "geom:latitude":11.019077,
     "geom:longitude":76.968132,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"22, Ramnagar, 3rd Street,",
     "sg:city":"Tirupur",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169547737,
-    "wof:lastmodified":1449033007,
+    "wof:lastmodified":1466288880,
     "wof:name":"N.c.h.",
     "wof:parent_id":85783699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "nightwear"
     ]
 },
-  "bbox": [76.968132,11.019077,76.968132,11.019077],
+  "bbox": [
+    76.968132,
+    11.019077,
+    76.968132,
+    11.019077
+],
   "geometry": {"coordinates":[76.968132,11.019077],"type":"Point"}
 }

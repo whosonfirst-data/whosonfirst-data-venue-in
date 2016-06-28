@@ -2,13 +2,14 @@
   "id": 169545659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.216309,10.343597,76.216309,10.343597",
     "geom:latitude":10.343597,
     "geom:longitude":76.216309,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Irinjalakuda,",
     "sg:city":"Thrissur",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169545659,
-    "wof:lastmodified":1449033484,
+    "wof:lastmodified":1466288664,
     "wof:name":"S. V. Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [76.216309,10.343597,76.216309,10.343597],
+  "bbox": [
+    76.216309,
+    10.343597,
+    76.216309,
+    10.343597
+],
   "geometry": {"coordinates":[76.216309,10.343597],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169536237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.82428,18.930777,72.82428,18.930777",
     "geom:latitude":18.930777,
     "geom:longitude":72.82428,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"201, Churchgate Chambers, N. M. L,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169536237,
-    "wof:lastmodified":1449034657,
+    "wof:lastmodified":1466288628,
     "wof:name":"Gulf Enterprises Experts",
     "wof:parent_id":85903879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.82428,18.930777,72.82428,18.930777],
+  "bbox": [
+    72.82428,
+    18.930777,
+    72.82428,
+    18.930777
+],
   "geometry": {"coordinates":[72.82428,18.930777],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169603125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.308029,28.593264,77.308029,28.593264",
     "geom:latitude":28.593264,
     "geom:longitude":77.308029,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"85, New Ashok Nagar,",
     "sg:city":"Jalandhar",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169603125,
-    "wof:lastmodified":1449035454,
+    "wof:lastmodified":1466288814,
     "wof:name":"Pratham Industries",
     "wof:parent_id":85928047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "belting"
     ]
 },
-  "bbox": [77.308029,28.593264,77.308029,28.593264],
+  "bbox": [
+    77.308029,
+    28.593264,
+    77.308029,
+    28.593264
+],
   "geometry": {"coordinates":[77.308029,28.593264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169584137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.643204,23.241978,72.643204,23.241978",
     "geom:latitude":23.241978,
     "geom:longitude":72.643204,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 130, Sector-24,",
     "sg:city":"Faridabad",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169584137,
-    "wof:lastmodified":1449033040,
+    "wof:lastmodified":1466288780,
     "wof:name":"Lakhani Footwear Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [72.643204,23.241978,72.643204,23.241978],
+  "bbox": [
+    72.643204,
+    23.241978,
+    72.643204,
+    23.241978
+],
   "geometry": {"coordinates":[72.643204,23.241978],"type":"Point"}
 }

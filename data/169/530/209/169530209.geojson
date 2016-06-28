@@ -2,13 +2,14 @@
   "id": 169530209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.924553,19.119467,72.924553,19.119467",
     "geom:latitude":19.119467,
     "geom:longitude":72.924553,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"108, Vardhaman Complex, L.b.s. Marg, Vikhroli (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169530209,
-    "wof:lastmodified":1449034445,
+    "wof:lastmodified":1466288674,
     "wof:name":"Soma Specialities Pvt. Ltd.",
     "wof:parent_id":85931627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaning"
     ]
 },
-  "bbox": [72.924553,19.119467,72.924553,19.119467],
+  "bbox": [
+    72.924553,
+    19.119467,
+    72.924553,
+    19.119467
+],
   "geometry": {"coordinates":[72.924553,19.119467],"type":"Point"}
 }

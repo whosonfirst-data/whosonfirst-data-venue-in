@@ -2,13 +2,14 @@
   "id": 169527585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.818497,18.91408,72.818497,18.91408",
     "geom:latitude":18.91408,
     "geom:longitude":72.818497,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1705, World Trade Centre, Cuffe Parade,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169527585,
-    "wof:lastmodified":1449035278,
+    "wof:lastmodified":1466288632,
     "wof:name":"Seri Fashion",
     "wof:parent_id":85903829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bedspread"
     ]
 },
-  "bbox": [72.818497,18.91408,72.818497,18.91408],
-  "geometry": {"coordinates":[72.818497,18.91408],"type":"Point"}
+  "bbox": [
+    72.818497,
+    18.91408,
+    72.818497,
+    18.91408
+],
+  "geometry": {"coordinates":[72.81849699999999,18.91408],"type":"Point"}
 }

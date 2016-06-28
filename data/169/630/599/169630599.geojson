@@ -2,13 +2,14 @@
   "id": 169630599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.162895,28.523521,77.162895,28.523521",
     "geom:latitude":28.523521,
     "geom:longitude":77.162895,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B-4/3092, Vasant Kunj,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169630599,
-    "wof:lastmodified":1449033870,
+    "wof:lastmodified":1466288838,
     "wof:name":"Sun Food Tech",
     "wof:parent_id":85903905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "dyes-natural"
     ]
 },
-  "bbox": [77.162895,28.523521,77.162895,28.523521],
-  "geometry": {"coordinates":[77.162895,28.523521],"type":"Point"}
+  "bbox": [
+    77.162895,
+    28.523521,
+    77.162895,
+    28.523521
+],
+  "geometry": {"coordinates":[77.16289500000001,28.523521],"type":"Point"}
 }

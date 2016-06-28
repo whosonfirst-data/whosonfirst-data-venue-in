@@ -2,13 +2,14 @@
   "id": 169569301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.470215,17.389887,78.470215,17.389887",
     "geom:latitude":17.389887,
     "geom:longitude":78.470215,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"R.p. Road",
     "sg:city":"Secunderabad",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169569301,
-    "wof:lastmodified":1449035830,
+    "wof:lastmodified":1466288744,
     "wof:name":"R K Engineers",
     "wof:parent_id":85930739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.470215,17.389887,78.470215,17.389887],
+  "bbox": [
+    78.470215,
+    17.389887,
+    78.470215,
+    17.389887
+],
   "geometry": {"coordinates":[78.470215,17.389887],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169590409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.284164,13.102754,80.284164,13.102754",
     "geom:latitude":13.102754,
     "geom:longitude":80.284164,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"8, Portuguese Church Street,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169590409,
-    "wof:lastmodified":1449034655,
+    "wof:lastmodified":1466288804,
     "wof:name":"Modi Dyechem",
     "wof:parent_id":85903951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "intermediate"
     ]
 },
-  "bbox": [80.284164,13.102754,80.284164,13.102754],
+  "bbox": [
+    80.284164,
+    13.102754,
+    80.284164,
+    13.102754
+],
   "geometry": {"coordinates":[80.284164,13.102754],"type":"Point"}
 }

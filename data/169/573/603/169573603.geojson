@@ -2,13 +2,14 @@
   "id": 169573603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.257225,13.073093,80.257225,13.073093",
     "geom:latitude":13.073093,
     "geom:longitude":80.257225,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Egmore",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169573603,
-    "wof:lastmodified":1449035116,
+    "wof:lastmodified":1466288761,
     "wof:name":"Zip Industries Ltd",
     "wof:parent_id":85903849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.257225,13.073093,80.257225,13.073093],
-  "geometry": {"coordinates":[80.257225,13.073093],"type":"Point"}
+  "bbox": [
+    80.257225,
+    13.073093,
+    80.257225,
+    13.073093
+],
+  "geometry": {"coordinates":[80.25722500000001,13.073093],"type":"Point"}
 }

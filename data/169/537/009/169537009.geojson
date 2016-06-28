@@ -2,13 +2,14 @@
   "id": 169537009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.573395,12.904386,77.573395,12.904386",
     "geom:latitude":12.904386,
     "geom:longitude":77.573395,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"72/2b, 27, Jaraganahalli, Kanakapura Road, J.p. Nagar Post,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169537009,
-    "wof:lastmodified":1449033500,
+    "wof:lastmodified":1466288625,
     "wof:name":"S. M. Equipments",
     "wof:parent_id":85931057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supplement"
     ]
 },
-  "bbox": [77.573395,12.904386,77.573395,12.904386],
+  "bbox": [
+    77.573395,
+    12.904386,
+    77.573395,
+    12.904386
+],
   "geometry": {"coordinates":[77.573395,12.904386],"type":"Point"}
 }

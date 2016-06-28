@@ -2,13 +2,14 @@
   "id": 169544657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.547493,12.987282,77.547493,12.987282",
     "geom:latitude":12.987282,
     "geom:longitude":77.547493,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"138, 1st Floor, 4th Main Ind. Town, Rajajinagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169544657,
-    "wof:lastmodified":1449035963,
+    "wof:lastmodified":1466288670,
     "wof:name":"Samyuktha Technologies Pvt. Ltd.",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "treatment"
     ]
 },
-  "bbox": [77.547493,12.987282,77.547493,12.987282],
+  "bbox": [
+    77.547493,
+    12.987282,
+    77.547493,
+    12.987282
+],
   "geometry": {"coordinates":[77.547493,12.987282],"type":"Point"}
 }

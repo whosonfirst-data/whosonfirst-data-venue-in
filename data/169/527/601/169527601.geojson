@@ -2,13 +2,14 @@
   "id": 169527601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.82885,18.948298,72.82885,18.948298",
     "geom:latitude":18.948298,
     "geom:longitude":72.82885,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"203, Kalbadevi Road, 6th Floor,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169527601,
-    "wof:lastmodified":1449035278,
+    "wof:lastmodified":1466288632,
     "wof:name":"Beepee Enterprise",
     "wof:parent_id":85931439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bedspread"
     ]
 },
-  "bbox": [72.82885,18.948298,72.82885,18.948298],
+  "bbox": [
+    72.82885,
+    18.948298,
+    72.82885,
+    18.948298
+],
   "geometry": {"coordinates":[72.82885,18.948298],"type":"Point"}
 }

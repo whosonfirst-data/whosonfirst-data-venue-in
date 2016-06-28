@@ -2,13 +2,14 @@
   "id": 169544535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.557976,12.915187,77.557976,12.915187",
     "geom:latitude":12.915187,
     "geom:longitude":77.557976,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"296/297, 5th Main, 4 Th Phase P.i.a,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169544535,
-    "wof:lastmodified":1449035962,
+    "wof:lastmodified":1466288664,
     "wof:name":"Kddl",
     "wof:parent_id":85931103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "clock"
     ]
 },
-  "bbox": [77.557976,12.915187,77.557976,12.915187],
+  "bbox": [
+    77.557976,
+    12.915187,
+    77.557976,
+    12.915187
+],
   "geometry": {"coordinates":[77.557976,12.915187],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169531949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.855888,19.17267,72.855888,19.17267",
     "geom:latitude":19.17267,
     "geom:longitude":72.855888,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"327/c, Durian Estate, Goregaon Mulund Link Road, Goregaon East,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169531949,
-    "wof:lastmodified":1449033476,
+    "wof:lastmodified":1466288860,
     "wof:name":"Parallax Decor Pvt. Ltd.",
     "wof:parent_id":85931525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "laminate"
     ]
 },
-  "bbox": [72.855888,19.17267,72.855888,19.17267],
-  "geometry": {"coordinates":[72.855888,19.17267],"type":"Point"}
+  "bbox": [
+    72.855888,
+    19.17267,
+    72.855888,
+    19.17267
+],
+  "geometry": {"coordinates":[72.85588799999999,19.17267],"type":"Point"}
 }

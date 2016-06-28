@@ -2,13 +2,14 @@
   "id": 169529767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.913071,19.101727,72.913071,19.101727",
     "geom:latitude":19.101727,
     "geom:longitude":72.913071,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Hill View Indl. Est., No. 419, Amrut Nagar, Off. L. B. S. Marg, Ghatkopar (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169529767,
-    "wof:lastmodified":1449034114,
+    "wof:lastmodified":1466288700,
     "wof:name":"Ankush Enterprises",
     "wof:parent_id":85931627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [72.913071,19.101727,72.913071,19.101727],
+  "bbox": [
+    72.913071,
+    19.101727,
+    72.913071,
+    19.101727
+],
   "geometry": {"coordinates":[72.913071,19.101727],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169538905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.573448,13.046391,77.573448,13.046391",
     "geom:latitude":13.046391,
     "geom:longitude":77.573448,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"17, 2nd Cross, K.g. Halli, Jalahalli West,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169538905,
-    "wof:lastmodified":1449033099,
+    "wof:lastmodified":1466288672,
     "wof:name":"Colton Industries",
     "wof:parent_id":85931095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rectifier"
     ]
 },
-  "bbox": [77.573448,13.046391,77.573448,13.046391],
+  "bbox": [
+    77.573448,
+    13.046391,
+    77.573448,
+    13.046391
+],
   "geometry": {"coordinates":[77.573448,13.046391],"type":"Point"}
 }

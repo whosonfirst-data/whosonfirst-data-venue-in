@@ -2,13 +2,14 @@
   "id": 169595953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.830803,19.070023,72.830803,19.070023",
     "geom:latitude":19.070023,
     "geom:longitude":72.830803,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"35-a/43, Brindaban, Thane West,",
     "sg:city":"Thane",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169595953,
-    "wof:lastmodified":1449035638,
+    "wof:lastmodified":1466288812,
     "wof:name":"Omega Process Engineers",
     "wof:parent_id":85931493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "processing"
     ]
 },
-  "bbox": [72.830803,19.070023,72.830803,19.070023],
+  "bbox": [
+    72.830803,
+    19.070023,
+    72.830803,
+    19.070023
+],
   "geometry": {"coordinates":[72.830803,19.070023],"type":"Point"}
 }

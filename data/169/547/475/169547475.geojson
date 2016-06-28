@@ -2,13 +2,14 @@
   "id": 169547475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.265747,13.119873,80.265747,13.119873",
     "geom:latitude":13.119873,
     "geom:longitude":80.265747,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"8/17, Thiruvalluvar Nagar, 4th Street, P.n. Road,",
     "sg:city":"Tirupur",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169547475,
-    "wof:lastmodified":1449033008,
+    "wof:lastmodified":1466288668,
     "wof:name":"Kalaiselvi Textiless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.265747,13.119873,80.265747,13.119873],
+  "bbox": [
+    80.265747,
+    13.119873,
+    80.265747,
+    13.119873
+],
   "geometry": {"coordinates":[80.265747,13.119873],"type":"Point"}
 }

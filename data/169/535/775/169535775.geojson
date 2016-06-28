@@ -2,13 +2,14 @@
   "id": 169535775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.828346,18.94651,72.828346,18.94651",
     "geom:latitude":18.94651,
     "geom:longitude":72.828346,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"202, Mahaveer Building, 44/46, Popatwadi, Kalbadevi,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169535775,
-    "wof:lastmodified":1449033286,
+    "wof:lastmodified":1466288634,
     "wof:name":"Laljee's",
     "wof:parent_id":85903889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "ethnic"
     ]
 },
-  "bbox": [72.828346,18.94651,72.828346,18.94651],
+  "bbox": [
+    72.828346,
+    18.94651,
+    72.828346,
+    18.94651
+],
   "geometry": {"coordinates":[72.828346,18.94651],"type":"Point"}
 }

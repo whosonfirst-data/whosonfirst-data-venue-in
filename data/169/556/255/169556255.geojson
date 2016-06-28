@@ -2,13 +2,14 @@
   "id": 169556255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.836197,18.950895,72.836197,18.950895",
     "geom:latitude":18.950895,
     "geom:longitude":72.836197,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"76/78, Issaji Street",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169556255,
-    "wof:lastmodified":1449033509,
+    "wof:lastmodified":1466288702,
     "wof:name":"Chemosol Industries (i) Pvt Ltd",
     "wof:parent_id":85903919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.836197,18.950895,72.836197,18.950895],
+  "bbox": [
+    72.836197,
+    18.950895,
+    72.836197,
+    18.950895
+],
   "geometry": {"coordinates":[72.836197,18.950895],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169557215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.614944,12.963933,77.614944,12.963933",
     "geom:latitude":12.963933,
     "geom:longitude":77.614944,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Victoria Layout",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169557215,
-    "wof:lastmodified":1449035037,
+    "wof:lastmodified":1466288891,
     "wof:name":"Aci Infocom Ltd",
     "wof:parent_id":85930841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.614944,12.963933,77.614944,12.963933],
-  "geometry": {"coordinates":[77.614944,12.963933],"type":"Point"}
+  "bbox": [
+    77.614944,
+    12.963933,
+    77.614944,
+    12.963933
+],
+  "geometry": {"coordinates":[77.61494399999999,12.963933],"type":"Point"}
 }

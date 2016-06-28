@@ -2,13 +2,14 @@
   "id": 169572629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.278366,13.069211,80.278366,13.069211",
     "geom:latitude":13.069211,
     "geom:longitude":80.278366,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Swamy Sivananda Salai",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169572629,
-    "wof:lastmodified":1449034707,
+    "wof:lastmodified":1466288762,
     "wof:name":"Marine Container Services (south) Pvt Ltd",
     "wof:parent_id":85931697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.278366,13.069211,80.278366,13.069211],
-  "geometry": {"coordinates":[80.278366,13.069211],"type":"Point"}
+  "bbox": [
+    80.278366,
+    13.069211,
+    80.278366,
+    13.069211
+],
+  "geometry": {"coordinates":[80.27836600000001,13.069211],"type":"Point"}
 }

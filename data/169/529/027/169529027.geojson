@@ -2,13 +2,14 @@
   "id": 169529027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.831902,18.918819,72.831902,18.918819",
     "geom:latitude":18.918819,
     "geom:longitude":72.831902,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"8, Harber View, 3rd Floor, 22, Colaba,",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169529027,
-    "wof:lastmodified":1449034114,
+    "wof:lastmodified":1466288683,
     "wof:name":"I. H. C. Overseas",
     "wof:parent_id":85931609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.831902,18.918819,72.831902,18.918819],
+  "bbox": [
+    72.831902,
+    18.918819,
+    72.831902,
+    18.918819
+],
   "geometry": {"coordinates":[72.831902,18.918819],"type":"Point"}
 }

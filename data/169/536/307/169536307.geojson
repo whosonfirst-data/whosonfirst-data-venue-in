@@ -2,13 +2,14 @@
   "id": 169536307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.823875,18.924194,72.823875,18.924194",
     "geom:latitude":18.924194,
     "geom:longitude":72.823875,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"404, 4th Floor, Tulsani Chambers, 212, Nariman Point,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169536307,
-    "wof:lastmodified":1449034657,
+    "wof:lastmodified":1466288875,
     "wof:name":"Rama Exports",
     "wof:parent_id":85931461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.823875,18.924194,72.823875,18.924194],
+  "bbox": [
+    72.823875,
+    18.924194,
+    72.823875,
+    18.924194
+],
   "geometry": {"coordinates":[72.823875,18.924194],"type":"Point"}
 }

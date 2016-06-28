@@ -2,13 +2,14 @@
   "id": 169540395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.613136,12.911876,77.613136,12.911876",
     "geom:latitude":12.911876,
     "geom:longitude":77.613136,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"11/1, 24th-a-cross, K.r. Road, B.s.k. Ii-stage,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169540395,
-    "wof:lastmodified":1449033977,
+    "wof:lastmodified":1466288653,
     "wof:name":"Supreme Overseas Exports India Pvt. Ltd.",
     "wof:parent_id":85930853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "short"
     ]
 },
-  "bbox": [77.613136,12.911876,77.613136,12.911876],
+  "bbox": [
+    77.613136,
+    12.911876,
+    77.613136,
+    12.911876
+],
   "geometry": {"coordinates":[77.613136,12.911876],"type":"Point"}
 }

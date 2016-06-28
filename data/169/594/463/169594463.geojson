@@ -2,13 +2,14 @@
   "id": 169594463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.844749,19.235405,72.844749,19.235405",
     "geom:latitude":19.235405,
     "geom:longitude":72.844749,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"002/d/30, Yogi Vaibhav, Yogi Nagar, Borivali (west),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169594463,
-    "wof:lastmodified":1449033165,
+    "wof:lastmodified":1466288805,
     "wof:name":"Nitin Polymers Pvt. Ltd.",
     "wof:parent_id":85933015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resin"
     ]
 },
-  "bbox": [72.844749,19.235405,72.844749,19.235405],
-  "geometry": {"coordinates":[72.844749,19.235405],"type":"Point"}
+  "bbox": [
+    72.844749,
+    19.235405,
+    72.844749,
+    19.235405
+],
+  "geometry": {"coordinates":[72.84474899999999,19.235405],"type":"Point"}
 }

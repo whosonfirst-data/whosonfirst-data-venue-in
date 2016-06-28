@@ -2,13 +2,14 @@
   "id": 169526021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.847534,18.972517,72.847534,18.972517",
     "geom:latitude":18.972517,
     "geom:longitude":72.847534,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"88/89, 1st Lane, Darukhana, Mazagaon,",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169526021,
-    "wof:lastmodified":1449033700,
+    "wof:lastmodified":1466288618,
     "wof:name":"Millsons",
     "wof:parent_id":85903815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.847534,18.972517,72.847534,18.972517],
+  "bbox": [
+    72.847534,
+    18.972517,
+    72.847534,
+    18.972517
+],
   "geometry": {"coordinates":[72.847534,18.972517],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169641311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.247787,19.150879,73.247787,19.150879",
     "geom:latitude":19.150879,
     "geom:longitude":73.247787,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"W-127(a), Midc, Kharvai,",
     "sg:city":"Badlapur",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169641311,
-    "wof:lastmodified":1449035169,
+    "wof:lastmodified":1466288843,
     "wof:name":"V.s. Bhave & Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [73.247787,19.150879,73.247787,19.150879],
+  "bbox": [
+    73.247787,
+    19.150879,
+    73.247787,
+    19.150879
+],
   "geometry": {"coordinates":[73.247787,19.150879],"type":"Point"}
 }

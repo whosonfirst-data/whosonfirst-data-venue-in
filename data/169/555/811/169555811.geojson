@@ -2,13 +2,14 @@
   "id": 169555811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.359947,22.553614,88.359947,22.553614",
     "geom:latitude":22.553614,
     "geom:longitude":88.359947,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Ripon Street",
     "sg:city":"Kolkata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169555811,
-    "wof:lastmodified":1449035494,
+    "wof:lastmodified":1466288726,
     "wof:name":"Global Footwear & Leather",
     "wof:parent_id":85931931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [88.359947,22.553614,88.359947,22.553614],
-  "geometry": {"coordinates":[88.359947,22.553614],"type":"Point"}
+  "bbox": [
+    88.359947,
+    22.553614,
+    88.359947,
+    22.553614
+],
+  "geometry": {"coordinates":[88.35994700000001,22.553614],"type":"Point"}
 }

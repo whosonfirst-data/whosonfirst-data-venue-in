@@ -2,13 +2,14 @@
   "id": 169547225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.253166,13.038417,80.253166,13.038417",
     "geom:latitude":13.038417,
     "geom:longitude":80.253166,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"343, Ram Raj Nagar, Near B.p.l. Tower, Gandhinagar,",
     "sg:city":"Tirupur",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169547225,
-    "wof:lastmodified":1449033008,
+    "wof:lastmodified":1466288660,
     "wof:name":"Deenu International",
     "wof:parent_id":85931737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.253166,13.038417,80.253166,13.038417],
-  "geometry": {"coordinates":[80.253166,13.038417],"type":"Point"}
+  "bbox": [
+    80.253166,
+    13.038417,
+    80.253166,
+    13.038417
+],
+  "geometry": {"coordinates":[80.25316599999999,13.038417],"type":"Point"}
 }

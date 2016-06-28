@@ -2,13 +2,14 @@
   "id": 169555973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.206322,28.682655,77.206322,28.682655",
     "geom:latitude":28.682655,
     "geom:longitude":77.206322,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Bungalow Road",
     "sg:city":"Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169555973,
-    "wof:lastmodified":1449035495,
+    "wof:lastmodified":1466288735,
     "wof:name":"Ajanta Books International",
     "wof:parent_id":85927921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.206322,28.682655,77.206322,28.682655],
+  "bbox": [
+    77.206322,
+    28.682655,
+    77.206322,
+    28.682655
+],
   "geometry": {"coordinates":[77.206322,28.682655],"type":"Point"}
 }

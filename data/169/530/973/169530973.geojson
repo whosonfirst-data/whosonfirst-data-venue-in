@@ -2,13 +2,14 @@
   "id": 169530973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.813889,18.973789,72.813889,18.973789",
     "geom:latitude":18.973789,
     "geom:longitude":72.813889,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B-19/20, Commerce Centre, 78, Tardeo Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169530973,
-    "wof:lastmodified":1449034442,
+    "wof:lastmodified":1466288691,
     "wof:name":"Sohil Impex",
     "wof:parent_id":85903971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cookware"
     ]
 },
-  "bbox": [72.813889,18.973789,72.813889,18.973789],
+  "bbox": [
+    72.813889,
+    18.973789,
+    72.813889,
+    18.973789
+],
   "geometry": {"coordinates":[72.813889,18.973789],"type":"Point"}
 }

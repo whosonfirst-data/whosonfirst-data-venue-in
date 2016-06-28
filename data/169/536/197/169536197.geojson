@@ -2,13 +2,14 @@
   "id": 169536197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.827568,18.953436,72.827568,18.953436",
     "geom:latitude":18.953436,
     "geom:longitude":72.827568,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"13-75-77, Bhuleshwar Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169536197,
-    "wof:lastmodified":1449034659,
+    "wof:lastmodified":1466288873,
     "wof:name":"Maganlal Dresswala",
     "wof:parent_id":85931435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.827568,18.953436,72.827568,18.953436],
+  "bbox": [
+    72.827568,
+    18.953436,
+    72.827568,
+    18.953436
+],
   "geometry": {"coordinates":[72.827568,18.953436],"type":"Point"}
 }

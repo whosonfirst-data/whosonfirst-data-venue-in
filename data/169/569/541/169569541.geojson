@@ -2,13 +2,14 @@
   "id": 169569541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.2089,28.654093,77.2089,28.654093",
     "geom:latitude":28.654093,
     "geom:longitude":77.2089,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sadar Bazar",
     "sg:city":"Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169569541,
-    "wof:lastmodified":1449035829,
+    "wof:lastmodified":1466288757,
     "wof:name":"Mukesh Paper Mart",
     "wof:parent_id":85928087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.2089,28.654093,77.2089,28.654093],
+  "bbox": [
+    77.2089,
+    28.654093,
+    77.2089,
+    28.654093
+],
   "geometry": {"coordinates":[77.2089,28.654093],"type":"Point"}
 }

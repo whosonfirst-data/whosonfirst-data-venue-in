@@ -2,13 +2,14 @@
   "id": 169534567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.890808,19.111546,72.890808,19.111546",
     "geom:latitude":19.111546,
     "geom:longitude":72.890808,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Liberty Indl. Estate, Chandivli Andheri-e,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169534567,
-    "wof:lastmodified":1449033552,
+    "wof:lastmodified":1466288875,
     "wof:name":"Vinayak Electrical Products Pvt. Ltd.",
     "wof:parent_id":85931519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electrical"
     ]
 },
-  "bbox": [72.890808,19.111546,72.890808,19.111546],
-  "geometry": {"coordinates":[72.890808,19.111546],"type":"Point"}
+  "bbox": [
+    72.890808,
+    19.111546,
+    72.890808,
+    19.111546
+],
+  "geometry": {"coordinates":[72.89080800000001,19.111546],"type":"Point"}
 }

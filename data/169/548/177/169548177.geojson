@@ -2,13 +2,14 @@
   "id": 169548177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.837219,18.939556,72.837219,18.939556",
     "geom:latitude":18.939556,
     "geom:longitude":72.837219,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"204 George Road,",
     "sg:city":"Tuticorin",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169548177,
-    "wof:lastmodified":1449034978,
+    "wof:lastmodified":1466288671,
     "wof:name":"Rajarajan & Company",
     "wof:parent_id":85903853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commodity"
     ]
 },
-  "bbox": [72.837219,18.939556,72.837219,18.939556],
+  "bbox": [
+    72.837219,
+    18.939556,
+    72.837219,
+    18.939556
+],
   "geometry": {"coordinates":[72.837219,18.939556],"type":"Point"}
 }

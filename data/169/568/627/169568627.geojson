@@ -2,13 +2,14 @@
   "id": 169568627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.923912,19.134033,72.923912,19.134033",
     "geom:latitude":19.134033,
     "geom:longitude":72.923912,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Kanjumarg West",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169568627,
-    "wof:lastmodified":1449032614,
+    "wof:lastmodified":1466288760,
     "wof:name":"Velsons Flash Light Pvt Ltd",
     "wof:parent_id":85931633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.923912,19.134033,72.923912,19.134033],
+  "bbox": [
+    72.923912,
+    19.134033,
+    72.923912,
+    19.134033
+],
   "geometry": {"coordinates":[72.923912,19.134033],"type":"Point"}
 }

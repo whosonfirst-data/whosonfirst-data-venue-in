@@ -2,13 +2,14 @@
   "id": 169649371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.15539,28.7584,77.15539,28.7584",
     "geom:latitude":28.7584,
     "geom:longitude":77.15539,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"A2/A2 , 3rd Floor, Shiv Arcade,  Acharya Niketan, Mayur Vihar, Phase - 1,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169649371,
-    "wof:lastmodified":1449034945,
+    "wof:lastmodified":1466288852,
     "wof:name":"India Movers Packers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "packers-movers"
     ]
 },
-  "bbox": [77.15539,28.7584,77.15539,28.7584],
+  "bbox": [
+    77.15539,
+    28.7584,
+    77.15539,
+    28.7584
+],
   "geometry": {"coordinates":[77.15539,28.7584],"type":"Point"}
 }

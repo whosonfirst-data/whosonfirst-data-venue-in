@@ -2,13 +2,14 @@
   "id": 169594309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.240967,28.636009,77.240967,28.636009",
     "geom:latitude":28.636009,
     "geom:longitude":77.240967,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"D/159, 1st Floor, B G Tower, O/s Delhi Darwaja,",
     "sg:city":"Ahmedabad",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169594309,
-    "wof:lastmodified":1449033164,
+    "wof:lastmodified":1466288803,
     "wof:name":"Nim Chemicals",
     "wof:parent_id":85928017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.240967,28.636009,77.240967,28.636009],
+  "bbox": [
+    77.240967,
+    28.636009,
+    77.240967,
+    28.636009
+],
   "geometry": {"coordinates":[77.240967,28.636009],"type":"Point"}
 }

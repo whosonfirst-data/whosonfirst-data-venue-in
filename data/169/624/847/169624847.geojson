@@ -2,13 +2,14 @@
   "id": 169624847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"85.849907,20.247732,85.849907,20.247732",
     "geom:latitude":20.247732,
     "geom:longitude":85.849907,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"E146, Pandav Nagar,",
     "sg:city":"Delhi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169624847,
-    "wof:lastmodified":1449034957,
+    "wof:lastmodified":1466288838,
     "wof:name":"Sk Industry",
     "wof:parent_id":85933789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [85.849907,20.247732,85.849907,20.247732],
+  "bbox": [
+    85.849907,
+    20.247732,
+    85.849907,
+    20.247732
+],
   "geometry": {"coordinates":[85.849907,20.247732],"type":"Point"}
 }

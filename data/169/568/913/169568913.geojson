@@ -2,13 +2,14 @@
   "id": 169568913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.881355,19.110296,72.881355,19.110296",
     "geom:latitude":19.110296,
     "geom:longitude":72.881355,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Makwana Road, Marol, Andheri (e)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169568913,
-    "wof:lastmodified":1449032612,
+    "wof:lastmodified":1466288772,
     "wof:name":"Pratik Heat Products Pvt Ltd",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.881355,19.110296,72.881355,19.110296],
+  "bbox": [
+    72.881355,
+    19.110296,
+    72.881355,
+    19.110296
+],
   "geometry": {"coordinates":[72.881355,19.110296],"type":"Point"}
 }

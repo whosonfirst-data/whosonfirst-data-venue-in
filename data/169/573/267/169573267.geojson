@@ -2,13 +2,14 @@
   "id": 169573267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.510712,17.410498,78.510712,17.410498",
     "geom:latitude":17.410498,
     "geom:longitude":78.510712,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Azamabad",
     "sg:city":"Hyderabad",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169573267,
-    "wof:lastmodified":1449035116,
+    "wof:lastmodified":1466288747,
     "wof:name":"National Engg Service",
     "wof:parent_id":85927613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.510712,17.410498,78.510712,17.410498],
+  "bbox": [
+    78.510712,
+    17.410498,
+    78.510712,
+    17.410498
+],
   "geometry": {"coordinates":[78.510712,17.410498],"type":"Point"}
 }

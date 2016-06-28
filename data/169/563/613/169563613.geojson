@@ -2,13 +2,14 @@
   "id": 169563613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.23333,28.597645,77.23333,28.597645",
     "geom:latitude":28.597645,
     "geom:longitude":77.23333,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Golf Links",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169563613,
-    "wof:lastmodified":1449032732,
+    "wof:lastmodified":1466288718,
     "wof:name":"Eurasia International",
     "wof:parent_id":85928321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.23333,28.597645,77.23333,28.597645],
+  "bbox": [
+    77.23333,
+    28.597645,
+    77.23333,
+    28.597645
+],
   "geometry": {"coordinates":[77.23333,28.597645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169540437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.596481,12.906919,77.596481,12.906919",
     "geom:latitude":12.906919,
     "geom:longitude":77.596481,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"13/1, 14th Cross, S.r. Nagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169540437,
-    "wof:lastmodified":1449033977,
+    "wof:lastmodified":1466288656,
     "wof:name":"Sri Venkateshwara Textiles",
     "wof:parent_id":85931061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "silk"
     ]
 },
-  "bbox": [77.596481,12.906919,77.596481,12.906919],
+  "bbox": [
+    77.596481,
+    12.906919,
+    77.596481,
+    12.906919
+],
   "geometry": {"coordinates":[77.596481,12.906919],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169530683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.88884,19.109495,72.88884,19.109495",
     "geom:latitude":19.109495,
     "geom:longitude":72.88884,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"D/220, Ansa Industrial Estate, Sakinaka,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":169530683,
-    "wof:lastmodified":1449034442,
+    "wof:lastmodified":1466288687,
     "wof:name":"Deuro Electronic System Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "consumer"
     ]
 },
-  "bbox": [72.88884,19.109495,72.88884,19.109495],
+  "bbox": [
+    72.88884,
+    19.109495,
+    72.88884,
+    19.109495
+],
   "geometry": {"coordinates":[72.88884,19.109495],"type":"Point"}
 }

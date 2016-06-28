@@ -2,13 +2,14 @@
   "id": 169595727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.196419,28.522301,77.196419,28.522301",
     "geom:latitude":28.522301,
     "geom:longitude":77.196419,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"F-213/d, Lado Sarai, Mehrauli - Badarpur Road,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169595727,
-    "wof:lastmodified":1449035635,
+    "wof:lastmodified":1466288810,
     "wof:name":"Oikos India Pvt. Ltd.",
     "wof:parent_id":85928635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "allied"
     ]
 },
-  "bbox": [77.196419,28.522301,77.196419,28.522301],
-  "geometry": {"coordinates":[77.196419,28.522301],"type":"Point"}
+  "bbox": [
+    77.196419,
+    28.522301,
+    77.196419,
+    28.522301
+],
+  "geometry": {"coordinates":[77.19641900000001,28.522301],"type":"Point"}
 }

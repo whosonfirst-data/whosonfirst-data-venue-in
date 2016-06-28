@@ -2,13 +2,14 @@
   "id": 169561329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.571609,12.939141,77.571609,12.939141",
     "geom:latitude":12.939141,
     "geom:longitude":77.571609,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Subbarama Chetty Road, Basavanagudi",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169561329,
-    "wof:lastmodified":1449035018,
+    "wof:lastmodified":1466288718,
     "wof:name":"Esscee Engineering Co Pvt Ltd",
     "wof:parent_id":85930849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.571609,12.939141,77.571609,12.939141],
+  "bbox": [
+    77.571609,
+    12.939141,
+    77.571609,
+    12.939141
+],
   "geometry": {"coordinates":[77.571609,12.939141],"type":"Point"}
 }

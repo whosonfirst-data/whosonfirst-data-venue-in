@@ -2,13 +2,14 @@
   "id": 169639231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.969162,11.019187,76.969162,11.019187",
     "geom:latitude":11.019187,
     "geom:longitude":76.969162,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"37, 1st Street, Dr. Sivananda Colony, Tatabad,",
     "sg:city":"Coimbatore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169639231,
-    "wof:lastmodified":1449035950,
+    "wof:lastmodified":1466288842,
     "wof:name":"Unique Plastics",
     "wof:parent_id":85783699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "polymer"
     ]
 },
-  "bbox": [76.969162,11.019187,76.969162,11.019187],
+  "bbox": [
+    76.969162,
+    11.019187,
+    76.969162,
+    11.019187
+],
   "geometry": {"coordinates":[76.969162,11.019187],"type":"Point"}
 }

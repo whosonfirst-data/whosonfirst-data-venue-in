@@ -2,13 +2,14 @@
   "id": 169536181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.839378,18.937794,72.839378,18.937794",
     "geom:latitude":18.937794,
     "geom:longitude":72.839378,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"K.k.chambers, 3rd Floor, P.t.marg, Fort,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169536181,
-    "wof:lastmodified":1449034660,
+    "wof:lastmodified":1466288873,
     "wof:name":"Komal Goods Exports Pvt. Ltd",
     "wof:parent_id":85903853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.839378,18.937794,72.839378,18.937794],
+  "bbox": [
+    72.839378,
+    18.937794,
+    72.839378,
+    18.937794
+],
   "geometry": {"coordinates":[72.839378,18.937794],"type":"Point"}
 }

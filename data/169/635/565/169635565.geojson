@@ -2,13 +2,14 @@
   "id": 169635565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.431297,22.573305,88.431297,22.573305",
     "geom:latitude":22.573305,
     "geom:longitude":88.431297,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Dn-54a, Sector-v, Salt Lake City,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169635565,
-    "wof:lastmodified":1449034102,
+    "wof:lastmodified":1466288843,
     "wof:name":"The Electro-medical & Allied Industries Ltd.",
     "wof:parent_id":85932005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [88.431297,22.573305,88.431297,22.573305],
+  "bbox": [
+    88.431297,
+    22.573305,
+    88.431297,
+    22.573305
+],
   "geometry": {"coordinates":[88.431297,22.573305],"type":"Point"}
 }

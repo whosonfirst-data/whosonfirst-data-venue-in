@@ -2,13 +2,14 @@
   "id": 169539239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.657257,12.994879,77.657257,12.994879",
     "geom:latitude":12.994879,
     "geom:longitude":77.657257,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"68, 3rd Main, Income Tax Layout, Vijayanagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169539239,
-    "wof:lastmodified":1449036037,
+    "wof:lastmodified":1466288632,
     "wof:name":"Artha Enterprises",
     "wof:parent_id":85930859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandstone"
     ]
 },
-  "bbox": [77.657257,12.994879,77.657257,12.994879],
+  "bbox": [
+    77.657257,
+    12.994879,
+    77.657257,
+    12.994879
+],
   "geometry": {"coordinates":[77.657257,12.994879],"type":"Point"}
 }

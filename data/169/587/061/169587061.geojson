@@ -2,13 +2,14 @@
   "id": 169587061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.706406,30.684038,76.706406,30.684038",
     "geom:latitude":30.684038,
     "geom:longitude":76.706406,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 13, Sohna, Sector-7,",
     "sg:city":"Faridabad",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169587061,
-    "wof:lastmodified":1449033823,
+    "wof:lastmodified":1466288785,
     "wof:name":"Manchanda Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "adhesive"
     ]
 },
-  "bbox": [76.706406,30.684038,76.706406,30.684038],
+  "bbox": [
+    76.706406,
+    30.684038,
+    76.706406,
+    30.684038
+],
   "geometry": {"coordinates":[76.706406,30.684038],"type":"Point"}
 }

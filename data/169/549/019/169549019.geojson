@@ -2,13 +2,14 @@
   "id": 169549019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.826172,18.929142,72.826172,18.929142",
     "geom:latitude":18.929142,
     "geom:longitude":72.826172,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"24, Akashwani Marg, P. B. No. 3,",
     "sg:city":"Udaipur",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169549019,
-    "wof:lastmodified":1449033592,
+    "wof:lastmodified":1466288666,
     "wof:name":"Associated Soapstone District Cooperative Pvt. Ltd.",
     "wof:parent_id":85931425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "embroidery"
     ]
 },
-  "bbox": [72.826172,18.929142,72.826172,18.929142],
+  "bbox": [
+    72.826172,
+    18.929142,
+    72.826172,
+    18.929142
+],
   "geometry": {"coordinates":[72.826172,18.929142],"type":"Point"}
 }

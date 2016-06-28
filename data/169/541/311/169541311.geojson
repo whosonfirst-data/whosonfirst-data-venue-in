@@ -2,13 +2,14 @@
   "id": 169541311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.630692,13.012966,77.630692,13.012966",
     "geom:latitude":13.012966,
     "geom:longitude":77.630692,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"64, Oil Mill Road, Lingrapuram,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169541311,
-    "wof:lastmodified":1449033042,
+    "wof:lastmodified":1466288650,
     "wof:name":"J.f.soap  Industriess",
     "wof:parent_id":85930863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.630692,13.012966,77.630692,13.012966],
+  "bbox": [
+    77.630692,
+    13.012966,
+    77.630692,
+    13.012966
+],
   "geometry": {"coordinates":[77.630692,13.012966],"type":"Point"}
 }

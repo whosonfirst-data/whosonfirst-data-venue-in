@@ -2,13 +2,14 @@
   "id": 169557791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.203262,28.659006,77.203262,28.659006",
     "geom:latitude":28.659006,
     "geom:longitude":77.203262,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Opp. Filmistan Cinema, Model Basti",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169557791,
-    "wof:lastmodified":1449035036,
+    "wof:lastmodified":1466288727,
     "wof:name":"Jbd Books Distributors",
     "wof:parent_id":85903953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.203262,28.659006,77.203262,28.659006],
+  "bbox": [
+    77.203262,
+    28.659006,
+    77.203262,
+    28.659006
+],
   "geometry": {"coordinates":[77.203262,28.659006],"type":"Point"}
 }

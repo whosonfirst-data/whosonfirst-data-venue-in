@@ -2,13 +2,14 @@
   "id": 169532035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.833809,18.936348,72.833809,18.936348",
     "geom:latitude":18.936348,
     "geom:longitude":72.833809,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"167, 2nd Floor, D.n. Road, Fort,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169532035,
-    "wof:lastmodified":1449033796,
+    "wof:lastmodified":1466288861,
     "wof:name":"Medensco",
     "wof:parent_id":85903853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dental"
     ]
 },
-  "bbox": [72.833809,18.936348,72.833809,18.936348],
+  "bbox": [
+    72.833809,
+    18.936348,
+    72.833809,
+    18.936348
+],
   "geometry": {"coordinates":[72.833809,18.936348],"type":"Point"}
 }

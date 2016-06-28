@@ -2,13 +2,14 @@
   "id": 169540707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.228737,10.512239,76.228737,10.512239",
     "geom:latitude":10.512239,
     "geom:longitude":76.228737,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"555, 1st Floor, Avenue Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169540707,
-    "wof:lastmodified":1449033977,
+    "wof:lastmodified":1466288666,
     "wof:name":"Peacock Silks",
     "wof:parent_id":85783615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "silk"
     ]
 },
-  "bbox": [76.228737,10.512239,76.228737,10.512239],
+  "bbox": [
+    76.228737,
+    10.512239,
+    76.228737,
+    10.512239
+],
   "geometry": {"coordinates":[76.228737,10.512239],"type":"Point"}
 }

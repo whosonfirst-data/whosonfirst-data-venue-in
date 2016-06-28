@@ -2,13 +2,14 @@
   "id": 169526933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.808678,18.963247,72.808678,18.963247",
     "geom:latitude":18.963247,
     "geom:longitude":72.808678,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B-92/94, Gowalia Tank Road, Opp. Cumballa Hill Hospital, Kemps Corner,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169526933,
-    "wof:lastmodified":1449033699,
+    "wof:lastmodified":1466288628,
     "wof:name":"Blue Tack",
     "wof:parent_id":85931429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "-"
     ]
 },
-  "bbox": [72.808678,18.963247,72.808678,18.963247],
+  "bbox": [
+    72.808678,
+    18.963247,
+    72.808678,
+    18.963247
+],
   "geometry": {"coordinates":[72.808678,18.963247],"type":"Point"}
 }

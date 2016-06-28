@@ -2,13 +2,14 @@
   "id": 169526459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.837563,19.131195,72.837563,19.131195",
     "geom:latitude":19.131195,
     "geom:longitude":72.837563,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"108, Damji Shamji Udyog Bhavan, Veera Desai Road, Andheri (west),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169526459,
-    "wof:lastmodified":1449033700,
+    "wof:lastmodified":1466288625,
     "wof:name":"Japs International",
     "wof:parent_id":85931475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "component"
     ]
 },
-  "bbox": [72.837563,19.131195,72.837563,19.131195],
+  "bbox": [
+    72.837563,
+    19.131195,
+    72.837563,
+    19.131195
+],
   "geometry": {"coordinates":[72.837563,19.131195],"type":"Point"}
 }

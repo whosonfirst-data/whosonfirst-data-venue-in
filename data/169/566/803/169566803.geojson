@@ -2,13 +2,14 @@
   "id": 169566803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.833252,18.929939,72.833252,18.929939",
     "geom:latitude":18.929939,
     "geom:longitude":72.833252,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Near Stock Exchange, Fort",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169566803,
-    "wof:lastmodified":1449032755,
+    "wof:lastmodified":1466288730,
     "wof:name":"Galiabat Containers Pvt Ltd",
     "wof:parent_id":85903853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.833252,18.929939,72.833252,18.929939],
+  "bbox": [
+    72.833252,
+    18.929939,
+    72.833252,
+    18.929939
+],
   "geometry": {"coordinates":[72.833252,18.929939],"type":"Point"}
 }

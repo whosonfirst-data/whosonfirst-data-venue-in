@@ -2,13 +2,14 @@
   "id": 169581053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.181602,28.642597,77.181602,28.642597",
     "geom:latitude":28.642597,
     "geom:longitude":77.181602,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Patel Chambers, 2nd Floor, 152, East Nehru Nagar,",
     "sg:city":"Secunderabad",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169581053,
-    "wof:lastmodified":1449033380,
+    "wof:lastmodified":1466288893,
     "wof:name":"Jupiter Orga Ltd.",
     "wof:parent_id":85928113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acid"
     ]
 },
-  "bbox": [77.181602,28.642597,77.181602,28.642597],
+  "bbox": [
+    77.181602,
+    28.642597,
+    77.181602,
+    28.642597
+],
   "geometry": {"coordinates":[77.181602,28.642597],"type":"Point"}
 }

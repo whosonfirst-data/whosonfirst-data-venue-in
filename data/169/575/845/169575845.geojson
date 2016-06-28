@@ -2,13 +2,14 @@
   "id": 169575845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.366386,22.49432,88.366386,22.49432",
     "geom:latitude":22.49432,
     "geom:longitude":88.366386,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"17d, North Road, Jadavpur,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169575845,
-    "wof:lastmodified":1449033640,
+    "wof:lastmodified":1466288769,
     "wof:name":"Basic & Synthetic Chemicals Pvt. Ltd.",
     "wof:parent_id":85903873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [88.366386,22.49432,88.366386,22.49432],
-  "geometry": {"coordinates":[88.366386,22.49432],"type":"Point"}
+  "bbox": [
+    88.366386,
+    22.49432,
+    88.366386,
+    22.49432
+],
+  "geometry": {"coordinates":[88.36638600000001,22.49432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169542275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.527306,13.035222,77.527306,13.035222",
     "geom:latitude":13.035222,
     "geom:longitude":77.527306,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Maneshwara Industrial Estae, Tumkur Road, Peenya,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169542275,
-    "wof:lastmodified":1449035220,
+    "wof:lastmodified":1466288649,
     "wof:name":"Radice Ispat (india) Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "component"
     ]
 },
-  "bbox": [77.527306,13.035222,77.527306,13.035222],
+  "bbox": [
+    77.527306,
+    13.035222,
+    77.527306,
+    13.035222
+],
   "geometry": {"coordinates":[77.527306,13.035222],"type":"Point"}
 }

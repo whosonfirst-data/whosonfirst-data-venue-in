@@ -2,13 +2,14 @@
   "id": 169641489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.336029,28.586586,77.336029,28.586586",
     "geom:latitude":28.586586,
     "geom:longitude":77.336029,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"H.no. 2191, Sector 21-c,",
     "sg:city":"Chandigarh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169641489,
-    "wof:lastmodified":1449035169,
+    "wof:lastmodified":1466288844,
     "wof:name":"Vardhman Fertilizers & Seeds Pvt. Ltd.",
     "wof:parent_id":85928405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [77.336029,28.586586,77.336029,28.586586],
+  "bbox": [
+    77.336029,
+    28.586586,
+    77.336029,
+    28.586586
+],
   "geometry": {"coordinates":[77.336029,28.586586],"type":"Point"}
 }

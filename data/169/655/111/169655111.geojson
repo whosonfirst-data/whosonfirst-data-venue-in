@@ -2,13 +2,14 @@
   "id": 169655111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"23.45177,58.574719,23.45177,58.574719",
     "geom:latitude":58.574719,
     "geom:longitude":23.45177,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"10&11, Rahul Enclave Mumbai-BLR Expressway,",
     "sg:city":"Pune",
     "sg:classifiers":[
@@ -39,10 +40,11 @@
     "wof:geomhash":"72df48b9b222f59073a82045e72a1714",
     "wof:hierarchy":[],
     "wof:id":169655111,
-    "wof:lastmodified":1449034590,
+    "wof:lastmodified":1466288895,
     "wof:name":"Soft Aim Innovations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -54,6 +56,11 @@
         "projects"
     ]
 },
-  "bbox": [23.45177,58.574719,23.45177,58.574719],
+  "bbox": [
+    23.45177,
+    58.574719,
+    23.45177,
+    58.574719
+],
   "geometry": {"coordinates":[23.45177,58.574719],"type":"Point"}
 }

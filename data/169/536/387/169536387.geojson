@@ -2,13 +2,14 @@
   "id": 169536387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.887947,19.107935,72.887947,19.107935",
     "geom:latitude":19.107935,
     "geom:longitude":72.887947,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Jalaram Commercial Centre, Saki Vihar Road, Sakinaka,",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169536387,
-    "wof:lastmodified":1449034660,
+    "wof:lastmodified":1466288633,
     "wof:name":"Universal Pollution Control (i) Pvt. Ltd.",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.887947,19.107935,72.887947,19.107935],
+  "bbox": [
+    72.887947,
+    19.107935,
+    72.887947,
+    19.107935
+],
   "geometry": {"coordinates":[72.887947,19.107935],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169530893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.858986,19.109812,72.858986,19.109812",
     "geom:latitude":19.109812,
     "geom:longitude":72.858986,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"47, Chakala Road, Andheri (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169530893,
-    "wof:lastmodified":1449034445,
+    "wof:lastmodified":1466288690,
     "wof:name":"Industrial Controls And Appliances Pvt. Ltd.",
     "wof:parent_id":85931483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "panel"
     ]
 },
-  "bbox": [72.858986,19.109812,72.858986,19.109812],
+  "bbox": [
+    72.858986,
+    19.109812,
+    72.858986,
+    19.109812
+],
   "geometry": {"coordinates":[72.858986,19.109812],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169638153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.866028,19.172602,72.866028,19.172602",
     "geom:latitude":19.172602,
     "geom:longitude":72.866028,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"602/20b, Hill View, Bimbisar Nagar, Goregaon (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169638153,
-    "wof:lastmodified":1449032868,
+    "wof:lastmodified":1466288840,
     "wof:name":"Ultratech Chemicals",
     "wof:parent_id":85931525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.866028,19.172602,72.866028,19.172602],
+  "bbox": [
+    72.866028,
+    19.172602,
+    72.866028,
+    19.172602
+],
   "geometry": {"coordinates":[72.866028,19.172602],"type":"Point"}
 }

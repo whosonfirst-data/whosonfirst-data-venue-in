@@ -2,13 +2,14 @@
   "id": 169590549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.034859,28.587196,77.034859,28.587196",
     "geom:latitude":28.587196,
     "geom:longitude":77.034859,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"# 235, Sector 18a,",
     "sg:city":"Chandigarh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169590549,
-    "wof:lastmodified":1449034653,
+    "wof:lastmodified":1466288806,
     "wof:name":"Mohan Fibre Products Limited",
     "wof:parent_id":85927883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.034859,28.587196,77.034859,28.587196],
+  "bbox": [
+    77.034859,
+    28.587196,
+    77.034859,
+    28.587196
+],
   "geometry": {"coordinates":[77.034859,28.587196],"type":"Point"}
 }

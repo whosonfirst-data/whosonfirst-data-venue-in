@@ -2,13 +2,14 @@
   "id": 169590369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.843704,19.022301,72.843704,19.022301",
     "geom:latitude":19.022301,
     "geom:longitude":72.843704,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Village Kaka,",
     "sg:city":"Ludhiana",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169590369,
-    "wof:lastmodified":1449034656,
+    "wof:lastmodified":1466288803,
     "wof:name":"Modern Foam Udyog",
     "wof:parent_id":85931545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.843704,19.022301,72.843704,19.022301],
+  "bbox": [
+    72.843704,
+    19.022301,
+    72.843704,
+    19.022301
+],
   "geometry": {"coordinates":[72.843704,19.022301],"type":"Point"}
 }

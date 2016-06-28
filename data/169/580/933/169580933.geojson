@@ -2,13 +2,14 @@
   "id": 169580933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.828995,18.946501,72.828995,18.946501",
     "geom:latitude":18.946501,
     "geom:longitude":72.828995,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"21/29, Popatwadi, 1st Floor, Kalbadevi Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169580933,
-    "wof:lastmodified":1449034916,
+    "wof:lastmodified":1466288817,
     "wof:name":"J-sil Trading Corporation",
     "wof:parent_id":85931439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [72.828995,18.946501,72.828995,18.946501],
-  "geometry": {"coordinates":[72.828995,18.946501],"type":"Point"}
+  "bbox": [
+    72.828995,
+    18.946501,
+    72.828995,
+    18.946501
+],
+  "geometry": {"coordinates":[72.82899500000001,18.946501],"type":"Point"}
 }

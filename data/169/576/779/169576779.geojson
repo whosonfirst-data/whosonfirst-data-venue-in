@@ -2,13 +2,14 @@
   "id": 169576779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.663902,23.016762,72.663902,23.016762",
     "geom:latitude":23.016762,
     "geom:longitude":72.663902,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"437/52, Amar Estate, G.i.d.c. Estate, Near, New Asarwa Chemical, Odhav,",
     "sg:city":"Ahmedabad",
     "sg:classifiers":[
@@ -45,16 +46,22 @@
         }
     ],
     "wof:id":169576779,
-    "wof:lastmodified":1449035196,
+    "wof:lastmodified":1466288771,
     "wof:name":"First Chem Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resin"
     ]
 },
-  "bbox": [72.663902,23.016762,72.663902,23.016762],
-  "geometry": {"coordinates":[72.663902,23.016762],"type":"Point"}
+  "bbox": [
+    72.663902,
+    23.016762,
+    72.663902,
+    23.016762
+],
+  "geometry": {"coordinates":[72.66390199999999,23.016762],"type":"Point"}
 }

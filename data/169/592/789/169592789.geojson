@@ -2,13 +2,14 @@
   "id": 169592789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.583862,12.925317,77.583862,12.925317",
     "geom:latitude":12.925317,
     "geom:longitude":77.583862,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"22, C.r. Avenue,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169592789,
-    "wof:lastmodified":1449034584,
+    "wof:lastmodified":1466288807,
     "wof:name":"Nature Plast Pvt. Ltd.",
     "wof:parent_id":85930887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [77.583862,12.925317,77.583862,12.925317],
+  "bbox": [
+    77.583862,
+    12.925317,
+    77.583862,
+    12.925317
+],
   "geometry": {"coordinates":[77.583862,12.925317],"type":"Point"}
 }

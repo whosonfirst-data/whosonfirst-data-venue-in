@@ -2,13 +2,14 @@
   "id": 169565365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"82.136345,26.778301,82.136345,26.778301",
     "geom:latitude":26.778301,
     "geom:longitude":82.136345,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Lajpat Nagar",
     "sg:city":"Kanpur",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169565365,
-    "wof:lastmodified":1449035663,
+    "wof:lastmodified":1466288715,
     "wof:name":"Panem Steels Pvt Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [82.136345,26.778301,82.136345,26.778301],
-  "geometry": {"coordinates":[82.136345,26.778301],"type":"Point"}
+  "bbox": [
+    82.136345,
+    26.778301,
+    82.136345,
+    26.778301
+],
+  "geometry": {"coordinates":[82.13634500000001,26.778301],"type":"Point"}
 }

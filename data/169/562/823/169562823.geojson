@@ -2,13 +2,14 @@
   "id": 169562823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.407059,22.602322,88.407059,22.602322",
     "geom:latitude":22.602322,
     "geom:longitude":88.407059,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"North Block, 3rd Floor",
     "sg:city":"Kolkata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169562823,
-    "wof:lastmodified":1449034440,
+    "wof:lastmodified":1466288725,
     "wof:name":"Century Aluminium Manufacturing Co Ltd",
     "wof:parent_id":85903943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [88.407059,22.602322,88.407059,22.602322],
+  "bbox": [
+    88.407059,
+    22.602322,
+    88.407059,
+    22.602322
+],
   "geometry": {"coordinates":[88.407059,22.602322],"type":"Point"}
 }

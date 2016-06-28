@@ -2,13 +2,14 @@
   "id": 169527361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.909142,19.086636,72.909142,19.086636",
     "geom:latitude":19.086636,
     "geom:longitude":72.909142,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"4857/113, Pant Nagar, Ghatkopar (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169527361,
-    "wof:lastmodified":1449035280,
+    "wof:lastmodified":1466288630,
     "wof:name":"Tureen Speciality Ingredients Pvt. Ltd.",
     "wof:parent_id":85931531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bead"
     ]
 },
-  "bbox": [72.909142,19.086636,72.909142,19.086636],
+  "bbox": [
+    72.909142,
+    19.086636,
+    72.909142,
+    19.086636
+],
   "geometry": {"coordinates":[72.909142,19.086636],"type":"Point"}
 }

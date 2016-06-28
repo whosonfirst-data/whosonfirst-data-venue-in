@@ -2,13 +2,14 @@
   "id": 169560793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.821991,18.926422,72.821991,18.926422",
     "geom:latitude":18.926422,
     "geom:longitude":72.821991,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"114, Mittal Chambers, Nariman Point,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169560793,
-    "wof:lastmodified":1449035181,
+    "wof:lastmodified":1466288758,
     "wof:name":"E. O. C. Tailor Made Polymers India",
     "wof:parent_id":85931461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "allied"
     ]
 },
-  "bbox": [72.821991,18.926422,72.821991,18.926422],
+  "bbox": [
+    72.821991,
+    18.926422,
+    72.821991,
+    18.926422
+],
   "geometry": {"coordinates":[72.821991,18.926422],"type":"Point"}
 }

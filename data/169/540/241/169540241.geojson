@@ -2,13 +2,14 @@
   "id": 169540241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.594376,12.971606,77.594376,12.971606",
     "geom:latitude":12.971606,
     "geom:longitude":77.594376,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Bangalore Hosiery Complex, # 107, Ist Floor, A.s. Char Street,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169540241,
-    "wof:lastmodified":1449033978,
+    "wof:lastmodified":1466288643,
     "wof:name":"Denim City",
     "wof:parent_id":85930949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shirt"
     ]
 },
-  "bbox": [77.594376,12.971606,77.594376,12.971606],
+  "bbox": [
+    77.594376,
+    12.971606,
+    77.594376,
+    12.971606
+],
   "geometry": {"coordinates":[77.594376,12.971606],"type":"Point"}
 }

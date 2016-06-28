@@ -2,13 +2,14 @@
   "id": 169534841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.842896,19.016119,72.842896,19.016119",
     "geom:latitude":19.016119,
     "geom:longitude":72.842896,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"230/95, Hind Rajasthan Building, Dada Saheb Phalke Road, Dadar (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169534841,
-    "wof:lastmodified":1449033547,
+    "wof:lastmodified":1466288640,
     "wof:name":"Elico Limited",
     "wof:parent_id":85931545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic"
     ]
 },
-  "bbox": [72.842896,19.016119,72.842896,19.016119],
+  "bbox": [
+    72.842896,
+    19.016119,
+    72.842896,
+    19.016119
+],
   "geometry": {"coordinates":[72.842896,19.016119],"type":"Point"}
 }

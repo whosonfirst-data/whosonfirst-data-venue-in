@@ -2,13 +2,14 @@
   "id": 169579099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.320488,28.341431,77.320488,28.341431",
     "geom:latitude":28.341431,
     "geom:longitude":77.320488,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"36, Opp. Panchayat Bhawan, Ballbgarh,",
     "sg:city":"Faridabad",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169579099,
-    "wof:lastmodified":1449033740,
+    "wof:lastmodified":1466288777,
     "wof:name":"Horizon Rubber Products Ltd.",
     "wof:parent_id":85903787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [77.320488,28.341431,77.320488,28.341431],
+  "bbox": [
+    77.320488,
+    28.341431,
+    77.320488,
+    28.341431
+],
   "geometry": {"coordinates":[77.320488,28.341431],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169643607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.635666,16.5009,80.635666,16.5009",
     "geom:latitude":16.5009,
     "geom:longitude":80.635666,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"D.no. 27-1-31, Eluru Road, Governorpet,",
     "sg:city":"Vijayawada",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169643607,
-    "wof:lastmodified":1449035522,
+    "wof:lastmodified":1466288847,
     "wof:name":"Vijayakrishna Enterprises",
     "wof:parent_id":85933231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.635666,16.5009,80.635666,16.5009],
+  "bbox": [
+    80.635666,
+    16.5009,
+    80.635666,
+    16.5009
+],
   "geometry": {"coordinates":[80.635666,16.5009],"type":"Point"}
 }

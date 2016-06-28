@@ -2,13 +2,14 @@
   "id": 169537971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.58017,12.930788,77.58017,12.930788",
     "geom:latitude":12.930788,
     "geom:longitude":77.58017,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"60, 27th Cross, 4th Block, Jayanagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169537971,
-    "wof:lastmodified":1449033498,
+    "wof:lastmodified":1466288661,
     "wof:name":"Vardhaman Steel Centre",
     "wof:parent_id":85930887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cooker"
     ]
 },
-  "bbox": [77.58017,12.930788,77.58017,12.930788],
+  "bbox": [
+    77.58017,
+    12.930788,
+    77.58017,
+    12.930788
+],
   "geometry": {"coordinates":[77.58017,12.930788],"type":"Point"}
 }

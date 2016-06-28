@@ -2,13 +2,14 @@
   "id": 169531337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.939064,19.164045,72.939064,19.164045",
     "geom:latitude":19.164045,
     "geom:longitude":72.939064,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"124, Udyog Kshetra, Mulund-goregaon Link Road,mulund (west),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169531337,
-    "wof:lastmodified":1449033473,
+    "wof:lastmodified":1466288857,
     "wof:name":"Lotus Beauty Care Products Pvt. Ltd.",
     "wof:parent_id":85931655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accessory"
     ]
 },
-  "bbox": [72.939064,19.164045,72.939064,19.164045],
+  "bbox": [
+    72.939064,
+    19.164045,
+    72.939064,
+    19.164045
+],
   "geometry": {"coordinates":[72.939064,19.164045],"type":"Point"}
 }

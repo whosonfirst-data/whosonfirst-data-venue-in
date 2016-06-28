@@ -2,13 +2,14 @@
   "id": 169560505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.817665,18.956108,72.817665,18.956108",
     "geom:latitude":18.956108,
     "geom:longitude":72.817665,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"21, 2nd Bhatwadi, Girgaum Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169560505,
-    "wof:lastmodified":1449035182,
+    "wof:lastmodified":1466288737,
     "wof:name":"Dhwani Impex",
     "wof:parent_id":85931435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [72.817665,18.956108,72.817665,18.956108],
-  "geometry": {"coordinates":[72.817665,18.956108],"type":"Point"}
+  "bbox": [
+    72.817665,
+    18.956108,
+    72.817665,
+    18.956108
+],
+  "geometry": {"coordinates":[72.81766500000001,18.956108],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169576723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.794243,30.69022,76.794243,30.69022",
     "geom:latitude":30.69022,
     "geom:longitude":76.794243,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"73, New Dlf Industrial Area, Phase-i,",
     "sg:city":"Faridabad",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169576723,
-    "wof:lastmodified":1449035197,
+    "wof:lastmodified":1466288769,
     "wof:name":"Fibrex Construction Chemicals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "coating"
     ]
 },
-  "bbox": [76.794243,30.69022,76.794243,30.69022],
-  "geometry": {"coordinates":[76.794243,30.69022],"type":"Point"}
+  "bbox": [
+    76.794243,
+    30.69022,
+    76.794243,
+    30.69022
+],
+  "geometry": {"coordinates":[76.79424299999999,30.69022],"type":"Point"}
 }

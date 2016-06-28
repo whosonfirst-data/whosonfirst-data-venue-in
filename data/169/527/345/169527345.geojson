@@ -2,13 +2,14 @@
   "id": 169527345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.829643,18.953863,72.829643,18.953863",
     "geom:latitude":18.953863,
     "geom:longitude":72.829643,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"79/81, 3rd Bhoiwada, Bhuleshwar,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169527345,
-    "wof:lastmodified":1449035280,
+    "wof:lastmodified":1466288629,
     "wof:name":"Shyamlal Radhakrishna & Co.",
     "wof:parent_id":85931435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bead"
     ]
 },
-  "bbox": [72.829643,18.953863,72.829643,18.953863],
+  "bbox": [
+    72.829643,
+    18.953863,
+    72.829643,
+    18.953863
+],
   "geometry": {"coordinates":[72.829643,18.953863],"type":"Point"}
 }

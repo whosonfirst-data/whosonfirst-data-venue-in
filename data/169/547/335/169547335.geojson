@@ -2,13 +2,14 @@
   "id": 169547335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.529884,17.47933,78.529884,17.47933",
     "geom:latitude":17.47933,
     "geom:longitude":78.529884,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#2, N.r.k.puram,",
     "sg:city":"Tirupur",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169547335,
-    "wof:lastmodified":1449033009,
+    "wof:lastmodified":1466288664,
     "wof:name":"Acs",
     "wof:parent_id":85930655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.529884,17.47933,78.529884,17.47933],
+  "bbox": [
+    78.529884,
+    17.47933,
+    78.529884,
+    17.47933
+],
   "geometry": {"coordinates":[78.529884,17.47933],"type":"Point"}
 }

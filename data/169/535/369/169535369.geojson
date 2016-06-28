@@ -2,13 +2,14 @@
   "id": 169535369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.117439,18.98007,73.117439,18.98007",
     "geom:latitude":18.98007,
     "geom:longitude":73.117439,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B-106, National Paradise, Takka, Panvel,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169535369,
-    "wof:lastmodified":1449033289,
+    "wof:lastmodified":1466288873,
     "wof:name":"Slipform Engg. Co.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "good"
     ]
 },
-  "bbox": [73.117439,18.98007,73.117439,18.98007],
+  "bbox": [
+    73.117439,
+    18.98007,
+    73.117439,
+    18.98007
+],
   "geometry": {"coordinates":[73.117439,18.98007],"type":"Point"}
 }

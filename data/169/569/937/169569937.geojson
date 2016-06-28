@@ -2,13 +2,14 @@
   "id": 169569937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.8396,18.935444,72.8396,18.935444",
     "geom:latitude":18.935444,
     "geom:longitude":72.8396,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"J.n.heredia Road, Ballard Estate",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169569937,
-    "wof:lastmodified":1449035828,
+    "wof:lastmodified":1466288775,
     "wof:name":"Batliboi International Ltd",
     "wof:parent_id":85903853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.8396,18.935444,72.8396,18.935444],
+  "bbox": [
+    72.8396,
+    18.935444,
+    72.8396,
+    18.935444
+],
   "geometry": {"coordinates":[72.8396,18.935444],"type":"Point"}
 }

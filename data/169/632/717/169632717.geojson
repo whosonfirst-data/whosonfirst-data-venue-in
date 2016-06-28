@@ -2,13 +2,14 @@
   "id": 169632717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"74.450989,17.290974,74.450989,17.290974",
     "geom:latitude":17.290974,
     "geom:longitude":74.450989,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"21 B/1, C. M. R. Road,",
     "sg:city":"Madurai",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169632717,
-    "wof:lastmodified":1449034792,
+    "wof:lastmodified":1466288838,
     "wof:name":"Suriya Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [74.450989,17.290974,74.450989,17.290974],
-  "geometry": {"coordinates":[74.450989,17.290974],"type":"Point"}
+  "bbox": [
+    74.450989,
+    17.290974,
+    74.450989,
+    17.290974
+],
+  "geometry": {"coordinates":[74.45098900000001,17.290974],"type":"Point"}
 }

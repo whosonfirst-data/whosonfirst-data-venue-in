@@ -2,13 +2,14 @@
   "id": 169537863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.624115,13.010252,77.624115,13.010252",
     "geom:latitude":13.010252,
     "geom:longitude":77.624115,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"8/35, 1st Floor, Hennur Main Road, Lingarajapuram,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169537863,
-    "wof:lastmodified":1449033498,
+    "wof:lastmodified":1466288656,
     "wof:name":"Singh Engineering Works",
     "wof:parent_id":85930863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pressed"
     ]
 },
-  "bbox": [77.624115,13.010252,77.624115,13.010252],
+  "bbox": [
+    77.624115,
+    13.010252,
+    77.624115,
+    13.010252
+],
   "geometry": {"coordinates":[77.624115,13.010252],"type":"Point"}
 }

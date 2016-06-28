@@ -2,13 +2,14 @@
   "id": 169534573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.847588,19.165304,72.847588,19.165304",
     "geom:latitude":19.165304,
     "geom:longitude":72.847588,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B-39, Rolex Shopping Centre, Station Road, Goregoan - West,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169534573,
-    "wof:lastmodified":1449033550,
+    "wof:lastmodified":1466288630,
     "wof:name":"Vishnu Lamination Pvt. Ltd.",
     "wof:parent_id":85931563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [72.847588,19.165304,72.847588,19.165304],
+  "bbox": [
+    72.847588,
+    19.165304,
+    72.847588,
+    19.165304
+],
   "geometry": {"coordinates":[72.847588,19.165304],"type":"Point"}
 }

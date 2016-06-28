@@ -2,13 +2,14 @@
   "id": 169593747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.502365,9.757266,76.502365,9.757266",
     "geom:latitude":9.757266,
     "geom:longitude":76.502365,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Muttuchira P.o.,",
     "sg:city":"Kottayam",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169593747,
-    "wof:lastmodified":1449034877,
+    "wof:lastmodified":1466288808,
     "wof:name":"Neerakkal Latex (p) Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [76.502365,9.757266,76.502365,9.757266],
+  "bbox": [
+    76.502365,
+    9.757266,
+    76.502365,
+    9.757266
+],
   "geometry": {"coordinates":[76.502365,9.757266],"type":"Point"}
 }

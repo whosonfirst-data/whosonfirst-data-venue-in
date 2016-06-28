@@ -2,13 +2,14 @@
   "id": 169541017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.587822,12.960433,77.587822,12.960433",
     "geom:latitude":12.960433,
     "geom:longitude":77.587822,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"75, 3rd Cross, Lalbagh Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169541017,
-    "wof:lastmodified":1449033042,
+    "wof:lastmodified":1466288637,
     "wof:name":"Varasiddhi Silk Exports",
     "wof:parent_id":85930903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "silk"
     ]
 },
-  "bbox": [77.587822,12.960433,77.587822,12.960433],
+  "bbox": [
+    77.587822,
+    12.960433,
+    77.587822,
+    12.960433
+],
   "geometry": {"coordinates":[77.587822,12.960433],"type":"Point"}
 }

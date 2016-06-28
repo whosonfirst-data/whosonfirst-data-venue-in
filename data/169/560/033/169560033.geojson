@@ -2,13 +2,14 @@
   "id": 169560033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.81768,19.003601,72.81768,19.003601",
     "geom:latitude":19.003601,
     "geom:longitude":72.81768,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"52, S.k. Ahire Marg",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169560033,
-    "wof:lastmodified":1449035180,
+    "wof:lastmodified":1466288702,
     "wof:name":"Chandni Engineering Ltd",
     "wof:parent_id":85903999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.81768,19.003601,72.81768,19.003601],
+  "bbox": [
+    72.81768,
+    19.003601,
+    72.81768,
+    19.003601
+],
   "geometry": {"coordinates":[72.81768,19.003601],"type":"Point"}
 }

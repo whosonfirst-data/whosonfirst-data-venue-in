@@ -2,13 +2,14 @@
   "id": 169615725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.480247,17.385683,78.480247,17.385683",
     "geom:latitude":17.385683,
     "geom:longitude":78.480247,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"4-3-352, Bank Street, Koti,",
     "sg:city":"Hyderabad",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169615725,
-    "wof:lastmodified":1449033731,
+    "wof:lastmodified":1466288829,
     "wof:name":"Sanghi Industries Limited",
     "wof:parent_id":85930737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pu/pvc"
     ]
 },
-  "bbox": [78.480247,17.385683,78.480247,17.385683],
-  "geometry": {"coordinates":[78.480247,17.385683],"type":"Point"}
+  "bbox": [
+    78.480247,
+    17.385683,
+    78.480247,
+    17.385683
+],
+  "geometry": {"coordinates":[78.48024700000001,17.385683],"type":"Point"}
 }

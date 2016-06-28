@@ -2,13 +2,14 @@
   "id": 169550009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.25856,28.662371,77.25856,28.662371",
     "geom:latitude":28.662371,
     "geom:longitude":77.25856,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Block A-997/1993, Kailash Colony,",
     "sg:city":"Ulhasnagar",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169550009,
-    "wof:lastmodified":1449034477,
+    "wof:lastmodified":1466288880,
     "wof:name":"Mohanlal & Sons",
     "wof:parent_id":85928059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "wear"
     ]
 },
-  "bbox": [77.25856,28.662371,77.25856,28.662371],
+  "bbox": [
+    77.25856,
+    28.662371,
+    77.25856,
+    28.662371
+],
   "geometry": {"coordinates":[77.25856,28.662371],"type":"Point"}
 }

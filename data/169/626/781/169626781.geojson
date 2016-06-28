@@ -2,13 +2,14 @@
   "id": 169626781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.59877,12.966628,77.59877,12.966628",
     "geom:latitude":12.966628,
     "geom:longitude":77.59877,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"H.i.g. - E/34, R.s.s. Nagar,",
     "sg:city":"Indore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169626781,
-    "wof:lastmodified":1449035970,
+    "wof:lastmodified":1466288838,
     "wof:name":"Spot Globo",
     "wof:parent_id":85930933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.59877,12.966628,77.59877,12.966628],
+  "bbox": [
+    77.59877,
+    12.966628,
+    77.59877,
+    12.966628
+],
   "geometry": {"coordinates":[77.59877,12.966628],"type":"Point"}
 }

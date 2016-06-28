@@ -2,13 +2,14 @@
   "id": 169570151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.998138,19.174892,72.998138,19.174892",
     "geom:latitude":19.174892,
     "geom:longitude":72.998138,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Thane Belapur Road, Kalwa, Thane",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570151,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466288736,
     "wof:name":"Precision Fasteners Ltd",
     "wof:parent_id":85904011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.998138,19.174892,72.998138,19.174892],
+  "bbox": [
+    72.998138,
+    19.174892,
+    72.998138,
+    19.174892
+],
   "geometry": {"coordinates":[72.998138,19.174892],"type":"Point"}
 }

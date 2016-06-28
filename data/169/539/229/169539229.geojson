@@ -2,13 +2,14 @@
   "id": 169539229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.843636,19.009495,72.843636,19.009495",
     "geom:latitude":19.009495,
     "geom:longitude":72.843636,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"126, Krishna Buildings, Avenue Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169539229,
-    "wof:lastmodified":1449036038,
+    "wof:lastmodified":1466288876,
     "wof:name":"Ravi Fine Arts",
     "wof:parent_id":85931539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "artifact"
     ]
 },
-  "bbox": [72.843636,19.009495,72.843636,19.009495],
+  "bbox": [
+    72.843636,
+    19.009495,
+    72.843636,
+    19.009495
+],
   "geometry": {"coordinates":[72.843636,19.009495],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169536359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.8312,19.144722,72.8312,19.144722",
     "geom:latitude":19.144722,
     "geom:longitude":72.8312,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"9-m, Laxmi Industrial Estate, New Link Road, Andheri (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169536359,
-    "wof:lastmodified":1449034655,
+    "wof:lastmodified":1466288876,
     "wof:name":"Tredz Creations",
     "wof:parent_id":85931475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.8312,19.144722,72.8312,19.144722],
+  "bbox": [
+    72.8312,
+    19.144722,
+    72.8312,
+    19.144722
+],
   "geometry": {"coordinates":[72.8312,19.144722],"type":"Point"}
 }

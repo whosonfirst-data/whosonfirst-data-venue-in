@@ -2,13 +2,14 @@
   "id": 169620637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.792572,18.641396,73.792572,18.641396",
     "geom:latitude":18.641396,
     "geom:longitude":73.792572,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"C-1b/6833, G.i.d.c.,",
     "sg:city":"Ankleshwar",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169620637,
-    "wof:lastmodified":1449035673,
+    "wof:lastmodified":1466288829,
     "wof:name":"Shree Ganesh Dyes",
     "wof:parent_id":85931299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "intermediate"
     ]
 },
-  "bbox": [73.792572,18.641396,73.792572,18.641396],
-  "geometry": {"coordinates":[73.792572,18.641396],"type":"Point"}
+  "bbox": [
+    73.792572,
+    18.641396,
+    73.792572,
+    18.641396
+],
+  "geometry": {"coordinates":[73.79257200000001,18.641396],"type":"Point"}
 }

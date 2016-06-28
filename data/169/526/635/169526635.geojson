@@ -2,13 +2,14 @@
   "id": 169526635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.876801,19.055882,72.876801,19.055882",
     "geom:latitude":19.055882,
     "geom:longitude":72.876801,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Jogani Industrial Complex, 6/314, Near A.t.i., Sion,",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169526635,
-    "wof:lastmodified":1449033699,
+    "wof:lastmodified":1466288626,
     "wof:name":"Hasta Pharmaceuticals Pvt. Ltd.",
     "wof:parent_id":85903847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.876801,19.055882,72.876801,19.055882],
+  "bbox": [
+    72.876801,
+    19.055882,
+    72.876801,
+    19.055882
+],
   "geometry": {"coordinates":[72.876801,19.055882],"type":"Point"}
 }

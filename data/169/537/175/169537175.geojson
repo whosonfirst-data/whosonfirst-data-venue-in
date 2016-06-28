@@ -2,13 +2,14 @@
   "id": 169537175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.547203,12.986368,77.547203,12.986368",
     "geom:latitude":12.986368,
     "geom:longitude":77.547203,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#82, 2nd Main, 2nd Block, 3rd Stage, Basaveshwara Nagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169537175,
-    "wof:lastmodified":1449033498,
+    "wof:lastmodified":1466288629,
     "wof:name":"Ess Enn Auto Cnc (p) Ltd.",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "precision"
     ]
 },
-  "bbox": [77.547203,12.986368,77.547203,12.986368],
+  "bbox": [
+    77.547203,
+    12.986368,
+    77.547203,
+    12.986368
+],
   "geometry": {"coordinates":[77.547203,12.986368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169537943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.7145,12.991755,77.7145,12.991755",
     "geom:latitude":12.991755,
     "geom:longitude":77.7145,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No.6/400, Hoody Village, Whitefield Road, Mahadevapura Post,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169537943,
-    "wof:lastmodified":1449033499,
+    "wof:lastmodified":1466288878,
     "wof:name":"Stat Coat Systems",
     "wof:parent_id":85931165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pressed"
     ]
 },
-  "bbox": [77.7145,12.991755,77.7145,12.991755],
+  "bbox": [
+    77.7145,
+    12.991755,
+    77.7145,
+    12.991755
+],
   "geometry": {"coordinates":[77.7145,12.991755],"type":"Point"}
 }

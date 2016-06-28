@@ -2,13 +2,14 @@
   "id": 169527777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.914482,19.052114,72.914482,19.052114",
     "geom:latitude":19.052114,
     "geom:longitude":72.914482,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"308, Arjun Centre, Govandi,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169527777,
-    "wof:lastmodified":1449035278,
+    "wof:lastmodified":1466288634,
     "wof:name":"Sita Books & Periodicals Pvt. Ltd.",
     "wof:parent_id":85931557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "book"
     ]
 },
-  "bbox": [72.914482,19.052114,72.914482,19.052114],
-  "geometry": {"coordinates":[72.914482,19.052114],"type":"Point"}
+  "bbox": [
+    72.914482,
+    19.052114,
+    72.914482,
+    19.052114
+],
+  "geometry": {"coordinates":[72.91448200000001,19.052114],"type":"Point"}
 }

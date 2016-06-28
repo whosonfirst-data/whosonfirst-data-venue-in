@@ -2,13 +2,14 @@
   "id": 169574557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.561996,12.921033,77.561996,12.921033",
     "geom:latitude":12.921033,
     "geom:longitude":77.561996,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Feet Ring Road, J. P. Nagar, 4th Phase",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169574557,
-    "wof:lastmodified":1449032663,
+    "wof:lastmodified":1466288763,
     "wof:name":"Duckworth Elavours (india) Pvt Ltd",
     "wof:parent_id":85930845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.561996,12.921033,77.561996,12.921033],
-  "geometry": {"coordinates":[77.561996,12.921033],"type":"Point"}
+  "bbox": [
+    77.561996,
+    12.921033,
+    77.561996,
+    12.921033
+],
+  "geometry": {"coordinates":[77.56199599999999,12.921033],"type":"Point"}
 }

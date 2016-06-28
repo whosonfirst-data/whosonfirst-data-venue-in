@@ -2,13 +2,14 @@
   "id": 169591881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.448906,17.425768,78.448906,17.425768",
     "geom:latitude":17.425768,
     "geom:longitude":78.448906,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 61, 1st Floor, Nagarjuna Hills,",
     "sg:city":"Hyderabad",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169591881,
-    "wof:lastmodified":1449034451,
+    "wof:lastmodified":1466288811,
     "wof:name":"Nagarjuna Agrichem Ltd.",
     "wof:parent_id":85930753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [78.448906,17.425768,78.448906,17.425768],
-  "geometry": {"coordinates":[78.448906,17.425768],"type":"Point"}
+  "bbox": [
+    78.448906,
+    17.425768,
+    78.448906,
+    17.425768
+],
+  "geometry": {"coordinates":[78.44890599999999,17.425768],"type":"Point"}
 }

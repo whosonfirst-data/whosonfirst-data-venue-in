@@ -2,13 +2,14 @@
   "id": 169559191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.174042,28.596645,77.174042,28.596645",
     "geom:latitude":28.596645,
     "geom:longitude":77.174042,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"127, J.p. Towers, Tagore Road,",
     "sg:city":"Rajkot",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169559191,
-    "wof:lastmodified":1449035239,
+    "wof:lastmodified":1466288710,
     "wof:name":"Chemineers",
     "wof:parent_id":85928227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.174042,28.596645,77.174042,28.596645],
+  "bbox": [
+    77.174042,
+    28.596645,
+    77.174042,
+    28.596645
+],
   "geometry": {"coordinates":[77.174042,28.596645],"type":"Point"}
 }

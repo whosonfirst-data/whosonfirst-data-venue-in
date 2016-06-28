@@ -2,13 +2,14 @@
   "id": 169533033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.8106,18.964005,72.8106,18.964005",
     "geom:latitude":18.964005,
     "geom:longitude":72.8106,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Spenta Towers, Flat No.81, 8th Floor, 55/57, Forjett Street,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169533033,
-    "wof:lastmodified":1449032642,
+    "wof:lastmodified":1466288865,
     "wof:name":"A. Pratham Diamonds",
     "wof:parent_id":85903971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "diamond"
     ]
 },
-  "bbox": [72.8106,18.964005,72.8106,18.964005],
-  "geometry": {"coordinates":[72.8106,18.964005],"type":"Point"}
+  "bbox": [
+    72.8106,
+    18.964005,
+    72.8106,
+    18.964005
+],
+  "geometry": {"coordinates":[72.81059999999999,18.964005],"type":"Point"}
 }

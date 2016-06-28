@@ -2,13 +2,14 @@
   "id": 169651295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.565976,13.036983,77.565976,13.036983",
     "geom:latitude":13.036983,
     "geom:longitude":77.565976,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"New BEL road Sanjay Nagar",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169651295,
-    "wof:lastmodified":1449033345,
+    "wof:lastmodified":1466288854,
     "wof:name":"SLK Software Services Pvt Ltd",
     "wof:parent_id":85930923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "it"
     ]
 },
-  "bbox": [77.565976,13.036983,77.565976,13.036983],
-  "geometry": {"coordinates":[77.565976,13.036983],"type":"Point"}
+  "bbox": [
+    77.565976,
+    13.036983,
+    77.565976,
+    13.036983
+],
+  "geometry": {"coordinates":[77.56597600000001,13.036983],"type":"Point"}
 }

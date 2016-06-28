@@ -2,13 +2,14 @@
   "id": 169525813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.836983,18.956282,72.836983,18.956282",
     "geom:latitude":18.956282,
     "geom:longitude":72.836983,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"332/334, Narsi Natha St.,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169525813,
-    "wof:lastmodified":1449035272,
+    "wof:lastmodified":1466288619,
     "wof:name":"Nhc Exports Corporation",
     "wof:parent_id":85903919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commodity"
     ]
 },
-  "bbox": [72.836983,18.956282,72.836983,18.956282],
+  "bbox": [
+    72.836983,
+    18.956282,
+    72.836983,
+    18.956282
+],
   "geometry": {"coordinates":[72.836983,18.956282],"type":"Point"}
 }

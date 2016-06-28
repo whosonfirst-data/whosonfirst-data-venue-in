@@ -2,13 +2,14 @@
   "id": 169545067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.583435,12.968068,77.583435,12.968068",
     "geom:latitude":12.968068,
     "geom:longitude":77.583435,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 850, Nagarthpet,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169545067,
-    "wof:lastmodified":1449033484,
+    "wof:lastmodified":1466288641,
     "wof:name":"Woollen Textiles",
     "wof:parent_id":85930903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "woollen"
     ]
 },
-  "bbox": [77.583435,12.968068,77.583435,12.968068],
-  "geometry": {"coordinates":[77.583435,12.968068],"type":"Point"}
+  "bbox": [
+    77.583435,
+    12.968068,
+    77.583435,
+    12.968068
+],
+  "geometry": {"coordinates":[77.58343499999999,12.968068],"type":"Point"}
 }

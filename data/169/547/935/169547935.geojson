@@ -2,13 +2,14 @@
   "id": 169547935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.352158,11.097493,77.352158,11.097493",
     "geom:latitude":11.097493,
     "geom:longitude":77.352158,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"209, Dharapuram Road,",
     "sg:city":"Tirupur",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169547935,
-    "wof:lastmodified":1449033009,
+    "wof:lastmodified":1466288882,
     "wof:name":"Anerudh Apparels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woven"
     ]
 },
-  "bbox": [77.352158,11.097493,77.352158,11.097493],
+  "bbox": [
+    77.352158,
+    11.097493,
+    77.352158,
+    11.097493
+],
   "geometry": {"coordinates":[77.352158,11.097493],"type":"Point"}
 }

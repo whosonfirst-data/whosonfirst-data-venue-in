@@ -2,13 +2,14 @@
   "id": 169546811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.759102,10.735522,78.759102,10.735522",
     "geom:latitude":10.735522,
     "geom:longitude":78.759102,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Anna Nagar, K.p.n. Colony,",
     "sg:city":"Tirupur",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169546811,
-    "wof:lastmodified":1449032678,
+    "wof:lastmodified":1466288676,
     "wof:name":"Ahill Apparel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "knitwear"
     ]
 },
-  "bbox": [78.759102,10.735522,78.759102,10.735522],
+  "bbox": [
+    78.759102,
+    10.735522,
+    78.759102,
+    10.735522
+],
   "geometry": {"coordinates":[78.759102,10.735522],"type":"Point"}
 }

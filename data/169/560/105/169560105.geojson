@@ -2,13 +2,14 @@
   "id": 169560105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.212135,28.652609,77.212135,28.652609",
     "geom:latitude":28.652609,
     "geom:longitude":77.212135,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Nabi Karim",
     "sg:city":"Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169560105,
-    "wof:lastmodified":1449035179,
+    "wof:lastmodified":1466288707,
     "wof:name":"Aggarwal Attachi House",
     "wof:parent_id":85928087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.212135,28.652609,77.212135,28.652609],
+  "bbox": [
+    77.212135,
+    28.652609,
+    77.212135,
+    28.652609
+],
   "geometry": {"coordinates":[77.212135,28.652609],"type":"Point"}
 }

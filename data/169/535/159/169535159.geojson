@@ -2,13 +2,14 @@
   "id": 169535159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.835007,18.933912,72.835007,18.933912",
     "geom:latitude":18.933912,
     "geom:longitude":72.835007,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Kamanwala Chamber, 2nd Floor, Sir P.m. Road, Fort,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169535159,
-    "wof:lastmodified":1449033283,
+    "wof:lastmodified":1466288871,
     "wof:name":"Armayesh Global",
     "wof:parent_id":85903853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "embroidery"
     ]
 },
-  "bbox": [72.835007,18.933912,72.835007,18.933912],
+  "bbox": [
+    72.835007,
+    18.933912,
+    72.835007,
+    18.933912
+],
   "geometry": {"coordinates":[72.835007,18.933912],"type":"Point"}
 }

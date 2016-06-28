@@ -2,13 +2,14 @@
   "id": 169571093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"75.874634,22.727467,75.874634,22.727467",
     "geom:latitude":22.727467,
     "geom:longitude":75.874634,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Y. N. Road",
     "sg:city":"Indore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571093,
-    "wof:lastmodified":1449034943,
+    "wof:lastmodified":1466288740,
     "wof:name":"Bridgestone Acc India Ltd",
     "wof:parent_id":85933763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [75.874634,22.727467,75.874634,22.727467],
+  "bbox": [
+    75.874634,
+    22.727467,
+    75.874634,
+    22.727467
+],
   "geometry": {"coordinates":[75.874634,22.727467],"type":"Point"}
 }

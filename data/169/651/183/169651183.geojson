@@ -2,13 +2,14 @@
   "id": 169651183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.347944,22.545893,88.347944,22.545893",
     "geom:latitude":22.545893,
     "geom:longitude":88.347944,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Jawaharlal Nehru Road Kolkata 700 071",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169651183,
-    "wof:lastmodified":1449033346,
+    "wof:lastmodified":1466288853,
     "wof:name":"mjunction services limite",
     "wof:parent_id":85931951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "conference"
     ]
 },
-  "bbox": [88.347944,22.545893,88.347944,22.545893],
+  "bbox": [
+    88.347944,
+    22.545893,
+    88.347944,
+    22.545893
+],
   "geometry": {"coordinates":[88.347944,22.545893],"type":"Point"}
 }

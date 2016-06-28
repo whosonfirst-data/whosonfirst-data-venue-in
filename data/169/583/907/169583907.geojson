@@ -2,13 +2,14 @@
   "id": 169583907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.167336,10.520482,76.167336,10.520482",
     "geom:latitude":10.520482,
     "geom:longitude":76.167336,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Pullazhi P.o.,",
     "sg:city":"Thrissur",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169583907,
-    "wof:lastmodified":1449035270,
+    "wof:lastmodified":1466288798,
     "wof:name":"Kundilz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paper"
     ]
 },
-  "bbox": [76.167336,10.520482,76.167336,10.520482],
-  "geometry": {"coordinates":[76.167336,10.520482],"type":"Point"}
+  "bbox": [
+    76.167336,
+    10.520482,
+    76.167336,
+    10.520482
+],
+  "geometry": {"coordinates":[76.16733600000001,10.520482],"type":"Point"}
 }

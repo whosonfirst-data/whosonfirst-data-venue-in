@@ -2,13 +2,14 @@
   "id": 169569287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.763947,30.719555,76.763947,30.719555",
     "geom:latitude":30.719555,
     "geom:longitude":76.763947,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sector 34-c",
     "sg:city":"Chandigarh",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169569287,
-    "wof:lastmodified":1449035830,
+    "wof:lastmodified":1466288743,
     "wof:name":"Aurora Manufacturing And Engineering Pvt Ltd",
     "wof:parent_id":85931871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [76.763947,30.719555,76.763947,30.719555],
+  "bbox": [
+    76.763947,
+    30.719555,
+    76.763947,
+    30.719555
+],
   "geometry": {"coordinates":[76.763947,30.719555],"type":"Point"}
 }

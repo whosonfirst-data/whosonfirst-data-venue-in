@@ -2,13 +2,14 @@
   "id": 169594253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.422897,17.466015,78.422897,17.466015",
     "geom:latitude":17.466015,
     "geom:longitude":78.422897,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Shed C/1, 6820, G.i.d.c. Estate,",
     "sg:city":"Ankleshwar",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169594253,
-    "wof:lastmodified":1449033165,
+    "wof:lastmodified":1466288803,
     "wof:name":"Nilkanth Dyestuff Industries",
     "wof:parent_id":85930757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "intermediate"
     ]
 },
-  "bbox": [78.422897,17.466015,78.422897,17.466015],
-  "geometry": {"coordinates":[78.422897,17.466015],"type":"Point"}
+  "bbox": [
+    78.422897,
+    17.466015,
+    78.422897,
+    17.466015
+],
+  "geometry": {"coordinates":[78.42289700000001,17.466015],"type":"Point"}
 }

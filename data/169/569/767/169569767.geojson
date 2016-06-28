@@ -2,13 +2,14 @@
   "id": 169569767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.234917,12.912858,80.234917,12.912858",
     "geom:latitude":12.912858,
     "geom:longitude":80.234917,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Karapakkam Village, Perungudi",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169569767,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1466288767,
     "wof:name":"Sanmar Pti Filters Ltd",
     "wof:parent_id":85927709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.234917,12.912858,80.234917,12.912858],
+  "bbox": [
+    80.234917,
+    12.912858,
+    80.234917,
+    12.912858
+],
   "geometry": {"coordinates":[80.234917,12.912858],"type":"Point"}
 }

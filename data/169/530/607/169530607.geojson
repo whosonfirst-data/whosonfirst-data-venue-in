@@ -2,13 +2,14 @@
   "id": 169530607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.928993,19.145632,72.928993,19.145632",
     "geom:latitude":19.145632,
     "geom:longitude":72.928993,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"J. M. Road, Bhandup (west),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169530607,
-    "wof:lastmodified":1449034443,
+    "wof:lastmodified":1466288686,
     "wof:name":"Almeida Brothers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "machinery"
     ]
 },
-  "bbox": [72.928993,19.145632,72.928993,19.145632],
-  "geometry": {"coordinates":[72.928993,19.145632],"type":"Point"}
+  "bbox": [
+    72.928993,
+    19.145632,
+    72.928993,
+    19.145632
+],
+  "geometry": {"coordinates":[72.92899300000001,19.145632],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169543861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.627831,12.905565,77.627831,12.905565",
     "geom:latitude":12.905565,
     "geom:longitude":77.627831,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"# 14/15, Begur Road, Bommanahally,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169543861,
-    "wof:lastmodified":1449033337,
+    "wof:lastmodified":1466288676,
     "wof:name":"Veena Firmen",
     "wof:parent_id":85930853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "t-shirt"
     ]
 },
-  "bbox": [77.627831,12.905565,77.627831,12.905565],
+  "bbox": [
+    77.627831,
+    12.905565,
+    77.627831,
+    12.905565
+],
   "geometry": {"coordinates":[77.627831,12.905565],"type":"Point"}
 }

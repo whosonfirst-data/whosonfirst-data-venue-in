@@ -2,13 +2,14 @@
   "id": 169570825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.835892,18.988861,72.835892,18.988861",
     "geom:latitude":18.988861,
     "geom:longitude":72.835892,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Connaught Road",
     "sg:city":"Pune",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570825,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466288771,
     "wof:name":"Hotel Ashirwad",
     "wof:parent_id":85903827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.835892,18.988861,72.835892,18.988861],
+  "bbox": [
+    72.835892,
+    18.988861,
+    72.835892,
+    18.988861
+],
   "geometry": {"coordinates":[72.835892,18.988861],"type":"Point"}
 }

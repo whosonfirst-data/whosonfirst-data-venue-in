@@ -2,13 +2,14 @@
   "id": 169600121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.380341,22.618874,88.380341,22.618874",
     "geom:latitude":22.618874,
     "geom:longitude":88.380341,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"22a Dumdum Road,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169600121,
-    "wof:lastmodified":1449032970,
+    "wof:lastmodified":1466288811,
     "wof:name":"Pearl Rubber Ancillaries",
     "wof:parent_id":85932001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [88.380341,22.618874,88.380341,22.618874],
+  "bbox": [
+    88.380341,
+    22.618874,
+    88.380341,
+    22.618874
+],
   "geometry": {"coordinates":[88.380341,22.618874],"type":"Point"}
 }

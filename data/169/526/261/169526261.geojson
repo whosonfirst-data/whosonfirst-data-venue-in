@@ -2,13 +2,14 @@
   "id": 169526261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.826317,19.142,72.826317,19.142",
     "geom:latitude":19.142,
     "geom:longitude":72.826317,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"306b, Lokhandwala Complex, 1st Cross Lane, Andheri -west,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169526261,
-    "wof:lastmodified":1449033698,
+    "wof:lastmodified":1466288623,
     "wof:name":"Ariroc Impex Pvt. Ltd.",
     "wof:parent_id":85931475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accessory"
     ]
 },
-  "bbox": [72.826317,19.142,72.826317,19.142],
+  "bbox": [
+    72.826317,
+    19.142,
+    72.826317,
+    19.142
+],
   "geometry": {"coordinates":[72.826317,19.142],"type":"Point"}
 }

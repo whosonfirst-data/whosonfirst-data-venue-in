@@ -2,13 +2,14 @@
   "id": 169570973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.836037,19.191038,72.836037,19.191038",
     "geom:latitude":19.191038,
     "geom:longitude":72.836037,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Kanchpada, Malad (w)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169570973,
-    "wof:lastmodified":1449034646,
+    "wof:lastmodified":1466288776,
     "wof:name":"Hiral Art",
     "wof:parent_id":85931619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.836037,19.191038,72.836037,19.191038],
+  "bbox": [
+    72.836037,
+    19.191038,
+    72.836037,
+    19.191038
+],
   "geometry": {"coordinates":[72.836037,19.191038],"type":"Point"}
 }

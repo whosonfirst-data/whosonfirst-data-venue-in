@@ -2,13 +2,14 @@
   "id": 169539515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.670761,23.217083,72.670761,23.217083",
     "geom:latitude":23.217083,
     "geom:longitude":72.670761,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"# 36, A.d.c. Complex, 1st Floor, J.m. Road, Avenue Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169539515,
-    "wof:lastmodified":1449036037,
+    "wof:lastmodified":1466288641,
     "wof:name":"Laxmi Fashions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.670761,23.217083,72.670761,23.217083],
+  "bbox": [
+    72.670761,
+    23.217083,
+    72.670761,
+    23.217083
+],
   "geometry": {"coordinates":[72.670761,23.217083],"type":"Point"}
 }

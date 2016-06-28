@@ -2,13 +2,14 @@
   "id": 169613877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.354691,22.557243,88.354691,22.557243",
     "geom:latitude":22.557243,
     "geom:longitude":88.354691,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"56d, Mirza Ghalib Street,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169613877,
-    "wof:lastmodified":1449034213,
+    "wof:lastmodified":1466288827,
     "wof:name":"S.p. Sinha & Company",
     "wof:parent_id":85931931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "coating"
     ]
 },
-  "bbox": [88.354691,22.557243,88.354691,22.557243],
+  "bbox": [
+    88.354691,
+    22.557243,
+    88.354691,
+    22.557243
+],
   "geometry": {"coordinates":[88.354691,22.557243],"type":"Point"}
 }

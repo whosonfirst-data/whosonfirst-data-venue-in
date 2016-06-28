@@ -2,13 +2,14 @@
   "id": 169541301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.58606,12.941209,77.58606,12.941209",
     "geom:latitude":12.941209,
     "geom:longitude":77.58606,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"# 131, 10th 'a' Main, 1st Block, Jayanagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169541301,
-    "wof:lastmodified":1449033043,
+    "wof:lastmodified":1466288650,
     "wof:name":"Pradhan International",
     "wof:parent_id":85930887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.58606,12.941209,77.58606,12.941209],
+  "bbox": [
+    77.58606,
+    12.941209,
+    77.58606,
+    12.941209
+],
   "geometry": {"coordinates":[77.58606,12.941209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169527315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.840744,19.18601,72.840744,19.18601",
     "geom:latitude":19.18601,
     "geom:longitude":72.840744,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"60, Mehta Indl. Estate, Liberty Garden ",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169527315,
-    "wof:lastmodified":1449035279,
+    "wof:lastmodified":1466288629,
     "wof:name":"Ankur Bathfitt Pvt. Ltd.",
     "wof:parent_id":85931619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessories/fittings"
     ]
 },
-  "bbox": [72.840744,19.18601,72.840744,19.18601],
+  "bbox": [
+    72.840744,
+    19.18601,
+    72.840744,
+    19.18601
+],
   "geometry": {"coordinates":[72.840744,19.18601],"type":"Point"}
 }

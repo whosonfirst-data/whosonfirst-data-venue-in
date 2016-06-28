@@ -2,13 +2,14 @@
   "id": 169573389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.19664,28.692888,77.19664,28.692888",
     "geom:latitude":28.692888,
     "geom:longitude":77.19664,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"2nd Floor",
     "sg:city":"Delhi",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169573389,
-    "wof:lastmodified":1449035114,
+    "wof:lastmodified":1466288751,
     "wof:name":"A Square Automation Pvt Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.19664,28.692888,77.19664,28.692888],
+  "bbox": [
+    77.19664,
+    28.692888,
+    77.19664,
+    28.692888
+],
   "geometry": {"coordinates":[77.19664,28.692888],"type":"Point"}
 }

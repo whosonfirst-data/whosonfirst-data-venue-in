@@ -2,13 +2,14 @@
   "id": 169570025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"75.558235,31.33308,75.558235,31.33308",
     "geom:latitude":31.33308,
     "geom:longitude":75.558235,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Adarsh Nagar",
     "sg:city":"Jalandhar",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169570025,
-    "wof:lastmodified":1449034647,
+    "wof:lastmodified":1466288730,
     "wof:name":"Fcs Sondhi & Co, (india) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [75.558235,31.33308,75.558235,31.33308],
+  "bbox": [
+    75.558235,
+    31.33308,
+    75.558235,
+    31.33308
+],
   "geometry": {"coordinates":[75.558235,31.33308],"type":"Point"}
 }

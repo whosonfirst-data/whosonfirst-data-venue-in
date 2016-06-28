@@ -2,13 +2,14 @@
   "id": 169642003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.357758,22.566383,88.357758,22.566383",
     "geom:latitude":22.566383,
     "geom:longitude":88.357758,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"19, Ganesh Chandra Avenue,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169642003,
-    "wof:lastmodified":1449032879,
+    "wof:lastmodified":1466288895,
     "wof:name":"Vee Pee Food Chem",
     "wof:parent_id":85931917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "flavour"
     ]
 },
-  "bbox": [88.357758,22.566383,88.357758,22.566383],
+  "bbox": [
+    88.357758,
+    22.566383,
+    88.357758,
+    22.566383
+],
   "geometry": {"coordinates":[88.357758,22.566383],"type":"Point"}
 }

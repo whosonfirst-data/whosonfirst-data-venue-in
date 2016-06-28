@@ -2,13 +2,14 @@
   "id": 169588059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.189491,28.698812,77.189491,28.698812",
     "geom:latitude":28.698812,
     "geom:longitude":77.189491,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"A-262, Derawal Nagar,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169588059,
-    "wof:lastmodified":1449035308,
+    "wof:lastmodified":1466288788,
     "wof:name":"Maya Paints And Chemicals Pvt. Ltd.",
     "wof:parent_id":85928585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "allied"
     ]
 },
-  "bbox": [77.189491,28.698812,77.189491,28.698812],
+  "bbox": [
+    77.189491,
+    28.698812,
+    77.189491,
+    28.698812
+],
   "geometry": {"coordinates":[77.189491,28.698812],"type":"Point"}
 }

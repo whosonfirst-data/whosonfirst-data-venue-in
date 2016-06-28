@@ -2,13 +2,14 @@
   "id": 169560781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.250259,13.001946,80.250259,13.001946",
     "geom:latitude":13.001946,
     "geom:longitude":80.250259,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 57, Firststreet, Kamaraj Avenue, Adyar,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169560781,
-    "wof:lastmodified":1449035179,
+    "wof:lastmodified":1466288756,
     "wof:name":"Dynetic Products Pvt Ltd.",
     "wof:parent_id":85903855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "processing"
     ]
 },
-  "bbox": [80.250259,13.001946,80.250259,13.001946],
+  "bbox": [
+    80.250259,
+    13.001946,
+    80.250259,
+    13.001946
+],
   "geometry": {"coordinates":[80.250259,13.001946],"type":"Point"}
 }

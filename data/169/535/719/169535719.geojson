@@ -2,13 +2,14 @@
   "id": 169535719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.837463,18.953346,72.837463,18.953346",
     "geom:latitude":18.953346,
     "geom:longitude":72.837463,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"51, Bhandari Street,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169535719,
-    "wof:lastmodified":1449033284,
+    "wof:lastmodified":1466288632,
     "wof:name":"Ronak Fine Industries",
     "wof:parent_id":85903919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "essential"
     ]
 },
-  "bbox": [72.837463,18.953346,72.837463,18.953346],
+  "bbox": [
+    72.837463,
+    18.953346,
+    72.837463,
+    18.953346
+],
   "geometry": {"coordinates":[72.837463,18.953346],"type":"Point"}
 }

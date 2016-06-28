@@ -2,13 +2,14 @@
   "id": 169570425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.279564,13.093892,80.279564,13.093892",
     "geom:latitude":13.093892,
     "geom:longitude":80.279564,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Mint Street",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570425,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466288750,
     "wof:name":"Khater Computers",
     "wof:parent_id":85931765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.279564,13.093892,80.279564,13.093892],
-  "geometry": {"coordinates":[80.279564,13.093892],"type":"Point"}
+  "bbox": [
+    80.279564,
+    13.093892,
+    80.279564,
+    13.093892
+],
+  "geometry": {"coordinates":[80.27956399999999,13.093892],"type":"Point"}
 }

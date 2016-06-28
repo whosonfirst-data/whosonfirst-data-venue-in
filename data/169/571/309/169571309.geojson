@@ -2,13 +2,14 @@
   "id": 169571309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.54377,17.424383,78.54377,17.424383",
     "geom:latitude":17.424383,
     "geom:longitude":78.54377,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Snehapuri, Nacharam",
     "sg:city":"Hyderabad",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571309,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1466288751,
     "wof:name":"Navanidhi Electronics Pvt Ltd",
     "wof:parent_id":85930687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.54377,17.424383,78.54377,17.424383],
-  "geometry": {"coordinates":[78.54377,17.424383],"type":"Point"}
+  "bbox": [
+    78.54377,
+    17.424383,
+    78.54377,
+    17.424383
+],
+  "geometry": {"coordinates":[78.54376999999999,17.424383],"type":"Point"}
 }

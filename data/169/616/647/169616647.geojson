@@ -2,13 +2,14 @@
   "id": 169616647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"81.220039,21.996655,81.220039,21.996655",
     "geom:latitude":21.996655,
     "geom:longitude":81.220039,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"9/2315, Street No. 11, Kailash Nagar,",
     "sg:city":"Delhi",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169616647,
-    "wof:lastmodified":1449035101,
+    "wof:lastmodified":1466288828,
     "wof:name":"Sanya International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "raw"
     ]
 },
-  "bbox": [81.220039,21.996655,81.220039,21.996655],
+  "bbox": [
+    81.220039,
+    21.996655,
+    81.220039,
+    21.996655
+],
   "geometry": {"coordinates":[81.220039,21.996655],"type":"Point"}
 }

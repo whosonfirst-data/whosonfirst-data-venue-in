@@ -2,13 +2,14 @@
   "id": 169535389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.835121,18.954565,72.835121,18.954565",
     "geom:latitude":18.954565,
     "geom:longitude":72.835121,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"62, Dontad Street, Masjid Bunder,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169535389,
-    "wof:lastmodified":1449033285,
+    "wof:lastmodified":1466288873,
     "wof:name":"Semco Engineering Pvt. Ltd.",
     "wof:parent_id":85903919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "good"
     ]
 },
-  "bbox": [72.835121,18.954565,72.835121,18.954565],
+  "bbox": [
+    72.835121,
+    18.954565,
+    72.835121,
+    18.954565
+],
   "geometry": {"coordinates":[72.835121,18.954565],"type":"Point"}
 }

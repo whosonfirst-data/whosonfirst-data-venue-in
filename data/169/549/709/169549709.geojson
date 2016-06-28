@@ -2,13 +2,14 @@
   "id": 169549709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.836578,19.072786,72.836578,19.072786",
     "geom:latitude":19.072786,
     "geom:longitude":72.836578,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No.19, Gidc, Vittal,",
     "sg:city":"Udyognagar",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169549709,
-    "wof:lastmodified":1449033591,
+    "wof:lastmodified":1466288690,
     "wof:name":"Dynamic Castings",
     "wof:parent_id":85931493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "iron"
     ]
 },
-  "bbox": [72.836578,19.072786,72.836578,19.072786],
+  "bbox": [
+    72.836578,
+    19.072786,
+    72.836578,
+    19.072786
+],
   "geometry": {"coordinates":[72.836578,19.072786],"type":"Point"}
 }

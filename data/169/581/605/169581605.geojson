@@ -2,13 +2,14 @@
   "id": 169581605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.21566,28.653236,77.21566,28.653236",
     "geom:latitude":28.653236,
     "geom:longitude":77.21566,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"E-186-187, 1st Floor, B.g. Tower, O/s. Delhi Gate,",
     "sg:city":"Ahmedabad",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169581605,
-    "wof:lastmodified":1449033382,
+    "wof:lastmodified":1466288790,
     "wof:name":"Kalpana Chemicals",
     "wof:parent_id":85928087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.21566,28.653236,77.21566,28.653236],
+  "bbox": [
+    77.21566,
+    28.653236,
+    77.21566,
+    28.653236
+],
   "geometry": {"coordinates":[77.21566,28.653236],"type":"Point"}
 }

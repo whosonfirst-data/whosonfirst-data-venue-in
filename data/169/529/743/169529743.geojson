@@ -2,13 +2,14 @@
   "id": 169529743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.826363,18.930841,72.826363,18.930841",
     "geom:latitude":18.930841,
     "geom:longitude":72.826363,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"14 J. Tata Road, Churchgate,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169529743,
-    "wof:lastmodified":1449034117,
+    "wof:lastmodified":1466288700,
     "wof:name":"Syngenta India Limited",
     "wof:parent_id":85931425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [72.826363,18.930841,72.826363,18.930841],
+  "bbox": [
+    72.826363,
+    18.930841,
+    72.826363,
+    18.930841
+],
   "geometry": {"coordinates":[72.826363,18.930841],"type":"Point"}
 }

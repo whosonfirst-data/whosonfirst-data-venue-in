@@ -2,13 +2,14 @@
   "id": 169637693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.246925,13.039486,80.246925,13.039486",
     "geom:latitude":13.039486,
     "geom:longitude":80.246925,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"534, 1st Floor, Anna Salai, Teynampet,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169637693,
-    "wof:lastmodified":1449032687,
+    "wof:lastmodified":1466288848,
     "wof:name":"Tuticorin Alkali Chemicals & Fertilisers Ltd.",
     "wof:parent_id":85903931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [80.246925,13.039486,80.246925,13.039486],
+  "bbox": [
+    80.246925,
+    13.039486,
+    80.246925,
+    13.039486
+],
   "geometry": {"coordinates":[80.246925,13.039486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169571197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"79.071564,21.148373,79.071564,21.148373",
     "geom:latitude":21.148373,
     "geom:longitude":79.071564,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Civil Lines",
     "sg:city":"Nagpur",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571197,
-    "wof:lastmodified":1449034948,
+    "wof:lastmodified":1466288745,
     "wof:name":"Johnson Machineries Ltd",
     "wof:parent_id":85933709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [79.071564,21.148373,79.071564,21.148373],
+  "bbox": [
+    79.071564,
+    21.148373,
+    79.071564,
+    21.148373
+],
   "geometry": {"coordinates":[79.071564,21.148373],"type":"Point"}
 }

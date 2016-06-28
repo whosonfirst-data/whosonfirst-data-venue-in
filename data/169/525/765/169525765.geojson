@@ -2,13 +2,14 @@
   "id": 169525765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.825981,18.933695,72.825981,18.933695",
     "geom:latitude":18.933695,
     "geom:longitude":72.825981,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Nagin Mahal, Flat No. 10, 3rd Floor,veer Nariman Road, Churchgate,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169525765,
-    "wof:lastmodified":1449035275,
+    "wof:lastmodified":1466288619,
     "wof:name":"Taton Commercial Pvt. Ltd.",
     "wof:parent_id":85903879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commodity"
     ]
 },
-  "bbox": [72.825981,18.933695,72.825981,18.933695],
+  "bbox": [
+    72.825981,
+    18.933695,
+    72.825981,
+    18.933695
+],
   "geometry": {"coordinates":[72.825981,18.933695],"type":"Point"}
 }

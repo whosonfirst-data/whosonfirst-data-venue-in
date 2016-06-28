@@ -2,13 +2,14 @@
   "id": 169618751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.220764,28.658045,77.220764,28.658045",
     "geom:latitude":28.658045,
     "geom:longitude":77.220764,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"119, Tilak Bazar,",
     "sg:city":"Delhi",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169618751,
-    "wof:lastmodified":1449034736,
+    "wof:lastmodified":1466288829,
     "wof:name":"Shankar Dyes & Chemicals Delhi (india)",
     "wof:parent_id":85928087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.220764,28.658045,77.220764,28.658045],
+  "bbox": [
+    77.220764,
+    28.658045,
+    77.220764,
+    28.658045
+],
   "geometry": {"coordinates":[77.220764,28.658045],"type":"Point"}
 }

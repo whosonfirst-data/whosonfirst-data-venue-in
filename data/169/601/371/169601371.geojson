@@ -2,13 +2,14 @@
   "id": 169601371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.926125,19.063095,72.926125,19.063095",
     "geom:latitude":19.063095,
     "geom:longitude":72.926125,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B-148, Phase-ii,",
     "sg:city":"Noida",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169601371,
-    "wof:lastmodified":1449034148,
+    "wof:lastmodified":1466288815,
     "wof:name":"Pitchi Products Pvt. Ltd.",
     "wof:parent_id":85931557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [72.926125,19.063095,72.926125,19.063095],
+  "bbox": [
+    72.926125,
+    19.063095,
+    72.926125,
+    19.063095
+],
   "geometry": {"coordinates":[72.926125,19.063095],"type":"Point"}
 }

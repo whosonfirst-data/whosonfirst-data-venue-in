@@ -2,13 +2,14 @@
   "id": 169545003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.613457,12.997891,77.613457,12.997891",
     "geom:latitude":12.997891,
     "geom:longitude":77.613457,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"21/2, Robert Son Road, Frazer Town,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169545003,
-    "wof:lastmodified":1449033488,
+    "wof:lastmodified":1466288878,
     "wof:name":"Rida Trading Corporation",
     "wof:parent_id":85930871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "wear"
     ]
 },
-  "bbox": [77.613457,12.997891,77.613457,12.997891],
+  "bbox": [
+    77.613457,
+    12.997891,
+    77.613457,
+    12.997891
+],
   "geometry": {"coordinates":[77.613457,12.997891],"type":"Point"}
 }

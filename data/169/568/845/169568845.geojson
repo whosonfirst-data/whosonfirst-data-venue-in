@@ -2,13 +2,14 @@
   "id": 169568845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.352997,22.558205,88.352997,22.558205",
     "geom:latitude":22.558205,
     "geom:longitude":88.352997,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sudder Street",
     "sg:city":"Kolkata",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169568845,
-    "wof:lastmodified":1449032609,
+    "wof:lastmodified":1466288770,
     "wof:name":"Lytton Hotel",
     "wof:parent_id":85931931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [88.352997,22.558205,88.352997,22.558205],
+  "bbox": [
+    88.352997,
+    22.558205,
+    88.352997,
+    22.558205
+],
   "geometry": {"coordinates":[88.352997,22.558205],"type":"Point"}
 }

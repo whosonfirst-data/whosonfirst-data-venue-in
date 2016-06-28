@@ -2,13 +2,14 @@
   "id": 169544595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.690247,12.817271,77.690247,12.817271",
     "geom:latitude":12.817271,
     "geom:longitude":77.690247,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#143,c4, Bommasandra Indl Area, Off Hosur Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169544595,
-    "wof:lastmodified":1449035964,
+    "wof:lastmodified":1466288668,
     "wof:name":"Eureka Forbes Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "purifier"
     ]
 },
-  "bbox": [77.690247,12.817271,77.690247,12.817271],
+  "bbox": [
+    77.690247,
+    12.817271,
+    77.690247,
+    12.817271
+],
   "geometry": {"coordinates":[77.690247,12.817271],"type":"Point"}
 }

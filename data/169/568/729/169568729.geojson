@@ -2,13 +2,14 @@
   "id": 169568729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.345146,22.523018,88.345146,22.523018",
     "geom:latitude":22.523018,
     "geom:longitude":88.345146,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Kalidas Patitundi Lane",
     "sg:city":"Kolkata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169568729,
-    "wof:lastmodified":1449032611,
+    "wof:lastmodified":1466288764,
     "wof:name":"Divya Exports",
     "wof:parent_id":85932071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [88.345146,22.523018,88.345146,22.523018],
+  "bbox": [
+    88.345146,
+    22.523018,
+    88.345146,
+    22.523018
+],
   "geometry": {"coordinates":[88.345146,22.523018],"type":"Point"}
 }

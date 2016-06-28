@@ -2,13 +2,14 @@
   "id": 169581169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.143684,28.667936,77.143684,28.667936",
     "geom:latitude":28.667936,
     "geom:longitude":77.143684,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"H-693-a, Road No. 9-f-2, V.k.i. Area,",
     "sg:city":"Jaipur",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169581169,
-    "wof:lastmodified":1449033382,
+    "wof:lastmodified":1466288781,
     "wof:name":"K. D. Rubber Industries",
     "wof:parent_id":85927889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [77.143684,28.667936,77.143684,28.667936],
-  "geometry": {"coordinates":[77.143684,28.667936],"type":"Point"}
+  "bbox": [
+    77.143684,
+    28.667936,
+    77.143684,
+    28.667936
+],
+  "geometry": {"coordinates":[77.14368399999999,28.667936],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169536887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.643227,13.020908,77.643227,13.020908",
     "geom:latitude":13.020908,
     "geom:longitude":77.643227,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"712, 4th B Cross, 7th Main, I Block, Kalyan Nagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169536887,
-    "wof:lastmodified":1449034660,
+    "wof:lastmodified":1466288656,
     "wof:name":"Ashwini Abrasives",
     "wof:parent_id":85931031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "polish"
     ]
 },
-  "bbox": [77.643227,13.020908,77.643227,13.020908],
+  "bbox": [
+    77.643227,
+    13.020908,
+    77.643227,
+    13.020908
+],
   "geometry": {"coordinates":[77.643227,13.020908],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169624235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.862717,19.291819,72.862717,19.291819",
     "geom:latitude":19.291819,
     "geom:longitude":72.862717,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"F/118, Gaurav Garden, Mira Bhayander Road, Mira Road (e),",
     "sg:city":"Thane",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169624235,
-    "wof:lastmodified":1449034956,
+    "wof:lastmodified":1466288831,
     "wof:name":"Silicon Exports Pvt. Ltd.",
     "wof:parent_id":85931413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [72.862717,19.291819,72.862717,19.291819],
+  "bbox": [
+    72.862717,
+    19.291819,
+    72.862717,
+    19.291819
+],
   "geometry": {"coordinates":[72.862717,19.291819],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169530123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.87706,19.199612,72.87706,19.199612",
     "geom:latitude":19.199612,
     "geom:longitude":72.87706,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"A-304, Koronet Building, Lokhandwala, Kandeveri East,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169530123,
-    "wof:lastmodified":1449034442,
+    "wof:lastmodified":1466288668,
     "wof:name":"Prime Tex International",
     "wof:parent_id":85931529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "childrenwear"
     ]
 },
-  "bbox": [72.87706,19.199612,72.87706,19.199612],
+  "bbox": [
+    72.87706,
+    19.199612,
+    72.87706,
+    19.199612
+],
   "geometry": {"coordinates":[72.87706,19.199612],"type":"Point"}
 }

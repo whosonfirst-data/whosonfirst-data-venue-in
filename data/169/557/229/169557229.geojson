@@ -2,13 +2,14 @@
   "id": 169557229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"79.910225,27.879137,79.910225,27.879137",
     "geom:latitude":27.879137,
     "geom:longitude":79.910225,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Nr. Telephone Exchange",
     "sg:city":"Aligarh",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169557229,
-    "wof:lastmodified":1449035036,
+    "wof:lastmodified":1466288891,
     "wof:name":"Precision Tools & Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [79.910225,27.879137,79.910225,27.879137],
+  "bbox": [
+    79.910225,
+    27.879137,
+    79.910225,
+    27.879137
+],
   "geometry": {"coordinates":[79.910225,27.879137],"type":"Point"}
 }

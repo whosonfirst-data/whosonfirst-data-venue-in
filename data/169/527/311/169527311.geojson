@@ -2,13 +2,14 @@
   "id": 169527311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.93129,19.150547,72.93129,19.150547",
     "geom:latitude":19.150547,
     "geom:longitude":72.93129,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Utkarsh Nagar, Tambopata Road, Bhandup,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169527311,
-    "wof:lastmodified":1449035277,
+    "wof:lastmodified":1466288629,
     "wof:name":"Sun Shine Fibre Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accessories/fittings"
     ]
 },
-  "bbox": [72.93129,19.150547,72.93129,19.150547],
+  "bbox": [
+    72.93129,
+    19.150547,
+    72.93129,
+    19.150547
+],
   "geometry": {"coordinates":[72.93129,19.150547],"type":"Point"}
 }

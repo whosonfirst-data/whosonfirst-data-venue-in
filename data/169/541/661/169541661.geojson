@@ -2,13 +2,14 @@
   "id": 169541661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.586052,12.980666,77.586052,12.980666",
     "geom:latitude":12.980666,
     "geom:longitude":77.586052,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"11/2, Palace Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169541661,
-    "wof:lastmodified":1449033045,
+    "wof:lastmodified":1466288668,
     "wof:name":"Cmc Ltd.",
     "wof:parent_id":85930877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "software"
     ]
 },
-  "bbox": [77.586052,12.980666,77.586052,12.980666],
+  "bbox": [
+    77.586052,
+    12.980666,
+    77.586052,
+    12.980666
+],
   "geometry": {"coordinates":[77.586052,12.980666],"type":"Point"}
 }

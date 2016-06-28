@@ -2,13 +2,14 @@
   "id": 169570573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.201653,13.04734,80.201653,13.04734",
     "geom:latitude":13.04734,
     "geom:longitude":80.201653,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Arcot Road, Vada Palani",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570573,
-    "wof:lastmodified":1449034646,
+    "wof:lastmodified":1466288757,
     "wof:name":"Raynold Lighting Pvt Ltd",
     "wof:parent_id":85931797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.201653,13.04734,80.201653,13.04734],
-  "geometry": {"coordinates":[80.201653,13.04734],"type":"Point"}
+  "bbox": [
+    80.201653,
+    13.04734,
+    80.201653,
+    13.04734
+],
+  "geometry": {"coordinates":[80.20165299999999,13.04734],"type":"Point"}
 }

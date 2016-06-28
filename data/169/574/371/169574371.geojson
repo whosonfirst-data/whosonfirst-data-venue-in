@@ -2,13 +2,14 @@
   "id": 169574371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.913132,19.123213,72.913132,19.123213",
     "geom:latitude":19.123213,
     "geom:longitude":72.913132,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Hiranandani Gardens, Powai",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169574371,
-    "wof:lastmodified":1449032664,
+    "wof:lastmodified":1466288755,
     "wof:name":"Chika Overseas Ltd",
     "wof:parent_id":85931519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.913132,19.123213,72.913132,19.123213],
+  "bbox": [
+    72.913132,
+    19.123213,
+    72.913132,
+    19.123213
+],
   "geometry": {"coordinates":[72.913132,19.123213],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169603577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.491219,17.440956,78.491219,17.440956",
     "geom:latitude":17.440956,
     "geom:longitude":78.491219,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"202, 203, 2nd Floor, Minerva Complex, S.d. Road,",
     "sg:city":"Secunderabad",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169603577,
-    "wof:lastmodified":1449035454,
+    "wof:lastmodified":1466288818,
     "wof:name":"Premier Explochem Ltd.",
     "wof:parent_id":85930705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "explosive"
     ]
 },
-  "bbox": [78.491219,17.440956,78.491219,17.440956],
+  "bbox": [
+    78.491219,
+    17.440956,
+    78.491219,
+    17.440956
+],
   "geometry": {"coordinates":[78.491219,17.440956],"type":"Point"}
 }

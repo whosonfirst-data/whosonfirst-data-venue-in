@@ -2,13 +2,14 @@
   "id": 169545595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.214218,10.525535,76.214218,10.525535",
     "geom:latitude":10.525535,
     "geom:longitude":76.214218,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"34/711,veliyannur, Trichur,",
     "sg:city":"Thrissur",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169545595,
-    "wof:lastmodified":1449033487,
+    "wof:lastmodified":1466288662,
     "wof:name":"Nidus Enterprises",
     "wof:parent_id":85783429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "knitwear"
     ]
 },
-  "bbox": [76.214218,10.525535,76.214218,10.525535],
+  "bbox": [
+    76.214218,
+    10.525535,
+    76.214218,
+    10.525535
+],
   "geometry": {"coordinates":[76.214218,10.525535],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169526267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.860771,19.19792,72.860771,19.19792",
     "geom:latitude":19.19792,
     "geom:longitude":72.860771,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"79, Virwani Industrial Estate, Western Express Highway, Goregaon (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169526267,
-    "wof:lastmodified":1449033702,
+    "wof:lastmodified":1466288623,
     "wof:name":"Exhause Manufacturing Company",
     "wof:parent_id":85931529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accessory"
     ]
 },
-  "bbox": [72.860771,19.19792,72.860771,19.19792],
+  "bbox": [
+    72.860771,
+    19.19792,
+    72.860771,
+    19.19792
+],
   "geometry": {"coordinates":[72.860771,19.19792],"type":"Point"}
 }

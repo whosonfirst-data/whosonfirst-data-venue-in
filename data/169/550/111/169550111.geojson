@@ -2,13 +2,14 @@
   "id": 169550111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"70.826859,22.280378,70.826859,22.280378",
     "geom:latitude":22.280378,
     "geom:longitude":70.826859,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 127, Gidc,",
     "sg:city":"Umbergaon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169550111,
-    "wof:lastmodified":1449034479,
+    "wof:lastmodified":1466288881,
     "wof:name":"Panchal Plastic Machinery Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "plastic"
     ]
 },
-  "bbox": [70.826859,22.280378,70.826859,22.280378],
+  "bbox": [
+    70.826859,
+    22.280378,
+    70.826859,
+    22.280378
+],
   "geometry": {"coordinates":[70.826859,22.280378],"type":"Point"}
 }

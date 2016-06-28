@@ -2,13 +2,14 @@
   "id": 169561149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.244675,13.019938,80.244675,13.019938",
     "geom:latitude":13.019938,
     "geom:longitude":80.244675,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Kotturpuram",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169561149,
-    "wof:lastmodified":1449035018,
+    "wof:lastmodified":1466288708,
     "wof:name":"Western Thomson (india) Ltd",
     "wof:parent_id":85931733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.244675,13.019938,80.244675,13.019938],
+  "bbox": [
+    80.244675,
+    13.019938,
+    80.244675,
+    13.019938
+],
   "geometry": {"coordinates":[80.244675,13.019938],"type":"Point"}
 }

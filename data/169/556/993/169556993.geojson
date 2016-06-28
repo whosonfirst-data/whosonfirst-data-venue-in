@@ -2,13 +2,14 @@
   "id": 169556993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.898529,19.053005,72.898529,19.053005",
     "geom:latitude":19.053005,
     "geom:longitude":72.898529,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sion Trombay Road, Chembur",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169556993,
-    "wof:lastmodified":1449033508,
+    "wof:lastmodified":1466288734,
     "wof:name":"Kirloskar Pneumatic Company Ltd",
     "wof:parent_id":85931489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.898529,19.053005,72.898529,19.053005],
+  "bbox": [
+    72.898529,
+    19.053005,
+    72.898529,
+    19.053005
+],
   "geometry": {"coordinates":[72.898529,19.053005],"type":"Point"}
 }

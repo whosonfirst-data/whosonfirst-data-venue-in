@@ -2,13 +2,14 @@
   "id": 169583277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.851112,19.137617,72.851112,19.137617",
     "geom:latitude":19.137617,
     "geom:longitude":72.851112,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"122/123, Pioneer Industrial Estate, Subhash Road, Jogeshwari (east),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169583277,
-    "wof:lastmodified":1449035264,
+    "wof:lastmodified":1466288783,
     "wof:name":"Kothari Group Of Industries",
     "wof:parent_id":85931511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [72.851112,19.137617,72.851112,19.137617],
+  "bbox": [
+    72.851112,
+    19.137617,
+    72.851112,
+    19.137617
+],
   "geometry": {"coordinates":[72.851112,19.137617],"type":"Point"}
 }

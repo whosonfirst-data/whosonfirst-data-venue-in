@@ -2,13 +2,14 @@
   "id": 169626979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.853951,19.16082,72.853951,19.16082",
     "geom:latitude":19.16082,
     "geom:longitude":72.853951,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"25, Deven Industrial Estate, I.b. Patel Road, Goregaon (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169626979,
-    "wof:lastmodified":1449035971,
+    "wof:lastmodified":1466288840,
     "wof:name":"Spreco Corporation",
     "wof:parent_id":85931563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "silicon"
     ]
 },
-  "bbox": [72.853951,19.16082,72.853951,19.16082],
+  "bbox": [
+    72.853951,
+    19.16082,
+    72.853951,
+    19.16082
+],
   "geometry": {"coordinates":[72.853951,19.16082],"type":"Point"}
 }

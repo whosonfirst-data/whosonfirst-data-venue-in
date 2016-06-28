@@ -2,13 +2,14 @@
   "id": 169544941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.713531,12.965158,77.713531,12.965158",
     "geom:latitude":12.965158,
     "geom:longitude":77.713531,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"58, Main Road, Whitefield,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169544941,
-    "wof:lastmodified":1449035964,
+    "wof:lastmodified":1466288680,
     "wof:name":"Usha Marin Industries Ltd.",
     "wof:parent_id":85931159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accessory"
     ]
 },
-  "bbox": [77.713531,12.965158,77.713531,12.965158],
+  "bbox": [
+    77.713531,
+    12.965158,
+    77.713531,
+    12.965158
+],
   "geometry": {"coordinates":[77.713531,12.965158],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169531923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.822639,18.925814,72.822639,18.925814",
     "geom:latitude":18.925814,
     "geom:longitude":72.822639,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"95a, Mittal Tower, Nariman Point,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169531923,
-    "wof:lastmodified":1449033476,
+    "wof:lastmodified":1466288860,
     "wof:name":"Shanti Plastics",
     "wof:parent_id":85931461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "item"
     ]
 },
-  "bbox": [72.822639,18.925814,72.822639,18.925814],
+  "bbox": [
+    72.822639,
+    18.925814,
+    72.822639,
+    18.925814
+],
   "geometry": {"coordinates":[72.822639,18.925814],"type":"Point"}
 }

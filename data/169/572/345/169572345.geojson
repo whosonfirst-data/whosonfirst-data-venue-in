@@ -2,13 +2,14 @@
   "id": 169572345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.148438,13.117372,80.148438,13.117372",
     "geom:latitude":13.117372,
     "geom:longitude":80.148438,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Ambattur",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169572345,
-    "wof:lastmodified":1449034707,
+    "wof:lastmodified":1466288748,
     "wof:name":"Wave Current Automotive Ltd",
     "wof:parent_id":85904059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.148438,13.117372,80.148438,13.117372],
+  "bbox": [
+    80.148438,
+    13.117372,
+    80.148438,
+    13.117372
+],
   "geometry": {"coordinates":[80.148438,13.117372],"type":"Point"}
 }

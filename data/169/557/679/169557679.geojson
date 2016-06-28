@@ -2,13 +2,14 @@
   "id": 169557679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.201057,28.651077,77.201057,28.651077",
     "geom:latitude":28.651077,
     "geom:longitude":77.201057,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Faiz Road, Karol Bagh",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169557679,
-    "wof:lastmodified":1449035035,
+    "wof:lastmodified":1466288722,
     "wof:name":"Auto Guide",
     "wof:parent_id":85928243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.201057,28.651077,77.201057,28.651077],
-  "geometry": {"coordinates":[77.201057,28.651077],"type":"Point"}
+  "bbox": [
+    77.201057,
+    28.651077,
+    77.201057,
+    28.651077
+],
+  "geometry": {"coordinates":[77.20105700000001,28.651077],"type":"Point"}
 }

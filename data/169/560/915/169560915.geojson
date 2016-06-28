@@ -2,13 +2,14 @@
   "id": 169560915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.269279,12.996187,80.269279,12.996187",
     "geom:latitude":12.996187,
     "geom:longitude":80.269279,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"10, 16th Cross Street, Besant Nagar,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169560915,
-    "wof:lastmodified":1449035181,
+    "wof:lastmodified":1466288767,
     "wof:name":"Edenglows",
     "wof:parent_id":85931669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sulphur"
     ]
 },
-  "bbox": [80.269279,12.996187,80.269279,12.996187],
+  "bbox": [
+    80.269279,
+    12.996187,
+    80.269279,
+    12.996187
+],
   "geometry": {"coordinates":[80.269279,12.996187],"type":"Point"}
 }

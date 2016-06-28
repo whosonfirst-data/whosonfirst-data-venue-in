@@ -2,13 +2,14 @@
   "id": 169573583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.525352,12.985409,77.525352,12.985409",
     "geom:latitude":12.985409,
     "geom:longitude":77.525352,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Magadi Main Road, Kamakshipalya",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169573583,
-    "wof:lastmodified":1449035116,
+    "wof:lastmodified":1466288758,
     "wof:name":"Kateel Engineering Industry Pvt Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.525352,12.985409,77.525352,12.985409],
+  "bbox": [
+    77.525352,
+    12.985409,
+    77.525352,
+    12.985409
+],
   "geometry": {"coordinates":[77.525352,12.985409],"type":"Point"}
 }

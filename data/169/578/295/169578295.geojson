@@ -2,13 +2,14 @@
   "id": 169578295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.190071,28.649553,77.190071,28.649553",
     "geom:latitude":28.649553,
     "geom:longitude":77.190071,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"'anil House', D-136, Shankar Road,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169578295,
-    "wof:lastmodified":1449033518,
+    "wof:lastmodified":1466288781,
     "wof:name":"H.i.c. International Co.",
     "wof:parent_id":85928243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [77.190071,28.649553,77.190071,28.649553],
+  "bbox": [
+    77.190071,
+    28.649553,
+    77.190071,
+    28.649553
+],
   "geometry": {"coordinates":[77.190071,28.649553],"type":"Point"}
 }

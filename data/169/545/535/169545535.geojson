@@ -2,13 +2,14 @@
   "id": 169545535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.216187,10.341599,76.216187,10.341599",
     "geom:latitude":10.341599,
     "geom:longitude":76.216187,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Kodungallur Road, P.b. No.2, Irinjalajuda",
     "sg:city":"Thrissur",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169545535,
-    "wof:lastmodified":1449033484,
+    "wof:lastmodified":1466288660,
     "wof:name":"Kpl Oil Mills (p) Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "edible"
     ]
 },
-  "bbox": [76.216187,10.341599,76.216187,10.341599],
-  "geometry": {"coordinates":[76.216187,10.341599],"type":"Point"}
+  "bbox": [
+    76.216187,
+    10.341599,
+    76.216187,
+    10.341599
+],
+  "geometry": {"coordinates":[76.21618700000001,10.341599],"type":"Point"}
 }

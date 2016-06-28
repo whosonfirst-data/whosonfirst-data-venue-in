@@ -2,13 +2,14 @@
   "id": 169567941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.622353,13.00051,77.622353,13.00051",
     "geom:latitude":13.00051,
     "geom:longitude":77.622353,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Lloyd Road, Cooke Town",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169567941,
-    "wof:lastmodified":1449035994,
+    "wof:lastmodified":1466288741,
     "wof:name":"Vinayaka Industries",
     "wof:parent_id":85930863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.622353,13.00051,77.622353,13.00051],
+  "bbox": [
+    77.622353,
+    13.00051,
+    77.622353,
+    13.00051
+],
   "geometry": {"coordinates":[77.622353,13.00051],"type":"Point"}
 }

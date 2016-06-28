@@ -2,13 +2,14 @@
   "id": 169534015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.851112,19.137617,72.851112,19.137617",
     "geom:latitude":19.137617,
     "geom:longitude":72.851112,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"201, Pioneer Industrial Estate, Subhash Road, Jogeshwari (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169534015,
-    "wof:lastmodified":1449033548,
+    "wof:lastmodified":1466288869,
     "wof:name":"Environmental Engineers & Consultants",
     "wof:parent_id":85931511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fan"
     ]
 },
-  "bbox": [72.851112,19.137617,72.851112,19.137617],
+  "bbox": [
+    72.851112,
+    19.137617,
+    72.851112,
+    19.137617
+],
   "geometry": {"coordinates":[72.851112,19.137617],"type":"Point"}
 }

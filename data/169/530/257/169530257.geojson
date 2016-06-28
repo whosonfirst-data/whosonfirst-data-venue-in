@@ -2,13 +2,14 @@
   "id": 169530257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.827652,18.933075,72.827652,18.933075",
     "geom:latitude":18.933075,
     "geom:longitude":72.827652,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"46, Veer Nariman Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169530257,
-    "wof:lastmodified":1449034442,
+    "wof:lastmodified":1466288677,
     "wof:name":"Tulsidas Khimji Pvt. Ltd.",
     "wof:parent_id":85903879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agent"
     ]
 },
-  "bbox": [72.827652,18.933075,72.827652,18.933075],
+  "bbox": [
+    72.827652,
+    18.933075,
+    72.827652,
+    18.933075
+],
   "geometry": {"coordinates":[72.827652,18.933075],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169560011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.262253,13.165981,80.262253,13.165981",
     "geom:latitude":13.165981,
     "geom:longitude":80.262253,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Dr. Radhakrishnan Salai",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169560011,
-    "wof:lastmodified":1449035180,
+    "wof:lastmodified":1466288700,
     "wof:name":"Hardy Exploration & Production",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.262253,13.165981,80.262253,13.165981],
+  "bbox": [
+    80.262253,
+    13.165981,
+    80.262253,
+    13.165981
+],
   "geometry": {"coordinates":[80.262253,13.165981],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169528017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.850136,19.206161,72.850136,19.206161",
     "geom:latitude":19.206161,
     "geom:longitude":72.850136,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"15, Gopal House, I.b. Patel, Goregaon (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169528017,
-    "wof:lastmodified":1449033569,
+    "wof:lastmodified":1466288623,
     "wof:name":"Bharat Enterprises",
     "wof:parent_id":85931623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "box"
     ]
 },
-  "bbox": [72.850136,19.206161,72.850136,19.206161],
-  "geometry": {"coordinates":[72.850136,19.206161],"type":"Point"}
+  "bbox": [
+    72.850136,
+    19.206161,
+    72.850136,
+    19.206161
+],
+  "geometry": {"coordinates":[72.85013600000001,19.206161],"type":"Point"}
 }

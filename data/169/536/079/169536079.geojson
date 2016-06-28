@@ -2,13 +2,14 @@
   "id": 169536079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.882591,19.107027,72.882591,19.107027",
     "geom:latitude":19.107027,
     "geom:longitude":72.882591,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"115, Mittal Indl Estate, Andheri East,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169536079,
-    "wof:lastmodified":1449034660,
+    "wof:lastmodified":1466288625,
     "wof:name":"Star Overseas",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.882591,19.107027,72.882591,19.107027],
-  "geometry": {"coordinates":[72.882591,19.107027],"type":"Point"}
+  "bbox": [
+    72.882591,
+    19.107027,
+    72.882591,
+    19.107027
+],
+  "geometry": {"coordinates":[72.88259100000001,19.107027],"type":"Point"}
 }

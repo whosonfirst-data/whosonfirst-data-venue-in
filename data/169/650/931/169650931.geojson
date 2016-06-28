@@ -2,13 +2,14 @@
   "id": 169650931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.182297,13.098585,80.182297,13.098585",
     "geom:latitude":13.098585,
     "geom:longitude":80.182297,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No.275,G.S.T Road, Chromepet,",
     "sg:city":"Chennai ",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169650931,
-    "wof:lastmodified":1449034701,
+    "wof:lastmodified":1466288857,
     "wof:name":"Tiriyo Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.182297,13.098585,80.182297,13.098585],
-  "geometry": {"coordinates":[80.182297,13.098585],"type":"Point"}
+  "bbox": [
+    80.182297,
+    13.098585,
+    80.182297,
+    13.098585
+],
+  "geometry": {"coordinates":[80.18229700000001,13.098585],"type":"Point"}
 }

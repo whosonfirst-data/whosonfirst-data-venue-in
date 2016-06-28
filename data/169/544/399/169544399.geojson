@@ -2,13 +2,14 @@
   "id": 169544399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.600479,12.924129,77.600479,12.924129",
     "geom:latitude":12.924129,
     "geom:longitude":77.600479,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"# 564/b, N.s Palya, Bannerghatta Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169544399,
-    "wof:lastmodified":1449035962,
+    "wof:lastmodified":1466288658,
     "wof:name":"Kiran Power Rectification Services Pvt. Ltd.",
     "wof:parent_id":85930991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "stabilizer"
     ]
 },
-  "bbox": [77.600479,12.924129,77.600479,12.924129],
-  "geometry": {"coordinates":[77.600479,12.924129],"type":"Point"}
+  "bbox": [
+    77.600479,
+    12.924129,
+    77.600479,
+    12.924129
+],
+  "geometry": {"coordinates":[77.60047900000001,12.924129],"type":"Point"}
 }

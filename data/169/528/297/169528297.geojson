@@ -2,13 +2,14 @@
   "id": 169528297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.830627,18.954006,72.830627,18.954006",
     "geom:latitude":18.954006,
     "geom:longitude":72.830627,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"62, 2nd Bhoiwada Lane, Bhuleshwar,",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169528297,
-    "wof:lastmodified":1449033570,
+    "wof:lastmodified":1466288682,
     "wof:name":"Dhiral's Creations",
     "wof:parent_id":85931435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.830627,18.954006,72.830627,18.954006],
-  "geometry": {"coordinates":[72.830627,18.954006],"type":"Point"}
+  "bbox": [
+    72.830627,
+    18.954006,
+    72.830627,
+    18.954006
+],
+  "geometry": {"coordinates":[72.83062700000001,18.954006],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169533785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.926315,19.122385,72.926315,19.122385",
     "geom:latitude":19.122385,
     "geom:longitude":72.926315,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Suyog Industrial Estate, L.b.s. Marg, Vikhroli (west),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169533785,
-    "wof:lastmodified":1449032643,
+    "wof:lastmodified":1466288868,
     "wof:name":"Pharmachine India",
     "wof:parent_id":85931633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "dy"
     ]
 },
-  "bbox": [72.926315,19.122385,72.926315,19.122385],
+  "bbox": [
+    72.926315,
+    19.122385,
+    72.926315,
+    19.122385
+],
   "geometry": {"coordinates":[72.926315,19.122385],"type":"Point"}
 }

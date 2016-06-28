@@ -2,13 +2,14 @@
   "id": 169539845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.614281,12.97456,77.614281,12.97456",
     "geom:latitude":12.97456,
     "geom:longitude":77.614281,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"121, The Estate, Dickenson Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169539845,
-    "wof:lastmodified":1449036037,
+    "wof:lastmodified":1466288658,
     "wof:name":"Avnet India Pvt. Ltd.",
     "wof:parent_id":85930841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "semiconductor"
     ]
 },
-  "bbox": [77.614281,12.97456,77.614281,12.97456],
-  "geometry": {"coordinates":[77.614281,12.97456],"type":"Point"}
+  "bbox": [
+    77.614281,
+    12.97456,
+    77.614281,
+    12.97456
+],
+  "geometry": {"coordinates":[77.61428100000001,12.97456],"type":"Point"}
 }

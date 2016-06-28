@@ -2,13 +2,14 @@
   "id": 169544613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.62397,12.929994,77.62397,12.929994",
     "geom:latitude":12.929994,
     "geom:longitude":77.62397,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#679, 6th 'a' Cross, 3rd Block, Koramangala,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169544613,
-    "wof:lastmodified":1449035963,
+    "wof:lastmodified":1466288668,
     "wof:name":"Goodaire Purifiers Pvt. Ltd.",
     "wof:parent_id":85930917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "purifier"
     ]
 },
-  "bbox": [77.62397,12.929994,77.62397,12.929994],
+  "bbox": [
+    77.62397,
+    12.929994,
+    77.62397,
+    12.929994
+],
   "geometry": {"coordinates":[77.62397,12.929994],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169530389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.870293,19.12141,72.870293,19.12141",
     "geom:latitude":19.12141,
     "geom:longitude":72.870293,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Zenith House, 29 Midc, Central Road, Andheri (east),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169530389,
-    "wof:lastmodified":1449034447,
+    "wof:lastmodified":1466288679,
     "wof:name":"Zenith Computers Limited",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.870293,19.12141,72.870293,19.12141],
+  "bbox": [
+    72.870293,
+    19.12141,
+    72.870293,
+    19.12141
+],
   "geometry": {"coordinates":[72.870293,19.12141],"type":"Point"}
 }

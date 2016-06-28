@@ -2,13 +2,14 @@
   "id": 169534189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.915138,19.125046,72.915138,19.125046",
     "geom:latitude":19.125046,
     "geom:longitude":72.915138,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"A-101, Bhawani Towers,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169534189,
-    "wof:lastmodified":1449033549,
+    "wof:lastmodified":1466288870,
     "wof:name":"Indus Valley Chemical Company",
     "wof:parent_id":85931633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "intermediate"
     ]
 },
-  "bbox": [72.915138,19.125046,72.915138,19.125046],
+  "bbox": [
+    72.915138,
+    19.125046,
+    72.915138,
+    19.125046
+],
   "geometry": {"coordinates":[72.915138,19.125046],"type":"Point"}
 }

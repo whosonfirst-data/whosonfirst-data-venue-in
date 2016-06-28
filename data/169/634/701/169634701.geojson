@@ -2,13 +2,14 @@
   "id": 169634701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.834602,18.942142,72.834602,18.942142",
     "geom:latitude":18.942142,
     "geom:longitude":72.834602,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"192, Dr. D.n. Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169634701,
-    "wof:lastmodified":1449034257,
+    "wof:lastmodified":1466288841,
     "wof:name":"Technochem Chemicals",
     "wof:parent_id":85931585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "intermediate"
     ]
 },
-  "bbox": [72.834602,18.942142,72.834602,18.942142],
+  "bbox": [
+    72.834602,
+    18.942142,
+    72.834602,
+    18.942142
+],
   "geometry": {"coordinates":[72.834602,18.942142],"type":"Point"}
 }

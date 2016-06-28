@@ -2,13 +2,14 @@
   "id": 169569871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.553345,12.990632,77.553345,12.990632",
     "geom:latitude":12.990632,
     "geom:longitude":77.553345,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Rajajinagar",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169569871,
-    "wof:lastmodified":1449035829,
+    "wof:lastmodified":1466288772,
     "wof:name":"Kalpa Electrikal Pvt Ltd",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.553345,12.990632,77.553345,12.990632],
-  "geometry": {"coordinates":[77.553345,12.990632],"type":"Point"}
+  "bbox": [
+    77.553345,
+    12.990632,
+    77.553345,
+    12.990632
+],
+  "geometry": {"coordinates":[77.55334499999999,12.990632],"type":"Point"}
 }

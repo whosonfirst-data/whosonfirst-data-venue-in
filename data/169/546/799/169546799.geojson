@@ -2,13 +2,14 @@
   "id": 169546799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.336746,11.110574,77.336746,11.110574",
     "geom:latitude":11.110574,
     "geom:longitude":77.336746,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 28, Stanes Road, 4th Street,",
     "sg:city":"Tirupur",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169546799,
-    "wof:lastmodified":1449032681,
+    "wof:lastmodified":1466288675,
     "wof:name":"Canimaara Garments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "knitwear"
     ]
 },
-  "bbox": [77.336746,11.110574,77.336746,11.110574],
-  "geometry": {"coordinates":[77.336746,11.110574],"type":"Point"}
+  "bbox": [
+    77.336746,
+    11.110574,
+    77.336746,
+    11.110574
+],
+  "geometry": {"coordinates":[77.33674600000001,11.110574],"type":"Point"}
 }

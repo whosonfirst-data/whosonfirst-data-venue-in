@@ -2,13 +2,14 @@
   "id": 169578859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.222855,28.660044,77.222855,28.660044",
     "geom:latitude":28.660044,
     "geom:longitude":77.222855,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"76, C.p. Jank Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169578859,
-    "wof:lastmodified":1449033521,
+    "wof:lastmodified":1466288804,
     "wof:name":"Hindustan Colour & Chemical Industry",
     "wof:parent_id":85928109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "allied"
     ]
 },
-  "bbox": [77.222855,28.660044,77.222855,28.660044],
+  "bbox": [
+    77.222855,
+    28.660044,
+    77.222855,
+    28.660044
+],
   "geometry": {"coordinates":[77.222855,28.660044],"type":"Point"}
 }

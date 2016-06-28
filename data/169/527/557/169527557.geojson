@@ -2,13 +2,14 @@
   "id": 169527557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.821571,18.914289,72.821571,18.914289",
     "geom:latitude":18.914289,
     "geom:longitude":72.821571,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"34, Arcade, W.t.c., Cuffeparade,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169527557,
-    "wof:lastmodified":1449035279,
+    "wof:lastmodified":1466288631,
     "wof:name":"Walton Exports Pvt. Ltd.",
     "wof:parent_id":85903829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bed"
     ]
 },
-  "bbox": [72.821571,18.914289,72.821571,18.914289],
-  "geometry": {"coordinates":[72.821571,18.914289],"type":"Point"}
+  "bbox": [
+    72.821571,
+    18.914289,
+    72.821571,
+    18.914289
+],
+  "geometry": {"coordinates":[72.82157100000001,18.914289],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169599613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"70.752899,22.27956,70.752899,22.27956",
     "geom:latitude":22.27956,
     "geom:longitude":70.752899,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. G-1340, Metoda G.i.d.c., Kalawad Road,",
     "sg:city":"Rajkot",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169599613,
-    "wof:lastmodified":1449034207,
+    "wof:lastmodified":1466288813,
     "wof:name":"Parth Thermotech Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "coating"
     ]
 },
-  "bbox": [70.752899,22.27956,70.752899,22.27956],
+  "bbox": [
+    70.752899,
+    22.27956,
+    70.752899,
+    22.27956
+],
   "geometry": {"coordinates":[70.752899,22.27956],"type":"Point"}
 }

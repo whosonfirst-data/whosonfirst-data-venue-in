@@ -2,13 +2,14 @@
   "id": 169544885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.557899,12.99098,77.557899,12.99098",
     "geom:latitude":12.99098,
     "geom:longitude":77.557899,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"71, 1st Floor, Dr. Rajkumar Road, Prakashnagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169544885,
-    "wof:lastmodified":1449035964,
+    "wof:lastmodified":1466288677,
     "wof:name":"D. C. Hoist & Instruments",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wire"
     ]
 },
-  "bbox": [77.557899,12.99098,77.557899,12.99098],
-  "geometry": {"coordinates":[77.557899,12.99098],"type":"Point"}
+  "bbox": [
+    77.557899,
+    12.99098,
+    77.557899,
+    12.99098
+],
+  "geometry": {"coordinates":[77.55789900000001,12.99098],"type":"Point"}
 }

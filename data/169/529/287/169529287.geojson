@@ -2,13 +2,14 @@
   "id": 169529287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.830627,18.954006,72.830627,18.954006",
     "geom:latitude":18.954006,
     "geom:longitude":72.830627,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"42, 2nd Bhoiwada, 3rd Floor, Bhuleshwar,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169529287,
-    "wof:lastmodified":1449034112,
+    "wof:lastmodified":1466288694,
     "wof:name":"Shailja Traders Pvt. Ltd.",
     "wof:parent_id":85931435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cement"
     ]
 },
-  "bbox": [72.830627,18.954006,72.830627,18.954006],
-  "geometry": {"coordinates":[72.830627,18.954006],"type":"Point"}
+  "bbox": [
+    72.830627,
+    18.954006,
+    72.830627,
+    18.954006
+],
+  "geometry": {"coordinates":[72.83062700000001,18.954006],"type":"Point"}
 }

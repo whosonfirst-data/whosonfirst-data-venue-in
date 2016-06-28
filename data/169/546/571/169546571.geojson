@@ -2,13 +2,14 @@
   "id": 169546571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.581398,13.004086,77.581398,13.004086",
     "geom:latitude":13.004086,
     "geom:longitude":77.581398,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Town Extention, 1st Street,",
     "sg:city":"Tirupur",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169546571,
-    "wof:lastmodified":1449032680,
+    "wof:lastmodified":1466288669,
     "wof:name":"Ramesh Kumar Mills",
     "wof:parent_id":85930891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.581398,13.004086,77.581398,13.004086],
-  "geometry": {"coordinates":[77.581398,13.004086],"type":"Point"}
+  "bbox": [
+    77.581398,
+    13.004086,
+    77.581398,
+    13.004086
+],
+  "geometry": {"coordinates":[77.58139799999999,13.004086],"type":"Point"}
 }

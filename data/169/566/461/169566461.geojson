@@ -2,13 +2,14 @@
   "id": 169566461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.256714,13.002759,80.256714,13.002759",
     "geom:latitude":13.002759,
     "geom:longitude":80.256714,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Lattice Bridge Road, Adyar",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169566461,
-    "wof:lastmodified":1449032753,
+    "wof:lastmodified":1466288723,
     "wof:name":"Sai Mirra Pharmaceuticals Pvt Ltd",
     "wof:parent_id":85903855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.256714,13.002759,80.256714,13.002759],
+  "bbox": [
+    80.256714,
+    13.002759,
+    80.256714,
+    13.002759
+],
   "geometry": {"coordinates":[80.256714,13.002759],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169563233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.457787,17.404873,78.457787,17.404873",
     "geom:latitude":17.404873,
     "geom:longitude":78.457787,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"A.c. Guards",
     "sg:city":"Hyderabad",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169563233,
-    "wof:lastmodified":1449032734,
+    "wof:lastmodified":1466288710,
     "wof:name":"Reliable Web Solutions Pvt Ltd",
     "wof:parent_id":85930765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.457787,17.404873,78.457787,17.404873],
+  "bbox": [
+    78.457787,
+    17.404873,
+    78.457787,
+    17.404873
+],
   "geometry": {"coordinates":[78.457787,17.404873],"type":"Point"}
 }

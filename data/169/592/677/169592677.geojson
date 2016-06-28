@@ -2,13 +2,14 @@
   "id": 169592677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.925385,22.533955,72.925385,22.533955",
     "geom:latitude":22.533955,
     "geom:longitude":72.925385,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"I/62, G.i.d.c., Vitthal Udyognagar,",
     "sg:city":"Anand",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169592677,
-    "wof:lastmodified":1449034582,
+    "wof:lastmodified":1466288805,
     "wof:name":"National Polymers Co.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "polymer"
     ]
 },
-  "bbox": [72.925385,22.533955,72.925385,22.533955],
-  "geometry": {"coordinates":[72.925385,22.533955],"type":"Point"}
+  "bbox": [
+    72.925385,
+    22.533955,
+    72.925385,
+    22.533955
+],
+  "geometry": {"coordinates":[72.92538500000001,22.533955],"type":"Point"}
 }

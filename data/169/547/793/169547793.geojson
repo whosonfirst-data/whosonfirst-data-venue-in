@@ -2,13 +2,14 @@
   "id": 169547793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.297356,28.649111,77.297356,28.649111",
     "geom:latitude":28.649111,
     "geom:longitude":77.297356,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"128, Mangalam Road,",
     "sg:city":"Tirupur",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169547793,
-    "wof:lastmodified":1449033008,
+    "wof:lastmodified":1466288880,
     "wof:name":"Aravallii Knitting Mills Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "wear"
     ]
 },
-  "bbox": [77.297356,28.649111,77.297356,28.649111],
-  "geometry": {"coordinates":[77.297356,28.649111],"type":"Point"}
+  "bbox": [
+    77.297356,
+    28.649111,
+    77.297356,
+    28.649111
+],
+  "geometry": {"coordinates":[77.29735599999999,28.649111],"type":"Point"}
 }

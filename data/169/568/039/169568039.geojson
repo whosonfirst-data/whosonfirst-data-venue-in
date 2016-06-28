@@ -2,13 +2,14 @@
   "id": 169568039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.277252,13.09917,80.277252,13.09917",
     "geom:latitude":13.09917,
     "geom:longitude":80.277252,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Lawyer Chinnathambi Street",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169568039,
-    "wof:lastmodified":1449032612,
+    "wof:lastmodified":1466288730,
     "wof:name":"Jai Plastics",
     "wof:parent_id":85931765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.277252,13.09917,80.277252,13.09917],
+  "bbox": [
+    80.277252,
+    13.09917,
+    80.277252,
+    13.09917
+],
   "geometry": {"coordinates":[80.277252,13.09917],"type":"Point"}
 }

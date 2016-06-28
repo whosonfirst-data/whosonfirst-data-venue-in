@@ -2,13 +2,14 @@
   "id": 169561559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.181023,28.642857,77.181023,28.642857",
     "geom:latitude":28.642857,
     "geom:longitude":77.181023,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Pusa Road",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169561559,
-    "wof:lastmodified":1449035021,
+    "wof:lastmodified":1466288725,
     "wof:name":"S K Industries Pvt Ltd",
     "wof:parent_id":85928113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.181023,28.642857,77.181023,28.642857],
+  "bbox": [
+    77.181023,
+    28.642857,
+    77.181023,
+    28.642857
+],
   "geometry": {"coordinates":[77.181023,28.642857],"type":"Point"}
 }

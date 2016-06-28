@@ -2,13 +2,14 @@
   "id": 169646297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.153549,28.660975,77.153549,28.660975",
     "geom:latitude":28.660975,
     "geom:longitude":77.153549,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"A-22, 70, Najafgarh Road, Industrial Area,",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169646297,
-    "wof:lastmodified":1449032608,
+    "wof:lastmodified":1466288848,
     "wof:name":"Weltech India Pvt. Ltd.",
     "wof:parent_id":85927889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.153549,28.660975,77.153549,28.660975],
+  "bbox": [
+    77.153549,
+    28.660975,
+    77.153549,
+    28.660975
+],
   "geometry": {"coordinates":[77.153549,28.660975],"type":"Point"}
 }

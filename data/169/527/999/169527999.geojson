@@ -2,13 +2,14 @@
   "id": 169527999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.833961,19.135494,72.833961,19.135494",
     "geom:latitude":19.135494,
     "geom:longitude":72.833961,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Ghanshyam Industrial Estate, 22-23, Veera Desai Road, Andheri (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169527999,
-    "wof:lastmodified":1449035279,
+    "wof:lastmodified":1466288636,
     "wof:name":"B. & S. Packagings",
     "wof:parent_id":85931475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "box"
     ]
 },
-  "bbox": [72.833961,19.135494,72.833961,19.135494],
+  "bbox": [
+    72.833961,
+    19.135494,
+    72.833961,
+    19.135494
+],
   "geometry": {"coordinates":[72.833961,19.135494],"type":"Point"}
 }

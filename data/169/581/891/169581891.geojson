@@ -2,13 +2,14 @@
   "id": 169581891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.860275,19.043211,72.860275,19.043211",
     "geom:latitude":19.043211,
     "geom:longitude":72.860275,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"152, Mahatama Gandhi Road, Camp,",
     "sg:city":"Pune",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169581891,
-    "wof:lastmodified":1449033381,
+    "wof:lastmodified":1466288796,
     "wof:name":"Kankariya Enterprises",
     "wof:parent_id":85903847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acid"
     ]
 },
-  "bbox": [72.860275,19.043211,72.860275,19.043211],
+  "bbox": [
+    72.860275,
+    19.043211,
+    72.860275,
+    19.043211
+],
   "geometry": {"coordinates":[72.860275,19.043211],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169600657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.908394,18.506432,73.908394,18.506432",
     "geom:latitude":18.506432,
     "geom:longitude":73.908394,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"E 7/8, Midc , Solapur",
     "sg:city":"Pune",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169600657,
-    "wof:lastmodified":1449032969,
+    "wof:lastmodified":1466288818,
     "wof:name":"Pharmakab Laboratories",
     "wof:parent_id":85931317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "raw"
     ]
 },
-  "bbox": [73.908394,18.506432,73.908394,18.506432],
+  "bbox": [
+    73.908394,
+    18.506432,
+    73.908394,
+    18.506432
+],
   "geometry": {"coordinates":[73.908394,18.506432],"type":"Point"}
 }

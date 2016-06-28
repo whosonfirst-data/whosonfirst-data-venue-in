@@ -2,13 +2,14 @@
   "id": 169548073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.527618,9.213571,76.527618,9.213571",
     "geom:latitude":9.213571,
     "geom:longitude":76.527618,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Ayyankulam Street,",
     "sg:city":"Tiruvannamalai",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169548073,
-    "wof:lastmodified":1449034973,
+    "wof:lastmodified":1466288667,
     "wof:name":"Raj Impressions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [76.527618,9.213571,76.527618,9.213571],
+  "bbox": [
+    76.527618,
+    9.213571,
+    76.527618,
+    9.213571
+],
   "geometry": {"coordinates":[76.527618,9.213571],"type":"Point"}
 }

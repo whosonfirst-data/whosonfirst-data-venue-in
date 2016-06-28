@@ -2,13 +2,14 @@
   "id": 169535603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.943123,19.153494,72.943123,19.153494",
     "geom:latitude":19.153494,
     "geom:longitude":72.943123,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Subhash Nagar, Bhandup,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169535603,
-    "wof:lastmodified":1449033288,
+    "wof:lastmodified":1466288875,
     "wof:name":"Kilburn Engineering Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "good"
     ]
 },
-  "bbox": [72.943123,19.153494,72.943123,19.153494],
+  "bbox": [
+    72.943123,
+    19.153494,
+    72.943123,
+    19.153494
+],
   "geometry": {"coordinates":[72.943123,19.153494],"type":"Point"}
 }

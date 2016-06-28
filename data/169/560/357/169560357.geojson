@@ -2,13 +2,14 @@
   "id": 169560357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.607933,12.967108,77.607933,12.967108",
     "geom:latitude":12.967108,
     "geom:longitude":77.607933,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"20/1, Vvd Road,",
     "sg:city":"Tuticorin",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169560357,
-    "wof:lastmodified":1449035181,
+    "wof:lastmodified":1466288726,
     "wof:name":"Dharani Export Import Services Pvt. Ltd.",
     "wof:parent_id":85930841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acid"
     ]
 },
-  "bbox": [77.607933,12.967108,77.607933,12.967108],
+  "bbox": [
+    77.607933,
+    12.967108,
+    77.607933,
+    12.967108
+],
   "geometry": {"coordinates":[77.607933,12.967108],"type":"Point"}
 }

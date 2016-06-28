@@ -2,13 +2,14 @@
   "id": 169572451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.598206,12.890531,77.598206,12.890531",
     "geom:latitude":12.890531,
     "geom:longitude":77.598206,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Bannerghatta Road",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169572451,
-    "wof:lastmodified":1449034707,
+    "wof:lastmodified":1466288754,
     "wof:name":"Logix Microsystems Ltd",
     "wof:parent_id":85930957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.598206,12.890531,77.598206,12.890531],
+  "bbox": [
+    77.598206,
+    12.890531,
+    77.598206,
+    12.890531
+],
   "geometry": {"coordinates":[77.598206,12.890531],"type":"Point"}
 }

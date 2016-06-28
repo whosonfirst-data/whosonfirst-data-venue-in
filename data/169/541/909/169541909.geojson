@@ -2,13 +2,14 @@
   "id": 169541909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.481728,12.915341,77.481728,12.915341",
     "geom:latitude":12.915341,
     "geom:longitude":77.481728,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"215, 1st B Main, Kengeri Satallite Town,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169541909,
-    "wof:lastmodified":1449033042,
+    "wof:lastmodified":1466288680,
     "wof:name":"Sri Mata Bio Source",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "spice"
     ]
 },
-  "bbox": [77.481728,12.915341,77.481728,12.915341],
+  "bbox": [
+    77.481728,
+    12.915341,
+    77.481728,
+    12.915341
+],
   "geometry": {"coordinates":[77.481728,12.915341],"type":"Point"}
 }

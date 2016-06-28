@@ -2,13 +2,14 @@
   "id": 169652173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.649088,12.965674,77.649088,12.965674",
     "geom:latitude":12.965674,
     "geom:longitude":77.649088,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#144, 60 feet Road,  KHB Colony, 5th Block,",
     "sg:city":"koramangala,bangalore",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169652173,
-    "wof:lastmodified":1449034806,
+    "wof:lastmodified":1466288852,
     "wof:name":"XEN GlobalTech ",
     "wof:parent_id":85931151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.649088,12.965674,77.649088,12.965674],
-  "geometry": {"coordinates":[77.649088,12.965674],"type":"Point"}
+  "bbox": [
+    77.649088,
+    12.965674,
+    77.649088,
+    12.965674
+],
+  "geometry": {"coordinates":[77.64908800000001,12.965674],"type":"Point"}
 }

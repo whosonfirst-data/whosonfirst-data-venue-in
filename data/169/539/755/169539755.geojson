@@ -2,13 +2,14 @@
   "id": 169539755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.593124,12.910188,77.593124,12.910188",
     "geom:latitude":12.910188,
     "geom:longitude":77.593124,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1739, 9th Cross, J. P. Nagar, Phase-ii,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169539755,
-    "wof:lastmodified":1449036037,
+    "wof:lastmodified":1466288653,
     "wof:name":"Bhasin Intl.",
     "wof:parent_id":85931061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sculpture"
     ]
 },
-  "bbox": [77.593124,12.910188,77.593124,12.910188],
+  "bbox": [
+    77.593124,
+    12.910188,
+    77.593124,
+    12.910188
+],
   "geometry": {"coordinates":[77.593124,12.910188],"type":"Point"}
 }

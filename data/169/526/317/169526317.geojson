@@ -2,13 +2,14 @@
   "id": 169526317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.857925,18.512157,73.857925,18.512157",
     "geom:latitude":18.512157,
     "geom:longitude":73.857925,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B-12, Ramachandra Apartment, Lokmanya Nagar No.2,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169526317,
-    "wof:lastmodified":1449033700,
+    "wof:lastmodified":1466288624,
     "wof:name":"Vijay Enterprises",
     "wof:parent_id":85931207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "component"
     ]
 },
-  "bbox": [73.857925,18.512157,73.857925,18.512157],
-  "geometry": {"coordinates":[73.857925,18.512157],"type":"Point"}
+  "bbox": [
+    73.857925,
+    18.512157,
+    73.857925,
+    18.512157
+],
+  "geometry": {"coordinates":[73.85792499999999,18.512157],"type":"Point"}
 }

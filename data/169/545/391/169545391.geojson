@@ -2,13 +2,14 @@
   "id": 169545391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.120094,12.929003,80.120094,12.929003",
     "geom:latitude":12.929003,
     "geom:longitude":80.120094,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"81b, Trunk Road, T.v.kovil,",
     "sg:city":"Thiruchirapalli",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169545391,
-    "wof:lastmodified":1449033487,
+    "wof:lastmodified":1466288654,
     "wof:name":"T T Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "blind"
     ]
 },
-  "bbox": [80.120094,12.929003,80.120094,12.929003],
-  "geometry": {"coordinates":[80.120094,12.929003],"type":"Point"}
+  "bbox": [
+    80.120094,
+    12.929003,
+    80.120094,
+    12.929003
+],
+  "geometry": {"coordinates":[80.12009399999999,12.929003],"type":"Point"}
 }

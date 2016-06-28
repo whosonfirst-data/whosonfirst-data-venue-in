@@ -2,13 +2,14 @@
   "id": 169525725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.919479,19.114925,72.919479,19.114925",
     "geom:latitude":19.114925,
     "geom:longitude":72.919479,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Vikhroli (west),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169525725,
-    "wof:lastmodified":1449035273,
+    "wof:lastmodified":1466288619,
     "wof:name":"Okean International",
     "wof:parent_id":85931627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commodity"
     ]
 },
-  "bbox": [72.919479,19.114925,72.919479,19.114925],
+  "bbox": [
+    72.919479,
+    19.114925,
+    72.919479,
+    19.114925
+],
   "geometry": {"coordinates":[72.919479,19.114925],"type":"Point"}
 }

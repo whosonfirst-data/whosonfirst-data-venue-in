@@ -2,13 +2,14 @@
   "id": 169651595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.003186,28.435018,77.003186,28.435018",
     "geom:latitude":28.435018,
     "geom:longitude":77.003186,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Udyog Vihar Phase I",
     "sg:city":"Gurgaon",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169651595,
-    "wof:lastmodified":1449033346,
+    "wof:lastmodified":1466288857,
     "wof:name":"MakeMyTrip.com",
     "wof:parent_id":85928457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.003186,28.435018,77.003186,28.435018],
+  "bbox": [
+    77.003186,
+    28.435018,
+    77.003186,
+    28.435018
+],
   "geometry": {"coordinates":[77.003186,28.435018],"type":"Point"}
 }

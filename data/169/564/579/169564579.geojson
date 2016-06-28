@@ -2,13 +2,14 @@
   "id": 169564579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.86132,19.041248,72.86132,19.041248",
     "geom:latitude":19.041248,
     "geom:longitude":72.86132,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Opp. Sies College, Sion (w)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169564579,
-    "wof:lastmodified":1449035763,
+    "wof:lastmodified":1466288717,
     "wof:name":"Sagar Leasing Company Ltd",
     "wof:parent_id":85903847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.86132,19.041248,72.86132,19.041248],
-  "geometry": {"coordinates":[72.86132,19.041248],"type":"Point"}
+  "bbox": [
+    72.86132,
+    19.041248,
+    72.86132,
+    19.041248
+],
+  "geometry": {"coordinates":[72.86132000000001,19.041248],"type":"Point"}
 }

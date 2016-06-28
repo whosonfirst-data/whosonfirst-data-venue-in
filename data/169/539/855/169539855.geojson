@@ -2,13 +2,14 @@
   "id": 169539855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.470978,17.347868,78.470978,17.347868",
     "geom:latitude":17.347868,
     "geom:longitude":78.470978,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#110 S.p.road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169539855,
-    "wof:lastmodified":1449036039,
+    "wof:lastmodified":1466288659,
     "wof:name":"Om Electronics",
     "wof:parent_id":85930807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "semiconductor"
     ]
 },
-  "bbox": [78.470978,17.347868,78.470978,17.347868],
+  "bbox": [
+    78.470978,
+    17.347868,
+    78.470978,
+    17.347868
+],
   "geometry": {"coordinates":[78.470978,17.347868],"type":"Point"}
 }

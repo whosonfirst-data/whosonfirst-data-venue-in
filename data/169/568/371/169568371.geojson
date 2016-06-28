@@ -2,13 +2,14 @@
   "id": 169568371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.603073,13.025433,77.603073,13.025433",
     "geom:latitude":13.025433,
     "geom:longitude":77.603073,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaval Byrasandra, R.t.nagar",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169568371,
-    "wof:lastmodified":1449032612,
+    "wof:lastmodified":1466288746,
     "wof:name":"Unipar Energy Systems Pvt Ltd",
     "wof:parent_id":85931013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.603073,13.025433,77.603073,13.025433],
-  "geometry": {"coordinates":[77.603073,13.025433],"type":"Point"}
+  "bbox": [
+    77.603073,
+    13.025433,
+    77.603073,
+    13.025433
+],
+  "geometry": {"coordinates":[77.60307299999999,13.025433],"type":"Point"}
 }

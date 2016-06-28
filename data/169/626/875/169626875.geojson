@@ -2,13 +2,14 @@
   "id": 169626875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.540352,13.011638,77.540352,13.011638",
     "geom:latitude":13.011638,
     "geom:longitude":77.540352,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"A-413, 9th Main, 2nd Stage, Peenya Indl., Estate,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169626875,
-    "wof:lastmodified":1449035971,
+    "wof:lastmodified":1466288839,
     "wof:name":"Spraymet Surface Technologies Pvt. Ltd.",
     "wof:parent_id":85930919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "coating"
     ]
 },
-  "bbox": [77.540352,13.011638,77.540352,13.011638],
+  "bbox": [
+    77.540352,
+    13.011638,
+    77.540352,
+    13.011638
+],
   "geometry": {"coordinates":[77.540352,13.011638],"type":"Point"}
 }

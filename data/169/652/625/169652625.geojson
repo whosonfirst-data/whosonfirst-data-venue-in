@@ -2,13 +2,14 @@
   "id": 169652625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.152135,13.11352,80.152135,13.11352",
     "geom:latitude":13.11352,
     "geom:longitude":80.152135,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"\"GNG House\" K-48, Anna Nagar East",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":169652625,
-    "wof:lastmodified":1449034810,
+    "wof:lastmodified":1466288896,
     "wof:name":"Dot Com Infoway France",
     "wof:parent_id":85904059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "web2-0"
     ]
 },
-  "bbox": [80.152135,13.11352,80.152135,13.11352],
+  "bbox": [
+    80.152135,
+    13.11352,
+    80.152135,
+    13.11352
+],
   "geometry": {"coordinates":[80.152135,13.11352],"type":"Point"}
 }

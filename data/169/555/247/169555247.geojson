@@ -2,13 +2,14 @@
   "id": 169555247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.83065,18.932547,72.83065,18.932547",
     "geom:latitude":18.932547,
     "geom:longitude":72.83065,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"12/14, Veer Nariman Road, Fort",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169555247,
-    "wof:lastmodified":1449035494,
+    "wof:lastmodified":1466288889,
     "wof:name":"W H Brady & Company Ltd",
     "wof:parent_id":85903853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.83065,18.932547,72.83065,18.932547],
-  "geometry": {"coordinates":[72.83065,18.932547],"type":"Point"}
+  "bbox": [
+    72.83065,
+    18.932547,
+    72.83065,
+    18.932547
+],
+  "geometry": {"coordinates":[72.83065000000001,18.932547],"type":"Point"}
 }

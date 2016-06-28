@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 169557935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.618111,12.97191,77.618111,12.97191",
     "geom:latitude":12.97191,
     "geom:longitude":77.618111,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Midford Gardens",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169557935,
-    "wof:lastmodified":1449035037,
+    "wof:lastmodified":1466288732,
     "wof:name":"India Sugars & Refineries Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.618111,12.97191,77.618111,12.97191],
+  "bbox": [
+    77.618111,
+    12.97191,
+    77.618111,
+    12.97191
+],
   "geometry": {"coordinates":[77.618111,12.97191],"type":"Point"}
 }

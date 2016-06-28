@@ -2,13 +2,14 @@
   "id": 169588873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.089539,28.638338,77.089539,28.638338",
     "geom:latitude":28.638338,
     "geom:longitude":77.089539,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"5b/2, Tilak Nagar,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169588873,
-    "wof:lastmodified":1449035308,
+    "wof:lastmodified":1466288800,
     "wof:name":"Mercury Scientific Equipments",
     "wof:parent_id":85928581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supply"
     ]
 },
-  "bbox": [77.089539,28.638338,77.089539,28.638338],
+  "bbox": [
+    77.089539,
+    28.638338,
+    77.089539,
+    28.638338
+],
   "geometry": {"coordinates":[77.089539,28.638338],"type":"Point"}
 }

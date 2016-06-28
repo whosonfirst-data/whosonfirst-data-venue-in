@@ -2,13 +2,14 @@
   "id": 169604785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.18502,13.084868,80.18502,13.084868",
     "geom:latitude":13.084868,
     "geom:longitude":80.18502,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot #1100, West End Colony, Mogappair,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169604785,
-    "wof:lastmodified":1449035570,
+    "wof:lastmodified":1466288818,
     "wof:name":"Protektol Anticorrosives",
     "wof:parent_id":85931815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "coating"
     ]
 },
-  "bbox": [80.18502,13.084868,80.18502,13.084868],
-  "geometry": {"coordinates":[80.18502,13.084868],"type":"Point"}
+  "bbox": [
+    80.18502,
+    13.084868,
+    80.18502,
+    13.084868
+],
+  "geometry": {"coordinates":[80.18501999999999,13.084868],"type":"Point"}
 }

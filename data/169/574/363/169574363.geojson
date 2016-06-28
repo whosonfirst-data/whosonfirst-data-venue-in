@@ -2,13 +2,14 @@
   "id": 169574363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"79.082512,21.139156,79.082512,21.139156",
     "geom:latitude":21.139156,
     "geom:longitude":79.082512,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Opp Yeshwant Stadium, Dhantoli",
     "sg:city":"Nagpur",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169574363,
-    "wof:lastmodified":1449032667,
+    "wof:lastmodified":1466288754,
     "wof:name":"Artefact Software & Finance Ltd",
     "wof:parent_id":85903845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [79.082512,21.139156,79.082512,21.139156],
-  "geometry": {"coordinates":[79.082512,21.139156],"type":"Point"}
+  "bbox": [
+    79.082512,
+    21.139156,
+    79.082512,
+    21.139156
+],
+  "geometry": {"coordinates":[79.08251199999999,21.139156],"type":"Point"}
 }

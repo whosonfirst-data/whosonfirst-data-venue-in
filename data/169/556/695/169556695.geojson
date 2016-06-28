@@ -2,13 +2,14 @@
   "id": 169556695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.274277,28.630932,77.274277,28.630932",
     "geom:latitude":28.630932,
     "geom:longitude":77.274277,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Lalita Park",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169556695,
-    "wof:lastmodified":1449033507,
+    "wof:lastmodified":1466288722,
     "wof:name":"Inferno Pacifires Pvt Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.274277,28.630932,77.274277,28.630932],
+  "bbox": [
+    77.274277,
+    28.630932,
+    77.274277,
+    28.630932
+],
   "geometry": {"coordinates":[77.274277,28.630932],"type":"Point"}
 }

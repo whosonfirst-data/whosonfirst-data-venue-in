@@ -2,13 +2,14 @@
   "id": 169592127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.459625,17.398502,78.459625,17.398502",
     "geom:latitude":17.398502,
     "geom:longitude":78.459625,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"6-2645/9, A.c. Guards, Lakdi-ka-pool,",
     "sg:city":"Hyderabad",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169592127,
-    "wof:lastmodified":1449034584,
+    "wof:lastmodified":1466288893,
     "wof:name":"Nandi Profiles Pvt. Ltd.",
     "wof:parent_id":85930765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.459625,17.398502,78.459625,17.398502],
+  "bbox": [
+    78.459625,
+    17.398502,
+    78.459625,
+    17.398502
+],
   "geometry": {"coordinates":[78.459625,17.398502],"type":"Point"}
 }

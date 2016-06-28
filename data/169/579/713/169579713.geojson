@@ -2,13 +2,14 @@
   "id": 169579713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.562088,12.958614,77.562088,12.958614",
     "geom:latitude":12.958614,
     "geom:longitude":77.562088,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No 178, Ii Main, Chamarjpet,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169579713,
-    "wof:lastmodified":1449033742,
+    "wof:lastmodified":1466288800,
     "wof:name":"Indocom Marketing Pvt. Ltd.",
     "wof:parent_id":85930907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "allied"
     ]
 },
-  "bbox": [77.562088,12.958614,77.562088,12.958614],
+  "bbox": [
+    77.562088,
+    12.958614,
+    77.562088,
+    12.958614
+],
   "geometry": {"coordinates":[77.562088,12.958614],"type":"Point"}
 }

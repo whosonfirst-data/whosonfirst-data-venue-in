@@ -2,13 +2,14 @@
   "id": 169543897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.565376,13.001807,77.565376,13.001807",
     "geom:latitude":13.001807,
     "geom:longitude":77.565376,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#952/8, 8th a' Main, Prakashnagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169543897,
-    "wof:lastmodified":1449033335,
+    "wof:lastmodified":1466288880,
     "wof:name":"Pro Tech Engineers",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fitting"
     ]
 },
-  "bbox": [77.565376,13.001807,77.565376,13.001807],
+  "bbox": [
+    77.565376,
+    13.001807,
+    77.565376,
+    13.001807
+],
   "geometry": {"coordinates":[77.565376,13.001807],"type":"Point"}
 }

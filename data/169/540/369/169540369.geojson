@@ -2,13 +2,14 @@
   "id": 169540369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.64267,13.021512,77.64267,13.021512",
     "geom:latitude":13.021512,
     "geom:longitude":77.64267,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"210 3rd Block, 80 Feet Road, Hbr Layout,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169540369,
-    "wof:lastmodified":1449033979,
+    "wof:lastmodified":1466288651,
     "wof:name":"Soles",
     "wof:parent_id":85931031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "upper"
     ]
 },
-  "bbox": [77.64267,13.021512,77.64267,13.021512],
+  "bbox": [
+    77.64267,
+    13.021512,
+    77.64267,
+    13.021512
+],
   "geometry": {"coordinates":[77.64267,13.021512],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169528429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.839569,18.935926,72.839569,18.935926",
     "geom:latitude":18.935926,
     "geom:longitude":72.839569,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1st Flr., Nevel House, Balard Estate,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169528429,
-    "wof:lastmodified":1449033572,
+    "wof:lastmodified":1466288684,
     "wof:name":"Sunply International",
     "wof:parent_id":85903853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "building"
     ]
 },
-  "bbox": [72.839569,18.935926,72.839569,18.935926],
+  "bbox": [
+    72.839569,
+    18.935926,
+    72.839569,
+    18.935926
+],
   "geometry": {"coordinates":[72.839569,18.935926],"type":"Point"}
 }

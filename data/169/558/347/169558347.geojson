@@ -2,13 +2,14 @@
   "id": 169558347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"75.831604,26.886431,75.831604,26.886431",
     "geom:latitude":26.886431,
     "geom:longitude":75.831604,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"176/4, Jawaher Nager, Jacobpura,",
     "sg:city":"Gurgaon",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169558347,
-    "wof:lastmodified":1449033581,
+    "wof:lastmodified":1466288713,
     "wof:name":"Birla Chemicals",
     "wof:parent_id":85934539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [75.831604,26.886431,75.831604,26.886431],
+  "bbox": [
+    75.831604,
+    26.886431,
+    75.831604,
+    26.886431
+],
   "geometry": {"coordinates":[75.831604,26.886431],"type":"Point"}
 }

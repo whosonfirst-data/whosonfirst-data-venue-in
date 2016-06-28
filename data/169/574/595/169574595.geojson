@@ -2,13 +2,14 @@
   "id": 169574595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.831062,18.972744,72.831062,18.972744",
     "geom:latitude":18.972744,
     "geom:longitude":72.831062,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"S.j. Marg, Lower Parel (w)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169574595,
-    "wof:lastmodified":1449032666,
+    "wof:lastmodified":1466288766,
     "wof:name":"Opera Clothing",
     "wof:parent_id":85931453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.831062,18.972744,72.831062,18.972744],
+  "bbox": [
+    72.831062,
+    18.972744,
+    72.831062,
+    18.972744
+],
   "geometry": {"coordinates":[72.831062,18.972744],"type":"Point"}
 }

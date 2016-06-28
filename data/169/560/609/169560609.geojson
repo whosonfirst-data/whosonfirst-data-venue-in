@@ -2,13 +2,14 @@
   "id": 169560609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.729324,30.715973,76.729324,30.715973",
     "geom:latitude":30.715973,
     "geom:longitude":76.729324,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B-81, Sector-60,",
     "sg:city":"Noida",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169560609,
-    "wof:lastmodified":1449035179,
+    "wof:lastmodified":1466288744,
     "wof:name":"Dks Desiccants Pvt. Ltd.",
     "wof:parent_id":85927783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "gel"
     ]
 },
-  "bbox": [76.729324,30.715973,76.729324,30.715973],
-  "geometry": {"coordinates":[76.729324,30.715973],"type":"Point"}
+  "bbox": [
+    76.729324,
+    30.715973,
+    76.729324,
+    30.715973
+],
+  "geometry": {"coordinates":[76.72932400000001,30.715973],"type":"Point"}
 }

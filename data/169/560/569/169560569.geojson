@@ -2,13 +2,14 @@
   "id": 169560569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.046371,28.47361,77.046371,28.47361",
     "geom:latitude":28.47361,
     "geom:longitude":77.046371,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"506, Sector-14,",
     "sg:city":"Gurgaon",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169560569,
-    "wof:lastmodified":1449035181,
+    "wof:lastmodified":1466288741,
     "wof:name":"Dipti Telecom",
     "wof:parent_id":85928515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [77.046371,28.47361,77.046371,28.47361],
-  "geometry": {"coordinates":[77.046371,28.47361],"type":"Point"}
+  "bbox": [
+    77.046371,
+    28.47361,
+    77.046371,
+    28.47361
+],
+  "geometry": {"coordinates":[77.04637099999999,28.47361],"type":"Point"}
 }

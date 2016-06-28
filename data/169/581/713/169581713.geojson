@@ -2,13 +2,14 @@
   "id": 169581713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.350563,22.571367,88.350563,22.571367",
     "geom:latitude":22.571367,
     "geom:longitude":88.350563,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Stephen House, Room No. 31a, 2nd Floor, 4e, B.b.d. Bag,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169581713,
-    "wof:lastmodified":1449033383,
+    "wof:lastmodified":1466288791,
     "wof:name":"Kalpataru International",
     "wof:parent_id":85931969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "gel"
     ]
 },
-  "bbox": [88.350563,22.571367,88.350563,22.571367],
-  "geometry": {"coordinates":[88.350563,22.571367],"type":"Point"}
+  "bbox": [
+    88.350563,
+    22.571367,
+    88.350563,
+    22.571367
+],
+  "geometry": {"coordinates":[88.35056299999999,22.571367],"type":"Point"}
 }

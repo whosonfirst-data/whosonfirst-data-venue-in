@@ -2,13 +2,14 @@
   "id": 169561139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.184822,28.654299,77.184822,28.654299",
     "geom:latitude":28.654299,
     "geom:longitude":77.184822,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"5/5777, Dev Nagar, Karol Bagh,",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169561139,
-    "wof:lastmodified":1449035018,
+    "wof:lastmodified":1466288708,
     "wof:name":"Enkay Foam Private Limited",
     "wof:parent_id":85903883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.184822,28.654299,77.184822,28.654299],
+  "bbox": [
+    77.184822,
+    28.654299,
+    77.184822,
+    28.654299
+],
   "geometry": {"coordinates":[77.184822,28.654299],"type":"Point"}
 }

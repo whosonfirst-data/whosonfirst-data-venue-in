@@ -2,13 +2,14 @@
   "id": 169559867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.160736,28.657366,77.160736,28.657366",
     "geom:latitude":28.657366,
     "geom:longitude":77.160736,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"T-510/c-52/3, Baljeet Nagar,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169559867,
-    "wof:lastmodified":1449035237,
+    "wof:lastmodified":1466288759,
     "wof:name":"D. D. International",
     "wof:parent_id":85927889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [77.160736,28.657366,77.160736,28.657366],
+  "bbox": [
+    77.160736,
+    28.657366,
+    77.160736,
+    28.657366
+],
   "geometry": {"coordinates":[77.160736,28.657366],"type":"Point"}
 }

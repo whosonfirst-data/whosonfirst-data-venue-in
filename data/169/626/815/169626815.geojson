@@ -2,13 +2,14 @@
   "id": 169626815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.293488,28.655874,77.293488,28.655874",
     "geom:latitude":28.655874,
     "geom:longitude":77.293488,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"80, Shanti Vihar, Karkardooma,",
     "sg:city":"Delhi",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169626815,
-    "wof:lastmodified":1449035970,
+    "wof:lastmodified":1466288838,
     "wof:name":"Spark Abrasives Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "silicon"
     ]
 },
-  "bbox": [77.293488,28.655874,77.293488,28.655874],
+  "bbox": [
+    77.293488,
+    28.655874,
+    77.293488,
+    28.655874
+],
   "geometry": {"coordinates":[77.293488,28.655874],"type":"Point"}
 }

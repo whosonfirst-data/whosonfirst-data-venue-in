@@ -2,13 +2,14 @@
   "id": 169568267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.242851,13.060466,80.242851,13.060466",
     "geom:latitude":13.060466,
     "geom:longitude":80.242851,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Valluvar Kottam High Road",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169568267,
-    "wof:lastmodified":1449032613,
+    "wof:lastmodified":1466288742,
     "wof:name":"Automan",
     "wof:parent_id":85903935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.242851,13.060466,80.242851,13.060466],
+  "bbox": [
+    80.242851,
+    13.060466,
+    80.242851,
+    13.060466
+],
   "geometry": {"coordinates":[80.242851,13.060466],"type":"Point"}
 }

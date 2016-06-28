@@ -2,13 +2,14 @@
   "id": 169578671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.827545,18.93989,72.827545,18.93989",
     "geom:latitude":18.93989,
     "geom:longitude":72.827545,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"15, New Marine Lines,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169578671,
-    "wof:lastmodified":1449033519,
+    "wof:lastmodified":1466288797,
     "wof:name":"High Polymer Labs Ltd.",
     "wof:parent_id":85903879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [72.827545,18.93989,72.827545,18.93989],
+  "bbox": [
+    72.827545,
+    18.93989,
+    72.827545,
+    18.93989
+],
   "geometry": {"coordinates":[72.827545,18.93989],"type":"Point"}
 }

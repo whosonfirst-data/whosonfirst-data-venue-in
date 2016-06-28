@@ -2,13 +2,14 @@
   "id": 169620267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.230721,28.657312,77.230721,28.657312",
     "geom:latitude":28.657312,
     "geom:longitude":77.230721,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"3993 A/5 Raghu Ganj, Chawri Bazar,",
     "sg:city":"Delhi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169620267,
-    "wof:lastmodified":1449035676,
+    "wof:lastmodified":1466288825,
     "wof:name":"Shivananda Marketing Pvt. Ltd.",
     "wof:parent_id":85928099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.230721,28.657312,77.230721,28.657312],
+  "bbox": [
+    77.230721,
+    28.657312,
+    77.230721,
+    28.657312
+],
   "geometry": {"coordinates":[77.230721,28.657312],"type":"Point"}
 }

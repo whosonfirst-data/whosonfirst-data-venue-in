@@ -2,13 +2,14 @@
   "id": 169556147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.157143,28.55739,77.157143,28.55739",
     "geom:latitude":28.55739,
     "geom:longitude":77.157143,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Vasant Vihar",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169556147,
-    "wof:lastmodified":1449033508,
+    "wof:lastmodified":1466288890,
     "wof:name":"Raas Intratech Pvt Ltd",
     "wof:parent_id":85927949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.157143,28.55739,77.157143,28.55739],
+  "bbox": [
+    77.157143,
+    28.55739,
+    77.157143,
+    28.55739
+],
   "geometry": {"coordinates":[77.157143,28.55739],"type":"Point"}
 }

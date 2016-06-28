@@ -2,13 +2,14 @@
   "id": 169536003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.857437,19.226105,72.857437,19.226105",
     "geom:latitude":19.226105,
     "geom:longitude":72.857437,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Dattani Apartment, L.t.road, Borivali West,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169536003,
-    "wof:lastmodified":1449034659,
+    "wof:lastmodified":1466288870,
     "wof:name":"Viva Impex",
     "wof:parent_id":85933015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.857437,19.226105,72.857437,19.226105],
+  "bbox": [
+    72.857437,
+    19.226105,
+    72.857437,
+    19.226105
+],
   "geometry": {"coordinates":[72.857437,19.226105],"type":"Point"}
 }

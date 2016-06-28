@@ -2,13 +2,14 @@
   "id": 169539839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.578133,13.034295,77.578133,13.034295",
     "geom:latitude":13.034295,
     "geom:longitude":77.578133,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"241, 15th Main, Rmv Extension,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169539839,
-    "wof:lastmodified":1449036038,
+    "wof:lastmodified":1466288658,
     "wof:name":"Chiptech",
     "wof:parent_id":85930999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "semiconductor"
     ]
 },
-  "bbox": [77.578133,13.034295,77.578133,13.034295],
-  "geometry": {"coordinates":[77.578133,13.034295],"type":"Point"}
+  "bbox": [
+    77.578133,
+    13.034295,
+    77.578133,
+    13.034295
+],
+  "geometry": {"coordinates":[77.57813299999999,13.034295],"type":"Point"}
 }

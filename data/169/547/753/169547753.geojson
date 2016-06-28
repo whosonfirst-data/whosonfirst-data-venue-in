@@ -2,13 +2,14 @@
   "id": 169547753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.543282,13.030668,77.543282,13.030668",
     "geom:latitude":13.030668,
     "geom:longitude":77.543282,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"29/20, Raja Rao Street,",
     "sg:city":"Tirupur",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169547753,
-    "wof:lastmodified":1449033007,
+    "wof:lastmodified":1466288678,
     "wof:name":"Bala Textile",
     "wof:parent_id":85930975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "nightwear"
     ]
 },
-  "bbox": [77.543282,13.030668,77.543282,13.030668],
+  "bbox": [
+    77.543282,
+    13.030668,
+    77.543282,
+    13.030668
+],
   "geometry": {"coordinates":[77.543282,13.030668],"type":"Point"}
 }

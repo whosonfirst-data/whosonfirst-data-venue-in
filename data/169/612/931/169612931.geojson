@@ -2,13 +2,14 @@
   "id": 169612931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.26667,26.633333,76.26667,26.633333",
     "geom:latitude":26.633333,
     "geom:longitude":76.26667,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"P-13, Raipur, Ramgarh,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169612931,
-    "wof:lastmodified":1449034132,
+    "wof:lastmodified":1466288829,
     "wof:name":"Rus Impex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [76.26667,26.633333,76.26667,26.633333],
+  "bbox": [
+    76.26667,
+    26.633333,
+    76.26667,
+    26.633333
+],
   "geometry": {"coordinates":[76.26667,26.633333],"type":"Point"}
 }

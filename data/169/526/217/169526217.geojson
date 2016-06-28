@@ -2,13 +2,14 @@
   "id": 169526217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.822403,18.925873,72.822403,18.925873",
     "geom:latitude":18.925873,
     "geom:longitude":72.822403,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"98, Bajaj Bhawan, Nariman Point,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169526217,
-    "wof:lastmodified":1449033702,
+    "wof:lastmodified":1466288623,
     "wof:name":"Lovson Exports Ltd.",
     "wof:parent_id":85931461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [72.822403,18.925873,72.822403,18.925873],
-  "geometry": {"coordinates":[72.822403,18.925873],"type":"Point"}
+  "bbox": [
+    72.822403,
+    18.925873,
+    72.822403,
+    18.925873
+],
+  "geometry": {"coordinates":[72.82240299999999,18.925873],"type":"Point"}
 }

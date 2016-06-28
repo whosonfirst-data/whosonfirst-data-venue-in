@@ -2,13 +2,14 @@
   "id": 169608473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.072083,28.691763,77.072083,28.691763",
     "geom:latitude":28.691763,
     "geom:longitude":77.072083,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"A-43, Naresh Park, Ind. Area. Nangloi,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169608473,
-    "wof:lastmodified":1449034080,
+    "wof:lastmodified":1466288817,
     "wof:name":"Rakesh Frp. Polymers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.072083,28.691763,77.072083,28.691763],
-  "geometry": {"coordinates":[77.072083,28.691763],"type":"Point"}
+  "bbox": [
+    77.072083,
+    28.691763,
+    77.072083,
+    28.691763
+],
+  "geometry": {"coordinates":[77.07208300000001,28.691763],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169573637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.621773,23.024265,72.621773,23.024265",
     "geom:latitude":23.024265,
     "geom:longitude":72.621773,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Rakhial",
     "sg:city":"Ahmedabad",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169573637,
-    "wof:lastmodified":1449035112,
+    "wof:lastmodified":1466288761,
     "wof:name":"H Vinodrai & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.621773,23.024265,72.621773,23.024265],
+  "bbox": [
+    72.621773,
+    23.024265,
+    72.621773,
+    23.024265
+],
   "geometry": {"coordinates":[72.621773,23.024265],"type":"Point"}
 }

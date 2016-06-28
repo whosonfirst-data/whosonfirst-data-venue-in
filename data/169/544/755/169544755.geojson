@@ -2,13 +2,14 @@
   "id": 169544755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.625366,13.031104,77.625366,13.031104",
     "geom:latitude":13.031104,
     "geom:longitude":77.625366,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1619, 2nd Main Road, 3rd Block, Hrbr Layout, Kalyan Nagar P.o.,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169544755,
-    "wof:lastmodified":1449035962,
+    "wof:lastmodified":1466288674,
     "wof:name":"Hybrid Metals Pvt. Ltd.",
     "wof:parent_id":85931099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "welding"
     ]
 },
-  "bbox": [77.625366,13.031104,77.625366,13.031104],
+  "bbox": [
+    77.625366,
+    13.031104,
+    77.625366,
+    13.031104
+],
   "geometry": {"coordinates":[77.625366,13.031104],"type":"Point"}
 }

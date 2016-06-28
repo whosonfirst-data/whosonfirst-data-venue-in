@@ -2,13 +2,14 @@
   "id": 169534583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.861427,19.262236,72.861427,19.262236",
     "geom:latitude":19.262236,
     "geom:longitude":72.861427,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"24, Jyoti Indl. Estate, Shakti Nagar, Dahisar - East,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169534583,
-    "wof:lastmodified":1449033552,
+    "wof:lastmodified":1466288875,
     "wof:name":"Ameya Electro Hudraulics",
     "wof:parent_id":85931553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [72.861427,19.262236,72.861427,19.262236],
-  "geometry": {"coordinates":[72.861427,19.262236],"type":"Point"}
+  "bbox": [
+    72.861427,
+    19.262236,
+    72.861427,
+    19.262236
+],
+  "geometry": {"coordinates":[72.86142700000001,19.262236],"type":"Point"}
 }

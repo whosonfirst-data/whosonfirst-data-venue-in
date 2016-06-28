@@ -2,13 +2,14 @@
   "id": 169563287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.489388,17.439322,78.489388,17.439322",
     "geom:latitude":17.439322,
     "geom:longitude":78.489388,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Parklane",
     "sg:city":"Secunderabad",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169563287,
-    "wof:lastmodified":1449032730,
+    "wof:lastmodified":1466288711,
     "wof:name":"Hotel Parklane (p) Ltd",
     "wof:parent_id":85930705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.489388,17.439322,78.489388,17.439322],
-  "geometry": {"coordinates":[78.489388,17.439322],"type":"Point"}
+  "bbox": [
+    78.489388,
+    17.439322,
+    78.489388,
+    17.439322
+],
+  "geometry": {"coordinates":[78.48938800000001,17.439322],"type":"Point"}
 }

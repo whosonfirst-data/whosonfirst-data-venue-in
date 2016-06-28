@@ -2,13 +2,14 @@
   "id": 169558889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"74.787102,13.334578,74.787102,13.334578",
     "geom:latitude":13.334578,
     "geom:longitude":74.787102,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"22-a, Ind. Area, N.i.t.,",
     "sg:city":"Faridabad",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169558889,
-    "wof:lastmodified":1449033579,
+    "wof:lastmodified":1466288754,
     "wof:name":"Capital Rubber & Plastic & Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [74.787102,13.334578,74.787102,13.334578],
+  "bbox": [
+    74.787102,
+    13.334578,
+    74.787102,
+    13.334578
+],
   "geometry": {"coordinates":[74.787102,13.334578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169652257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.610281,12.995933,77.610281,12.995933",
     "geom:latitude":12.995933,
     "geom:longitude":77.610281,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"17.24/1,Spencer Road Frazer Town",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169652257,
-    "wof:lastmodified":1449034806,
+    "wof:lastmodified":1466288853,
     "wof:name":"iPOTT Softech India Private Limited",
     "wof:parent_id":85930871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "enterprise-software"
     ]
 },
-  "bbox": [77.610281,12.995933,77.610281,12.995933],
+  "bbox": [
+    77.610281,
+    12.995933,
+    77.610281,
+    12.995933
+],
   "geometry": {"coordinates":[77.610281,12.995933],"type":"Point"}
 }

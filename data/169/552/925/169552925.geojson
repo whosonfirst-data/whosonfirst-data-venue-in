@@ -2,13 +2,14 @@
   "id": 169552925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.65799,23.076591,72.65799,23.076591",
     "geom:latitude":23.076591,
     "geom:longitude":72.65799,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"433/a-1, Gidc, Makarpura,",
     "sg:city":"Vadodara",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169552925,
-    "wof:lastmodified":1449034053,
+    "wof:lastmodified":1466288698,
     "wof:name":"Planet Sleeves Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "seal"
     ]
 },
-  "bbox": [72.65799,23.076591,72.65799,23.076591],
+  "bbox": [
+    72.65799,
+    23.076591,
+    72.65799,
+    23.076591
+],
   "geometry": {"coordinates":[72.65799,23.076591],"type":"Point"}
 }

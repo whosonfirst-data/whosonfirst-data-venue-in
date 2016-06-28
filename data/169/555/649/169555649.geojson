@@ -2,13 +2,14 @@
   "id": 169555649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.289886,13.091798,80.289886,13.091798",
     "geom:latitude":13.091798,
     "geom:longitude":80.289886,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Angappa Naicken Street",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169555649,
-    "wof:lastmodified":1449035495,
+    "wof:lastmodified":1466288717,
     "wof:name":"Hat Rubbers",
     "wof:parent_id":85903951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.289886,13.091798,80.289886,13.091798],
+  "bbox": [
+    80.289886,
+    13.091798,
+    80.289886,
+    13.091798
+],
   "geometry": {"coordinates":[80.289886,13.091798],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169557519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.835152,19.059353,72.835152,19.059353",
     "geom:latitude":19.059353,
     "geom:longitude":72.835152,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Off. Turner Road, Bandra (w)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169557519,
-    "wof:lastmodified":1449035037,
+    "wof:lastmodified":1466288716,
     "wof:name":"Datapro Infoworld Ltd",
     "wof:parent_id":85931581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.835152,19.059353,72.835152,19.059353],
-  "geometry": {"coordinates":[72.835152,19.059353],"type":"Point"}
+  "bbox": [
+    72.835152,
+    19.059353,
+    72.835152,
+    19.059353
+],
+  "geometry": {"coordinates":[72.83515199999999,19.059353],"type":"Point"}
 }

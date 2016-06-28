@@ -2,13 +2,14 @@
   "id": 169539919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.512856,13.03144,77.512856,13.03144",
     "geom:latitude":13.03144,
     "geom:longitude":77.512856,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"53, 2nd Main, Rukmini Nagar, Nagasandra,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169539919,
-    "wof:lastmodified":1449036038,
+    "wof:lastmodified":1466288662,
     "wof:name":"Lucent Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.512856,13.03144,77.512856,13.03144],
+  "bbox": [
+    77.512856,
+    13.03144,
+    77.512856,
+    13.03144
+],
   "geometry": {"coordinates":[77.512856,13.03144],"type":"Point"}
 }

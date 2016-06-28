@@ -2,13 +2,14 @@
   "id": 169546033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.624222,13.019795,77.624222,13.019795",
     "geom:latitude":13.019795,
     "geom:longitude":77.624222,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"# 2, Venkateshapuram, 4th Street, P.n. Road,",
     "sg:city":"Tiruppur",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169546033,
-    "wof:lastmodified":1449032679,
+    "wof:lastmodified":1466288649,
     "wof:name":"Divya Impexs",
     "wof:parent_id":85930863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "knitwear"
     ]
 },
-  "bbox": [77.624222,13.019795,77.624222,13.019795],
+  "bbox": [
+    77.624222,
+    13.019795,
+    77.624222,
+    13.019795
+],
   "geometry": {"coordinates":[77.624222,13.019795],"type":"Point"}
 }

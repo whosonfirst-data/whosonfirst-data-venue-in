@@ -2,13 +2,14 @@
   "id": 169585575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.900597,19.077257,72.900597,19.077257",
     "geom:latitude":19.077257,
     "geom:longitude":72.900597,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No.-2424, G.i.d.c., Sachin,",
     "sg:city":"Surat",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169585575,
-    "wof:lastmodified":1449034883,
+    "wof:lastmodified":1466288791,
     "wof:name":"Macson Products",
     "wof:parent_id":85931501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "intermediate"
     ]
 },
-  "bbox": [72.900597,19.077257,72.900597,19.077257],
+  "bbox": [
+    72.900597,
+    19.077257,
+    72.900597,
+    19.077257
+],
   "geometry": {"coordinates":[72.900597,19.077257],"type":"Point"}
 }

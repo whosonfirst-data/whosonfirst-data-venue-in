@@ -2,13 +2,14 @@
   "id": 169651093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.212227,13.029347,80.212227,13.029347",
     "geom:latitude":13.029347,
     "geom:longitude":80.212227,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"14 wallers road",
     "sg:city":"chennai",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169651093,
-    "wof:lastmodified":1449033344,
+    "wof:lastmodified":1466288851,
     "wof:name":"Ifline Technologies",
     "wof:parent_id":85931715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.212227,13.029347,80.212227,13.029347],
+  "bbox": [
+    80.212227,
+    13.029347,
+    80.212227,
+    13.029347
+],
   "geometry": {"coordinates":[80.212227,13.029347],"type":"Point"}
 }

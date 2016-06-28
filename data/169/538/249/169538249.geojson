@@ -2,13 +2,14 @@
   "id": 169538249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.5783,12.996677,77.5783,12.996677",
     "geom:latitude":12.996677,
     "geom:longitude":77.5783,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"22, Nagappa Street, Palace Guttahalli,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169538249,
-    "wof:lastmodified":1449033096,
+    "wof:lastmodified":1466288638,
     "wof:name":"Precitec",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [77.5783,12.996677,77.5783,12.996677],
+  "bbox": [
+    77.5783,
+    12.996677,
+    77.5783,
+    12.996677
+],
   "geometry": {"coordinates":[77.5783,12.996677],"type":"Point"}
 }

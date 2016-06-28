@@ -2,13 +2,14 @@
   "id": 169650915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.410278,49.009256,8.410278,49.009256",
     "geom:latitude":49.009256,
     "geom:longitude":8.410278,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#102 A ,santa clara,Intermediate Ring Road,Bangalore",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":169650915,
-    "wof:lastmodified":1449034702,
+    "wof:lastmodified":1466288857,
     "wof:name":"Orbster",
     "wof:parent_id":85795045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "geocaching"
     ]
 },
-  "bbox": [8.410278,49.009256,8.410278,49.009256],
+  "bbox": [
+    8.410278,
+    49.009256,
+    8.410278,
+    49.009256
+],
   "geometry": {"coordinates":[8.410278,49.009256],"type":"Point"}
 }

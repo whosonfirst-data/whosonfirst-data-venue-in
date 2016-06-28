@@ -2,13 +2,14 @@
   "id": 169525693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.821442,18.924643,72.821442,18.924643",
     "geom:latitude":18.924643,
     "geom:longitude":72.821442,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Regent Chambers, 208 Nariman Point,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169525693,
-    "wof:lastmodified":1449035273,
+    "wof:lastmodified":1466288618,
     "wof:name":"Agritradex Commodities Pvt. Ltd.",
     "wof:parent_id":85931461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "commodity"
     ]
 },
-  "bbox": [72.821442,18.924643,72.821442,18.924643],
+  "bbox": [
+    72.821442,
+    18.924643,
+    72.821442,
+    18.924643
+],
   "geometry": {"coordinates":[72.821442,18.924643],"type":"Point"}
 }

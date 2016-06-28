@@ -2,13 +2,14 @@
   "id": 169547401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.542236,12.975627,77.542236,12.975627",
     "geom:latitude":12.975627,
     "geom:longitude":77.542236,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"495/8, A.v.p.layout, Gandhi Nagar,",
     "sg:city":"Tirupur",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169547401,
-    "wof:lastmodified":1449033008,
+    "wof:lastmodified":1466288879,
     "wof:name":"Lifco Tex",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.542236,12.975627,77.542236,12.975627],
+  "bbox": [
+    77.542236,
+    12.975627,
+    77.542236,
+    12.975627
+],
   "geometry": {"coordinates":[77.542236,12.975627],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169617767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.211105,13.009055,80.211105,13.009055",
     "geom:latitude":13.009055,
     "geom:longitude":80.211105,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"E-10, Industrial Estate, Guindy,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169617767,
-    "wof:lastmodified":1449032799,
+    "wof:lastmodified":1466288829,
     "wof:name":"Scientific Supply (p) Ltd.",
     "wof:parent_id":85903867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supply"
     ]
 },
-  "bbox": [80.211105,13.009055,80.211105,13.009055],
+  "bbox": [
+    80.211105,
+    13.009055,
+    80.211105,
+    13.009055
+],
   "geometry": {"coordinates":[80.211105,13.009055],"type":"Point"}
 }

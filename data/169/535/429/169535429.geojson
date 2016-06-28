@@ -2,13 +2,14 @@
   "id": 169535429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.833992,18.950926,72.833992,18.950926",
     "geom:latitude":18.950926,
     "geom:longitude":72.833992,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"64, Nagdevi Street, 1st Floor,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169535429,
-    "wof:lastmodified":1449033288,
+    "wof:lastmodified":1466288628,
     "wof:name":"Poonam Sons",
     "wof:parent_id":85903919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "good"
     ]
 },
-  "bbox": [72.833992,18.950926,72.833992,18.950926],
-  "geometry": {"coordinates":[72.833992,18.950926],"type":"Point"}
+  "bbox": [
+    72.833992,
+    18.950926,
+    72.833992,
+    18.950926
+],
+  "geometry": {"coordinates":[72.83399199999999,18.950926],"type":"Point"}
 }

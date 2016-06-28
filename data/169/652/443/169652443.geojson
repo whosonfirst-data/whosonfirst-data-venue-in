@@ -2,13 +2,14 @@
   "id": 169652443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.726437,30.704386,76.726437,30.704386",
     "geom:latitude":30.704386,
     "geom:longitude":76.726437,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"2008, Phase 7",
     "sg:city":"Mohali",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169652443,
-    "wof:lastmodified":1449034809,
+    "wof:lastmodified":1466288854,
     "wof:name":"Manas Informatic",
     "wof:parent_id":85927783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "stock-markets"
     ]
 },
-  "bbox": [76.726437,30.704386,76.726437,30.704386],
+  "bbox": [
+    76.726437,
+    30.704386,
+    76.726437,
+    30.704386
+],
   "geometry": {"coordinates":[76.726437,30.704386],"type":"Point"}
 }

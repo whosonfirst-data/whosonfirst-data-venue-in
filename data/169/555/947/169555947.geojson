@@ -2,13 +2,14 @@
   "id": 169555947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.860504,19.124487,72.860504,19.124487",
     "geom:latitude":19.124487,
     "geom:longitude":72.860504,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sher-e-punjab, Andheri (e)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169555947,
-    "wof:lastmodified":1449035496,
+    "wof:lastmodified":1466288733,
     "wof:name":"Magnum Chemicals",
     "wof:parent_id":85931515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.860504,19.124487,72.860504,19.124487],
-  "geometry": {"coordinates":[72.860504,19.124487],"type":"Point"}
+  "bbox": [
+    72.860504,
+    19.124487,
+    72.860504,
+    19.124487
+],
+  "geometry": {"coordinates":[72.86050400000001,19.124487],"type":"Point"}
 }

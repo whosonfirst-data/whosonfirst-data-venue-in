@@ -2,13 +2,14 @@
   "id": 169637353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.932617,18.519018,73.932617,18.519018",
     "geom:latitude":18.519018,
     "geom:longitude":73.932617,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"206, Mundhwa,",
     "sg:city":"Pune",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169637353,
-    "wof:lastmodified":1449032688,
+    "wof:lastmodified":1466288843,
     "wof:name":"Trimurti Chemicals",
     "wof:parent_id":85931291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [73.932617,18.519018,73.932617,18.519018],
-  "geometry": {"coordinates":[73.932617,18.519018],"type":"Point"}
+  "bbox": [
+    73.932617,
+    18.519018,
+    73.932617,
+    18.519018
+],
+  "geometry": {"coordinates":[73.93261699999999,18.519018],"type":"Point"}
 }

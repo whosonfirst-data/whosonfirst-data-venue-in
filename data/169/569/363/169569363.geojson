@@ -2,13 +2,14 @@
   "id": 169569363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.218437,28.622189,77.218437,28.622189",
     "geom:latitude":28.622189,
     "geom:longitude":77.218437,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Hotel Janpath",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169569363,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1466288746,
     "wof:name":"Universal Travels & Allied Services",
     "wof:parent_id":85903833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.218437,28.622189,77.218437,28.622189],
-  "geometry": {"coordinates":[77.218437,28.622189],"type":"Point"}
+  "bbox": [
+    77.218437,
+    28.622189,
+    77.218437,
+    28.622189
+],
+  "geometry": {"coordinates":[77.21843699999999,28.622189],"type":"Point"}
 }

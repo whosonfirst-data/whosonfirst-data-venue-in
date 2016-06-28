@@ -2,13 +2,14 @@
   "id": 169570739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.188377,28.652294,77.188377,28.652294",
     "geom:latitude":28.652294,
     "geom:longitude":77.188377,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Mehta Road",
     "sg:city":"Amritsar",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169570739,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466288766,
     "wof:name":"Raj Cycles India Pvt Ltd",
     "wof:parent_id":85903883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.188377,28.652294,77.188377,28.652294],
+  "bbox": [
+    77.188377,
+    28.652294,
+    77.188377,
+    28.652294
+],
   "geometry": {"coordinates":[77.188377,28.652294],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169583155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.840385,30.672375,76.840385,30.672375",
     "geom:latitude":30.672375,
     "geom:longitude":76.840385,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"258, Industrial Area, Phase -1,",
     "sg:city":"Chandigarh",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169583155,
-    "wof:lastmodified":1449035268,
+    "wof:lastmodified":1466288780,
     "wof:name":"Kohinoor Chemical Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [76.840385,30.672375,76.840385,30.672375],
+  "bbox": [
+    76.840385,
+    30.672375,
+    76.840385,
+    30.672375
+],
   "geometry": {"coordinates":[76.840385,30.672375],"type":"Point"}
 }

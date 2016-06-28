@@ -2,13 +2,14 @@
   "id": 169545467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.046722,30.324162,78.046722,30.324162",
     "geom:latitude":30.324162,
     "geom:longitude":78.046722,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"2nd Floor, Press Club Building,",
     "sg:city":"Thiruvananthapuram",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169545467,
-    "wof:lastmodified":1449033486,
+    "wof:lastmodified":1466288657,
     "wof:name":"Kerala Artisans Development Corporation Ltd.",
     "wof:parent_id":85927753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "foreign"
     ]
 },
-  "bbox": [78.046722,30.324162,78.046722,30.324162],
+  "bbox": [
+    78.046722,
+    30.324162,
+    78.046722,
+    30.324162
+],
   "geometry": {"coordinates":[78.046722,30.324162],"type":"Point"}
 }

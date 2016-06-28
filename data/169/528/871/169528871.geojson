@@ -2,13 +2,14 @@
   "id": 169528871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.823425,18.923597,72.823425,18.923597",
     "geom:latitude":18.923597,
     "geom:longitude":72.823425,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1402/03, Raheja Centre, Nariman Point,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169528871,
-    "wof:lastmodified":1449033569,
+    "wof:lastmodified":1466288691,
     "wof:name":"Smita Conductors Limited",
     "wof:parent_id":85931461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [72.823425,18.923597,72.823425,18.923597],
+  "bbox": [
+    72.823425,
+    18.923597,
+    72.823425,
+    18.923597
+],
   "geometry": {"coordinates":[72.823425,18.923597],"type":"Point"}
 }

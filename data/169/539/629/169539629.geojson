@@ -2,13 +2,14 @@
   "id": 169539629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"74.766945,14.604401,74.766945,14.604401",
     "geom:latitude":14.604401,
     "geom:longitude":74.766945,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 108/1, 1st Floor, Opp. Kannada Bhavan, J.c. Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169539629,
-    "wof:lastmodified":1449036038,
+    "wof:lastmodified":1466288646,
     "wof:name":"Cosmic Infosystems Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cable"
     ]
 },
-  "bbox": [74.766945,14.604401,74.766945,14.604401],
-  "geometry": {"coordinates":[74.766945,14.604401],"type":"Point"}
+  "bbox": [
+    74.766945,
+    14.604401,
+    74.766945,
+    14.604401
+],
+  "geometry": {"coordinates":[74.76694500000001,14.604401],"type":"Point"}
 }

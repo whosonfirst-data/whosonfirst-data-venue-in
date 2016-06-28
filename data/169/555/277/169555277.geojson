@@ -2,13 +2,14 @@
   "id": 169555277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.044212,27.160852,78.044212,27.160852",
     "geom:latitude":27.160852,
     "geom:longitude":78.044212,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Near Mughal Sheraton, Fatehabad Road",
     "sg:city":"Agra",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169555277,
-    "wof:lastmodified":1449035494,
+    "wof:lastmodified":1466288697,
     "wof:name":"Aargee Tours",
     "wof:parent_id":85933169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.044212,27.160852,78.044212,27.160852],
+  "bbox": [
+    78.044212,
+    27.160852,
+    78.044212,
+    27.160852
+],
   "geometry": {"coordinates":[78.044212,27.160852],"type":"Point"}
 }

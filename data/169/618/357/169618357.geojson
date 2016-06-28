@@ -2,13 +2,14 @@
   "id": 169618357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.847122,19.156956,72.847122,19.156956",
     "geom:latitude":19.156956,
     "geom:longitude":72.847122,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"F- 437, Road No.- 12, V.k.i Area,",
     "sg:city":"Jaipur",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169618357,
-    "wof:lastmodified":1449034738,
+    "wof:lastmodified":1466288824,
     "wof:name":"Shakti Chemical & Mineral Industries",
     "wof:parent_id":85931563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [72.847122,19.156956,72.847122,19.156956],
+  "bbox": [
+    72.847122,
+    19.156956,
+    72.847122,
+    19.156956
+],
   "geometry": {"coordinates":[72.847122,19.156956],"type":"Point"}
 }

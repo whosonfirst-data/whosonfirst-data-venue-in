@@ -2,13 +2,14 @@
   "id": 169530765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.871513,19.123116,72.871513,19.123116",
     "geom:latitude":19.123116,
     "geom:longitude":72.871513,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"A-53, Marol, Midc, Andheri (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169530765,
-    "wof:lastmodified":1449034443,
+    "wof:lastmodified":1466288688,
     "wof:name":"Zoom Automobile Ancillaries Pvt. Ltd.",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "container"
     ]
 },
-  "bbox": [72.871513,19.123116,72.871513,19.123116],
-  "geometry": {"coordinates":[72.871513,19.123116],"type":"Point"}
+  "bbox": [
+    72.871513,
+    19.123116,
+    72.871513,
+    19.123116
+],
+  "geometry": {"coordinates":[72.87151299999999,19.123116],"type":"Point"}
 }

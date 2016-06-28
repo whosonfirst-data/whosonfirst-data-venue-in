@@ -2,13 +2,14 @@
   "id": 169549243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.868263,22.690483,72.868263,22.690483",
     "geom:latitude":22.690483,
     "geom:longitude":72.868263,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"147, Opp. Paras Cinema,",
     "sg:city":"Udaipur",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169549243,
-    "wof:lastmodified":1449033592,
+    "wof:lastmodified":1466288678,
     "wof:name":"Hotel Osheen Palace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.868263,22.690483,72.868263,22.690483],
+  "bbox": [
+    72.868263,
+    22.690483,
+    72.868263,
+    22.690483
+],
   "geometry": {"coordinates":[72.868263,22.690483],"type":"Point"}
 }

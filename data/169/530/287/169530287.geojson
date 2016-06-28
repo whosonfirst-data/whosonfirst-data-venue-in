@@ -2,13 +2,14 @@
   "id": 169530287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.880486,19.114191,72.880486,19.114191",
     "geom:latitude":19.114191,
     "geom:longitude":72.880486,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"G-10, Zakaria Indl. Premises, Marol Maroshi Road, Andheri (east),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169530287,
-    "wof:lastmodified":1449034442,
+    "wof:lastmodified":1466288677,
     "wof:name":"Suyash Impex Pvt. Ltd.",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cnc"
     ]
 },
-  "bbox": [72.880486,19.114191,72.880486,19.114191],
+  "bbox": [
+    72.880486,
+    19.114191,
+    72.880486,
+    19.114191
+],
   "geometry": {"coordinates":[72.880486,19.114191],"type":"Point"}
 }

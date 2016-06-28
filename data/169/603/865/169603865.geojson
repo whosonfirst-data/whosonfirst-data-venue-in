@@ -2,13 +2,14 @@
   "id": 169603865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.837852,19.156733,72.837852,19.156733",
     "geom:latitude":19.156733,
     "geom:longitude":72.837852,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"J-65, Lane No. 4, Laxmi Nagar,",
     "sg:city":"Delhi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169603865,
-    "wof:lastmodified":1449035454,
+    "wof:lastmodified":1466288821,
     "wof:name":"Prestige Petrochemicals P Ltd.",
     "wof:parent_id":85931563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wax"
     ]
 },
-  "bbox": [72.837852,19.156733,72.837852,19.156733],
+  "bbox": [
+    72.837852,
+    19.156733,
+    72.837852,
+    19.156733
+],
   "geometry": {"coordinates":[72.837852,19.156733],"type":"Point"}
 }

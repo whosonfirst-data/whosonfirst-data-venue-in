@@ -2,13 +2,14 @@
   "id": 169569305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.356117,26.474396,80.356117,26.474396",
     "geom:latitude":26.474396,
     "geom:longitude":80.356117,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Civil Lines",
     "sg:city":"Kanpur",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169569305,
-    "wof:lastmodified":1449035828,
+    "wof:lastmodified":1466288745,
     "wof:name":"U P Financial Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.356117,26.474396,80.356117,26.474396],
+  "bbox": [
+    80.356117,
+    26.474396,
+    80.356117,
+    26.474396
+],
   "geometry": {"coordinates":[80.356117,26.474396],"type":"Point"}
 }

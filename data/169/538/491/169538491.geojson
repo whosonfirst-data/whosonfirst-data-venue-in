@@ -2,13 +2,14 @@
   "id": 169538491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.844032,19.010548,72.844032,19.010548",
     "geom:latitude":19.010548,
     "geom:longitude":72.844032,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"51, Avenue Road, 2nd Floor, P.s. Buildings,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169538491,
-    "wof:lastmodified":1449033097,
+    "wof:lastmodified":1466288652,
     "wof:name":"Dipika Plastic Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.844032,19.010548,72.844032,19.010548],
+  "bbox": [
+    72.844032,
+    19.010548,
+    72.844032,
+    19.010548
+],
   "geometry": {"coordinates":[72.844032,19.010548],"type":"Point"}
 }

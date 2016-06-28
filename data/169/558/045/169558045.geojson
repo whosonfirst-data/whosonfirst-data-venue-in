@@ -2,13 +2,14 @@
   "id": 169558045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.926018,19.112398,72.926018,19.112398",
     "geom:latitude":19.112398,
     "geom:longitude":72.926018,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Lbs Marg, Vikhroli (west)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169558045,
-    "wof:lastmodified":1449033583,
+    "wof:lastmodified":1466288889,
     "wof:name":"Pharmachine India",
     "wof:parent_id":85931627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.926018,19.112398,72.926018,19.112398],
+  "bbox": [
+    72.926018,
+    19.112398,
+    72.926018,
+    19.112398
+],
   "geometry": {"coordinates":[72.926018,19.112398],"type":"Point"}
 }

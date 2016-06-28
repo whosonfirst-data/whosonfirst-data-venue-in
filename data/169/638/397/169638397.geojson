@@ -2,13 +2,14 @@
   "id": 169638397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.172165,13.085525,80.172165,13.085525",
     "geom:latitude":13.085525,
     "geom:longitude":80.172165,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"10/958, Mogappair East,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169638397,
-    "wof:lastmodified":1449032867,
+    "wof:lastmodified":1466288843,
     "wof:name":"Uma Engineering Enterprises",
     "wof:parent_id":85927699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "raw"
     ]
 },
-  "bbox": [80.172165,13.085525,80.172165,13.085525],
-  "geometry": {"coordinates":[80.172165,13.085525],"type":"Point"}
+  "bbox": [
+    80.172165,
+    13.085525,
+    80.172165,
+    13.085525
+],
+  "geometry": {"coordinates":[80.17216500000001,13.085525],"type":"Point"}
 }

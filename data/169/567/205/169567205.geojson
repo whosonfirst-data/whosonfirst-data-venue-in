@@ -2,13 +2,14 @@
   "id": 169567205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.198845,28.644836,77.198845,28.644836",
     "geom:latitude":28.644836,
     "geom:longitude":77.198845,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Jhandewalan Extn Link Road",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169567205,
-    "wof:lastmodified":1449035994,
+    "wof:lastmodified":1466288731,
     "wof:name":"R & R Overseas Pvt Ltd",
     "wof:parent_id":85928243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.198845,28.644836,77.198845,28.644836],
-  "geometry": {"coordinates":[77.198845,28.644836],"type":"Point"}
+  "bbox": [
+    77.198845,
+    28.644836,
+    77.198845,
+    28.644836
+],
+  "geometry": {"coordinates":[77.19884500000001,28.644836],"type":"Point"}
 }

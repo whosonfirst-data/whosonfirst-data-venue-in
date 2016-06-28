@@ -2,13 +2,14 @@
   "id": 169528773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.862236,19.29147,72.862236,19.29147",
     "geom:latitude":19.29147,
     "geom:longitude":72.862236,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"34/36, V.v. Chandan Street, Lokhandwala Building, 2nd Floor, Room No.6,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169528773,
-    "wof:lastmodified":1449033566,
+    "wof:lastmodified":1466288689,
     "wof:name":"Amish Industries",
     "wof:parent_id":85931413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "button"
     ]
 },
-  "bbox": [72.862236,19.29147,72.862236,19.29147],
+  "bbox": [
+    72.862236,
+    19.29147,
+    72.862236,
+    19.29147
+],
   "geometry": {"coordinates":[72.862236,19.29147],"type":"Point"}
 }

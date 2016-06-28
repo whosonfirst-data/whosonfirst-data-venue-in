@@ -2,13 +2,14 @@
   "id": 169530365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.815193,18.968718,72.815193,18.968718",
     "geom:latitude":18.968718,
     "geom:longitude":72.815193,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"6/d, Sonawala Bldg., Tardeo,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169530365,
-    "wof:lastmodified":1449034443,
+    "wof:lastmodified":1466288679,
     "wof:name":"Master Services",
     "wof:parent_id":85903971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "allied"
     ]
 },
-  "bbox": [72.815193,18.968718,72.815193,18.968718],
-  "geometry": {"coordinates":[72.815193,18.968718],"type":"Point"}
+  "bbox": [
+    72.815193,
+    18.968718,
+    72.815193,
+    18.968718
+],
+  "geometry": {"coordinates":[72.81519299999999,18.968718],"type":"Point"}
 }

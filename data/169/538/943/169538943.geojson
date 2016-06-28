@@ -2,13 +2,14 @@
   "id": 169538943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.526169,13.02404,77.526169,13.02404",
     "geom:latitude":13.02404,
     "geom:longitude":77.526169,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 186, 11th Main, 3rd Phase, Peenya Industrial Area,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169538943,
-    "wof:lastmodified":1449033099,
+    "wof:lastmodified":1466288674,
     "wof:name":"Dynam Electro Controls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "relay"
     ]
 },
-  "bbox": [77.526169,13.02404,77.526169,13.02404],
+  "bbox": [
+    77.526169,
+    13.02404,
+    77.526169,
+    13.02404
+],
   "geometry": {"coordinates":[77.526169,13.02404],"type":"Point"}
 }

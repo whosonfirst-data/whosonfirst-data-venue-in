@@ -2,13 +2,14 @@
   "id": 169548169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.13221,29.391146,78.13221,29.391146",
     "geom:latitude":29.391146,
     "geom:longitude":78.13221,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"111/57 H, State Bank Colony,",
     "sg:city":"Tuticorin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169548169,
-    "wof:lastmodified":1449034974,
+    "wof:lastmodified":1466288670,
     "wof:name":"Indian Botanical Products Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commodity"
     ]
 },
-  "bbox": [78.13221,29.391146,78.13221,29.391146],
+  "bbox": [
+    78.13221,
+    29.391146,
+    78.13221,
+    29.391146
+],
   "geometry": {"coordinates":[78.13221,29.391146],"type":"Point"}
 }

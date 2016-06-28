@@ -2,13 +2,14 @@
   "id": 169527327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.843788,19.116213,72.843788,19.116213",
     "geom:latitude":19.116213,
     "geom:longitude":72.843788,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"G-6, Shantinath Shopping Ctr., S.v. Road, Malad West,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169527327,
-    "wof:lastmodified":1449035278,
+    "wof:lastmodified":1466288629,
     "wof:name":"Vijay Imitation Jewellery",
     "wof:parent_id":85931479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bead"
     ]
 },
-  "bbox": [72.843788,19.116213,72.843788,19.116213],
+  "bbox": [
+    72.843788,
+    19.116213,
+    72.843788,
+    19.116213
+],
   "geometry": {"coordinates":[72.843788,19.116213],"type":"Point"}
 }

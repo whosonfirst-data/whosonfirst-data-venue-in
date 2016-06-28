@@ -2,13 +2,14 @@
   "id": 169562797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.582001,12.986364,77.582001,12.986364",
     "geom:latitude":12.986364,
     "geom:longitude":77.582001,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sheshadripuram",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169562797,
-    "wof:lastmodified":1449034436,
+    "wof:lastmodified":1466288724,
     "wof:name":"Saketh India Ltd",
     "wof:parent_id":85930943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.582001,12.986364,77.582001,12.986364],
-  "geometry": {"coordinates":[77.582001,12.986364],"type":"Point"}
+  "bbox": [
+    77.582001,
+    12.986364,
+    77.582001,
+    12.986364
+],
+  "geometry": {"coordinates":[77.58200100000001,12.986364],"type":"Point"}
 }

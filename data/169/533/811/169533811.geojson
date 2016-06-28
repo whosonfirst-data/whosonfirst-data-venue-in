@@ -2,13 +2,14 @@
   "id": 169533811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.858429,19.170286,72.858429,19.170286",
     "geom:latitude":19.170286,
     "geom:longitude":72.858429,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"26, Kohinoor Industrial Estate, Goregaon(east),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169533811,
-    "wof:lastmodified":1449032642,
+    "wof:lastmodified":1466288869,
     "wof:name":"Radian International",
     "wof:parent_id":85931525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dy"
     ]
 },
-  "bbox": [72.858429,19.170286,72.858429,19.170286],
+  "bbox": [
+    72.858429,
+    19.170286,
+    72.858429,
+    19.170286
+],
   "geometry": {"coordinates":[72.858429,19.170286],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169555957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.260704,13.083907,80.260704,13.083907",
     "geom:latitude":13.083907,
     "geom:longitude":80.260704,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Vepery Choolay P.o.",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169555957,
-    "wof:lastmodified":1449035496,
+    "wof:lastmodified":1466288734,
     "wof:name":"Skandia Cutting Dies Pvt Ltd",
     "wof:parent_id":85903859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.260704,13.083907,80.260704,13.083907],
+  "bbox": [
+    80.260704,
+    13.083907,
+    80.260704,
+    13.083907
+],
   "geometry": {"coordinates":[80.260704,13.083907],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169535275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.912666,19.092699,72.912666,19.092699",
     "geom:latitude":19.092699,
     "geom:longitude":72.912666,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"207, Bhaveshwar Complex, Vidyavihar (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169535275,
-    "wof:lastmodified":1449033286,
+    "wof:lastmodified":1466288872,
     "wof:name":"Swati Energy & Projects Pvt. Ltd.",
     "wof:parent_id":85931531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "saving"
     ]
 },
-  "bbox": [72.912666,19.092699,72.912666,19.092699],
+  "bbox": [
+    72.912666,
+    19.092699,
+    72.912666,
+    19.092699
+],
   "geometry": {"coordinates":[72.912666,19.092699],"type":"Point"}
 }

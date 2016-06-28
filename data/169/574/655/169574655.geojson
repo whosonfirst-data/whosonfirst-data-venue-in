@@ -2,13 +2,14 @@
   "id": 169574655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.246002,13.033237,80.246002,13.033237",
     "geom:latitude":13.033237,
     "geom:longitude":80.246002,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Cenotaph Road, Teynampet",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169574655,
-    "wof:lastmodified":1449032664,
+    "wof:lastmodified":1466288769,
     "wof:name":"Durr India Pvt Ltd",
     "wof:parent_id":85931737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.246002,13.033237,80.246002,13.033237],
+  "bbox": [
+    80.246002,
+    13.033237,
+    80.246002,
+    13.033237
+],
   "geometry": {"coordinates":[80.246002,13.033237],"type":"Point"}
 }

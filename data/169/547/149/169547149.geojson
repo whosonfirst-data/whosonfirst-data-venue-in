@@ -2,13 +2,14 @@
   "id": 169547149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.33625,11.115479,77.33625,11.115479",
     "geom:latitude":11.115479,
     "geom:longitude":77.33625,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"23/10-b, West 2nd Street, Ramaiah Colony,",
     "sg:city":"Tirupur",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169547149,
-    "wof:lastmodified":1449033007,
+    "wof:lastmodified":1466288657,
     "wof:name":"G. V. Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.33625,11.115479,77.33625,11.115479],
-  "geometry": {"coordinates":[77.33625,11.115479],"type":"Point"}
+  "bbox": [
+    77.33625,
+    11.115479,
+    77.33625,
+    11.115479
+],
+  "geometry": {"coordinates":[77.33625000000001,11.115479],"type":"Point"}
 }

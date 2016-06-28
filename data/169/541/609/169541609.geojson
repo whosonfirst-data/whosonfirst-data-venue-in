@@ -2,13 +2,14 @@
   "id": 169541609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.597244,12.999515,77.597244,12.999515",
     "geom:latitude":12.999515,
     "geom:longitude":77.597244,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#30, 5 Main Road, Jayamahal Extension,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169541609,
-    "wof:lastmodified":1449033042,
+    "wof:lastmodified":1466288666,
     "wof:name":"Ssg India",
     "wof:parent_id":85931119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [77.597244,12.999515,77.597244,12.999515],
+  "bbox": [
+    77.597244,
+    12.999515,
+    77.597244,
+    12.999515
+],
   "geometry": {"coordinates":[77.597244,12.999515],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169557311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.430077,17.444019,78.430077,17.444019",
     "geom:latitude":17.444019,
     "geom:longitude":78.430077,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"R. Nagar, Ameerpet",
     "sg:city":"Hyderabad",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169557311,
-    "wof:lastmodified":1449035034,
+    "wof:lastmodified":1466288705,
     "wof:name":"Corey Organics Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.430077,17.444019,78.430077,17.444019],
+  "bbox": [
+    78.430077,
+    17.444019,
+    78.430077,
+    17.444019
+],
   "geometry": {"coordinates":[78.430077,17.444019],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169531787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.930832,19.139694,72.930832,19.139694",
     "geom:latitude":19.139694,
     "geom:longitude":72.930832,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"96, Lbs Marg, Opp. H.p. Petrol Pump, Vikhroli (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169531787,
-    "wof:lastmodified":1449033475,
+    "wof:lastmodified":1466288859,
     "wof:name":"Edge Engineers",
     "wof:parent_id":85931633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "broach"
     ]
 },
-  "bbox": [72.930832,19.139694,72.930832,19.139694],
+  "bbox": [
+    72.930832,
+    19.139694,
+    72.930832,
+    19.139694
+],
   "geometry": {"coordinates":[72.930832,19.139694],"type":"Point"}
 }

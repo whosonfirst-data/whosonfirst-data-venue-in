@@ -2,13 +2,14 @@
   "id": 169550207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.555855,12.924725,77.555855,12.924725",
     "geom:latitude":12.924725,
     "geom:longitude":77.555855,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 908, 3rd Phase, G.i.d.c.",
     "sg:city":"Umbergaon Ina",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169550207,
-    "wof:lastmodified":1449034477,
+    "wof:lastmodified":1466288881,
     "wof:name":"Spintex Industrial Engineers",
     "wof:parent_id":85931103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.555855,12.924725,77.555855,12.924725],
-  "geometry": {"coordinates":[77.555855,12.924725],"type":"Point"}
+  "bbox": [
+    77.555855,
+    12.924725,
+    77.555855,
+    12.924725
+],
+  "geometry": {"coordinates":[77.55585499999999,12.924725],"type":"Point"}
 }

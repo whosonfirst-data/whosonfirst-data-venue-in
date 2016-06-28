@@ -2,13 +2,14 @@
   "id": 169569443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.587006,12.910465,77.587006,12.910465",
     "geom:latitude":12.910465,
     "geom:longitude":77.587006,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Banshankari, 2nd Estate",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169569443,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1466288751,
     "wof:name":"Inertia Technologies Pvt Ltd",
     "wof:parent_id":85931057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.587006,12.910465,77.587006,12.910465],
+  "bbox": [
+    77.587006,
+    12.910465,
+    77.587006,
+    12.910465
+],
   "geometry": {"coordinates":[77.587006,12.910465],"type":"Point"}
 }

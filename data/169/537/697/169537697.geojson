@@ -2,13 +2,14 @@
   "id": 169537697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.574005,12.991027,77.574005,12.991027",
     "geom:latitude":12.991027,
     "geom:longitude":77.574005,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"28/2, Ii Main Road, Seshadripuram,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169537697,
-    "wof:lastmodified":1449033498,
+    "wof:lastmodified":1466288647,
     "wof:name":"Century Controls",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pressed"
     ]
 },
-  "bbox": [77.574005,12.991027,77.574005,12.991027],
+  "bbox": [
+    77.574005,
+    12.991027,
+    77.574005,
+    12.991027
+],
   "geometry": {"coordinates":[77.574005,12.991027],"type":"Point"}
 }

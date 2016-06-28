@@ -2,13 +2,14 @@
   "id": 169539721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.586586,12.908399,77.586586,12.908399",
     "geom:latitude":12.908399,
     "geom:longitude":77.586586,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"141/1, 23rd 'a' Main, Jp Nagar, 2nd Phase,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169539721,
-    "wof:lastmodified":1449036039,
+    "wof:lastmodified":1466288652,
     "wof:name":"Diac Services",
     "wof:parent_id":85931057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.586586,12.908399,77.586586,12.908399],
+  "bbox": [
+    77.586586,
+    12.908399,
+    77.586586,
+    12.908399
+],
   "geometry": {"coordinates":[77.586586,12.908399],"type":"Point"}
 }

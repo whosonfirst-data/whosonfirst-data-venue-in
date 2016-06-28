@@ -2,13 +2,14 @@
   "id": 169557639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"70.796509,22.39139,70.796509,22.39139",
     "geom:latitude":22.39139,
     "geom:longitude":70.796509,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Ring Road",
     "sg:city":"Surat",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169557639,
-    "wof:lastmodified":1449035037,
+    "wof:lastmodified":1466288720,
     "wof:name":"Gupta Synthetic Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [70.796509,22.39139,70.796509,22.39139],
+  "bbox": [
+    70.796509,
+    22.39139,
+    70.796509,
+    22.39139
+],
   "geometry": {"coordinates":[70.796509,22.39139],"type":"Point"}
 }

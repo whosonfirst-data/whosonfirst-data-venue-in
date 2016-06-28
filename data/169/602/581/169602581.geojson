@@ -2,13 +2,14 @@
   "id": 169602581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.303467,10.01486,76.303467,10.01486",
     "geom:latitude":10.01486,
     "geom:longitude":76.303467,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 23/b, Industrial Estate S. Kalamssery, Dist. Ernakulam",
     "sg:city":"Kalamassery",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169602581,
-    "wof:lastmodified":1449034225,
+    "wof:lastmodified":1466288816,
     "wof:name":"Pottekkattu Rubbers Pvt. Ltd.",
     "wof:parent_id":85783553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "gum"
     ]
 },
-  "bbox": [76.303467,10.01486,76.303467,10.01486],
+  "bbox": [
+    76.303467,
+    10.01486,
+    76.303467,
+    10.01486
+],
   "geometry": {"coordinates":[76.303467,10.01486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169569417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.509758,13.046935,77.509758,13.046935",
     "geom:latitude":13.046935,
     "geom:longitude":77.509758,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"R.v. Road, V.v. Puram",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169569417,
-    "wof:lastmodified":1449035829,
+    "wof:lastmodified":1466288749,
     "wof:name":"S S Diesel Systems Pvt Ltd",
     "wof:parent_id":85930987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.509758,13.046935,77.509758,13.046935],
-  "geometry": {"coordinates":[77.509758,13.046935],"type":"Point"}
+  "bbox": [
+    77.509758,
+    13.046935,
+    77.509758,
+    13.046935
+],
+  "geometry": {"coordinates":[77.50975800000001,13.046935],"type":"Point"}
 }

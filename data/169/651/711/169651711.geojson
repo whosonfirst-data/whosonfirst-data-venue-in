@@ -2,13 +2,14 @@
   "id": 169651711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.631761,12.934672,77.631761,12.934672",
     "geom:latitude":12.934672,
     "geom:longitude":77.631761,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"2nd Floor, Prom\u2019s, 3H, 7C Main, 3rd Block Koramangala,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169651711,
-    "wof:lastmodified":1449033346,
+    "wof:lastmodified":1466288897,
     "wof:name":"Aveksa",
     "wof:parent_id":85931041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.631761,12.934672,77.631761,12.934672],
+  "bbox": [
+    77.631761,
+    12.934672,
+    77.631761,
+    12.934672
+],
   "geometry": {"coordinates":[77.631761,12.934672],"type":"Point"}
 }

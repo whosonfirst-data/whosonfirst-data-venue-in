@@ -2,13 +2,14 @@
   "id": 169573901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.838356,19.158409,72.838356,19.158409",
     "geom:latitude":19.158409,
     "geom:longitude":72.838356,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Road No. 3, Goregaon (w)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169573901,
-    "wof:lastmodified":1449035112,
+    "wof:lastmodified":1466288773,
     "wof:name":"Vallabh Poly-plast International Ltd",
     "wof:parent_id":85931563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.838356,19.158409,72.838356,19.158409],
+  "bbox": [
+    72.838356,
+    19.158409,
+    72.838356,
+    19.158409
+],
   "geometry": {"coordinates":[72.838356,19.158409],"type":"Point"}
 }

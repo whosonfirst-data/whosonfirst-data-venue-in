@@ -2,13 +2,14 @@
   "id": 169570505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.547646,12.988658,77.547646,12.988658",
     "geom:latitude":12.988658,
     "geom:longitude":77.547646,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"5th Main Road, Prakashnagar, Rajaji Nagar",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570505,
-    "wof:lastmodified":1449034647,
+    "wof:lastmodified":1466288754,
     "wof:name":"Dyna Fashion",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.547646,12.988658,77.547646,12.988658],
+  "bbox": [
+    77.547646,
+    12.988658,
+    77.547646,
+    12.988658
+],
   "geometry": {"coordinates":[77.547646,12.988658],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169604285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.7771,18.603619,73.7771,18.603619",
     "geom:latitude":18.603619,
     "geom:longitude":73.7771,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"S. No. 12, Plot No. 18, Kalewadi Phata, Thergaon, Chinchwad,",
     "sg:city":"Pune",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169604285,
-    "wof:lastmodified":1449035568,
+    "wof:lastmodified":1466288814,
     "wof:name":"Prime Surgical & Pharma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pharmaceutical"
     ]
 },
-  "bbox": [73.7771,18.603619,73.7771,18.603619],
+  "bbox": [
+    73.7771,
+    18.603619,
+    73.7771,
+    18.603619
+],
   "geometry": {"coordinates":[73.7771,18.603619],"type":"Point"}
 }

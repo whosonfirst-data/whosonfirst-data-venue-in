@@ -2,13 +2,14 @@
   "id": 169565009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.352753,22.559425,88.352753,22.559425",
     "geom:latitude":22.559425,
     "geom:longitude":88.352753,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindsay Street, Suite No. 10",
     "sg:city":"Kolkata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169565009,
-    "wof:lastmodified":1449035668,
+    "wof:lastmodified":1466288892,
     "wof:name":"Deltmal Safety Shoes Ltd",
     "wof:parent_id":85931931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [88.352753,22.559425,88.352753,22.559425],
-  "geometry": {"coordinates":[88.352753,22.559425],"type":"Point"}
+  "bbox": [
+    88.352753,
+    22.559425,
+    88.352753,
+    22.559425
+],
+  "geometry": {"coordinates":[88.35275300000001,22.559425],"type":"Point"}
 }

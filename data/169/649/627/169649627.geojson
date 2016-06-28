@@ -2,13 +2,14 @@
   "id": 169649627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.629936,12.961908,77.629936,12.961908",
     "geom:latitude":12.961908,
     "geom:longitude":77.629936,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#21, Off Airport Road",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169649627,
-    "wof:lastmodified":1449034945,
+    "wof:lastmodified":1466288855,
     "wof:name":"Vividity Consulting",
     "wof:parent_id":85931147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "it-solutions"
     ]
 },
-  "bbox": [77.629936,12.961908,77.629936,12.961908],
+  "bbox": [
+    77.629936,
+    12.961908,
+    77.629936,
+    12.961908
+],
   "geometry": {"coordinates":[77.629936,12.961908],"type":"Point"}
 }

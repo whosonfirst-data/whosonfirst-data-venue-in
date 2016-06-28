@@ -2,13 +2,14 @@
   "id": 169623475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.249786,13.048869,80.249786,13.048869",
     "geom:latitude":13.048869,
     "geom:longitude":80.249786,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"827, Anna Salai,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169623475,
-    "wof:lastmodified":1449034999,
+    "wof:lastmodified":1466288833,
     "wof:name":"Sicgil India Limited",
     "wof:parent_id":85903959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [80.249786,13.048869,80.249786,13.048869],
+  "bbox": [
+    80.249786,
+    13.048869,
+    80.249786,
+    13.048869
+],
   "geometry": {"coordinates":[80.249786,13.048869],"type":"Point"}
 }

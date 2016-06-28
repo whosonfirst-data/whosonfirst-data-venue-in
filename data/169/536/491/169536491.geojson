@@ -2,13 +2,14 @@
   "id": 169536491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.833618,18.952265,72.833618,18.952265",
     "geom:latitude":18.952265,
     "geom:longitude":72.833618,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Bibijan Street, Off. Nagdevi Street, Masjid Bunder-west,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169536491,
-    "wof:lastmodified":1449034655,
+    "wof:lastmodified":1466288637,
     "wof:name":"A. T. Najmuddin & Bros",
     "wof:parent_id":85903919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accessory"
     ]
 },
-  "bbox": [72.833618,18.952265,72.833618,18.952265],
+  "bbox": [
+    72.833618,
+    18.952265,
+    72.833618,
+    18.952265
+],
   "geometry": {"coordinates":[72.833618,18.952265],"type":"Point"}
 }

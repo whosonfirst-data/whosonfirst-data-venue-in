@@ -2,13 +2,14 @@
   "id": 169587919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.57531,13.0117,77.57531,13.0117",
     "geom:latitude":13.0117,
     "geom:longitude":77.57531,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"447 11th Cross Sadashivnagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169587919,
-    "wof:lastmodified":1449033822,
+    "wof:lastmodified":1466288798,
     "wof:name":"Mass Coat Chemical Agencies",
     "wof:parent_id":85931005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.57531,13.0117,77.57531,13.0117],
+  "bbox": [
+    77.57531,
+    13.0117,
+    77.57531,
+    13.0117
+],
   "geometry": {"coordinates":[77.57531,13.0117],"type":"Point"}
 }

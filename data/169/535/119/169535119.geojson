@@ -2,13 +2,14 @@
   "id": 169535119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.926804,19.11108,72.926804,19.11108",
     "geom:latitude":19.11108,
     "geom:longitude":72.926804,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B/1013, Station Plaza, Station Road, Bhandup West,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169535119,
-    "wof:lastmodified":1449033285,
+    "wof:lastmodified":1466288623,
     "wof:name":"Chrispal Shipping Co. Pvt. Ltd.",
     "wof:parent_id":85931627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "embroidery"
     ]
 },
-  "bbox": [72.926804,19.11108,72.926804,19.11108],
+  "bbox": [
+    72.926804,
+    19.11108,
+    72.926804,
+    19.11108
+],
   "geometry": {"coordinates":[72.926804,19.11108],"type":"Point"}
 }

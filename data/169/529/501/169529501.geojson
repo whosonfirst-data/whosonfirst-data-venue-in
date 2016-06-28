@@ -2,13 +2,14 @@
   "id": 169529501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.815262,19.008907,72.815262,19.008907",
     "geom:latitude":19.008907,
     "geom:longitude":72.815262,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"11-a, A.g. Khan Road, Worli Seaface,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169529501,
-    "wof:lastmodified":1449034116,
+    "wof:lastmodified":1466288696,
     "wof:name":"Ronuk Metafin Pvt. Ltd.",
     "wof:parent_id":85903999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "processing"
     ]
 },
-  "bbox": [72.815262,19.008907,72.815262,19.008907],
+  "bbox": [
+    72.815262,
+    19.008907,
+    72.815262,
+    19.008907
+],
   "geometry": {"coordinates":[72.815262,19.008907],"type":"Point"}
 }

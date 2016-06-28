@@ -2,13 +2,14 @@
   "id": 169625065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.557434,17.478985,78.557434,17.478985",
     "geom:latitude":17.478985,
     "geom:longitude":78.557434,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No:173, Srinivasa Colony (w), S.r. Nagar Post,",
     "sg:city":"Hyderabad",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169625065,
-    "wof:lastmodified":1449036025,
+    "wof:lastmodified":1466288831,
     "wof:name":"Sl Drugs & Pharmaceuticals",
     "wof:parent_id":85930661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pharmaceutical"
     ]
 },
-  "bbox": [78.557434,17.478985,78.557434,17.478985],
+  "bbox": [
+    78.557434,
+    17.478985,
+    78.557434,
+    17.478985
+],
   "geometry": {"coordinates":[78.557434,17.478985],"type":"Point"}
 }

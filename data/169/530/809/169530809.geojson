@@ -2,13 +2,14 @@
   "id": 169530809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.839005,18.953011,72.839005,18.953011",
     "geom:latitude":18.953011,
     "geom:longitude":72.839005,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"15, Fancy Chambers, 94 Surat St., Masjid,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169530809,
-    "wof:lastmodified":1449034446,
+    "wof:lastmodified":1466288689,
     "wof:name":"M.p.bombay Transport Carriers",
     "wof:parent_id":85903919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "container"
     ]
 },
-  "bbox": [72.839005,18.953011,72.839005,18.953011],
+  "bbox": [
+    72.839005,
+    18.953011,
+    72.839005,
+    18.953011
+],
   "geometry": {"coordinates":[72.839005,18.953011],"type":"Point"}
 }

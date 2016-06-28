@@ -2,13 +2,14 @@
   "id": 169560375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.487984,17.467424,78.487984,17.467424",
     "geom:latitude":17.467424,
     "geom:longitude":78.487984,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Manovikas Nagar",
     "sg:city":"Secunderabad",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169560375,
-    "wof:lastmodified":1449035180,
+    "wof:lastmodified":1466288727,
     "wof:name":"Kee Controls",
     "wof:parent_id":85930673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.487984,17.467424,78.487984,17.467424],
+  "bbox": [
+    78.487984,
+    17.467424,
+    78.487984,
+    17.467424
+],
   "geometry": {"coordinates":[78.487984,17.467424],"type":"Point"}
 }

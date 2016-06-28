@@ -2,13 +2,14 @@
   "id": 169651393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.195962,28.565402,77.195962,28.565402",
     "geom:latitude":28.565402,
     "geom:longitude":77.195962,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B-7 Safdarjung Enclave",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169651393,
-    "wof:lastmodified":1449033346,
+    "wof:lastmodified":1466288896,
     "wof:name":"CiteMan Network",
     "wof:parent_id":85928651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "jobs"
     ]
 },
-  "bbox": [77.195962,28.565402,77.195962,28.565402],
-  "geometry": {"coordinates":[77.195962,28.565402],"type":"Point"}
+  "bbox": [
+    77.195962,
+    28.565402,
+    77.195962,
+    28.565402
+],
+  "geometry": {"coordinates":[77.19596199999999,28.565402],"type":"Point"}
 }

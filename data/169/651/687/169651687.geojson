@@ -2,13 +2,14 @@
   "id": 169651687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.226749,13.111559,80.226749,13.111559",
     "geom:latitude":13.111559,
     "geom:longitude":80.226749,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No:T-53, T-Block, 9th Street Anna Nagar West",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169651687,
-    "wof:lastmodified":1449033345,
+    "wof:lastmodified":1466288897,
     "wof:name":"Steppy Frog Design Studio",
     "wof:parent_id":85903945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "graphic-design-company-india"
     ]
 },
-  "bbox": [80.226749,13.111559,80.226749,13.111559],
+  "bbox": [
+    80.226749,
+    13.111559,
+    80.226749,
+    13.111559
+],
   "geometry": {"coordinates":[80.226749,13.111559],"type":"Point"}
 }

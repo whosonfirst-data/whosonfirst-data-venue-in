@@ -2,13 +2,14 @@
   "id": 169575119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.312027,28.402227,77.312027,28.402227",
     "geom:latitude":28.402227,
     "geom:longitude":77.312027,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"16/5, Mathura Road,",
     "sg:city":"Faridabad",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169575119,
-    "wof:lastmodified":1449033641,
+    "wof:lastmodified":1466288741,
     "wof:name":"Assure Systems",
     "wof:parent_id":85928393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [77.312027,28.402227,77.312027,28.402227],
+  "bbox": [
+    77.312027,
+    28.402227,
+    77.312027,
+    28.402227
+],
   "geometry": {"coordinates":[77.312027,28.402227],"type":"Point"}
 }

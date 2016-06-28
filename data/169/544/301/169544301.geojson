@@ -2,13 +2,14 @@
   "id": 169544301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.546127,12.99754,77.546127,12.99754",
     "geom:latitude":12.99754,
     "geom:longitude":77.546127,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"881/b, Dr. M.c. Modi Hospital Road, Basaveshwara Nagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169544301,
-    "wof:lastmodified":1449035963,
+    "wof:lastmodified":1466288653,
     "wof:name":"Electrohms Pvt. Ltd.",
     "wof:parent_id":85930919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "stabilizer"
     ]
 },
-  "bbox": [77.546127,12.99754,77.546127,12.99754],
+  "bbox": [
+    77.546127,
+    12.99754,
+    77.546127,
+    12.99754
+],
   "geometry": {"coordinates":[77.546127,12.99754],"type":"Point"}
 }

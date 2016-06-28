@@ -2,13 +2,14 @@
   "id": 169543049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.607506,12.973574,77.607506,12.973574",
     "geom:latitude":12.973574,
     "geom:longitude":77.607506,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 46/47, S.m.road, T. Darsarahalli,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169543049,
-    "wof:lastmodified":1449033334,
+    "wof:lastmodified":1466288638,
     "wof:name":"Tummala Electronics Pvt. Ltd.",
     "wof:parent_id":85930841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "telecommunication"
     ]
 },
-  "bbox": [77.607506,12.973574,77.607506,12.973574],
+  "bbox": [
+    77.607506,
+    12.973574,
+    77.607506,
+    12.973574
+],
   "geometry": {"coordinates":[77.607506,12.973574],"type":"Point"}
 }

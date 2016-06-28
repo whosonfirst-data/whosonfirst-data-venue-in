@@ -2,13 +2,14 @@
   "id": 169559797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.491577,17.441364,78.491577,17.441364",
     "geom:latitude":17.441364,
     "geom:longitude":78.491577,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"S D Road",
     "sg:city":"Secunderabad",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169559797,
-    "wof:lastmodified":1449035239,
+    "wof:lastmodified":1466288754,
     "wof:name":"Corporate Tours & Travels",
     "wof:parent_id":85930705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.491577,17.441364,78.491577,17.441364],
-  "geometry": {"coordinates":[78.491577,17.441364],"type":"Point"}
+  "bbox": [
+    78.491577,
+    17.441364,
+    78.491577,
+    17.441364
+],
+  "geometry": {"coordinates":[78.49157700000001,17.441364],"type":"Point"}
 }

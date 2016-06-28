@@ -2,13 +2,14 @@
   "id": 169555325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.581696,12.957047,77.581696,12.957047",
     "geom:latitude":12.957047,
     "geom:longitude":77.581696,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Unity Building, J.c.road",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169555325,
-    "wof:lastmodified":1449035494,
+    "wof:lastmodified":1466288701,
     "wof:name":"Chemmanur Impex Pvt Ltd",
     "wof:parent_id":85930903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.581696,12.957047,77.581696,12.957047],
-  "geometry": {"coordinates":[77.581696,12.957047],"type":"Point"}
+  "bbox": [
+    77.581696,
+    12.957047,
+    77.581696,
+    12.957047
+],
+  "geometry": {"coordinates":[77.58169599999999,12.957047],"type":"Point"}
 }

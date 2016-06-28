@@ -2,13 +2,14 @@
   "id": 169550439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.211311,28.645542,77.211311,28.645542",
     "geom:latitude":28.645542,
     "geom:longitude":77.211311,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1803/7, Phase-iv, G.i.d.c. Estate,",
     "sg:city":"V.u. Nagar",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169550439,
-    "wof:lastmodified":1449034475,
+    "wof:lastmodified":1466288882,
     "wof:name":"Atlas Super Abrasives",
     "wof:parent_id":85903937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "diamond"
     ]
 },
-  "bbox": [77.211311,28.645542,77.211311,28.645542],
-  "geometry": {"coordinates":[77.211311,28.645542],"type":"Point"}
+  "bbox": [
+    77.211311,
+    28.645542,
+    77.211311,
+    28.645542
+],
+  "geometry": {"coordinates":[77.21131099999999,28.645542],"type":"Point"}
 }

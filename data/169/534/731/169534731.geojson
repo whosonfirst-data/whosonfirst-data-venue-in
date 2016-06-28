@@ -2,13 +2,14 @@
   "id": 169534731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.851593,19.011715,72.851593,19.011715",
     "geom:latitude":19.011715,
     "geom:longitude":72.851593,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"A-40, 3rd Floor, Royal Industrial Estate, Naigaon Cross Road, Wadala (west),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169534731,
-    "wof:lastmodified":1449033550,
+    "wof:lastmodified":1466288634,
     "wof:name":"Joshi Electronics And Electricals (p) Ltd.",
     "wof:parent_id":85903993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electrical"
     ]
 },
-  "bbox": [72.851593,19.011715,72.851593,19.011715],
-  "geometry": {"coordinates":[72.851593,19.011715],"type":"Point"}
+  "bbox": [
+    72.851593,
+    19.011715,
+    72.851593,
+    19.011715
+],
+  "geometry": {"coordinates":[72.85159299999999,19.011715],"type":"Point"}
 }

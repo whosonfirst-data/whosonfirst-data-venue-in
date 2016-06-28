@@ -2,13 +2,14 @@
   "id": 169529223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.857239,19.118752,72.857239,19.118752",
     "geom:latitude":19.118752,
     "geom:longitude":72.857239,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"23, Sethi Industrial Estate, Andheri(e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169529223,
-    "wof:lastmodified":1449034112,
+    "wof:lastmodified":1466288694,
     "wof:name":"Pace Marketing Services",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surveillance"
     ]
 },
-  "bbox": [72.857239,19.118752,72.857239,19.118752],
-  "geometry": {"coordinates":[72.857239,19.118752],"type":"Point"}
+  "bbox": [
+    72.857239,
+    19.118752,
+    72.857239,
+    19.118752
+],
+  "geometry": {"coordinates":[72.85723900000001,19.118752],"type":"Point"}
 }

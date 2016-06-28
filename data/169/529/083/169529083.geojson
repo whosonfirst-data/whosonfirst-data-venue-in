@@ -2,13 +2,14 @@
   "id": 169529083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.832237,18.950575,72.832237,18.950575",
     "geom:latitude":18.950575,
     "geom:longitude":72.832237,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 5, Mirza Street, 3rd Floor,",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169529083,
-    "wof:lastmodified":1449034115,
+    "wof:lastmodified":1466288692,
     "wof:name":"Huma Poly Plast Ltd.",
     "wof:parent_id":85903919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.832237,18.950575,72.832237,18.950575],
-  "geometry": {"coordinates":[72.832237,18.950575],"type":"Point"}
+  "bbox": [
+    72.832237,
+    18.950575,
+    72.832237,
+    18.950575
+],
+  "geometry": {"coordinates":[72.83223700000001,18.950575],"type":"Point"}
 }

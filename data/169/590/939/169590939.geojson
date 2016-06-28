@@ -2,13 +2,14 @@
   "id": 169590939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"75.384216,31.37492,75.384216,31.37492",
     "geom:latitude":31.37492,
     "geom:longitude":75.384216,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Kapurthala Road, Wariana,",
     "sg:city":"Jalandhar",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169590939,
-    "wof:lastmodified":1449034654,
+    "wof:lastmodified":1466288810,
     "wof:name":"Mohindra Industrial Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "belting"
     ]
 },
-  "bbox": [75.384216,31.37492,75.384216,31.37492],
+  "bbox": [
+    75.384216,
+    31.37492,
+    75.384216,
+    31.37492
+],
   "geometry": {"coordinates":[75.384216,31.37492],"type":"Point"}
 }

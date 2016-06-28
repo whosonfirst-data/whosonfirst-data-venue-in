@@ -2,13 +2,14 @@
   "id": 169535613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.853058,19.081835,72.853058,19.081835",
     "geom:latitude":19.081835,
     "geom:longitude":72.853058,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Gold Mist, Vakola Pipeline Road, Santacruz (east),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169535613,
-    "wof:lastmodified":1449033285,
+    "wof:lastmodified":1466288630,
     "wof:name":"Rohan Exports",
     "wof:parent_id":85931471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "good"
     ]
 },
-  "bbox": [72.853058,19.081835,72.853058,19.081835],
+  "bbox": [
+    72.853058,
+    19.081835,
+    72.853058,
+    19.081835
+],
   "geometry": {"coordinates":[72.853058,19.081835],"type":"Point"}
 }

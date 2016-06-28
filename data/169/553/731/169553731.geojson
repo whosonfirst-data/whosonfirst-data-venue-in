@@ -2,13 +2,14 @@
   "id": 169553731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.210182,22.332172,73.210182,22.332172",
     "geom:latitude":22.332172,
     "geom:longitude":73.210182,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Opp. Harni Water Tank, Halol Road, Harni,",
     "sg:city":"Vadodara",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169553731,
-    "wof:lastmodified":1449032709,
+    "wof:lastmodified":1466288700,
     "wof:name":"Kalpesh Marble",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "marble"
     ]
 },
-  "bbox": [73.210182,22.332172,73.210182,22.332172],
+  "bbox": [
+    73.210182,
+    22.332172,
+    73.210182,
+    22.332172
+],
   "geometry": {"coordinates":[73.210182,22.332172],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169534705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.82885,18.948298,72.82885,18.948298",
     "geom:latitude":18.948298,
     "geom:longitude":72.82885,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"2-d, Bhangwadi, Kalbadevi Road, Lohar Chawl,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169534705,
-    "wof:lastmodified":1449033552,
+    "wof:lastmodified":1466288634,
     "wof:name":"Lite-o-lite Electricals Pvt. Ltd.",
     "wof:parent_id":85931439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electrical"
     ]
 },
-  "bbox": [72.82885,18.948298,72.82885,18.948298],
+  "bbox": [
+    72.82885,
+    18.948298,
+    72.82885,
+    18.948298
+],
   "geometry": {"coordinates":[72.82885,18.948298],"type":"Point"}
 }

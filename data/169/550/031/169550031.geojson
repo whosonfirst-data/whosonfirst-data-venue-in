@@ -2,13 +2,14 @@
   "id": 169550031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.858841,18.501284,73.858841,18.501284",
     "geom:latitude":18.501284,
     "geom:longitude":73.858841,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 248/4a, G.i.d.c.,",
     "sg:city":"Umbergaon",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169550031,
-    "wof:lastmodified":1449034475,
+    "wof:lastmodified":1466288880,
     "wof:name":"Power-pack Communicators (i) Pvt. Ltd.",
     "wof:parent_id":85931215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "product"
     ]
 },
-  "bbox": [73.858841,18.501284,73.858841,18.501284],
+  "bbox": [
+    73.858841,
+    18.501284,
+    73.858841,
+    18.501284
+],
   "geometry": {"coordinates":[73.858841,18.501284],"type":"Point"}
 }

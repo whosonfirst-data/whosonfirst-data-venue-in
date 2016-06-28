@@ -2,13 +2,14 @@
   "id": 169530141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.857132,19.166401,72.857132,19.166401",
     "geom:latitude":19.166401,
     "geom:longitude":72.857132,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"113-114, Sharma Industrial Estate, Goregaon(e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169530141,
-    "wof:lastmodified":1449034443,
+    "wof:lastmodified":1466288669,
     "wof:name":"Bonsai Apparels",
     "wof:parent_id":85931525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "childrenwear"
     ]
 },
-  "bbox": [72.857132,19.166401,72.857132,19.166401],
-  "geometry": {"coordinates":[72.857132,19.166401],"type":"Point"}
+  "bbox": [
+    72.857132,
+    19.166401,
+    72.857132,
+    19.166401
+],
+  "geometry": {"coordinates":[72.85713199999999,19.166401],"type":"Point"}
 }

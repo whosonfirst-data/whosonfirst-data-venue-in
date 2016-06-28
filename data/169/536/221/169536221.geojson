@@ -2,13 +2,14 @@
   "id": 169536221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.882103,19.090277,72.882103,19.090277",
     "geom:latitude":19.090277,
     "geom:longitude":72.882103,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"59, Sakinaka, Andheri Kurla Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169536221,
-    "wof:lastmodified":1449034660,
+    "wof:lastmodified":1466288628,
     "wof:name":"Malhotra Silk Mills",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.882103,19.090277,72.882103,19.090277],
+  "bbox": [
+    72.882103,
+    19.090277,
+    72.882103,
+    19.090277
+],
   "geometry": {"coordinates":[72.882103,19.090277],"type":"Point"}
 }

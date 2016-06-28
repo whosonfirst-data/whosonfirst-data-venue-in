@@ -2,13 +2,14 @@
   "id": 169635309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.264877,12.995867,80.264877,12.995867",
     "geom:latitude":12.995867,
     "geom:longitude":80.264877,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"291, Pandian Nagar, First Street,",
     "sg:city":"Thiruthangal",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169635309,
-    "wof:lastmodified":1449034097,
+    "wof:lastmodified":1466288840,
     "wof:name":"Thangavel Match Industries",
     "wof:parent_id":85903973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wax"
     ]
 },
-  "bbox": [80.264877,12.995867,80.264877,12.995867],
+  "bbox": [
+    80.264877,
+    12.995867,
+    80.264877,
+    12.995867
+],
   "geometry": {"coordinates":[80.264877,12.995867],"type":"Point"}
 }

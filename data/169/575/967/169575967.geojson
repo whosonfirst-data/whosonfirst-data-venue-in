@@ -2,13 +2,14 @@
   "id": 169575967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.357758,22.566383,88.357758,22.566383",
     "geom:latitude":22.566383,
     "geom:longitude":88.357758,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Ganesh Chunder Avenue,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169575967,
-    "wof:lastmodified":1449033642,
+    "wof:lastmodified":1466288774,
     "wof:name":"Bengal Chemicals & Pharmaceuticals Ltd.",
     "wof:parent_id":85931917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [88.357758,22.566383,88.357758,22.566383],
+  "bbox": [
+    88.357758,
+    22.566383,
+    88.357758,
+    22.566383
+],
   "geometry": {"coordinates":[88.357758,22.566383],"type":"Point"}
 }

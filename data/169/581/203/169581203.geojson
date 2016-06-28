@@ -2,13 +2,14 @@
   "id": 169581203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.284164,13.102754,80.284164,13.102754",
     "geom:latitude":13.102754,
     "geom:longitude":80.284164,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"14, Portuguese Church Street,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169581203,
-    "wof:lastmodified":1449033382,
+    "wof:lastmodified":1466288782,
     "wof:name":"K. G. Industries Pvt. Ltd",
     "wof:parent_id":85903951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [80.284164,13.102754,80.284164,13.102754],
+  "bbox": [
+    80.284164,
+    13.102754,
+    80.284164,
+    13.102754
+],
   "geometry": {"coordinates":[80.284164,13.102754],"type":"Point"}
 }

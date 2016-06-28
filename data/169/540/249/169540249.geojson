@@ -2,13 +2,14 @@
   "id": 169540249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.563835,13.008917,77.563835,13.008917",
     "geom:latitude":13.008917,
     "geom:longitude":77.563835,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"15/1, 18th Cross, Malleshwaram,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169540249,
-    "wof:lastmodified":1449033972,
+    "wof:lastmodified":1466288644,
     "wof:name":"Dhartidhan Excavators Ltd.",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shirt"
     ]
 },
-  "bbox": [77.563835,13.008917,77.563835,13.008917],
+  "bbox": [
+    77.563835,
+    13.008917,
+    77.563835,
+    13.008917
+],
   "geometry": {"coordinates":[77.563835,13.008917],"type":"Point"}
 }

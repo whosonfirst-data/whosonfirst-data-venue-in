@@ -2,13 +2,14 @@
   "id": 169542241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"70.950371,28.934204,70.950371,28.934204",
     "geom:latitude":28.934204,
     "geom:longitude":70.950371,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#20/1, 1st Floor, S. J. P. Road, Behind Jamia Masjid,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169542241,
-    "wof:lastmodified":1449035222,
+    "wof:lastmodified":1466288647,
     "wof:name":"National Sanitations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "component"
     ]
 },
-  "bbox": [70.950371,28.934204,70.950371,28.934204],
+  "bbox": [
+    70.950371,
+    28.934204,
+    70.950371,
+    28.934204
+],
   "geometry": {"coordinates":[70.950371,28.934204],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169579411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.135033,28.721699,77.135033,28.721699",
     "geom:latitude":28.721699,
     "geom:longitude":77.135033,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"I-24, Sai Apartment Sector-13, Rohini,",
     "sg:city":"Delhi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169579411,
-    "wof:lastmodified":1449033739,
+    "wof:lastmodified":1466288789,
     "wof:name":"Import Specialist International",
     "wof:parent_id":85928071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wax"
     ]
 },
-  "bbox": [77.135033,28.721699,77.135033,28.721699],
-  "geometry": {"coordinates":[77.135033,28.721699],"type":"Point"}
+  "bbox": [
+    77.135033,
+    28.721699,
+    77.135033,
+    28.721699
+],
+  "geometry": {"coordinates":[77.13503300000001,28.721699],"type":"Point"}
 }

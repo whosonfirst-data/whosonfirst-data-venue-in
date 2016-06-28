@@ -2,13 +2,14 @@
   "id": 169582129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.221024,28.6569,77.221024,28.6569",
     "geom:latitude":28.6569,
     "geom:longitude":77.221024,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"6118, Gali Batashan, Khari Baoli,",
     "sg:city":"Delhi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169582129,
-    "wof:lastmodified":1449034467,
+    "wof:lastmodified":1466288779,
     "wof:name":"Karam Singh & Sons",
     "wof:parent_id":85928087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.221024,28.6569,77.221024,28.6569],
+  "bbox": [
+    77.221024,
+    28.6569,
+    77.221024,
+    28.6569
+],
   "geometry": {"coordinates":[77.221024,28.6569],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169536441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.815964,18.957668,72.815964,18.957668",
     "geom:latitude":18.957668,
     "geom:longitude":72.815964,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"724, Parekh Market, Opera House,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169536441,
-    "wof:lastmodified":1449034657,
+    "wof:lastmodified":1466288635,
     "wof:name":"N. N. International",
     "wof:parent_id":85931463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accessory"
     ]
 },
-  "bbox": [72.815964,18.957668,72.815964,18.957668],
-  "geometry": {"coordinates":[72.815964,18.957668],"type":"Point"}
+  "bbox": [
+    72.815964,
+    18.957668,
+    72.815964,
+    18.957668
+],
+  "geometry": {"coordinates":[72.81596399999999,18.957668],"type":"Point"}
 }

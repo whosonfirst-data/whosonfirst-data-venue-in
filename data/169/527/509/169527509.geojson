@@ -2,13 +2,14 @@
   "id": 169527509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.845474,19.154858,72.845474,19.154858",
     "geom:latitude":19.154858,
     "geom:longitude":72.845474,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"229, Oshiwara Industrial Estate, Link Road, Goregaon (west),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169527509,
-    "wof:lastmodified":1449035277,
+    "wof:lastmodified":1466288631,
     "wof:name":"Hexagon Group",
     "wof:parent_id":85931563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "healthcare"
     ]
 },
-  "bbox": [72.845474,19.154858,72.845474,19.154858],
+  "bbox": [
+    72.845474,
+    19.154858,
+    72.845474,
+    19.154858
+],
   "geometry": {"coordinates":[72.845474,19.154858],"type":"Point"}
 }

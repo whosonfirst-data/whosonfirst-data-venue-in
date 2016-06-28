@@ -2,13 +2,14 @@
   "id": 169558027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.851807,19.118549,72.851807,19.118549",
     "geom:latitude":19.118549,
     "geom:longitude":72.851807,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 3, Off Andheri-kurla Road, Andheri (e)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169558027,
-    "wof:lastmodified":1449033579,
+    "wof:lastmodified":1466288889,
     "wof:name":"Nhb Bearings Ltd",
     "wof:parent_id":85931515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.851807,19.118549,72.851807,19.118549],
-  "geometry": {"coordinates":[72.851807,19.118549],"type":"Point"}
+  "bbox": [
+    72.851807,
+    19.118549,
+    72.851807,
+    19.118549
+],
+  "geometry": {"coordinates":[72.85180699999999,19.118549],"type":"Point"}
 }

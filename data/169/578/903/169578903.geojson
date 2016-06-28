@@ -2,13 +2,14 @@
   "id": 169578903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.458374,28.665884,77.458374,28.665884",
     "geom:latitude":28.665884,
     "geom:longitude":77.458374,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sj-66a, Shastri Nagar,",
     "sg:city":"Ghaziabad",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169578903,
-    "wof:lastmodified":1449033518,
+    "wof:lastmodified":1466288807,
     "wof:name":"Hind Biochem",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.458374,28.665884,77.458374,28.665884],
-  "geometry": {"coordinates":[77.458374,28.665884],"type":"Point"}
+  "bbox": [
+    77.458374,
+    28.665884,
+    77.458374,
+    28.665884
+],
+  "geometry": {"coordinates":[77.45837400000001,28.665884],"type":"Point"}
 }

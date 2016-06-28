@@ -2,13 +2,14 @@
   "id": 169578131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.097183,21.751554,72.097183,21.751554",
     "geom:latitude":21.751554,
     "geom:longitude":72.097183,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"234-235, G.i.d.c. Chitra,",
     "sg:city":"Bhavnagar",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169578131,
-    "wof:lastmodified":1449033519,
+    "wof:lastmodified":1466288773,
     "wof:name":"Gujarat Minechem",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pharmaceutical"
     ]
 },
-  "bbox": [72.097183,21.751554,72.097183,21.751554],
+  "bbox": [
+    72.097183,
+    21.751554,
+    72.097183,
+    21.751554
+],
   "geometry": {"coordinates":[72.097183,21.751554],"type":"Point"}
 }

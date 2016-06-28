@@ -2,13 +2,14 @@
   "id": 169534893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.857811,19.115734,72.857811,19.115734",
     "geom:latitude":19.115734,
     "geom:longitude":72.857811,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Mehta Estate, Mathuradas Vasanji Road, Chakala-andheri (east),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169534893,
-    "wof:lastmodified":1449033551,
+    "wof:lastmodified":1466288643,
     "wof:name":"Epcos India Pvt. Ltd.",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electronic"
     ]
 },
-  "bbox": [72.857811,19.115734,72.857811,19.115734],
+  "bbox": [
+    72.857811,
+    19.115734,
+    72.857811,
+    19.115734
+],
   "geometry": {"coordinates":[72.857811,19.115734],"type":"Point"}
 }

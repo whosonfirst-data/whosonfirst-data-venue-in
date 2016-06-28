@@ -2,13 +2,14 @@
   "id": 169535479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.483711,17.385187,78.483711,17.385187",
     "geom:latitude":17.385187,
     "geom:longitude":78.483711,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"4th Floor, Office No. 14, Central Bank Main Bldg, M G Road, Fort,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169535479,
-    "wof:lastmodified":1449033285,
+    "wof:lastmodified":1466288874,
     "wof:name":"Archana Plants & Equipments Pvt. Ltd.",
     "wof:parent_id":85930737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "good"
     ]
 },
-  "bbox": [78.483711,17.385187,78.483711,17.385187],
+  "bbox": [
+    78.483711,
+    17.385187,
+    78.483711,
+    17.385187
+],
   "geometry": {"coordinates":[78.483711,17.385187],"type":"Point"}
 }

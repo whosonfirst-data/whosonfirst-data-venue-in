@@ -2,13 +2,14 @@
   "id": 169549689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.832176,18.950495,72.832176,18.950495",
     "geom:latitude":18.950495,
     "geom:longitude":72.832176,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"33, G.i.d.c. Estate, Vithal,",
     "sg:city":"Udyognagar",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169549689,
-    "wof:lastmodified":1449033593,
+    "wof:lastmodified":1466288690,
     "wof:name":"Industrial Equipment Manufacturers",
     "wof:parent_id":85903919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "elevator"
     ]
 },
-  "bbox": [72.832176,18.950495,72.832176,18.950495],
+  "bbox": [
+    72.832176,
+    18.950495,
+    72.832176,
+    18.950495
+],
   "geometry": {"coordinates":[72.832176,18.950495],"type":"Point"}
 }

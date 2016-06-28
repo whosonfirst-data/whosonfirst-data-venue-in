@@ -2,13 +2,14 @@
   "id": 169641731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.45826,17.441189,78.45826,17.441189",
     "geom:latitude":17.441189,
     "geom:longitude":78.45826,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Varun Towers, 3rd Floor, Begumpet,",
     "sg:city":"Hyderabad",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169641731,
-    "wof:lastmodified":1449035171,
+    "wof:lastmodified":1466288846,
     "wof:name":"Vasant Chemicals Limited",
     "wof:parent_id":85930831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "intermediate"
     ]
 },
-  "bbox": [78.45826,17.441189,78.45826,17.441189],
+  "bbox": [
+    78.45826,
+    17.441189,
+    78.45826,
+    17.441189
+],
   "geometry": {"coordinates":[78.45826,17.441189],"type":"Point"}
 }

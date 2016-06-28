@@ -2,13 +2,14 @@
   "id": 169554173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.398865,22.302937,73.398865,22.302937",
     "geom:latitude":22.302937,
     "geom:longitude":73.398865,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Waghodia Road, By Pass Crossing, N/h No. 8, Ankhol,",
     "sg:city":"Vadodara",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169554173,
-    "wof:lastmodified":1449033369,
+    "wof:lastmodified":1466288694,
     "wof:name":"Gayatri Timber Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "material"
     ]
 },
-  "bbox": [73.398865,22.302937,73.398865,22.302937],
+  "bbox": [
+    73.398865,
+    22.302937,
+    73.398865,
+    22.302937
+],
   "geometry": {"coordinates":[73.398865,22.302937],"type":"Point"}
 }

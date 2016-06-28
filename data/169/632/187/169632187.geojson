@@ -2,13 +2,14 @@
   "id": 169632187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.277153,13.086432,80.277153,13.086432",
     "geom:latitude":13.086432,
     "geom:longitude":80.277153,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"110, Rasappa Chetty Street, Park Town,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169632187,
-    "wof:lastmodified":1449034794,
+    "wof:lastmodified":1466288834,
     "wof:name":"Suria Paint & Oil Works",
     "wof:parent_id":85931765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "allied"
     ]
 },
-  "bbox": [80.277153,13.086432,80.277153,13.086432],
+  "bbox": [
+    80.277153,
+    13.086432,
+    80.277153,
+    13.086432
+],
   "geometry": {"coordinates":[80.277153,13.086432],"type":"Point"}
 }

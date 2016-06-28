@@ -2,13 +2,14 @@
   "id": 169565567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.750298,19.992355,73.750298,19.992355",
     "geom:latitude":19.992355,
     "geom:longitude":73.750298,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Midc, Satpur",
     "sg:city":"Nashik",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169565567,
-    "wof:lastmodified":1449035668,
+    "wof:lastmodified":1466288719,
     "wof:name":"Delta Finochem Pvt Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [73.750298,19.992355,73.750298,19.992355],
+  "bbox": [
+    73.750298,
+    19.992355,
+    73.750298,
+    19.992355
+],
   "geometry": {"coordinates":[73.750298,19.992355],"type":"Point"}
 }

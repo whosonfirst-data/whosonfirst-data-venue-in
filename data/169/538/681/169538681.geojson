@@ -2,13 +2,14 @@
   "id": 169538681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.577591,12.978097,77.577591,12.978097",
     "geom:latitude":12.978097,
     "geom:longitude":77.577591,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"F-2, 1st Floor, Krishna Tower, 3rd Main, Gandhinagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169538681,
-    "wof:lastmodified":1449033100,
+    "wof:lastmodified":1466288663,
     "wof:name":"Meghdoot International Clothing",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.577591,12.978097,77.577591,12.978097],
+  "bbox": [
+    77.577591,
+    12.978097,
+    77.577591,
+    12.978097
+],
   "geometry": {"coordinates":[77.577591,12.978097],"type":"Point"}
 }

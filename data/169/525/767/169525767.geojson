@@ -2,13 +2,14 @@
   "id": 169525767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.826706,18.933573,72.826706,18.933573",
     "geom:latitude":18.933573,
     "geom:longitude":72.826706,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Resham Bhavan, 4th Floor, 78, Veer Nariman Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169525767,
-    "wof:lastmodified":1449035273,
+    "wof:lastmodified":1466288619,
     "wof:name":"Mahyco Seeds Ltd.",
     "wof:parent_id":85903879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "commodity"
     ]
 },
-  "bbox": [72.826706,18.933573,72.826706,18.933573],
+  "bbox": [
+    72.826706,
+    18.933573,
+    72.826706,
+    18.933573
+],
   "geometry": {"coordinates":[72.826706,18.933573],"type":"Point"}
 }

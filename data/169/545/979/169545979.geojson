@@ -2,13 +2,14 @@
   "id": 169545979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.767952,15.790452,76.767952,15.790452",
     "geom:latitude":15.790452,
     "geom:longitude":76.767952,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"51, Karattankadu, 6th, Street, K.n.p. Colony,",
     "sg:city":"Tiruppur",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169545979,
-    "wof:lastmodified":1449033487,
+    "wof:lastmodified":1466288675,
     "wof:name":"Sri Vasagam Imptex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accessory"
     ]
 },
-  "bbox": [76.767952,15.790452,76.767952,15.790452],
-  "geometry": {"coordinates":[76.767952,15.790452],"type":"Point"}
+  "bbox": [
+    76.767952,
+    15.790452,
+    76.767952,
+    15.790452
+],
+  "geometry": {"coordinates":[76.76795199999999,15.790452],"type":"Point"}
 }

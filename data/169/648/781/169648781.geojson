@@ -2,13 +2,14 @@
   "id": 169648781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"83.313183,17.738591,83.313183,17.738591",
     "geom:latitude":17.738591,
     "geom:longitude":83.313183,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#204, Crescent Towers Seethammadhara",
     "sg:city":"Vizag",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169648781,
-    "wof:lastmodified":1449033584,
+    "wof:lastmodified":1466288897,
     "wof:name":"AdvocateKhoj",
     "wof:parent_id":85903995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "Advocate"
     ]
 },
-  "bbox": [83.313183,17.738591,83.313183,17.738591],
+  "bbox": [
+    83.313183,
+    17.738591,
+    83.313183,
+    17.738591
+],
   "geometry": {"coordinates":[83.313183,17.738591],"type":"Point"}
 }

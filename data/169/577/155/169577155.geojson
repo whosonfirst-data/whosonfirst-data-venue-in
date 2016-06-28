@@ -2,13 +2,14 @@
   "id": 169577155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.28183,13.093294,80.28183,13.093294",
     "geom:latitude":13.093294,
     "geom:longitude":80.28183,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"90, Govindappa Naicken Street,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169577155,
-    "wof:lastmodified":1449036067,
+    "wof:lastmodified":1466288771,
     "wof:name":"Gautam Colour Company",
     "wof:parent_id":85931765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "coating"
     ]
 },
-  "bbox": [80.28183,13.093294,80.28183,13.093294],
+  "bbox": [
+    80.28183,
+    13.093294,
+    80.28183,
+    13.093294
+],
   "geometry": {"coordinates":[80.28183,13.093294],"type":"Point"}
 }

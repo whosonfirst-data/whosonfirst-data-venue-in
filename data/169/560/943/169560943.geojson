@@ -2,13 +2,14 @@
   "id": 169560943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.199249,13.107629,80.199249,13.107629",
     "geom:latitude":13.107629,
     "geom:longitude":80.199249,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"394, Sidco Industrial Estate, Ambattur,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169560943,
-    "wof:lastmodified":1449035179,
+    "wof:lastmodified":1466288768,
     "wof:name":"Elastomer Auto Products",
     "wof:parent_id":85903945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [80.199249,13.107629,80.199249,13.107629],
-  "geometry": {"coordinates":[80.199249,13.107629],"type":"Point"}
+  "bbox": [
+    80.199249,
+    13.107629,
+    80.199249,
+    13.107629
+],
+  "geometry": {"coordinates":[80.19924899999999,13.107629],"type":"Point"}
 }

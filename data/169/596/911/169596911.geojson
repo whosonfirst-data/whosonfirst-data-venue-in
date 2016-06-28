@@ -2,13 +2,14 @@
   "id": 169596911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.519821,9.577624,76.519821,9.577624",
     "geom:latitude":9.577624,
     "geom:longitude":76.519821,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Kodimatha,",
     "sg:city":"Kottayam",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169596911,
-    "wof:lastmodified":1449034375,
+    "wof:lastmodified":1466288811,
     "wof:name":"Oswal Entarprises",
     "wof:parent_id":85783597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "-"
     ]
 },
-  "bbox": [76.519821,9.577624,76.519821,9.577624],
-  "geometry": {"coordinates":[76.519821,9.577624],"type":"Point"}
+  "bbox": [
+    76.519821,
+    9.577624,
+    76.519821,
+    9.577624
+],
+  "geometry": {"coordinates":[76.51982099999999,9.577624],"type":"Point"}
 }

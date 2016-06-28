@@ -2,13 +2,14 @@
   "id": 169571121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.566322,23.025928,72.566322,23.025928",
     "geom:latitude":23.025928,
     "geom:longitude":72.566322,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Ellis Bridge",
     "sg:city":"Ahmedabad",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571121,
-    "wof:lastmodified":1449034948,
+    "wof:lastmodified":1466288741,
     "wof:name":"Genest Engineers Pvt Ltd",
     "wof:parent_id":85928731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.566322,23.025928,72.566322,23.025928],
+  "bbox": [
+    72.566322,
+    23.025928,
+    72.566322,
+    23.025928
+],
   "geometry": {"coordinates":[72.566322,23.025928],"type":"Point"}
 }

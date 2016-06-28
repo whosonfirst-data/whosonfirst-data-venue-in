@@ -2,13 +2,14 @@
   "id": 169611519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.860146,19.111292,72.860146,19.111292",
     "geom:latitude":19.111292,
     "geom:longitude":72.860146,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B-115, Crystal Plaza, Andheri (west),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169611519,
-    "wof:lastmodified":1449035265,
+    "wof:lastmodified":1466288824,
     "wof:name":"Roffee Chem. Pvt. Ltd.",
     "wof:parent_id":85931483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [72.860146,19.111292,72.860146,19.111292],
+  "bbox": [
+    72.860146,
+    19.111292,
+    72.860146,
+    19.111292
+],
   "geometry": {"coordinates":[72.860146,19.111292],"type":"Point"}
 }

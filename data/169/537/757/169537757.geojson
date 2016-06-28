@@ -2,13 +2,14 @@
   "id": 169537757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.614388,12.913878,77.614388,12.913878",
     "geom:latitude":12.913878,
     "geom:longitude":77.614388,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"60/1, 3rd 'a' Main, N. S. Palya, Btm, 2nd Stage, R.g. Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":169537757,
-    "wof:lastmodified":1449033499,
+    "wof:lastmodified":1466288650,
     "wof:name":"Press Mould Precision",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "pressed"
     ]
 },
-  "bbox": [77.614388,12.913878,77.614388,12.913878],
-  "geometry": {"coordinates":[77.614388,12.913878],"type":"Point"}
+  "bbox": [
+    77.614388,
+    12.913878,
+    77.614388,
+    12.913878
+],
+  "geometry": {"coordinates":[77.61438800000001,12.913878],"type":"Point"}
 }

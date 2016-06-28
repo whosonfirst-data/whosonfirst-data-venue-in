@@ -2,13 +2,14 @@
   "id": 169573807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.894379,21.23101,72.894379,21.23101",
     "geom:latitude":21.23101,
     "geom:longitude":72.894379,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"V U Nagar, Anand",
     "sg:city":"Vallabh Vidyanagar",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169573807,
-    "wof:lastmodified":1449035112,
+    "wof:lastmodified":1466288769,
     "wof:name":"Parkage Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.894379,21.23101,72.894379,21.23101],
+  "bbox": [
+    72.894379,
+    21.23101,
+    72.894379,
+    21.23101
+],
   "geometry": {"coordinates":[72.894379,21.23101],"type":"Point"}
 }

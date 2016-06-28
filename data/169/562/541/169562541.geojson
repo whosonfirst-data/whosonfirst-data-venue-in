@@ -2,13 +2,14 @@
   "id": 169562541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.827179,18.995588,72.827179,18.995588",
     "geom:latitude":18.995588,
     "geom:longitude":72.827179,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sun Mill Compound, Lower Parel",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169562541,
-    "wof:lastmodified":1449034432,
+    "wof:lastmodified":1466288718,
     "wof:name":"Samit International Inc",
     "wof:parent_id":85931535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.827179,18.995588,72.827179,18.995588],
+  "bbox": [
+    72.827179,
+    18.995588,
+    72.827179,
+    18.995588
+],
   "geometry": {"coordinates":[72.827179,18.995588],"type":"Point"}
 }

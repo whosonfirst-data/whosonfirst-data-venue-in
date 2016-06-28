@@ -2,13 +2,14 @@
   "id": 169573669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.806435,17.917179,73.806435,17.917179",
     "geom:latitude":17.917179,
     "geom:longitude":73.806435,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Panchgani",
     "sg:city":"Mahabaleshwar",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169573669,
-    "wof:lastmodified":1449035112,
+    "wof:lastmodified":1466288764,
     "wof:name":"Strawberry Country",
     "wof:parent_id":85933733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [73.806435,17.917179,73.806435,17.917179],
-  "geometry": {"coordinates":[73.806435,17.917179],"type":"Point"}
+  "bbox": [
+    73.806435,
+    17.917179,
+    73.806435,
+    17.917179
+],
+  "geometry": {"coordinates":[73.80643499999999,17.917179],"type":"Point"}
 }

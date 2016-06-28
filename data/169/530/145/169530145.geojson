@@ -2,13 +2,14 @@
   "id": 169530145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.835793,19.014462,72.835793,19.014462",
     "geom:latitude":19.014462,
     "geom:longitude":72.835793,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"K.s.a Building, Bhavani Shankar Road, Dadar(w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169530145,
-    "wof:lastmodified":1449034443,
+    "wof:lastmodified":1466288669,
     "wof:name":"Little Love Impex",
     "wof:parent_id":85931467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "childrenwear"
     ]
 },
-  "bbox": [72.835793,19.014462,72.835793,19.014462],
+  "bbox": [
+    72.835793,
+    19.014462,
+    72.835793,
+    19.014462
+],
   "geometry": {"coordinates":[72.835793,19.014462],"type":"Point"}
 }

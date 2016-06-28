@@ -2,13 +2,14 @@
   "id": 169543519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.56945,12.92645,77.56945,12.92645",
     "geom:latitude":12.92645,
     "geom:longitude":77.56945,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"21, 9th Main Road, Tata Silk Farm, T.r. Nagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169543519,
-    "wof:lastmodified":1449033335,
+    "wof:lastmodified":1466288661,
     "wof:name":"Srinivasa Pattern & Wood Works",
     "wof:parent_id":85930845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "timber"
     ]
 },
-  "bbox": [77.56945,12.92645,77.56945,12.92645],
+  "bbox": [
+    77.56945,
+    12.92645,
+    77.56945,
+    12.92645
+],
   "geometry": {"coordinates":[77.56945,12.92645],"type":"Point"}
 }

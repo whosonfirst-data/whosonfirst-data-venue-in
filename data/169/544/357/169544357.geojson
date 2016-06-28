@@ -2,13 +2,14 @@
   "id": 169544357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.539055,13.01035,77.539055,13.01035",
     "geom:latitude":13.01035,
     "geom:longitude":77.539055,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"D-430, 2nd Stage, 1 Peenya Industrial Estate,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169544357,
-    "wof:lastmodified":1449035964,
+    "wof:lastmodified":1466288656,
     "wof:name":"Aarpee Electronics",
     "wof:parent_id":85930919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "stabilizer"
     ]
 },
-  "bbox": [77.539055,13.01035,77.539055,13.01035],
+  "bbox": [
+    77.539055,
+    13.01035,
+    77.539055,
+    13.01035
+],
   "geometry": {"coordinates":[77.539055,13.01035],"type":"Point"}
 }

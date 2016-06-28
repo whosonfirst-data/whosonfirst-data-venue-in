@@ -2,13 +2,14 @@
   "id": 169599215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.644775,13.023806,77.644775,13.023806",
     "geom:latitude":13.023806,
     "geom:longitude":77.644775,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Krishna Bhavan, S. V. P. Road, No. 517,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169599215,
-    "wof:lastmodified":1449034211,
+    "wof:lastmodified":1466288811,
     "wof:name":"Parth Exports",
     "wof:parent_id":85931031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "intermediate"
     ]
 },
-  "bbox": [77.644775,13.023806,77.644775,13.023806],
+  "bbox": [
+    77.644775,
+    13.023806,
+    77.644775,
+    13.023806
+],
   "geometry": {"coordinates":[77.644775,13.023806],"type":"Point"}
 }

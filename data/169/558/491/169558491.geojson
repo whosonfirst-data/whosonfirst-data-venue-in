@@ -2,13 +2,14 @@
   "id": 169558491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.249855,28.554041,77.249855,28.554041",
     "geom:latitude":28.554041,
     "geom:longitude":77.249855,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"C-27, Industrial Estate, Sanath Nagar,",
     "sg:city":"Hyderabad",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":169558491,
-    "wof:lastmodified":1449033579,
+    "wof:lastmodified":1466288724,
     "wof:name":"Bondit Construction Chemicals Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "adhesive"
     ]
 },
-  "bbox": [77.249855,28.554041,77.249855,28.554041],
+  "bbox": [
+    77.249855,
+    28.554041,
+    77.249855,
+    28.554041
+],
   "geometry": {"coordinates":[77.249855,28.554041],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169534365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.836037,18.951109,72.836037,18.951109",
     "geom:latitude":18.951109,
     "geom:longitude":72.836037,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"112, Lowar Chawl, Masjid Bunder,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169534365,
-    "wof:lastmodified":1449033547,
+    "wof:lastmodified":1466288871,
     "wof:name":"T. M. Mohamedally",
     "wof:parent_id":85903919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "power"
     ]
 },
-  "bbox": [72.836037,18.951109,72.836037,18.951109],
+  "bbox": [
+    72.836037,
+    18.951109,
+    72.836037,
+    18.951109
+],
   "geometry": {"coordinates":[72.836037,18.951109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169535443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.873001,19.199856,72.873001,19.199856",
     "geom:latitude":19.199856,
     "geom:longitude":72.873001,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1c/804, Whispering Palms, Lokhandwala Complex, Kandivali (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169535443,
-    "wof:lastmodified":1449033286,
+    "wof:lastmodified":1466288628,
     "wof:name":"Sun Financial & Management Consultants",
     "wof:parent_id":85931529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "good"
     ]
 },
-  "bbox": [72.873001,19.199856,72.873001,19.199856],
+  "bbox": [
+    72.873001,
+    19.199856,
+    72.873001,
+    19.199856
+],
   "geometry": {"coordinates":[72.873001,19.199856],"type":"Point"}
 }

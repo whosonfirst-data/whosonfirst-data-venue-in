@@ -2,13 +2,14 @@
   "id": 169569195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.311653,28.406626,77.311653,28.406626",
     "geom:latitude":28.406626,
     "geom:longitude":77.311653,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Mathura Road",
     "sg:city":"Faridabad",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169569195,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1466288739,
     "wof:name":"E C Packaging Pvt Ltd",
     "wof:parent_id":85928393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.311653,28.406626,77.311653,28.406626],
-  "geometry": {"coordinates":[77.311653,28.406626],"type":"Point"}
+  "bbox": [
+    77.311653,
+    28.406626,
+    77.311653,
+    28.406626
+],
+  "geometry": {"coordinates":[77.31165300000001,28.406626],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169533509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.248802,28.619921,77.248802,28.619921",
     "geom:latitude":28.619921,
     "geom:longitude":77.248802,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Metro House, 2nd Floor, Mahatma Gandhi Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169533509,
-    "wof:lastmodified":1449032640,
+    "wof:lastmodified":1466288867,
     "wof:name":"Top Diamonds Ltd.",
     "wof:parent_id":85927907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "diamond"
     ]
 },
-  "bbox": [77.248802,28.619921,77.248802,28.619921],
+  "bbox": [
+    77.248802,
+    28.619921,
+    77.248802,
+    28.619921
+],
   "geometry": {"coordinates":[77.248802,28.619921],"type":"Point"}
 }

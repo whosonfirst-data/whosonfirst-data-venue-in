@@ -2,13 +2,14 @@
   "id": 169571153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.089539,28.638338,77.089539,28.638338",
     "geom:latitude":28.638338,
     "geom:longitude":77.089539,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Tilak Nagar",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169571153,
-    "wof:lastmodified":1449034946,
+    "wof:lastmodified":1466288742,
     "wof:name":"Gandhi Electric Company",
     "wof:parent_id":85928581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.089539,28.638338,77.089539,28.638338],
+  "bbox": [
+    77.089539,
+    28.638338,
+    77.089539,
+    28.638338
+],
   "geometry": {"coordinates":[77.089539,28.638338],"type":"Point"}
 }

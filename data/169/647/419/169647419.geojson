@@ -2,13 +2,14 @@
   "id": 169647419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.330002,28.58,77.330002,28.58",
     "geom:latitude":28.58,
     "geom:longitude":77.330002,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"44, G.t. Road, Opp: Bharat Dharam Kanta, Greater Noida,",
     "sg:city":"Noida",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169647419,
-    "wof:lastmodified":1449034242,
+    "wof:lastmodified":1466288852,
     "wof:name":"Yashika Textiles",
     "wof:parent_id":85928405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "intermediate"
     ]
 },
-  "bbox": [77.330002,28.58,77.330002,28.58],
-  "geometry": {"coordinates":[77.330002,28.58],"type":"Point"}
+  "bbox": [
+    77.330002,
+    28.58,
+    77.330002,
+    28.58
+],
+  "geometry": {"coordinates":[77.33000199999999,28.58],"type":"Point"}
 }

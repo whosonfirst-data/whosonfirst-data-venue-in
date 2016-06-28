@@ -2,13 +2,14 @@
   "id": 169536543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.560165,13.007565,77.560165,13.007565",
     "geom:latitude":13.007565,
     "geom:longitude":77.560165,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1133-1134, 1st Floor, 1st Main Road, Yeshwanthpur,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169536543,
-    "wof:lastmodified":1449034655,
+    "wof:lastmodified":1466288639,
     "wof:name":"Powertech Pollution Controls Pvt. Ltd.",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [77.560165,13.007565,77.560165,13.007565],
+  "bbox": [
+    77.560165,
+    13.007565,
+    77.560165,
+    13.007565
+],
   "geometry": {"coordinates":[77.560165,13.007565],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169643389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.002357,19.142467,73.002357,19.142467",
     "geom:latitude":19.142467,
     "geom:longitude":73.002357,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"R-422, M.i.d.c., Thane Belapur Road, Rabale,",
     "sg:city":"Navi Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169643389,
-    "wof:lastmodified":1449035523,
+    "wof:lastmodified":1466288844,
     "wof:name":"Vijay Chemical Industries",
     "wof:parent_id":85931409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "intermediate"
     ]
 },
-  "bbox": [73.002357,19.142467,73.002357,19.142467],
+  "bbox": [
+    73.002357,
+    19.142467,
+    73.002357,
+    19.142467
+],
   "geometry": {"coordinates":[73.002357,19.142467],"type":"Point"}
 }

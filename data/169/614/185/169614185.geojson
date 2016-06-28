@@ -2,13 +2,14 @@
   "id": 169614185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"83.18808,26.999781,83.18808,26.999781",
     "geom:latitude":26.999781,
     "geom:longitude":83.18808,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"D. No. 11-25-301, Main Road,",
     "sg:city":"Vijayawada",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169614185,
-    "wof:lastmodified":1449036057,
+    "wof:lastmodified":1466288823,
     "wof:name":"S.l. Chemicals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [83.18808,26.999781,83.18808,26.999781],
+  "bbox": [
+    83.18808,
+    26.999781,
+    83.18808,
+    26.999781
+],
   "geometry": {"coordinates":[83.18808,26.999781],"type":"Point"}
 }

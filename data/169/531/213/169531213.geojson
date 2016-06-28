@@ -2,13 +2,14 @@
   "id": 169531213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.887871,19.051439,72.887871,19.051439",
     "geom:latitude":19.051439,
     "geom:longitude":72.887871,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"39a, Sindhi Society, Chembur (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169531213,
-    "wof:lastmodified":1449033472,
+    "wof:lastmodified":1466288856,
     "wof:name":"Super Gifts",
     "wof:parent_id":85903847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "corporate"
     ]
 },
-  "bbox": [72.887871,19.051439,72.887871,19.051439],
+  "bbox": [
+    72.887871,
+    19.051439,
+    72.887871,
+    19.051439
+],
   "geometry": {"coordinates":[72.887871,19.051439],"type":"Point"}
 }

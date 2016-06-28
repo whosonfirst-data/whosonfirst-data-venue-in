@@ -2,13 +2,14 @@
   "id": 169534551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.847038,19.166531,72.847038,19.166531",
     "geom:latitude":19.166531,
     "geom:longitude":72.847038,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Satguru Indl. Estate, 1st Floor Off Aarey Road, Goregaon (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169534551,
-    "wof:lastmodified":1449033548,
+    "wof:lastmodified":1466288629,
     "wof:name":"Dowells' Elektro Werke Ltd.",
     "wof:parent_id":85931563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [72.847038,19.166531,72.847038,19.166531],
+  "bbox": [
+    72.847038,
+    19.166531,
+    72.847038,
+    19.166531
+],
   "geometry": {"coordinates":[72.847038,19.166531],"type":"Point"}
 }

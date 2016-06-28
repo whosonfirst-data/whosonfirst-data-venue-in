@@ -2,13 +2,14 @@
   "id": 169565525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.82724,18.935801,72.82724,18.935801",
     "geom:latitude":18.935801,
     "geom:longitude":72.82724,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Maharesh Karve Road, Churchgate",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169565525,
-    "wof:lastmodified":1449035666,
+    "wof:lastmodified":1466288718,
     "wof:name":"Associate Cement Company",
     "wof:parent_id":85903879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.82724,18.935801,72.82724,18.935801],
+  "bbox": [
+    72.82724,
+    18.935801,
+    72.82724,
+    18.935801
+],
   "geometry": {"coordinates":[72.82724,18.935801],"type":"Point"}
 }

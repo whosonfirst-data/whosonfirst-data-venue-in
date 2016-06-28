@@ -2,13 +2,14 @@
   "id": 169555619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.227539,13.070415,80.227539,13.070415",
     "geom:latitude":13.070415,
     "geom:longitude":80.227539,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Officer's Colony, Mehta Nagar",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169555619,
-    "wof:lastmodified":1449035494,
+    "wof:lastmodified":1466288716,
     "wof:name":"New World Leathers (india)",
     "wof:parent_id":85931747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.227539,13.070415,80.227539,13.070415],
-  "geometry": {"coordinates":[80.227539,13.070415],"type":"Point"}
+  "bbox": [
+    80.227539,
+    13.070415,
+    80.227539,
+    13.070415
+],
+  "geometry": {"coordinates":[80.22753899999999,13.070415],"type":"Point"}
 }

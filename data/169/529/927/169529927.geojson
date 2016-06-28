@@ -2,13 +2,14 @@
   "id": 169529927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.842148,19.012182,72.842148,19.012182",
     "geom:latitude":19.012182,
     "geom:longitude":72.842148,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"100, Dada Saheb Phalke Road, Dadar (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169529927,
-    "wof:lastmodified":1449034116,
+    "wof:lastmodified":1466288703,
     "wof:name":"Industrial Organics",
     "wof:parent_id":85931545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [72.842148,19.012182,72.842148,19.012182],
-  "geometry": {"coordinates":[72.842148,19.012182],"type":"Point"}
+  "bbox": [
+    72.842148,
+    19.012182,
+    72.842148,
+    19.012182
+],
+  "geometry": {"coordinates":[72.84214799999999,19.012182],"type":"Point"}
 }

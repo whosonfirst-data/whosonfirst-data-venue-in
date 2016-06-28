@@ -2,13 +2,14 @@
   "id": 169530231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.816086,18.957186,72.816086,18.957186",
     "geom:latitude":18.957186,
     "geom:longitude":72.816086,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Parekh Mansion, 512, S.v.p. Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169530231,
-    "wof:lastmodified":1449034443,
+    "wof:lastmodified":1466288676,
     "wof:name":"Aqua Mix",
     "wof:parent_id":85931463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaning"
     ]
 },
-  "bbox": [72.816086,18.957186,72.816086,18.957186],
+  "bbox": [
+    72.816086,
+    18.957186,
+    72.816086,
+    18.957186
+],
   "geometry": {"coordinates":[72.816086,18.957186],"type":"Point"}
 }

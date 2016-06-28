@@ -2,13 +2,14 @@
   "id": 169544901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.578209,12.967132,77.578209,12.967132",
     "geom:latitude":12.967132,
     "geom:longitude":77.578209,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 2, P.c. Lane, S.j.p. Road Cross,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169544901,
-    "wof:lastmodified":1449035963,
+    "wof:lastmodified":1466288678,
     "wof:name":"Bangalore Engineering Company",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accessory"
     ]
 },
-  "bbox": [77.578209,12.967132,77.578209,12.967132],
+  "bbox": [
+    77.578209,
+    12.967132,
+    77.578209,
+    12.967132
+],
   "geometry": {"coordinates":[77.578209,12.967132],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169651437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.251922,13.080128,80.251922,13.080128",
     "geom:latitude":13.080128,
     "geom:longitude":80.251922,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1096, EVR Periyar Road,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":169651437,
-    "wof:lastmodified":1449033346,
+    "wof:lastmodified":1466288856,
     "wof:name":"White House Business Solutions ",
     "wof:parent_id":85903949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "school-management-systems"
     ]
 },
-  "bbox": [80.251922,13.080128,80.251922,13.080128],
-  "geometry": {"coordinates":[80.251922,13.080128],"type":"Point"}
+  "bbox": [
+    80.251922,
+    13.080128,
+    80.251922,
+    13.080128
+],
+  "geometry": {"coordinates":[80.25192199999999,13.080128],"type":"Point"}
 }

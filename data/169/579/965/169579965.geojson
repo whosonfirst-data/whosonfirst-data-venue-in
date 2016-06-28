@@ -2,13 +2,14 @@
   "id": 169579965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.802444,18.507315,73.802444,18.507315",
     "geom:latitude":18.507315,
     "geom:longitude":73.802444,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Sankalp, 47/3, Paud Road,",
     "sg:city":"Pune",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169579965,
-    "wof:lastmodified":1449033740,
+    "wof:lastmodified":1466288811,
     "wof:name":"Interface",
     "wof:parent_id":85931203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "processing"
     ]
 },
-  "bbox": [73.802444,18.507315,73.802444,18.507315],
-  "geometry": {"coordinates":[73.802444,18.507315],"type":"Point"}
+  "bbox": [
+    73.802444,
+    18.507315,
+    73.802444,
+    18.507315
+],
+  "geometry": {"coordinates":[73.80244399999999,18.507315],"type":"Point"}
 }

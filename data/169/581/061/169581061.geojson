@@ -2,13 +2,14 @@
   "id": 169581061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.095299,28.449627,77.095299,28.449627",
     "geom:latitude":28.449627,
     "geom:longitude":77.095299,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"F- 52, Sector- 10, Dlf,",
     "sg:city":"Faridabad",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169581061,
-    "wof:lastmodified":1449033381,
+    "wof:lastmodified":1466288777,
     "wof:name":"Justin International",
     "wof:parent_id":85928453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "raw"
     ]
 },
-  "bbox": [77.095299,28.449627,77.095299,28.449627],
+  "bbox": [
+    77.095299,
+    28.449627,
+    77.095299,
+    28.449627
+],
   "geometry": {"coordinates":[77.095299,28.449627],"type":"Point"}
 }

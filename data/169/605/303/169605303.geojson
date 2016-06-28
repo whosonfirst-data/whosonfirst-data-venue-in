@@ -2,13 +2,14 @@
   "id": 169605303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.351143,22.543427,88.351143,22.543427",
     "geom:latitude":22.543427,
     "geom:longitude":88.351143,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"7-b, Pritoria Street,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169605303,
-    "wof:lastmodified":1449034287,
+    "wof:lastmodified":1466288816,
     "wof:name":"Quaker Chemical India Ltd.",
     "wof:parent_id":85931951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [88.351143,22.543427,88.351143,22.543427],
-  "geometry": {"coordinates":[88.351143,22.543427],"type":"Point"}
+  "bbox": [
+    88.351143,
+    22.543427,
+    88.351143,
+    22.543427
+],
+  "geometry": {"coordinates":[88.35114299999999,22.543427],"type":"Point"}
 }

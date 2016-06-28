@@ -2,13 +2,14 @@
   "id": 169558685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.348007,22.545883,88.348007,22.545883",
     "geom:latitude":22.545883,
     "geom:longitude":88.348007,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"95, Park Street, 2nd Floor,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169558685,
-    "wof:lastmodified":1449033582,
+    "wof:lastmodified":1466288739,
     "wof:name":"C & E Limited",
     "wof:parent_id":85931951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [88.348007,22.545883,88.348007,22.545883],
+  "bbox": [
+    88.348007,
+    22.545883,
+    88.348007,
+    22.545883
+],
   "geometry": {"coordinates":[88.348007,22.545883],"type":"Point"}
 }

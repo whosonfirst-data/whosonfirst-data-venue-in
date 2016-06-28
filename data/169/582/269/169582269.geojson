@@ -2,13 +2,14 @@
   "id": 169582269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.27906,13.088128,80.27906,13.088128",
     "geom:latitude":13.088128,
     "geom:longitude":80.27906,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"27, Raghunayakulu Street,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169582269,
-    "wof:lastmodified":1449034464,
+    "wof:lastmodified":1466288783,
     "wof:name":"Kawarlal & Co.",
     "wof:parent_id":85931765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pharmaceutical"
     ]
 },
-  "bbox": [80.27906,13.088128,80.27906,13.088128],
+  "bbox": [
+    80.27906,
+    13.088128,
+    80.27906,
+    13.088128
+],
   "geometry": {"coordinates":[80.27906,13.088128],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169540431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.587669,12.962282,77.587669,12.962282",
     "geom:latitude":12.962282,
     "geom:longitude":77.587669,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#9, 3rd Cross, Sudhamanagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169540431,
-    "wof:lastmodified":1449033972,
+    "wof:lastmodified":1466288655,
     "wof:name":"Vastragangotri Silk Exports",
     "wof:parent_id":85930903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "silk"
     ]
 },
-  "bbox": [77.587669,12.962282,77.587669,12.962282],
-  "geometry": {"coordinates":[77.587669,12.962282],"type":"Point"}
+  "bbox": [
+    77.587669,
+    12.962282,
+    77.587669,
+    12.962282
+],
+  "geometry": {"coordinates":[77.58766900000001,12.962282],"type":"Point"}
 }

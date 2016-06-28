@@ -2,13 +2,14 @@
   "id": 169547201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"79.499046,11.612677,79.499046,11.612677",
     "geom:latitude":11.612677,
     "geom:longitude":79.499046,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"353-a, Kamaraj Road,",
     "sg:city":"Tirupur",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169547201,
-    "wof:lastmodified":1449033009,
+    "wof:lastmodified":1466288659,
     "wof:name":"Dharniiss Traders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "material"
     ]
 },
-  "bbox": [79.499046,11.612677,79.499046,11.612677],
-  "geometry": {"coordinates":[79.499046,11.612677],"type":"Point"}
+  "bbox": [
+    79.499046,
+    11.612677,
+    79.499046,
+    11.612677
+],
+  "geometry": {"coordinates":[79.49904600000001,11.612677],"type":"Point"}
 }

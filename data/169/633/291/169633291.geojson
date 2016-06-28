@@ -2,13 +2,14 @@
   "id": 169633291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"75.364937,19.883276,75.364937,19.883276",
     "geom:latitude":19.883276,
     "geom:longitude":75.364937,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"N-101,midc Area Jalgaon",
     "sg:city":"Jalgaon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169633291,
-    "wof:lastmodified":1449035938,
+    "wof:lastmodified":1466288836,
     "wof:name":"Swami Vessels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "processing"
     ]
 },
-  "bbox": [75.364937,19.883276,75.364937,19.883276],
+  "bbox": [
+    75.364937,
+    19.883276,
+    75.364937,
+    19.883276
+],
   "geometry": {"coordinates":[75.364937,19.883276],"type":"Point"}
 }

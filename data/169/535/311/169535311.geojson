@@ -2,13 +2,14 @@
   "id": 169535311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.828979,18.937618,72.828979,18.937618",
     "geom:latitude":18.937618,
     "geom:longitude":72.828979,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"307, Marine Chambers, 43, New Marine Lines,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169535311,
-    "wof:lastmodified":1449033285,
+    "wof:lastmodified":1466288872,
     "wof:name":"Yojana Udyog Pvt. Ltd.",
     "wof:parent_id":85931457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "good"
     ]
 },
-  "bbox": [72.828979,18.937618,72.828979,18.937618],
+  "bbox": [
+    72.828979,
+    18.937618,
+    72.828979,
+    18.937618
+],
   "geometry": {"coordinates":[72.828979,18.937618],"type":"Point"}
 }

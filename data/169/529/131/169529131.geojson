@@ -2,13 +2,14 @@
   "id": 169529131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.818382,19.002281,72.818382,19.002281",
     "geom:latitude":19.002281,
     "geom:longitude":72.818382,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Opp.114, B.d.d. Chawl, Worli,",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169529131,
-    "wof:lastmodified":1449034114,
+    "wof:lastmodified":1466288693,
     "wof:name":"Ratan Silk Mills",
     "wof:parent_id":85903999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.818382,19.002281,72.818382,19.002281],
+  "bbox": [
+    72.818382,
+    19.002281,
+    72.818382,
+    19.002281
+],
   "geometry": {"coordinates":[72.818382,19.002281],"type":"Point"}
 }

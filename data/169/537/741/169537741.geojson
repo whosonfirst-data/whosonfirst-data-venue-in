@@ -2,13 +2,14 @@
   "id": 169537741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.690247,12.817271,77.690247,12.817271",
     "geom:latitude":12.817271,
     "geom:longitude":77.690247,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#125 B, Industrial Area, Bommasandra, Hosur Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169537741,
-    "wof:lastmodified":1449033495,
+    "wof:lastmodified":1466288649,
     "wof:name":"Nivita Tools And Accessories Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pressed"
     ]
 },
-  "bbox": [77.690247,12.817271,77.690247,12.817271],
+  "bbox": [
+    77.690247,
+    12.817271,
+    77.690247,
+    12.817271
+],
   "geometry": {"coordinates":[77.690247,12.817271],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169544155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.557129,12.932476,77.557129,12.932476",
     "geom:latitude":12.932476,
     "geom:longitude":77.557129,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"689, 1st Floor, 1st 'b' Main Road, 7th Block, Banashankari, 3rd Stage, 2nd Phase,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169544155,
-    "wof:lastmodified":1449035965,
+    "wof:lastmodified":1466288645,
     "wof:name":"Deccan Power Tech",
     "wof:parent_id":85931173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.557129,12.932476,77.557129,12.932476],
+  "bbox": [
+    77.557129,
+    12.932476,
+    77.557129,
+    12.932476
+],
   "geometry": {"coordinates":[77.557129,12.932476],"type":"Point"}
 }

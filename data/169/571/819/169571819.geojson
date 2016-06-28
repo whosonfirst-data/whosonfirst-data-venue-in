@@ -2,13 +2,14 @@
   "id": 169571819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.126945,28.630474,77.126945,28.630474",
     "geom:latitude":28.630474,
     "geom:longitude":77.126945,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Mayapuri Phase - I",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169571819,
-    "wof:lastmodified":1449034946,
+    "wof:lastmodified":1466288776,
     "wof:name":"Interrol (i) Pvt Ltd",
     "wof:parent_id":85927871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.126945,28.630474,77.126945,28.630474],
-  "geometry": {"coordinates":[77.126945,28.630474],"type":"Point"}
+  "bbox": [
+    77.126945,
+    28.630474,
+    77.126945,
+    28.630474
+],
+  "geometry": {"coordinates":[77.12694500000001,28.630474],"type":"Point"}
 }

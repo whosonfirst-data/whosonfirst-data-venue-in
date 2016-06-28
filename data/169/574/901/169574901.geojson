@@ -2,13 +2,14 @@
   "id": 169574901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.975212,19.206127,72.975212,19.206127",
     "geom:latitude":19.206127,
     "geom:longitude":72.975212,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Panchpakhadi",
     "sg:city":"Thane",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169574901,
-    "wof:lastmodified":1449032663,
+    "wof:lastmodified":1466288783,
     "wof:name":"Eximious Ventures Pvt Ltd",
     "wof:parent_id":85931659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.975212,19.206127,72.975212,19.206127],
+  "bbox": [
+    72.975212,
+    19.206127,
+    72.975212,
+    19.206127
+],
   "geometry": {"coordinates":[72.975212,19.206127],"type":"Point"}
 }

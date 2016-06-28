@@ -2,13 +2,14 @@
   "id": 169622993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.162178,28.773544,77.162178,28.773544",
     "geom:latitude":28.773544,
     "geom:longitude":77.162178,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Kadipur Industrial Area, Street No. 8, Pataudi Road,",
     "sg:city":"Gurgaon",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169622993,
-    "wof:lastmodified":1449035365,
+    "wof:lastmodified":1466288835,
     "wof:name":"Shri M. R. Casting Impregnation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "adhesive"
     ]
 },
-  "bbox": [77.162178,28.773544,77.162178,28.773544],
+  "bbox": [
+    77.162178,
+    28.773544,
+    77.162178,
+    28.773544
+],
   "geometry": {"coordinates":[77.162178,28.773544],"type":"Point"}
 }

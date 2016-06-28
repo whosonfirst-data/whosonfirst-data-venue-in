@@ -2,13 +2,14 @@
   "id": 169530401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.836494,18.93298,72.836494,18.93298",
     "geom:latitude":18.93298,
     "geom:longitude":72.836494,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"96/98, Mint Road,fort,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169530401,
-    "wof:lastmodified":1449034446,
+    "wof:lastmodified":1466288682,
     "wof:name":"Wep Peripherals Ltd.",
     "wof:parent_id":85903853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "peripheral"
     ]
 },
-  "bbox": [72.836494,18.93298,72.836494,18.93298],
+  "bbox": [
+    72.836494,
+    18.93298,
+    72.836494,
+    18.93298
+],
   "geometry": {"coordinates":[72.836494,18.93298],"type":"Point"}
 }

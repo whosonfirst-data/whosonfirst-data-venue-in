@@ -2,13 +2,14 @@
   "id": 169541599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.674034,12.843727,77.674034,12.843727",
     "geom:latitude":12.843727,
     "geom:longitude":77.674034,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"17, Electronics City, Hosur Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169541599,
-    "wof:lastmodified":1449033042,
+    "wof:lastmodified":1466288665,
     "wof:name":"Vxl Etech",
     "wof:parent_id":85930867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [77.674034,12.843727,77.674034,12.843727],
-  "geometry": {"coordinates":[77.674034,12.843727],"type":"Point"}
+  "bbox": [
+    77.674034,
+    12.843727,
+    77.674034,
+    12.843727
+],
+  "geometry": {"coordinates":[77.67403400000001,12.843727],"type":"Point"}
 }

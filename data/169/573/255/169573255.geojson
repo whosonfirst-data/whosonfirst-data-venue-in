@@ -2,13 +2,14 @@
   "id": 169573255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.124786,28.689734,77.124786,28.689734",
     "geom:latitude":28.689734,
     "geom:longitude":77.124786,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sainik Vihar, Pitampura",
     "sg:city":"Delhi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169573255,
-    "wof:lastmodified":1449035112,
+    "wof:lastmodified":1466288746,
     "wof:name":"Japna Chemicals Pvt Ltd",
     "wof:parent_id":85928043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.124786,28.689734,77.124786,28.689734],
+  "bbox": [
+    77.124786,
+    28.689734,
+    77.124786,
+    28.689734
+],
   "geometry": {"coordinates":[77.124786,28.689734],"type":"Point"}
 }

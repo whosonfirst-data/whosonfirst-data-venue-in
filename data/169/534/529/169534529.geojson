@@ -2,13 +2,14 @@
   "id": 169534529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.926315,19.122385,72.926315,19.122385",
     "geom:latitude":19.122385,
     "geom:longitude":72.926315,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"36, Suyog Industrial Estate, Lbs Marg, Vikhroli (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169534529,
-    "wof:lastmodified":1449033547,
+    "wof:lastmodified":1466288629,
     "wof:name":"Elecpower Engineers",
     "wof:parent_id":85931633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [72.926315,19.122385,72.926315,19.122385],
+  "bbox": [
+    72.926315,
+    19.122385,
+    72.926315,
+    19.122385
+],
   "geometry": {"coordinates":[72.926315,19.122385],"type":"Point"}
 }

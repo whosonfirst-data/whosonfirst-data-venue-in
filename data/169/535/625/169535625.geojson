@@ -2,13 +2,14 @@
   "id": 169535625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.928932,19.135406,72.928932,19.135406",
     "geom:latitude":19.135406,
     "geom:longitude":72.928932,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Lal Bahadur Shastri Marg, Bhandup,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169535625,
-    "wof:lastmodified":1449033289,
+    "wof:lastmodified":1466288875,
     "wof:name":"The Indian Smelting & Refining Co. Limited",
     "wof:parent_id":85931633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "good"
     ]
 },
-  "bbox": [72.928932,19.135406,72.928932,19.135406],
+  "bbox": [
+    72.928932,
+    19.135406,
+    72.928932,
+    19.135406
+],
   "geometry": {"coordinates":[72.928932,19.135406],"type":"Point"}
 }

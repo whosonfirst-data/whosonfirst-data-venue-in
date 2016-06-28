@@ -2,13 +2,14 @@
   "id": 169575241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.707344,12.97374,77.707344,12.97374",
     "geom:latitude":12.97374,
     "geom:longitude":77.707344,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"38, 3rd Main Road, R.a. Puram,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169575241,
-    "wof:lastmodified":1449033642,
+    "wof:lastmodified":1466288745,
     "wof:name":"Atul Ltd.",
     "wof:parent_id":85931159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "intermediate"
     ]
 },
-  "bbox": [77.707344,12.97374,77.707344,12.97374],
-  "geometry": {"coordinates":[77.707344,12.97374],"type":"Point"}
+  "bbox": [
+    77.707344,
+    12.97374,
+    77.707344,
+    12.97374
+],
+  "geometry": {"coordinates":[77.70734400000001,12.97374],"type":"Point"}
 }

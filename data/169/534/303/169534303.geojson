@@ -2,13 +2,14 @@
   "id": 169534303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.885597,19.054127,72.885597,19.054127",
     "geom:latitude":19.054127,
     "geom:longitude":72.885597,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Bezzola Complex, 6th Floor, V.n. Purav Marg, Chembur,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169534303,
-    "wof:lastmodified":1449033547,
+    "wof:lastmodified":1466288871,
     "wof:name":"Tata Finance Ltd",
     "wof:parent_id":85903847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "electric"
     ]
 },
-  "bbox": [72.885597,19.054127,72.885597,19.054127],
+  "bbox": [
+    72.885597,
+    19.054127,
+    72.885597,
+    19.054127
+],
   "geometry": {"coordinates":[72.885597,19.054127],"type":"Point"}
 }

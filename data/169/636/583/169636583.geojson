@@ -2,13 +2,14 @@
   "id": 169636583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.148918,13.116295,80.148918,13.116295",
     "geom:latitude":13.116295,
     "geom:longitude":80.148918,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B-504, 1st Floor, Nehru Ground, N.i.t.,",
     "sg:city":"Faridabad",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169636583,
-    "wof:lastmodified":1449033989,
+    "wof:lastmodified":1466288846,
     "wof:name":"Tirupati Industrial Chemicals Pvt. Ltd.",
     "wof:parent_id":85904059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [80.148918,13.116295,80.148918,13.116295],
-  "geometry": {"coordinates":[80.148918,13.116295],"type":"Point"}
+  "bbox": [
+    80.148918,
+    13.116295,
+    80.148918,
+    13.116295
+],
+  "geometry": {"coordinates":[80.14891799999999,13.116295],"type":"Point"}
 }

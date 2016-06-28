@@ -2,13 +2,14 @@
   "id": 169541277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.572685,12.969524,77.572685,12.969524",
     "geom:latitude":12.969524,
     "geom:longitude":77.572685,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"F-46, 2nd Floor, 125, Balaji Complex, Sultanpet,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169541277,
-    "wof:lastmodified":1449033039,
+    "wof:lastmodified":1466288649,
     "wof:name":"Amwill Healthcare",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.572685,12.969524,77.572685,12.969524],
-  "geometry": {"coordinates":[77.572685,12.969524],"type":"Point"}
+  "bbox": [
+    77.572685,
+    12.969524,
+    77.572685,
+    12.969524
+],
+  "geometry": {"coordinates":[77.57268500000001,12.969524],"type":"Point"}
 }

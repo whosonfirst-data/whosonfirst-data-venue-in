@@ -2,13 +2,14 @@
   "id": 169575969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.990593,19.238312,72.990593,19.238312",
     "geom:latitude":19.238312,
     "geom:longitude":72.990593,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Building D 527, Kolshet Road,",
     "sg:city":"Thane",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169575969,
-    "wof:lastmodified":1449033640,
+    "wof:lastmodified":1466288775,
     "wof:name":"Bayer Materialscience Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.990593,19.238312,72.990593,19.238312],
+  "bbox": [
+    72.990593,
+    19.238312,
+    72.990593,
+    19.238312
+],
   "geometry": {"coordinates":[72.990593,19.238312],"type":"Point"}
 }

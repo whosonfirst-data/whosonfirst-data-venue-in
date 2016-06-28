@@ -2,13 +2,14 @@
   "id": 169571247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.588295,12.960992,77.588295,12.960992",
     "geom:latitude":12.960992,
     "geom:longitude":77.588295,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1st Floor, 1st Cross, Lalbagh Road",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571247,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1466288748,
     "wof:name":"Ambika Petrochem Pvt Ltd",
     "wof:parent_id":85930903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.588295,12.960992,77.588295,12.960992],
+  "bbox": [
+    77.588295,
+    12.960992,
+    77.588295,
+    12.960992
+],
   "geometry": {"coordinates":[77.588295,12.960992],"type":"Point"}
 }

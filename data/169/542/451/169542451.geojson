@@ -2,13 +2,14 @@
   "id": 169542451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.269073,13.001058,80.269073,13.001058",
     "geom:latitude":13.001058,
     "geom:longitude":80.269073,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"H.no. 3431/1008, 2nd Floor, 4th Main Road, 14h Cross, Shastri Nagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169542451,
-    "wof:lastmodified":1449035220,
+    "wof:lastmodified":1466288656,
     "wof:name":"Namrata Exports",
     "wof:parent_id":85931669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [80.269073,13.001058,80.269073,13.001058],
-  "geometry": {"coordinates":[80.269073,13.001058],"type":"Point"}
+  "bbox": [
+    80.269073,
+    13.001058,
+    80.269073,
+    13.001058
+],
+  "geometry": {"coordinates":[80.26907300000001,13.001058],"type":"Point"}
 }

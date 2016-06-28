@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 169557919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.838165,19.065859,72.838165,19.065859",
     "geom:latitude":19.065859,
     "geom:longitude":72.838165,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1st Road, Khar (w)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169557919,
-    "wof:lastmodified":1449035036,
+    "wof:lastmodified":1466288731,
     "wof:name":"Wintell Universal",
     "wof:parent_id":85931493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.838165,19.065859,72.838165,19.065859],
+  "bbox": [
+    72.838165,
+    19.065859,
+    72.838165,
+    19.065859
+],
   "geometry": {"coordinates":[72.838165,19.065859],"type":"Point"}
 }

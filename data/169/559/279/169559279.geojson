@@ -2,13 +2,14 @@
   "id": 169559279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.351936,22.572443,88.351936,22.572443",
     "geom:latitude":22.572443,
     "geom:longitude":88.351936,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Lal Bazar Street",
     "sg:city":"Kolkata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169559279,
-    "wof:lastmodified":1449035237,
+    "wof:lastmodified":1466288717,
     "wof:name":"Inter Globe Finance Ltd",
     "wof:parent_id":85931969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [88.351936,22.572443,88.351936,22.572443],
-  "geometry": {"coordinates":[88.351936,22.572443],"type":"Point"}
+  "bbox": [
+    88.351936,
+    22.572443,
+    88.351936,
+    22.572443
+],
+  "geometry": {"coordinates":[88.35193599999999,22.572443],"type":"Point"}
 }

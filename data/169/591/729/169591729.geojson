@@ -2,13 +2,14 @@
   "id": 169591729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.85881,18.517784,73.85881,18.517784",
     "geom:latitude":18.517784,
     "geom:longitude":73.85881,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"196/26, Budhwar Peth,",
     "sg:city":"Solapur",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169591729,
-    "wof:lastmodified":1449034452,
+    "wof:lastmodified":1466288810,
     "wof:name":"N.h. Polymers",
     "wof:parent_id":85903913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "adhesive"
     ]
 },
-  "bbox": [73.85881,18.517784,73.85881,18.517784],
-  "geometry": {"coordinates":[73.85881,18.517784],"type":"Point"}
+  "bbox": [
+    73.85881,
+    18.517784,
+    73.85881,
+    18.517784
+],
+  "geometry": {"coordinates":[73.85881000000001,18.517784],"type":"Point"}
 }

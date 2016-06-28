@@ -2,13 +2,14 @@
   "id": 169559315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.062523,19.030165,73.062523,19.030165",
     "geom:latitude":19.030165,
     "geom:longitude":73.062523,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"111, Industrial Area, Sion,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169559315,
-    "wof:lastmodified":1449035238,
+    "wof:lastmodified":1466288719,
     "wof:name":"Choksey Chemicals Pvt. Ltd.",
     "wof:parent_id":85931641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [73.062523,19.030165,73.062523,19.030165],
+  "bbox": [
+    73.062523,
+    19.030165,
+    73.062523,
+    19.030165
+],
   "geometry": {"coordinates":[73.062523,19.030165],"type":"Point"}
 }

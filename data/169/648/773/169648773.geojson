@@ -2,13 +2,14 @@
   "id": 169648773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.434422,17.415429,78.434422,17.415429",
     "geom:latitude":17.415429,
     "geom:longitude":78.434422,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Banjarahills Road No 3",
     "sg:city":"Hyderabad",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169648773,
-    "wof:lastmodified":1449033582,
+    "wof:lastmodified":1466288897,
     "wof:name":"YUPPTV",
     "wof:parent_id":85930747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "internet-television"
     ]
 },
-  "bbox": [78.434422,17.415429,78.434422,17.415429],
+  "bbox": [
+    78.434422,
+    17.415429,
+    78.434422,
+    17.415429
+],
   "geometry": {"coordinates":[78.434422,17.415429],"type":"Point"}
 }

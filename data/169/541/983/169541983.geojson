@@ -2,13 +2,14 @@
   "id": 169541983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.685104,12.816192,77.685104,12.816192",
     "geom:latitude":12.816192,
     "geom:longitude":77.685104,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"# 32-b, Bommasandra Industrial Area,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169541983,
-    "wof:lastmodified":1449033044,
+    "wof:lastmodified":1466288882,
     "wof:name":"Bangalore Coil Manufacturing Co.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "coil"
     ]
 },
-  "bbox": [77.685104,12.816192,77.685104,12.816192],
+  "bbox": [
+    77.685104,
+    12.816192,
+    77.685104,
+    12.816192
+],
   "geometry": {"coordinates":[77.685104,12.816192],"type":"Point"}
 }

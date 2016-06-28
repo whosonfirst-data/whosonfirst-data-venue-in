@@ -2,13 +2,14 @@
   "id": 169549213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"75.130455,15.340671,75.130455,15.340671",
     "geom:latitude":15.340671,
     "geom:longitude":75.130455,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"52, Arvind Nagar,",
     "sg:city":"Udaipur",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169549213,
-    "wof:lastmodified":1449033590,
+    "wof:lastmodified":1466288676,
     "wof:name":"Magic Vision India",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handicraft"
     ]
 },
-  "bbox": [75.130455,15.340671,75.130455,15.340671],
+  "bbox": [
+    75.130455,
+    15.340671,
+    75.130455,
+    15.340671
+],
   "geometry": {"coordinates":[75.130455,15.340671],"type":"Point"}
 }

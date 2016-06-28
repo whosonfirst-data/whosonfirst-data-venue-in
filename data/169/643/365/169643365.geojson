@@ -2,13 +2,14 @@
   "id": 169643365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.836197,18.950895,72.836197,18.950895",
     "geom:latitude":18.950895,
     "geom:longitude":72.836197,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"67, Issaji Street, Vadagadi Masjid Bunder,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169643365,
-    "wof:lastmodified":1449035521,
+    "wof:lastmodified":1466288844,
     "wof:name":"Vijay Bros",
     "wof:parent_id":85903919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gum"
     ]
 },
-  "bbox": [72.836197,18.950895,72.836197,18.950895],
+  "bbox": [
+    72.836197,
+    18.950895,
+    72.836197,
+    18.950895
+],
   "geometry": {"coordinates":[72.836197,18.950895],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169530063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.882591,19.107027,72.882591,19.107027",
     "geom:latitude":19.107027,
     "geom:longitude":72.882591,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"6/108, Mittal Industrial Estate, Sakinaka, Andheri(e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169530063,
-    "wof:lastmodified":1449034443,
+    "wof:lastmodified":1466288661,
     "wof:name":"Ace Trade Links",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "childrenwear"
     ]
 },
-  "bbox": [72.882591,19.107027,72.882591,19.107027],
-  "geometry": {"coordinates":[72.882591,19.107027],"type":"Point"}
+  "bbox": [
+    72.882591,
+    19.107027,
+    72.882591,
+    19.107027
+],
+  "geometry": {"coordinates":[72.88259100000001,19.107027],"type":"Point"}
 }

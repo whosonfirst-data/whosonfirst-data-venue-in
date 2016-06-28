@@ -2,13 +2,14 @@
   "id": 169555393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.823906,18.958128,72.823906,18.958128",
     "geom:latitude":18.958128,
     "geom:longitude":72.823906,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"R. No-12, 457, S.v.p. Road",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169555393,
-    "wof:lastmodified":1449035494,
+    "wof:lastmodified":1466288705,
     "wof:name":"Adi's Optical Fibre Corporation",
     "wof:parent_id":85931435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.823906,18.958128,72.823906,18.958128],
-  "geometry": {"coordinates":[72.823906,18.958128],"type":"Point"}
+  "bbox": [
+    72.823906,
+    18.958128,
+    72.823906,
+    18.958128
+],
+  "geometry": {"coordinates":[72.82390599999999,18.958128],"type":"Point"}
 }

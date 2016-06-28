@@ -2,13 +2,14 @@
   "id": 169540129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.210518,13.111913,80.210518,13.111913",
     "geom:latitude":13.111913,
     "geom:longitude":80.210518,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"D-95, Rajajinagar, Industrial Estate,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169540129,
-    "wof:lastmodified":1449033976,
+    "wof:lastmodified":1466288637,
     "wof:name":"Electro-mech Corporation",
     "wof:parent_id":85903945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "component"
     ]
 },
-  "bbox": [80.210518,13.111913,80.210518,13.111913],
-  "geometry": {"coordinates":[80.210518,13.111913],"type":"Point"}
+  "bbox": [
+    80.210518,
+    13.111913,
+    80.210518,
+    13.111913
+],
+  "geometry": {"coordinates":[80.21051799999999,13.111913],"type":"Point"}
 }

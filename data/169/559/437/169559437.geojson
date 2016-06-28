@@ -2,13 +2,14 @@
   "id": 169559437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.836815,18.511568,73.836815,18.511568",
     "geom:latitude":18.511568,
     "geom:longitude":73.836815,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"8/20 Erandwana, Off Karve Road,",
     "sg:city":"Pune",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169559437,
-    "wof:lastmodified":1449035239,
+    "wof:lastmodified":1466288729,
     "wof:name":"Cleanline Products Pvt. Ltd.",
     "wof:parent_id":85931201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [73.836815,18.511568,73.836815,18.511568],
+  "bbox": [
+    73.836815,
+    18.511568,
+    73.836815,
+    18.511568
+],
   "geometry": {"coordinates":[73.836815,18.511568],"type":"Point"}
 }

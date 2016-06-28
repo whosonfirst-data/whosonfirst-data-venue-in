@@ -2,13 +2,14 @@
   "id": 169574401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.198067,22.273079,73.198067,22.273079",
     "geom:latitude":22.273079,
     "geom:longitude":73.198067,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Near Deep Chambers, Manjalpur",
     "sg:city":"Vadodara",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169574401,
-    "wof:lastmodified":1449032663,
+    "wof:lastmodified":1466288756,
     "wof:name":"Arthaai Engineers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [73.198067,22.273079,73.198067,22.273079],
-  "geometry": {"coordinates":[73.198067,22.273079],"type":"Point"}
+  "bbox": [
+    73.198067,
+    22.273079,
+    73.198067,
+    22.273079
+],
+  "geometry": {"coordinates":[73.19806699999999,22.273079],"type":"Point"}
 }

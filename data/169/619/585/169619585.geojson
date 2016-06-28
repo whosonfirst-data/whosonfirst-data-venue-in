@@ -2,13 +2,14 @@
   "id": 169619585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.134773,28.630911,77.134773,28.630911",
     "geom:latitude":28.630911,
     "geom:longitude":77.134773,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"X-55/101, Loha Mandi, Naraina Industrial Area,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169619585,
-    "wof:lastmodified":1449033281,
+    "wof:lastmodified":1466288827,
     "wof:name":"Shine Traders",
     "wof:parent_id":85927871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dye"
     ]
 },
-  "bbox": [77.134773,28.630911,77.134773,28.630911],
+  "bbox": [
+    77.134773,
+    28.630911,
+    77.134773,
+    28.630911
+],
   "geometry": {"coordinates":[77.134773,28.630911],"type":"Point"}
 }

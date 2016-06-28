@@ -2,13 +2,14 @@
   "id": 169616711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.648552,12.972063,77.648552,12.972063",
     "geom:latitude":12.972063,
     "geom:longitude":77.648552,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 805/2 & 3, Phase Iii, G.i.d.c.,",
     "sg:city":"Vapi",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169616711,
-    "wof:lastmodified":1449035102,
+    "wof:lastmodified":1466288829,
     "wof:name":"Sarna Group Of Industries",
     "wof:parent_id":85931151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "intermediate"
     ]
 },
-  "bbox": [77.648552,12.972063,77.648552,12.972063],
+  "bbox": [
+    77.648552,
+    12.972063,
+    77.648552,
+    12.972063
+],
   "geometry": {"coordinates":[77.648552,12.972063],"type":"Point"}
 }

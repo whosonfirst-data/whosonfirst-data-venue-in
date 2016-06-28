@@ -2,13 +2,14 @@
   "id": 169546607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.3311,11.142419,77.3311,11.142419",
     "geom:latitude":11.142419,
     "geom:longitude":77.3311,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"125/8, Angeri Palayam Road,",
     "sg:city":"Tirupur",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169546607,
-    "wof:lastmodified":1449032677,
+    "wof:lastmodified":1466288671,
     "wof:name":"The India Engineering & Trading Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.3311,11.142419,77.3311,11.142419],
-  "geometry": {"coordinates":[77.3311,11.142419],"type":"Point"}
+  "bbox": [
+    77.3311,
+    11.142419,
+    77.3311,
+    11.142419
+],
+  "geometry": {"coordinates":[77.33110000000001,11.142419],"type":"Point"}
 }

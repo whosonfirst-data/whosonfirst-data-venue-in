@@ -2,13 +2,14 @@
   "id": 169603115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.717781,30.7176,76.717781,30.7176",
     "geom:latitude":30.7176,
     "geom:longitude":76.717781,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No.2907, Phase Iv, G.i.d.c.,",
     "sg:city":"Vapi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169603115,
-    "wof:lastmodified":1449035452,
+    "wof:lastmodified":1466288813,
     "wof:name":"Pragna Organics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [76.717781,30.7176,76.717781,30.7176],
+  "bbox": [
+    76.717781,
+    30.7176,
+    76.717781,
+    30.7176
+],
   "geometry": {"coordinates":[76.717781,30.7176],"type":"Point"}
 }

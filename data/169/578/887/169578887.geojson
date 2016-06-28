@@ -2,13 +2,14 @@
   "id": 169578887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.06472,28.619104,77.06472,28.619104",
     "geom:latitude":28.619104,
     "geom:longitude":77.06472,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"A - 107/1 Hastsal Village, Uttam Nagar,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169578887,
-    "wof:lastmodified":1449033521,
+    "wof:lastmodified":1466288805,
     "wof:name":"Himalayan Poly Colours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chemicals-additives"
     ]
 },
-  "bbox": [77.06472,28.619104,77.06472,28.619104],
-  "geometry": {"coordinates":[77.06472,28.619104],"type":"Point"}
+  "bbox": [
+    77.06472,
+    28.619104,
+    77.06472,
+    28.619104
+],
+  "geometry": {"coordinates":[77.06471999999999,28.619104],"type":"Point"}
 }

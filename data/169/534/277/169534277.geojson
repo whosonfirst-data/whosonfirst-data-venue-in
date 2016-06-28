@@ -2,13 +2,14 @@
   "id": 169534277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.867935,19.17378,72.867935,19.17378",
     "geom:latitude":19.17378,
     "geom:longitude":72.867935,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"G-23, Gokuldham S.c, Gokuldham, Goregaon (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169534277,
-    "wof:lastmodified":1449033547,
+    "wof:lastmodified":1466288623,
     "wof:name":"Market Movers Exports (i) Pvt. Ltd.",
     "wof:parent_id":85931525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.867935,19.17378,72.867935,19.17378],
+  "bbox": [
+    72.867935,
+    19.17378,
+    72.867935,
+    19.17378
+],
   "geometry": {"coordinates":[72.867935,19.17378],"type":"Point"}
 }

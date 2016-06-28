@@ -2,13 +2,14 @@
   "id": 169528279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.828377,18.947071,72.828377,18.947071",
     "geom:latitude":18.947071,
     "geom:longitude":72.828377,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"200-206, Panjrapole Road, Near Post Office,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169528279,
-    "wof:lastmodified":1449033570,
+    "wof:lastmodified":1466288681,
     "wof:name":"Nathalal Moortiwala & Sons",
     "wof:parent_id":85931439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "brick"
     ]
 },
-  "bbox": [72.828377,18.947071,72.828377,18.947071],
+  "bbox": [
+    72.828377,
+    18.947071,
+    72.828377,
+    18.947071
+],
   "geometry": {"coordinates":[72.828377,18.947071],"type":"Point"}
 }

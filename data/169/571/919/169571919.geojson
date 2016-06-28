@@ -2,13 +2,14 @@
   "id": 169571919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.359352,22.523054,88.359352,22.523054",
     "geom:latitude":22.523054,
     "geom:longitude":88.359352,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Dover Terrace",
     "sg:city":"Kolkata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571919,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1466288781,
     "wof:name":"Pure Link Foods",
     "wof:parent_id":85903789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [88.359352,22.523054,88.359352,22.523054],
+  "bbox": [
+    88.359352,
+    22.523054,
+    88.359352,
+    22.523054
+],
   "geometry": {"coordinates":[88.359352,22.523054],"type":"Point"}
 }

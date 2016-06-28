@@ -2,13 +2,14 @@
   "id": 169579265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.349487,22.539923,88.349487,22.539923",
     "geom:latitude":22.539923,
     "geom:longitude":88.349487,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"10 A, Lee Rd.,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169579265,
-    "wof:lastmodified":1449033741,
+    "wof:lastmodified":1466288783,
     "wof:name":"Iesi",
     "wof:parent_id":85931935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "explosive"
     ]
 },
-  "bbox": [88.349487,22.539923,88.349487,22.539923],
+  "bbox": [
+    88.349487,
+    22.539923,
+    88.349487,
+    22.539923
+],
   "geometry": {"coordinates":[88.349487,22.539923],"type":"Point"}
 }

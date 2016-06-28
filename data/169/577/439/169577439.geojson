@@ -2,13 +2,14 @@
   "id": 169577439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.234337,13.095944,80.234337,13.095944",
     "geom:latitude":13.095944,
     "geom:longitude":80.234337,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"18/16, Rangappa Street, Ayanavaram,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169577439,
-    "wof:lastmodified":1449036064,
+    "wof:lastmodified":1466288783,
     "wof:name":"Global Exim",
     "wof:parent_id":85903819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salt"
     ]
 },
-  "bbox": [80.234337,13.095944,80.234337,13.095944],
+  "bbox": [
+    80.234337,
+    13.095944,
+    80.234337,
+    13.095944
+],
   "geometry": {"coordinates":[80.234337,13.095944],"type":"Point"}
 }

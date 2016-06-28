@@ -2,13 +2,14 @@
   "id": 169637505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.142319,28.696533,77.142319,28.696533",
     "geom:latitude":28.696533,
     "geom:longitude":77.142319,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"E-27, Udyog Kunj, Indl. Area,",
     "sg:city":"Ghaziabad",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169637505,
-    "wof:lastmodified":1449032689,
+    "wof:lastmodified":1466288845,
     "wof:name":"Triveni Enterprises",
     "wof:parent_id":85928043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.142319,28.696533,77.142319,28.696533],
+  "bbox": [
+    77.142319,
+    28.696533,
+    77.142319,
+    28.696533
+],
   "geometry": {"coordinates":[77.142319,28.696533],"type":"Point"}
 }

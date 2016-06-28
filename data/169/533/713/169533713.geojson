@@ -2,13 +2,14 @@
   "id": 169533713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.835426,18.936367,72.835426,18.936367",
     "geom:latitude":18.936367,
     "geom:longitude":72.835426,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"18/20, Bora Bazar, 2nd Floor, Fort,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169533713,
-    "wof:lastmodified":1449032644,
+    "wof:lastmodified":1466288868,
     "wof:name":"Stick Promotion",
     "wof:parent_id":85903853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "diary"
     ]
 },
-  "bbox": [72.835426,18.936367,72.835426,18.936367],
+  "bbox": [
+    72.835426,
+    18.936367,
+    72.835426,
+    18.936367
+],
   "geometry": {"coordinates":[72.835426,18.936367],"type":"Point"}
 }

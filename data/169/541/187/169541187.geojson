@@ -2,13 +2,14 @@
   "id": 169541187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.795761,21.197405,72.795761,21.197405",
     "geom:latitude":21.197405,
     "geom:longitude":72.795761,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#108, 1st Floor, Anand Complex, C.t. Street,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169541187,
-    "wof:lastmodified":1449033039,
+    "wof:lastmodified":1466288645,
     "wof:name":"Vijeta Jewellers",
     "wof:parent_id":85933495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "silver"
     ]
 },
-  "bbox": [72.795761,21.197405,72.795761,21.197405],
+  "bbox": [
+    72.795761,
+    21.197405,
+    72.795761,
+    21.197405
+],
   "geometry": {"coordinates":[72.795761,21.197405],"type":"Point"}
 }

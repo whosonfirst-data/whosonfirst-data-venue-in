@@ -2,13 +2,14 @@
   "id": 169560077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.648834,28.920692,77.648834,28.920692",
     "geom:latitude":28.920692,
     "geom:longitude":77.648834,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Delhi Road, Partapur,",
     "sg:city":"Meerut",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169560077,
-    "wof:lastmodified":1449035179,
+    "wof:lastmodified":1466288704,
     "wof:name":"Dayal Fertilizers (p) Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [77.648834,28.920692,77.648834,28.920692],
-  "geometry": {"coordinates":[77.648834,28.920692],"type":"Point"}
+  "bbox": [
+    77.648834,
+    28.920692,
+    77.648834,
+    28.920692
+],
+  "geometry": {"coordinates":[77.64883399999999,28.920692],"type":"Point"}
 }

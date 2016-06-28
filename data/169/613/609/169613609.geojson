@@ -2,13 +2,14 @@
   "id": 169613609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.124069,28.739084,77.124069,28.739084",
     "geom:latitude":28.739084,
     "geom:longitude":77.124069,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"F-4/245, Sector 16, Rohini,",
     "sg:city":"Delhi",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169613609,
-    "wof:lastmodified":1449034213,
+    "wof:lastmodified":1466288825,
     "wof:name":"S. S. Fabrication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "processing"
     ]
 },
-  "bbox": [77.124069,28.739084,77.124069,28.739084],
-  "geometry": {"coordinates":[77.124069,28.739084],"type":"Point"}
+  "bbox": [
+    77.124069,
+    28.739084,
+    77.124069,
+    28.739084
+],
+  "geometry": {"coordinates":[77.12406900000001,28.739084],"type":"Point"}
 }

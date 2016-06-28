@@ -2,13 +2,14 @@
   "id": 169528639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.82653,18.983915,72.82653,18.983915",
     "geom:latitude":18.983915,
     "geom:longitude":72.82653,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"E Moses Road, Worli, Mumbai",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169528639,
-    "wof:lastmodified":1449033571,
+    "wof:lastmodified":1466288687,
     "wof:name":"Kopran Limited",
     "wof:parent_id":85903827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bulk"
     ]
 },
-  "bbox": [72.82653,18.983915,72.82653,18.983915],
-  "geometry": {"coordinates":[72.82653,18.983915],"type":"Point"}
+  "bbox": [
+    72.82653,
+    18.983915,
+    72.82653,
+    18.983915
+],
+  "geometry": {"coordinates":[72.82653000000001,18.983915],"type":"Point"}
 }

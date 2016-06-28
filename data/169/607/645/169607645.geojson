@@ -2,13 +2,14 @@
   "id": 169607645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.232796,28.654667,77.232796,28.654667",
     "geom:latitude":28.654667,
     "geom:longitude":77.232796,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 1818, 1819 Near Crystal Square, G.i.d.c. Estate,",
     "sg:city":"Ankleshwar",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169607645,
-    "wof:lastmodified":1449033122,
+    "wof:lastmodified":1466288820,
     "wof:name":"Rajesh Chemical Industries",
     "wof:parent_id":85928099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "intermediate"
     ]
 },
-  "bbox": [77.232796,28.654667,77.232796,28.654667],
-  "geometry": {"coordinates":[77.232796,28.654667],"type":"Point"}
+  "bbox": [
+    77.232796,
+    28.654667,
+    77.232796,
+    28.654667
+],
+  "geometry": {"coordinates":[77.23279599999999,28.654667],"type":"Point"}
 }

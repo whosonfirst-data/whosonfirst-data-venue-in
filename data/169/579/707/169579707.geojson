@@ -2,13 +2,14 @@
   "id": 169579707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.162895,28.649691,77.162895,28.649691",
     "geom:latitude":28.649691,
     "geom:longitude":77.162895,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"36/1, West Patel Nagar,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169579707,
-    "wof:lastmodified":1449033741,
+    "wof:lastmodified":1466288799,
     "wof:name":"Indo Sales (india)",
     "wof:parent_id":85927901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solvent"
     ]
 },
-  "bbox": [77.162895,28.649691,77.162895,28.649691],
-  "geometry": {"coordinates":[77.162895,28.649691],"type":"Point"}
+  "bbox": [
+    77.162895,
+    28.649691,
+    77.162895,
+    28.649691
+],
+  "geometry": {"coordinates":[77.16289500000001,28.649691],"type":"Point"}
 }

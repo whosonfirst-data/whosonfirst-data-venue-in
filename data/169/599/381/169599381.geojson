@@ -2,13 +2,14 @@
   "id": 169599381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.820618,18.924555,72.820618,18.924555",
     "geom:latitude":18.924555,
     "geom:longitude":72.820618,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"502, Arcadia, Nariman Point,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169599381,
-    "wof:lastmodified":1449034204,
+    "wof:lastmodified":1466288812,
     "wof:name":"Pasupati Acrylon Ltd.",
     "wof:parent_id":85931461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "intermediate"
     ]
 },
-  "bbox": [72.820618,18.924555,72.820618,18.924555],
+  "bbox": [
+    72.820618,
+    18.924555,
+    72.820618,
+    18.924555
+],
   "geometry": {"coordinates":[72.820618,18.924555],"type":"Point"}
 }

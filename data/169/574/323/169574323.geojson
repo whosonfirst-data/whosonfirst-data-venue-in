@@ -2,13 +2,14 @@
   "id": 169574323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.473061,17.37701,78.473061,17.37701",
     "geom:latitude":17.37701,
     "geom:longitude":78.473061,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Old Feelkhana",
     "sg:city":"Hyderabad",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169574323,
-    "wof:lastmodified":1449032661,
+    "wof:lastmodified":1466288752,
     "wof:name":"Batco Roadways",
     "wof:parent_id":85930737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.473061,17.37701,78.473061,17.37701],
+  "bbox": [
+    78.473061,
+    17.37701,
+    78.473061,
+    17.37701
+],
   "geometry": {"coordinates":[78.473061,17.37701],"type":"Point"}
 }

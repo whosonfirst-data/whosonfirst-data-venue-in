@@ -2,13 +2,14 @@
   "id": 169555481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.568954,12.996843,77.568954,12.996843",
     "geom:latitude":12.996843,
     "geom:longitude":77.568954,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Malleswaram Circle, Malleswaram",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169555481,
-    "wof:lastmodified":1449035496,
+    "wof:lastmodified":1466288709,
     "wof:name":"Compuage Infocom Ltd",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.568954,12.996843,77.568954,12.996843],
-  "geometry": {"coordinates":[77.568954,12.996843],"type":"Point"}
+  "bbox": [
+    77.568954,
+    12.996843,
+    77.568954,
+    12.996843
+],
+  "geometry": {"coordinates":[77.56895400000001,12.996843],"type":"Point"}
 }

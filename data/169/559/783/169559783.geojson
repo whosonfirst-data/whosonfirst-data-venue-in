@@ -2,13 +2,14 @@
   "id": 169559783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.428535,22.639385,88.428535,22.639385",
     "geom:latitude":22.639385,
     "geom:longitude":88.428535,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"458/2, Jessore Road,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169559783,
-    "wof:lastmodified":1449035237,
+    "wof:lastmodified":1466288752,
     "wof:name":"Crompton Rubber Products",
     "wof:parent_id":85931993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [88.428535,22.639385,88.428535,22.639385],
+  "bbox": [
+    88.428535,
+    22.639385,
+    88.428535,
+    22.639385
+],
   "geometry": {"coordinates":[88.428535,22.639385],"type":"Point"}
 }

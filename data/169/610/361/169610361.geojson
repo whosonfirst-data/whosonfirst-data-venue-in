@@ -2,13 +2,14 @@
   "id": 169610361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.282372,13.092222,80.282372,13.092222",
     "geom:latitude":13.092222,
     "geom:longitude":80.282372,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"49, Audiappa Naicken Street, 2nd Floor, Sowcarpet,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169610361,
-    "wof:lastmodified":1449035910,
+    "wof:lastmodified":1466288822,
     "wof:name":"Reliable Petro Chemicals",
     "wof:parent_id":85931765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acid"
     ]
 },
-  "bbox": [80.282372,13.092222,80.282372,13.092222],
+  "bbox": [
+    80.282372,
+    13.092222,
+    80.282372,
+    13.092222
+],
   "geometry": {"coordinates":[80.282372,13.092222],"type":"Point"}
 }

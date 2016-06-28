@@ -2,13 +2,14 @@
   "id": 169543043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.580421,12.923445,77.580421,12.923445",
     "geom:latitude":12.923445,
     "geom:longitude":77.580421,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#65/10, 36th A Cross, 4th T Block, Jayanagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169543043,
-    "wof:lastmodified":1449033336,
+    "wof:lastmodified":1466288637,
     "wof:name":"Usbah Electricals And Telecommunications Projects Pvt. Ltd.",
     "wof:parent_id":85930887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "telecommunication"
     ]
 },
-  "bbox": [77.580421,12.923445,77.580421,12.923445],
+  "bbox": [
+    77.580421,
+    12.923445,
+    77.580421,
+    12.923445
+],
   "geometry": {"coordinates":[77.580421,12.923445],"type":"Point"}
 }

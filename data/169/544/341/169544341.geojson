@@ -2,13 +2,14 @@
   "id": 169544341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.628456,12.906845,77.628456,12.906845",
     "geom:latitude":12.906845,
     "geom:longitude":77.628456,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"26/2, Begur Road, Hongasndra,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169544341,
-    "wof:lastmodified":1449035965,
+    "wof:lastmodified":1466288655,
     "wof:name":"Adithya Trading Corporation",
     "wof:parent_id":85930853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "stabilizer"
     ]
 },
-  "bbox": [77.628456,12.906845,77.628456,12.906845],
+  "bbox": [
+    77.628456,
+    12.906845,
+    77.628456,
+    12.906845
+],
   "geometry": {"coordinates":[77.628456,12.906845],"type":"Point"}
 }

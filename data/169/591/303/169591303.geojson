@@ -2,13 +2,14 @@
   "id": 169591303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.586708,12.958899,77.586708,12.958899",
     "geom:latitude":12.958899,
     "geom:longitude":77.586708,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 55, Lal Bagh Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169591303,
-    "wof:lastmodified":1449034450,
+    "wof:lastmodified":1466288802,
     "wof:name":"Mukesh Enterprises",
     "wof:parent_id":85930903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.586708,12.958899,77.586708,12.958899],
+  "bbox": [
+    77.586708,
+    12.958899,
+    77.586708,
+    12.958899
+],
   "geometry": {"coordinates":[77.586708,12.958899],"type":"Point"}
 }

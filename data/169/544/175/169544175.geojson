@@ -2,13 +2,14 @@
   "id": 169544175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.541878,13.057908,77.541878,13.057908",
     "geom:latitude":13.057908,
     "geom:longitude":77.541878,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Jalahally,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169544175,
-    "wof:lastmodified":1449035964,
+    "wof:lastmodified":1466288646,
     "wof:name":"Bel Passive Vacuum Devices",
     "wof:parent_id":85903877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vacuum"
     ]
 },
-  "bbox": [77.541878,13.057908,77.541878,13.057908],
+  "bbox": [
+    77.541878,
+    13.057908,
+    77.541878,
+    13.057908
+],
   "geometry": {"coordinates":[77.541878,13.057908],"type":"Point"}
 }

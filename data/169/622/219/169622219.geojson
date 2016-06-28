@@ -2,13 +2,14 @@
   "id": 169622219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.826622,18.941929,72.826622,18.941929",
     "geom:latitude":18.941929,
     "geom:longitude":72.826622,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"113-c, Chruchgate Chamber, 5, New Marine Lines,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169622219,
-    "wof:lastmodified":1449035368,
+    "wof:lastmodified":1466288829,
     "wof:name":"Shri Chamunda Chemical Co.",
     "wof:parent_id":85903889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [72.826622,18.941929,72.826622,18.941929],
+  "bbox": [
+    72.826622,
+    18.941929,
+    72.826622,
+    18.941929
+],
   "geometry": {"coordinates":[72.826622,18.941929],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169561721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.279366,13.086493,80.279366,13.086493",
     "geom:latitude":13.086493,
     "geom:longitude":80.279366,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"West Perumal Maistry Street",
     "sg:city":"Madurai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169561721,
-    "wof:lastmodified":1449035021,
+    "wof:lastmodified":1466288728,
     "wof:name":"Hotel Supreme",
     "wof:parent_id":85931765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.279366,13.086493,80.279366,13.086493],
+  "bbox": [
+    80.279366,
+    13.086493,
+    80.279366,
+    13.086493
+],
   "geometry": {"coordinates":[80.279366,13.086493],"type":"Point"}
 }

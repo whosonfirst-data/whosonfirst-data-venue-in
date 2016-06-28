@@ -2,13 +2,14 @@
   "id": 169558459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.649765,12.959633,77.649765,12.959633",
     "geom:latitude":12.959633,
     "geom:longitude":77.649765,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Rustom Bagh, Airport Road",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169558459,
-    "wof:lastmodified":1449033581,
+    "wof:lastmodified":1466288722,
     "wof:name":"Vmoksha Technologies Pvt Ltd",
     "wof:parent_id":85931079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.649765,12.959633,77.649765,12.959633],
+  "bbox": [
+    77.649765,
+    12.959633,
+    77.649765,
+    12.959633
+],
   "geometry": {"coordinates":[77.649765,12.959633],"type":"Point"}
 }

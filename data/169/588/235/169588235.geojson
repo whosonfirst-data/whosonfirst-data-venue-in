@@ -2,13 +2,14 @@
   "id": 169588235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.162895,28.523521,77.162895,28.523521",
     "geom:latitude":28.523521,
     "geom:longitude":77.162895,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"4384, Sector-b, Pocket 5 & 6, Vasant Kunj,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169588235,
-    "wof:lastmodified":1449035308,
+    "wof:lastmodified":1466288790,
     "wof:name":"Mayur Uniquoters Ltd.",
     "wof:parent_id":85903905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.162895,28.523521,77.162895,28.523521],
-  "geometry": {"coordinates":[77.162895,28.523521],"type":"Point"}
+  "bbox": [
+    77.162895,
+    28.523521,
+    77.162895,
+    28.523521
+],
+  "geometry": {"coordinates":[77.16289500000001,28.523521],"type":"Point"}
 }

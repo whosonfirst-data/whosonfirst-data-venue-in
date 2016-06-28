@@ -2,13 +2,14 @@
   "id": 169540627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.646141,13.019475,77.646141,13.019475",
     "geom:latitude":13.019475,
     "geom:longitude":77.646141,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#1/18, 1st Floor, 4th Cross, S.g. Palya,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169540627,
-    "wof:lastmodified":1449033978,
+    "wof:lastmodified":1466288664,
     "wof:name":"A.v. Exporterss",
     "wof:parent_id":85931031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "silk"
     ]
 },
-  "bbox": [77.646141,13.019475,77.646141,13.019475],
+  "bbox": [
+    77.646141,
+    13.019475,
+    77.646141,
+    13.019475
+],
   "geometry": {"coordinates":[77.646141,13.019475],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169604269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.286125,28.683308,77.286125,28.683308",
     "geom:latitude":28.683308,
     "geom:longitude":77.286125,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1/7200, Shivaji Park, Shahdara,",
     "sg:city":"Delhi",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169604269,
-    "wof:lastmodified":1449035570,
+    "wof:lastmodified":1466288814,
     "wof:name":"Prime Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "adhesive"
     ]
 },
-  "bbox": [77.286125,28.683308,77.286125,28.683308],
+  "bbox": [
+    77.286125,
+    28.683308,
+    77.286125,
+    28.683308
+],
   "geometry": {"coordinates":[77.286125,28.683308],"type":"Point"}
 }

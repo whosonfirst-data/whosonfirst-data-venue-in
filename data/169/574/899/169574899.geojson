@@ -2,13 +2,14 @@
   "id": 169574899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.145638,28.653767,77.145638,28.653767",
     "geom:latitude":28.653767,
     "geom:longitude":77.145638,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirti Nagar",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169574899,
-    "wof:lastmodified":1449032667,
+    "wof:lastmodified":1466288782,
     "wof:name":"Modem Equipment & Services",
     "wof:parent_id":85927889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.145638,28.653767,77.145638,28.653767],
-  "geometry": {"coordinates":[77.145638,28.653767],"type":"Point"}
+  "bbox": [
+    77.145638,
+    28.653767,
+    77.145638,
+    28.653767
+],
+  "geometry": {"coordinates":[77.14563800000001,28.653767],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169583599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.31134,28.410011,77.31134,28.410011",
     "geom:latitude":28.410011,
     "geom:longitude":77.31134,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"21/3, Mathura Road,",
     "sg:city":"Ballabgarh",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169583599,
-    "wof:lastmodified":1449035266,
+    "wof:lastmodified":1466288791,
     "wof:name":"Kriti Chem (i) Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.31134,28.410011,77.31134,28.410011],
+  "bbox": [
+    77.31134,
+    28.410011,
+    77.31134,
+    28.410011
+],
   "geometry": {"coordinates":[77.31134,28.410011],"type":"Point"}
 }

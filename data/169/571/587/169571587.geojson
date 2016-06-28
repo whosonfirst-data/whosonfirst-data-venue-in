@@ -2,13 +2,14 @@
   "id": 169571587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.001747,28.46213,77.001747,28.46213",
     "geom:latitude":28.46213,
     "geom:longitude":77.001747,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sector 9",
     "sg:city":"Faridabad",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169571587,
-    "wof:lastmodified":1449034946,
+    "wof:lastmodified":1466288764,
     "wof:name":"Ite Engineers Pvt Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.001747,28.46213,77.001747,28.46213],
-  "geometry": {"coordinates":[77.001747,28.46213],"type":"Point"}
+  "bbox": [
+    77.001747,
+    28.46213,
+    77.001747,
+    28.46213
+],
+  "geometry": {"coordinates":[77.00174699999999,28.46213],"type":"Point"}
 }

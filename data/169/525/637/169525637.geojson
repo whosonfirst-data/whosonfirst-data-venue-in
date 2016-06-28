@@ -2,13 +2,14 @@
   "id": 169525637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.831917,19.072819,72.831917,19.072819",
     "geom:latitude":19.072819,
     "geom:longitude":72.831917,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"D-94, 15th Road, Chembur,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169525637,
-    "wof:lastmodified":1449035272,
+    "wof:lastmodified":1466288618,
     "wof:name":"Taskar Chemicals Private Limited",
     "wof:parent_id":85931493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acid"
     ]
 },
-  "bbox": [72.831917,19.072819,72.831917,19.072819],
+  "bbox": [
+    72.831917,
+    19.072819,
+    72.831917,
+    19.072819
+],
   "geometry": {"coordinates":[72.831917,19.072819],"type":"Point"}
 }

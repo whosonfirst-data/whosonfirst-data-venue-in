@@ -2,13 +2,14 @@
   "id": 169568785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.607933,12.967108,77.607933,12.967108",
     "geom:latitude":12.967108,
     "geom:longitude":77.607933,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Wood Street",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169568785,
-    "wof:lastmodified":1449032611,
+    "wof:lastmodified":1466288767,
     "wof:name":"Mac Industries Ltd",
     "wof:parent_id":85930841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.607933,12.967108,77.607933,12.967108],
+  "bbox": [
+    77.607933,
+    12.967108,
+    77.607933,
+    12.967108
+],
   "geometry": {"coordinates":[77.607933,12.967108],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169567459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.249855,28.526787,77.249855,28.526787",
     "geom:latitude":28.526787,
     "geom:longitude":77.249855,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Alaknanda",
     "sg:city":"Delhi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169567459,
-    "wof:lastmodified":1449035995,
+    "wof:lastmodified":1466288737,
     "wof:name":"Campari",
     "wof:parent_id":85927969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.249855,28.526787,77.249855,28.526787],
+  "bbox": [
+    77.249855,
+    28.526787,
+    77.249855,
+    28.526787
+],
   "geometry": {"coordinates":[77.249855,28.526787],"type":"Point"}
 }

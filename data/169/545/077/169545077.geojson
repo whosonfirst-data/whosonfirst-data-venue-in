@@ -2,13 +2,14 @@
   "id": 169545077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.591866,13.047576,77.591866,13.047576",
     "geom:latitude":13.047576,
     "geom:longitude":77.591866,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#326, Bellary Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169545077,
-    "wof:lastmodified":1449033483,
+    "wof:lastmodified":1466288641,
     "wof:name":"Rk Polysacks Private Limited",
     "wof:parent_id":85931095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woven"
     ]
 },
-  "bbox": [77.591866,13.047576,77.591866,13.047576],
+  "bbox": [
+    77.591866,
+    13.047576,
+    77.591866,
+    13.047576
+],
   "geometry": {"coordinates":[77.591866,13.047576],"type":"Point"}
 }

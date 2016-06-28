@@ -2,13 +2,14 @@
   "id": 169576529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.368217,22.515085,88.368217,22.515085",
     "geom:latitude":22.515085,
     "geom:longitude":88.368217,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"82/8, Ballygunge Place,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169576529,
-    "wof:lastmodified":1449035197,
+    "wof:lastmodified":1466288761,
     "wof:name":"Eximcorp",
     "wof:parent_id":85931927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "adhesive"
     ]
 },
-  "bbox": [88.368217,22.515085,88.368217,22.515085],
+  "bbox": [
+    88.368217,
+    22.515085,
+    88.368217,
+    22.515085
+],
   "geometry": {"coordinates":[88.368217,22.515085],"type":"Point"}
 }

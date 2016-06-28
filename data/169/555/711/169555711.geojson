@@ -2,13 +2,14 @@
   "id": 169555711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.842041,19.199247,72.842041,19.199247",
     "geom:latitude":19.199247,
     "geom:longitude":72.842041,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Shankar Lane, Kandivli (w)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169555711,
-    "wof:lastmodified":1449035496,
+    "wof:lastmodified":1466288721,
     "wof:name":"Mira Inform Pvt Ltd",
     "wof:parent_id":85931619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.842041,19.199247,72.842041,19.199247],
-  "geometry": {"coordinates":[72.842041,19.199247],"type":"Point"}
+  "bbox": [
+    72.842041,
+    19.199247,
+    72.842041,
+    19.199247
+],
+  "geometry": {"coordinates":[72.84204099999999,19.199247],"type":"Point"}
 }

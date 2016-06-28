@@ -2,13 +2,14 @@
   "id": 169560125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.202614,28.675169,77.202614,28.675169",
     "geom:latitude":28.675169,
     "geom:longitude":77.202614,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"5836/32, 1st Flr., Basti Harphool Singh,",
     "sg:city":"Delhi",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169560125,
-    "wof:lastmodified":1449035181,
+    "wof:lastmodified":1466288708,
     "wof:name":"Deepak Traders",
     "wof:parent_id":85903953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wax"
     ]
 },
-  "bbox": [77.202614,28.675169,77.202614,28.675169],
+  "bbox": [
+    77.202614,
+    28.675169,
+    77.202614,
+    28.675169
+],
   "geometry": {"coordinates":[77.202614,28.675169],"type":"Point"}
 }

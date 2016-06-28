@@ -2,13 +2,14 @@
   "id": 169530373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.870155,19.294163,72.870155,19.294163",
     "geom:latitude":19.294163,
     "geom:longitude":72.870155,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B-10, Rashmi Bldg., S V P Rd., Borivali (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169530373,
-    "wof:lastmodified":1449034443,
+    "wof:lastmodified":1466288679,
     "wof:name":"C M Computer",
     "wof:parent_id":85931413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.870155,19.294163,72.870155,19.294163],
+  "bbox": [
+    72.870155,
+    19.294163,
+    72.870155,
+    19.294163
+],
   "geometry": {"coordinates":[72.870155,19.294163],"type":"Point"}
 }

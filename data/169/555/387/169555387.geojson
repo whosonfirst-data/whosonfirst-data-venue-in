@@ -2,13 +2,14 @@
   "id": 169555387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.822281,18.945198,72.822281,18.945198",
     "geom:latitude":18.945198,
     "geom:longitude":72.822281,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Marine Drive",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169555387,
-    "wof:lastmodified":1449035495,
+    "wof:lastmodified":1466288704,
     "wof:name":"S Kumars Nationwide Ltd",
     "wof:parent_id":85903889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.822281,18.945198,72.822281,18.945198],
+  "bbox": [
+    72.822281,
+    18.945198,
+    72.822281,
+    18.945198
+],
   "geometry": {"coordinates":[72.822281,18.945198],"type":"Point"}
 }

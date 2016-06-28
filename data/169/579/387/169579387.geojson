@@ -2,13 +2,14 @@
   "id": 169579387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.737488,19.960199,73.737488,19.960199",
     "geom:latitude":19.960199,
     "geom:longitude":73.737488,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"F-5, Midc, Ambad,",
     "sg:city":"Nashik",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169579387,
-    "wof:lastmodified":1449033743,
+    "wof:lastmodified":1466288788,
     "wof:name":"Imperial & Osaka Medical Co. (i) Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resin"
     ]
 },
-  "bbox": [73.737488,19.960199,73.737488,19.960199],
+  "bbox": [
+    73.737488,
+    19.960199,
+    73.737488,
+    19.960199
+],
   "geometry": {"coordinates":[73.737488,19.960199],"type":"Point"}
 }

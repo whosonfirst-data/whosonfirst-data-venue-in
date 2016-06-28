@@ -2,13 +2,14 @@
   "id": 169607221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.336746,28.68775,77.336746,28.68775",
     "geom:latitude":28.68775,
     "geom:longitude":77.336746,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"E-55, 2nd Floor, South Extn.-i,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169607221,
-    "wof:lastmodified":1449033122,
+    "wof:lastmodified":1466288815,
     "wof:name":"Radhakishan Enterprises Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "carbon"
     ]
 },
-  "bbox": [77.336746,28.68775,77.336746,28.68775],
-  "geometry": {"coordinates":[77.336746,28.68775],"type":"Point"}
+  "bbox": [
+    77.336746,
+    28.68775,
+    77.336746,
+    28.68775
+],
+  "geometry": {"coordinates":[77.33674600000001,28.68775],"type":"Point"}
 }

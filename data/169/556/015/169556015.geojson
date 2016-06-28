@@ -2,13 +2,14 @@
   "id": 169556015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.35643,22.536383,88.35643,22.536383",
     "geom:latitude":22.536383,
     "geom:longitude":88.35643,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Rowland Road",
     "sg:city":"Kolkata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169556015,
-    "wof:lastmodified":1449033506,
+    "wof:lastmodified":1466288693,
     "wof:name":"Beekay Niryat Pvt Ltd",
     "wof:parent_id":85931935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [88.35643,22.536383,88.35643,22.536383],
+  "bbox": [
+    88.35643,
+    22.536383,
+    88.35643,
+    22.536383
+],
   "geometry": {"coordinates":[88.35643,22.536383],"type":"Point"}
 }

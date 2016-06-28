@@ -2,13 +2,14 @@
   "id": 169631737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.541245,13.034839,77.541245,13.034839",
     "geom:latitude":13.034839,
     "geom:longitude":77.541245,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"303, Mes Road, Jalahalli,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169631737,
-    "wof:lastmodified":1449033707,
+    "wof:lastmodified":1466288841,
     "wof:name":"Supreme Rubber Industries",
     "wof:parent_id":85930975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.541245,13.034839,77.541245,13.034839],
+  "bbox": [
+    77.541245,
+    13.034839,
+    77.541245,
+    13.034839
+],
   "geometry": {"coordinates":[77.541245,13.034839],"type":"Point"}
 }

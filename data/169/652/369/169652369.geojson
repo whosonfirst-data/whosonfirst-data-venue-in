@@ -2,13 +2,14 @@
   "id": 169652369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.940725,19.117874,72.940725,19.117874",
     "geom:latitude":19.117874,
     "geom:longitude":72.940725,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"D-207 Second Floor International Infotech Centre CBD Belapur",
     "sg:city":"Navi Mumbai",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169652369,
-    "wof:lastmodified":1449034810,
+    "wof:lastmodified":1466288854,
     "wof:name":"Accentia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.940725,19.117874,72.940725,19.117874],
+  "bbox": [
+    72.940725,
+    19.117874,
+    72.940725,
+    19.117874
+],
   "geometry": {"coordinates":[72.940725,19.117874],"type":"Point"}
 }

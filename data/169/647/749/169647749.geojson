@@ -2,13 +2,14 @@
   "id": 169647749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.249519,28.545706,77.249519,28.545706",
     "geom:latitude":28.545706,
     "geom:longitude":77.249519,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"11/8, Nehru Encalve (east), First Floor,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169647749,
-    "wof:lastmodified":1449034239,
+    "wof:lastmodified":1466288856,
     "wof:name":"Zavenir Daubert India Private Limited",
     "wof:parent_id":85928369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "corrosion"
     ]
 },
-  "bbox": [77.249519,28.545706,77.249519,28.545706],
-  "geometry": {"coordinates":[77.249519,28.545706],"type":"Point"}
+  "bbox": [
+    77.249519,
+    28.545706,
+    77.249519,
+    28.545706
+],
+  "geometry": {"coordinates":[77.24951900000001,28.545706],"type":"Point"}
 }

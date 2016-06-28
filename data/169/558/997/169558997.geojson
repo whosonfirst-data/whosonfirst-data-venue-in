@@ -2,13 +2,14 @@
   "id": 169558997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.389076,22.583534,88.389076,22.583534",
     "geom:latitude":22.583534,
     "geom:longitude":88.389076,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Bidhan Nagar Road",
     "sg:city":"Kolkata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169558997,
-    "wof:lastmodified":1449033582,
+    "wof:lastmodified":1466288762,
     "wof:name":"Sashibhai Suklal Pvt Ltd",
     "wof:parent_id":85903805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [88.389076,22.583534,88.389076,22.583534],
+  "bbox": [
+    88.389076,
+    22.583534,
+    88.389076,
+    22.583534
+],
   "geometry": {"coordinates":[88.389076,22.583534],"type":"Point"}
 }

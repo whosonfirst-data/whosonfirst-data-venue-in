@@ -2,13 +2,14 @@
   "id": 169576021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.537689,17.366924,78.537689,17.366924",
     "geom:latitude":17.366924,
     "geom:longitude":78.537689,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"8-63,dilsukhnagar, Hyderabad",
     "sg:city":"Hyderabad",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169576021,
-    "wof:lastmodified":1449035198,
+    "wof:lastmodified":1466288892,
     "wof:name":"Bestdeal",
     "wof:parent_id":85930827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "adhesive"
     ]
 },
-  "bbox": [78.537689,17.366924,78.537689,17.366924],
+  "bbox": [
+    78.537689,
+    17.366924,
+    78.537689,
+    17.366924
+],
   "geometry": {"coordinates":[78.537689,17.366924],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169568553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.216751,28.517673,77.216751,28.517673",
     "geom:latitude":28.517673,
     "geom:longitude":77.216751,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"2nd Floor, Mehrauli Badarpur Road",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169568553,
-    "wof:lastmodified":1449032610,
+    "wof:lastmodified":1466288756,
     "wof:name":"Omam Consultants Pvt Ltd",
     "wof:parent_id":85928609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.216751,28.517673,77.216751,28.517673],
+  "bbox": [
+    77.216751,
+    28.517673,
+    77.216751,
+    28.517673
+],
   "geometry": {"coordinates":[77.216751,28.517673],"type":"Point"}
 }

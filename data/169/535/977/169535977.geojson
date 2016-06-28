@@ -2,13 +2,14 @@
   "id": 169535977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.90506,19.06007,72.90506,19.06007",
     "geom:latitude":19.06007,
     "geom:longitude":72.90506,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"H-5, N. G. Acharya Marg, Chembur (east),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169535977,
-    "wof:lastmodified":1449033289,
+    "wof:lastmodified":1466288644,
     "wof:name":"Devyani Embroideries",
     "wof:parent_id":85931501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.90506,19.06007,72.90506,19.06007],
-  "geometry": {"coordinates":[72.90506,19.06007],"type":"Point"}
+  "bbox": [
+    72.90506,
+    19.06007,
+    72.90506,
+    19.06007
+],
+  "geometry": {"coordinates":[72.90506000000001,19.06007],"type":"Point"}
 }

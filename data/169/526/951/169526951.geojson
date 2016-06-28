@@ -2,13 +2,14 @@
   "id": 169526951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.859169,19.04858,72.859169,19.04858",
     "geom:latitude":19.04858,
     "geom:longitude":72.859169,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"66/67, Gold Feild Plaza, Dharavi,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169526951,
-    "wof:lastmodified":1449033698,
+    "wof:lastmodified":1466288628,
     "wof:name":"Manik Leather Creations",
     "wof:parent_id":85931567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "-"
     ]
 },
-  "bbox": [72.859169,19.04858,72.859169,19.04858],
-  "geometry": {"coordinates":[72.859169,19.04858],"type":"Point"}
+  "bbox": [
+    72.859169,
+    19.04858,
+    72.859169,
+    19.04858
+],
+  "geometry": {"coordinates":[72.85916899999999,19.04858],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169569525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.292702,13.140673,80.292702,13.140673",
     "geom:latitude":13.140673,
     "geom:longitude":80.292702,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"N. S. C. Bose Road",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169569525,
-    "wof:lastmodified":1449035830,
+    "wof:lastmodified":1466288756,
     "wof:name":"Mahendra Agencies",
     "wof:parent_id":85931781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.292702,13.140673,80.292702,13.140673],
-  "geometry": {"coordinates":[80.292702,13.140673],"type":"Point"}
+  "bbox": [
+    80.292702,
+    13.140673,
+    80.292702,
+    13.140673
+],
+  "geometry": {"coordinates":[80.29270200000001,13.140673],"type":"Point"}
 }

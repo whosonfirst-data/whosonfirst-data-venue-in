@@ -2,13 +2,14 @@
   "id": 169564949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.569366,23.040087,72.569366,23.040087",
     "geom:latitude":23.040087,
     "geom:longitude":72.569366,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Ashram Road",
     "sg:city":"Ahmedabad",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169564949,
-    "wof:lastmodified":1449035765,
+    "wof:lastmodified":1466288725,
     "wof:name":"Steel - O - Chem Pvt Ltd",
     "wof:parent_id":85933465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.569366,23.040087,72.569366,23.040087],
+  "bbox": [
+    72.569366,
+    23.040087,
+    72.569366,
+    23.040087
+],
   "geometry": {"coordinates":[72.569366,23.040087],"type":"Point"}
 }

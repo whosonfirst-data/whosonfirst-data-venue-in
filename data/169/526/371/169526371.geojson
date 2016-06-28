@@ -2,13 +2,14 @@
   "id": 169526371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.64093,12.976018,77.64093,12.976018",
     "geom:latitude":12.976018,
     "geom:longitude":77.64093,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"105, M.s. Marg,r.no:10, Fort,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169526371,
-    "wof:lastmodified":1449033702,
+    "wof:lastmodified":1466288624,
     "wof:name":"Overseas Business Corporation",
     "wof:parent_id":85931151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "component"
     ]
 },
-  "bbox": [77.64093,12.976018,77.64093,12.976018],
+  "bbox": [
+    77.64093,
+    12.976018,
+    77.64093,
+    12.976018
+],
   "geometry": {"coordinates":[77.64093,12.976018],"type":"Point"}
 }

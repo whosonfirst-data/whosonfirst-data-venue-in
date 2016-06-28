@@ -2,13 +2,14 @@
   "id": 169548925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.133087,28.694988,77.133087,28.694988",
     "geom:latitude":28.694988,
     "geom:longitude":77.133087,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"G-337, Road No 12, Mia,",
     "sg:city":"Udaipur",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169548925,
-    "wof:lastmodified":1449034972,
+    "wof:lastmodified":1466288886,
     "wof:name":"Drive Controls",
     "wof:parent_id":85928043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "panel"
     ]
 },
-  "bbox": [77.133087,28.694988,77.133087,28.694988],
+  "bbox": [
+    77.133087,
+    28.694988,
+    77.133087,
+    28.694988
+],
   "geometry": {"coordinates":[77.133087,28.694988],"type":"Point"}
 }

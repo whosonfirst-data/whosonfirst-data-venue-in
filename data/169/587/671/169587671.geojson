@@ -2,13 +2,14 @@
   "id": 169587671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.37751,22.628782,88.37751,22.628782",
     "geom:latitude":22.628782,
     "geom:longitude":88.37751,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"11/2, Gopal Chatterjee Road,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169587671,
-    "wof:lastmodified":1449033820,
+    "wof:lastmodified":1466288793,
     "wof:name":"Maruti Impex",
     "wof:parent_id":85903795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [88.37751,22.628782,88.37751,22.628782],
+  "bbox": [
+    88.37751,
+    22.628782,
+    88.37751,
+    22.628782
+],
   "geometry": {"coordinates":[88.37751,22.628782],"type":"Point"}
 }

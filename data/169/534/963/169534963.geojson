@@ -2,13 +2,14 @@
   "id": 169534963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.475182,17.36648,78.475182,17.36648",
     "geom:latitude":17.36648,
     "geom:longitude":78.475182,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"75-c, Mohd Ali Rd.,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169534963,
-    "wof:lastmodified":1449033547,
+    "wof:lastmodified":1466288647,
     "wof:name":"S. B. Dungarpurwala & Co.",
     "wof:parent_id":85930797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electronic"
     ]
 },
-  "bbox": [78.475182,17.36648,78.475182,17.36648],
+  "bbox": [
+    78.475182,
+    17.36648,
+    78.475182,
+    17.36648
+],
   "geometry": {"coordinates":[78.475182,17.36648],"type":"Point"}
 }

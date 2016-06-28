@@ -2,13 +2,14 @@
   "id": 169534519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.853493,19.145826,72.853493,19.145826",
     "geom:latitude":19.145826,
     "geom:longitude":72.853493,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"17, Vakharia Industrial Estate, Ram Mandir Road, Goregaon (west),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169534519,
-    "wof:lastmodified":1449033552,
+    "wof:lastmodified":1466288874,
     "wof:name":"Eastern Enterprises",
     "wof:parent_id":85931507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [72.853493,19.145826,72.853493,19.145826],
+  "bbox": [
+    72.853493,
+    19.145826,
+    72.853493,
+    19.145826
+],
   "geometry": {"coordinates":[72.853493,19.145826],"type":"Point"}
 }

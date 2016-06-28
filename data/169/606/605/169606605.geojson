@@ -2,13 +2,14 @@
   "id": 169606605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.149223,13.117708,80.149223,13.117708",
     "geom:latitude":13.117708,
     "geom:longitude":80.149223,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"44/45, Industrial Estate, (north) Ambattur,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169606605,
-    "wof:lastmodified":1449033200,
+    "wof:lastmodified":1466288818,
     "wof:name":"R.r. Techno Mechanicals Pvt. Ltd.",
     "wof:parent_id":85904059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "processing"
     ]
 },
-  "bbox": [80.149223,13.117708,80.149223,13.117708],
-  "geometry": {"coordinates":[80.149223,13.117708],"type":"Point"}
+  "bbox": [
+    80.149223,
+    13.117708,
+    80.149223,
+    13.117708
+],
+  "geometry": {"coordinates":[80.14922300000001,13.117708],"type":"Point"}
 }

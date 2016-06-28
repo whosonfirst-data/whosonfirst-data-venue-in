@@ -2,13 +2,14 @@
   "id": 169534591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.8545,19.161535,72.8545,19.161535",
     "geom:latitude":19.161535,
     "geom:longitude":72.8545,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Sati Industrial Estate, I.b. Patel Road, Goregaon (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169534591,
-    "wof:lastmodified":1449033548,
+    "wof:lastmodified":1466288631,
     "wof:name":"Aerolite Industries",
     "wof:parent_id":85931563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [72.8545,19.161535,72.8545,19.161535],
+  "bbox": [
+    72.8545,
+    19.161535,
+    72.8545,
+    19.161535
+],
   "geometry": {"coordinates":[72.8545,19.161535],"type":"Point"}
 }

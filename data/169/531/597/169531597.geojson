@@ -2,13 +2,14 @@
   "id": 169531597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.819939,18.96188,72.819939,18.96188",
     "geom:latitude":18.96188,
     "geom:longitude":72.819939,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"E-1/14, Bharat Nagar, 342, Grant Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169531597,
-    "wof:lastmodified":1449033475,
+    "wof:lastmodified":1466288858,
     "wof:name":"Metalinox India",
     "wof:parent_id":85903971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "coupling"
     ]
 },
-  "bbox": [72.819939,18.96188,72.819939,18.96188],
-  "geometry": {"coordinates":[72.819939,18.96188],"type":"Point"}
+  "bbox": [
+    72.819939,
+    18.96188,
+    72.819939,
+    18.96188
+],
+  "geometry": {"coordinates":[72.81993900000001,18.96188],"type":"Point"}
 }

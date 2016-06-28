@@ -2,13 +2,14 @@
   "id": 169535143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.892899,19.034796,72.892899,19.034796",
     "geom:latitude":19.034796,
     "geom:longitude":72.892899,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Rendezvous-502, Chembur,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169535143,
-    "wof:lastmodified":1449033289,
+    "wof:lastmodified":1466288871,
     "wof:name":"Addys Fashion Creations",
     "wof:parent_id":85903847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "embroidery"
     ]
 },
-  "bbox": [72.892899,19.034796,72.892899,19.034796],
+  "bbox": [
+    72.892899,
+    19.034796,
+    72.892899,
+    19.034796
+],
   "geometry": {"coordinates":[72.892899,19.034796],"type":"Point"}
 }

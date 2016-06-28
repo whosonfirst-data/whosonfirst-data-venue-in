@@ -2,13 +2,14 @@
   "id": 169561077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.834961,18.630056,73.834961,18.630056",
     "geom:latitude":18.630056,
     "geom:longitude":73.834961,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"J-152, M.i.d.c., Bhosari,",
     "sg:city":"Pune",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169561077,
-    "wof:lastmodified":1449035019,
+    "wof:lastmodified":1466288891,
     "wof:name":"Elkay Chemicals Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "allied"
     ]
 },
-  "bbox": [73.834961,18.630056,73.834961,18.630056],
-  "geometry": {"coordinates":[73.834961,18.630056],"type":"Point"}
+  "bbox": [
+    73.834961,
+    18.630056,
+    73.834961,
+    18.630056
+],
+  "geometry": {"coordinates":[73.83496100000001,18.630056],"type":"Point"}
 }

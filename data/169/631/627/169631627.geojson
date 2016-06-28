@@ -2,13 +2,14 @@
   "id": 169631627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.847946,19.156136,72.847946,19.156136",
     "geom:latitude":19.156136,
     "geom:longitude":72.847946,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"39, Lane No. 1, Ram Nagar,",
     "sg:city":"Delhi",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169631627,
-    "wof:lastmodified":1449033711,
+    "wof:lastmodified":1466288840,
     "wof:name":"Suprabhat Chemicals",
     "wof:parent_id":85931563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "-"
     ]
 },
-  "bbox": [72.847946,19.156136,72.847946,19.156136],
-  "geometry": {"coordinates":[72.847946,19.156136],"type":"Point"}
+  "bbox": [
+    72.847946,
+    19.156136,
+    72.847946,
+    19.156136
+],
+  "geometry": {"coordinates":[72.84794599999999,19.156136],"type":"Point"}
 }

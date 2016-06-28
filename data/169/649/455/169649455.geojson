@@ -2,13 +2,14 @@
   "id": 169649455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.219142,13.047984,80.219142,13.047984",
     "geom:latitude":13.047984,
     "geom:longitude":80.219142,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"23, Dr.Ambedkar Road Kodambakkam",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169649455,
-    "wof:lastmodified":1449034943,
+    "wof:lastmodified":1466288854,
     "wof:name":"BankBazaar.com",
     "wof:parent_id":85903935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mortgages"
     ]
 },
-  "bbox": [80.219142,13.047984,80.219142,13.047984],
-  "geometry": {"coordinates":[80.219142,13.047984],"type":"Point"}
+  "bbox": [
+    80.219142,
+    13.047984,
+    80.219142,
+    13.047984
+],
+  "geometry": {"coordinates":[80.21914200000001,13.047984],"type":"Point"}
 }

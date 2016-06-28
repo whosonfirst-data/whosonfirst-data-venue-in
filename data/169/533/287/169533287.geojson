@@ -2,13 +2,14 @@
   "id": 169533287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.832611,19.129219,72.832611,19.129219",
     "geom:latitude":19.129219,
     "geom:longitude":72.832611,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"10/148, Azad Nagar, Andheri (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169533287,
-    "wof:lastmodified":1449032641,
+    "wof:lastmodified":1466288866,
     "wof:name":"Janki Gems",
     "wof:parent_id":85931475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "diamond"
     ]
 },
-  "bbox": [72.832611,19.129219,72.832611,19.129219],
+  "bbox": [
+    72.832611,
+    19.129219,
+    72.832611,
+    19.129219
+],
   "geometry": {"coordinates":[72.832611,19.129219],"type":"Point"}
 }

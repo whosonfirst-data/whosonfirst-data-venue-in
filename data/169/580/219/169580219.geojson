@@ -2,13 +2,14 @@
   "id": 169580219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.229469,28.643358,77.229469,28.643358",
     "geom:latitude":28.643358,
     "geom:longitude":77.229469,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"204, Bajaj House, 97 Nehru Place,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169580219,
-    "wof:lastmodified":1449034917,
+    "wof:lastmodified":1466288784,
     "wof:name":"J. K. Enterprises",
     "wof:parent_id":85927917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [77.229469,28.643358,77.229469,28.643358],
-  "geometry": {"coordinates":[77.229469,28.643358],"type":"Point"}
+  "bbox": [
+    77.229469,
+    28.643358,
+    77.229469,
+    28.643358
+],
+  "geometry": {"coordinates":[77.22946899999999,28.643358],"type":"Point"}
 }

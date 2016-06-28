@@ -2,13 +2,14 @@
   "id": 169542595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.542923,13.014722,77.542923,13.014722",
     "geom:latitude":13.014722,
     "geom:longitude":77.542923,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B-242, 6th Main, 2nd Stage, Peenya Industrial Area,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169542595,
-    "wof:lastmodified":1449035222,
+    "wof:lastmodified":1466288665,
     "wof:name":"Microsharp Needles Pvt. Ltd.",
     "wof:parent_id":85930919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgical"
     ]
 },
-  "bbox": [77.542923,13.014722,77.542923,13.014722],
+  "bbox": [
+    77.542923,
+    13.014722,
+    77.542923,
+    13.014722
+],
   "geometry": {"coordinates":[77.542923,13.014722],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169534775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.841499,19.162195,72.841499,19.162195",
     "geom:latitude":19.162195,
     "geom:longitude":72.841499,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"21a, Singh Indl. Est, No.-1, 1st Floor, R.m. Road, Goregaon (west),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169534775,
-    "wof:lastmodified":1449033551,
+    "wof:lastmodified":1466288636,
     "wof:name":"Unique Electrical Industries",
     "wof:parent_id":85931563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [72.841499,19.162195,72.841499,19.162195],
+  "bbox": [
+    72.841499,
+    19.162195,
+    72.841499,
+    19.162195
+],
   "geometry": {"coordinates":[72.841499,19.162195],"type":"Point"}
 }

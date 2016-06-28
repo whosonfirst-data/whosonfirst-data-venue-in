@@ -2,13 +2,14 @@
   "id": 169571267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.582771,12.936644,77.582771,12.936644",
     "geom:latitude":12.936644,
     "geom:longitude":77.582771,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"South End Road",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571267,
-    "wof:lastmodified":1449034949,
+    "wof:lastmodified":1466288749,
     "wof:name":"G G Industries Pvt Ltd",
     "wof:parent_id":85930887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.582771,12.936644,77.582771,12.936644],
-  "geometry": {"coordinates":[77.582771,12.936644],"type":"Point"}
+  "bbox": [
+    77.582771,
+    12.936644,
+    77.582771,
+    12.936644
+],
+  "geometry": {"coordinates":[77.58277099999999,12.936644],"type":"Point"}
 }

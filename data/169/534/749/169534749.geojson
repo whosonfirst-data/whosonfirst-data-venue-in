@@ -2,13 +2,14 @@
   "id": 169534749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.332436,28.559198,77.332436,28.559198",
     "geom:latitude":28.559198,
     "geom:longitude":77.332436,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"30, Amrapali Industrial Estate,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169534749,
-    "wof:lastmodified":1449033547,
+    "wof:lastmodified":1466288877,
     "wof:name":"Jyoti Electric Industries",
     "wof:parent_id":85928411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [77.332436,28.559198,77.332436,28.559198],
+  "bbox": [
+    77.332436,
+    28.559198,
+    77.332436,
+    28.559198
+],
   "geometry": {"coordinates":[77.332436,28.559198],"type":"Point"}
 }

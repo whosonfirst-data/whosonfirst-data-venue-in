@@ -2,13 +2,14 @@
   "id": 169540313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.592216,12.982874,77.592216,12.982874",
     "geom:latitude":12.982874,
     "geom:longitude":77.592216,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"16/2, Ali Asker Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169540313,
-    "wof:lastmodified":1449033973,
+    "wof:lastmodified":1466288648,
     "wof:name":"Indus-league Clothing Limited",
     "wof:parent_id":85930961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shirt"
     ]
 },
-  "bbox": [77.592216,12.982874,77.592216,12.982874],
-  "geometry": {"coordinates":[77.592216,12.982874],"type":"Point"}
+  "bbox": [
+    77.592216,
+    12.982874,
+    77.592216,
+    12.982874
+],
+  "geometry": {"coordinates":[77.59221599999999,12.982874],"type":"Point"}
 }

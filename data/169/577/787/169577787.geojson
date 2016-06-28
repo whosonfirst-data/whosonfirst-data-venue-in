@@ -2,13 +2,14 @@
   "id": 169577787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.282944,28.46736,77.282944,28.46736",
     "geom:latitude":28.46736,
     "geom:longitude":77.282944,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Street No. 11, Central Town,",
     "sg:city":"Jalandhar",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169577787,
-    "wof:lastmodified":1449036067,
+    "wof:lastmodified":1466288796,
     "wof:name":"Goodlass Nerolac Paints Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "allied"
     ]
 },
-  "bbox": [77.282944,28.46736,77.282944,28.46736],
+  "bbox": [
+    77.282944,
+    28.46736,
+    77.282944,
+    28.46736
+],
   "geometry": {"coordinates":[77.282944,28.46736],"type":"Point"}
 }

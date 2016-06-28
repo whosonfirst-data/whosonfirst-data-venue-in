@@ -2,13 +2,14 @@
   "id": 169559585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.518112,22.991106,72.518112,22.991106",
     "geom:latitude":22.991106,
     "geom:longitude":72.518112,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"H.o. 2, Jawaharlal Nehru Road,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169559585,
-    "wof:lastmodified":1449035238,
+    "wof:lastmodified":1466288738,
     "wof:name":"Colour & Coatings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "coating"
     ]
 },
-  "bbox": [72.518112,22.991106,72.518112,22.991106],
+  "bbox": [
+    72.518112,
+    22.991106,
+    72.518112,
+    22.991106
+],
   "geometry": {"coordinates":[72.518112,22.991106],"type":"Point"}
 }

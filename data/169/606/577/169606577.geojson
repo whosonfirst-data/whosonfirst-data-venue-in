@@ -2,13 +2,14 @@
   "id": 169606577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.229439,28.650167,77.229439,28.650167",
     "geom:latitude":28.650167,
     "geom:longitude":77.229439,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"352, 1st Floor, Main Road, Chawri Bazar,",
     "sg:city":"Delhi",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169606577,
-    "wof:lastmodified":1449033204,
+    "wof:lastmodified":1466288818,
     "wof:name":"R.r. Distributors Pvt. Ltd.",
     "wof:parent_id":85928095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "polymer"
     ]
 },
-  "bbox": [77.229439,28.650167,77.229439,28.650167],
+  "bbox": [
+    77.229439,
+    28.650167,
+    77.229439,
+    28.650167
+],
   "geometry": {"coordinates":[77.229439,28.650167],"type":"Point"}
 }

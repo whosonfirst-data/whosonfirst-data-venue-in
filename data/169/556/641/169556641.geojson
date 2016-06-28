@@ -2,13 +2,14 @@
   "id": 169556641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.272125,28.568346,77.272125,28.568346",
     "geom:latitude":28.568346,
     "geom:longitude":77.272125,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Friends Colony Industrial Area",
     "sg:city":"Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169556641,
-    "wof:lastmodified":1449033508,
+    "wof:lastmodified":1466288720,
     "wof:name":"Develop Engineering Corporation",
     "wof:parent_id":85928007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.272125,28.568346,77.272125,28.568346],
+  "bbox": [
+    77.272125,
+    28.568346,
+    77.272125,
+    28.568346
+],
   "geometry": {"coordinates":[77.272125,28.568346],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169537281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.540184,13.009779,77.540184,13.009779",
     "geom:latitude":13.009779,
     "geom:longitude":77.540184,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"A-68, 2nd Cross, Industrial Estate, Rajajinagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169537281,
-    "wof:lastmodified":1449033500,
+    "wof:lastmodified":1466288632,
     "wof:name":"Chaitanya Preci - Tech (p) Ltd.",
     "wof:parent_id":85930919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "precision"
     ]
 },
-  "bbox": [77.540184,13.009779,77.540184,13.009779],
+  "bbox": [
+    77.540184,
+    13.009779,
+    77.540184,
+    13.009779
+],
   "geometry": {"coordinates":[77.540184,13.009779],"type":"Point"}
 }

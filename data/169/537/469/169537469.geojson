@@ -2,13 +2,14 @@
   "id": 169537469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.52253,13.030821,77.52253,13.030821",
     "geom:latitude":13.030821,
     "geom:longitude":77.52253,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 235, 3rd Phase, Peenya Industrial Area,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169537469,
-    "wof:lastmodified":1449033499,
+    "wof:lastmodified":1466288636,
     "wof:name":"Mani Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "precision"
     ]
 },
-  "bbox": [77.52253,13.030821,77.52253,13.030821],
+  "bbox": [
+    77.52253,
+    13.030821,
+    77.52253,
+    13.030821
+],
   "geometry": {"coordinates":[77.52253,13.030821],"type":"Point"}
 }

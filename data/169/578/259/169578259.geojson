@@ -2,13 +2,14 @@
   "id": 169578259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.540352,13.011638,77.540352,13.011638",
     "geom:latitude":13.011638,
     "geom:longitude":77.540352,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. A-345, 9th Main Road, Peenya, 2nd Stage,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169578259,
-    "wof:lastmodified":1449033519,
+    "wof:lastmodified":1466288780,
     "wof:name":"H & R Flavours & Fragrances Pvt. Ltd.",
     "wof:parent_id":85930919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "flavour"
     ]
 },
-  "bbox": [77.540352,13.011638,77.540352,13.011638],
+  "bbox": [
+    77.540352,
+    13.011638,
+    77.540352,
+    13.011638
+],
   "geometry": {"coordinates":[77.540352,13.011638],"type":"Point"}
 }

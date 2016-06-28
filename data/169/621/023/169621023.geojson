@@ -2,13 +2,14 @@
   "id": 169621023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.457756,30.351486,76.457756,30.351486",
     "geom:latitude":30.351486,
     "geom:longitude":76.457756,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 3006, Phase - Iii, G.i.d.c. Estate,",
     "sg:city":"Ankleshwar",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169621023,
-    "wof:lastmodified":1449035559,
+    "wof:lastmodified":1466288894,
     "wof:name":"Shree Gayatri Chemicals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [76.457756,30.351486,76.457756,30.351486],
+  "bbox": [
+    76.457756,
+    30.351486,
+    76.457756,
+    30.351486
+],
   "geometry": {"coordinates":[76.457756,30.351486],"type":"Point"}
 }

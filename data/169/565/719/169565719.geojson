@@ -2,13 +2,14 @@
   "id": 169565719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.964417,11.011307,76.964417,11.011307",
     "geom:latitude":11.011307,
     "geom:longitude":76.964417,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sarojini Street",
     "sg:city":"Coimbatore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169565719,
-    "wof:lastmodified":1449035663,
+    "wof:lastmodified":1466288721,
     "wof:name":"Senthil Papain And Food Products Ltd",
     "wof:parent_id":85783699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [76.964417,11.011307,76.964417,11.011307],
+  "bbox": [
+    76.964417,
+    11.011307,
+    76.964417,
+    11.011307
+],
   "geometry": {"coordinates":[76.964417,11.011307],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169587039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.066505,12.90584,80.066505,12.90584",
     "geom:latitude":12.90584,
     "geom:longitude":80.066505,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No.- A/248, Part A,",
     "sg:city":"Bahadurgarh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169587039,
-    "wof:lastmodified":1449033822,
+    "wof:lastmodified":1466288893,
     "wof:name":"Manan Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "allied"
     ]
 },
-  "bbox": [80.066505,12.90584,80.066505,12.90584],
-  "geometry": {"coordinates":[80.066505,12.90584],"type":"Point"}
+  "bbox": [
+    80.066505,
+    12.90584,
+    80.066505,
+    12.90584
+],
+  "geometry": {"coordinates":[80.06650500000001,12.90584],"type":"Point"}
 }

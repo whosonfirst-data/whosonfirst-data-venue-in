@@ -2,13 +2,14 @@
   "id": 169633795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.15863,22.31118,73.15863,22.31118",
     "geom:latitude":22.31118,
     "geom:longitude":73.15863,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"8/23-24, Race Course Road,",
     "sg:city":"Coimbatore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169633795,
-    "wof:lastmodified":1449035940,
+    "wof:lastmodified":1466288841,
     "wof:name":"T.stanes And Company Pvt. Ltd.",
     "wof:parent_id":85933511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [73.15863,22.31118,73.15863,22.31118],
+  "bbox": [
+    73.15863,
+    22.31118,
+    73.15863,
+    22.31118
+],
   "geometry": {"coordinates":[73.15863,22.31118],"type":"Point"}
 }

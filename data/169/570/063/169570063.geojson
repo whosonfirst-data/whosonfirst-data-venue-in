@@ -2,13 +2,14 @@
   "id": 169570063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.577652,12.960164,77.577652,12.960164",
     "geom:latitude":12.960164,
     "geom:longitude":77.577652,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Kalasipalyam",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570063,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466288731,
     "wof:name":"Prakash Rubber Trdg Co Pvt Ltd",
     "wof:parent_id":85930903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.577652,12.960164,77.577652,12.960164],
+  "bbox": [
+    77.577652,
+    12.960164,
+    77.577652,
+    12.960164
+],
   "geometry": {"coordinates":[77.577652,12.960164],"type":"Point"}
 }

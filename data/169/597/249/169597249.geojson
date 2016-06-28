@@ -2,13 +2,14 @@
   "id": 169597249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"74.499481,15.835469,74.499481,15.835469",
     "geom:latitude":15.835469,
     "geom:longitude":74.499481,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"22/2 C. N. Roy Road,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169597249,
-    "wof:lastmodified":1449035920,
+    "wof:lastmodified":1466288807,
     "wof:name":"Osman Sharif",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [74.499481,15.835469,74.499481,15.835469],
+  "bbox": [
+    74.499481,
+    15.835469,
+    74.499481,
+    15.835469
+],
   "geometry": {"coordinates":[74.499481,15.835469],"type":"Point"}
 }

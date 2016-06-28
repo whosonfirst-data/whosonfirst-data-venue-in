@@ -2,13 +2,14 @@
   "id": 169557393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.188057,28.568233,77.188057,28.568233",
     "geom:latitude":28.568233,
     "geom:longitude":77.188057,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Bhikaji Cama Place",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169557393,
-    "wof:lastmodified":1449035034,
+    "wof:lastmodified":1466288710,
     "wof:name":"Haryana Leather Chemicals Ltd",
     "wof:parent_id":85928651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.188057,28.568233,77.188057,28.568233],
+  "bbox": [
+    77.188057,
+    28.568233,
+    77.188057,
+    28.568233
+],
   "geometry": {"coordinates":[77.188057,28.568233],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169596619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.896721,19.053493,72.896721,19.053493",
     "geom:latitude":19.053493,
     "geom:longitude":72.896721,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sion Trombay Road, Govandi,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169596619,
-    "wof:lastmodified":1449034372,
+    "wof:lastmodified":1466288808,
     "wof:name":"Oriental Aromatics Ltd.",
     "wof:parent_id":85931489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "flavour"
     ]
 },
-  "bbox": [72.896721,19.053493,72.896721,19.053493],
+  "bbox": [
+    72.896721,
+    19.053493,
+    72.896721,
+    19.053493
+],
   "geometry": {"coordinates":[72.896721,19.053493],"type":"Point"}
 }

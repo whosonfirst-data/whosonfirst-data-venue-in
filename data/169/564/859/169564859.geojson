@@ -2,13 +2,14 @@
   "id": 169564859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.138451,28.663107,77.138451,28.663107",
     "geom:latitude":28.663107,
     "geom:longitude":77.138451,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Moti Nagar",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169564859,
-    "wof:lastmodified":1449035765,
+    "wof:lastmodified":1466288723,
     "wof:name":"Unisex Footwears Pvt Ltd",
     "wof:parent_id":85927889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.138451,28.663107,77.138451,28.663107],
+  "bbox": [
+    77.138451,
+    28.663107,
+    77.138451,
+    28.663107
+],
   "geometry": {"coordinates":[77.138451,28.663107],"type":"Point"}
 }

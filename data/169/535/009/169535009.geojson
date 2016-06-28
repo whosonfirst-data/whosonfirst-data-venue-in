@@ -2,13 +2,14 @@
   "id": 169535009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.815704,18.961235,72.815704,18.961235",
     "geom:latitude":18.961235,
     "geom:longitude":72.815704,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"50, Proctor Road, B-8, Janardan Bldg.,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169535009,
-    "wof:lastmodified":1449033288,
+    "wof:lastmodified":1466288869,
     "wof:name":"Micro-chip Technologies",
     "wof:parent_id":85903971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electronic"
     ]
 },
-  "bbox": [72.815704,18.961235,72.815704,18.961235],
+  "bbox": [
+    72.815704,
+    18.961235,
+    72.815704,
+    18.961235
+],
   "geometry": {"coordinates":[72.815704,18.961235],"type":"Point"}
 }

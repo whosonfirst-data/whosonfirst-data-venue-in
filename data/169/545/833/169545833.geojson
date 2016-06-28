@@ -2,13 +2,14 @@
   "id": 169545833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.85144,19.015547,72.85144,19.015547",
     "geom:latitude":19.015547,
     "geom:longitude":72.85144,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"218, Tilak Road,",
     "sg:city":"Tirupati",
     "sg:classifiers":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169545833,
-    "wof:lastmodified":1449033483,
+    "wof:lastmodified":1466288670,
     "wof:name":"Wood Shopee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.85144,19.015547,72.85144,19.015547],
+  "bbox": [
+    72.85144,
+    19.015547,
+    72.85144,
+    19.015547
+],
   "geometry": {"coordinates":[72.85144,19.015547],"type":"Point"}
 }

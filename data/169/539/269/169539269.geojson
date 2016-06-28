@@ -2,13 +2,14 @@
   "id": 169539269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.602112,12.980972,77.602112,12.980972",
     "geom:latitude":12.980972,
     "geom:longitude":77.602112,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 124, Infantry Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169539269,
-    "wof:lastmodified":1449036037,
+    "wof:lastmodified":1466288876,
     "wof:name":"Mallappa's International",
     "wof:parent_id":85930953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.602112,12.980972,77.602112,12.980972],
-  "geometry": {"coordinates":[77.602112,12.980972],"type":"Point"}
+  "bbox": [
+    77.602112,
+    12.980972,
+    77.602112,
+    12.980972
+],
+  "geometry": {"coordinates":[77.60211200000001,12.980972],"type":"Point"}
 }

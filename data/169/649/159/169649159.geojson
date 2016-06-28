@@ -2,13 +2,14 @@
   "id": 169649159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.607796,12.974598,77.607796,12.974598",
     "geom:latitude":12.974598,
     "geom:longitude":77.607796,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"206, Brigade Gardens 2nd Floor, No.19, Church Street,",
     "sg:city":"Bangalore ",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169649159,
-    "wof:lastmodified":1449034942,
+    "wof:lastmodified":1466288850,
     "wof:name":"GKVale.com",
     "wof:parent_id":85930841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "camcorders-india"
     ]
 },
-  "bbox": [77.607796,12.974598,77.607796,12.974598],
-  "geometry": {"coordinates":[77.607796,12.974598],"type":"Point"}
+  "bbox": [
+    77.607796,
+    12.974598,
+    77.607796,
+    12.974598
+],
+  "geometry": {"coordinates":[77.60779599999999,12.974598],"type":"Point"}
 }

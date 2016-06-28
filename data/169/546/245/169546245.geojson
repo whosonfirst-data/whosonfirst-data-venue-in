@@ -2,13 +2,14 @@
   "id": 169546245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.661148,10.81168,78.661148,10.81168",
     "geom:latitude":10.81168,
     "geom:longitude":78.661148,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1/104, Shanmuga Nagar,",
     "sg:city":"Tiruppur",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169546245,
-    "wof:lastmodified":1449032681,
+    "wof:lastmodified":1466288657,
     "wof:name":"Redif Innovations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "uniform"
     ]
 },
-  "bbox": [78.661148,10.81168,78.661148,10.81168],
+  "bbox": [
+    78.661148,
+    10.81168,
+    78.661148,
+    10.81168
+],
   "geometry": {"coordinates":[78.661148,10.81168],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169574525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.190468,21.454573,80.190468,21.454573",
     "geom:latitude":21.454573,
     "geom:longitude":80.190468,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"2988, Ganj Bazar",
     "sg:city":"Ahmednagar",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169574525,
-    "wof:lastmodified":1449032663,
+    "wof:lastmodified":1466288761,
     "wof:name":"Jaymoti Aluminium Company Pvt Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.190468,21.454573,80.190468,21.454573],
+  "bbox": [
+    80.190468,
+    21.454573,
+    80.190468,
+    21.454573
+],
   "geometry": {"coordinates":[80.190468,21.454573],"type":"Point"}
 }

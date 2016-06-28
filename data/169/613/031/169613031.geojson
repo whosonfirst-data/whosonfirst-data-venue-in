@@ -2,13 +2,14 @@
   "id": 169613031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.397377,17.483984,78.397377,17.483984",
     "geom:latitude":17.483984,
     "geom:longitude":78.397377,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 24b/1, Ida, Phase-i,",
     "sg:city":"Patancheru",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169613031,
-    "wof:lastmodified":1449034213,
+    "wof:lastmodified":1466288821,
     "wof:name":"S. R. Drugs & Intermediates Pvt. Ltd.",
     "wof:parent_id":85930679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pharmaceutical"
     ]
 },
-  "bbox": [78.397377,17.483984,78.397377,17.483984],
-  "geometry": {"coordinates":[78.397377,17.483984],"type":"Point"}
+  "bbox": [
+    78.397377,
+    17.483984,
+    78.397377,
+    17.483984
+],
+  "geometry": {"coordinates":[78.39737700000001,17.483984],"type":"Point"}
 }

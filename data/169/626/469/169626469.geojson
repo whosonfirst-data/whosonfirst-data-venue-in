@@ -2,13 +2,14 @@
   "id": 169626469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.014702,19.006781,73.014702,19.006781",
     "geom:latitude":19.006781,
     "geom:longitude":73.014702,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 365, Sector-58,",
     "sg:city":"Faridabad",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169626469,
-    "wof:lastmodified":1449035972,
+    "wof:lastmodified":1466288835,
     "wof:name":"Spark Engineering",
     "wof:parent_id":85931651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "coating"
     ]
 },
-  "bbox": [73.014702,19.006781,73.014702,19.006781],
+  "bbox": [
+    73.014702,
+    19.006781,
+    73.014702,
+    19.006781
+],
   "geometry": {"coordinates":[73.014702,19.006781],"type":"Point"}
 }

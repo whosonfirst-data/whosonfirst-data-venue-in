@@ -2,13 +2,14 @@
   "id": 169533665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.21566,28.653236,77.21566,28.653236",
     "geom:latitude":28.653236,
     "geom:longitude":77.21566,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"S.i.s, Bldg., 2nd Floor, S.v.p. Patel, No. 417,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169533665,
-    "wof:lastmodified":1449032642,
+    "wof:lastmodified":1466288868,
     "wof:name":"Pran Sons",
     "wof:parent_id":85928087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "diamonds-polished"
     ]
 },
-  "bbox": [77.21566,28.653236,77.21566,28.653236],
+  "bbox": [
+    77.21566,
+    28.653236,
+    77.21566,
+    28.653236
+],
   "geometry": {"coordinates":[77.21566,28.653236],"type":"Point"}
 }

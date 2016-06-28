@@ -2,13 +2,14 @@
   "id": 169549581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.175117,28.714626,77.175117,28.714626",
     "geom:latitude":28.714626,
     "geom:longitude":77.175117,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"38-a, Panchwati,",
     "sg:city":"Udaipur",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169549581,
-    "wof:lastmodified":1449033592,
+    "wof:lastmodified":1466288885,
     "wof:name":"L. K. Plastics",
     "wof:parent_id":85928079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.175117,28.714626,77.175117,28.714626],
+  "bbox": [
+    77.175117,
+    28.714626,
+    77.175117,
+    28.714626
+],
   "geometry": {"coordinates":[77.175117,28.714626],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169554229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.872398,22.6889,72.872398,22.6889",
     "geom:latitude":22.6889,
     "geom:longitude":72.872398,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"F-17, National Plaza, Alkapuri,",
     "sg:city":"Vadodara",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169554229,
-    "wof:lastmodified":1449033371,
+    "wof:lastmodified":1466288694,
     "wof:name":"Kashmir Art Palace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.872398,22.6889,72.872398,22.6889],
+  "bbox": [
+    72.872398,
+    22.6889,
+    72.872398,
+    22.6889
+],
   "geometry": {"coordinates":[72.872398,22.6889],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169529627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.825317,18.998266,72.825317,18.998266",
     "geom:latitude":18.998266,
     "geom:longitude":72.825317,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"403, Penensula Chambers, Morarji Mill Compund, Ganpat Ruo Kadam Marg, Lower Parel,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169529627,
-    "wof:lastmodified":1449034117,
+    "wof:lastmodified":1466288698,
     "wof:name":"Ageis Logistics",
     "wof:parent_id":85931535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [72.825317,18.998266,72.825317,18.998266],
+  "bbox": [
+    72.825317,
+    18.998266,
+    72.825317,
+    18.998266
+],
   "geometry": {"coordinates":[72.825317,18.998266],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169574169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.165428,22.308187,73.165428,22.308187",
     "geom:latitude":22.308187,
     "geom:longitude":73.165428,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Race Course Circle",
     "sg:city":"Vadodara",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169574169,
-    "wof:lastmodified":1449032663,
+    "wof:lastmodified":1466288743,
     "wof:name":"Alpha Project Services Pvt Ltd",
     "wof:parent_id":85933511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [73.165428,22.308187,73.165428,22.308187],
-  "geometry": {"coordinates":[73.165428,22.308187],"type":"Point"}
+  "bbox": [
+    73.165428,
+    22.308187,
+    73.165428,
+    22.308187
+],
+  "geometry": {"coordinates":[73.16542800000001,22.308187],"type":"Point"}
 }

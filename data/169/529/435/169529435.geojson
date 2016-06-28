@@ -2,13 +2,14 @@
   "id": 169529435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.89711,19.111506,72.89711,19.111506",
     "geom:latitude":19.111506,
     "geom:longitude":72.89711,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Building No.- 8, Plot No.- 001/c, Chandivli Chintamani Housing Society, Mhada Colony, Near Sakinaka ",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169529435,
-    "wof:lastmodified":1449034115,
+    "wof:lastmodified":1466288696,
     "wof:name":"Bipin Pharma Equipment",
     "wof:parent_id":85931519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "machinery"
     ]
 },
-  "bbox": [72.89711,19.111506,72.89711,19.111506],
+  "bbox": [
+    72.89711,
+    19.111506,
+    72.89711,
+    19.111506
+],
   "geometry": {"coordinates":[72.89711,19.111506],"type":"Point"}
 }

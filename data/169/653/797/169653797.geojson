@@ -2,13 +2,14 @@
   "id": 169653797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.313807,17.433175,78.313807,17.433175",
     "geom:latitude":17.433175,
     "geom:longitude":78.313807,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"3-248, Plot No 38 Venkatraonagar, KKP",
     "sg:city":"Hyderabad",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169653797,
-    "wof:lastmodified":1449032918,
+    "wof:lastmodified":1466288857,
     "wof:name":"Core Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transcription-manager"
     ]
 },
-  "bbox": [78.313807,17.433175,78.313807,17.433175],
+  "bbox": [
+    78.313807,
+    17.433175,
+    78.313807,
+    17.433175
+],
   "geometry": {"coordinates":[78.313807,17.433175],"type":"Point"}
 }

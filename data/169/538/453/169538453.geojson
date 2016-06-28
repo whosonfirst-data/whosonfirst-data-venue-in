@@ -2,13 +2,14 @@
   "id": 169538453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.58017,12.970778,77.58017,12.970778",
     "geom:latitude":12.970778,
     "geom:longitude":77.58017,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No 67 B.t.street, Anchepet, Avenue Road Cross,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169538453,
-    "wof:lastmodified":1449033098,
+    "wof:lastmodified":1466288649,
     "wof:name":"Shiv Enterprises",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.58017,12.970778,77.58017,12.970778],
+  "bbox": [
+    77.58017,
+    12.970778,
+    77.58017,
+    12.970778
+],
   "geometry": {"coordinates":[77.58017,12.970778],"type":"Point"}
 }

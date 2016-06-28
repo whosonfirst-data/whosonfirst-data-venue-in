@@ -2,13 +2,14 @@
   "id": 169564667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.233276,13.043861,80.233276,13.043861",
     "geom:latitude":13.043861,
     "geom:longitude":80.233276,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Coats Road, T.nagar",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169564667,
-    "wof:lastmodified":1449035765,
+    "wof:lastmodified":1466288719,
     "wof:name":"King Chemicals",
     "wof:parent_id":85903981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.233276,13.043861,80.233276,13.043861],
+  "bbox": [
+    80.233276,
+    13.043861,
+    80.233276,
+    13.043861
+],
   "geometry": {"coordinates":[80.233276,13.043861],"type":"Point"}
 }

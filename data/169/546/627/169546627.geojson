@@ -2,13 +2,14 @@
   "id": 169546627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.333527,11.123729,77.333527,11.123729",
     "geom:latitude":11.123729,
     "geom:longitude":77.333527,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"22, Asher Nagar, 3rd Street,",
     "sg:city":"Tirupur",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169546627,
-    "wof:lastmodified":1449032681,
+    "wof:lastmodified":1466288671,
     "wof:name":"Raani Tex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jacket"
     ]
 },
-  "bbox": [77.333527,11.123729,77.333527,11.123729],
+  "bbox": [
+    77.333527,
+    11.123729,
+    77.333527,
+    11.123729
+],
   "geometry": {"coordinates":[77.333527,11.123729],"type":"Point"}
 }

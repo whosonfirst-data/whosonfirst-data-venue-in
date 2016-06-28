@@ -2,13 +2,14 @@
   "id": 169543455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.58519,12.910467,77.58519,12.910467",
     "geom:latitude":12.910467,
     "geom:longitude":77.58519,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"52/3, Sarakki, J.p.nagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169543455,
-    "wof:lastmodified":1449033335,
+    "wof:lastmodified":1466288659,
     "wof:name":"Patterns India & Engg. Works",
     "wof:parent_id":85931057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "timber"
     ]
 },
-  "bbox": [77.58519,12.910467,77.58519,12.910467],
+  "bbox": [
+    77.58519,
+    12.910467,
+    77.58519,
+    12.910467
+],
   "geometry": {"coordinates":[77.58519,12.910467],"type":"Point"}
 }

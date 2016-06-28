@@ -2,13 +2,14 @@
   "id": 169541295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.634995,13.024247,77.634995,13.024247",
     "geom:latitude":13.024247,
     "geom:longitude":77.634995,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"332, Kacharakanahalli,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169541295,
-    "wof:lastmodified":1449033042,
+    "wof:lastmodified":1466288878,
     "wof:name":"Chandika Ayurvedic Soap",
     "wof:parent_id":85931107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.634995,13.024247,77.634995,13.024247],
+  "bbox": [
+    77.634995,
+    13.024247,
+    77.634995,
+    13.024247
+],
   "geometry": {"coordinates":[77.634995,13.024247],"type":"Point"}
 }

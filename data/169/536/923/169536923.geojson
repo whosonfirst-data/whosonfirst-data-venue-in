@@ -2,13 +2,14 @@
   "id": 169536923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.539726,13.021764,77.539726,13.021764",
     "geom:latitude":13.021764,
     "geom:longitude":77.539726,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 66, Industrial Suburb, Yeshwanthpur,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169536923,
-    "wof:lastmodified":1449034660,
+    "wof:lastmodified":1466288657,
     "wof:name":"Axialo Industries",
     "wof:parent_id":85930919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pollution"
     ]
 },
-  "bbox": [77.539726,13.021764,77.539726,13.021764],
+  "bbox": [
+    77.539726,
+    13.021764,
+    77.539726,
+    13.021764
+],
   "geometry": {"coordinates":[77.539726,13.021764],"type":"Point"}
 }

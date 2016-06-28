@@ -2,13 +2,14 @@
   "id": 169571789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.5998,13.049932,77.5998,13.049932",
     "geom:latitude":13.049932,
     "geom:longitude":77.5998,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Dispensary Road",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571789,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1466288774,
     "wof:name":"Karnataka Commercial & Industrial Corp Pvt Ltd",
     "wof:parent_id":85931095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.5998,13.049932,77.5998,13.049932],
+  "bbox": [
+    77.5998,
+    13.049932,
+    77.5998,
+    13.049932
+],
   "geometry": {"coordinates":[77.5998,13.049932],"type":"Point"}
 }

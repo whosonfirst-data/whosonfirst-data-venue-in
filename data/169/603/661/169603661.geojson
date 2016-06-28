@@ -2,13 +2,14 @@
   "id": 169603661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.826439,21.154736,72.826439,21.154736",
     "geom:latitude":21.154736,
     "geom:longitude":72.826439,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No 76, G.i.d.c. Pandesara",
     "sg:city":"Surat",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169603661,
-    "wof:lastmodified":1449035454,
+    "wof:lastmodified":1466288819,
     "wof:name":"Prayagraj Dyeing & Printing Mills Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [72.826439,21.154736,72.826439,21.154736],
-  "geometry": {"coordinates":[72.826439,21.154736],"type":"Point"}
+  "bbox": [
+    72.826439,
+    21.154736,
+    72.826439,
+    21.154736
+],
+  "geometry": {"coordinates":[72.82643899999999,21.154736],"type":"Point"}
 }

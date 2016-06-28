@@ -2,13 +2,14 @@
   "id": 169587739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.306595,28.336205,77.306595,28.336205",
     "geom:latitude":28.336205,
     "geom:longitude":77.306595,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 140, Sector-25,",
     "sg:city":"Ballabgarh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169587739,
-    "wof:lastmodified":1449033820,
+    "wof:lastmodified":1466288795,
     "wof:name":"Maruti Paints & Chemicals",
     "wof:parent_id":85903787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "allied"
     ]
 },
-  "bbox": [77.306595,28.336205,77.306595,28.336205],
+  "bbox": [
+    77.306595,
+    28.336205,
+    77.306595,
+    28.336205
+],
   "geometry": {"coordinates":[77.306595,28.336205],"type":"Point"}
 }

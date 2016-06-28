@@ -2,13 +2,14 @@
   "id": 169634895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.277466,9.979193,76.277466,9.979193",
     "geom:latitude":9.979193,
     "geom:longitude":76.277466,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Cloth Basar Road, Ernakulam,",
     "sg:city":"Ernakulam",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169634895,
-    "wof:lastmodified":1449034256,
+    "wof:lastmodified":1466288843,
     "wof:name":"Teepees",
     "wof:parent_id":85783505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [76.277466,9.979193,76.277466,9.979193],
+  "bbox": [
+    76.277466,
+    9.979193,
+    76.277466,
+    9.979193
+],
   "geometry": {"coordinates":[76.277466,9.979193],"type":"Point"}
 }

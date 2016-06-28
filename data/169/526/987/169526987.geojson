@@ -2,13 +2,14 @@
   "id": 169526987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.830208,18.959145,72.830208,18.959145",
     "geom:latitude":18.959145,
     "geom:longitude":72.830208,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"42, Gujar Street,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169526987,
-    "wof:lastmodified":1449033699,
+    "wof:lastmodified":1466288629,
     "wof:name":"Rasulbhai Adamji & Sons",
     "wof:parent_id":85903863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "-"
     ]
 },
-  "bbox": [72.830208,18.959145,72.830208,18.959145],
+  "bbox": [
+    72.830208,
+    18.959145,
+    72.830208,
+    18.959145
+],
   "geometry": {"coordinates":[72.830208,18.959145],"type":"Point"}
 }

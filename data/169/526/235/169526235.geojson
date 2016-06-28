@@ -2,13 +2,14 @@
   "id": 169526235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.95166,19.179295,72.95166,19.179295",
     "geom:latitude":19.179295,
     "geom:longitude":72.95166,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit No.45, Unique Industrial Estate, Dr. Rajendra Prasad Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169526235,
-    "wof:lastmodified":1449033699,
+    "wof:lastmodified":1466288623,
     "wof:name":"Aero Rubber Corporation",
     "wof:parent_id":85931655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accessory"
     ]
 },
-  "bbox": [72.95166,19.179295,72.95166,19.179295],
+  "bbox": [
+    72.95166,
+    19.179295,
+    72.95166,
+    19.179295
+],
   "geometry": {"coordinates":[72.95166,19.179295],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169539551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.593231,12.965272,77.593231,12.965272",
     "geom:latitude":12.965272,
     "geom:longitude":77.593231,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 31, 11th Cross, Cubbonpet,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169539551,
-    "wof:lastmodified":1449036037,
+    "wof:lastmodified":1466288642,
     "wof:name":"Shree Vastra Sarees",
     "wof:parent_id":85930935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.593231,12.965272,77.593231,12.965272],
+  "bbox": [
+    77.593231,
+    12.965272,
+    77.593231,
+    12.965272
+],
   "geometry": {"coordinates":[77.593231,12.965272],"type":"Point"}
 }

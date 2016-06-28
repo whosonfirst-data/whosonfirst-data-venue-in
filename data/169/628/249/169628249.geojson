@@ -2,13 +2,14 @@
   "id": 169628249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.949402,11.010008,76.949402,11.010008",
     "geom:latitude":11.010008,
     "geom:longitude":76.949402,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"121, T.v. Swamy Road (west), R.s. Puram,",
     "sg:city":"Coimbatore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169628249,
-    "wof:lastmodified":1449035332,
+    "wof:lastmodified":1466288832,
     "wof:name":"Sriji Enterprises",
     "wof:parent_id":85783699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "-"
     ]
 },
-  "bbox": [76.949402,11.010008,76.949402,11.010008],
-  "geometry": {"coordinates":[76.949402,11.010008],"type":"Point"}
+  "bbox": [
+    76.949402,
+    11.010008,
+    76.949402,
+    11.010008
+],
+  "geometry": {"coordinates":[76.94940200000001,11.010008],"type":"Point"}
 }

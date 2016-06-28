@@ -2,13 +2,14 @@
   "id": 169557609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.864418,19.23144,72.864418,19.23144",
     "geom:latitude":19.23144,
     "geom:longitude":72.864418,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Near National Park, Borivali (e)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169557609,
-    "wof:lastmodified":1449035035,
+    "wof:lastmodified":1466288720,
     "wof:name":"Emil Pharmaceuticals Industries Pvt Ltd",
     "wof:parent_id":85931549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.864418,19.23144,72.864418,19.23144],
+  "bbox": [
+    72.864418,
+    19.23144,
+    72.864418,
+    19.23144
+],
   "geometry": {"coordinates":[72.864418,19.23144],"type":"Point"}
 }

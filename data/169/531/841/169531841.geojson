@@ -2,13 +2,14 @@
   "id": 169531841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.864166,19.121889,72.864166,19.121889",
     "geom:latitude":19.121889,
     "geom:longitude":72.864166,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B-54, Giriraj Industrial Estate, Mahakali Caves Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169531841,
-    "wof:lastmodified":1449033474,
+    "wof:lastmodified":1466288860,
     "wof:name":"Rivon Engg Co.",
     "wof:parent_id":85931515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broach"
     ]
 },
-  "bbox": [72.864166,19.121889,72.864166,19.121889],
+  "bbox": [
+    72.864166,
+    19.121889,
+    72.864166,
+    19.121889
+],
   "geometry": {"coordinates":[72.864166,19.121889],"type":"Point"}
 }

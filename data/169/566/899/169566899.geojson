@@ -2,13 +2,14 @@
   "id": 169566899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.600624,12.943469,77.600624,12.943469",
     "geom:latitude":12.943469,
     "geom:longitude":77.600624,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilson Garden",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169566899,
-    "wof:lastmodified":1449032755,
+    "wof:lastmodified":1466288733,
     "wof:name":"Bagla Exports Pvt Ltd",
     "wof:parent_id":85930939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.600624,12.943469,77.600624,12.943469],
+  "bbox": [
+    77.600624,
+    12.943469,
+    77.600624,
+    12.943469
+],
   "geometry": {"coordinates":[77.600624,12.943469],"type":"Point"}
 }

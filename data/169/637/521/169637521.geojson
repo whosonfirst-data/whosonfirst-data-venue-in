@@ -2,13 +2,14 @@
   "id": 169637521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"75.780754,26.897091,75.780754,26.897091",
     "geom:latitude":26.897091,
     "geom:longitude":75.780754,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"S.no.37, Ramnagar,",
     "sg:city":"Pune",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169637521,
-    "wof:lastmodified":1449032690,
+    "wof:lastmodified":1466288846,
     "wof:name":"Triveni Powdercoating",
     "wof:parent_id":85934491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "coating"
     ]
 },
-  "bbox": [75.780754,26.897091,75.780754,26.897091],
+  "bbox": [
+    75.780754,
+    26.897091,
+    75.780754,
+    26.897091
+],
   "geometry": {"coordinates":[75.780754,26.897091],"type":"Point"}
 }

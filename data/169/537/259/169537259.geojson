@@ -2,13 +2,14 @@
   "id": 169537259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.547539,13.014249,77.547539,13.014249",
     "geom:latitude":13.014249,
     "geom:longitude":77.547539,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"D-425, 10th Main, 2nd Stage, Peenya Industrial Estate,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169537259,
-    "wof:lastmodified":1449033499,
+    "wof:lastmodified":1466288875,
     "wof:name":"Accuspirals",
     "wof:parent_id":85930919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "precision"
     ]
 },
-  "bbox": [77.547539,13.014249,77.547539,13.014249],
+  "bbox": [
+    77.547539,
+    13.014249,
+    77.547539,
+    13.014249
+],
   "geometry": {"coordinates":[77.547539,13.014249],"type":"Point"}
 }

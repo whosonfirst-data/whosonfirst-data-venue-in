@@ -2,13 +2,14 @@
   "id": 169612737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"70.678185,22.239304,70.678185,22.239304",
     "geom:latitude":22.239304,
     "geom:longitude":70.678185,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"E-1, G.i.d.c., Metoda,",
     "sg:city":"Rajkot",
     "sg:classifiers":[
@@ -45,16 +46,22 @@
         }
     ],
     "wof:id":169612737,
-    "wof:lastmodified":1449034130,
+    "wof:lastmodified":1466288827,
     "wof:name":"Ruby Polymers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "polymer"
     ]
 },
-  "bbox": [70.678185,22.239304,70.678185,22.239304],
+  "bbox": [
+    70.678185,
+    22.239304,
+    70.678185,
+    22.239304
+],
   "geometry": {"coordinates":[70.678185,22.239304],"type":"Point"}
 }

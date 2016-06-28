@@ -2,13 +2,14 @@
   "id": 169648889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.34668,48.870806,2.34668,48.870806",
     "geom:latitude":48.870806,
     "geom:longitude":2.34668,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"13, rue Vivienne",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":169648889,
-    "wof:lastmodified":1449033582,
+    "wof:lastmodified":1466288857,
     "wof:name":"Netvibes",
     "wof:parent_id":85873883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "france"
     ]
 },
-  "bbox": [2.34668,48.870806,2.34668,48.870806],
+  "bbox": [
+    2.34668,
+    48.870806,
+    2.34668,
+    48.870806
+],
   "geometry": {"coordinates":[2.34668,48.870806],"type":"Point"}
 }

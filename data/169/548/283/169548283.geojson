@@ -2,13 +2,14 @@
   "id": 169548283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.952927,10.99415,76.952927,10.99415",
     "geom:latitude":10.99415,
     "geom:longitude":76.952927,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"90, South Raja Street,",
     "sg:city":"Tuticorin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169548283,
-    "wof:lastmodified":1449034973,
+    "wof:lastmodified":1466288675,
     "wof:name":"Vvd And Sons (p) Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "edible"
     ]
 },
-  "bbox": [76.952927,10.99415,76.952927,10.99415],
+  "bbox": [
+    76.952927,
+    10.99415,
+    76.952927,
+    10.99415
+],
   "geometry": {"coordinates":[76.952927,10.99415],"type":"Point"}
 }

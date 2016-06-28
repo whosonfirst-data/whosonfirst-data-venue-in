@@ -2,13 +2,14 @@
   "id": 169570477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"79.831635,11.941572,79.831635,11.941572",
     "geom:latitude":11.941572,
     "geom:longitude":79.831635,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"S.v.patel Road",
     "sg:city":"Pondicherry",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169570477,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466288753,
     "wof:name":"Anandha Inn (p) Ltd",
     "wof:parent_id":85934415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [79.831635,11.941572,79.831635,11.941572],
-  "geometry": {"coordinates":[79.831635,11.941572],"type":"Point"}
+  "bbox": [
+    79.831635,
+    11.941572,
+    79.831635,
+    11.941572
+],
+  "geometry": {"coordinates":[79.83163500000001,11.941572],"type":"Point"}
 }

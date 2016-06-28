@@ -2,13 +2,14 @@
   "id": 169538851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.574173,12.954056,77.574173,12.954056",
     "geom:latitude":12.954056,
     "geom:longitude":77.574173,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No.7, R K Puram, Gandhinagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169538851,
-    "wof:lastmodified":1449033100,
+    "wof:lastmodified":1466288670,
     "wof:name":"Vishnu Export International",
     "wof:parent_id":85930907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.574173,12.954056,77.574173,12.954056],
+  "bbox": [
+    77.574173,
+    12.954056,
+    77.574173,
+    12.954056
+],
   "geometry": {"coordinates":[77.574173,12.954056],"type":"Point"}
 }

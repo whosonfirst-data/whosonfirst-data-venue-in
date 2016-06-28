@@ -2,13 +2,14 @@
   "id": 169583081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.053146,28.66486,77.053146,28.66486",
     "geom:latitude":28.66486,
     "geom:longitude":77.053146,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"63, Rama Marg, Najaf Garh Road,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169583081,
-    "wof:lastmodified":1449035266,
+    "wof:lastmodified":1466288779,
     "wof:name":"Klj Polymers & Chemicals Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "-"
     ]
 },
-  "bbox": [77.053146,28.66486,77.053146,28.66486],
+  "bbox": [
+    77.053146,
+    28.66486,
+    77.053146,
+    28.66486
+],
   "geometry": {"coordinates":[77.053146,28.66486],"type":"Point"}
 }

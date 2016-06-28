@@ -2,13 +2,14 @@
   "id": 169535405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.862946,19.118551,72.862946,19.118551",
     "geom:latitude":19.118551,
     "geom:longitude":72.862946,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"31-b, Giriraj Ind. Estate, Mahakali Road, Andheri (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169535405,
-    "wof:lastmodified":1449033289,
+    "wof:lastmodified":1466288627,
     "wof:name":"Sarvottam Polymers Pvt. Ltd.",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "good"
     ]
 },
-  "bbox": [72.862946,19.118551,72.862946,19.118551],
-  "geometry": {"coordinates":[72.862946,19.118551],"type":"Point"}
+  "bbox": [
+    72.862946,
+    19.118551,
+    72.862946,
+    19.118551
+],
+  "geometry": {"coordinates":[72.86294599999999,19.118551],"type":"Point"}
 }

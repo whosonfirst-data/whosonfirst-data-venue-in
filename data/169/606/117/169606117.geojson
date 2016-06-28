@@ -2,13 +2,14 @@
   "id": 169606117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.953506,30.851166,76.953506,30.851166",
     "geom:latitude":30.851166,
     "geom:longitude":76.953506,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"H.no. 1741, Sec-4, Panchkula,",
     "sg:city":"Chandigarh",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169606117,
-    "wof:lastmodified":1449033203,
+    "wof:lastmodified":1466288814,
     "wof:name":"R & A Merchants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [76.953506,30.851166,76.953506,30.851166],
+  "bbox": [
+    76.953506,
+    30.851166,
+    76.953506,
+    30.851166
+],
   "geometry": {"coordinates":[76.953506,30.851166],"type":"Point"}
 }

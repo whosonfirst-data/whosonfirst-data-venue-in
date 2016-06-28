@@ -2,13 +2,14 @@
   "id": 169556179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.846306,19.121979,72.846306,19.121979",
     "geom:latitude":19.121979,
     "geom:longitude":72.846306,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"120, S.v. Road, Andheri West",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169556179,
-    "wof:lastmodified":1449033509,
+    "wof:lastmodified":1466288699,
     "wof:name":"Man Industries (india) Ltd",
     "wof:parent_id":85931515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.846306,19.121979,72.846306,19.121979],
+  "bbox": [
+    72.846306,
+    19.121979,
+    72.846306,
+    19.121979
+],
   "geometry": {"coordinates":[72.846306,19.121979],"type":"Point"}
 }

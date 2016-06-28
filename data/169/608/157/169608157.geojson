@@ -2,13 +2,14 @@
   "id": 169608157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.220009,28.584024,77.220009,28.584024",
     "geom:latitude":28.584024,
     "geom:longitude":77.220009,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"23, Khanna Market, Lodhi Colony,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169608157,
-    "wof:lastmodified":1449034084,
+    "wof:lastmodified":1466288814,
     "wof:name":"Rakesh Scientific Centre",
     "wof:parent_id":85928309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supply"
     ]
 },
-  "bbox": [77.220009,28.584024,77.220009,28.584024],
+  "bbox": [
+    77.220009,
+    28.584024,
+    77.220009,
+    28.584024
+],
   "geometry": {"coordinates":[77.220009,28.584024],"type":"Point"}
 }

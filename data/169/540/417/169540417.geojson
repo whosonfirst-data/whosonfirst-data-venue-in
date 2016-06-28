@@ -2,13 +2,14 @@
   "id": 169540417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.612953,12.983341,77.612953,12.983341",
     "geom:latitude":12.983341,
     "geom:longitude":77.612953,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"402, Shree Complex, St. Johns Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169540417,
-    "wof:lastmodified":1449033976,
+    "wof:lastmodified":1466288654,
     "wof:name":"Usha Minechem Industries",
     "wof:parent_id":85930871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "silicon"
     ]
 },
-  "bbox": [77.612953,12.983341,77.612953,12.983341],
+  "bbox": [
+    77.612953,
+    12.983341,
+    77.612953,
+    12.983341
+],
   "geometry": {"coordinates":[77.612953,12.983341],"type":"Point"}
 }

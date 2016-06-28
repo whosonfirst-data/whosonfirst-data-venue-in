@@ -2,13 +2,14 @@
   "id": 169527421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.859184,19.114714,72.859184,19.114714",
     "geom:latitude":19.114714,
     "geom:longitude":72.859184,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"205, Solucky Corner, Chakala, Andheri(e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169527421,
-    "wof:lastmodified":1449035278,
+    "wof:lastmodified":1466288630,
     "wof:name":"Swift Bearings",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bearing"
     ]
 },
-  "bbox": [72.859184,19.114714,72.859184,19.114714],
+  "bbox": [
+    72.859184,
+    19.114714,
+    72.859184,
+    19.114714
+],
   "geometry": {"coordinates":[72.859184,19.114714],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169571073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"75.782204,26.907326,75.782204,26.907326",
     "geom:latitude":26.907326,
     "geom:longitude":75.782204,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Civil Lines",
     "sg:city":"Sawai Madhopur",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571073,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1466288738,
     "wof:name":"Hotel Rajeev Resort",
     "wof:parent_id":85934491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [75.782204,26.907326,75.782204,26.907326],
-  "geometry": {"coordinates":[75.782204,26.907326],"type":"Point"}
+  "bbox": [
+    75.782204,
+    26.907326,
+    75.782204,
+    26.907326
+],
+  "geometry": {"coordinates":[75.78220399999999,26.907326],"type":"Point"}
 }

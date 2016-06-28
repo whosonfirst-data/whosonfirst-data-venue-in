@@ -2,13 +2,14 @@
   "id": 169534817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.831146,18.947405,72.831146,18.947405",
     "geom:latitude":18.947405,
     "geom:longitude":72.831146,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Devkaran Mansion, 46, Vithaldas Road, Lohar Chawl,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169534817,
-    "wof:lastmodified":1449033551,
+    "wof:lastmodified":1466288639,
     "wof:name":"Camax (india)",
     "wof:parent_id":85931439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "electrical"
     ]
 },
-  "bbox": [72.831146,18.947405,72.831146,18.947405],
+  "bbox": [
+    72.831146,
+    18.947405,
+    72.831146,
+    18.947405
+],
   "geometry": {"coordinates":[72.831146,18.947405],"type":"Point"}
 }

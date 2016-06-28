@@ -2,13 +2,14 @@
   "id": 169577337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.515373,13.030847,77.515373,13.030847",
     "geom:latitude":13.030847,
     "geom:longitude":77.515373,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B-266, Peeny 2nd Stage, Peenya Indl. Area,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169577337,
-    "wof:lastmodified":1449036066,
+    "wof:lastmodified":1466288779,
     "wof:name":"Gem Paints Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "allied"
     ]
 },
-  "bbox": [77.515373,13.030847,77.515373,13.030847],
+  "bbox": [
+    77.515373,
+    13.030847,
+    77.515373,
+    13.030847
+],
   "geometry": {"coordinates":[77.515373,13.030847],"type":"Point"}
 }

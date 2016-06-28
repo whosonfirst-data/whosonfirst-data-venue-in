@@ -2,13 +2,14 @@
   "id": 169624455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.196869,10.521632,76.196869,10.521632",
     "geom:latitude":10.521632,
     "geom:longitude":76.196869,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"W-14, M. I. D. C,",
     "sg:city":"Ambernath",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169624455,
-    "wof:lastmodified":1449034959,
+    "wof:lastmodified":1466288834,
     "wof:name":"Sima Products",
     "wof:parent_id":85783611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fine"
     ]
 },
-  "bbox": [76.196869,10.521632,76.196869,10.521632],
-  "geometry": {"coordinates":[76.196869,10.521632],"type":"Point"}
+  "bbox": [
+    76.196869,
+    10.521632,
+    76.196869,
+    10.521632
+],
+  "geometry": {"coordinates":[76.19686900000001,10.521632],"type":"Point"}
 }

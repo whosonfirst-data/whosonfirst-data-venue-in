@@ -2,13 +2,14 @@
   "id": 169526365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.817329,18.960506,72.817329,18.960506",
     "geom:latitude":18.960506,
     "geom:longitude":72.817329,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"9/9, Topiwala Lane, Lamington Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169526365,
-    "wof:lastmodified":1449033699,
+    "wof:lastmodified":1466288624,
     "wof:name":"Nishan Overseas Mktg. P. Ltd.",
     "wof:parent_id":85903971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "component"
     ]
 },
-  "bbox": [72.817329,18.960506,72.817329,18.960506],
+  "bbox": [
+    72.817329,
+    18.960506,
+    72.817329,
+    18.960506
+],
   "geometry": {"coordinates":[72.817329,18.960506],"type":"Point"}
 }

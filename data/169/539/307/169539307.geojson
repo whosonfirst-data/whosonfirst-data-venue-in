@@ -2,13 +2,14 @@
   "id": 169539307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.675804,12.983988,77.675804,12.983988",
     "geom:latitude":12.983988,
     "geom:longitude":77.675804,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"L-96a, 11th Cross, L.n.puram,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169539307,
-    "wof:lastmodified":1449036036,
+    "wof:lastmodified":1466288876,
     "wof:name":"G. L. Swamy",
     "wof:parent_id":85930899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.675804,12.983988,77.675804,12.983988],
+  "bbox": [
+    77.675804,
+    12.983988,
+    77.675804,
+    12.983988
+],
   "geometry": {"coordinates":[77.675804,12.983988],"type":"Point"}
 }

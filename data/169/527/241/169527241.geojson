@@ -2,13 +2,14 @@
   "id": 169527241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.814095,18.97249,72.814095,18.97249",
     "geom:latitude":18.97249,
     "geom:longitude":72.814095,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"217, Bombay A/c Market, 2nd Floor, Tardeo,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169527241,
-    "wof:lastmodified":1449035278,
+    "wof:lastmodified":1466288629,
     "wof:name":"Karan Marking Systems Pvt. Ltd.",
     "wof:parent_id":85903971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bar"
     ]
 },
-  "bbox": [72.814095,18.97249,72.814095,18.97249],
-  "geometry": {"coordinates":[72.814095,18.97249],"type":"Point"}
+  "bbox": [
+    72.814095,
+    18.97249,
+    72.814095,
+    18.97249
+],
+  "geometry": {"coordinates":[72.81409499999999,18.97249],"type":"Point"}
 }

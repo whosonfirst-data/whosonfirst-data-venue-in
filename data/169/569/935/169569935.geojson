@@ -2,13 +2,14 @@
   "id": 169569935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.974297,10.365665,77.974297,10.365665",
     "geom:latitude":10.365665,
     "geom:longitude":77.974297,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Palani Road",
     "sg:city":"Udumalpet",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169569935,
-    "wof:lastmodified":1449035830,
+    "wof:lastmodified":1466288775,
     "wof:name":"Sri Venkatesa Paper & Boards Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.974297,10.365665,77.974297,10.365665],
-  "geometry": {"coordinates":[77.974297,10.365665],"type":"Point"}
+  "bbox": [
+    77.974297,
+    10.365665,
+    77.974297,
+    10.365665
+],
+  "geometry": {"coordinates":[77.97429700000001,10.365665],"type":"Point"}
 }

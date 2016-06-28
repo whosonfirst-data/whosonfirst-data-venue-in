@@ -2,13 +2,14 @@
   "id": 169573663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"74.874168,31.631344,74.874168,31.631344",
     "geom:latitude":31.631344,
     "geom:longitude":74.874168,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Gandhi Gate",
     "sg:city":"Amritsar",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169573663,
-    "wof:lastmodified":1449035116,
+    "wof:lastmodified":1466288763,
     "wof:name":"Girdhari Lal Chopra (agents) Pvt Ltd",
     "wof:parent_id":85933839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [74.874168,31.631344,74.874168,31.631344],
+  "bbox": [
+    74.874168,
+    31.631344,
+    74.874168,
+    31.631344
+],
   "geometry": {"coordinates":[74.874168,31.631344],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169550327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.343567,28.67585,77.343567,28.67585",
     "geom:latitude":28.67585,
     "geom:longitude":77.343567,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"D-11, Site-1, Industrial Area,",
     "sg:city":"Unnao",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169550327,
-    "wof:lastmodified":1449034476,
+    "wof:lastmodified":1466288683,
     "wof:name":"Inyati Footwears Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "finished"
     ]
 },
-  "bbox": [77.343567,28.67585,77.343567,28.67585],
-  "geometry": {"coordinates":[77.343567,28.67585],"type":"Point"}
+  "bbox": [
+    77.343567,
+    28.67585,
+    77.343567,
+    28.67585
+],
+  "geometry": {"coordinates":[77.34356699999999,28.67585],"type":"Point"}
 }

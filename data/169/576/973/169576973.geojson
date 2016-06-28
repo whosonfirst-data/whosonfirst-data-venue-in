@@ -2,13 +2,14 @@
   "id": 169576973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"82.151642,17.250061,82.151642,17.250061",
     "geom:latitude":17.250061,
     "geom:longitude":82.151642,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"4th Floor, Commercial Complex, Waltair Uplands, Siripuram,",
     "sg:city":"Vishakapattanam",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169576973,
-    "wof:lastmodified":1449035198,
+    "wof:lastmodified":1466288778,
     "wof:name":"Frontline Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [82.151642,17.250061,82.151642,17.250061],
+  "bbox": [
+    82.151642,
+    17.250061,
+    82.151642,
+    17.250061
+],
   "geometry": {"coordinates":[82.151642,17.250061],"type":"Point"}
 }

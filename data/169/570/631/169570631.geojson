@@ -2,13 +2,14 @@
   "id": 169570631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.233307,28.657848,77.233307,28.657848",
     "geom:latitude":28.657848,
     "geom:longitude":77.233307,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Bhagirath Palace",
     "sg:city":"Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570631,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466288760,
     "wof:name":"Balak Ram Banarsi Dass",
     "wof:parent_id":85928099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.233307,28.657848,77.233307,28.657848],
+  "bbox": [
+    77.233307,
+    28.657848,
+    77.233307,
+    28.657848
+],
   "geometry": {"coordinates":[77.233307,28.657848],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169529111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.832512,18.923603,72.832512,18.923603",
     "geom:latitude":18.923603,
     "geom:longitude":72.832512,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"19, Mahakavi Bhushan Road, Apollo Bunder,",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169529111,
-    "wof:lastmodified":1449034116,
+    "wof:lastmodified":1466288693,
     "wof:name":"Kashmir Novelties",
     "wof:parent_id":85931609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.832512,18.923603,72.832512,18.923603],
-  "geometry": {"coordinates":[72.832512,18.923603],"type":"Point"}
+  "bbox": [
+    72.832512,
+    18.923603,
+    72.832512,
+    18.923603
+],
+  "geometry": {"coordinates":[72.83251199999999,18.923603],"type":"Point"}
 }

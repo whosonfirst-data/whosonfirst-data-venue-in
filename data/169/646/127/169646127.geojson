@@ -2,13 +2,14 @@
   "id": 169646127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.225075,13.069368,80.225075,13.069368",
     "geom:latitude":13.069368,
     "geom:longitude":80.225075,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"103 A, Nelson Manickam Road, Aminjikarai,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169646127,
-    "wof:lastmodified":1449032609,
+    "wof:lastmodified":1466288848,
     "wof:name":"Welchem Scientific Traders",
     "wof:parent_id":85931747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pharmaceutical"
     ]
 },
-  "bbox": [80.225075,13.069368,80.225075,13.069368],
+  "bbox": [
+    80.225075,
+    13.069368,
+    80.225075,
+    13.069368
+],
   "geometry": {"coordinates":[80.225075,13.069368],"type":"Point"}
 }

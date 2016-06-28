@@ -2,13 +2,14 @@
   "id": 169620173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.778671,18.639656,73.778671,18.639656",
     "geom:latitude":18.639656,
     "geom:longitude":73.778671,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"S-77/2, Midc, Bhosari,",
     "sg:city":"Pune",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169620173,
-    "wof:lastmodified":1449035673,
+    "wof:lastmodified":1466288824,
     "wof:name":"Shivamenterprises",
     "wof:parent_id":85931299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pharmaceutical"
     ]
 },
-  "bbox": [73.778671,18.639656,73.778671,18.639656],
+  "bbox": [
+    73.778671,
+    18.639656,
+    73.778671,
+    18.639656
+],
   "geometry": {"coordinates":[73.778671,18.639656],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169637845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.214668,13.106995,80.214668,13.106995",
     "geom:latitude":13.106995,
     "geom:longitude":80.214668,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"47a, Seeyalam Street, Villivakkam, (near Icf Bus Terminus),",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169637845,
-    "wof:lastmodified":1449032686,
+    "wof:lastmodified":1466288849,
     "wof:name":"Tycoon International",
     "wof:parent_id":85903945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "carbon"
     ]
 },
-  "bbox": [80.214668,13.106995,80.214668,13.106995],
+  "bbox": [
+    80.214668,
+    13.106995,
+    80.214668,
+    13.106995
+],
   "geometry": {"coordinates":[80.214668,13.106995],"type":"Point"}
 }

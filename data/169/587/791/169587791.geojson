@@ -2,13 +2,14 @@
   "id": 169587791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.856239,30.698002,76.856239,30.698002",
     "geom:latitude":30.698002,
     "geom:longitude":76.856239,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B-69/70, Sector-5,",
     "sg:city":"Noida",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169587791,
-    "wof:lastmodified":1449033823,
+    "wof:lastmodified":1466288796,
     "wof:name":"Maruti Techno Rubber Pvt. Ltd.",
     "wof:parent_id":85931825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [76.856239,30.698002,76.856239,30.698002],
+  "bbox": [
+    76.856239,
+    30.698002,
+    76.856239,
+    30.698002
+],
   "geometry": {"coordinates":[76.856239,30.698002],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169579239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.162392,13.086576,80.162392,13.086576",
     "geom:latitude":13.086576,
     "geom:longitude":80.162392,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"36, Ambattur Industrial Estate,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169579239,
-    "wof:lastmodified":1449033738,
+    "wof:lastmodified":1466288783,
     "wof:name":"Icmc Corporation Ltd.",
     "wof:parent_id":85927699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [80.162392,13.086576,80.162392,13.086576],
+  "bbox": [
+    80.162392,
+    13.086576,
+    80.162392,
+    13.086576
+],
   "geometry": {"coordinates":[80.162392,13.086576],"type":"Point"}
 }

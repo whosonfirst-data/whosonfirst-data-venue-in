@@ -2,13 +2,14 @@
   "id": 169558073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.901237,18.553646,73.901237,18.553646",
     "geom:latitude":18.553646,
     "geom:longitude":73.901237,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Nagar Road",
     "sg:city":"Pune",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169558073,
-    "wof:lastmodified":1449033581,
+    "wof:lastmodified":1466288699,
     "wof:name":"Ancent Software International Ltd",
     "wof:parent_id":85931247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [73.901237,18.553646,73.901237,18.553646],
-  "geometry": {"coordinates":[73.901237,18.553646],"type":"Point"}
+  "bbox": [
+    73.901237,
+    18.553646,
+    73.901237,
+    18.553646
+],
+  "geometry": {"coordinates":[73.90123699999999,18.553646],"type":"Point"}
 }

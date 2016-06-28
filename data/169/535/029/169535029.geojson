@@ -2,13 +2,14 @@
   "id": 169535029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.823586,18.923851,72.823586,18.923851",
     "geom:latitude":18.923851,
     "geom:longitude":72.823586,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"405, Raheja Cahmbers, Nariman Point,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169535029,
-    "wof:lastmodified":1449033286,
+    "wof:lastmodified":1466288869,
     "wof:name":"Intec Polymers Ltd.",
     "wof:parent_id":85931461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electronic"
     ]
 },
-  "bbox": [72.823586,18.923851,72.823586,18.923851],
-  "geometry": {"coordinates":[72.823586,18.923851],"type":"Point"}
+  "bbox": [
+    72.823586,
+    18.923851,
+    72.823586,
+    18.923851
+],
+  "geometry": {"coordinates":[72.82358600000001,18.923851],"type":"Point"}
 }

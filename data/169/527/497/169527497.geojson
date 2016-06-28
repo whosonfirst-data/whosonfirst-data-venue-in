@@ -2,13 +2,14 @@
   "id": 169527497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.843552,19.156202,72.843552,19.156202",
     "geom:latitude":19.156202,
     "geom:longitude":72.843552,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"209/2305, Motilal Nagar No. 2, M.g. Road, Goregaon West,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169527497,
-    "wof:lastmodified":1449035279,
+    "wof:lastmodified":1466288631,
     "wof:name":"Mission Healthcare Pvt Ltd.",
     "wof:parent_id":85931563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "healthcare"
     ]
 },
-  "bbox": [72.843552,19.156202,72.843552,19.156202],
+  "bbox": [
+    72.843552,
+    19.156202,
+    72.843552,
+    19.156202
+],
   "geometry": {"coordinates":[72.843552,19.156202],"type":"Point"}
 }

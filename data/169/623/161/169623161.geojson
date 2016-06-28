@@ -2,13 +2,14 @@
   "id": 169623161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"85.3423,23.991007,85.3423,23.991007",
     "geom:latitude":23.991007,
     "geom:longitude":85.3423,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B-202, (b) Road No.- 9, V.k.i. Area,",
     "sg:city":"Jaipur",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169623161,
-    "wof:lastmodified":1449034999,
+    "wof:lastmodified":1466288830,
     "wof:name":"Shri Swastik Rubber Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [85.3423,23.991007,85.3423,23.991007],
-  "geometry": {"coordinates":[85.3423,23.991007],"type":"Point"}
+  "bbox": [
+    85.3423,
+    23.991007,
+    85.3423,
+    23.991007
+],
+  "geometry": {"coordinates":[85.34229999999999,23.991007],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169570797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.428024,17.469028,78.428024,17.469028",
     "geom:latitude":17.469028,
     "geom:longitude":78.428024,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Moosapet, Sanathnagar",
     "sg:city":"Hyderabad",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570797,
-    "wof:lastmodified":1449034648,
+    "wof:lastmodified":1466288769,
     "wof:name":"Annapurna Kenmore Tube Products Pvt Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.428024,17.469028,78.428024,17.469028],
-  "geometry": {"coordinates":[78.428024,17.469028],"type":"Point"}
+  "bbox": [
+    78.428024,
+    17.469028,
+    78.428024,
+    17.469028
+],
+  "geometry": {"coordinates":[78.42802399999999,17.469028],"type":"Point"}
 }

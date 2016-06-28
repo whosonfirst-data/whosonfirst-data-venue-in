@@ -2,13 +2,14 @@
   "id": 169611407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.708641,24.578688,73.708641,24.578688",
     "geom:latitude":24.578688,
     "geom:longitude":73.708641,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Sikh Colony,",
     "sg:city":"Udaipur",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169611407,
-    "wof:lastmodified":1449035262,
+    "wof:lastmodified":1466288823,
     "wof:name":"Ritu Electrodes Pvt. Ltd.",
     "wof:parent_id":85934005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [73.708641,24.578688,73.708641,24.578688],
+  "bbox": [
+    73.708641,
+    24.578688,
+    73.708641,
+    24.578688
+],
   "geometry": {"coordinates":[73.708641,24.578688],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169533803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.943199,19.155806,72.943199,19.155806",
     "geom:latitude":19.155806,
     "geom:longitude":72.943199,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"35, Vishal Industrial Estate, 1st Floor, Bandup,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169533803,
-    "wof:lastmodified":1449032645,
+    "wof:lastmodified":1466288869,
     "wof:name":"Perfect Tool Engineering Co.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "dy"
     ]
 },
-  "bbox": [72.943199,19.155806,72.943199,19.155806],
-  "geometry": {"coordinates":[72.943199,19.155806],"type":"Point"}
+  "bbox": [
+    72.943199,
+    19.155806,
+    72.943199,
+    19.155806
+],
+  "geometry": {"coordinates":[72.94319900000001,19.155806],"type":"Point"}
 }

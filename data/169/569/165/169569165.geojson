@@ -2,13 +2,14 @@
   "id": 169569165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.60675,13.036094,77.60675,13.036094",
     "geom:latitude":13.036094,
     "geom:longitude":77.60675,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1st Main, 6th Cross, Gandhi Nagar",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169569165,
-    "wof:lastmodified":1449035833,
+    "wof:lastmodified":1466288737,
     "wof:name":"Pratistha Overseas Pvt Ltd",
     "wof:parent_id":85931095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.60675,13.036094,77.60675,13.036094],
-  "geometry": {"coordinates":[77.60675,13.036094],"type":"Point"}
+  "bbox": [
+    77.60675,
+    13.036094,
+    77.60675,
+    13.036094
+],
+  "geometry": {"coordinates":[77.60675000000001,13.036094],"type":"Point"}
 }

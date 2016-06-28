@@ -2,13 +2,14 @@
   "id": 169577209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.227501,13.067372,80.227501,13.067372",
     "geom:latitude":13.067372,
     "geom:longitude":80.227501,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"96, Nelson Manickam Road,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169577209,
-    "wof:lastmodified":1449036068,
+    "wof:lastmodified":1466288774,
     "wof:name":"Gee Gee Kay Chemical Industry",
     "wof:parent_id":85931747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [80.227501,13.067372,80.227501,13.067372],
+  "bbox": [
+    80.227501,
+    13.067372,
+    80.227501,
+    13.067372
+],
   "geometry": {"coordinates":[80.227501,13.067372],"type":"Point"}
 }

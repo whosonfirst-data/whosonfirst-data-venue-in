@@ -2,13 +2,14 @@
   "id": 169535801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.882591,19.107027,72.882591,19.107027",
     "geom:latitude":19.107027,
     "geom:longitude":72.882591,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"163-b, Mittal Indl. Est., Bldg. No. 5, Andheri (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169535801,
-    "wof:lastmodified":1449033288,
+    "wof:lastmodified":1466288635,
     "wof:name":"Yuva Textile Industries Ltd.",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "export"
     ]
 },
-  "bbox": [72.882591,19.107027,72.882591,19.107027],
-  "geometry": {"coordinates":[72.882591,19.107027],"type":"Point"}
+  "bbox": [
+    72.882591,
+    19.107027,
+    72.882591,
+    19.107027
+],
+  "geometry": {"coordinates":[72.88259100000001,19.107027],"type":"Point"}
 }

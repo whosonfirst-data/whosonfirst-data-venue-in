@@ -2,13 +2,14 @@
   "id": 169562249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.09285,14.381796,76.09285,14.381796",
     "geom:latitude":14.381796,
     "geom:longitude":76.09285,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Hebbal Industrial Estate, Hebbal",
     "sg:city":"Mysore",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169562249,
-    "wof:lastmodified":1449034434,
+    "wof:lastmodified":1466288709,
     "wof:name":"Litetronics Vijay India Pvt Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [76.09285,14.381796,76.09285,14.381796],
+  "bbox": [
+    76.09285,
+    14.381796,
+    76.09285,
+    14.381796
+],
   "geometry": {"coordinates":[76.09285,14.381796],"type":"Point"}
 }

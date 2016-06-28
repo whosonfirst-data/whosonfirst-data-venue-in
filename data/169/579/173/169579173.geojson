@@ -2,13 +2,14 @@
   "id": 169579173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.192795,28.649347,77.192795,28.649347",
     "geom:latitude":28.649347,
     "geom:longitude":77.192795,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"75, Jariwala Bldg., 3rd Flr., R.no 115, S.v.p Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169579173,
-    "wof:lastmodified":1449033740,
+    "wof:lastmodified":1466288780,
     "wof:name":"Hutaib Rubber Products",
     "wof:parent_id":85928243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [77.192795,28.649347,77.192795,28.649347],
+  "bbox": [
+    77.192795,
+    28.649347,
+    77.192795,
+    28.649347
+],
   "geometry": {"coordinates":[77.192795,28.649347],"type":"Point"}
 }

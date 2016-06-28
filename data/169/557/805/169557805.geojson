@@ -2,13 +2,14 @@
   "id": 169557805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"85.810303,20.28653,85.810303,20.28653",
     "geom:latitude":20.28653,
     "geom:longitude":85.810303,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Nayapalli Nh-5",
     "sg:city":"Bhubaneshwar",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169557805,
-    "wof:lastmodified":1449035033,
+    "wof:lastmodified":1466288727,
     "wof:name":"Sidhartha Engineering Pvt Ltd",
     "wof:parent_id":85933771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [85.810303,20.28653,85.810303,20.28653],
+  "bbox": [
+    85.810303,
+    20.28653,
+    85.810303,
+    20.28653
+],
   "geometry": {"coordinates":[85.810303,20.28653],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169640295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.353065,22.569654,88.353065,22.569654",
     "geom:latitude":22.569654,
     "geom:longitude":88.353065,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"30, Bentick Street, 3rd Floor, Room No. 313,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169640295,
-    "wof:lastmodified":1449034103,
+    "wof:lastmodified":1466288844,
     "wof:name":"Uniworth Impex",
     "wof:parent_id":85931969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [88.353065,22.569654,88.353065,22.569654],
+  "bbox": [
+    88.353065,
+    22.569654,
+    88.353065,
+    22.569654
+],
   "geometry": {"coordinates":[88.353065,22.569654],"type":"Point"}
 }

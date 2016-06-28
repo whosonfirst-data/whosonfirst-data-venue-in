@@ -2,13 +2,14 @@
   "id": 169632515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.349823,22.576982,88.349823,22.576982",
     "geom:latitude":22.576982,
     "geom:longitude":88.349823,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"5/1 Dr. Rajendra Prasad Sarani,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169632515,
-    "wof:lastmodified":1449034793,
+    "wof:lastmodified":1466288837,
     "wof:name":"Sutapa Importers",
     "wof:parent_id":85903957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [88.349823,22.576982,88.349823,22.576982],
+  "bbox": [
+    88.349823,
+    22.576982,
+    88.349823,
+    22.576982
+],
   "geometry": {"coordinates":[88.349823,22.576982],"type":"Point"}
 }

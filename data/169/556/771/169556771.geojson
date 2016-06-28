@@ -2,13 +2,14 @@
   "id": 169556771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.830238,18.960028,72.830238,18.960028",
     "geom:latitude":18.960028,
     "geom:longitude":72.830238,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Saifee Jubilee Street",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169556771,
-    "wof:lastmodified":1449033508,
+    "wof:lastmodified":1466288725,
     "wof:name":"Bharmal Thread Works Pvt Ltd",
     "wof:parent_id":85903863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.830238,18.960028,72.830238,18.960028],
-  "geometry": {"coordinates":[72.830238,18.960028],"type":"Point"}
+  "bbox": [
+    72.830238,
+    18.960028,
+    72.830238,
+    18.960028
+],
+  "geometry": {"coordinates":[72.83023799999999,18.960028],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169585547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"81.34269,21.196381,81.34269,21.196381",
     "geom:latitude":21.196381,
     "geom:longitude":81.34269,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"E-82, Sector-6, G.b.nagar,",
     "sg:city":"Noida",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169585547,
-    "wof:lastmodified":1449034883,
+    "wof:lastmodified":1466288791,
     "wof:name":"M. T. Polymers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "polymer"
     ]
 },
-  "bbox": [81.34269,21.196381,81.34269,21.196381],
+  "bbox": [
+    81.34269,
+    21.196381,
+    81.34269,
+    21.196381
+],
   "geometry": {"coordinates":[81.34269,21.196381],"type":"Point"}
 }

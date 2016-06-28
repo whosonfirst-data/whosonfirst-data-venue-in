@@ -2,13 +2,14 @@
   "id": 169555845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.360252,22.595108,88.360252,22.595108",
     "geom:latitude":22.595108,
     "geom:longitude":88.360252,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B.k.paul Avenue",
     "sg:city":"Kolkata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169555845,
-    "wof:lastmodified":1449035495,
+    "wof:lastmodified":1466288728,
     "wof:name":"Lion Pictures & Frames India Ltd",
     "wof:parent_id":85931965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [88.360252,22.595108,88.360252,22.595108],
+  "bbox": [
+    88.360252,
+    22.595108,
+    88.360252,
+    22.595108
+],
   "geometry": {"coordinates":[88.360252,22.595108],"type":"Point"}
 }

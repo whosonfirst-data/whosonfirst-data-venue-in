@@ -2,13 +2,14 @@
   "id": 169527669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.837517,19.156689,72.837517,19.156689",
     "geom:latitude":19.156689,
     "geom:longitude":72.837517,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"11/92, Motilal Nagar No. 1, Goregaon West,",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169527669,
-    "wof:lastmodified":1449035277,
+    "wof:lastmodified":1466288632,
     "wof:name":"Carona Exports",
     "wof:parent_id":85931563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.837517,19.156689,72.837517,19.156689],
-  "geometry": {"coordinates":[72.837517,19.156689],"type":"Point"}
+  "bbox": [
+    72.837517,
+    19.156689,
+    72.837517,
+    19.156689
+],
+  "geometry": {"coordinates":[72.83751700000001,19.156689],"type":"Point"}
 }

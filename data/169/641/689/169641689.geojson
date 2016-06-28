@@ -2,13 +2,14 @@
   "id": 169641689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.100334,28.70027,77.100334,28.70027",
     "geom:latitude":28.70027,
     "geom:longitude":77.100334,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"C-2/13, Sector-ii, Rohini,",
     "sg:city":"Delhi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169641689,
-    "wof:lastmodified":1449035171,
+    "wof:lastmodified":1466288846,
     "wof:name":"Vardhman Aluminium & Cookware Co. Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "silicon"
     ]
 },
-  "bbox": [77.100334,28.70027,77.100334,28.70027],
+  "bbox": [
+    77.100334,
+    28.70027,
+    77.100334,
+    28.70027
+],
   "geometry": {"coordinates":[77.100334,28.70027],"type":"Point"}
 }

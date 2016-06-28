@@ -2,13 +2,14 @@
   "id": 169555943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.545555,13.014391,77.545555,13.014391",
     "geom:latitude":13.014391,
     "geom:longitude":77.545555,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Peenya Industrial Area, 2nd Phase",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169555943,
-    "wof:lastmodified":1449035494,
+    "wof:lastmodified":1466288733,
     "wof:name":"Cg Smith Software Ltd",
     "wof:parent_id":85930919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.545555,13.014391,77.545555,13.014391],
-  "geometry": {"coordinates":[77.545555,13.014391],"type":"Point"}
+  "bbox": [
+    77.545555,
+    13.014391,
+    77.545555,
+    13.014391
+],
+  "geometry": {"coordinates":[77.54555499999999,13.014391],"type":"Point"}
 }

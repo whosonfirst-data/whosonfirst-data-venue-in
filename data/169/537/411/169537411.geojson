@@ -2,13 +2,14 @@
   "id": 169537411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.609085,12.293388,76.609085,12.293388",
     "geom:latitude":12.293388,
     "geom:longitude":76.609085,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"3/2, 1/1, 1st Main 1sr Cross, M.c Layout,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169537411,
-    "wof:lastmodified":1449033495,
+    "wof:lastmodified":1466288635,
     "wof:name":"Jlm Automatics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "precision"
     ]
 },
-  "bbox": [76.609085,12.293388,76.609085,12.293388],
-  "geometry": {"coordinates":[76.609085,12.293388],"type":"Point"}
+  "bbox": [
+    76.609085,
+    12.293388,
+    76.609085,
+    12.293388
+],
+  "geometry": {"coordinates":[76.60908499999999,12.293388],"type":"Point"}
 }

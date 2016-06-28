@@ -2,13 +2,14 @@
   "id": 169547275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"83.880432,18.301575,83.880432,18.301575",
     "geom:latitude":18.301575,
     "geom:longitude":83.880432,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"22, K.p.n. Colony,",
     "sg:city":"Tirupur",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169547275,
-    "wof:lastmodified":1449033008,
+    "wof:lastmodified":1466288662,
     "wof:name":"Tgr Innovations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "paper"
     ]
 },
-  "bbox": [83.880432,18.301575,83.880432,18.301575],
+  "bbox": [
+    83.880432,
+    18.301575,
+    83.880432,
+    18.301575
+],
   "geometry": {"coordinates":[83.880432,18.301575],"type":"Point"}
 }

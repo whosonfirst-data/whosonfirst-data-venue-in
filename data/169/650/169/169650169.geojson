@@ -2,13 +2,14 @@
   "id": 169650169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.248153,13.029274,80.248153,13.029274",
     "geom:latitude":13.029274,
     "geom:longitude":80.248153,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#4 Chamiers Road Nandanam",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169650169,
-    "wof:lastmodified":1449034701,
+    "wof:lastmodified":1466288851,
     "wof:name":"JobsByRef",
     "wof:parent_id":85931737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "recruitment"
     ]
 },
-  "bbox": [80.248153,13.029274,80.248153,13.029274],
+  "bbox": [
+    80.248153,
+    13.029274,
+    80.248153,
+    13.029274
+],
   "geometry": {"coordinates":[80.248153,13.029274],"type":"Point"}
 }

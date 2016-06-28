@@ -2,13 +2,14 @@
   "id": 169529015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.822784,19.141706,72.822784,19.141706",
     "geom:latitude":19.141706,
     "geom:longitude":72.822784,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1603/4, Magnum Tower, Lokhandwala Complex, Andheri (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169529015,
-    "wof:lastmodified":1449034114,
+    "wof:lastmodified":1466288636,
     "wof:name":"Access Marketing",
     "wof:parent_id":85931475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "graphite"
     ]
 },
-  "bbox": [72.822784,19.141706,72.822784,19.141706],
+  "bbox": [
+    72.822784,
+    19.141706,
+    72.822784,
+    19.141706
+],
   "geometry": {"coordinates":[72.822784,19.141706],"type":"Point"}
 }

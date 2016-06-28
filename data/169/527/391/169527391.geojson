@@ -2,13 +2,14 @@
   "id": 169527391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.244423,28.643017,77.244423,28.643017",
     "geom:latitude":28.643017,
     "geom:longitude":77.244423,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"M.t. Ansari Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169527391,
-    "wof:lastmodified":1449035279,
+    "wof:lastmodified":1466288630,
     "wof:name":"Taj Trading Carporation",
     "wof:parent_id":85903843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bean"
     ]
 },
-  "bbox": [77.244423,28.643017,77.244423,28.643017],
+  "bbox": [
+    77.244423,
+    28.643017,
+    77.244423,
+    28.643017
+],
   "geometry": {"coordinates":[77.244423,28.643017],"type":"Point"}
 }

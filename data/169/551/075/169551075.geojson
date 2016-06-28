@@ -2,13 +2,14 @@
   "id": 169551075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.187576,22.306549,73.187576,22.306549",
     "geom:latitude":22.306549,
     "geom:longitude":73.187576,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Baroda Jambusar, Green Ford Site, N.h. Road, At& Po. Dabhasa,  Tal. Padra,",
     "sg:city":"Vadodara",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169551075,
-    "wof:lastmodified":1449033353,
+    "wof:lastmodified":1466288882,
     "wof:name":"Swiss Personal Care Pvt. Ltd.",
     "wof:parent_id":85933515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "healthcare"
     ]
 },
-  "bbox": [73.187576,22.306549,73.187576,22.306549],
-  "geometry": {"coordinates":[73.187576,22.306549],"type":"Point"}
+  "bbox": [
+    73.187576,
+    22.306549,
+    73.187576,
+    22.306549
+],
+  "geometry": {"coordinates":[73.18757600000001,22.306549],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169579599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.968315,11.016525,76.968315,11.016525",
     "geom:latitude":11.016525,
     "geom:longitude":76.968315,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"293, Dr. Nanjappa Road,",
     "sg:city":"Coimbatore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169579599,
-    "wof:lastmodified":1449033740,
+    "wof:lastmodified":1466288796,
     "wof:name":"Indian Textile Suppliers & Co.",
     "wof:parent_id":85783699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "adhesive"
     ]
 },
-  "bbox": [76.968315,11.016525,76.968315,11.016525],
+  "bbox": [
+    76.968315,
+    11.016525,
+    76.968315,
+    11.016525
+],
   "geometry": {"coordinates":[76.968315,11.016525],"type":"Point"}
 }

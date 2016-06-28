@@ -2,13 +2,14 @@
   "id": 169539729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.195175,28.578234,77.195175,28.578234",
     "geom:latitude":28.578234,
     "geom:longitude":77.195175,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"104, Andrews Building, M.g. Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169539729,
-    "wof:lastmodified":1449036038,
+    "wof:lastmodified":1466288652,
     "wof:name":"Happy Home's Art & Crafts",
     "wof:parent_id":85928329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sculpture"
     ]
 },
-  "bbox": [77.195175,28.578234,77.195175,28.578234],
-  "geometry": {"coordinates":[77.195175,28.578234],"type":"Point"}
+  "bbox": [
+    77.195175,
+    28.578234,
+    77.195175,
+    28.578234
+],
+  "geometry": {"coordinates":[77.19517500000001,28.578234],"type":"Point"}
 }

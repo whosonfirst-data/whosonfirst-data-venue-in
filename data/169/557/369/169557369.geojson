@@ -2,13 +2,14 @@
   "id": 169557369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.475769,17.401699,78.475769,17.401699",
     "geom:latitude":17.401699,
     "geom:longitude":78.475769,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Basheerbagh",
     "sg:city":"Hyderabad",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169557369,
-    "wof:lastmodified":1449035037,
+    "wof:lastmodified":1466288708,
     "wof:name":"Ulvac, Inc , Indian Liasion Office",
     "wof:parent_id":85930719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.475769,17.401699,78.475769,17.401699],
+  "bbox": [
+    78.475769,
+    17.401699,
+    78.475769,
+    17.401699
+],
   "geometry": {"coordinates":[78.475769,17.401699],"type":"Point"}
 }

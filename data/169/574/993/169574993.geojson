@@ -2,13 +2,14 @@
   "id": 169574993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.243027,28.583153,77.243027,28.583153",
     "geom:latitude":28.583153,
     "geom:longitude":77.243027,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"D.s. Jungpura Extension",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169574993,
-    "wof:lastmodified":1449032663,
+    "wof:lastmodified":1466288786,
     "wof:name":"Global Sales N Services",
     "wof:parent_id":85928001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.243027,28.583153,77.243027,28.583153],
+  "bbox": [
+    77.243027,
+    28.583153,
+    77.243027,
+    28.583153
+],
   "geometry": {"coordinates":[77.243027,28.583153],"type":"Point"}
 }

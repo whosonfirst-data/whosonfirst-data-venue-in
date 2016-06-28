@@ -2,13 +2,14 @@
   "id": 169557055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.185608,13.103618,80.185608,13.103618",
     "geom:latitude":13.103618,
     "geom:longitude":80.185608,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"2nd Street",
     "sg:city":"Tirupur",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169557055,
-    "wof:lastmodified":1449035035,
+    "wof:lastmodified":1466288696,
     "wof:name":"Sentinel Clothing Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.185608,13.103618,80.185608,13.103618],
+  "bbox": [
+    80.185608,
+    13.103618,
+    80.185608,
+    13.103618
+],
   "geometry": {"coordinates":[80.185608,13.103618],"type":"Point"}
 }

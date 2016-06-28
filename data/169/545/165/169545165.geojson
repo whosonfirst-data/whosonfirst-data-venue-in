@@ -2,13 +2,14 @@
   "id": 169545165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.515373,13.030847,77.515373,13.030847",
     "geom:latitude":13.030847,
     "geom:longitude":77.515373,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"A-16, Ii Stage, Peenya Industrial Estate,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169545165,
-    "wof:lastmodified":1449033488,
+    "wof:lastmodified":1466288645,
     "wof:name":"Pradeep Industrial Packers (p) Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yarn"
     ]
 },
-  "bbox": [77.515373,13.030847,77.515373,13.030847],
+  "bbox": [
+    77.515373,
+    13.030847,
+    77.515373,
+    13.030847
+],
   "geometry": {"coordinates":[77.515373,13.030847],"type":"Point"}
 }

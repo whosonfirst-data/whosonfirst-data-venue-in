@@ -2,13 +2,14 @@
   "id": 169562031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.425697,16.309572,80.425697,16.309572",
     "geom:latitude":16.309572,
     "geom:longitude":80.425697,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Ashoknagar",
     "sg:city":"Hyderabad",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169562031,
-    "wof:lastmodified":1449034437,
+    "wof:lastmodified":1466288892,
     "wof:name":"Bhagavathi Ana Labs Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.425697,16.309572,80.425697,16.309572],
+  "bbox": [
+    80.425697,
+    16.309572,
+    80.425697,
+    16.309572
+],
   "geometry": {"coordinates":[80.425697,16.309572],"type":"Point"}
 }

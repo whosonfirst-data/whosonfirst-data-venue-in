@@ -2,13 +2,14 @@
   "id": 169560035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.189034,28.651609,77.189034,28.651609",
     "geom:latitude":28.651609,
     "geom:longitude":77.189034,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"6535, Hardyan Singh Road, Dev Nagar, Karol Bagh,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169560035,
-    "wof:lastmodified":1449035182,
+    "wof:lastmodified":1466288702,
     "wof:name":"Dcp Synthetics Pvt. Ltd.",
     "wof:parent_id":85903883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pu/pvc"
     ]
 },
-  "bbox": [77.189034,28.651609,77.189034,28.651609],
-  "geometry": {"coordinates":[77.189034,28.651609],"type":"Point"}
+  "bbox": [
+    77.189034,
+    28.651609,
+    77.189034,
+    28.651609
+],
+  "geometry": {"coordinates":[77.18903400000001,28.651609],"type":"Point"}
 }

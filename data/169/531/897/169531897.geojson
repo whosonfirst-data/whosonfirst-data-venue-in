@@ -2,13 +2,14 @@
   "id": 169531897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.858315,19.163736,72.858315,19.163736",
     "geom:latitude":19.163736,
     "geom:longitude":72.858315,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Western Express Highway, Goregaon (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169531897,
-    "wof:lastmodified":1449033476,
+    "wof:lastmodified":1466288860,
     "wof:name":"Mahanand Dairy",
     "wof:parent_id":85931525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [72.858315,19.163736,72.858315,19.163736],
+  "bbox": [
+    72.858315,
+    19.163736,
+    72.858315,
+    19.163736
+],
   "geometry": {"coordinates":[72.858315,19.163736],"type":"Point"}
 }

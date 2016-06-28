@@ -2,13 +2,14 @@
   "id": 169617137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"75.57061,31.328199,75.57061,31.328199",
     "geom:latitude":31.328199,
     "geom:longitude":75.57061,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"D.no.10-108, Shaktinagar,",
     "sg:city":"Mangalore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169617137,
-    "wof:lastmodified":1449032801,
+    "wof:lastmodified":1466288823,
     "wof:name":"Sarosh Technical Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [75.57061,31.328199,75.57061,31.328199],
+  "bbox": [
+    75.57061,
+    31.328199,
+    75.57061,
+    31.328199
+],
   "geometry": {"coordinates":[75.57061,31.328199],"type":"Point"}
 }

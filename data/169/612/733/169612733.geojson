@@ -2,13 +2,14 @@
   "id": 169612733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"75.540222,31.335741,75.540222,31.335741",
     "geom:latitude":31.335741,
     "geom:longitude":75.540222,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Basti Bawa Khel,",
     "sg:city":"Jalandhar",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169612733,
-    "wof:lastmodified":1449034131,
+    "wof:lastmodified":1466288826,
     "wof:name":"Rubber Wing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [75.540222,31.335741,75.540222,31.335741],
+  "bbox": [
+    75.540222,
+    31.335741,
+    75.540222,
+    31.335741
+],
   "geometry": {"coordinates":[75.540222,31.335741],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169528901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.834328,18.922504,72.834328,18.922504",
     "geom:latitude":18.922504,
     "geom:longitude":72.834328,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Gateway Building, Apollo Bunder,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169528901,
-    "wof:lastmodified":1449033570,
+    "wof:lastmodified":1466288691,
     "wof:name":"Mahindra Engineering & Chemical Products Ltd.",
     "wof:parent_id":85931609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accessory"
     ]
 },
-  "bbox": [72.834328,18.922504,72.834328,18.922504],
+  "bbox": [
+    72.834328,
+    18.922504,
+    72.834328,
+    18.922504
+],
   "geometry": {"coordinates":[72.834328,18.922504],"type":"Point"}
 }

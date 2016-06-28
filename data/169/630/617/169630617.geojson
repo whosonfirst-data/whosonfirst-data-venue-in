@@ -2,13 +2,14 @@
   "id": 169630617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.207458,28.552158,77.207458,28.552158",
     "geom:latitude":28.552158,
     "geom:longitude":77.207458,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"X-17, Hauz Khas,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169630617,
-    "wof:lastmodified":1449033867,
+    "wof:lastmodified":1466288838,
     "wof:name":"Sun Overseas",
     "wof:parent_id":85928641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [77.207458,28.552158,77.207458,28.552158],
+  "bbox": [
+    77.207458,
+    28.552158,
+    77.207458,
+    28.552158
+],
   "geometry": {"coordinates":[77.207458,28.552158],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169549701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.996933,20.812515,72.996933,20.812515",
     "geom:latitude":20.812515,
     "geom:longitude":72.996933,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"G.i.d.c., Plot No. 146-148, Vitthal,",
     "sg:city":"Udyognagar",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169549701,
-    "wof:lastmodified":1449033593,
+    "wof:lastmodified":1466288690,
     "wof:name":"Pioneer Furnaces Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.996933,20.812515,72.996933,20.812515],
+  "bbox": [
+    72.996933,
+    20.812515,
+    72.996933,
+    20.812515
+],
   "geometry": {"coordinates":[72.996933,20.812515],"type":"Point"}
 }

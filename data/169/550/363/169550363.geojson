@@ -2,13 +2,14 @@
   "id": 169550363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.555077,9.457333,77.555077,9.457333",
     "geom:latitude":9.457333,
     "geom:longitude":77.555077,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"3-5-2, Theni Road,",
     "sg:city":"Usilampatti",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169550363,
-    "wof:lastmodified":1449034478,
+    "wof:lastmodified":1466288882,
     "wof:name":"Keofood Products (p) Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pickle"
     ]
 },
-  "bbox": [77.555077,9.457333,77.555077,9.457333],
+  "bbox": [
+    77.555077,
+    9.457333,
+    77.555077,
+    9.457333
+],
   "geometry": {"coordinates":[77.555077,9.457333],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 169557953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.856079,19.109003,72.856079,19.109003",
     "geom:latitude":19.109003,
     "geom:longitude":72.856079,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sahar Road, Koldongri, Andheri (e)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169557953,
-    "wof:lastmodified":1449035036,
+    "wof:lastmodified":1466288733,
     "wof:name":"Nitish Distributors Pvt Ltd",
     "wof:parent_id":85931483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.856079,19.109003,72.856079,19.109003],
-  "geometry": {"coordinates":[72.856079,19.109003],"type":"Point"}
+  "bbox": [
+    72.856079,
+    19.109003,
+    72.856079,
+    19.109003
+],
+  "geometry": {"coordinates":[72.85607899999999,19.109003],"type":"Point"}
 }

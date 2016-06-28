@@ -2,13 +2,14 @@
   "id": 169607041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.308777,26.471178,80.308777,26.471178",
     "geom:latitude":26.471178,
     "geom:longitude":80.308777,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"C-7, Lajpat Nagar - I,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169607041,
-    "wof:lastmodified":1449033122,
+    "wof:lastmodified":1466288814,
     "wof:name":"Radisons Polymers",
     "wof:parent_id":85903809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "synthetic"
     ]
 },
-  "bbox": [80.308777,26.471178,80.308777,26.471178],
-  "geometry": {"coordinates":[80.308777,26.471178],"type":"Point"}
+  "bbox": [
+    80.308777,
+    26.471178,
+    80.308777,
+    26.471178
+],
+  "geometry": {"coordinates":[80.30877700000001,26.471178],"type":"Point"}
 }

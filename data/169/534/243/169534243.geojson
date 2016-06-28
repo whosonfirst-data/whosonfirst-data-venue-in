@@ -2,13 +2,14 @@
   "id": 169534243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.924553,19.119467,72.924553,19.119467",
     "geom:latitude":19.119467,
     "geom:longitude":72.924553,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"115, Vardhaman Complex, Lbs Marg, Vikhroli (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169534243,
-    "wof:lastmodified":1449033548,
+    "wof:lastmodified":1466288870,
     "wof:name":"Excellent Engineering & Allied Services Pvt. Ltd.",
     "wof:parent_id":85931627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "earth"
     ]
 },
-  "bbox": [72.924553,19.119467,72.924553,19.119467],
+  "bbox": [
+    72.924553,
+    19.119467,
+    72.924553,
+    19.119467
+],
   "geometry": {"coordinates":[72.924553,19.119467],"type":"Point"}
 }

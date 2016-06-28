@@ -2,13 +2,14 @@
   "id": 169578175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.614449,12.974972,77.614449,12.974972",
     "geom:latitude":12.974972,
     "geom:longitude":77.614449,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"S-418a, Manipal Centre 47, Dickenson Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169578175,
-    "wof:lastmodified":1449033520,
+    "wof:lastmodified":1466288775,
     "wof:name":"Gulshan Sugars & Chemicals Ltd.",
     "wof:parent_id":85930841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.614449,12.974972,77.614449,12.974972],
-  "geometry": {"coordinates":[77.614449,12.974972],"type":"Point"}
+  "bbox": [
+    77.614449,
+    12.974972,
+    77.614449,
+    12.974972
+],
+  "geometry": {"coordinates":[77.61444899999999,12.974972],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169569559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.82943,18.955406,72.82943,18.955406",
     "geom:latitude":18.955406,
     "geom:longitude":72.82943,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Kika Street, Gulal Wadi",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169569559,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1466288758,
     "wof:name":"Morakhia Metal & Alloys Pvt Ltd",
     "wof:parent_id":85931435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.82943,18.955406,72.82943,18.955406],
+  "bbox": [
+    72.82943,
+    18.955406,
+    72.82943,
+    18.955406
+],
   "geometry": {"coordinates":[72.82943,18.955406],"type":"Point"}
 }

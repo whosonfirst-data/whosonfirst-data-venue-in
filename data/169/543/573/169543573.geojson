@@ -2,13 +2,14 @@
   "id": 169543573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.561142,13.036857,77.561142,13.036857",
     "geom:latitude":13.036857,
     "geom:longitude":77.561142,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"4/1, M.s.r. Industrial Estate, Mathikere,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169543573,
-    "wof:lastmodified":1449033336,
+    "wof:lastmodified":1466288663,
     "wof:name":"Gold Shine Industries",
     "wof:parent_id":85930923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "container"
     ]
 },
-  "bbox": [77.561142,13.036857,77.561142,13.036857],
+  "bbox": [
+    77.561142,
+    13.036857,
+    77.561142,
+    13.036857
+],
   "geometry": {"coordinates":[77.561142,13.036857],"type":"Point"}
 }

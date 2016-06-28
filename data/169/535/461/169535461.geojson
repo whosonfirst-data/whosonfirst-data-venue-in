@@ -2,13 +2,14 @@
   "id": 169535461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.832726,18.956556,72.832726,18.956556",
     "geom:latitude":18.956556,
     "geom:longitude":72.832726,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Mustafa Building, 7a, \nSir P.m. Road, Fort,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169535461,
-    "wof:lastmodified":1449033286,
+    "wof:lastmodified":1466288874,
     "wof:name":"Asfa Laval (india) Limited",
     "wof:parent_id":85903863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "good"
     ]
 },
-  "bbox": [72.832726,18.956556,72.832726,18.956556],
-  "geometry": {"coordinates":[72.832726,18.956556],"type":"Point"}
+  "bbox": [
+    72.832726,
+    18.956556,
+    72.832726,
+    18.956556
+],
+  "geometry": {"coordinates":[72.83272599999999,18.956556],"type":"Point"}
 }

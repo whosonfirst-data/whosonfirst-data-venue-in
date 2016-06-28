@@ -2,13 +2,14 @@
   "id": 169577795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.169846,13.093922,80.169846,13.093922",
     "geom:latitude":13.093922,
     "geom:longitude":80.169846,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#86e/2a, Ambattur Industrial Estate,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169577795,
-    "wof:lastmodified":1449036067,
+    "wof:lastmodified":1466288797,
     "wof:name":"Goodrite Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "allied"
     ]
 },
-  "bbox": [80.169846,13.093922,80.169846,13.093922],
-  "geometry": {"coordinates":[80.169846,13.093922],"type":"Point"}
+  "bbox": [
+    80.169846,
+    13.093922,
+    80.169846,
+    13.093922
+],
+  "geometry": {"coordinates":[80.16984600000001,13.093922],"type":"Point"}
 }

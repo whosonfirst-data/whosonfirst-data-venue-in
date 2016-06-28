@@ -2,13 +2,14 @@
   "id": 169538079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"81.730705,16.516787,81.730705,16.516787",
     "geom:latitude":16.516787,
     "geom:longitude":81.730705,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"136, A.m. Road, K.p.n. Extension,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169538079,
-    "wof:lastmodified":1449033099,
+    "wof:lastmodified":1466288875,
     "wof:name":"Colorinks Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "raw"
     ]
 },
-  "bbox": [81.730705,16.516787,81.730705,16.516787],
+  "bbox": [
+    81.730705,
+    16.516787,
+    81.730705,
+    16.516787
+],
   "geometry": {"coordinates":[81.730705,16.516787],"type":"Point"}
 }

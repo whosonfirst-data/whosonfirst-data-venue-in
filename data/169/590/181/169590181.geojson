@@ -2,13 +2,14 @@
   "id": 169590181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.09848,28.690914,77.09848,28.690914",
     "geom:latitude":28.690914,
     "geom:longitude":77.09848,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"96, Vidya Vihar, West Enclave, Pitam Pura,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169590181,
-    "wof:lastmodified":1449034655,
+    "wof:lastmodified":1466288801,
     "wof:name":"Mishigan Tyres & Tubes Industries Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "-"
     ]
 },
-  "bbox": [77.09848,28.690914,77.09848,28.690914],
+  "bbox": [
+    77.09848,
+    28.690914,
+    77.09848,
+    28.690914
+],
   "geometry": {"coordinates":[77.09848,28.690914],"type":"Point"}
 }

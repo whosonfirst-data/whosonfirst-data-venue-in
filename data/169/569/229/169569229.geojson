@@ -2,13 +2,14 @@
   "id": 169569229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.239075,28.566643,77.239075,28.566643",
     "geom:latitude":28.566643,
     "geom:longitude":77.239075,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Lajpat Nagar - Iii",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169569229,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1466288741,
     "wof:name":"Pavillions & Interiors",
     "wof:parent_id":85927997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.239075,28.566643,77.239075,28.566643],
+  "bbox": [
+    77.239075,
+    28.566643,
+    77.239075,
+    28.566643
+],
   "geometry": {"coordinates":[77.239075,28.566643],"type":"Point"}
 }

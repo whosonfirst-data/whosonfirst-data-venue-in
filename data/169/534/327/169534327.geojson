@@ -2,13 +2,14 @@
   "id": 169534327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.833817,18.930189,72.833817,18.930189",
     "geom:latitude":18.930189,
     "geom:longitude":72.833817,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"105, Bombay Samachar Marg, Fort,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169534327,
-    "wof:lastmodified":1449033546,
+    "wof:lastmodified":1466288871,
     "wof:name":"British Engineering Co.",
     "wof:parent_id":85903853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "electric"
     ]
 },
-  "bbox": [72.833817,18.930189,72.833817,18.930189],
+  "bbox": [
+    72.833817,
+    18.930189,
+    72.833817,
+    18.930189
+],
   "geometry": {"coordinates":[72.833817,18.930189],"type":"Point"}
 }

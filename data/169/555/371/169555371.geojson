@@ -2,13 +2,14 @@
   "id": 169555371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.833801,19.055853,72.833801,19.055853",
     "geom:latitude":19.055853,
     "geom:longitude":72.833801,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Hill Road, Bandra (w)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169555371,
-    "wof:lastmodified":1449035496,
+    "wof:lastmodified":1466288704,
     "wof:name":"Wall Street Finance Ltd",
     "wof:parent_id":85931581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.833801,19.055853,72.833801,19.055853],
-  "geometry": {"coordinates":[72.833801,19.055853],"type":"Point"}
+  "bbox": [
+    72.833801,
+    19.055853,
+    72.833801,
+    19.055853
+],
+  "geometry": {"coordinates":[72.83380099999999,19.055853],"type":"Point"}
 }

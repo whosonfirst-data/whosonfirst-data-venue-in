@@ -2,13 +2,14 @@
   "id": 169527903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.863945,19.124256,72.863945,19.124256",
     "geom:latitude":19.124256,
     "geom:longitude":72.863945,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"34/133, Laxmi Industrial Estate, Andheri (west),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169527903,
-    "wof:lastmodified":1449035278,
+    "wof:lastmodified":1466288635,
     "wof:name":"Adit Containers Pvt. Ltd.",
     "wof:parent_id":85931515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bottle"
     ]
 },
-  "bbox": [72.863945,19.124256,72.863945,19.124256],
+  "bbox": [
+    72.863945,
+    19.124256,
+    72.863945,
+    19.124256
+],
   "geometry": {"coordinates":[72.863945,19.124256],"type":"Point"}
 }

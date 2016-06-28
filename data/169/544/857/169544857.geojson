@@ -2,13 +2,14 @@
   "id": 169544857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.516365,13.0234,77.516365,13.0234",
     "geom:latitude":13.0234,
     "geom:longitude":77.516365,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 229, 2nd Cross, 3rd Phase, Peenya Industrial Area,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169544857,
-    "wof:lastmodified":1449035963,
+    "wof:lastmodified":1466288676,
     "wof:name":"Technoweld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "welding"
     ]
 },
-  "bbox": [77.516365,13.0234,77.516365,13.0234],
-  "geometry": {"coordinates":[77.516365,13.0234],"type":"Point"}
+  "bbox": [
+    77.516365,
+    13.0234,
+    77.516365,
+    13.0234
+],
+  "geometry": {"coordinates":[77.51636499999999,13.0234],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169535217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.824219,18.925573,72.824219,18.925573",
     "geom:latitude":18.925573,
     "geom:longitude":72.824219,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Raheja Chamber, 2nd Floor, 213, Nariman Point,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169535217,
-    "wof:lastmodified":1449033288,
+    "wof:lastmodified":1466288872,
     "wof:name":"My Beautiful Embroideries",
     "wof:parent_id":85931461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "embroidery"
     ]
 },
-  "bbox": [72.824219,18.925573,72.824219,18.925573],
+  "bbox": [
+    72.824219,
+    18.925573,
+    72.824219,
+    18.925573
+],
   "geometry": {"coordinates":[72.824219,18.925573],"type":"Point"}
 }

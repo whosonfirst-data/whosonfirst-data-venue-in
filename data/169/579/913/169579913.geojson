@@ -2,13 +2,14 @@
   "id": 169579913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.27787,28.534464,77.27787,28.534464",
     "geom:latitude":28.534464,
     "geom:longitude":77.27787,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"F-49, Okhla Industrial Area-i,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169579913,
-    "wof:lastmodified":1449033741,
+    "wof:lastmodified":1466288809,
     "wof:name":"Intech India Pvt. Ltd.",
     "wof:parent_id":85927991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [77.27787,28.534464,77.27787,28.534464],
-  "geometry": {"coordinates":[77.27787,28.534464],"type":"Point"}
+  "bbox": [
+    77.27787,
+    28.534464,
+    77.27787,
+    28.534464
+],
+  "geometry": {"coordinates":[77.27786999999999,28.534464],"type":"Point"}
 }

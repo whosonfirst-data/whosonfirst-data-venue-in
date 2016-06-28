@@ -2,13 +2,14 @@
   "id": 169547597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.117386,13.119475,80.117386,13.119475",
     "geom:latitude":13.119475,
     "geom:longitude":80.117386,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"77, Madurai Road, S.a.m.complex, 2nd Floor,",
     "sg:city":"Tirupur",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169547597,
-    "wof:lastmodified":1449033010,
+    "wof:lastmodified":1466288673,
     "wof:name":"Shafi Steels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "component"
     ]
 },
-  "bbox": [80.117386,13.119475,80.117386,13.119475],
+  "bbox": [
+    80.117386,
+    13.119475,
+    80.117386,
+    13.119475
+],
   "geometry": {"coordinates":[80.117386,13.119475],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169622149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.052132,28.468428,77.052132,28.468428",
     "geom:latitude":28.468428,
     "geom:longitude":77.052132,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1918 Sec-16,",
     "sg:city":"Faridabad",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169622149,
-    "wof:lastmodified":1449035364,
+    "wof:lastmodified":1466288828,
     "wof:name":"Shri Balaji International",
     "wof:parent_id":85928493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.052132,28.468428,77.052132,28.468428],
+  "bbox": [
+    77.052132,
+    28.468428,
+    77.052132,
+    28.468428
+],
   "geometry": {"coordinates":[77.052132,28.468428],"type":"Point"}
 }

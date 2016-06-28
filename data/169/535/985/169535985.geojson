@@ -2,13 +2,14 @@
   "id": 169535985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.821991,18.926422,72.821991,18.926422",
     "geom:latitude":18.926422,
     "geom:longitude":72.821991,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"31-a, Mittal Chambers, Nariman Point,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169535985,
-    "wof:lastmodified":1449033286,
+    "wof:lastmodified":1466288645,
     "wof:name":"Vrijesh Corporation",
     "wof:parent_id":85931461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.821991,18.926422,72.821991,18.926422],
+  "bbox": [
+    72.821991,
+    18.926422,
+    72.821991,
+    18.926422
+],
   "geometry": {"coordinates":[72.821991,18.926422],"type":"Point"}
 }

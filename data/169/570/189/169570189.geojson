@@ -2,13 +2,14 @@
   "id": 169570189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.862816,19.283033,72.862816,19.283033",
     "geom:latitude":19.283033,
     "geom:longitude":72.862816,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Mira Bhayander Road, Mira Road (e)",
     "sg:city":"Thane",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169570189,
-    "wof:lastmodified":1449034647,
+    "wof:lastmodified":1466288737,
     "wof:name":"Maharashtra Polyplast",
     "wof:parent_id":85931413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.862816,19.283033,72.862816,19.283033],
+  "bbox": [
+    72.862816,
+    19.283033,
+    72.862816,
+    19.283033
+],
   "geometry": {"coordinates":[72.862816,19.283033],"type":"Point"}
 }

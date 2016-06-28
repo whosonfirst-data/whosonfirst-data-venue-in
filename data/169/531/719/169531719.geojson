@@ -2,13 +2,14 @@
   "id": 169531719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.830139,19.195787,72.830139,19.195787",
     "geom:latitude":19.195787,
     "geom:longitude":72.830139,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"14/16, B.j. Patel Industrial Estate, Kanchpada, Malad (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169531719,
-    "wof:lastmodified":1449033472,
+    "wof:lastmodified":1466288859,
     "wof:name":"Hiral Art",
     "wof:parent_id":85931619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "curtain"
     ]
 },
-  "bbox": [72.830139,19.195787,72.830139,19.195787],
+  "bbox": [
+    72.830139,
+    19.195787,
+    72.830139,
+    19.195787
+],
   "geometry": {"coordinates":[72.830139,19.195787],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169615433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.292625,13.102119,80.292625,13.102119",
     "geom:latitude":13.102119,
     "geom:longitude":80.292625,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"# 2 Rajaji St. West, Kamaraj Nager,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169615433,
-    "wof:lastmodified":1449033732,
+    "wof:lastmodified":1466288825,
     "wof:name":"Sams Trading",
     "wof:parent_id":85903951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [80.292625,13.102119,80.292625,13.102119],
+  "bbox": [
+    80.292625,
+    13.102119,
+    80.292625,
+    13.102119
+],
   "geometry": {"coordinates":[80.292625,13.102119],"type":"Point"}
 }

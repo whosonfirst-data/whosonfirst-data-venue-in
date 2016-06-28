@@ -2,13 +2,14 @@
   "id": 169620817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.245689,22.298937,88.245689,22.298937",
     "geom:latitude":22.298937,
     "geom:longitude":88.245689,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"24-4-12, Harbour Road,",
     "sg:city":"Vishakapattanam",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169620817,
-    "wof:lastmodified":1449035675,
+    "wof:lastmodified":1466288831,
     "wof:name":"Shm Ship Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [88.245689,22.298937,88.245689,22.298937],
+  "bbox": [
+    88.245689,
+    22.298937,
+    88.245689,
+    22.298937
+],
   "geometry": {"coordinates":[88.245689,22.298937],"type":"Point"}
 }

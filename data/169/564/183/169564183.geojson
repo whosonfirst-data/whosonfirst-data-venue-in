@@ -2,13 +2,14 @@
   "id": 169564183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.801849,18.954294,72.801849,18.954294",
     "geom:latitude":18.954294,
     "geom:longitude":72.801849,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"L.d. Ruparel Marg, Malabarhill",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169564183,
-    "wof:lastmodified":1449035765,
+    "wof:lastmodified":1466288708,
     "wof:name":"Aarpee Shiv Laminating & Coating",
     "wof:parent_id":85903909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.801849,18.954294,72.801849,18.954294],
+  "bbox": [
+    72.801849,
+    18.954294,
+    72.801849,
+    18.954294
+],
   "geometry": {"coordinates":[72.801849,18.954294],"type":"Point"}
 }

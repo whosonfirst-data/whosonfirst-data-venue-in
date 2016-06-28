@@ -2,13 +2,14 @@
   "id": 169611755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.833595,19.089176,72.833595,19.089176",
     "geom:latitude":19.089176,
     "geom:longitude":72.833595,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"42/44-a, Dhiraj Heritage, 4th Floor, S.v. Road, Santacruz (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169611755,
-    "wof:lastmodified":1449035263,
+    "wof:lastmodified":1466288827,
     "wof:name":"Roop Rasyan Industries Pvt. Ltd.",
     "wof:parent_id":85931575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [72.833595,19.089176,72.833595,19.089176],
+  "bbox": [
+    72.833595,
+    19.089176,
+    72.833595,
+    19.089176
+],
   "geometry": {"coordinates":[72.833595,19.089176],"type":"Point"}
 }

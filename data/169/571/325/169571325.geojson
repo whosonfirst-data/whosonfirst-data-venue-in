@@ -2,13 +2,14 @@
   "id": 169571325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.275711,28.556496,77.275711,28.556496",
     "geom:latitude":28.556496,
     "geom:longitude":77.275711,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sukhdev Vihar",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169571325,
-    "wof:lastmodified":1449034946,
+    "wof:lastmodified":1466288752,
     "wof:name":"Vestas Rrb India Ltd",
     "wof:parent_id":85928007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.275711,28.556496,77.275711,28.556496],
+  "bbox": [
+    77.275711,
+    28.556496,
+    77.275711,
+    28.556496
+],
   "geometry": {"coordinates":[77.275711,28.556496],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169545215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.214317,13.067157,80.214317,13.067157",
     "geom:latitude":13.067157,
     "geom:longitude":80.214317,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Ceramic Estate, G.i.d.c,",
     "sg:city":"Thangadh",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169545215,
-    "wof:lastmodified":1449033487,
+    "wof:lastmodified":1466288647,
     "wof:name":"Anup Potteries",
     "wof:parent_id":85931707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.214317,13.067157,80.214317,13.067157],
-  "geometry": {"coordinates":[80.214317,13.067157],"type":"Point"}
+  "bbox": [
+    80.214317,
+    13.067157,
+    80.214317,
+    13.067157
+],
+  "geometry": {"coordinates":[80.21431699999999,13.067157],"type":"Point"}
 }

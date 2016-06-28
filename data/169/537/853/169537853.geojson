@@ -2,13 +2,14 @@
   "id": 169537853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.627213,12.909937,77.627213,12.909937",
     "geom:latitude":12.909937,
     "geom:longitude":77.627213,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 13/5, Hosur Main Road, Bommanhalli,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169537853,
-    "wof:lastmodified":1449033498,
+    "wof:lastmodified":1466288655,
     "wof:name":"Magnetic Electronic Devices Pvt. Ltd.",
     "wof:parent_id":85930853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pressed"
     ]
 },
-  "bbox": [77.627213,12.909937,77.627213,12.909937],
+  "bbox": [
+    77.627213,
+    12.909937,
+    77.627213,
+    12.909937
+],
   "geometry": {"coordinates":[77.627213,12.909937],"type":"Point"}
 }

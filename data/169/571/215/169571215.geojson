@@ -2,13 +2,14 @@
   "id": 169571215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.279945,13.091447,80.279945,13.091447",
     "geom:latitude":13.091447,
     "geom:longitude":80.279945,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Narayana Mudali Lane",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571215,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1466288747,
     "wof:name":"Sha Abheychand Bhanaji",
     "wof:parent_id":85931765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.279945,13.091447,80.279945,13.091447],
+  "bbox": [
+    80.279945,
+    13.091447,
+    80.279945,
+    13.091447
+],
   "geometry": {"coordinates":[80.279945,13.091447],"type":"Point"}
 }

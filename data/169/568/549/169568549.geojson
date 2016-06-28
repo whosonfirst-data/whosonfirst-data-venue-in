@@ -2,13 +2,14 @@
   "id": 169568549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.445084,28.653961,77.445084,28.653961",
     "geom:latitude":28.653961,
     "geom:longitude":77.445084,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Rakesh Marg",
     "sg:city":"Ghaziabad",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169568549,
-    "wof:lastmodified":1449032609,
+    "wof:lastmodified":1466288755,
     "wof:name":"Roto Seals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.445084,28.653961,77.445084,28.653961],
-  "geometry": {"coordinates":[77.445084,28.653961],"type":"Point"}
+  "bbox": [
+    77.445084,
+    28.653961,
+    77.445084,
+    28.653961
+],
+  "geometry": {"coordinates":[77.44508399999999,28.653961],"type":"Point"}
 }

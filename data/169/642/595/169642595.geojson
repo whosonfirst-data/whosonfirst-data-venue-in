@@ -2,13 +2,14 @@
   "id": 169642595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.52446,23.047386,72.52446,23.047386",
     "geom:latitude":23.047386,
     "geom:longitude":72.52446,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"913, J.b. Tower, Opp. Doordarshan Tower, Drive In Road,",
     "sg:city":"Ahmedabad",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169642595,
-    "wof:lastmodified":1449032880,
+    "wof:lastmodified":1466288849,
     "wof:name":"Venus Pharmaceuticals",
     "wof:parent_id":85928681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pharmaceutical"
     ]
 },
-  "bbox": [72.52446,23.047386,72.52446,23.047386],
+  "bbox": [
+    72.52446,
+    23.047386,
+    72.52446,
+    23.047386
+],
   "geometry": {"coordinates":[72.52446,23.047386],"type":"Point"}
 }

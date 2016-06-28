@@ -2,13 +2,14 @@
   "id": 169530479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.827171,18.948898,72.827171,18.948898",
     "geom:latitude":18.948898,
     "geom:longitude":72.827171,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"95/97, Cavel Street, Room No. 6, 1st Floor, Kalbadevi,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169530479,
-    "wof:lastmodified":1449034445,
+    "wof:lastmodified":1466288684,
     "wof:name":"Apollo Data Forms Pvt. Ltd.",
     "wof:parent_id":85931439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stationery"
     ]
 },
-  "bbox": [72.827171,18.948898,72.827171,18.948898],
-  "geometry": {"coordinates":[72.827171,18.948898],"type":"Point"}
+  "bbox": [
+    72.827171,
+    18.948898,
+    72.827171,
+    18.948898
+],
+  "geometry": {"coordinates":[72.82717100000001,18.948898],"type":"Point"}
 }

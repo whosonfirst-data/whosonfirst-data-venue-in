@@ -2,13 +2,14 @@
   "id": 169570723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.86853,19.076305,72.86853,19.076305",
     "geom:latitude":19.076305,
     "geom:longitude":72.86853,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Kalina, Santacruz (e)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169570723,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466288766,
     "wof:name":"Lupin Ltd",
     "wof:parent_id":85931567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.86853,19.076305,72.86853,19.076305],
-  "geometry": {"coordinates":[72.86853,19.076305],"type":"Point"}
+  "bbox": [
+    72.86853,
+    19.076305,
+    72.86853,
+    19.076305
+],
+  "geometry": {"coordinates":[72.86853000000001,19.076305],"type":"Point"}
 }

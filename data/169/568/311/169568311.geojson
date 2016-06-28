@@ -2,13 +2,14 @@
   "id": 169568311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.142059,12.951614,80.142059,12.951614",
     "geom:latitude":12.951614,
     "geom:longitude":80.142059,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"G.s.t.road, Chromepet",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169568311,
-    "wof:lastmodified":1449032609,
+    "wof:lastmodified":1466288743,
     "wof:name":"Quick Thread Pvt Ltd",
     "wof:parent_id":85931809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.142059,12.951614,80.142059,12.951614],
+  "bbox": [
+    80.142059,
+    12.951614,
+    80.142059,
+    12.951614
+],
   "geometry": {"coordinates":[80.142059,12.951614],"type":"Point"}
 }

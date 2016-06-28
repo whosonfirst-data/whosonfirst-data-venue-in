@@ -2,13 +2,14 @@
   "id": 169530853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.917969,19.056154,72.917969,19.056154",
     "geom:latitude":19.056154,
     "geom:longitude":72.917969,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Deonar Village Road, Deonar,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169530853,
-    "wof:lastmodified":1449034442,
+    "wof:lastmodified":1466288689,
     "wof:name":"Accumax Engineering Limited",
     "wof:parent_id":85931557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "panel"
     ]
 },
-  "bbox": [72.917969,19.056154,72.917969,19.056154],
+  "bbox": [
+    72.917969,
+    19.056154,
+    72.917969,
+    19.056154
+],
   "geometry": {"coordinates":[72.917969,19.056154],"type":"Point"}
 }

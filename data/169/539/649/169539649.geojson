@@ -2,13 +2,14 @@
   "id": 169539649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.591255,12.924932,77.591255,12.924932",
     "geom:latitude":12.924932,
     "geom:longitude":77.591255,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#278, 21st Main, Btm Layout, 1st Phase, 2nd Stage,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169539649,
-    "wof:lastmodified":1449036039,
+    "wof:lastmodified":1466288647,
     "wof:name":"Pattu Fabrics Pvt. Ltd.",
     "wof:parent_id":85930991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scaffolding"
     ]
 },
-  "bbox": [77.591255,12.924932,77.591255,12.924932],
+  "bbox": [
+    77.591255,
+    12.924932,
+    77.591255,
+    12.924932
+],
   "geometry": {"coordinates":[77.591255,12.924932],"type":"Point"}
 }

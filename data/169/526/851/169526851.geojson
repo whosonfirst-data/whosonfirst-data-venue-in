@@ -2,13 +2,14 @@
   "id": 169526851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.869133,19.12438,72.869133,19.12438",
     "geom:latitude":19.12438,
     "geom:longitude":72.869133,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"G-12 Midc, Andheri East,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169526851,
-    "wof:lastmodified":1449033702,
+    "wof:lastmodified":1466288628,
     "wof:name":"Indo Impex",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cotton/canvas/synthetic"
     ]
 },
-  "bbox": [72.869133,19.12438,72.869133,19.12438],
-  "geometry": {"coordinates":[72.869133,19.12438],"type":"Point"}
+  "bbox": [
+    72.869133,
+    19.12438,
+    72.869133,
+    19.12438
+],
+  "geometry": {"coordinates":[72.86913300000001,19.12438],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169608431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.270805,13.083144,80.270805,13.083144",
     "geom:latitude":13.083144,
     "geom:longitude":80.270805,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 66, Sydenhams Road, Periamet,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169608431,
-    "wof:lastmodified":1449034080,
+    "wof:lastmodified":1466288816,
     "wof:name":"Rallis India Limited",
     "wof:parent_id":85931751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.270805,13.083144,80.270805,13.083144],
+  "bbox": [
+    80.270805,
+    13.083144,
+    80.270805,
+    13.083144
+],
   "geometry": {"coordinates":[80.270805,13.083144],"type":"Point"}
 }

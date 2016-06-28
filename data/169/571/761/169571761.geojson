@@ -2,13 +2,14 @@
   "id": 169571761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.226555,12.97229,80.226555,12.97229",
     "geom:latitude":12.97229,
     "geom:longitude":80.226555,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Velachery Road, Little Mount",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571761,
-    "wof:lastmodified":1449034948,
+    "wof:lastmodified":1466288772,
     "wof:name":"Enviro Services Pvt Ltd",
     "wof:parent_id":85931719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.226555,12.97229,80.226555,12.97229],
+  "bbox": [
+    80.226555,
+    12.97229,
+    80.226555,
+    12.97229
+],
   "geometry": {"coordinates":[80.226555,12.97229],"type":"Point"}
 }

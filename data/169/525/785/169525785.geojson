@@ -2,13 +2,14 @@
   "id": 169525785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.888153,19.054836,72.888153,19.054836",
     "geom:latitude":19.054836,
     "geom:longitude":72.888153,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"421, Swastik Chambers, Chembur,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169525785,
-    "wof:lastmodified":1449035274,
+    "wof:lastmodified":1466288619,
     "wof:name":"Helios Food Additives Pvt. Ltd.",
     "wof:parent_id":85903847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commodity"
     ]
 },
-  "bbox": [72.888153,19.054836,72.888153,19.054836],
+  "bbox": [
+    72.888153,
+    19.054836,
+    72.888153,
+    19.054836
+],
   "geometry": {"coordinates":[72.888153,19.054836],"type":"Point"}
 }

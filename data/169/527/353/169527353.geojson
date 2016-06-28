@@ -2,13 +2,14 @@
   "id": 169527353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.829643,18.953863,72.829643,18.953863",
     "geom:latitude":18.953863,
     "geom:longitude":72.829643,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"63-3rd Bhoiwada, 1st Floor,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169527353,
-    "wof:lastmodified":1449035278,
+    "wof:lastmodified":1466288630,
     "wof:name":"Novelty Beads Centre",
     "wof:parent_id":85931435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bead"
     ]
 },
-  "bbox": [72.829643,18.953863,72.829643,18.953863],
+  "bbox": [
+    72.829643,
+    18.953863,
+    72.829643,
+    18.953863
+],
   "geometry": {"coordinates":[72.829643,18.953863],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169535013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.87291,19.205965,72.87291,19.205965",
     "geom:latitude":19.205965,
     "geom:longitude":72.87291,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"6/107, Samata Nagar, Kandiwali East,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169535013,
-    "wof:lastmodified":1449033286,
+    "wof:lastmodified":1466288869,
     "wof:name":"Heliinteractive",
     "wof:parent_id":85931529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electronic"
     ]
 },
-  "bbox": [72.87291,19.205965,72.87291,19.205965],
+  "bbox": [
+    72.87291,
+    19.205965,
+    72.87291,
+    19.205965
+],
   "geometry": {"coordinates":[72.87291,19.205965],"type":"Point"}
 }

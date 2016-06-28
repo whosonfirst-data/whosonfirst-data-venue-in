@@ -2,13 +2,14 @@
   "id": 169545475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.952187,8.503696,76.952187,8.503696",
     "geom:latitude":8.503696,
     "geom:longitude":76.952187,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Trivandrum,",
     "sg:city":"Thiruvananthapuram",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169545475,
-    "wof:lastmodified":1449033487,
+    "wof:lastmodified":1466288658,
     "wof:name":"Aditya Impex",
     "wof:parent_id":85783631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "gem"
     ]
 },
-  "bbox": [76.952187,8.503696,76.952187,8.503696],
+  "bbox": [
+    76.952187,
+    8.503696,
+    76.952187,
+    8.503696
+],
   "geometry": {"coordinates":[76.952187,8.503696],"type":"Point"}
 }

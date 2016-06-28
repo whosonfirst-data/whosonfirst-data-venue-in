@@ -2,13 +2,14 @@
   "id": 169536451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.822289,18.923733,72.822289,18.923733",
     "geom:latitude":18.923733,
     "geom:longitude":72.822289,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"606, Maker Chambers-v, 221, Nariman Point,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169536451,
-    "wof:lastmodified":1449034660,
+    "wof:lastmodified":1466288636,
     "wof:name":"Orient Syntex Limited",
     "wof:parent_id":85931461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accessory"
     ]
 },
-  "bbox": [72.822289,18.923733,72.822289,18.923733],
+  "bbox": [
+    72.822289,
+    18.923733,
+    72.822289,
+    18.923733
+],
   "geometry": {"coordinates":[72.822289,18.923733],"type":"Point"}
 }

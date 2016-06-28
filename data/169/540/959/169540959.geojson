@@ -2,13 +2,14 @@
   "id": 169540959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.580643,12.968945,77.580643,12.968945",
     "geom:latitude":12.968945,
     "geom:longitude":77.580643,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 46, 1st Floor, M.b.t. Street, Jumma Masjid Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169540959,
-    "wof:lastmodified":1449033978,
+    "wof:lastmodified":1466288678,
     "wof:name":"Riviya Creations",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "silk"
     ]
 },
-  "bbox": [77.580643,12.968945,77.580643,12.968945],
-  "geometry": {"coordinates":[77.580643,12.968945],"type":"Point"}
+  "bbox": [
+    77.580643,
+    12.968945,
+    77.580643,
+    12.968945
+],
+  "geometry": {"coordinates":[77.58064299999999,12.968945],"type":"Point"}
 }

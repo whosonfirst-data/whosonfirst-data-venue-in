@@ -2,13 +2,14 @@
   "id": 169538487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.579643,13.007655,77.579643,13.007655",
     "geom:latitude":13.007655,
     "geom:longitude":77.579643,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"390, 13th Cross Sadashiva Nagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169538487,
-    "wof:lastmodified":1449033099,
+    "wof:lastmodified":1466288651,
     "wof:name":"Lektreka Corporation",
     "wof:parent_id":85931005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.579643,13.007655,77.579643,13.007655],
+  "bbox": [
+    77.579643,
+    13.007655,
+    77.579643,
+    13.007655
+],
   "geometry": {"coordinates":[77.579643,13.007655],"type":"Point"}
 }

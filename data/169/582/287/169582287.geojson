@@ -2,13 +2,14 @@
   "id": 169582287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.199699,28.652229,77.199699,28.652229",
     "geom:latitude":28.652229,
     "geom:longitude":77.199699,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"22/740, Joshi Road, Karol Bagh,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169582287,
-    "wof:lastmodified":1449034462,
+    "wof:lastmodified":1466288783,
     "wof:name":"Kawatra Agency",
     "wof:parent_id":85928243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [77.199699,28.652229,77.199699,28.652229],
+  "bbox": [
+    77.199699,
+    28.652229,
+    77.199699,
+    28.652229
+],
   "geometry": {"coordinates":[77.199699,28.652229],"type":"Point"}
 }

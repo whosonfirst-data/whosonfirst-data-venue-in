@@ -2,13 +2,14 @@
   "id": 169623615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.230438,21.325993,76.230438,21.325993",
     "geom:latitude":21.325993,
     "geom:longitude":76.230438,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"F-14/1, B.s. Road, Industrial Area,",
     "sg:city":"Ghaziabad",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169623615,
-    "wof:lastmodified":1449034997,
+    "wof:lastmodified":1466288834,
     "wof:name":"Shubham Dyes & Chemicals (p) Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [76.230438,21.325993,76.230438,21.325993],
-  "geometry": {"coordinates":[76.230438,21.325993],"type":"Point"}
+  "bbox": [
+    76.230438,
+    21.325993,
+    76.230438,
+    21.325993
+],
+  "geometry": {"coordinates":[76.23043800000001,21.325993],"type":"Point"}
 }

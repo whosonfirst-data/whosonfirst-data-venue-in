@@ -2,13 +2,14 @@
   "id": 169584405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.990593,19.238312,72.990593,19.238312",
     "geom:latitude":19.238312,
     "geom:longitude":72.990593,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Kdlshet Road, Thane (w),",
     "sg:city":"Thane",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169584405,
-    "wof:lastmodified":1449033039,
+    "wof:lastmodified":1466288785,
     "wof:name":"Lanxess India Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pigment"
     ]
 },
-  "bbox": [72.990593,19.238312,72.990593,19.238312],
+  "bbox": [
+    72.990593,
+    19.238312,
+    72.990593,
+    19.238312
+],
   "geometry": {"coordinates":[72.990593,19.238312],"type":"Point"}
 }

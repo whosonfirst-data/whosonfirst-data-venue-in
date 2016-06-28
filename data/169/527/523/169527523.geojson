@@ -2,13 +2,14 @@
   "id": 169527523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.837357,19.159933,72.837357,19.159933",
     "geom:latitude":19.159933,
     "geom:longitude":72.837357,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"201, Shastri Nagar, S.v. Road, Borivali,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169527523,
-    "wof:lastmodified":1449035278,
+    "wof:lastmodified":1466288631,
     "wof:name":"Food & Fade Imp .",
     "wof:parent_id":85931563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "healthcare"
     ]
 },
-  "bbox": [72.837357,19.159933,72.837357,19.159933],
+  "bbox": [
+    72.837357,
+    19.159933,
+    72.837357,
+    19.159933
+],
   "geometry": {"coordinates":[72.837357,19.159933],"type":"Point"}
 }

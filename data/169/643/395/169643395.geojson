@@ -2,13 +2,14 @@
   "id": 169643395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.565674,12.957035,77.565674,12.957035",
     "geom:latitude":12.957035,
     "geom:longitude":77.565674,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 164/3, 5th Main Road, Chamarajpet,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169643395,
-    "wof:lastmodified":1449035525,
+    "wof:lastmodified":1466288845,
     "wof:name":"Vijay Tex Chem",
     "wof:parent_id":85930907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical"
     ]
 },
-  "bbox": [77.565674,12.957035,77.565674,12.957035],
+  "bbox": [
+    77.565674,
+    12.957035,
+    77.565674,
+    12.957035
+],
   "geometry": {"coordinates":[77.565674,12.957035],"type":"Point"}
 }

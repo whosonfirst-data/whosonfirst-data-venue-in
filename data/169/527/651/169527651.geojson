@@ -2,13 +2,14 @@
   "id": 169527651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.86628,19.125051,72.86628,19.125051",
     "geom:latitude":19.125051,
     "geom:longitude":72.86628,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B/102, Sanskriti Park, Mahakali Caves Rd., Andheri (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169527651,
-    "wof:lastmodified":1449035277,
+    "wof:lastmodified":1466288632,
     "wof:name":"Asteroid",
     "wof:parent_id":85931515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "component"
     ]
 },
-  "bbox": [72.86628,19.125051,72.86628,19.125051],
+  "bbox": [
+    72.86628,
+    19.125051,
+    72.86628,
+    19.125051
+],
   "geometry": {"coordinates":[72.86628,19.125051],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169555449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.871819,19.119764,72.871819,19.119764",
     "geom:latitude":19.119764,
     "geom:longitude":72.871819,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Road No. 18, Midc Marol, Andheri (e)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169555449,
-    "wof:lastmodified":1449035497,
+    "wof:lastmodified":1466288708,
     "wof:name":"Tainwala Polycontainers Ltd",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.871819,19.119764,72.871819,19.119764],
+  "bbox": [
+    72.871819,
+    19.119764,
+    72.871819,
+    19.119764
+],
   "geometry": {"coordinates":[72.871819,19.119764],"type":"Point"}
 }

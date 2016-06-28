@@ -2,13 +2,14 @@
   "id": 169529683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.822159,18.923862,72.822159,18.923862",
     "geom:latitude":18.923862,
     "geom:longitude":72.822159,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"806, 8f, Maker Chamber V, Nariman Point,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169529683,
-    "wof:lastmodified":1449034114,
+    "wof:lastmodified":1466288699,
     "wof:name":"Oci Corporation",
     "wof:parent_id":85931461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [72.822159,18.923862,72.822159,18.923862],
+  "bbox": [
+    72.822159,
+    18.923862,
+    72.822159,
+    18.923862
+],
   "geometry": {"coordinates":[72.822159,18.923862],"type":"Point"}
 }

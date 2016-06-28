@@ -2,13 +2,14 @@
   "id": 169647769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.555855,12.924725,77.555855,12.924725",
     "geom:latitude":12.924725,
     "geom:longitude":77.555855,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"L-2703/6, Iii Phase, G.i.d.c.,",
     "sg:city":"Vapi",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169647769,
-    "wof:lastmodified":1449034240,
+    "wof:lastmodified":1466288896,
     "wof:name":"Zeal Fab-tech",
     "wof:parent_id":85931103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "intermediate"
     ]
 },
-  "bbox": [77.555855,12.924725,77.555855,12.924725],
-  "geometry": {"coordinates":[77.555855,12.924725],"type":"Point"}
+  "bbox": [
+    77.555855,
+    12.924725,
+    77.555855,
+    12.924725
+],
+  "geometry": {"coordinates":[77.55585499999999,12.924725],"type":"Point"}
 }

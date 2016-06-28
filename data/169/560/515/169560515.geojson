@@ -2,13 +2,14 @@
   "id": 169560515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.82151,18.925846,72.82151,18.925846",
     "geom:latitude":18.925846,
     "geom:longitude":72.82151,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Nariman Bhavan, No. 68/a, 6th Floor, Nariman Point,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169560515,
-    "wof:lastmodified":1449035180,
+    "wof:lastmodified":1466288737,
     "wof:name":"Didesu Chemicals Pvt. Ltd.",
     "wof:parent_id":85931461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical"
     ]
 },
-  "bbox": [72.82151,18.925846,72.82151,18.925846],
+  "bbox": [
+    72.82151,
+    18.925846,
+    72.82151,
+    18.925846
+],
   "geometry": {"coordinates":[72.82151,18.925846],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169579491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.836929,19.159281,72.836929,19.159281",
     "geom:latitude":19.159281,
     "geom:longitude":72.836929,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 5, Post Office Street,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169579491,
-    "wof:lastmodified":1449033738,
+    "wof:lastmodified":1466288792,
     "wof:name":"India Rosin Industries",
     "wof:parent_id":85931563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "allied"
     ]
 },
-  "bbox": [72.836929,19.159281,72.836929,19.159281],
+  "bbox": [
+    72.836929,
+    19.159281,
+    72.836929,
+    19.159281
+],
   "geometry": {"coordinates":[72.836929,19.159281],"type":"Point"}
 }

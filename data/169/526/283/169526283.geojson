@@ -2,13 +2,14 @@
   "id": 169526283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.813797,18.973169,72.813797,18.973169",
     "geom:latitude":18.973169,
     "geom:longitude":72.813797,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"502, Arun Chambers, Tardeo Road",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169526283,
-    "wof:lastmodified":1449033700,
+    "wof:lastmodified":1466288623,
     "wof:name":"Sunder & Kapoor",
     "wof:parent_id":85903971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.813797,18.973169,72.813797,18.973169],
-  "geometry": {"coordinates":[72.813797,18.973169],"type":"Point"}
+  "bbox": [
+    72.813797,
+    18.973169,
+    72.813797,
+    18.973169
+],
+  "geometry": {"coordinates":[72.81379699999999,18.973169],"type":"Point"}
 }

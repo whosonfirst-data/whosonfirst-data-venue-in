@@ -2,13 +2,14 @@
   "id": 169570605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.363998,22.505817,88.363998,22.505817",
     "geom:latitude":22.505817,
     "geom:longitude":88.363998,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Jodhpur Park",
     "sg:city":"Kolkata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570605,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466288759,
     "wof:name":"Fire Gases & Kiln India Pvt Ltd",
     "wof:parent_id":85932061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [88.363998,22.505817,88.363998,22.505817],
+  "bbox": [
+    88.363998,
+    22.505817,
+    88.363998,
+    22.505817
+],
   "geometry": {"coordinates":[88.363998,22.505817],"type":"Point"}
 }

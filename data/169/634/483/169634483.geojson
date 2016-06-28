@@ -2,13 +2,14 @@
   "id": 169634483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"81.333755,21.165623,81.333755,21.165623",
     "geom:latitude":21.165623,
     "geom:longitude":81.333755,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"264, Azad Market,",
     "sg:city":"Delhi",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169634483,
-    "wof:lastmodified":1449034257,
+    "wof:lastmodified":1466288839,
     "wof:name":"Tarpaulins India Tarp (p) Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "film"
     ]
 },
-  "bbox": [81.333755,21.165623,81.333755,21.165623],
+  "bbox": [
+    81.333755,
+    21.165623,
+    81.333755,
+    21.165623
+],
   "geometry": {"coordinates":[81.333755,21.165623],"type":"Point"}
 }

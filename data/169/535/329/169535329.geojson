@@ -2,13 +2,14 @@
   "id": 169535329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.926369,19.123192,72.926369,19.123192",
     "geom:latitude":19.123192,
     "geom:longitude":72.926369,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"A-2/907, Lok Gaurav, L.b.s.marg, Vikhroli-west,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169535329,
-    "wof:lastmodified":1449033285,
+    "wof:lastmodified":1466288872,
     "wof:name":"Yashodhan Traders (exports)",
     "wof:parent_id":85931633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "good"
     ]
 },
-  "bbox": [72.926369,19.123192,72.926369,19.123192],
-  "geometry": {"coordinates":[72.926369,19.123192],"type":"Point"}
+  "bbox": [
+    72.926369,
+    19.123192,
+    72.926369,
+    19.123192
+],
+  "geometry": {"coordinates":[72.92636899999999,19.123192],"type":"Point"}
 }

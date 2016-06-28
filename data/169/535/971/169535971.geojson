@@ -2,13 +2,14 @@
   "id": 169535971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.882591,19.107027,72.882591,19.107027",
     "geom:latitude":19.107027,
     "geom:longitude":72.882591,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"5/a, 106, Mittal Estate, Sakinaka, Andheri(e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169535971,
-    "wof:lastmodified":1449033286,
+    "wof:lastmodified":1466288644,
     "wof:name":"Crown Fab International",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.882591,19.107027,72.882591,19.107027],
-  "geometry": {"coordinates":[72.882591,19.107027],"type":"Point"}
+  "bbox": [
+    72.882591,
+    19.107027,
+    72.882591,
+    19.107027
+],
+  "geometry": {"coordinates":[72.88259100000001,19.107027],"type":"Point"}
 }

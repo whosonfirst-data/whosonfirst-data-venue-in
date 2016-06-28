@@ -2,13 +2,14 @@
   "id": 169558195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"74.245125,16.699038,74.245125,16.699038",
     "geom:latitude":16.699038,
     "geom:longitude":74.245125,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"E Rajaram Road",
     "sg:city":"Kolhapur",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169558195,
-    "wof:lastmodified":1449033582,
+    "wof:lastmodified":1466288891,
     "wof:name":"Jaju Enterprises Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [74.245125,16.699038,74.245125,16.699038],
+  "bbox": [
+    74.245125,
+    16.699038,
+    74.245125,
+    16.699038
+],
   "geometry": {"coordinates":[74.245125,16.699038],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169534351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.833954,18.94875,72.833954,18.94875",
     "geom:latitude":18.94875,
     "geom:longitude":72.833954,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"50, Sarang Street, 1st Floor, Masjid Bunder,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169534351,
-    "wof:lastmodified":1449033552,
+    "wof:lastmodified":1466288871,
     "wof:name":"Y. A. & Co.",
     "wof:parent_id":85903919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "power"
     ]
 },
-  "bbox": [72.833954,18.94875,72.833954,18.94875],
-  "geometry": {"coordinates":[72.833954,18.94875],"type":"Point"}
+  "bbox": [
+    72.833954,
+    18.94875,
+    72.833954,
+    18.94875
+],
+  "geometry": {"coordinates":[72.83395400000001,18.94875],"type":"Point"}
 }

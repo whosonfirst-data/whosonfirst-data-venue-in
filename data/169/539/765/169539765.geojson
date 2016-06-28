@@ -2,13 +2,14 @@
   "id": 169539765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.585884,12.913635,77.585884,12.913635",
     "geom:latitude":12.913635,
     "geom:longitude":77.585884,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 11, 24th Main 1st Phase, Jp Nagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169539765,
-    "wof:lastmodified":1449036037,
+    "wof:lastmodified":1466288654,
     "wof:name":"Bhasin International Pvt. Ltd.",
     "wof:parent_id":85931065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sculpture"
     ]
 },
-  "bbox": [77.585884,12.913635,77.585884,12.913635],
-  "geometry": {"coordinates":[77.585884,12.913635],"type":"Point"}
+  "bbox": [
+    77.585884,
+    12.913635,
+    77.585884,
+    12.913635
+],
+  "geometry": {"coordinates":[77.58588399999999,12.913635],"type":"Point"}
 }

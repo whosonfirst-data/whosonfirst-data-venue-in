@@ -2,13 +2,14 @@
   "id": 169637405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.176041,26.238924,78.176041,26.238924",
     "geom:latitude":26.238924,
     "geom:longitude":78.176041,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"29/1, Ranipura,",
     "sg:city":"Indore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169637405,
-    "wof:lastmodified":1449032690,
+    "wof:lastmodified":1466288843,
     "wof:name":"Trio Industries",
     "wof:parent_id":85933741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "adhesive"
     ]
 },
-  "bbox": [78.176041,26.238924,78.176041,26.238924],
+  "bbox": [
+    78.176041,
+    26.238924,
+    78.176041,
+    26.238924
+],
   "geometry": {"coordinates":[78.176041,26.238924],"type":"Point"}
 }

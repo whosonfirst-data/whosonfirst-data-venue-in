@@ -2,13 +2,14 @@
   "id": 169538257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.635307,13.023878,77.635307,13.023878",
     "geom:latitude":13.023878,
     "geom:longitude":77.635307,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"223, 4-a, Cross, 1st Floor, Hrbr Layout, 3rd Block, Kalyan Nagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169538257,
-    "wof:lastmodified":1449033099,
+    "wof:lastmodified":1466288638,
     "wof:name":"Masibus Process Instruments (p) Ltd.",
     "wof:parent_id":85931107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [77.635307,13.023878,77.635307,13.023878],
+  "bbox": [
+    77.635307,
+    13.023878,
+    77.635307,
+    13.023878
+],
   "geometry": {"coordinates":[77.635307,13.023878],"type":"Point"}
 }

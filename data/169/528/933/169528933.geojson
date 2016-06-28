@@ -2,13 +2,14 @@
   "id": 169528933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.005844,19.0807,73.005844,19.0807",
     "geom:latitude":19.0807,
     "geom:longitude":73.005844,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 136, Sector-19c, Vashi,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169528933,
-    "wof:lastmodified":1449033569,
+    "wof:lastmodified":1466288692,
     "wof:name":"Shilpi Creations",
     "wof:parent_id":85931637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "holder"
     ]
 },
-  "bbox": [73.005844,19.0807,73.005844,19.0807],
+  "bbox": [
+    73.005844,
+    19.0807,
+    73.005844,
+    19.0807
+],
   "geometry": {"coordinates":[73.005844,19.0807],"type":"Point"}
 }

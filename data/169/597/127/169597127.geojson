@@ -2,13 +2,14 @@
   "id": 169597127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"75.815048,30.912138,75.815048,30.912138",
     "geom:latitude":30.912138,
     "geom:longitude":75.815048,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"176-e, Kitchlu Nagar,",
     "sg:city":"Ludhiana",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169597127,
-    "wof:lastmodified":1449035926,
+    "wof:lastmodified":1466288805,
     "wof:name":"Orion Organics Private Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [75.815048,30.912138,75.815048,30.912138],
+  "bbox": [
+    75.815048,
+    30.912138,
+    75.815048,
+    30.912138
+],
   "geometry": {"coordinates":[75.815048,30.912138],"type":"Point"}
 }

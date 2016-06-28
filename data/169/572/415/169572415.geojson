@@ -2,13 +2,14 @@
   "id": 169572415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.583885,12.923376,77.583885,12.923376",
     "geom:latitude":12.923376,
     "geom:longitude":77.583885,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"36th Cross, 9th Block, Jayanagar",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169572415,
-    "wof:lastmodified":1449034707,
+    "wof:lastmodified":1466288751,
     "wof:name":"Measurements & Controls (i) Ltd",
     "wof:parent_id":85930887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.583885,12.923376,77.583885,12.923376],
+  "bbox": [
+    77.583885,
+    12.923376,
+    77.583885,
+    12.923376
+],
   "geometry": {"coordinates":[77.583885,12.923376],"type":"Point"}
 }

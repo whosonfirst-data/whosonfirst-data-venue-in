@@ -2,13 +2,14 @@
   "id": 169560453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.233688,28.650366,77.233688,28.650366",
     "geom:latitude":28.650366,
     "geom:longitude":77.233688,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Jama Masjid",
     "sg:city":"Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169560453,
-    "wof:lastmodified":1449035181,
+    "wof:lastmodified":1466288734,
     "wof:name":"Crown Dentals",
     "wof:parent_id":85928091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.233688,28.650366,77.233688,28.650366],
+  "bbox": [
+    77.233688,
+    28.650366,
+    77.233688,
+    28.650366
+],
   "geometry": {"coordinates":[77.233688,28.650366],"type":"Point"}
 }

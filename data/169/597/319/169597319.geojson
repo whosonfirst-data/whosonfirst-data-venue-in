@@ -2,13 +2,14 @@
   "id": 169597319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.373421,28.66238,77.373421,28.66238",
     "geom:latitude":28.66238,
     "geom:longitude":77.373421,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"F-80, A/4, Rajinder Nagar, Indl. Area, Mohan Nagar,",
     "sg:city":"Ghaziabad",
     "sg:classifiers":[
@@ -45,16 +46,22 @@
         }
     ],
     "wof:id":169597319,
-    "wof:lastmodified":1449035923,
+    "wof:lastmodified":1466288808,
     "wof:name":"Overseas Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [77.373421,28.66238,77.373421,28.66238],
-  "geometry": {"coordinates":[77.373421,28.66238],"type":"Point"}
+  "bbox": [
+    77.373421,
+    28.66238,
+    77.373421,
+    28.66238
+],
+  "geometry": {"coordinates":[77.37342099999999,28.66238],"type":"Point"}
 }

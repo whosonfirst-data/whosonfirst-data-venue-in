@@ -2,13 +2,14 @@
   "id": 169538585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.580208,12.966147,77.580208,12.966147",
     "geom:latitude":12.966147,
     "geom:longitude":77.580208,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"85, Mamulpet,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169538585,
-    "wof:lastmodified":1449033098,
+    "wof:lastmodified":1466288657,
     "wof:name":"Bangalore Ceramics",
     "wof:parent_id":85930903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.580208,12.966147,77.580208,12.966147],
+  "bbox": [
+    77.580208,
+    12.966147,
+    77.580208,
+    12.966147
+],
   "geometry": {"coordinates":[77.580208,12.966147],"type":"Point"}
 }

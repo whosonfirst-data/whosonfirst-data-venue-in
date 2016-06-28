@@ -2,13 +2,14 @@
   "id": 169571463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.355499,22.495304,88.355499,22.495304",
     "geom:latitude":22.495304,
     "geom:longitude":88.355499,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Tollygunje",
     "sg:city":"Kolkata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571463,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1466288758,
     "wof:name":"Arora Matthey Ltd",
     "wof:parent_id":85932041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [88.355499,22.495304,88.355499,22.495304],
-  "geometry": {"coordinates":[88.355499,22.495304],"type":"Point"}
+  "bbox": [
+    88.355499,
+    22.495304,
+    88.355499,
+    22.495304
+],
+  "geometry": {"coordinates":[88.35549899999999,22.495304],"type":"Point"}
 }

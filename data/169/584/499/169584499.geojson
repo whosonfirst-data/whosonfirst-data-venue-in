@@ -2,13 +2,14 @@
   "id": 169584499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.138863,28.732025,77.138863,28.732025",
     "geom:latitude":28.732025,
     "geom:longitude":77.138863,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"A-42, Badli Extension, Village Badli,",
     "sg:city":"Delhi",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169584499,
-    "wof:lastmodified":1449033037,
+    "wof:lastmodified":1466288788,
     "wof:name":"Ldg International",
     "wof:parent_id":85928071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "flavour"
     ]
 },
-  "bbox": [77.138863,28.732025,77.138863,28.732025],
+  "bbox": [
+    77.138863,
+    28.732025,
+    77.138863,
+    28.732025
+],
   "geometry": {"coordinates":[77.138863,28.732025],"type":"Point"}
 }

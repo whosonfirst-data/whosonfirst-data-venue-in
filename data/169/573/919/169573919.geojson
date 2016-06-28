@@ -2,13 +2,14 @@
   "id": 169573919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.533279,12.969886,77.533279,12.969886",
     "geom:latitude":12.969886,
     "geom:longitude":77.533279,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Vijayanagar",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169573919,
-    "wof:lastmodified":1449035115,
+    "wof:lastmodified":1466288774,
     "wof:name":"Welburn Exporters",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.533279,12.969886,77.533279,12.969886],
-  "geometry": {"coordinates":[77.533279,12.969886],"type":"Point"}
+  "bbox": [
+    77.533279,
+    12.969886,
+    77.533279,
+    12.969886
+],
+  "geometry": {"coordinates":[77.53327899999999,12.969886],"type":"Point"}
 }

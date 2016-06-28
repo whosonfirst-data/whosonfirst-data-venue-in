@@ -2,13 +2,14 @@
   "id": 169574873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.290863,13.09232,80.290863,13.09232",
     "geom:latitude":13.09232,
     "geom:longitude":80.290863,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Jahangir Street",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169574873,
-    "wof:lastmodified":1449032662,
+    "wof:lastmodified":1466288780,
     "wof:name":"New Ambadi Estates Pvt Ltd",
     "wof:parent_id":85903951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.290863,13.09232,80.290863,13.09232],
+  "bbox": [
+    80.290863,
+    13.09232,
+    80.290863,
+    13.09232
+],
   "geometry": {"coordinates":[80.290863,13.09232],"type":"Point"}
 }

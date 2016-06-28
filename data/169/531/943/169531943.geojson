@@ -2,13 +2,14 @@
   "id": 169531943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.814095,18.97249,72.814095,18.97249",
     "geom:latitude":18.97249,
     "geom:longitude":72.814095,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"35/36, 4flr., Tardeo A.c. Mkt., Tardeo,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169531943,
-    "wof:lastmodified":1449033472,
+    "wof:lastmodified":1466288860,
     "wof:name":"Intex Exports",
     "wof:parent_id":85903971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "item"
     ]
 },
-  "bbox": [72.814095,18.97249,72.814095,18.97249],
-  "geometry": {"coordinates":[72.814095,18.97249],"type":"Point"}
+  "bbox": [
+    72.814095,
+    18.97249,
+    72.814095,
+    18.97249
+],
+  "geometry": {"coordinates":[72.81409499999999,18.97249],"type":"Point"}
 }

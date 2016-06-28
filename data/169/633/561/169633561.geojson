@@ -2,13 +2,14 @@
   "id": 169633561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.913376,19.119617,72.913376,19.119617",
     "geom:latitude":19.119617,
     "geom:longitude":72.913376,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"503, Sigma, Hiranandani Gardens, Powai,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169633561,
-    "wof:lastmodified":1449035938,
+    "wof:lastmodified":1466288839,
     "wof:name":"Synergy Multibase Limited",
     "wof:parent_id":85931519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [72.913376,19.119617,72.913376,19.119617],
+  "bbox": [
+    72.913376,
+    19.119617,
+    72.913376,
+    19.119617
+],
   "geometry": {"coordinates":[72.913376,19.119617],"type":"Point"}
 }

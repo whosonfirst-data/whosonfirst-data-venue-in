@@ -2,13 +2,14 @@
   "id": 169571983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.010979,27.188231,78.010979,27.188231",
     "geom:latitude":27.188231,
     "geom:longitude":78.010979,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Mantola",
     "sg:city":"Agra",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571983,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1466288784,
     "wof:name":"Protocom",
     "wof:parent_id":85903907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.010979,27.188231,78.010979,27.188231],
-  "geometry": {"coordinates":[78.010979,27.188231],"type":"Point"}
+  "bbox": [
+    78.010979,
+    27.188231,
+    78.010979,
+    27.188231
+],
+  "geometry": {"coordinates":[78.01097900000001,27.188231],"type":"Point"}
 }

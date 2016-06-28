@@ -2,13 +2,14 @@
   "id": 169651727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.207821,28.536057,77.207821,28.536057",
     "geom:latitude":28.536057,
     "geom:longitude":77.207821,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B-44, Shivalik, Malviya Nagar",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169651727,
-    "wof:lastmodified":1449033344,
+    "wof:lastmodified":1466288897,
     "wof:name":"CE Info Systems",
     "wof:parent_id":85928647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.207821,28.536057,77.207821,28.536057],
+  "bbox": [
+    77.207821,
+    28.536057,
+    77.207821,
+    28.536057
+],
   "geometry": {"coordinates":[77.207821,28.536057],"type":"Point"}
 }

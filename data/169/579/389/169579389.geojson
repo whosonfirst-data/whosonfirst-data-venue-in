@@ -2,13 +2,14 @@
   "id": 169579389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"74.841209,34.124176,74.841209,34.124176",
     "geom:latitude":34.124176,
     "geom:longitude":74.841209,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"3e/14, B.p. Nit,",
     "sg:city":"Faridabad",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169579389,
-    "wof:lastmodified":1449033741,
+    "wof:lastmodified":1466288788,
     "wof:name":"Impex Metal & Ferro Alloys (p) Ltd.",
     "wof:parent_id":85934123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [74.841209,34.124176,74.841209,34.124176],
-  "geometry": {"coordinates":[74.841209,34.124176],"type":"Point"}
+  "bbox": [
+    74.841209,
+    34.124176,
+    74.841209,
+    34.124176
+],
+  "geometry": {"coordinates":[74.84120900000001,34.124176],"type":"Point"}
 }

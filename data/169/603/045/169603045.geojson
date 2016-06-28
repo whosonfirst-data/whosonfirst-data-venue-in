@@ -2,13 +2,14 @@
   "id": 169603045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"75.572884,13.933999,75.572884,13.933999",
     "geom:latitude":13.933999,
     "geom:longitude":75.572884,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"H.o. 33a J.l. Nehru Road, 12th Floor, Suite 13,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169603045,
-    "wof:lastmodified":1449035455,
+    "wof:lastmodified":1466288812,
     "wof:name":"Prabhu Polycolor Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chemicals-additives"
     ]
 },
-  "bbox": [75.572884,13.933999,75.572884,13.933999],
+  "bbox": [
+    75.572884,
+    13.933999,
+    75.572884,
+    13.933999
+],
   "geometry": {"coordinates":[75.572884,13.933999],"type":"Point"}
 }

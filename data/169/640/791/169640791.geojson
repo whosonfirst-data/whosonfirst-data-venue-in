@@ -2,13 +2,14 @@
   "id": 169640791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.245972,19.152477,73.245972,19.152477",
     "geom:latitude":19.152477,
     "geom:longitude":73.245972,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"W-62(a), M.i.d.c. Badalpur,",
     "sg:city":"Thane",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169640791,
-    "wof:lastmodified":1449034102,
+    "wof:lastmodified":1466288850,
     "wof:name":"Urvi Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agrochemicals"
     ]
 },
-  "bbox": [73.245972,19.152477,73.245972,19.152477],
-  "geometry": {"coordinates":[73.245972,19.152477],"type":"Point"}
+  "bbox": [
+    73.245972,
+    19.152477,
+    73.245972,
+    19.152477
+],
+  "geometry": {"coordinates":[73.24597199999999,19.152477],"type":"Point"}
 }

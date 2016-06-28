@@ -2,13 +2,14 @@
   "id": 169539861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.570221,12.92438,77.570221,12.92438",
     "geom:latitude":12.92438,
     "geom:longitude":77.570221,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"507, 9th Main, Banashankari Ii Stage,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169539861,
-    "wof:lastmodified":1449036038,
+    "wof:lastmodified":1466288659,
     "wof:name":"Omniscient Electronics Pvt. Ltd.",
     "wof:parent_id":85930845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "semiconductor"
     ]
 },
-  "bbox": [77.570221,12.92438,77.570221,12.92438],
+  "bbox": [
+    77.570221,
+    12.92438,
+    77.570221,
+    12.92438
+],
   "geometry": {"coordinates":[77.570221,12.92438],"type":"Point"}
 }

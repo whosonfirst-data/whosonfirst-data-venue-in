@@ -2,13 +2,14 @@
   "id": 169608733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.244102,19.151255,73.244102,19.151255",
     "geom:latitude":19.151255,
     "geom:longitude":73.244102,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"P.n.w.-26, Midc, Badlapur,",
     "sg:city":"Badlapur",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169608733,
-    "wof:lastmodified":1449034080,
+    "wof:lastmodified":1466288819,
     "wof:name":"Ralline Exim Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [73.244102,19.151255,73.244102,19.151255],
+  "bbox": [
+    73.244102,
+    19.151255,
+    73.244102,
+    19.151255
+],
   "geometry": {"coordinates":[73.244102,19.151255],"type":"Point"}
 }

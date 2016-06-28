@@ -2,13 +2,14 @@
   "id": 169570779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.349396,22.569002,88.349396,22.569002",
     "geom:latitude":22.569002,
     "geom:longitude":88.349396,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Hemanta Basu Sarani",
     "sg:city":"Kolkata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570779,
-    "wof:lastmodified":1449034644,
+    "wof:lastmodified":1466288768,
     "wof:name":"Grob Tea Company Ltd",
     "wof:parent_id":85931969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [88.349396,22.569002,88.349396,22.569002],
+  "bbox": [
+    88.349396,
+    22.569002,
+    88.349396,
+    22.569002
+],
   "geometry": {"coordinates":[88.349396,22.569002],"type":"Point"}
 }

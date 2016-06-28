@@ -2,13 +2,14 @@
   "id": 169568707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"75.191658,15.601141,75.191658,15.601141",
     "geom:latitude":15.601141,
     "geom:longitude":75.191658,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"9, J.c. Road",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169568707,
-    "wof:lastmodified":1449032612,
+    "wof:lastmodified":1466288763,
     "wof:name":"Supplyco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [75.191658,15.601141,75.191658,15.601141],
+  "bbox": [
+    75.191658,
+    15.601141,
+    75.191658,
+    15.601141
+],
   "geometry": {"coordinates":[75.191658,15.601141],"type":"Point"}
 }

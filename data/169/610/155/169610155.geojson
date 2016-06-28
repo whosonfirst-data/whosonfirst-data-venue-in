@@ -2,13 +2,14 @@
   "id": 169610155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.236473,13.046885,80.236473,13.046885",
     "geom:latitude":13.046885,
     "geom:longitude":80.236473,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No: 67 Bazullah Road, T.nagar,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169610155,
-    "wof:lastmodified":1449035911,
+    "wof:lastmodified":1466288820,
     "wof:name":"Refex Refrigerants Limited",
     "wof:parent_id":85903935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [80.236473,13.046885,80.236473,13.046885],
+  "bbox": [
+    80.236473,
+    13.046885,
+    80.236473,
+    13.046885
+],
   "geometry": {"coordinates":[80.236473,13.046885],"type":"Point"}
 }

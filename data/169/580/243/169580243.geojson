@@ -2,13 +2,14 @@
   "id": 169580243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.830498,18.949505,72.830498,18.949505",
     "geom:latitude":18.949505,
     "geom:longitude":72.830498,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"J.m.c. House, 2nd Floor, Zaveri Bazar,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169580243,
-    "wof:lastmodified":1449034914,
+    "wof:lastmodified":1466288786,
     "wof:name":"J. M. C. Exports",
     "wof:parent_id":85931439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "raw"
     ]
 },
-  "bbox": [72.830498,18.949505,72.830498,18.949505],
-  "geometry": {"coordinates":[72.830498,18.949505],"type":"Point"}
+  "bbox": [
+    72.830498,
+    18.949505,
+    72.830498,
+    18.949505
+],
+  "geometry": {"coordinates":[72.83049800000001,18.949505],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169530717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.841606,19.209698,72.841606,19.209698",
     "geom:latitude":19.209698,
     "geom:longitude":72.841606,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Kamala Ashish Bldg No. 3,c-111, Mahavir Nagar,  Kandivli (west),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169530717,
-    "wof:lastmodified":1449034441,
+    "wof:lastmodified":1466288688,
     "wof:name":"Capharma",
     "wof:parent_id":85931623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "consumer"
     ]
 },
-  "bbox": [72.841606,19.209698,72.841606,19.209698],
+  "bbox": [
+    72.841606,
+    19.209698,
+    72.841606,
+    19.209698
+],
   "geometry": {"coordinates":[72.841606,19.209698],"type":"Point"}
 }

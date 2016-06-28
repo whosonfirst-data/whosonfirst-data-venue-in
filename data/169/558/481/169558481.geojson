@@ -2,13 +2,14 @@
   "id": 169558481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.188957,28.607586,77.188957,28.607586",
     "geom:latitude":28.607586,
     "geom:longitude":77.188957,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"8-a, National Highway, Lalpar,",
     "sg:city":"Morbi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169558481,
-    "wof:lastmodified":1449033582,
+    "wof:lastmodified":1466288723,
     "wof:name":"Bond Impex Pvt. Ltd.",
     "wof:parent_id":85928295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.188957,28.607586,77.188957,28.607586],
+  "bbox": [
+    77.188957,
+    28.607586,
+    77.188957,
+    28.607586
+],
   "geometry": {"coordinates":[77.188957,28.607586],"type":"Point"}
 }

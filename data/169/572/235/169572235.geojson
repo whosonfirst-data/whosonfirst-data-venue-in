@@ -2,13 +2,14 @@
   "id": 169572235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.507202,17.410967,78.507202,17.410967",
     "geom:latitude":17.410967,
     "geom:longitude":78.507202,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Cross Road, Musheerabad",
     "sg:city":"Hyderabad",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169572235,
-    "wof:lastmodified":1449034703,
+    "wof:lastmodified":1466288742,
     "wof:name":"Dch Engineering Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.507202,17.410967,78.507202,17.410967],
-  "geometry": {"coordinates":[78.507202,17.410967],"type":"Point"}
+  "bbox": [
+    78.507202,
+    17.410967,
+    78.507202,
+    17.410967
+],
+  "geometry": {"coordinates":[78.50720200000001,17.410967],"type":"Point"}
 }

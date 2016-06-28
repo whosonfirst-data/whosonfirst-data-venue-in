@@ -2,13 +2,14 @@
   "id": 169537795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.535576,12.981318,77.535576,12.981318",
     "geom:latitude":12.981318,
     "geom:longitude":77.535576,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"67/2, Magadi Main Road, Opp. Near Khb Bus Stop, Vijayanagar North,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169537795,
-    "wof:lastmodified":1449033498,
+    "wof:lastmodified":1466288652,
     "wof:name":"Perfect Caps Private Limited",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pressed"
     ]
 },
-  "bbox": [77.535576,12.981318,77.535576,12.981318],
-  "geometry": {"coordinates":[77.535576,12.981318],"type":"Point"}
+  "bbox": [
+    77.535576,
+    12.981318,
+    77.535576,
+    12.981318
+],
+  "geometry": {"coordinates":[77.53557600000001,12.981318],"type":"Point"}
 }

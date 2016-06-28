@@ -2,13 +2,14 @@
   "id": 169527261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.855057,19.301569,72.855057,19.301569",
     "geom:latitude":19.301569,
     "geom:longitude":72.855057,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"D-15, Vikas Industrial Estate, Bhayander (east),",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169527261,
-    "wof:lastmodified":1449035277,
+    "wof:lastmodified":1466288629,
     "wof:name":"Endurinox",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.855057,19.301569,72.855057,19.301569],
+  "bbox": [
+    72.855057,
+    19.301569,
+    72.855057,
+    19.301569
+],
   "geometry": {"coordinates":[72.855057,19.301569],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169539249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.571907,13.014544,77.571907,13.014544",
     "geom:latitude":13.014544,
     "geom:longitude":77.571907,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No.429/7, 12th Cross, Sadashivanagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169539249,
-    "wof:lastmodified":1449036037,
+    "wof:lastmodified":1466288876,
     "wof:name":"All India Granites & Stone Association",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandstone"
     ]
 },
-  "bbox": [77.571907,13.014544,77.571907,13.014544],
+  "bbox": [
+    77.571907,
+    13.014544,
+    77.571907,
+    13.014544
+],
   "geometry": {"coordinates":[77.571907,13.014544],"type":"Point"}
 }

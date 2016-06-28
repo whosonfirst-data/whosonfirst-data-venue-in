@@ -2,13 +2,14 @@
   "id": 169538801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.503555,12.990177,77.503555,12.990177",
     "geom:latitude":12.990177,
     "geom:longitude":77.503555,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"48/1, Sunkadakatte Magadi Main Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169538801,
-    "wof:lastmodified":1449033100,
+    "wof:lastmodified":1466288668,
     "wof:name":"Trinity Apparels Pvt. Ltd.",
     "wof:parent_id":85931093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.503555,12.990177,77.503555,12.990177],
-  "geometry": {"coordinates":[77.503555,12.990177],"type":"Point"}
+  "bbox": [
+    77.503555,
+    12.990177,
+    77.503555,
+    12.990177
+],
+  "geometry": {"coordinates":[77.50355500000001,12.990177],"type":"Point"}
 }

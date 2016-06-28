@@ -2,13 +2,14 @@
   "id": 169556953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"70.796387,22.285954,70.796387,22.285954",
     "geom:latitude":22.285954,
     "geom:longitude":70.796387,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Station Plot",
     "sg:city":"Rajkot",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169556953,
-    "wof:lastmodified":1449033509,
+    "wof:lastmodified":1466288732,
     "wof:name":"Shailesh Machine Tools Pvt Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [70.796387,22.285954,70.796387,22.285954],
+  "bbox": [
+    70.796387,
+    22.285954,
+    70.796387,
+    22.285954
+],
   "geometry": {"coordinates":[70.796387,22.285954],"type":"Point"}
 }

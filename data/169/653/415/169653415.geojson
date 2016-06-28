@@ -2,13 +2,14 @@
   "id": 169653415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.512129,17.397476,78.512129,17.397476",
     "geom:latitude":17.397476,
     "geom:longitude":78.512129,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Nallakunta",
     "sg:city":"Hyderabad",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":169653415,
-    "wof:lastmodified":1449032918,
+    "wof:lastmodified":1466288855,
     "wof:name":"softwoodhosting",
     "wof:parent_id":85927613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "content-management"
     ]
 },
-  "bbox": [78.512129,17.397476,78.512129,17.397476],
+  "bbox": [
+    78.512129,
+    17.397476,
+    78.512129,
+    17.397476
+],
   "geometry": {"coordinates":[78.512129,17.397476],"type":"Point"}
 }

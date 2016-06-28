@@ -2,13 +2,14 @@
   "id": 169542465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.622993,12.928,77.622993,12.928",
     "geom:latitude":12.928,
     "geom:longitude":77.622993,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 426, 16th Main 3rd Cross, 3rd Block, Koramangala,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169542465,
-    "wof:lastmodified":1449035223,
+    "wof:lastmodified":1466288657,
     "wof:name":"Zoom Mineral Development Pvt. Ltd.",
     "wof:parent_id":85931027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [77.622993,12.928,77.622993,12.928],
-  "geometry": {"coordinates":[77.622993,12.928],"type":"Point"}
+  "bbox": [
+    77.622993,
+    12.928,
+    77.622993,
+    12.928
+],
+  "geometry": {"coordinates":[77.62299299999999,12.928],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169573485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.351257,22.570007,88.351257,22.570007",
     "geom:latitude":22.570007,
     "geom:longitude":88.351257,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"R N Mukherjee Road, 1st Floor",
     "sg:city":"Kolkata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169573485,
-    "wof:lastmodified":1449035115,
+    "wof:lastmodified":1466288755,
     "wof:name":"Seven Hills Opticommunication Pvt Ltd",
     "wof:parent_id":85931969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [88.351257,22.570007,88.351257,22.570007],
+  "bbox": [
+    88.351257,
+    22.570007,
+    88.351257,
+    22.570007
+],
   "geometry": {"coordinates":[88.351257,22.570007],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169543927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.558838,12.988112,77.558838,12.988112",
     "geom:latitude":12.988112,
     "geom:longitude":77.558838,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"28/29, 2nd Main Road, Rajajinagar, Industrial Town,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169543927,
-    "wof:lastmodified":1449033337,
+    "wof:lastmodified":1466288679,
     "wof:name":"Turbotech Precision Engineering Pvt. Ltd.",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "turbine"
     ]
 },
-  "bbox": [77.558838,12.988112,77.558838,12.988112],
-  "geometry": {"coordinates":[77.558838,12.988112],"type":"Point"}
+  "bbox": [
+    77.558838,
+    12.988112,
+    77.558838,
+    12.988112
+],
+  "geometry": {"coordinates":[77.55883799999999,12.988112],"type":"Point"}
 }

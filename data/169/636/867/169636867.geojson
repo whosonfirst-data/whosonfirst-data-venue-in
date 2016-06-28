@@ -2,13 +2,14 @@
   "id": 169636867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.246918,13.061264,80.246918,13.061264",
     "geom:latitude":13.061264,
     "geom:longitude":80.246918,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"35, Nungambakkam High Road, Nungambakkam,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":169636867,
-    "wof:lastmodified":1449033987,
+    "wof:lastmodified":1466288848,
     "wof:name":"Tractors And Farm Equipment Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "allied"
     ]
 },
-  "bbox": [80.246918,13.061264,80.246918,13.061264],
-  "geometry": {"coordinates":[80.246918,13.061264],"type":"Point"}
+  "bbox": [
+    80.246918,
+    13.061264,
+    80.246918,
+    13.061264
+],
+  "geometry": {"coordinates":[80.24691799999999,13.061264],"type":"Point"}
 }

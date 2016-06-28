@@ -2,13 +2,14 @@
   "id": 169590189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.939354,19.177361,72.939354,19.177361",
     "geom:latitude":19.177361,
     "geom:longitude":72.939354,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"61/4, Hindustan Chowk, Mulund Clny.,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169590189,
-    "wof:lastmodified":1449034653,
+    "wof:lastmodified":1466288801,
     "wof:name":"Mithila Rasayan Pvt. Ltd.",
     "wof:parent_id":85931655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [72.939354,19.177361,72.939354,19.177361],
-  "geometry": {"coordinates":[72.939354,19.177361],"type":"Point"}
+  "bbox": [
+    72.939354,
+    19.177361,
+    72.939354,
+    19.177361
+],
+  "geometry": {"coordinates":[72.93935399999999,19.177361],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169550233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.212357,28.643791,77.212357,28.643791",
     "geom:latitude":28.643791,
     "geom:longitude":77.212357,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"140, Golai, Ganj Bazar,",
     "sg:city":"Unjha",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169550233,
-    "wof:lastmodified":1449034478,
+    "wof:lastmodified":1466288881,
     "wof:name":"Tribhovandas Ranchhoddas & Sons",
     "wof:parent_id":85903937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seed"
     ]
 },
-  "bbox": [77.212357,28.643791,77.212357,28.643791],
+  "bbox": [
+    77.212357,
+    28.643791,
+    77.212357,
+    28.643791
+],
   "geometry": {"coordinates":[77.212357,28.643791],"type":"Point"}
 }

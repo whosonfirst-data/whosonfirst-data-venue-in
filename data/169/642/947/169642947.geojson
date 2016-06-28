@@ -2,13 +2,14 @@
   "id": 169642947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"74.841209,34.124176,74.841209,34.124176",
     "geom:latitude":34.124176,
     "geom:longitude":74.841209,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1-c/75, Nit,",
     "sg:city":"Faridabad",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169642947,
-    "wof:lastmodified":1449032880,
+    "wof:lastmodified":1466288854,
     "wof:name":"Victoria (india) Product",
     "wof:parent_id":85934123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [74.841209,34.124176,74.841209,34.124176],
-  "geometry": {"coordinates":[74.841209,34.124176],"type":"Point"}
+  "bbox": [
+    74.841209,
+    34.124176,
+    74.841209,
+    34.124176
+],
+  "geometry": {"coordinates":[74.84120900000001,34.124176],"type":"Point"}
 }

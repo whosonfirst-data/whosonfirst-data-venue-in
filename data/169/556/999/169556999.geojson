@@ -2,13 +2,14 @@
   "id": 169556999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.271912,28.531528,77.271912,28.531528",
     "geom:latitude":28.531528,
     "geom:longitude":77.271912,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Okhla Industrial Area, Phase Ii",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169556999,
-    "wof:lastmodified":1449033509,
+    "wof:lastmodified":1466288734,
     "wof:name":"Self Seeker Packaging Ltd",
     "wof:parent_id":85927991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.271912,28.531528,77.271912,28.531528],
+  "bbox": [
+    77.271912,
+    28.531528,
+    77.271912,
+    28.531528
+],
   "geometry": {"coordinates":[77.271912,28.531528],"type":"Point"}
 }

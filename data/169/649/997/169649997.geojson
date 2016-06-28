@@ -2,13 +2,14 @@
   "id": 169649997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.829965,18.530164,73.829965,18.530164",
     "geom:latitude":18.530164,
     "geom:longitude":73.829965,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"S-178 MIDC BHOSARI",
     "sg:city":"PUNE",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169649997,
-    "wof:lastmodified":1449034943,
+    "wof:lastmodified":1466288897,
     "wof:name":"Evolve Technologies",
     "wof:parent_id":85903811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [73.829965,18.530164,73.829965,18.530164],
+  "bbox": [
+    73.829965,
+    18.530164,
+    73.829965,
+    18.530164
+],
   "geometry": {"coordinates":[73.829965,18.530164],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169558759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.154411,21.763212,72.154411,21.763212",
     "geom:latitude":21.763212,
     "geom:longitude":72.154411,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1517, Ghogha Circle,",
     "sg:city":"Bhavnagar",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169558759,
-    "wof:lastmodified":1449033582,
+    "wof:lastmodified":1466288745,
     "wof:name":"C G Chemicals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [72.154411,21.763212,72.154411,21.763212],
+  "bbox": [
+    72.154411,
+    21.763212,
+    72.154411,
+    21.763212
+],
   "geometry": {"coordinates":[72.154411,21.763212],"type":"Point"}
 }

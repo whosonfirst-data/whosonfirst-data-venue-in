@@ -2,13 +2,14 @@
   "id": 169555515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.247467,13.031431,80.247467,13.031431",
     "geom:latitude":13.031431,
     "geom:longitude":80.247467,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Alwarpet",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169555515,
-    "wof:lastmodified":1449035494,
+    "wof:lastmodified":1466288711,
     "wof:name":"V A Tech Wabag",
     "wof:parent_id":85931737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.247467,13.031431,80.247467,13.031431],
+  "bbox": [
+    80.247467,
+    13.031431,
+    80.247467,
+    13.031431
+],
   "geometry": {"coordinates":[80.247467,13.031431],"type":"Point"}
 }

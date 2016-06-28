@@ -2,13 +2,14 @@
   "id": 169536023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.808578,18.969763,72.808578,18.969763",
     "geom:latitude":18.969763,
     "geom:longitude":72.808578,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B-35, Sterling Apt., Peddar Road.",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169536023,
-    "wof:lastmodified":1449034659,
+    "wof:lastmodified":1466288623,
     "wof:name":"American Entps",
     "wof:parent_id":85903835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.808578,18.969763,72.808578,18.969763],
+  "bbox": [
+    72.808578,
+    18.969763,
+    72.808578,
+    18.969763
+],
   "geometry": {"coordinates":[72.808578,18.969763],"type":"Point"}
 }

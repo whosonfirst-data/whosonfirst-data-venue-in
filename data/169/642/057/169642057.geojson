@@ -2,13 +2,14 @@
   "id": 169642057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.159592,28.564775,77.159592,28.564775",
     "geom:latitude":28.564775,
     "geom:longitude":77.159592,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"E-6, Sector-6,",
     "sg:city":"Noida",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169642057,
-    "wof:lastmodified":1449032876,
+    "wof:lastmodified":1466288842,
     "wof:name":"Veekay Industries",
     "wof:parent_id":85927949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "adhesive"
     ]
 },
-  "bbox": [77.159592,28.564775,77.159592,28.564775],
+  "bbox": [
+    77.159592,
+    28.564775,
+    77.159592,
+    28.564775
+],
   "geometry": {"coordinates":[77.159592,28.564775],"type":"Point"}
 }

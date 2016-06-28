@@ -2,13 +2,14 @@
   "id": 169554939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.194756,22.275808,73.194756,22.275808",
     "geom:latitude":22.275808,
     "geom:longitude":73.194756,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"207, Raghukul Apartment, Near Jain Mandir, Manjalpur,",
     "sg:city":"Vadodara",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169554939,
-    "wof:lastmodified":1449033370,
+    "wof:lastmodified":1466288714,
     "wof:name":"Arrow Shine Inks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "raw"
     ]
 },
-  "bbox": [73.194756,22.275808,73.194756,22.275808],
+  "bbox": [
+    73.194756,
+    22.275808,
+    73.194756,
+    22.275808
+],
   "geometry": {"coordinates":[73.194756,22.275808],"type":"Point"}
 }

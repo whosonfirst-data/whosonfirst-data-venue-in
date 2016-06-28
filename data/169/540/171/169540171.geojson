@@ -2,13 +2,14 @@
   "id": 169540171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.540993,13.054968,77.540993,13.054968",
     "geom:latitude":13.054968,
     "geom:longitude":77.540993,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"A-6, Hmt Industrial Estate, Jalahalli,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169540171,
-    "wof:lastmodified":1449033978,
+    "wof:lastmodified":1466288639,
     "wof:name":"Hindustan Steel Allied Industries",
     "wof:parent_id":85903877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "component"
     ]
 },
-  "bbox": [77.540993,13.054968,77.540993,13.054968],
+  "bbox": [
+    77.540993,
+    13.054968,
+    77.540993,
+    13.054968
+],
   "geometry": {"coordinates":[77.540993,13.054968],"type":"Point"}
 }

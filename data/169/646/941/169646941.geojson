@@ -2,13 +2,14 @@
   "id": 169646941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"79.232811,17.118706,79.232811,17.118706",
     "geom:latitude":17.118706,
     "geom:longitude":79.232811,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No.- 15-17, Bypass Road,",
     "sg:city":"Peddapuram",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169646941,
-    "wof:lastmodified":1449032607,
+    "wof:lastmodified":1466288896,
     "wof:name":"White Circle Oxides Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [79.232811,17.118706,79.232811,17.118706],
+  "bbox": [
+    79.232811,
+    17.118706,
+    79.232811,
+    17.118706
+],
   "geometry": {"coordinates":[79.232811,17.118706],"type":"Point"}
 }

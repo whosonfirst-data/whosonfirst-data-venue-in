@@ -2,13 +2,14 @@
   "id": 169568507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.831947,19.007002,72.831947,19.007002",
     "geom:latitude":19.007002,
     "geom:longitude":72.831947,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Senapati Bapat Marg, Lower Parel",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169568507,
-    "wof:lastmodified":1449032612,
+    "wof:lastmodified":1466288753,
     "wof:name":"Mandhana Exports Pvt Ltd",
     "wof:parent_id":85931467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.831947,19.007002,72.831947,19.007002],
+  "bbox": [
+    72.831947,
+    19.007002,
+    72.831947,
+    19.007002
+],
   "geometry": {"coordinates":[72.831947,19.007002],"type":"Point"}
 }

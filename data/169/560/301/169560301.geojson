@@ -2,13 +2,14 @@
   "id": 169560301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.836349,18.511086,73.836349,18.511086",
     "geom:latitude":18.511086,
     "geom:longitude":73.836349,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Arihant Building, 39/32, Erandawane, Karve Road,",
     "sg:city":"Pune",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169560301,
-    "wof:lastmodified":1449035179,
+    "wof:lastmodified":1466288721,
     "wof:name":"Devdhar Chemicals Pvt. Ltd.",
     "wof:parent_id":85931201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [73.836349,18.511086,73.836349,18.511086],
+  "bbox": [
+    73.836349,
+    18.511086,
+    73.836349,
+    18.511086
+],
   "geometry": {"coordinates":[73.836349,18.511086],"type":"Point"}
 }

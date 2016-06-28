@@ -2,13 +2,14 @@
   "id": 169537111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.604172,12.960987,77.604172,12.960987",
     "geom:latitude":12.960987,
     "geom:longitude":77.604172,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"10/3, Alfred Street, Richmond Town,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169537111,
-    "wof:lastmodified":1449033500,
+    "wof:lastmodified":1466288873,
     "wof:name":"Green Diamond Exports",
     "wof:parent_id":85930939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "semi"
     ]
 },
-  "bbox": [77.604172,12.960987,77.604172,12.960987],
-  "geometry": {"coordinates":[77.604172,12.960987],"type":"Point"}
+  "bbox": [
+    77.604172,
+    12.960987,
+    77.604172,
+    12.960987
+],
+  "geometry": {"coordinates":[77.60417200000001,12.960987],"type":"Point"}
 }

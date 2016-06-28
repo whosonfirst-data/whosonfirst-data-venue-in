@@ -2,13 +2,14 @@
   "id": 169525843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.184769,28.6492,77.184769,28.6492",
     "geom:latitude":28.6492,
     "geom:longitude":77.184769,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"4a, 52/54, C P Tank Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169525843,
-    "wof:lastmodified":1449035273,
+    "wof:lastmodified":1466288620,
     "wof:name":"Special Metal Industries",
     "wof:parent_id":85903883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "air"
     ]
 },
-  "bbox": [77.184769,28.6492,77.184769,28.6492],
+  "bbox": [
+    77.184769,
+    28.6492,
+    77.184769,
+    28.6492
+],
   "geometry": {"coordinates":[77.184769,28.6492],"type":"Point"}
 }

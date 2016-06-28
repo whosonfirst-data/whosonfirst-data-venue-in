@@ -2,13 +2,14 @@
   "id": 169604501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.845352,19.171698,72.845352,19.171698",
     "geom:latitude":19.171698,
     "geom:longitude":72.845352,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"3-b, Udyog Nagar, Swami Vivekanand Road, Goregaon(w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169604501,
-    "wof:lastmodified":1449035572,
+    "wof:lastmodified":1466288816,
     "wof:name":"Progressive Electroplating Chemicals Pvt. Ltd.",
     "wof:parent_id":85931563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "coating"
     ]
 },
-  "bbox": [72.845352,19.171698,72.845352,19.171698],
-  "geometry": {"coordinates":[72.845352,19.171698],"type":"Point"}
+  "bbox": [
+    72.845352,
+    19.171698,
+    72.845352,
+    19.171698
+],
+  "geometry": {"coordinates":[72.84535200000001,19.171698],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169551805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.19857,22.255503,73.19857,22.255503",
     "geom:latitude":22.255503,
     "geom:longitude":73.19857,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"265, Gidc,  Makarpura Road,",
     "sg:city":"Vadodara",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169551805,
-    "wof:lastmodified":1449033353,
+    "wof:lastmodified":1466288889,
     "wof:name":"Ambica Crush Tech Pvt. Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "machinery"
     ]
 },
-  "bbox": [73.19857,22.255503,73.19857,22.255503],
+  "bbox": [
+    73.19857,
+    22.255503,
+    73.19857,
+    22.255503
+],
   "geometry": {"coordinates":[73.19857,22.255503],"type":"Point"}
 }

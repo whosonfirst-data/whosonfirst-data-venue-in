@@ -2,13 +2,14 @@
   "id": 169605381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.169846,13.093922,80.169846,13.093922",
     "geom:latitude":13.093922,
     "geom:longitude":80.169846,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"69, Second Main Road, Indl. Estate, Ambattur,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169605381,
-    "wof:lastmodified":1449034287,
+    "wof:lastmodified":1466288816,
     "wof:name":"Pugazh Chemical Plant & Equipments Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [80.169846,13.093922,80.169846,13.093922],
-  "geometry": {"coordinates":[80.169846,13.093922],"type":"Point"}
+  "bbox": [
+    80.169846,
+    13.093922,
+    80.169846,
+    13.093922
+],
+  "geometry": {"coordinates":[80.16984600000001,13.093922],"type":"Point"}
 }

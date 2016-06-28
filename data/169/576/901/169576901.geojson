@@ -2,13 +2,14 @@
   "id": 169576901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.000755,19.069008,73.000755,19.069008",
     "geom:latitude":19.069008,
     "geom:longitude":73.000755,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"707, Thacker Tower, Plot No. 86, Sector-17, Vashi,",
     "sg:city":"Navi Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169576901,
-    "wof:lastmodified":1449035198,
+    "wof:lastmodified":1466288777,
     "wof:name":"Furnova Polymers Ltd.",
     "wof:parent_id":85931637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [73.000755,19.069008,73.000755,19.069008],
+  "bbox": [
+    73.000755,
+    19.069008,
+    73.000755,
+    19.069008
+],
   "geometry": {"coordinates":[73.000755,19.069008],"type":"Point"}
 }

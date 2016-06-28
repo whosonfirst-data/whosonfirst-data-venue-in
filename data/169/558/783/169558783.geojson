@@ -2,13 +2,14 @@
   "id": 169558783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.330002,28.58,77.330002,28.58",
     "geom:latitude":28.58,
     "geom:longitude":77.330002,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"E-83, 90, Site-b, Surajpur Ind. Area, Greater Noida,",
     "sg:city":"Noida",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169558783,
-    "wof:lastmodified":1449033581,
+    "wof:lastmodified":1466288746,
     "wof:name":"Camtol Chemicals (p) Ltd.",
     "wof:parent_id":85928405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "-"
     ]
 },
-  "bbox": [77.330002,28.58,77.330002,28.58],
-  "geometry": {"coordinates":[77.330002,28.58],"type":"Point"}
+  "bbox": [
+    77.330002,
+    28.58,
+    77.330002,
+    28.58
+],
+  "geometry": {"coordinates":[77.33000199999999,28.58],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169557017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.254387,13.070682,80.254387,13.070682",
     "geom:latitude":13.070682,
     "geom:longitude":80.254387,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Casa Major Road, Egmore",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169557017,
-    "wof:lastmodified":1449035036,
+    "wof:lastmodified":1466288695,
     "wof:name":"Pegasus Travels & Tours Pvt Ltd",
     "wof:parent_id":85903849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.254387,13.070682,80.254387,13.070682],
-  "geometry": {"coordinates":[80.254387,13.070682],"type":"Point"}
+  "bbox": [
+    80.254387,
+    13.070682,
+    80.254387,
+    13.070682
+],
+  "geometry": {"coordinates":[80.25438699999999,13.070682],"type":"Point"}
 }

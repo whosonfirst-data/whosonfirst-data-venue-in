@@ -2,13 +2,14 @@
   "id": 169558727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.263992,28.538294,77.263992,28.538294",
     "geom:latitude":28.538294,
     "geom:longitude":77.263992,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1635 A/14, Main Road, Govind Puri, Kalkaji,",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169558727,
-    "wof:lastmodified":1449033581,
+    "wof:lastmodified":1466288741,
     "wof:name":"C.k. Interfabs",
     "wof:parent_id":85927979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.263992,28.538294,77.263992,28.538294],
+  "bbox": [
+    77.263992,
+    28.538294,
+    77.263992,
+    28.538294
+],
   "geometry": {"coordinates":[77.263992,28.538294],"type":"Point"}
 }

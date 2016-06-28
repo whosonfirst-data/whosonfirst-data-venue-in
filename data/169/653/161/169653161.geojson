@@ -2,13 +2,14 @@
   "id": 169653161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.64359,12.973784,77.64359,12.973784",
     "geom:latitude":12.973784,
     "geom:longitude":77.64359,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Banerghatta Road Suite 28 NSR-GIV Centre Indian Institute Of Management Bangalore",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169653161,
-    "wof:lastmodified":1449032917,
+    "wof:lastmodified":1466288853,
     "wof:name":"Ziva Software",
     "wof:parent_id":85931151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "community-answers"
     ]
 },
-  "bbox": [77.64359,12.973784,77.64359,12.973784],
+  "bbox": [
+    77.64359,
+    12.973784,
+    77.64359,
+    12.973784
+],
   "geometry": {"coordinates":[77.64359,12.973784],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169611159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.845581,19.172329,72.845581,19.172329",
     "geom:latitude":19.172329,
     "geom:longitude":72.845581,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"703/1, G.i.d.c., Vithal Udyog Nagar,",
     "sg:city":"Anand",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169611159,
-    "wof:lastmodified":1449035262,
+    "wof:lastmodified":1466288819,
     "wof:name":"Ricasil Industries",
     "wof:parent_id":85931563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [72.845581,19.172329,72.845581,19.172329],
+  "bbox": [
+    72.845581,
+    19.172329,
+    72.845581,
+    19.172329
+],
   "geometry": {"coordinates":[72.845581,19.172329],"type":"Point"}
 }

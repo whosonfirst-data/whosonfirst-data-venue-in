@@ -2,13 +2,14 @@
   "id": 169550735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.17804,22.330755,73.17804,22.330755",
     "geom:latitude":22.330755,
     "geom:longitude":73.17804,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"57, Sardar Nagar, Nizampura,",
     "sg:city":"Vadodara",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169550735,
-    "wof:lastmodified":1449034477,
+    "wof:lastmodified":1466288884,
     "wof:name":"Safex Fire Services Ltd.",
     "wof:parent_id":85933519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alarm"
     ]
 },
-  "bbox": [73.17804,22.330755,73.17804,22.330755],
+  "bbox": [
+    73.17804,
+    22.330755,
+    73.17804,
+    22.330755
+],
   "geometry": {"coordinates":[73.17804,22.330755],"type":"Point"}
 }

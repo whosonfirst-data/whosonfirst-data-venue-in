@@ -2,13 +2,14 @@
   "id": 169554441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.164711,22.289513,73.164711,22.289513",
     "geom:latitude":22.289513,
     "geom:longitude":73.164711,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"A-1. Vijay Industrial Estate, Samiyala, Vadodara Padra Road,",
     "sg:city":"Vadodara",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169554441,
-    "wof:lastmodified":1449033369,
+    "wof:lastmodified":1466288701,
     "wof:name":"Solance Engineers Mktg. (p) Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pharmaceutical"
     ]
 },
-  "bbox": [73.164711,22.289513,73.164711,22.289513],
+  "bbox": [
+    73.164711,
+    22.289513,
+    73.164711,
+    22.289513
+],
   "geometry": {"coordinates":[73.164711,22.289513],"type":"Point"}
 }

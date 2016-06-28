@@ -2,13 +2,14 @@
   "id": 169580881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"75.933708,22.675549,75.933708,22.675549",
     "geom:latitude":22.675549,
     "geom:longitude":75.933708,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Nemawar Road,",
     "sg:city":"Indore",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169580881,
-    "wof:lastmodified":1449034914,
+    "wof:lastmodified":1466288814,
     "wof:name":"Jepika Paints",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "allied"
     ]
 },
-  "bbox": [75.933708,22.675549,75.933708,22.675549],
+  "bbox": [
+    75.933708,
+    22.675549,
+    75.933708,
+    22.675549
+],
   "geometry": {"coordinates":[75.933708,22.675549],"type":"Point"}
 }

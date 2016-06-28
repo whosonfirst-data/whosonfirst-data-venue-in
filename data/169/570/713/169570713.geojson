@@ -2,13 +2,14 @@
   "id": 169570713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.302116,8.971067,77.302116,8.971067",
     "geom:latitude":8.971067,
     "geom:longitude":77.302116,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Tenkasi Road",
     "sg:city":"Rajapalayam",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169570713,
-    "wof:lastmodified":1449034648,
+    "wof:lastmodified":1466288765,
     "wof:name":"Bee Pee Packaging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.302116,8.971067,77.302116,8.971067],
+  "bbox": [
+    77.302116,
+    8.971067,
+    77.302116,
+    8.971067
+],
   "geometry": {"coordinates":[77.302116,8.971067],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169561849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.586975,12.911844,77.586975,12.911844",
     "geom:latitude":12.911844,
     "geom:longitude":77.586975,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"R.t. Nagar Post",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169561849,
-    "wof:lastmodified":1449035019,
+    "wof:lastmodified":1466288732,
     "wof:name":"Noise & Heat Control Systems Pvt Ltd",
     "wof:parent_id":85931065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.586975,12.911844,77.586975,12.911844],
+  "bbox": [
+    77.586975,
+    12.911844,
+    77.586975,
+    12.911844
+],
   "geometry": {"coordinates":[77.586975,12.911844],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169587955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.585045,12.934008,77.585045,12.934008",
     "geom:latitude":12.934008,
     "geom:longitude":77.585045,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"14, 10th Main, Jayanagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169587955,
-    "wof:lastmodified":1449033821,
+    "wof:lastmodified":1466288799,
     "wof:name":"Masterkleen",
     "wof:parent_id":85930887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.585045,12.934008,77.585045,12.934008],
-  "geometry": {"coordinates":[77.585045,12.934008],"type":"Point"}
+  "bbox": [
+    77.585045,
+    12.934008,
+    77.585045,
+    12.934008
+],
+  "geometry": {"coordinates":[77.58504499999999,12.934008],"type":"Point"}
 }

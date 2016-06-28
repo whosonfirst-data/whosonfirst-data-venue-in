@@ -2,13 +2,14 @@
   "id": 169571667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.577271,13.007197,77.577271,13.007197",
     "geom:latitude":13.007197,
     "geom:longitude":77.577271,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sankey Road",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571667,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1466288767,
     "wof:name":"Karnataka Breweries & Distillaries Pvt Ltd",
     "wof:parent_id":85931005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.577271,13.007197,77.577271,13.007197],
+  "bbox": [
+    77.577271,
+    13.007197,
+    77.577271,
+    13.007197
+],
   "geometry": {"coordinates":[77.577271,13.007197],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169572239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.504318,17.461823,78.504318,17.461823",
     "geom:latitude":17.461823,
     "geom:longitude":78.504318,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Vasavi Nagar",
     "sg:city":"Secunderabad",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169572239,
-    "wof:lastmodified":1449034703,
+    "wof:lastmodified":1466288743,
     "wof:name":"Comp-u-learn Tech India Ltd",
     "wof:parent_id":85930697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.504318,17.461823,78.504318,17.461823],
+  "bbox": [
+    78.504318,
+    17.461823,
+    78.504318,
+    17.461823
+],
   "geometry": {"coordinates":[78.504318,17.461823],"type":"Point"}
 }

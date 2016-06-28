@@ -2,13 +2,14 @@
   "id": 169545815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"79.083572,21.169006,79.083572,21.169006",
     "geom:latitude":21.169006,
     "geom:longitude":79.083572,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 95, N.g.o. New Colony,",
     "sg:city":"Tirunelveli",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169545815,
-    "wof:lastmodified":1449033486,
+    "wof:lastmodified":1466288669,
     "wof:name":"Karunya Impex",
     "wof:parent_id":85903845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "exporter"
     ]
 },
-  "bbox": [79.083572,21.169006,79.083572,21.169006],
+  "bbox": [
+    79.083572,
+    21.169006,
+    79.083572,
+    21.169006
+],
   "geometry": {"coordinates":[79.083572,21.169006],"type":"Point"}
 }

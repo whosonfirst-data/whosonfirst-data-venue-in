@@ -2,13 +2,14 @@
   "id": 169540201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.626312,12.896649,77.626312,12.896649",
     "geom:latitude":12.896649,
     "geom:longitude":77.626312,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"90/7, Begur Road, Hongasandra,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169540201,
-    "wof:lastmodified":1449033978,
+    "wof:lastmodified":1466288641,
     "wof:name":"Sara Presstech",
     "wof:parent_id":85930881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "component"
     ]
 },
-  "bbox": [77.626312,12.896649,77.626312,12.896649],
+  "bbox": [
+    77.626312,
+    12.896649,
+    77.626312,
+    12.896649
+],
   "geometry": {"coordinates":[77.626312,12.896649],"type":"Point"}
 }

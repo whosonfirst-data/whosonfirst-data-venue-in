@@ -2,13 +2,14 @@
   "id": 169559301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.239845,13.049805,80.239845,13.049805",
     "geom:latitude":13.049805,
     "geom:longitude":80.239845,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Habibullah Road, T. Nagar",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169559301,
-    "wof:lastmodified":1449035237,
+    "wof:lastmodified":1466288718,
     "wof:name":"Maars Software International Ltd",
     "wof:parent_id":85903935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.239845,13.049805,80.239845,13.049805],
+  "bbox": [
+    80.239845,
+    13.049805,
+    80.239845,
+    13.049805
+],
   "geometry": {"coordinates":[80.239845,13.049805],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169531711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.820526,18.965881,72.820526,18.965881",
     "geom:latitude":18.965881,
     "geom:longitude":72.820526,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1501-b, Pratiksha Towers, R.s. Nimkar Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169531711,
-    "wof:lastmodified":1449033475,
+    "wof:lastmodified":1466288859,
     "wof:name":"Artifacts Decor",
     "wof:parent_id":85903971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "curtain"
     ]
 },
-  "bbox": [72.820526,18.965881,72.820526,18.965881],
+  "bbox": [
+    72.820526,
+    18.965881,
+    72.820526,
+    18.965881
+],
   "geometry": {"coordinates":[72.820526,18.965881],"type":"Point"}
 }

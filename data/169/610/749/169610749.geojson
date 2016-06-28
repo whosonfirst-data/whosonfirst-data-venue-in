@@ -2,13 +2,14 @@
   "id": 169610749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.803749,18.618679,73.803749,18.618679",
     "geom:latitude":18.618679,
     "geom:longitude":73.803749,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"8/1, D-3, Block Midc, Chinchwad,",
     "sg:city":"Pune",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169610749,
-    "wof:lastmodified":1449035909,
+    "wof:lastmodified":1466288825,
     "wof:name":"Reliable Polyrub Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "polymer"
     ]
 },
-  "bbox": [73.803749,18.618679,73.803749,18.618679],
+  "bbox": [
+    73.803749,
+    18.618679,
+    73.803749,
+    18.618679
+],
   "geometry": {"coordinates":[73.803749,18.618679],"type":"Point"}
 }

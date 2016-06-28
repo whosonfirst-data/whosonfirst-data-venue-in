@@ -2,13 +2,14 @@
   "id": 169534391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.857025,19.173002,72.857025,19.173002",
     "geom:latitude":19.173002,
     "geom:longitude":72.857025,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"226/c, B.t. Compound, Malad (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169534391,
-    "wof:lastmodified":1449033549,
+    "wof:lastmodified":1466288872,
     "wof:name":"Super Industries",
     "wof:parent_id":85931525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "/"
     ]
 },
-  "bbox": [72.857025,19.173002,72.857025,19.173002],
-  "geometry": {"coordinates":[72.857025,19.173002],"type":"Point"}
+  "bbox": [
+    72.857025,
+    19.173002,
+    72.857025,
+    19.173002
+],
+  "geometry": {"coordinates":[72.85702499999999,19.173002],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169625697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"75.552559,20.993498,75.552559,20.993498",
     "geom:latitude":20.993498,
     "geom:longitude":75.552559,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"176, Telephone Nagar,",
     "sg:city":"Indore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169625697,
-    "wof:lastmodified":1449036022,
+    "wof:lastmodified":1466288836,
     "wof:name":"Soft Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "raw"
     ]
 },
-  "bbox": [75.552559,20.993498,75.552559,20.993498],
+  "bbox": [
+    75.552559,
+    20.993498,
+    75.552559,
+    20.993498
+],
   "geometry": {"coordinates":[75.552559,20.993498],"type":"Point"}
 }

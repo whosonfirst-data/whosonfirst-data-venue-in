@@ -2,13 +2,14 @@
   "id": 169525943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.0093,27.177719,78.0093,27.177719",
     "geom:latitude":27.177719,
     "geom:longitude":78.0093,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Agra Road, Ind. Premises Co-op. Society Ltd., C/25a, Ghatkopar (west),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169525943,
-    "wof:lastmodified":1449035272,
+    "wof:lastmodified":1466288620,
     "wof:name":"Alfabco",
     "wof:parent_id":85903907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "foil"
     ]
 },
-  "bbox": [78.0093,27.177719,78.0093,27.177719],
+  "bbox": [
+    78.0093,
+    27.177719,
+    78.0093,
+    27.177719
+],
   "geometry": {"coordinates":[78.0093,27.177719],"type":"Point"}
 }

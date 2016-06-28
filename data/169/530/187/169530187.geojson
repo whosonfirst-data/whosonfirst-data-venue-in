@@ -2,13 +2,14 @@
   "id": 169530187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.875153,19.126781,72.875153,19.126781",
     "geom:latitude":19.126781,
     "geom:longitude":72.875153,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"145, Sdf-v, Seepz, Andheri (east),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169530187,
-    "wof:lastmodified":1449034442,
+    "wof:lastmodified":1466288672,
     "wof:name":"Fine-line Circuits Limited",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "circuit"
     ]
 },
-  "bbox": [72.875153,19.126781,72.875153,19.126781],
+  "bbox": [
+    72.875153,
+    19.126781,
+    72.875153,
+    19.126781
+],
   "geometry": {"coordinates":[72.875153,19.126781],"type":"Point"}
 }

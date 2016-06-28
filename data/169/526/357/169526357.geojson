@@ -2,13 +2,14 @@
   "id": 169526357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.843468,19.083488,72.843468,19.083488",
     "geom:latitude":19.083488,
     "geom:longitude":72.843468,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Laxmi Nivas, No. 355, V. P. Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169526357,
-    "wof:lastmodified":1449033702,
+    "wof:lastmodified":1466288624,
     "wof:name":"Sahni Auto Parts Co.",
     "wof:parent_id":85931575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "component"
     ]
 },
-  "bbox": [72.843468,19.083488,72.843468,19.083488],
+  "bbox": [
+    72.843468,
+    19.083488,
+    72.843468,
+    19.083488
+],
   "geometry": {"coordinates":[72.843468,19.083488],"type":"Point"}
 }

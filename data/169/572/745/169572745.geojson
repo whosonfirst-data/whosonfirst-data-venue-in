@@ -2,13 +2,14 @@
   "id": 169572745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.232849,28.664303,77.232849,28.664303",
     "geom:latitude":28.664303,
     "geom:longitude":77.232849,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Kashmere Gate",
     "sg:city":"Delhi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169572745,
-    "wof:lastmodified":1449034708,
+    "wof:lastmodified":1466288767,
     "wof:name":"Saluja Motors",
     "wof:parent_id":85928195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.232849,28.664303,77.232849,28.664303],
+  "bbox": [
+    77.232849,
+    28.664303,
+    77.232849,
+    28.664303
+],
   "geometry": {"coordinates":[77.232849,28.664303],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169562071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.820511,18.925093,72.820511,18.925093",
     "geom:latitude":18.925093,
     "geom:longitude":72.820511,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Ncpa Road, Nariman Point",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169562071,
-    "wof:lastmodified":1449034437,
+    "wof:lastmodified":1466288705,
     "wof:name":"Ricoh India Ltd",
     "wof:parent_id":85931461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.820511,18.925093,72.820511,18.925093],
+  "bbox": [
+    72.820511,
+    18.925093,
+    72.820511,
+    18.925093
+],
   "geometry": {"coordinates":[72.820511,18.925093],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169581869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.08091,28.50275,77.08091,28.50275",
     "geom:latitude":28.50275,
     "geom:longitude":77.08091,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 800, Phase-5, Udyog Vihar,",
     "sg:city":"Gurgaon",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169581869,
-    "wof:lastmodified":1449033382,
+    "wof:lastmodified":1466288795,
     "wof:name":"Kanegrade Flavours & Ingredients Pvt. Ltd.",
     "wof:parent_id":85928557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "flavour"
     ]
 },
-  "bbox": [77.08091,28.50275,77.08091,28.50275],
+  "bbox": [
+    77.08091,
+    28.50275,
+    77.08091,
+    28.50275
+],
   "geometry": {"coordinates":[77.08091,28.50275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169530427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.845619,19.036932,72.845619,19.036932",
     "geom:latitude":19.036932,
     "geom:longitude":72.845619,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"106, Udyog Mandir No. 2, Mahim (west),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169530427,
-    "wof:lastmodified":1449034443,
+    "wof:lastmodified":1466288682,
     "wof:name":"Tjk Impex M.b. Infotech",
     "wof:parent_id":85903903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "peripheral"
     ]
 },
-  "bbox": [72.845619,19.036932,72.845619,19.036932],
+  "bbox": [
+    72.845619,
+    19.036932,
+    72.845619,
+    19.036932
+],
   "geometry": {"coordinates":[72.845619,19.036932],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169543153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.155228,8.801814,78.155228,8.801814",
     "geom:latitude":8.801814,
     "geom:longitude":78.155228,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"25, Victoria Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169543153,
-    "wof:lastmodified":1449033335,
+    "wof:lastmodified":1466288643,
     "wof:name":"Dot Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "instrument"
     ]
 },
-  "bbox": [78.155228,8.801814,78.155228,8.801814],
-  "geometry": {"coordinates":[78.155228,8.801814],"type":"Point"}
+  "bbox": [
+    78.155228,
+    8.801814,
+    78.155228,
+    8.801814
+],
+  "geometry": {"coordinates":[78.15522799999999,8.801814],"type":"Point"}
 }

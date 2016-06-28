@@ -2,13 +2,14 @@
   "id": 169571451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.219681,28.668737,77.219681,28.668737",
     "geom:latitude":28.668737,
     "geom:longitude":77.219681,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Kingsway Camp",
     "sg:city":"Delhi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169571451,
-    "wof:lastmodified":1449034946,
+    "wof:lastmodified":1466288757,
     "wof:name":"Pacific Fire Controls",
     "wof:parent_id":85927921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.219681,28.668737,77.219681,28.668737],
-  "geometry": {"coordinates":[77.219681,28.668737],"type":"Point"}
+  "bbox": [
+    77.219681,
+    28.668737,
+    77.219681,
+    28.668737
+],
+  "geometry": {"coordinates":[77.21968099999999,28.668737],"type":"Point"}
 }

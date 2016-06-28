@@ -2,13 +2,14 @@
   "id": 169556095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.8405,19.004057,72.8405,19.004057",
     "geom:latitude":19.004057,
     "geom:longitude":72.8405,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Gokhale Society Lane, Parel",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169556095,
-    "wof:lastmodified":1449033509,
+    "wof:lastmodified":1466288697,
     "wof:name":"Croesus Finance Company Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.8405,19.004057,72.8405,19.004057],
-  "geometry": {"coordinates":[72.8405,19.004057],"type":"Point"}
+  "bbox": [
+    72.8405,
+    19.004057,
+    72.8405,
+    19.004057
+],
+  "geometry": {"coordinates":[72.84050000000001,19.004057],"type":"Point"}
 }

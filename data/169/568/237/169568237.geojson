@@ -2,13 +2,14 @@
   "id": 169568237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.18515,28.656862,77.18515,28.656862",
     "geom:latitude":28.656862,
     "geom:longitude":77.18515,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Desh Bandhu Gupta Road, Karol Bagh",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169568237,
-    "wof:lastmodified":1449032609,
+    "wof:lastmodified":1466288740,
     "wof:name":"Bindra Color Lab Pvt Ltd",
     "wof:parent_id":85903883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.18515,28.656862,77.18515,28.656862],
-  "geometry": {"coordinates":[77.18515,28.656862],"type":"Point"}
+  "bbox": [
+    77.18515,
+    28.656862,
+    77.18515,
+    28.656862
+],
+  "geometry": {"coordinates":[77.18514999999999,28.656862],"type":"Point"}
 }

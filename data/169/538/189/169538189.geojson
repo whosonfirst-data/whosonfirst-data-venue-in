@@ -2,13 +2,14 @@
   "id": 169538189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.612144,12.996496,77.612144,12.996496",
     "geom:latitude":12.996496,
     "geom:longitude":77.612144,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 31/1, Coles Road, Frazer Town,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169538189,
-    "wof:lastmodified":1449033100,
+    "wof:lastmodified":1466288635,
     "wof:name":"Blue Pearl Infomedia Pvt. Ltd.",
     "wof:parent_id":85930871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [77.612144,12.996496,77.612144,12.996496],
+  "bbox": [
+    77.612144,
+    12.996496,
+    77.612144,
+    12.996496
+],
   "geometry": {"coordinates":[77.612144,12.996496],"type":"Point"}
 }

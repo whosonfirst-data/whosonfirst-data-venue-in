@@ -2,13 +2,14 @@
   "id": 169638593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.362259,22.556757,88.362259,22.556757",
     "geom:latitude":22.556757,
     "geom:longitude":88.362259,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1/4, Abdul Halim Lane,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169638593,
-    "wof:lastmodified":1449032867,
+    "wof:lastmodified":1466288846,
     "wof:name":"Uni Print-o-chem Pvt. Ltd.",
     "wof:parent_id":85931931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [88.362259,22.556757,88.362259,22.556757],
-  "geometry": {"coordinates":[88.362259,22.556757],"type":"Point"}
+  "bbox": [
+    88.362259,
+    22.556757,
+    88.362259,
+    22.556757
+],
+  "geometry": {"coordinates":[88.36225899999999,22.556757],"type":"Point"}
 }

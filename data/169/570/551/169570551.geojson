@@ -2,13 +2,14 @@
   "id": 169570551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.181931,13.050302,80.181931,13.050302",
     "geom:latitude":13.050302,
     "geom:longitude":80.181931,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Valasaravakkam",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570551,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466288756,
     "wof:name":"Madhan Packaging Machineries",
     "wof:parent_id":85927541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.181931,13.050302,80.181931,13.050302],
-  "geometry": {"coordinates":[80.181931,13.050302],"type":"Point"}
+  "bbox": [
+    80.181931,
+    13.050302,
+    80.181931,
+    13.050302
+],
+  "geometry": {"coordinates":[80.18193100000001,13.050302],"type":"Point"}
 }

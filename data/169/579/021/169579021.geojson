@@ -2,13 +2,14 @@
   "id": 169579021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.849701,21.199327,72.849701,21.199327",
     "geom:latitude":21.199327,
     "geom:longitude":72.849701,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"J-36, Bombay Market, Umarwada,",
     "sg:city":"Surat",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169579021,
-    "wof:lastmodified":1449033741,
+    "wof:lastmodified":1466288892,
     "wof:name":"Hini Chemical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical"
     ]
 },
-  "bbox": [72.849701,21.199327,72.849701,21.199327],
+  "bbox": [
+    72.849701,
+    21.199327,
+    72.849701,
+    21.199327
+],
   "geometry": {"coordinates":[72.849701,21.199327],"type":"Point"}
 }

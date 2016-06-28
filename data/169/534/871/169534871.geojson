@@ -2,13 +2,14 @@
   "id": 169534871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.879677,19.115858,72.879677,19.115858",
     "geom:latitude":19.115858,
     "geom:longitude":72.879677,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"203, Tirupati Industrial Estate, Subhash Nagar, Bhandup (west),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169534871,
-    "wof:lastmodified":1449033548,
+    "wof:lastmodified":1466288642,
     "wof:name":"Digital Systems",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "level"
     ]
 },
-  "bbox": [72.879677,19.115858,72.879677,19.115858],
+  "bbox": [
+    72.879677,
+    19.115858,
+    72.879677,
+    19.115858
+],
   "geometry": {"coordinates":[72.879677,19.115858],"type":"Point"}
 }

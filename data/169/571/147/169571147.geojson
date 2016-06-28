@@ -2,13 +2,14 @@
   "id": 169571147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.247726,13.064542,80.247726,13.064542",
     "geom:latitude":13.064542,
     "geom:longitude":80.247726,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Haddows Road",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571147,
-    "wof:lastmodified":1449034948,
+    "wof:lastmodified":1466288742,
     "wof:name":"Feather Lite",
     "wof:parent_id":85931743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.247726,13.064542,80.247726,13.064542],
+  "bbox": [
+    80.247726,
+    13.064542,
+    80.247726,
+    13.064542
+],
   "geometry": {"coordinates":[80.247726,13.064542],"type":"Point"}
 }

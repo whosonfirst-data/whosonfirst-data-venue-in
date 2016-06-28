@@ -2,13 +2,14 @@
   "id": 169536137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.865791,19.117825,72.865791,19.117825",
     "geom:latitude":19.117825,
     "geom:longitude":72.865791,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"111/1, Road No. 13, Midc, Andheri (east),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169536137,
-    "wof:lastmodified":1449034660,
+    "wof:lastmodified":1466288872,
     "wof:name":"Osaka Exports",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.865791,19.117825,72.865791,19.117825],
+  "bbox": [
+    72.865791,
+    19.117825,
+    72.865791,
+    19.117825
+],
   "geometry": {"coordinates":[72.865791,19.117825],"type":"Point"}
 }

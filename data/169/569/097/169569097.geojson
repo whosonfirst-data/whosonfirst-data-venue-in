@@ -2,13 +2,14 @@
   "id": 169569097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.632172,22.769751,73.632172,22.769751",
     "geom:latitude":22.769751,
     "geom:longitude":73.632172,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Mahavir Marg",
     "sg:city":"Anand",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169569097,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1466288733,
     "wof:name":"Darteno Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [73.632172,22.769751,73.632172,22.769751],
+  "bbox": [
+    73.632172,
+    22.769751,
+    73.632172,
+    22.769751
+],
   "geometry": {"coordinates":[73.632172,22.769751],"type":"Point"}
 }

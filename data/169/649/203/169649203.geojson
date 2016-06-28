@@ -2,13 +2,14 @@
   "id": 169649203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.122261,28.86999,77.122261,28.86999",
     "geom:latitude":28.86999,
     "geom:longitude":77.122261,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. B1/A6, First Floor Mohan Co-operative Industrial Estate Mathura Road",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169649203,
-    "wof:lastmodified":1449034942,
+    "wof:lastmodified":1466288851,
     "wof:name":"Google",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "youtube"
     ]
 },
-  "bbox": [77.122261,28.86999,77.122261,28.86999],
-  "geometry": {"coordinates":[77.122261,28.86999],"type":"Point"}
+  "bbox": [
+    77.122261,
+    28.86999,
+    77.122261,
+    28.86999
+],
+  "geometry": {"coordinates":[77.12226099999999,28.86999],"type":"Point"}
 }

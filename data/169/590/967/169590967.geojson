@@ -2,13 +2,14 @@
   "id": 169590967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"75.534218,31.314241,75.534218,31.314241",
     "geom:latitude":31.314241,
     "geom:longitude":75.534218,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Basti Shiekh,",
     "sg:city":"Jalandhar",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169590967,
-    "wof:lastmodified":1449034657,
+    "wof:lastmodified":1466288812,
     "wof:name":"Mohinder Jit Chemicals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [75.534218,31.314241,75.534218,31.314241],
+  "bbox": [
+    75.534218,
+    31.314241,
+    75.534218,
+    31.314241
+],
   "geometry": {"coordinates":[75.534218,31.314241],"type":"Point"}
 }

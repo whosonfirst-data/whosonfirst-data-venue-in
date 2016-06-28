@@ -2,13 +2,14 @@
   "id": 169570591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.543312,12.983084,77.543312,12.983084",
     "geom:latitude":12.983084,
     "geom:longitude":77.543312,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Industrial Town, Rajajinagar",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169570591,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466288759,
     "wof:name":"Spm Graphics Pvt Ltd",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.543312,12.983084,77.543312,12.983084],
+  "bbox": [
+    77.543312,
+    12.983084,
+    77.543312,
+    12.983084
+],
   "geometry": {"coordinates":[77.543312,12.983084],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169541779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.674034,12.843727,77.674034,12.843727",
     "geom:latitude":12.843727,
     "geom:longitude":77.674034,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"78, Electronics City, Hosur Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169541779,
-    "wof:lastmodified":1449033039,
+    "wof:lastmodified":1466288675,
     "wof:name":"Tata Bp Solar India Limited",
     "wof:parent_id":85930867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "solar"
     ]
 },
-  "bbox": [77.674034,12.843727,77.674034,12.843727],
-  "geometry": {"coordinates":[77.674034,12.843727],"type":"Point"}
+  "bbox": [
+    77.674034,
+    12.843727,
+    77.674034,
+    12.843727
+],
+  "geometry": {"coordinates":[77.67403400000001,12.843727],"type":"Point"}
 }

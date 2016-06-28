@@ -2,13 +2,14 @@
   "id": 169617101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.638245,12.33071,76.638245,12.33071",
     "geom:latitude":12.33071,
     "geom:longitude":76.638245,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"41, Vivekananda Road,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169617101,
-    "wof:lastmodified":1449032799,
+    "wof:lastmodified":1466288894,
     "wof:name":"Saurabh Marketing Concern",
     "wof:parent_id":85903989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "flavour"
     ]
 },
-  "bbox": [76.638245,12.33071,76.638245,12.33071],
+  "bbox": [
+    76.638245,
+    12.33071,
+    76.638245,
+    12.33071
+],
   "geometry": {"coordinates":[76.638245,12.33071],"type":"Point"}
 }

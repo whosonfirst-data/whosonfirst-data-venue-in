@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 169557949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.832077,18.93017,72.832077,18.93017",
     "geom:latitude":18.93017,
     "geom:longitude":72.832077,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"94, Nagindas Master Road, Fort",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169557949,
-    "wof:lastmodified":1449035036,
+    "wof:lastmodified":1466288732,
     "wof:name":"Networth Stock Broking Ltd",
     "wof:parent_id":85903853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.832077,18.93017,72.832077,18.93017],
+  "bbox": [
+    72.832077,
+    18.93017,
+    72.832077,
+    18.93017
+],
   "geometry": {"coordinates":[72.832077,18.93017],"type":"Point"}
 }

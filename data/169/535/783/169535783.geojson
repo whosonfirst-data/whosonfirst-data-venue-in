@@ -2,13 +2,14 @@
   "id": 169535783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.82885,18.948298,72.82885,18.948298",
     "geom:latitude":18.948298,
     "geom:longitude":72.82885,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Zaveri Bazar, Kalabadevi Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169535783,
-    "wof:lastmodified":1449033285,
+    "wof:lastmodified":1466288877,
     "wof:name":"Jayesh Kumar Rasiklal & Co.",
     "wof:parent_id":85931439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "ethnic"
     ]
 },
-  "bbox": [72.82885,18.948298,72.82885,18.948298],
+  "bbox": [
+    72.82885,
+    18.948298,
+    72.82885,
+    18.948298
+],
   "geometry": {"coordinates":[72.82885,18.948298],"type":"Point"}
 }

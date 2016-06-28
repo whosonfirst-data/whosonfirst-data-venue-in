@@ -2,13 +2,14 @@
   "id": 169531447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.821442,18.924643,72.821442,18.924643",
     "geom:latitude":18.924643,
     "geom:longitude":72.821442,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Regent Chambers, 10th Floor, 208, Nariman Point,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169531447,
-    "wof:lastmodified":1449033476,
+    "wof:lastmodified":1466288858,
     "wof:name":"Parasrampuria Industries Limited",
     "wof:parent_id":85931461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cotton"
     ]
 },
-  "bbox": [72.821442,18.924643,72.821442,18.924643],
+  "bbox": [
+    72.821442,
+    18.924643,
+    72.821442,
+    18.924643
+],
   "geometry": {"coordinates":[72.821442,18.924643],"type":"Point"}
 }

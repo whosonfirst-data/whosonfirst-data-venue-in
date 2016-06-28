@@ -2,13 +2,14 @@
   "id": 169534919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.835846,19.189947,72.835846,19.189947",
     "geom:latitude":19.189947,
     "geom:longitude":72.835846,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 211, Bldg 2, New Sonal Ind Estate, Link Road, Kanchpada, Malad (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169534919,
-    "wof:lastmodified":1449033551,
+    "wof:lastmodified":1466288645,
     "wof:name":"Shree Maa Electronics P. Ltd.",
     "wof:parent_id":85931619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electronic"
     ]
 },
-  "bbox": [72.835846,19.189947,72.835846,19.189947],
+  "bbox": [
+    72.835846,
+    19.189947,
+    72.835846,
+    19.189947
+],
   "geometry": {"coordinates":[72.835846,19.189947],"type":"Point"}
 }

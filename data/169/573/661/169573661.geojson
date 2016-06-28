@@ -2,13 +2,14 @@
   "id": 169573661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.825958,19.114429,72.825958,19.114429",
     "geom:latitude":19.114429,
     "geom:longitude":72.825958,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Amar Mahal, Chembur",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169573661,
-    "wof:lastmodified":1449035115,
+    "wof:lastmodified":1466288763,
     "wof:name":"G S Ventures",
     "wof:parent_id":85931479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.825958,19.114429,72.825958,19.114429],
+  "bbox": [
+    72.825958,
+    19.114429,
+    72.825958,
+    19.114429
+],
   "geometry": {"coordinates":[72.825958,19.114429],"type":"Point"}
 }

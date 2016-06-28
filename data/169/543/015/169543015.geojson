@@ -2,13 +2,14 @@
   "id": 169543015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.627975,12.927554,77.627975,12.927554",
     "geom:latitude":12.927554,
     "geom:longitude":77.627975,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"147/g, 10th Main 3rd Block, Koramangala,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169543015,
-    "wof:lastmodified":1449033334,
+    "wof:lastmodified":1466288636,
     "wof:name":"J. P. Tools & Technologies Private Limited",
     "wof:parent_id":85931041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "telecommunication"
     ]
 },
-  "bbox": [77.627975,12.927554,77.627975,12.927554],
-  "geometry": {"coordinates":[77.627975,12.927554],"type":"Point"}
+  "bbox": [
+    77.627975,
+    12.927554,
+    77.627975,
+    12.927554
+],
+  "geometry": {"coordinates":[77.62797500000001,12.927554],"type":"Point"}
 }

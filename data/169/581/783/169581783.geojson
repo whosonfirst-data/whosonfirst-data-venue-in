@@ -2,13 +2,14 @@
   "id": 169581783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.578857,17.434832,78.578857,17.434832",
     "geom:latitude":17.434832,
     "geom:longitude":78.578857,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 128, Ida, Mallapur,",
     "sg:city":"Hyderabad",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169581783,
-    "wof:lastmodified":1449033379,
+    "wof:lastmodified":1466288794,
     "wof:name":"Kakatiya Chemicals Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [78.578857,17.434832,78.578857,17.434832],
+  "bbox": [
+    78.578857,
+    17.434832,
+    78.578857,
+    17.434832
+],
   "geometry": {"coordinates":[78.578857,17.434832],"type":"Point"}
 }

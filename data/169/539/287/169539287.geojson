@@ -2,13 +2,14 @@
   "id": 169539287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.640007,13.026609,77.640007,13.026609",
     "geom:latitude":13.026609,
     "geom:longitude":77.640007,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#2 Chelekere, Kalyannagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169539287,
-    "wof:lastmodified":1449036037,
+    "wof:lastmodified":1466288876,
     "wof:name":"Eastern Commerce Ltd.",
     "wof:parent_id":85931107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.640007,13.026609,77.640007,13.026609],
+  "bbox": [
+    77.640007,
+    13.026609,
+    77.640007,
+    13.026609
+],
   "geometry": {"coordinates":[77.640007,13.026609],"type":"Point"}
 }

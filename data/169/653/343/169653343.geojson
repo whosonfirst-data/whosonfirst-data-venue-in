@@ -2,13 +2,14 @@
   "id": 169653343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"75.883168,22.72939,75.883168,22.72939",
     "geom:latitude":22.72939,
     "geom:longitude":75.883168,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"31/2, New Palasia Near Dhobi Ghat",
     "sg:city":"Indore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169653343,
-    "wof:lastmodified":1449032917,
+    "wof:lastmodified":1466288896,
     "wof:name":"Vinfotech",
     "wof:parent_id":85933763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "web-2-0-design"
     ]
 },
-  "bbox": [75.883168,22.72939,75.883168,22.72939],
+  "bbox": [
+    75.883168,
+    22.72939,
+    75.883168,
+    22.72939
+],
   "geometry": {"coordinates":[75.883168,22.72939],"type":"Point"}
 }

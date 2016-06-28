@@ -2,13 +2,14 @@
   "id": 169549165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.24752,28.542105,77.24752,28.542105",
     "geom:latitude":28.542105,
     "geom:longitude":77.24752,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Lake Place Road, Rangniwas Police Choki, Near Arya Samaj Mandir,",
     "sg:city":"Udaipur",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169549165,
-    "wof:lastmodified":1449033596,
+    "wof:lastmodified":1466288674,
     "wof:name":"Sanskriti",
     "wof:parent_id":85928369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handicraft"
     ]
 },
-  "bbox": [77.24752,28.542105,77.24752,28.542105],
-  "geometry": {"coordinates":[77.24752,28.542105],"type":"Point"}
+  "bbox": [
+    77.24752,
+    28.542105,
+    77.24752,
+    28.542105
+],
+  "geometry": {"coordinates":[77.24751999999999,28.542105],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169573391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.56572,12.997085,77.56572,12.997085",
     "geom:latitude":12.997085,
     "geom:longitude":77.56572,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sheshadripuram, 1st Main Road",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169573391,
-    "wof:lastmodified":1449035114,
+    "wof:lastmodified":1466288752,
     "wof:name":"G - Tex Inc",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.56572,12.997085,77.56572,12.997085],
+  "bbox": [
+    77.56572,
+    12.997085,
+    77.56572,
+    12.997085
+],
   "geometry": {"coordinates":[77.56572,12.997085],"type":"Point"}
 }

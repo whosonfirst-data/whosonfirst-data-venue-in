@@ -2,13 +2,14 @@
   "id": 169610185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.22226,28.655928,77.22226,28.655928",
     "geom:latitude":28.655928,
     "geom:longitude":77.22226,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"6396, Katra Baryan, Fateh Puri,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169610185,
-    "wof:lastmodified":1449035909,
+    "wof:lastmodified":1466288821,
     "wof:name":"Regal Paints & Brush Pvt. Ltd.",
     "wof:parent_id":85928087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "allied"
     ]
 },
-  "bbox": [77.22226,28.655928,77.22226,28.655928],
-  "geometry": {"coordinates":[77.22226,28.655928],"type":"Point"}
+  "bbox": [
+    77.22226,
+    28.655928,
+    77.22226,
+    28.655928
+],
+  "geometry": {"coordinates":[77.22226000000001,28.655928],"type":"Point"}
 }

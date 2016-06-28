@@ -2,13 +2,14 @@
   "id": 169538545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.55777,13.01866,77.55777,13.01866",
     "geom:latitude":13.01866,
     "geom:longitude":77.55777,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"42, Tumkur Road, Yeshwanthpur, 5th Mile, Tumkur Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169538545,
-    "wof:lastmodified":1449033098,
+    "wof:lastmodified":1466288655,
     "wof:name":"Deccan Group Of Companies",
     "wof:parent_id":85930923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.55777,13.01866,77.55777,13.01866],
+  "bbox": [
+    77.55777,
+    13.01866,
+    77.55777,
+    13.01866
+],
   "geometry": {"coordinates":[77.55777,13.01866],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169546879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.337288,11.110649,77.337288,11.110649",
     "geom:latitude":11.110649,
     "geom:longitude":77.337288,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"9-11, Stanes Road, 1st Street,",
     "sg:city":"Tirupur",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169546879,
-    "wof:lastmodified":1449032677,
+    "wof:lastmodified":1466288678,
     "wof:name":"Dee Cee Exports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "knitwear"
     ]
 },
-  "bbox": [77.337288,11.110649,77.337288,11.110649],
+  "bbox": [
+    77.337288,
+    11.110649,
+    77.337288,
+    11.110649
+],
   "geometry": {"coordinates":[77.337288,11.110649],"type":"Point"}
 }

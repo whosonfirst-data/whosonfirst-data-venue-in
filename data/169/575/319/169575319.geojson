@@ -2,13 +2,14 @@
   "id": 169575319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.837151,18.951572,72.837151,18.951572",
     "geom:latitude":18.951572,
     "geom:longitude":72.837151,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Vadgadi, Masjid Bunder (west),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169575319,
-    "wof:lastmodified":1449033641,
+    "wof:lastmodified":1466288749,
     "wof:name":"Auto Steels & Rubber Ind. Pvt. Ltd.",
     "wof:parent_id":85903919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [72.837151,18.951572,72.837151,18.951572],
-  "geometry": {"coordinates":[72.837151,18.951572],"type":"Point"}
+  "bbox": [
+    72.837151,
+    18.951572,
+    72.837151,
+    18.951572
+],
+  "geometry": {"coordinates":[72.83715100000001,18.951572],"type":"Point"}
 }

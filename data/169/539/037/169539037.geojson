@@ -2,13 +2,14 @@
   "id": 169539037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.544853,13.009538,77.544853,13.009538",
     "geom:latitude":13.009538,
     "geom:longitude":77.544853,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No.883, 9th Cross, W.c.r., Mahalakshmi Puram,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169539037,
-    "wof:lastmodified":1449036040,
+    "wof:lastmodified":1466288874,
     "wof:name":"Vignesh Engineering",
     "wof:parent_id":85930919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "shutter"
     ]
 },
-  "bbox": [77.544853,13.009538,77.544853,13.009538],
+  "bbox": [
+    77.544853,
+    13.009538,
+    77.544853,
+    13.009538
+],
   "geometry": {"coordinates":[77.544853,13.009538],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169633031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"75.130096,15.372372,75.130096,15.372372",
     "geom:latitude":15.372372,
     "geom:longitude":75.130096,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"R-13/95, Raj Nagar,",
     "sg:city":"Ghaziabad",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169633031,
-    "wof:lastmodified":1449035939,
+    "wof:lastmodified":1466288834,
     "wof:name":"Swadeshi Gases",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [75.130096,15.372372,75.130096,15.372372],
-  "geometry": {"coordinates":[75.130096,15.372372],"type":"Point"}
+  "bbox": [
+    75.130096,
+    15.372372,
+    75.130096,
+    15.372372
+],
+  "geometry": {"coordinates":[75.13009599999999,15.372372],"type":"Point"}
 }

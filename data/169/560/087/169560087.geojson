@@ -2,13 +2,14 @@
   "id": 169560087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"74.766945,14.604401,74.766945,14.604401",
     "geom:latitude":14.604401,
     "geom:longitude":74.766945,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"J.c. Road, Opp Kannada Bhavan",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169560087,
-    "wof:lastmodified":1449035181,
+    "wof:lastmodified":1466288705,
     "wof:name":"Cosmic Infosystems Pvt Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [74.766945,14.604401,74.766945,14.604401],
-  "geometry": {"coordinates":[74.766945,14.604401],"type":"Point"}
+  "bbox": [
+    74.766945,
+    14.604401,
+    74.766945,
+    14.604401
+],
+  "geometry": {"coordinates":[74.76694500000001,14.604401],"type":"Point"}
 }

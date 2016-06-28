@@ -2,13 +2,14 @@
   "id": 169628955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.481163,17.390066,78.481163,17.390066",
     "geom:latitude":17.390066,
     "geom:longitude":78.481163,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"4-1-14, Tilak Road, Abids,",
     "sg:city":"Hyderabad",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169628955,
-    "wof:lastmodified":1449035333,
+    "wof:lastmodified":1466288840,
     "wof:name":"Standard Trading Company",
     "wof:parent_id":85930739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [78.481163,17.390066,78.481163,17.390066],
+  "bbox": [
+    78.481163,
+    17.390066,
+    78.481163,
+    17.390066
+],
   "geometry": {"coordinates":[78.481163,17.390066],"type":"Point"}
 }

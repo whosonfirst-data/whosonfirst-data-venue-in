@@ -2,13 +2,14 @@
   "id": 169569019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.250092,13.006548,80.250092,13.006548",
     "geom:latitude":13.006548,
     "geom:longitude":80.250092,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"First Main Road, Gandhi Nagar Adyar",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169569019,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1466288729,
     "wof:name":"Trichy Distilleries & Chemicals Ltd",
     "wof:parent_id":85903855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.250092,13.006548,80.250092,13.006548],
+  "bbox": [
+    80.250092,
+    13.006548,
+    80.250092,
+    13.006548
+],
   "geometry": {"coordinates":[80.250092,13.006548],"type":"Point"}
 }

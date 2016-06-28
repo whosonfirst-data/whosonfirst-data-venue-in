@@ -2,13 +2,14 @@
   "id": 169544671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.590965,12.962548,77.590965,12.962548",
     "geom:latitude":12.962548,
     "geom:longitude":77.590965,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"36, Mission Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169544671,
-    "wof:lastmodified":1449035963,
+    "wof:lastmodified":1466288671,
     "wof:name":"S T P Limited",
     "wof:parent_id":85930903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "waterproof"
     ]
 },
-  "bbox": [77.590965,12.962548,77.590965,12.962548],
+  "bbox": [
+    77.590965,
+    12.962548,
+    77.590965,
+    12.962548
+],
   "geometry": {"coordinates":[77.590965,12.962548],"type":"Point"}
 }

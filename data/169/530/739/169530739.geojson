@@ -2,13 +2,14 @@
   "id": 169530739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.943108,19.174673,72.943108,19.174673",
     "geom:latitude":19.174673,
     "geom:longitude":72.943108,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Saidham, P.k. Road, Mulund (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169530739,
-    "wof:lastmodified":1449034443,
+    "wof:lastmodified":1466288688,
     "wof:name":"Sunshine A Cash & Carry Discount Store",
     "wof:parent_id":85931655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "consumer"
     ]
 },
-  "bbox": [72.943108,19.174673,72.943108,19.174673],
+  "bbox": [
+    72.943108,
+    19.174673,
+    72.943108,
+    19.174673
+],
   "geometry": {"coordinates":[72.943108,19.174673],"type":"Point"}
 }

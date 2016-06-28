@@ -2,13 +2,14 @@
   "id": 169589661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.667877,23.024843,72.667877,23.024843",
     "geom:latitude":23.024843,
     "geom:longitude":72.667877,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No 611, 612, Odhav Road, Odhav,",
     "sg:city":"Ahmedabad",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169589661,
-    "wof:lastmodified":1449034449,
+    "wof:lastmodified":1466288801,
     "wof:name":"Metso Minerals (new Delhi) Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sulphur"
     ]
 },
-  "bbox": [72.667877,23.024843,72.667877,23.024843],
+  "bbox": [
+    72.667877,
+    23.024843,
+    72.667877,
+    23.024843
+],
   "geometry": {"coordinates":[72.667877,23.024843],"type":"Point"}
 }

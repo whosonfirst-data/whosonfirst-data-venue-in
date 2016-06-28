@@ -2,13 +2,14 @@
   "id": 169534211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.847488,19.136957,72.847488,19.136957",
     "geom:latitude":19.136957,
     "geom:longitude":72.847488,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"76, Level-1, Deewan Centre, S.v. Road, Jogeshwari (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169534211,
-    "wof:lastmodified":1449033547,
+    "wof:lastmodified":1466288870,
     "wof:name":"Nandosal Chem Ind. Pvt. Ltd.",
     "wof:parent_id":85931511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "intermediate"
     ]
 },
-  "bbox": [72.847488,19.136957,72.847488,19.136957],
+  "bbox": [
+    72.847488,
+    19.136957,
+    72.847488,
+    19.136957
+],
   "geometry": {"coordinates":[72.847488,19.136957],"type":"Point"}
 }

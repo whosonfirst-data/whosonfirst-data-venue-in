@@ -2,13 +2,14 @@
   "id": 169531673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.827942,18.943571,72.827942,18.943571",
     "geom:latitude":18.943571,
     "geom:longitude":72.827942,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"43, Dhobi Street, 2nd Floor,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169531673,
-    "wof:lastmodified":1449033472,
+    "wof:lastmodified":1466288859,
     "wof:name":"Kabani Crockery Centre",
     "wof:parent_id":85903889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crockery"
     ]
 },
-  "bbox": [72.827942,18.943571,72.827942,18.943571],
-  "geometry": {"coordinates":[72.827942,18.943571],"type":"Point"}
+  "bbox": [
+    72.827942,
+    18.943571,
+    72.827942,
+    18.943571
+],
+  "geometry": {"coordinates":[72.82794199999999,18.943571],"type":"Point"}
 }

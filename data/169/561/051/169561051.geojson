@@ -2,13 +2,14 @@
   "id": 169561051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.963127,11.012264,76.963127,11.012264",
     "geom:latitude":11.012264,
     "geom:longitude":76.963127,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"126, Sastri Road, Ram Nagar,",
     "sg:city":"Coimbatore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169561051,
-    "wof:lastmodified":1449035021,
+    "wof:lastmodified":1466288702,
     "wof:name":"Elpower Engineering Works",
     "wof:parent_id":85783699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "coating"
     ]
 },
-  "bbox": [76.963127,11.012264,76.963127,11.012264],
+  "bbox": [
+    76.963127,
+    11.012264,
+    76.963127,
+    11.012264
+],
   "geometry": {"coordinates":[76.963127,11.012264],"type":"Point"}
 }

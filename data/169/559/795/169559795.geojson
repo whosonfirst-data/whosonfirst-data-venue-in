@@ -2,13 +2,14 @@
   "id": 169559795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.305305,22.483757,88.305305,22.483757",
     "geom:latitude":22.483757,
     "geom:longitude":88.305305,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"267, Biren Roy Road (e),",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169559795,
-    "wof:lastmodified":1449035238,
+    "wof:lastmodified":1466288753,
     "wof:name":"Crs Paints & Resins Pvt. Ltd.",
     "wof:parent_id":85932023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "allied"
     ]
 },
-  "bbox": [88.305305,22.483757,88.305305,22.483757],
+  "bbox": [
+    88.305305,
+    22.483757,
+    88.305305,
+    22.483757
+],
   "geometry": {"coordinates":[88.305305,22.483757],"type":"Point"}
 }

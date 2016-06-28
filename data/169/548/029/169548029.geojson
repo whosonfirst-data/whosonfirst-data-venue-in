@@ -2,13 +2,14 @@
   "id": 169548029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.275673,13.059762,80.275673,13.059762",
     "geom:latitude":13.059762,
     "geom:longitude":80.275673,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"12a, Big Street,",
     "sg:city":"Tiruvannamalai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169548029,
-    "wof:lastmodified":1449034973,
+    "wof:lastmodified":1466288664,
     "wof:name":"Rdsons Export Enterprises",
     "wof:parent_id":85903975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.275673,13.059762,80.275673,13.059762],
+  "bbox": [
+    80.275673,
+    13.059762,
+    80.275673,
+    13.059762
+],
   "geometry": {"coordinates":[80.275673,13.059762],"type":"Point"}
 }

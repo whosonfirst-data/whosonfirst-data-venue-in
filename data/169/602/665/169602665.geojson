@@ -2,13 +2,14 @@
   "id": 169602665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.879959,18.512445,73.879959,18.512445",
     "geom:latitude":18.512445,
     "geom:longitude":73.879959,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"15, East Street,",
     "sg:city":"Dharmapuri",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169602665,
-    "wof:lastmodified":1449034228,
+    "wof:lastmodified":1466288816,
     "wof:name":"Prabhakar Match Industries",
     "wof:parent_id":85903913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wax"
     ]
 },
-  "bbox": [73.879959,18.512445,73.879959,18.512445],
+  "bbox": [
+    73.879959,
+    18.512445,
+    73.879959,
+    18.512445
+],
   "geometry": {"coordinates":[73.879959,18.512445],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169538123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.7145,12.991755,77.7145,12.991755",
     "geom:latitude":12.991755,
     "geom:longitude":77.7145,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#140/1 Hoodi, Whitefield Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169538123,
-    "wof:lastmodified":1449033099,
+    "wof:lastmodified":1466288876,
     "wof:name":"John Fowler (india) Pvt. Ltd.",
     "wof:parent_id":85931165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "machinery"
     ]
 },
-  "bbox": [77.7145,12.991755,77.7145,12.991755],
+  "bbox": [
+    77.7145,
+    12.991755,
+    77.7145,
+    12.991755
+],
   "geometry": {"coordinates":[77.7145,12.991755],"type":"Point"}
 }

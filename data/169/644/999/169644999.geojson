@@ -2,13 +2,14 @@
   "id": 169644999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.003708,19.132946,73.003708,19.132946",
     "geom:latitude":19.132946,
     "geom:longitude":73.003708,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"W 285-a/r 463, Midc, Rabale, Thane Belapur Road,",
     "sg:city":"Thane",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169644999,
-    "wof:lastmodified":1449034577,
+    "wof:lastmodified":1466288851,
     "wof:name":"Visa Chemical Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "gel"
     ]
 },
-  "bbox": [73.003708,19.132946,73.003708,19.132946],
+  "bbox": [
+    73.003708,
+    19.132946,
+    73.003708,
+    19.132946
+],
   "geometry": {"coordinates":[73.003708,19.132946],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169558449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.182281,28.645647,77.182281,28.645647",
     "geom:latitude":28.645647,
     "geom:longitude":77.182281,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1205, Vikram Tower, 16, Rajendra Place,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169558449,
-    "wof:lastmodified":1449033582,
+    "wof:lastmodified":1466288720,
     "wof:name":"Bohra Industries Ltd.",
     "wof:parent_id":85928113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [77.182281,28.645647,77.182281,28.645647],
+  "bbox": [
+    77.182281,
+    28.645647,
+    77.182281,
+    28.645647
+],
   "geometry": {"coordinates":[77.182281,28.645647],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169612115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"84.859398,22.243811,84.859398,22.243811",
     "geom:latitude":22.243811,
     "geom:longitude":84.859398,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"37-c, Sector-6,",
     "sg:city":"Faridabad",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169612115,
-    "wof:lastmodified":1449034129,
+    "wof:lastmodified":1466288821,
     "wof:name":"Rubber India",
     "wof:parent_id":85933795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "adhesive"
     ]
 },
-  "bbox": [84.859398,22.243811,84.859398,22.243811],
+  "bbox": [
+    84.859398,
+    22.243811,
+    84.859398,
+    22.243811
+],
   "geometry": {"coordinates":[84.859398,22.243811],"type":"Point"}
 }

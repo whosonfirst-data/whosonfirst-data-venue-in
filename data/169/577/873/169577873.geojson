@@ -2,13 +2,14 @@
   "id": 169577873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.427887,28.642565,77.427887,28.642565",
     "geom:latitude":28.642565,
     "geom:longitude":77.427887,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"13, New Vijay Nagar,",
     "sg:city":"Jalandhar",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169577873,
-    "wof:lastmodified":1449036065,
+    "wof:lastmodified":1466288799,
     "wof:name":"Gorimo Sales Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.427887,28.642565,77.427887,28.642565],
+  "bbox": [
+    77.427887,
+    28.642565,
+    77.427887,
+    28.642565
+],
   "geometry": {"coordinates":[77.427887,28.642565],"type":"Point"}
 }

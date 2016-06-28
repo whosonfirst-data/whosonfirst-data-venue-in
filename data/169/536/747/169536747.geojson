@@ -2,13 +2,14 @@
   "id": 169536747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.571487,12.937844,77.571487,12.937844",
     "geom:latitude":12.937844,
     "geom:longitude":77.571487,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 44-45, R.v. Road, Basavanagudi,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169536747,
-    "wof:lastmodified":1449034656,
+    "wof:lastmodified":1466288649,
     "wof:name":"Prestige Traders",
     "wof:parent_id":85930849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plywood"
     ]
 },
-  "bbox": [77.571487,12.937844,77.571487,12.937844],
+  "bbox": [
+    77.571487,
+    12.937844,
+    77.571487,
+    12.937844
+],
   "geometry": {"coordinates":[77.571487,12.937844],"type":"Point"}
 }

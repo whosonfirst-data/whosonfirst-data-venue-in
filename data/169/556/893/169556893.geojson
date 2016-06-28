@@ -2,13 +2,14 @@
   "id": 169556893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.957108,29.388672,76.957108,29.388672",
     "geom:latitude":29.388672,
     "geom:longitude":76.957108,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Model Town",
     "sg:city":"Ambala City",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169556893,
-    "wof:lastmodified":1449033509,
+    "wof:lastmodified":1466288729,
     "wof:name":"Cadence Electronic Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [76.957108,29.388672,76.957108,29.388672],
-  "geometry": {"coordinates":[76.957108,29.388672],"type":"Point"}
+  "bbox": [
+    76.957108,
+    29.388672,
+    76.957108,
+    29.388672
+],
+  "geometry": {"coordinates":[76.95710800000001,29.388672],"type":"Point"}
 }

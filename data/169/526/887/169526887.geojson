@@ -2,13 +2,14 @@
   "id": 169526887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.849548,19.049994,72.849548,19.049994",
     "geom:latitude":19.049994,
     "geom:longitude":72.849548,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop No. 4, Sion Bandra Link Road, Sion (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169526887,
-    "wof:lastmodified":1449033703,
+    "wof:lastmodified":1466288628,
     "wof:name":"Universal Leather Boutique",
     "wof:parent_id":85903903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cotton/canvas/synthetic"
     ]
 },
-  "bbox": [72.849548,19.049994,72.849548,19.049994],
+  "bbox": [
+    72.849548,
+    19.049994,
+    72.849548,
+    19.049994
+],
   "geometry": {"coordinates":[72.849548,19.049994],"type":"Point"}
 }

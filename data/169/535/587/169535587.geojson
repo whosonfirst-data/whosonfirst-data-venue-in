@@ -2,13 +2,14 @@
   "id": 169535587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.010216,19.073385,73.010216,19.073385",
     "geom:latitude":19.073385,
     "geom:longitude":73.010216,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Pl-444, Sector-22, Turbhe,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169535587,
-    "wof:lastmodified":1449033285,
+    "wof:lastmodified":1466288630,
     "wof:name":"Jitendra Engneering",
     "wof:parent_id":85931599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "good"
     ]
 },
-  "bbox": [73.010216,19.073385,73.010216,19.073385],
+  "bbox": [
+    73.010216,
+    19.073385,
+    73.010216,
+    19.073385
+],
   "geometry": {"coordinates":[73.010216,19.073385],"type":"Point"}
 }

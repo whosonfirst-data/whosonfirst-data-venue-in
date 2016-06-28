@@ -2,13 +2,14 @@
   "id": 169599891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.206337,13.030587,80.206337,13.030587",
     "geom:latitude":13.030587,
     "geom:longitude":80.206337,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"15b, Kasi Industrial Estate, Jafferkhanpet,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169599891,
-    "wof:lastmodified":1449034207,
+    "wof:lastmodified":1466288817,
     "wof:name":"Paxmy Fine Chemicals",
     "wof:parent_id":85931715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supply"
     ]
 },
-  "bbox": [80.206337,13.030587,80.206337,13.030587],
+  "bbox": [
+    80.206337,
+    13.030587,
+    80.206337,
+    13.030587
+],
   "geometry": {"coordinates":[80.206337,13.030587],"type":"Point"}
 }

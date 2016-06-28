@@ -2,13 +2,14 @@
   "id": 169532209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.892929,19.124762,72.892929,19.124762",
     "geom:latitude":19.124762,
     "geom:longitude":72.892929,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Saki Vihar Road 55, Pawai,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169532209,
-    "wof:lastmodified":1449033797,
+    "wof:lastmodified":1466288861,
     "wof:name":"Santostar Industries Pvt. Ltd.",
     "wof:parent_id":85931519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "diamond"
     ]
 },
-  "bbox": [72.892929,19.124762,72.892929,19.124762],
+  "bbox": [
+    72.892929,
+    19.124762,
+    72.892929,
+    19.124762
+],
   "geometry": {"coordinates":[72.892929,19.124762],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169605241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.787498,18.611629,73.787498,18.611629",
     "geom:latitude":18.611629,
     "geom:longitude":73.787498,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Thergaon, Chinchand,",
     "sg:city":"Pune",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169605241,
-    "wof:lastmodified":1449034291,
+    "wof:lastmodified":1466288815,
     "wof:name":"Pudumjee Pulp & Paper Mills Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paper"
     ]
 },
-  "bbox": [73.787498,18.611629,73.787498,18.611629],
+  "bbox": [
+    73.787498,
+    18.611629,
+    73.787498,
+    18.611629
+],
   "geometry": {"coordinates":[73.787498,18.611629],"type":"Point"}
 }

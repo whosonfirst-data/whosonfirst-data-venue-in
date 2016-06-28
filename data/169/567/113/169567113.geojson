@@ -2,13 +2,14 @@
   "id": 169567113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.794243,30.746668,76.794243,30.746668",
     "geom:latitude":30.746668,
     "geom:longitude":76.794243,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sector 9 - C",
     "sg:city":"Chandigarh",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169567113,
-    "wof:lastmodified":1449035997,
+    "wof:lastmodified":1466288728,
     "wof:name":"Inde Enterprises",
     "wof:parent_id":85931843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [76.794243,30.746668,76.794243,30.746668],
-  "geometry": {"coordinates":[76.794243,30.746668],"type":"Point"}
+  "bbox": [
+    76.794243,
+    30.746668,
+    76.794243,
+    30.746668
+],
+  "geometry": {"coordinates":[76.79424299999999,30.746668],"type":"Point"}
 }

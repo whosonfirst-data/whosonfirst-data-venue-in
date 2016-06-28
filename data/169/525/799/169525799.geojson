@@ -2,13 +2,14 @@
   "id": 169525799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.837669,19.075155,72.837669,19.075155",
     "geom:latitude":19.075155,
     "geom:longitude":72.837669,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No.7, Ram Krishna Building, 160, Off. S.v. Road, Vile Parle (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169525799,
-    "wof:lastmodified":1449035275,
+    "wof:lastmodified":1466288619,
     "wof:name":"Jyoti Corporation",
     "wof:parent_id":85931493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commodity"
     ]
 },
-  "bbox": [72.837669,19.075155,72.837669,19.075155],
-  "geometry": {"coordinates":[72.837669,19.075155],"type":"Point"}
+  "bbox": [
+    72.837669,
+    19.075155,
+    72.837669,
+    19.075155
+],
+  "geometry": {"coordinates":[72.83766900000001,19.075155],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169564649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.919479,19.051687,72.919479,19.051687",
     "geom:latitude":19.051687,
     "geom:longitude":72.919479,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Govandi (east)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169564649,
-    "wof:lastmodified":1449035764,
+    "wof:lastmodified":1466288718,
     "wof:name":"Uniexcel Agencies & Services Pvt Ltd",
     "wof:parent_id":85931557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.919479,19.051687,72.919479,19.051687],
+  "bbox": [
+    72.919479,
+    19.051687,
+    72.919479,
+    19.051687
+],
   "geometry": {"coordinates":[72.919479,19.051687],"type":"Point"}
 }

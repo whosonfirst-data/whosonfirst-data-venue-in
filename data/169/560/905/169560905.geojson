@@ -2,13 +2,14 @@
   "id": 169560905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.223007,28.620871,77.223007,28.620871",
     "geom:latitude":28.620871,
     "geom:longitude":77.223007,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"8, Canning Street,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169560905,
-    "wof:lastmodified":1449035180,
+    "wof:lastmodified":1466288766,
     "wof:name":"Economics (india)",
     "wof:parent_id":85903833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.223007,28.620871,77.223007,28.620871],
+  "bbox": [
+    77.223007,
+    28.620871,
+    77.223007,
+    28.620871
+],
   "geometry": {"coordinates":[77.223007,28.620871],"type":"Point"}
 }

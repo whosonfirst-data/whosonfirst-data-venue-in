@@ -2,13 +2,14 @@
   "id": 169534057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.826439,19.20808,72.826439,19.20808",
     "geom:latitude":19.20808,
     "geom:longitude":72.826439,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Charkop Inustrial Estate, Kandivali (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169534057,
-    "wof:lastmodified":1449033548,
+    "wof:lastmodified":1466288869,
     "wof:name":"Associated Capsules Pvt. Ltd.",
     "wof:parent_id":85931623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "drug"
     ]
 },
-  "bbox": [72.826439,19.20808,72.826439,19.20808],
-  "geometry": {"coordinates":[72.826439,19.20808],"type":"Point"}
+  "bbox": [
+    72.826439,
+    19.20808,
+    72.826439,
+    19.20808
+],
+  "geometry": {"coordinates":[72.82643899999999,19.20808],"type":"Point"}
 }

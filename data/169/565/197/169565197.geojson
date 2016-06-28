@@ -2,13 +2,14 @@
   "id": 169565197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.06279,28.685284,77.06279,28.685284",
     "geom:latitude":28.685284,
     "geom:longitude":77.06279,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirari Road, Nangloi",
     "sg:city":"Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169565197,
-    "wof:lastmodified":1449035665,
+    "wof:lastmodified":1466288711,
     "wof:name":"Globe General Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.06279,28.685284,77.06279,28.685284],
-  "geometry": {"coordinates":[77.06279,28.685284],"type":"Point"}
+  "bbox": [
+    77.06279,
+    28.685284,
+    77.06279,
+    28.685284
+],
+  "geometry": {"coordinates":[77.06279000000001,28.685284],"type":"Point"}
 }

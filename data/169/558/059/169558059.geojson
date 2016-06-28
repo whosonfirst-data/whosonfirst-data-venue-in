@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 169558059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.831917,19.136951,72.831917,19.136951",
     "geom:latitude":19.136951,
     "geom:longitude":72.831917,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1st Floor, New Link Road",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169558059,
-    "wof:lastmodified":1449033580,
+    "wof:lastmodified":1466288698,
     "wof:name":"A T C (clearing & Shipping) Pvt Ltd",
     "wof:parent_id":85931475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.831917,19.136951,72.831917,19.136951],
+  "bbox": [
+    72.831917,
+    19.136951,
+    72.831917,
+    19.136951
+],
   "geometry": {"coordinates":[72.831917,19.136951],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169563445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.643204,22.974106,72.643204,22.974106",
     "geom:latitude":22.974106,
     "geom:longitude":72.643204,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Gidc Vatva",
     "sg:city":"Ahmedabad",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169563445,
-    "wof:lastmodified":1449032730,
+    "wof:lastmodified":1466288715,
     "wof:name":"Rohan Dyes And Intermediates Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.643204,22.974106,72.643204,22.974106],
+  "bbox": [
+    72.643204,
+    22.974106,
+    72.643204,
+    22.974106
+],
   "geometry": {"coordinates":[72.643204,22.974106],"type":"Point"}
 }

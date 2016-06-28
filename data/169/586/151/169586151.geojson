@@ -2,13 +2,14 @@
   "id": 169586151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.882591,19.107027,72.882591,19.107027",
     "geom:latitude":19.107027,
     "geom:longitude":72.882591,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"6/6, Mittal Industrial Estate, M. Vasanji Road, Andheri(east),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169586151,
-    "wof:lastmodified":1449035573,
+    "wof:lastmodified":1466288782,
     "wof:name":"Maharashtra Tyre & Rubber Industries",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [72.882591,19.107027,72.882591,19.107027],
-  "geometry": {"coordinates":[72.882591,19.107027],"type":"Point"}
+  "bbox": [
+    72.882591,
+    19.107027,
+    72.882591,
+    19.107027
+],
+  "geometry": {"coordinates":[72.88259100000001,19.107027],"type":"Point"}
 }

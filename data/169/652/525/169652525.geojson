@@ -2,13 +2,14 @@
   "id": 169652525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.590524,12.909735,77.590524,12.909735",
     "geom:latitude":12.909735,
     "geom:longitude":77.590524,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"154 10th Cross 2nd Main BEL 1st Block Vidyaranyapura",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":169652525,
-    "wof:lastmodified":1449034808,
+    "wof:lastmodified":1466288896,
     "wof:name":"Venkat Mangudi Consulting",
     "wof:parent_id":85931065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "koha"
     ]
 },
-  "bbox": [77.590524,12.909735,77.590524,12.909735],
+  "bbox": [
+    77.590524,
+    12.909735,
+    77.590524,
+    12.909735
+],
   "geometry": {"coordinates":[77.590524,12.909735],"type":"Point"}
 }

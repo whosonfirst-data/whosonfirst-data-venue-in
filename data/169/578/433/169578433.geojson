@@ -2,13 +2,14 @@
   "id": 169578433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.341553,28.641075,77.341553,28.641075",
     "geom:latitude":28.641075,
     "geom:longitude":77.341553,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 172, Sector-4, Vaishali,",
     "sg:city":"Ghaziabad",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169578433,
-    "wof:lastmodified":1449033519,
+    "wof:lastmodified":1466288786,
     "wof:name":"Hansmukhi Nutraceuticals",
     "wof:parent_id":85928547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pharmaceutical"
     ]
 },
-  "bbox": [77.341553,28.641075,77.341553,28.641075],
+  "bbox": [
+    77.341553,
+    28.641075,
+    77.341553,
+    28.641075
+],
   "geometry": {"coordinates":[77.341553,28.641075],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169574999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.287804,28.564354,77.287804,28.564354",
     "geom:latitude":28.564354,
     "geom:longitude":77.287804,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Okhla Road",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169574999,
-    "wof:lastmodified":1449032666,
+    "wof:lastmodified":1466288787,
     "wof:name":"Pahwa Chemicals Pvt Ltd",
     "wof:parent_id":85927987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.287804,28.564354,77.287804,28.564354],
-  "geometry": {"coordinates":[77.287804,28.564354],"type":"Point"}
+  "bbox": [
+    77.287804,
+    28.564354,
+    77.287804,
+    28.564354
+],
+  "geometry": {"coordinates":[77.28780399999999,28.564354],"type":"Point"}
 }

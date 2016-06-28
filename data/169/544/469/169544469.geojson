@@ -2,13 +2,14 @@
   "id": 169544469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.556404,12.99302,77.556404,12.99302",
     "geom:latitude":12.99302,
     "geom:longitude":77.556404,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"652, 3rd Floor, Dr. Rajkumar Road, 2nd Stage, Rajajinagar,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169544469,
-    "wof:lastmodified":1449035964,
+    "wof:lastmodified":1466288661,
     "wof:name":"Techser Power Solutions Pvt. Ltd.",
     "wof:parent_id":85930919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "stabilizer"
     ]
 },
-  "bbox": [77.556404,12.99302,77.556404,12.99302],
+  "bbox": [
+    77.556404,
+    12.99302,
+    77.556404,
+    12.99302
+],
   "geometry": {"coordinates":[77.556404,12.99302],"type":"Point"}
 }

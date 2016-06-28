@@ -2,13 +2,14 @@
   "id": 169558511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"83.285316,27.096249,83.285316,27.096249",
     "geom:latitude":27.096249,
     "geom:longitude":83.285316,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"301, Anand Plaza,",
     "sg:city":"Udaipur",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169558511,
-    "wof:lastmodified":1449033580,
+    "wof:lastmodified":1466288726,
     "wof:name":"Bohra Pratisthan Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [83.285316,27.096249,83.285316,27.096249],
-  "geometry": {"coordinates":[83.285316,27.096249],"type":"Point"}
+  "bbox": [
+    83.285316,
+    27.096249,
+    83.285316,
+    27.096249
+],
+  "geometry": {"coordinates":[83.28531599999999,27.096249],"type":"Point"}
 }

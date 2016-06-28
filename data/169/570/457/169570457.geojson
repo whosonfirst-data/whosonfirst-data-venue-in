@@ -2,13 +2,14 @@
   "id": 169570457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.244827,28.644619,77.244827,28.644619",
     "geom:latitude":28.644619,
     "geom:longitude":77.244827,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Darya Ganj",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169570457,
-    "wof:lastmodified":1449034647,
+    "wof:lastmodified":1466288752,
     "wof:name":"R K Beri & Sons",
     "wof:parent_id":85903843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.244827,28.644619,77.244827,28.644619],
+  "bbox": [
+    77.244827,
+    28.644619,
+    77.244827,
+    28.644619
+],
   "geometry": {"coordinates":[77.244827,28.644619],"type":"Point"}
 }

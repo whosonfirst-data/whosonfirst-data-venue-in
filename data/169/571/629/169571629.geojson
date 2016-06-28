@@ -2,13 +2,14 @@
   "id": 169571629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.169838,28.55913,77.169838,28.55913",
     "geom:latitude":28.55913,
     "geom:longitude":77.169838,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Basant Lok, Vasant Vihar",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571629,
-    "wof:lastmodified":1449034948,
+    "wof:lastmodified":1466288765,
     "wof:name":"Krips Consultants",
     "wof:parent_id":85927949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.169838,28.55913,77.169838,28.55913],
+  "bbox": [
+    77.169838,
+    28.55913,
+    77.169838,
+    28.55913
+],
   "geometry": {"coordinates":[77.169838,28.55913],"type":"Point"}
 }

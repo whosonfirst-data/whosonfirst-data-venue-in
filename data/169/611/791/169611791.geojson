@@ -2,13 +2,14 @@
   "id": 169611791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.226303,13.02526,80.226303,13.02526",
     "geom:latitude":13.02526,
     "geom:longitude":80.226303,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"68 East Jones Road,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169611791,
-    "wof:lastmodified":1449035265,
+    "wof:lastmodified":1466288828,
     "wof:name":"Roopam Products",
     "wof:parent_id":85903867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "flavour"
     ]
 },
-  "bbox": [80.226303,13.02526,80.226303,13.02526],
+  "bbox": [
+    80.226303,
+    13.02526,
+    80.226303,
+    13.02526
+],
   "geometry": {"coordinates":[80.226303,13.02526],"type":"Point"}
 }

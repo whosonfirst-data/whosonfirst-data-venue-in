@@ -2,13 +2,14 @@
   "id": 169549961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"75.323036,19.868753,75.323036,19.868753",
     "geom:latitude":19.868753,
     "geom:longitude":75.323036,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No.504, Nr.bank Of Maharashtra, Station Road,",
     "sg:city":"Ulhasnagar",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169549961,
-    "wof:lastmodified":1449033592,
+    "wof:lastmodified":1466288693,
     "wof:name":"Multy Traders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [75.323036,19.868753,75.323036,19.868753],
+  "bbox": [
+    75.323036,
+    19.868753,
+    75.323036,
+    19.868753
+],
   "geometry": {"coordinates":[75.323036,19.868753],"type":"Point"}
 }

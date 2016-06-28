@@ -2,13 +2,14 @@
   "id": 169544935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.58918,12.990293,77.58918,12.990293",
     "geom:latitude":12.990293,
     "geom:longitude":77.58918,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"120, Cunningham Road, 1st Floor,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169544935,
-    "wof:lastmodified":1449035964,
+    "wof:lastmodified":1466288679,
     "wof:name":"Reliance Engineers Limited",
     "wof:parent_id":85930961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accessory"
     ]
 },
-  "bbox": [77.58918,12.990293,77.58918,12.990293],
+  "bbox": [
+    77.58918,
+    12.990293,
+    77.58918,
+    12.990293
+],
   "geometry": {"coordinates":[77.58918,12.990293],"type":"Point"}
 }

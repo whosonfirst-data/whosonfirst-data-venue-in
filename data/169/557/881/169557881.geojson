@@ -2,13 +2,14 @@
   "id": 169557881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.175117,28.708897,77.175117,28.708897",
     "geom:latitude":28.708897,
     "geom:longitude":77.175117,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Azadpur",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169557881,
-    "wof:lastmodified":1449035036,
+    "wof:lastmodified":1466288730,
     "wof:name":"Hpm Industries Ltd",
     "wof:parent_id":85928079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.175117,28.708897,77.175117,28.708897],
+  "bbox": [
+    77.175117,
+    28.708897,
+    77.175117,
+    28.708897
+],
   "geometry": {"coordinates":[77.175117,28.708897],"type":"Point"}
 }

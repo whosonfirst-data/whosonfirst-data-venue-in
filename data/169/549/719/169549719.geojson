@@ -2,13 +2,14 @@
   "id": 169549719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.865509,19.106506,72.865509,19.106506",
     "geom:latitude":19.106506,
     "geom:longitude":72.865509,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 150, G.i.d.c. Estate, V.u. Nagar,",
     "sg:city":"Udyognagar",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169549719,
-    "wof:lastmodified":1449033590,
+    "wof:lastmodified":1466288886,
     "wof:name":"Kaira Poultry And Cattlefeeds Pvt. Ltd.",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supplement"
     ]
 },
-  "bbox": [72.865509,19.106506,72.865509,19.106506],
+  "bbox": [
+    72.865509,
+    19.106506,
+    72.865509,
+    19.106506
+],
   "geometry": {"coordinates":[72.865509,19.106506],"type":"Point"}
 }

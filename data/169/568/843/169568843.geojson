@@ -2,13 +2,14 @@
   "id": 169568843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.19165,28.652443,77.19165,28.652443",
     "geom:latitude":28.652443,
     "geom:longitude":77.19165,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"W.e.a , Karol Bagh",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169568843,
-    "wof:lastmodified":1449032609,
+    "wof:lastmodified":1466288770,
     "wof:name":"Dhruva Fashion",
     "wof:parent_id":85903883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.19165,28.652443,77.19165,28.652443],
+  "bbox": [
+    77.19165,
+    28.652443,
+    77.19165,
+    28.652443
+],
   "geometry": {"coordinates":[77.19165,28.652443],"type":"Point"}
 }

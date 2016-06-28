@@ -2,13 +2,14 @@
   "id": 169573957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"75.825729,26.918915,75.825729,26.918915",
     "geom:latitude":26.918915,
     "geom:longitude":75.825729,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Johari Bazar",
     "sg:city":"Jaipur",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169573957,
-    "wof:lastmodified":1449035116,
+    "wof:lastmodified":1466288777,
     "wof:name":"Mohan Exports",
     "wof:parent_id":85934535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [75.825729,26.918915,75.825729,26.918915],
+  "bbox": [
+    75.825729,
+    26.918915,
+    75.825729,
+    26.918915
+],
   "geometry": {"coordinates":[75.825729,26.918915],"type":"Point"}
 }

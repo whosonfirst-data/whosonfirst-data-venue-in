@@ -2,13 +2,14 @@
   "id": 169581641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"70.069054,22.46426,70.069054,22.46426",
     "geom:latitude":22.46426,
     "geom:longitude":70.069054,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Jamnagar Khmbhaliya Road, Near Padana Bridge,",
     "sg:city":"Jamnagar",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169581641,
-    "wof:lastmodified":1449033381,
+    "wof:lastmodified":1466288790,
     "wof:name":"Kadvani Chemicals P. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dye"
     ]
 },
-  "bbox": [70.069054,22.46426,70.069054,22.46426],
-  "geometry": {"coordinates":[70.069054,22.46426],"type":"Point"}
+  "bbox": [
+    70.069054,
+    22.46426,
+    70.069054,
+    22.46426
+],
+  "geometry": {"coordinates":[70.06905399999999,22.46426],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169587471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.823196,19.065874,72.823196,19.065874",
     "geom:latitude":19.065874,
     "geom:longitude":72.823196,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 6, Rajan Village.off Carter Road, Bandra,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169587471,
-    "wof:lastmodified":1449033819,
+    "wof:lastmodified":1466288790,
     "wof:name":"Marian Maritime Private Limited",
     "wof:parent_id":85931581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [72.823196,19.065874,72.823196,19.065874],
+  "bbox": [
+    72.823196,
+    19.065874,
+    72.823196,
+    19.065874
+],
   "geometry": {"coordinates":[72.823196,19.065874],"type":"Point"}
 }

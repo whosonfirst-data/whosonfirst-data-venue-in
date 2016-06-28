@@ -2,13 +2,14 @@
   "id": 169564253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.836311,19.069654,72.836311,19.069654",
     "geom:latitude":19.069654,
     "geom:longitude":72.836311,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"10th Road, Chembur",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169564253,
-    "wof:lastmodified":1449035766,
+    "wof:lastmodified":1466288709,
     "wof:name":"Sanghavi Shoe Accessories Pvt Ltd",
     "wof:parent_id":85931493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.836311,19.069654,72.836311,19.069654],
-  "geometry": {"coordinates":[72.836311,19.069654],"type":"Point"}
+  "bbox": [
+    72.836311,
+    19.069654,
+    72.836311,
+    19.069654
+],
+  "geometry": {"coordinates":[72.83631099999999,19.069654],"type":"Point"}
 }

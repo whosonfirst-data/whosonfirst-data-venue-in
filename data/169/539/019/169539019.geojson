@@ -2,13 +2,14 @@
   "id": 169539019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.600204,12.914347,77.600204,12.914347",
     "geom:latitude":12.914347,
     "geom:longitude":77.600204,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"172/1, Bannerghatta Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169539019,
-    "wof:lastmodified":1449036037,
+    "wof:lastmodified":1466288874,
     "wof:name":"Anugraha Engineering",
     "wof:parent_id":85931061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "shutter"
     ]
 },
-  "bbox": [77.600204,12.914347,77.600204,12.914347],
-  "geometry": {"coordinates":[77.600204,12.914347],"type":"Point"}
+  "bbox": [
+    77.600204,
+    12.914347,
+    77.600204,
+    12.914347
+],
+  "geometry": {"coordinates":[77.60020400000001,12.914347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169550179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.313805,17.433174,78.313805,17.433174",
     "geom:latitude":17.433174,
     "geom:longitude":78.313805,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 2619/2, Phase-iii, G.i.d.c Colony,",
     "sg:city":"Umbergaon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169550179,
-    "wof:lastmodified":1449034479,
+    "wof:lastmodified":1466288680,
     "wof:name":"Timber Technique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "writing"
     ]
 },
-  "bbox": [78.313805,17.433174,78.313805,17.433174],
+  "bbox": [
+    78.313805,
+    17.433174,
+    78.313805,
+    17.433174
+],
   "geometry": {"coordinates":[78.313805,17.433174],"type":"Point"}
 }

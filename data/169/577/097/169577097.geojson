@@ -2,13 +2,14 @@
   "id": 169577097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.826141,19.014938,72.826141,19.014938",
     "geom:latitude":19.014938,
     "geom:longitude":72.826141,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Gammon House, Veer Savarker Marg, Prabha Devi,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169577097,
-    "wof:lastmodified":1449036066,
+    "wof:lastmodified":1466288768,
     "wof:name":"Gammon Nirman Limited",
     "wof:parent_id":85931467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sulphur"
     ]
 },
-  "bbox": [72.826141,19.014938,72.826141,19.014938],
-  "geometry": {"coordinates":[72.826141,19.014938],"type":"Point"}
+  "bbox": [
+    72.826141,
+    19.014938,
+    72.826141,
+    19.014938
+],
+  "geometry": {"coordinates":[72.82614100000001,19.014938],"type":"Point"}
 }

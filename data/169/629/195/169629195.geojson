@@ -2,13 +2,14 @@
   "id": 169629195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.909378,19.043848,72.909378,19.043848",
     "geom:latitude":19.043848,
     "geom:longitude":72.909378,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"742-c, Pace City-ii, Sector-37,",
     "sg:city":"Gurgaon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169629195,
-    "wof:lastmodified":1449035185,
+    "wof:lastmodified":1466288833,
     "wof:name":"Star Light Polycoat",
     "wof:parent_id":85931557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "coating"
     ]
 },
-  "bbox": [72.909378,19.043848,72.909378,19.043848],
+  "bbox": [
+    72.909378,
+    19.043848,
+    72.909378,
+    19.043848
+],
   "geometry": {"coordinates":[72.909378,19.043848],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169578203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.191551,28.650553,77.191551,28.650553",
     "geom:latitude":28.650553,
     "geom:longitude":77.191551,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B 144, Road No.9, Vishwakarma Industrial Area,",
     "sg:city":"Jaipur",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169578203,
-    "wof:lastmodified":1449033520,
+    "wof:lastmodified":1466288777,
     "wof:name":"Gupta Chemicals Pvt. Ltd.",
     "wof:parent_id":85928243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.191551,28.650553,77.191551,28.650553],
+  "bbox": [
+    77.191551,
+    28.650553,
+    77.191551,
+    28.650553
+],
   "geometry": {"coordinates":[77.191551,28.650553],"type":"Point"}
 }

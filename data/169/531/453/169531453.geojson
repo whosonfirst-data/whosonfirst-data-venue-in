@@ -2,13 +2,14 @@
   "id": 169531453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"79.833229,11.936741,79.833229,11.936741",
     "geom:latitude":11.936741,
     "geom:longitude":79.833229,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"86-b, Netaji Subhas Chandra Road, Marine Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169531453,
-    "wof:lastmodified":1449033476,
+    "wof:lastmodified":1466288858,
     "wof:name":"Weizmann Limited",
     "wof:parent_id":85934411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cotton"
     ]
 },
-  "bbox": [79.833229,11.936741,79.833229,11.936741],
+  "bbox": [
+    79.833229,
+    11.936741,
+    79.833229,
+    11.936741
+],
   "geometry": {"coordinates":[79.833229,11.936741],"type":"Point"}
 }

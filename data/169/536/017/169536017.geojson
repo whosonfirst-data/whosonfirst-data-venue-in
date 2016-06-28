@@ -2,13 +2,14 @@
   "id": 169536017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.820824,18.923998,72.820824,18.923998",
     "geom:latitude":18.923998,
     "geom:longitude":72.820824,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"504, Dalamal House, Nariman Point,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169536017,
-    "wof:lastmodified":1449034659,
+    "wof:lastmodified":1466288623,
     "wof:name":"Vardhman Textiles Limited",
     "wof:parent_id":85931461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.820824,18.923998,72.820824,18.923998],
+  "bbox": [
+    72.820824,
+    18.923998,
+    72.820824,
+    18.923998
+],
   "geometry": {"coordinates":[72.820824,18.923998],"type":"Point"}
 }

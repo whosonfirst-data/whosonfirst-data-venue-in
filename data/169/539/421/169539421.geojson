@@ -2,13 +2,14 @@
   "id": 169539421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.57782,12.966075,77.57782,12.966075",
     "geom:latitude":12.966075,
     "geom:longitude":77.57782,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#5, Chandra Building, 531 Avenue Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169539421,
-    "wof:lastmodified":1449036038,
+    "wof:lastmodified":1466288637,
     "wof:name":"Peekay Fabrics",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.57782,12.966075,77.57782,12.966075],
+  "bbox": [
+    77.57782,
+    12.966075,
+    77.57782,
+    12.966075
+],
   "geometry": {"coordinates":[77.57782,12.966075],"type":"Point"}
 }

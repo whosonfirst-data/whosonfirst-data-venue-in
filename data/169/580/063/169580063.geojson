@@ -2,13 +2,14 @@
   "id": 169580063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.617355,28.191776,76.617355,28.191776",
     "geom:latitude":28.191776,
     "geom:longitude":76.617355,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"183, Huda Market, Sector-28,",
     "sg:city":"Faridabad",
     "sg:classifiers":[
@@ -45,16 +46,22 @@
         }
     ],
     "wof:id":169580063,
-    "wof:lastmodified":1449034911,
+    "wof:lastmodified":1466288778,
     "wof:name":"Interface Chemicals Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [76.617355,28.191776,76.617355,28.191776],
+  "bbox": [
+    76.617355,
+    28.191776,
+    76.617355,
+    28.191776
+],
   "geometry": {"coordinates":[76.617355,28.191776],"type":"Point"}
 }

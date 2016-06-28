@@ -2,13 +2,14 @@
   "id": 169553779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.975822,10.99849,76.975822,10.99849",
     "geom:latitude":10.99849,
     "geom:longitude":76.975822,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"310, Race Course Tower, Race Course Circle,",
     "sg:city":"Vadodara",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169553779,
-    "wof:lastmodified":1449032706,
+    "wof:lastmodified":1466288701,
     "wof:name":"Gaytech Engineering Pvt. Ltd.",
     "wof:parent_id":85783691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [76.975822,10.99849,76.975822,10.99849],
-  "geometry": {"coordinates":[76.975822,10.99849],"type":"Point"}
+  "bbox": [
+    76.975822,
+    10.99849,
+    76.975822,
+    10.99849
+],
+  "geometry": {"coordinates":[76.97582199999999,10.99849],"type":"Point"}
 }

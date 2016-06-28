@@ -2,13 +2,14 @@
   "id": 169625559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.281204,28.632389,77.281204,28.632389",
     "geom:latitude":28.632389,
     "geom:longitude":77.281204,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"165-a, Balaji Bhavan, 1st Floor, Railway Lines,",
     "sg:city":"Solapur",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169625559,
-    "wof:lastmodified":1449036026,
+    "wof:lastmodified":1466288836,
     "wof:name":"Smruthi Organics Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.281204,28.632389,77.281204,28.632389],
+  "bbox": [
+    77.281204,
+    28.632389,
+    77.281204,
+    28.632389
+],
   "geometry": {"coordinates":[77.281204,28.632389],"type":"Point"}
 }

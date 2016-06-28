@@ -2,13 +2,14 @@
   "id": 169558031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.458961,17.423475,78.458961,17.423475",
     "geom:latitude":17.423475,
     "geom:longitude":78.458961,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"R.b. Road, Somajiguda",
     "sg:city":"Hyderabad",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169558031,
-    "wof:lastmodified":1449033581,
+    "wof:lastmodified":1466288695,
     "wof:name":"Ain Security & Control Systems",
     "wof:parent_id":85930723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.458961,17.423475,78.458961,17.423475],
+  "bbox": [
+    78.458961,
+    17.423475,
+    78.458961,
+    17.423475
+],
   "geometry": {"coordinates":[78.458961,17.423475],"type":"Point"}
 }

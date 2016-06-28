@@ -2,13 +2,14 @@
   "id": 169644301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.815231,18.956123,72.815231,18.956123",
     "geom:latitude":18.956123,
     "geom:longitude":72.815231,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"8, Kala Bhavan, 2nd Floor, 3, Mathew Road, Opera House,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169644301,
-    "wof:lastmodified":1449034577,
+    "wof:lastmodified":1466288845,
     "wof:name":"Vinod Trading Co.",
     "wof:parent_id":85931463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [72.815231,18.956123,72.815231,18.956123],
+  "bbox": [
+    72.815231,
+    18.956123,
+    72.815231,
+    18.956123
+],
   "geometry": {"coordinates":[72.815231,18.956123],"type":"Point"}
 }

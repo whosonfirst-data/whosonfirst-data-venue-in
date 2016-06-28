@@ -2,13 +2,14 @@
   "id": 169547371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"79.704224,12.841665,79.704224,12.841665",
     "geom:latitude":12.841665,
     "geom:longitude":79.704224,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Raja Street,",
     "sg:city":"Tirupur",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169547371,
-    "wof:lastmodified":1449033009,
+    "wof:lastmodified":1466288665,
     "wof:name":"Cosmo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [79.704224,12.841665,79.704224,12.841665],
+  "bbox": [
+    79.704224,
+    12.841665,
+    79.704224,
+    12.841665
+],
   "geometry": {"coordinates":[79.704224,12.841665],"type":"Point"}
 }

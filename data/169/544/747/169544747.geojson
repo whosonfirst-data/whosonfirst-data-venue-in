@@ -2,13 +2,14 @@
   "id": 169544747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.567566,12.955353,77.567566,12.955353",
     "geom:latitude":12.955353,
     "geom:longitude":77.567566,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 3/5, Arya Plaza No. 2, 1st Floor, Bull Temple Road, Chamarajpet,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169544747,
-    "wof:lastmodified":1449035962,
+    "wof:lastmodified":1466288880,
     "wof:name":"Sumetha Microware",
     "wof:parent_id":85930907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "weighing"
     ]
 },
-  "bbox": [77.567566,12.955353,77.567566,12.955353],
+  "bbox": [
+    77.567566,
+    12.955353,
+    77.567566,
+    12.955353
+],
   "geometry": {"coordinates":[77.567566,12.955353],"type":"Point"}
 }

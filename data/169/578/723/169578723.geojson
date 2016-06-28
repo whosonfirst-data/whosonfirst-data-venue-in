@@ -2,13 +2,14 @@
   "id": 169578723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.295822,28.638712,77.295822,28.638712",
     "geom:latitude":28.638712,
     "geom:longitude":77.295822,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"G-35, Preet Vihar,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169578723,
-    "wof:lastmodified":1449033520,
+    "wof:lastmodified":1466288799,
     "wof:name":"Hilltop Rubber Pvt. Ltd.",
     "wof:parent_id":85928351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "-"
     ]
 },
-  "bbox": [77.295822,28.638712,77.295822,28.638712],
+  "bbox": [
+    77.295822,
+    28.638712,
+    77.295822,
+    28.638712
+],
   "geometry": {"coordinates":[77.295822,28.638712],"type":"Point"}
 }

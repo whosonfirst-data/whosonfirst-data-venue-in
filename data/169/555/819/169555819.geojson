@@ -2,13 +2,14 @@
   "id": 169555819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"74.873367,31.635395,74.873367,31.635395",
     "geom:latitude":31.635395,
     "geom:longitude":74.873367,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Queens Road",
     "sg:city":"Amritsar",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169555819,
-    "wof:lastmodified":1449035495,
+    "wof:lastmodified":1466288727,
     "wof:name":"Hotel Astoria",
     "wof:parent_id":85933839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [74.873367,31.635395,74.873367,31.635395],
+  "bbox": [
+    74.873367,
+    31.635395,
+    74.873367,
+    31.635395
+],
   "geometry": {"coordinates":[74.873367,31.635395],"type":"Point"}
 }

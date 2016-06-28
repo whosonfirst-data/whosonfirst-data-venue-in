@@ -2,13 +2,14 @@
   "id": 169568365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.788475,30.734785,76.788475,30.734785",
     "geom:latitude":30.734785,
     "geom:longitude":76.788475,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sector 18 - C",
     "sg:city":"Chandigarh",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169568365,
-    "wof:lastmodified":1449032608,
+    "wof:lastmodified":1466288746,
     "wof:name":"Centre For Management Research And Development",
     "wof:parent_id":85931867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [76.788475,30.734785,76.788475,30.734785],
-  "geometry": {"coordinates":[76.788475,30.734785],"type":"Point"}
+  "bbox": [
+    76.788475,
+    30.734785,
+    76.788475,
+    30.734785
+],
+  "geometry": {"coordinates":[76.78847500000001,30.734785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169580117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.164421,22.293995,73.164421,22.293995",
     "geom:latitude":22.293995,
     "geom:longitude":73.164421,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"83 A, Tagore Nagar, Old Padra Road,",
     "sg:city":"Vadodara",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169580117,
-    "wof:lastmodified":1449034914,
+    "wof:lastmodified":1466288780,
     "wof:name":"International Process Plants & Equipment Corp.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "processing"
     ]
 },
-  "bbox": [73.164421,22.293995,73.164421,22.293995],
+  "bbox": [
+    73.164421,
+    22.293995,
+    73.164421,
+    22.293995
+],
   "geometry": {"coordinates":[73.164421,22.293995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169566643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.488602,17.438841,78.488602,17.438841",
     "geom:latitude":17.438841,
     "geom:longitude":78.488602,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"M.g. Road, Secunderabad",
     "sg:city":"Hyderabad",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169566643,
-    "wof:lastmodified":1449032754,
+    "wof:lastmodified":1466288727,
     "wof:name":"Gupta's Gems N Jewels",
     "wof:parent_id":85930733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.488602,17.438841,78.488602,17.438841],
+  "bbox": [
+    78.488602,
+    17.438841,
+    78.488602,
+    17.438841
+],
   "geometry": {"coordinates":[78.488602,17.438841],"type":"Point"}
 }

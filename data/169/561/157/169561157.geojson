@@ -2,13 +2,14 @@
   "id": 169561157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.476822,17.443283,78.476822,17.443283",
     "geom:latitude":17.443283,
     "geom:longitude":78.476822,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"5th Floor, Gowra Plaza, 1-8-444, S.p. Road, Begumpet,",
     "sg:city":"Hyderabad",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169561157,
-    "wof:lastmodified":1449035021,
+    "wof:lastmodified":1466288709,
     "wof:name":"Ericsson",
     "wof:parent_id":85930727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [78.476822,17.443283,78.476822,17.443283],
+  "bbox": [
+    78.476822,
+    17.443283,
+    78.476822,
+    17.443283
+],
   "geometry": {"coordinates":[78.476822,17.443283],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169545485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.823761,18.972694,72.823761,18.972694",
     "geom:latitude":18.972694,
     "geom:longitude":72.823761,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Park View,",
     "sg:city":"Thiruvananthapuram",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169545485,
-    "wof:lastmodified":1449033486,
+    "wof:lastmodified":1466288658,
     "wof:name":"Department Of Tourism",
     "wof:parent_id":85931453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.823761,18.972694,72.823761,18.972694],
+  "bbox": [
+    72.823761,
+    18.972694,
+    72.823761,
+    18.972694
+],
   "geometry": {"coordinates":[72.823761,18.972694],"type":"Point"}
 }

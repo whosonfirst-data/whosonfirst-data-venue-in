@@ -2,13 +2,14 @@
   "id": 169560773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.269096,28.56741,77.269096,28.56741",
     "geom:latitude":28.56741,
     "geom:longitude":77.269096,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"E/4, Kalindi Colony, C.v. Raman Marg,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169560773,
-    "wof:lastmodified":1449035179,
+    "wof:lastmodified":1466288756,
     "wof:name":"Dynamic Marketing Networks",
     "wof:parent_id":85928007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resin"
     ]
 },
-  "bbox": [77.269096,28.56741,77.269096,28.56741],
+  "bbox": [
+    77.269096,
+    28.56741,
+    77.269096,
+    28.56741
+],
   "geometry": {"coordinates":[77.269096,28.56741],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169590741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.621414,12.978995,77.621414,12.978995",
     "geom:latitude":12.978995,
     "geom:longitude":77.621414,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"The Millenia Tower B, 4th Floor, Murphy Road, Ulsoor,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169590741,
-    "wof:lastmodified":1449034652,
+    "wof:lastmodified":1466288808,
     "wof:name":"Momentive Performance Materials",
     "wof:parent_id":85931137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "adhesive"
     ]
 },
-  "bbox": [77.621414,12.978995,77.621414,12.978995],
+  "bbox": [
+    77.621414,
+    12.978995,
+    77.621414,
+    12.978995
+],
   "geometry": {"coordinates":[77.621414,12.978995],"type":"Point"}
 }

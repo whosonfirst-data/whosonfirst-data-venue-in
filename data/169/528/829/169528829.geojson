@@ -2,13 +2,14 @@
   "id": 169528829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.885971,19.109644,72.885971,19.109644",
     "geom:latitude":19.109644,
     "geom:longitude":72.885971,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"212, Gokul Indl., Estate Marol Andheri East,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169528829,
-    "wof:lastmodified":1449033571,
+    "wof:lastmodified":1466288691,
     "wof:name":"Fitco Engineers Pvt. Ltd.",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cable"
     ]
 },
-  "bbox": [72.885971,19.109644,72.885971,19.109644],
+  "bbox": [
+    72.885971,
+    19.109644,
+    72.885971,
+    19.109644
+],
   "geometry": {"coordinates":[72.885971,19.109644],"type":"Point"}
 }

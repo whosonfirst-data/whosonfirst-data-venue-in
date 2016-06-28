@@ -2,13 +2,14 @@
   "id": 169550139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.172523,13.083349,80.172523,13.083349",
     "geom:latitude":13.083349,
     "geom:longitude":80.172523,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No.297/1, G.i.d.c. Industrial Estate,",
     "sg:city":"Umbergaon",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169550139,
-    "wof:lastmodified":1449034475,
+    "wof:lastmodified":1466288881,
     "wof:name":"Hiren Metal Industries",
     "wof:parent_id":85927699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "fitting"
     ]
 },
-  "bbox": [80.172523,13.083349,80.172523,13.083349],
+  "bbox": [
+    80.172523,
+    13.083349,
+    80.172523,
+    13.083349
+],
   "geometry": {"coordinates":[80.172523,13.083349],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169577081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.18502,13.084868,80.18502,13.084868",
     "geom:latitude":13.084868,
     "geom:longitude":80.18502,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1518 A, T.s. Krishna Nagar, Mogappair,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169577081,
-    "wof:lastmodified":1449036065,
+    "wof:lastmodified":1466288768,
     "wof:name":"Galaxeetech",
     "wof:parent_id":85931815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [80.18502,13.084868,80.18502,13.084868],
-  "geometry": {"coordinates":[80.18502,13.084868],"type":"Point"}
+  "bbox": [
+    80.18502,
+    13.084868,
+    80.18502,
+    13.084868
+],
+  "geometry": {"coordinates":[80.18501999999999,13.084868],"type":"Point"}
 }

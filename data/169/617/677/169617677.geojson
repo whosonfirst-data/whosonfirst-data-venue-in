@@ -2,13 +2,14 @@
   "id": 169617677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.236633,28.654295,77.236633,28.654295",
     "geom:latitude":28.654295,
     "geom:longitude":77.236633,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"3648, Netaji Subhash Marg, Darya Ganj,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169617677,
-    "wof:lastmodified":1449032799,
+    "wof:lastmodified":1466288828,
     "wof:name":"Scientific & Steel Corporation",
     "wof:parent_id":85928105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.236633,28.654295,77.236633,28.654295],
+  "bbox": [
+    77.236633,
+    28.654295,
+    77.236633,
+    28.654295
+],
   "geometry": {"coordinates":[77.236633,28.654295],"type":"Point"}
 }

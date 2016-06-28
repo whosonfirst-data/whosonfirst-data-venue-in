@@ -2,13 +2,14 @@
   "id": 169570887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.058784,28.652134,77.058784,28.652134",
     "geom:latitude":28.652134,
     "geom:longitude":77.058784,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Delhi Road",
     "sg:city":"Hisar",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169570887,
-    "wof:lastmodified":1449034647,
+    "wof:lastmodified":1466288773,
     "wof:name":"Prakash Industries Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.058784,28.652134,77.058784,28.652134],
+  "bbox": [
+    77.058784,
+    28.652134,
+    77.058784,
+    28.652134
+],
   "geometry": {"coordinates":[77.058784,28.652134],"type":"Point"}
 }

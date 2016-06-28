@@ -2,13 +2,14 @@
   "id": 169531463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.837982,19.130127,72.837982,19.130127",
     "geom:latitude":19.130127,
     "geom:longitude":72.837982,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Sujata Apartment, Ramnagar, Borivli (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169531463,
-    "wof:lastmodified":1449033475,
+    "wof:lastmodified":1466288858,
     "wof:name":"Worldwide Fabrics Inc.",
     "wof:parent_id":85931475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cotton"
     ]
 },
-  "bbox": [72.837982,19.130127,72.837982,19.130127],
+  "bbox": [
+    72.837982,
+    19.130127,
+    72.837982,
+    19.130127
+],
   "geometry": {"coordinates":[72.837982,19.130127],"type":"Point"}
 }

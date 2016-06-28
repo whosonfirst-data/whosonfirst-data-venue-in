@@ -2,13 +2,14 @@
   "id": 169534797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.88385,19.094351,72.88385,19.094351",
     "geom:latitude":19.094351,
     "geom:longitude":72.88385,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Kurla Industrial Estate, Narayan Nagar, Ghatkopar (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169534797,
-    "wof:lastmodified":1449033551,
+    "wof:lastmodified":1466288637,
     "wof:name":"Oriole Electronics Pvt. Ltd.",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electrical"
     ]
 },
-  "bbox": [72.88385,19.094351,72.88385,19.094351],
+  "bbox": [
+    72.88385,
+    19.094351,
+    72.88385,
+    19.094351
+],
   "geometry": {"coordinates":[72.88385,19.094351],"type":"Point"}
 }

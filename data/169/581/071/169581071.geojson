@@ -2,13 +2,14 @@
   "id": 169581071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.254669,13.078843,80.254669,13.078843",
     "geom:latitude":13.078843,
     "geom:longitude":80.254669,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"947, Poonamallee High Road,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169581071,
-    "wof:lastmodified":1449033382,
+    "wof:lastmodified":1466288778,
     "wof:name":"K & K Enterprises",
     "wof:parent_id":85903949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.254669,13.078843,80.254669,13.078843],
-  "geometry": {"coordinates":[80.254669,13.078843],"type":"Point"}
+  "bbox": [
+    80.254669,
+    13.078843,
+    80.254669,
+    13.078843
+],
+  "geometry": {"coordinates":[80.25466900000001,13.078843],"type":"Point"}
 }

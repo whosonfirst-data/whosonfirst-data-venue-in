@@ -2,13 +2,14 @@
   "id": 169557555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.859207,19.232386,72.859207,19.232386",
     "geom:latitude":19.232386,
     "geom:longitude":72.859207,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Near M. K. High School, Borivli (w)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169557555,
-    "wof:lastmodified":1449035036,
+    "wof:lastmodified":1466288718,
     "wof:name":"Heranba Industries Ltd",
     "wof:parent_id":85933015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.859207,19.232386,72.859207,19.232386],
+  "bbox": [
+    72.859207,
+    19.232386,
+    72.859207,
+    19.232386
+],
   "geometry": {"coordinates":[72.859207,19.232386],"type":"Point"}
 }

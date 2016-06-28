@@ -2,13 +2,14 @@
   "id": 169544519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.573303,12.945834,77.573303,12.945834",
     "geom:latitude":12.945834,
     "geom:longitude":77.573303,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 80/1, H.b. Samaja Road, Basavanagudi,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169544519,
-    "wof:lastmodified":1449035964,
+    "wof:lastmodified":1466288663,
     "wof:name":"Gift Links",
     "wof:parent_id":85930849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "clock"
     ]
 },
-  "bbox": [77.573303,12.945834,77.573303,12.945834],
+  "bbox": [
+    77.573303,
+    12.945834,
+    77.573303,
+    12.945834
+],
   "geometry": {"coordinates":[77.573303,12.945834],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169570691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.358818,22.56299,88.358818,22.56299",
     "geom:latitude":22.56299,
     "geom:longitude":88.358818,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Lenin Sarani, 2nd Floor",
     "sg:city":"Kolkata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570691,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466288764,
     "wof:name":"Amrit Feds Ltd",
     "wof:parent_id":85931931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [88.358818,22.56299,88.358818,22.56299],
+  "bbox": [
+    88.358818,
+    22.56299,
+    88.358818,
+    22.56299
+],
   "geometry": {"coordinates":[88.358818,22.56299],"type":"Point"}
 }

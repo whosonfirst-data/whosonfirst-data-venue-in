@@ -2,13 +2,14 @@
   "id": 169654453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.006518,11.107754,78.006518,11.107754",
     "geom:latitude":11.107754,
     "geom:longitude":78.006518,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Bazaar street",
     "sg:city":"Namakkal, Tamil Nadu",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169654453,
-    "wof:lastmodified":1449033794,
+    "wof:lastmodified":1466288854,
     "wof:name":"QnAads",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "get-paid"
     ]
 },
-  "bbox": [78.006518,11.107754,78.006518,11.107754],
+  "bbox": [
+    78.006518,
+    11.107754,
+    78.006518,
+    11.107754
+],
   "geometry": {"coordinates":[78.006518,11.107754],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169573525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.057167,28.680342,77.057167,28.680342",
     "geom:latitude":28.680342,
     "geom:longitude":77.057167,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Rajendra Park",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169573525,
-    "wof:lastmodified":1449035114,
+    "wof:lastmodified":1466288757,
     "wof:name":"Pci Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.057167,28.680342,77.057167,28.680342],
-  "geometry": {"coordinates":[77.057167,28.680342],"type":"Point"}
+  "bbox": [
+    77.057167,
+    28.680342,
+    77.057167,
+    28.680342
+],
+  "geometry": {"coordinates":[77.05716700000001,28.680342],"type":"Point"}
 }

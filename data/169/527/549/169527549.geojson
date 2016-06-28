@@ -2,13 +2,14 @@
   "id": 169527549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.835533,18.930462,72.835533,18.930462",
     "geom:latitude":18.930462,
     "geom:longitude":72.835533,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Green Street, Opp. Old Custom House, Fort,",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169527549,
-    "wof:lastmodified":1449035277,
+    "wof:lastmodified":1466288631,
     "wof:name":"India Tattoo Supplies",
     "wof:parent_id":85903853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.835533,18.930462,72.835533,18.930462],
+  "bbox": [
+    72.835533,
+    18.930462,
+    72.835533,
+    18.930462
+],
   "geometry": {"coordinates":[72.835533,18.930462],"type":"Point"}
 }

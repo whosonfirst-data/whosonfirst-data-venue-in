@@ -2,13 +2,14 @@
   "id": 169653139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.416152,22.582303,88.416152,22.582303",
     "geom:latitude":22.582303,
     "geom:longitude":88.416152,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"salt lake kolkata",
     "sg:city":"kolkata",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169653139,
-    "wof:lastmodified":1449032916,
+    "wof:lastmodified":1466288852,
     "wof:name":"Sanvera Solutions",
     "wof:parent_id":85932005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "seo"
     ]
 },
-  "bbox": [88.416152,22.582303,88.416152,22.582303],
+  "bbox": [
+    88.416152,
+    22.582303,
+    88.416152,
+    22.582303
+],
   "geometry": {"coordinates":[88.416152,22.582303],"type":"Point"}
 }

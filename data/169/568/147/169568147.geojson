@@ -2,13 +2,14 @@
   "id": 169568147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.448196,17.43889,78.448196,17.43889",
     "geom:latitude":17.43889,
     "geom:longitude":78.448196,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"7-1-58, Ameerpet",
     "sg:city":"Hyderabad",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169568147,
-    "wof:lastmodified":1449032612,
+    "wof:lastmodified":1466288735,
     "wof:name":"Vani Chemicals & Intermediates Ltd",
     "wof:parent_id":85930753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.448196,17.43889,78.448196,17.43889],
+  "bbox": [
+    78.448196,
+    17.43889,
+    78.448196,
+    17.43889
+],
   "geometry": {"coordinates":[78.448196,17.43889],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169556299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.280617,13.049992,80.280617,13.049992",
     "geom:latitude":13.049992,
     "geom:longitude":80.280617,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"27, Santhome High Road",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169556299,
-    "wof:lastmodified":1449033506,
+    "wof:lastmodified":1466288704,
     "wof:name":"Landmark Associates Pvt Ltd",
     "wof:parent_id":85931679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.280617,13.049992,80.280617,13.049992],
-  "geometry": {"coordinates":[80.280617,13.049992],"type":"Point"}
+  "bbox": [
+    80.280617,
+    13.049992,
+    80.280617,
+    13.049992
+],
+  "geometry": {"coordinates":[80.28061700000001,13.049992],"type":"Point"}
 }

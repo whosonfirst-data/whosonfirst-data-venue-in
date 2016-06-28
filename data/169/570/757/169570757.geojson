@@ -2,13 +2,14 @@
   "id": 169570757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.580795,12.964335,77.580795,12.964335",
     "geom:latitude":12.964335,
     "geom:longitude":77.580795,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sadar Patrappa Road",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570757,
-    "wof:lastmodified":1449034646,
+    "wof:lastmodified":1466288766,
     "wof:name":"Jainex Ltd",
     "wof:parent_id":85930903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.580795,12.964335,77.580795,12.964335],
-  "geometry": {"coordinates":[77.580795,12.964335],"type":"Point"}
+  "bbox": [
+    77.580795,
+    12.964335,
+    77.580795,
+    12.964335
+],
+  "geometry": {"coordinates":[77.58079499999999,12.964335],"type":"Point"}
 }

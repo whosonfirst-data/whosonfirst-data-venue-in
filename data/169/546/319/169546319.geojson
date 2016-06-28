@@ -2,13 +2,14 @@
   "id": 169546319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.293091,13.142231,80.293091,13.142231",
     "geom:latitude":13.142231,
     "geom:longitude":80.293091,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"38-a, Kumaran Road,",
     "sg:city":"Tirupur",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169546319,
-    "wof:lastmodified":1449032679,
+    "wof:lastmodified":1466288661,
     "wof:name":"Gemini Graphic",
     "wof:parent_id":85903945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bar"
     ]
 },
-  "bbox": [80.293091,13.142231,80.293091,13.142231],
+  "bbox": [
+    80.293091,
+    13.142231,
+    80.293091,
+    13.142231
+],
   "geometry": {"coordinates":[80.293091,13.142231],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169531987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.877525,19.057535,72.877525,19.057535",
     "geom:latitude":19.057535,
     "geom:longitude":72.877525,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit No. 208 Bldg. No. 9, Jogani Indl. Estate, Chunabhatti,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169531987,
-    "wof:lastmodified":1449033475,
+    "wof:lastmodified":1466288860,
     "wof:name":"G. Enterprises",
     "wof:parent_id":85903847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "wear"
     ]
 },
-  "bbox": [72.877525,19.057535,72.877525,19.057535],
-  "geometry": {"coordinates":[72.877525,19.057535],"type":"Point"}
+  "bbox": [
+    72.877525,
+    19.057535,
+    72.877525,
+    19.057535
+],
+  "geometry": {"coordinates":[72.87752500000001,19.057535],"type":"Point"}
 }

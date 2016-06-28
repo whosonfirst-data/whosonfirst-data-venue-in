@@ -2,13 +2,14 @@
   "id": 169535551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.807907,18.976521,72.807907,18.976521",
     "geom:latitude":18.976521,
     "geom:longitude":72.807907,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Mahalaxmi Chambers, 22, Bhulabhai Desai Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169535551,
-    "wof:lastmodified":1449033283,
+    "wof:lastmodified":1466288874,
     "wof:name":"Fouress Engineering (india) Ltd.",
     "wof:parent_id":85903901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "good"
     ]
 },
-  "bbox": [72.807907,18.976521,72.807907,18.976521],
+  "bbox": [
+    72.807907,
+    18.976521,
+    72.807907,
+    18.976521
+],
   "geometry": {"coordinates":[72.807907,18.976521],"type":"Point"}
 }

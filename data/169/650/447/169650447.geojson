@@ -2,13 +2,14 @@
   "id": 169650447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.215616,13.044542,80.215616,13.044542",
     "geom:latitude":13.044542,
     "geom:longitude":80.215616,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"293, 2nd floor Arcot Road,",
     "sg:city":"Kodambakkam, Chennai ",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169650447,
-    "wof:lastmodified":1449034702,
+    "wof:lastmodified":1466288853,
     "wof:name":"dsignz media",
     "wof:parent_id":85903935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "web-design-and-web-development"
     ]
 },
-  "bbox": [80.215616,13.044542,80.215616,13.044542],
+  "bbox": [
+    80.215616,
+    13.044542,
+    80.215616,
+    13.044542
+],
   "geometry": {"coordinates":[80.215616,13.044542],"type":"Point"}
 }

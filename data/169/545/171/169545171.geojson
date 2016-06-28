@@ -2,13 +2,14 @@
   "id": 169545171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.591965,12.988405,77.591965,12.988405",
     "geom:latitude":12.988405,
     "geom:longitude":77.591965,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"71, Millers Rd, Sona Towers, 1st Floor,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169545171,
-    "wof:lastmodified":1449033488,
+    "wof:lastmodified":1466288646,
     "wof:name":"Valliappa Group",
     "wof:parent_id":85930961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yarn"
     ]
 },
-  "bbox": [77.591965,12.988405,77.591965,12.988405],
+  "bbox": [
+    77.591965,
+    12.988405,
+    77.591965,
+    12.988405
+],
   "geometry": {"coordinates":[77.591965,12.988405],"type":"Point"}
 }

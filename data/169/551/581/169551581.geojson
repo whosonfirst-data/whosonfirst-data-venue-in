@@ -2,13 +2,14 @@
   "id": 169551581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.167511,22.310783,73.167511,22.310783",
     "geom:latitude":22.310783,
     "geom:longitude":73.167511,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"301, 'b' Tower, Alkapuri Arcade, R. C. Dutt Road, Alkapuri,",
     "sg:city":"Vadodara",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169551581,
-    "wof:lastmodified":1449033352,
+    "wof:lastmodified":1466288886,
     "wof:name":"Transmetal Limited",
     "wof:parent_id":85933511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [73.167511,22.310783,73.167511,22.310783],
+  "bbox": [
+    73.167511,
+    22.310783,
+    73.167511,
+    22.310783
+],
   "geometry": {"coordinates":[73.167511,22.310783],"type":"Point"}
 }

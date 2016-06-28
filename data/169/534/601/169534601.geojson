@@ -2,13 +2,14 @@
   "id": 169534601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.913071,19.101727,72.913071,19.101727",
     "geom:latitude":19.101727,
     "geom:longitude":72.913071,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"406, Hill View Indl. Estate, Ghatkopar-w,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169534601,
-    "wof:lastmodified":1449033548,
+    "wof:lastmodified":1466288875,
     "wof:name":"Seto Teknolog P. Ltd.",
     "wof:parent_id":85931627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [72.913071,19.101727,72.913071,19.101727],
+  "bbox": [
+    72.913071,
+    19.101727,
+    72.913071,
+    19.101727
+],
   "geometry": {"coordinates":[72.913071,19.101727],"type":"Point"}
 }

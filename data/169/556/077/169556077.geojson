@@ -2,13 +2,14 @@
   "id": 169556077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.254707,13.084325,80.254707,13.084325",
     "geom:latitude":13.084325,
     "geom:longitude":80.254707,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Gandhi Avenue",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169556077,
-    "wof:lastmodified":1449033507,
+    "wof:lastmodified":1466288696,
     "wof:name":"Rimras Group",
     "wof:parent_id":85903949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.254707,13.084325,80.254707,13.084325],
+  "bbox": [
+    80.254707,
+    13.084325,
+    80.254707,
+    13.084325
+],
   "geometry": {"coordinates":[80.254707,13.084325],"type":"Point"}
 }

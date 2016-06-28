@@ -2,13 +2,14 @@
   "id": 169557173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.264938,28.528934,77.264938,28.528934",
     "geom:latitude":28.528934,
     "geom:longitude":77.264938,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Kalkaji Extension",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169557173,
-    "wof:lastmodified":1449035033,
+    "wof:lastmodified":1466288891,
     "wof:name":"Pyro-engineers Pvt Ltd",
     "wof:parent_id":85927969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.264938,28.528934,77.264938,28.528934],
+  "bbox": [
+    77.264938,
+    28.528934,
+    77.264938,
+    28.528934
+],
   "geometry": {"coordinates":[77.264938,28.528934],"type":"Point"}
 }

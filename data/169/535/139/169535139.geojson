@@ -2,13 +2,14 @@
   "id": 169535139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.939568,19.143456,72.939568,19.143456",
     "geom:latitude":19.143456,
     "geom:longitude":72.939568,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Krishna I-002, Vasant Sagar, Kandivali (east),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169535139,
-    "wof:lastmodified":1449033284,
+    "wof:lastmodified":1466288871,
     "wof:name":"D. J. Exports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "embroidery"
     ]
 },
-  "bbox": [72.939568,19.143456,72.939568,19.143456],
-  "geometry": {"coordinates":[72.939568,19.143456],"type":"Point"}
+  "bbox": [
+    72.939568,
+    19.143456,
+    72.939568,
+    19.143456
+],
+  "geometry": {"coordinates":[72.93956799999999,19.143456],"type":"Point"}
 }

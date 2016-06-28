@@ -2,13 +2,14 @@
   "id": 169539333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.351196,10.105651,76.351196,10.105651",
     "geom:latitude":10.105651,
     "geom:longitude":76.351196,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 1 & 2, B.s. Market, J.m. Road,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169539333,
-    "wof:lastmodified":1449036039,
+    "wof:lastmodified":1466288633,
     "wof:name":"Adarsh Sarees",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [76.351196,10.105651,76.351196,10.105651],
+  "bbox": [
+    76.351196,
+    10.105651,
+    76.351196,
+    10.105651
+],
   "geometry": {"coordinates":[76.351196,10.105651],"type":"Point"}
 }

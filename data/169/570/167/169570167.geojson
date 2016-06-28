@@ -2,13 +2,14 @@
   "id": 169570167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.861748,19.116144,72.861748,19.116144",
     "geom:latitude":19.116144,
     "geom:longitude":72.861748,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Mahakali Caves Road, Andheri (e)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169570167,
-    "wof:lastmodified":1449034646,
+    "wof:lastmodified":1466288736,
     "wof:name":"My Infotech Pvt Ltd",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.861748,19.116144,72.861748,19.116144],
-  "geometry": {"coordinates":[72.861748,19.116144],"type":"Point"}
+  "bbox": [
+    72.861748,
+    19.116144,
+    72.861748,
+    19.116144
+],
+  "geometry": {"coordinates":[72.86174800000001,19.116144],"type":"Point"}
 }

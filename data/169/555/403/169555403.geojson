@@ -2,13 +2,14 @@
   "id": 169555403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.731262,28.977877,77.731262,28.977877",
     "geom:latitude":28.977877,
     "geom:longitude":77.731262,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Victoria Park",
     "sg:city":"Meerut",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169555403,
-    "wof:lastmodified":1449035495,
+    "wof:lastmodified":1466288705,
     "wof:name":"Sai Electricals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.731262,28.977877,77.731262,28.977877],
+  "bbox": [
+    77.731262,
+    28.977877,
+    77.731262,
+    28.977877
+],
   "geometry": {"coordinates":[77.731262,28.977877],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169586251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.744377,18.625479,73.744377,18.625479",
     "geom:latitude":18.625479,
     "geom:longitude":73.744377,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"145, Mumbai-pune Road, Pimpri,",
     "sg:city":"Pune",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169586251,
-    "wof:lastmodified":1449035571,
+    "wof:lastmodified":1466288783,
     "wof:name":"Mahindra Engineering And Chemical Product Ltd.",
     "wof:parent_id":85931331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "allied"
     ]
 },
-  "bbox": [73.744377,18.625479,73.744377,18.625479],
+  "bbox": [
+    73.744377,
+    18.625479,
+    73.744377,
+    18.625479
+],
   "geometry": {"coordinates":[73.744377,18.625479],"type":"Point"}
 }

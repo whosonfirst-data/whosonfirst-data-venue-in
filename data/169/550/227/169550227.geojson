@@ -2,13 +2,14 @@
   "id": 169550227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"74.88324,27.570829,74.88324,27.570829",
     "geom:latitude":27.570829,
     "geom:longitude":74.88324,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"State Highway,",
     "sg:city":"Unjha",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169550227,
-    "wof:lastmodified":1449034476,
+    "wof:lastmodified":1466288681,
     "wof:name":"North Gujarat Sat Isabgul Industries Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "botanical"
     ]
 },
-  "bbox": [74.88324,27.570829,74.88324,27.570829],
+  "bbox": [
+    74.88324,
+    27.570829,
+    74.88324,
+    27.570829
+],
   "geometry": {"coordinates":[74.88324,27.570829],"type":"Point"}
 }

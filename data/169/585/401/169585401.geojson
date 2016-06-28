@@ -2,13 +2,14 @@
   "id": 169585401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.379036,22.583866,88.379036,22.583866",
     "geom:latitude":22.583866,
     "geom:longitude":88.379036,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"39/1, Canal West Road,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169585401,
-    "wof:lastmodified":1449034888,
+    "wof:lastmodified":1466288787,
     "wof:name":"M.g.r. Industries",
     "wof:parent_id":85903897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [88.379036,22.583866,88.379036,22.583866],
+  "bbox": [
+    88.379036,
+    22.583866,
+    88.379036,
+    22.583866
+],
   "geometry": {"coordinates":[88.379036,22.583866],"type":"Point"}
 }

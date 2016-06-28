@@ -2,13 +2,14 @@
   "id": 169574979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.020935,28.465862,77.020935,28.465862",
     "geom:latitude":28.465862,
     "geom:longitude":77.020935,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Palika Bazar",
     "sg:city":"Panipat",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169574979,
-    "wof:lastmodified":1449032663,
+    "wof:lastmodified":1466288785,
     "wof:name":"Ashu Spinning Mills (p) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.020935,28.465862,77.020935,28.465862],
-  "geometry": {"coordinates":[77.020935,28.465862],"type":"Point"}
+  "bbox": [
+    77.020935,
+    28.465862,
+    77.020935,
+    28.465862
+],
+  "geometry": {"coordinates":[77.02093499999999,28.465862],"type":"Point"}
 }

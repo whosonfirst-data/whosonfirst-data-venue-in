@@ -2,13 +2,14 @@
   "id": 169611213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.191856,13.028824,80.191856,13.028824",
     "geom:latitude":13.028824,
     "geom:longitude":80.191856,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"73, Indira Nagar, Valasaravakkam,",
     "sg:city":"Chennai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169611213,
-    "wof:lastmodified":1449035261,
+    "wof:lastmodified":1466288820,
     "wof:name":"Rimini Industries (india)",
     "wof:parent_id":85927573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reagent"
     ]
 },
-  "bbox": [80.191856,13.028824,80.191856,13.028824],
+  "bbox": [
+    80.191856,
+    13.028824,
+    80.191856,
+    13.028824
+],
   "geometry": {"coordinates":[80.191856,13.028824],"type":"Point"}
 }

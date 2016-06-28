@@ -2,13 +2,14 @@
   "id": 169549503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.950203,11.00662,76.950203,11.00662",
     "geom:latitude":11.00662,
     "geom:longitude":76.950203,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"2nd Floor, Commerce House, Town Hall Road,",
     "sg:city":"Udaipur",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169549503,
-    "wof:lastmodified":1449033596,
+    "wof:lastmodified":1466288884,
     "wof:name":"Fortune Stones Ltd.",
     "wof:parent_id":85783699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandstone"
     ]
 },
-  "bbox": [76.950203,11.00662,76.950203,11.00662],
+  "bbox": [
+    76.950203,
+    11.00662,
+    76.950203,
+    11.00662
+],
   "geometry": {"coordinates":[76.950203,11.00662],"type":"Point"}
 }

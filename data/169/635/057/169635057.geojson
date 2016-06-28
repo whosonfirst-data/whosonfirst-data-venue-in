@@ -2,13 +2,14 @@
   "id": 169635057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.357719,22.586992,88.357719,22.586992",
     "geom:latitude":22.586992,
     "geom:longitude":88.357719,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1-a, Halwasiya Road,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":169635057,
-    "wof:lastmodified":1449034099,
+    "wof:lastmodified":1466288837,
     "wof:name":"Texchem (india)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fine"
     ]
 },
-  "bbox": [88.357719,22.586992,88.357719,22.586992],
+  "bbox": [
+    88.357719,
+    22.586992,
+    88.357719,
+    22.586992
+],
   "geometry": {"coordinates":[88.357719,22.586992],"type":"Point"}
 }

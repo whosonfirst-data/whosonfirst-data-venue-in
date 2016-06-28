@@ -2,13 +2,14 @@
   "id": 169588451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.213211,28.64109,77.213211,28.64109",
     "geom:latitude":28.64109,
     "geom:longitude":77.213211,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"4576, Main Bazar, Pahar Ganj,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169588451,
-    "wof:lastmodified":1449035309,
+    "wof:lastmodified":1466288794,
     "wof:name":"Meenakshi Art & Crafts",
     "wof:parent_id":85903937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "allied"
     ]
 },
-  "bbox": [77.213211,28.64109,77.213211,28.64109],
+  "bbox": [
+    77.213211,
+    28.64109,
+    77.213211,
+    28.64109
+],
   "geometry": {"coordinates":[77.213211,28.64109],"type":"Point"}
 }

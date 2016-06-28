@@ -2,13 +2,14 @@
   "id": 169639555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.852341,19.106558,72.852341,19.106558",
     "geom:latitude":19.106558,
     "geom:longitude":72.852341,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Subhash Road, Vile-parle (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169639555,
-    "wof:lastmodified":1449035953,
+    "wof:lastmodified":1466288846,
     "wof:name":"United Ink & Varnish Company Pvt. Ltd.",
     "wof:parent_id":85931483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resin"
     ]
 },
-  "bbox": [72.852341,19.106558,72.852341,19.106558],
+  "bbox": [
+    72.852341,
+    19.106558,
+    72.852341,
+    19.106558
+],
   "geometry": {"coordinates":[72.852341,19.106558],"type":"Point"}
 }

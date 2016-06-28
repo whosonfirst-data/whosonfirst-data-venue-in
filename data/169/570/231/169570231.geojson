@@ -2,13 +2,14 @@
   "id": 169570231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.999939,19.101709,72.999939,19.101709",
     "geom:latitude":19.101709,
     "geom:longitude":72.999939,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sector 17, Vashi",
     "sg:city":"Navi Mumbai",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169570231,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466288740,
     "wof:name":"Stb Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.999939,19.101709,72.999939,19.101709],
+  "bbox": [
+    72.999939,
+    19.101709,
+    72.999939,
+    19.101709
+],
   "geometry": {"coordinates":[72.999939,19.101709],"type":"Point"}
 }

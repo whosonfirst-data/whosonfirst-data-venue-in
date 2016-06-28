@@ -2,13 +2,14 @@
   "id": 169572111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"79.163322,12.938576,79.163322,12.938576",
     "geom:latitude":12.938576,
     "geom:longitude":79.163322,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sathuvachari, Vellore",
     "sg:city":"North Arcot",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169572111,
-    "wof:lastmodified":1449034707,
+    "wof:lastmodified":1466288738,
     "wof:name":"Sanma Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [79.163322,12.938576,79.163322,12.938576],
-  "geometry": {"coordinates":[79.163322,12.938576],"type":"Point"}
+  "bbox": [
+    79.163322,
+    12.938576,
+    79.163322,
+    12.938576
+],
+  "geometry": {"coordinates":[79.16332199999999,12.938576],"type":"Point"}
 }

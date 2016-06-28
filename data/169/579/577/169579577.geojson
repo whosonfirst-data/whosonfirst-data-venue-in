@@ -2,13 +2,14 @@
   "id": 169579577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.805656,18.964346,72.805656,18.964346",
     "geom:latitude":18.964346,
     "geom:longitude":72.805656,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"410, Gaurav Tower-i, Malviya Nagar,",
     "sg:city":"Jaipur",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169579577,
-    "wof:lastmodified":1449033741,
+    "wof:lastmodified":1466288795,
     "wof:name":"Indian Potash Limited",
     "wof:parent_id":85903835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [72.805656,18.964346,72.805656,18.964346],
+  "bbox": [
+    72.805656,
+    18.964346,
+    72.805656,
+    18.964346
+],
   "geometry": {"coordinates":[72.805656,18.964346],"type":"Point"}
 }

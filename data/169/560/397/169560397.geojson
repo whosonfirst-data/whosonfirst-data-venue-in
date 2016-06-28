@@ -2,13 +2,14 @@
   "id": 169560397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.867683,19.046047,72.867683,19.046047",
     "geom:latitude":19.046047,
     "geom:longitude":72.867683,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B/h, Sion Fort, Sion (east)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169560397,
-    "wof:lastmodified":1449035180,
+    "wof:lastmodified":1466288728,
     "wof:name":"Nitin Dye-chem Pvt Ltd",
     "wof:parent_id":85903847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.867683,19.046047,72.867683,19.046047],
+  "bbox": [
+    72.867683,
+    19.046047,
+    72.867683,
+    19.046047
+],
   "geometry": {"coordinates":[72.867683,19.046047],"type":"Point"}
 }

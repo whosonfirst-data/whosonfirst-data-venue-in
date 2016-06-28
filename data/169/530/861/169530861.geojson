@@ -2,13 +2,14 @@
   "id": 169530861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.82029,19.006792,72.82029,19.006792",
     "geom:latitude":19.006792,
     "geom:longitude":72.82029,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"130, Pandhurang Budhkar Marg, Worli, Opp. Mumbai Doordarshan,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169530861,
-    "wof:lastmodified":1449034445,
+    "wof:lastmodified":1466288690,
     "wof:name":"Siemens Ltd.",
     "wof:parent_id":85903999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "panel"
     ]
 },
-  "bbox": [72.82029,19.006792,72.82029,19.006792],
+  "bbox": [
+    72.82029,
+    19.006792,
+    72.82029,
+    19.006792
+],
   "geometry": {"coordinates":[72.82029,19.006792],"type":"Point"}
 }

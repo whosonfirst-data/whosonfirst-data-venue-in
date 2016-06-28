@@ -2,13 +2,14 @@
   "id": 169551589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.88485,19.100647,72.88485,19.100647",
     "geom:latitude":19.100647,
     "geom:longitude":72.88485,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"502, 5th Floor, Samir Building,",
     "sg:city":"Vadodara",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169551589,
-    "wof:lastmodified":1449033353,
+    "wof:lastmodified":1466288691,
     "wof:name":"Anico",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [72.88485,19.100647,72.88485,19.100647],
+  "bbox": [
+    72.88485,
+    19.100647,
+    72.88485,
+    19.100647
+],
   "geometry": {"coordinates":[72.88485,19.100647],"type":"Point"}
 }

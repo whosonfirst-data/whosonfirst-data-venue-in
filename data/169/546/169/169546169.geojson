@@ -2,13 +2,14 @@
   "id": 169546169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.337646,11.109176,77.337646,11.109176",
     "geom:latitude":11.109176,
     "geom:longitude":77.337646,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"13/5, First Cross, College Road,",
     "sg:city":"Tiruppur",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169546169,
-    "wof:lastmodified":1449032679,
+    "wof:lastmodified":1466288654,
     "wof:name":"Cerebro Trade Services (p) Ltd.,",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.337646,11.109176,77.337646,11.109176],
-  "geometry": {"coordinates":[77.337646,11.109176],"type":"Point"}
+  "bbox": [
+    77.337646,
+    11.109176,
+    77.337646,
+    11.109176
+],
+  "geometry": {"coordinates":[77.33764600000001,11.109176],"type":"Point"}
 }

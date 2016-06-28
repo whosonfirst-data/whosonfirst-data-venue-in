@@ -2,13 +2,14 @@
   "id": 169544131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.614861,13.000689,77.614861,13.000689",
     "geom:latitude":13.000689,
     "geom:longitude":77.614861,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 43/1, 1st Floor, M.m. Road, Frazer Town,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169544131,
-    "wof:lastmodified":1449035963,
+    "wof:lastmodified":1466288644,
     "wof:name":"Klone Computech Systems Pvt. Ltd.",
     "wof:parent_id":85930871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "power"
     ]
 },
-  "bbox": [77.614861,13.000689,77.614861,13.000689],
+  "bbox": [
+    77.614861,
+    13.000689,
+    77.614861,
+    13.000689
+],
   "geometry": {"coordinates":[77.614861,13.000689],"type":"Point"}
 }

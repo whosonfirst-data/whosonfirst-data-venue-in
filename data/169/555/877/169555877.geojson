@@ -2,13 +2,14 @@
   "id": 169555877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.235718,13.039707,80.235718,13.039707",
     "geom:latitude":13.039707,
     "geom:longitude":80.235718,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sivagnam Street, T. Nagar",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169555877,
-    "wof:lastmodified":1449035497,
+    "wof:lastmodified":1466288730,
     "wof:name":"Sowswe Compunications Pvt Ltd",
     "wof:parent_id":85903981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.235718,13.039707,80.235718,13.039707],
-  "geometry": {"coordinates":[80.235718,13.039707],"type":"Point"}
+  "bbox": [
+    80.235718,
+    13.039707,
+    80.235718,
+    13.039707
+],
+  "geometry": {"coordinates":[80.23571800000001,13.039707],"type":"Point"}
 }

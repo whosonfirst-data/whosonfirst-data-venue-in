@@ -2,13 +2,14 @@
   "id": 169576843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.877106,18.517031,73.877106,18.517031",
     "geom:latitude":18.517031,
     "geom:longitude":73.877106,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1020, Bootee Street, Camp,",
     "sg:city":"Pune",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169576843,
-    "wof:lastmodified":1449035194,
+    "wof:lastmodified":1466288774,
     "wof:name":"Frank International",
     "wof:parent_id":85903913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [73.877106,18.517031,73.877106,18.517031],
+  "bbox": [
+    73.877106,
+    18.517031,
+    73.877106,
+    18.517031
+],
   "geometry": {"coordinates":[73.877106,18.517031],"type":"Point"}
 }

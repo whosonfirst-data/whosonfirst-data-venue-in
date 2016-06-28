@@ -2,13 +2,14 @@
   "id": 169554549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.170372,22.309984,73.170372,22.309984",
     "geom:latitude":22.309984,
     "geom:longitude":73.170372,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"801, Windsor Plaza R.c. Dutt Road, Alkapuri,",
     "sg:city":"Vadodara",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169554549,
-    "wof:lastmodified":1449033369,
+    "wof:lastmodified":1466288702,
     "wof:name":"Samyak Udyog Plastics Pvt. Ltd.",
     "wof:parent_id":85933511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "paper"
     ]
 },
-  "bbox": [73.170372,22.309984,73.170372,22.309984],
+  "bbox": [
+    73.170372,
+    22.309984,
+    73.170372,
+    22.309984
+],
   "geometry": {"coordinates":[73.170372,22.309984],"type":"Point"}
 }

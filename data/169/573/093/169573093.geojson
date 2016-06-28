@@ -2,13 +2,14 @@
   "id": 169573093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.800011,30.702105,76.800011,30.702105",
     "geom:latitude":30.702105,
     "geom:longitude":76.800011,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Industrial Area, Phase I",
     "sg:city":"Chandigarh",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169573093,
-    "wof:lastmodified":1449035112,
+    "wof:lastmodified":1466288737,
     "wof:name":"Him Leathers Pvt Ltd",
     "wof:parent_id":85931831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [76.800011,30.702105,76.800011,30.702105],
+  "bbox": [
+    76.800011,
+    30.702105,
+    76.800011,
+    30.702105
+],
   "geometry": {"coordinates":[76.800011,30.702105],"type":"Point"}
 }

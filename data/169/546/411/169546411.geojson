@@ -2,13 +2,14 @@
   "id": 169546411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.560509,12.904829,77.560509,12.904829",
     "geom:latitude":12.904829,
     "geom:longitude":77.560509,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"4/1 Kumarasamy Layout,",
     "sg:city":"Tirupur",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169546411,
-    "wof:lastmodified":1449032677,
+    "wof:lastmodified":1466288663,
     "wof:name":"Kanthan Mills",
     "wof:parent_id":85930845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "childrenwear"
     ]
 },
-  "bbox": [77.560509,12.904829,77.560509,12.904829],
+  "bbox": [
+    77.560509,
+    12.904829,
+    77.560509,
+    12.904829
+],
   "geometry": {"coordinates":[77.560509,12.904829],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169635641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.242668,28.553358,77.242668,28.553358",
     "geom:latitude":28.553358,
     "geom:longitude":77.242668,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"H-9, Kailash Colony,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169635641,
-    "wof:lastmodified":1449034098,
+    "wof:lastmodified":1466288844,
     "wof:name":"The Gac Group",
     "wof:parent_id":85928369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "gum"
     ]
 },
-  "bbox": [77.242668,28.553358,77.242668,28.553358],
-  "geometry": {"coordinates":[77.242668,28.553358],"type":"Point"}
+  "bbox": [
+    77.242668,
+    28.553358,
+    77.242668,
+    28.553358
+],
+  "geometry": {"coordinates":[77.24266799999999,28.553358],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169556531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.454826,9.592414,76.454826,9.592414",
     "geom:latitude":9.592414,
     "geom:longitude":76.454826,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Kumarakom",
     "sg:city":"Kottayam",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169556531,
-    "wof:lastmodified":1449033507,
+    "wof:lastmodified":1466288715,
     "wof:name":"Taj Garden Retreat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [76.454826,9.592414,76.454826,9.592414],
+  "bbox": [
+    76.454826,
+    9.592414,
+    76.454826,
+    9.592414
+],
   "geometry": {"coordinates":[76.454826,9.592414],"type":"Point"}
 }

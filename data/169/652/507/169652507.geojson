@@ -2,13 +2,14 @@
   "id": 169652507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.444474,17.413687,78.444474,17.413687",
     "geom:latitude":17.413687,
     "geom:longitude":78.444474,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"6-3-655/4,Somajiguda",
     "sg:city":"Hyderabad",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169652507,
-    "wof:lastmodified":1449034808,
+    "wof:lastmodified":1466288896,
     "wof:name":"tolmolbol",
     "wof:parent_id":85930747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "directory"
     ]
 },
-  "bbox": [78.444474,17.413687,78.444474,17.413687],
+  "bbox": [
+    78.444474,
+    17.413687,
+    78.444474,
+    17.413687
+],
   "geometry": {"coordinates":[78.444474,17.413687],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169577517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.230438,21.325993,76.230438,21.325993",
     "geom:latitude":21.325993,
     "geom:longitude":76.230438,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"D-23, Industrial Area, B.s. Road,",
     "sg:city":"Ghaziabad",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":169577517,
-    "wof:lastmodified":1449036066,
+    "wof:lastmodified":1466288786,
     "wof:name":"Global Adhesives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "adhesive"
     ]
 },
-  "bbox": [76.230438,21.325993,76.230438,21.325993],
-  "geometry": {"coordinates":[76.230438,21.325993],"type":"Point"}
+  "bbox": [
+    76.230438,
+    21.325993,
+    76.230438,
+    21.325993
+],
+  "geometry": {"coordinates":[76.23043800000001,21.325993],"type":"Point"}
 }

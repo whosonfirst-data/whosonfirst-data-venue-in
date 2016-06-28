@@ -2,13 +2,14 @@
   "id": 169571263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.19355,28.647888,77.19355,28.647888",
     "geom:latitude":28.647888,
     "geom:longitude":77.19355,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Arya Samaj Road, Karol Bagh",
     "sg:city":"New Delhi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169571263,
-    "wof:lastmodified":1449034948,
+    "wof:lastmodified":1466288749,
     "wof:name":"Oa Compuserue Pvt Ltd",
     "wof:parent_id":85928243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.19355,28.647888,77.19355,28.647888],
+  "bbox": [
+    77.19355,
+    28.647888,
+    77.19355,
+    28.647888
+],
   "geometry": {"coordinates":[77.19355,28.647888],"type":"Point"}
 }

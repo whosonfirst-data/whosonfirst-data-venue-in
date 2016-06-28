@@ -2,13 +2,14 @@
   "id": 169570319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.349823,22.576982,88.349823,22.576982",
     "geom:latitude":22.576982,
     "geom:longitude":88.349823,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"8, Rajendra Prasad Sarani",
     "sg:city":"Kolkata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570319,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466288744,
     "wof:name":"Andrew Yule & Co Ltd (electrical Div)",
     "wof:parent_id":85903957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [88.349823,22.576982,88.349823,22.576982],
+  "bbox": [
+    88.349823,
+    22.576982,
+    88.349823,
+    22.576982
+],
   "geometry": {"coordinates":[88.349823,22.576982],"type":"Point"}
 }

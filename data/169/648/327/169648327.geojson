@@ -2,13 +2,14 @@
   "id": 169648327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.121674,28.64926,77.121674,28.64926",
     "geom:latitude":28.64926,
     "geom:longitude":77.121674,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"M.r.s.s. Limited Building, 5, B.j. Road,",
     "sg:city":"Pune",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169648327,
-    "wof:lastmodified":1449033583,
+    "wof:lastmodified":1466288852,
     "wof:name":"Zuari Industries Limited",
     "wof:parent_id":85927915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [77.121674,28.64926,77.121674,28.64926],
+  "bbox": [
+    77.121674,
+    28.64926,
+    77.121674,
+    28.64926
+],
   "geometry": {"coordinates":[77.121674,28.64926],"type":"Point"}
 }

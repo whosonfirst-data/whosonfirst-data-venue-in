@@ -2,13 +2,14 @@
   "id": 169535669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.975952,19.209791,72.975952,19.209791",
     "geom:latitude":19.209791,
     "geom:longitude":72.975952,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Above Navnit Motors, Gokul Nagar Thane (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169535669,
-    "wof:lastmodified":1449033285,
+    "wof:lastmodified":1466288875,
     "wof:name":"Advanced Biochemicals Ltd.",
     "wof:parent_id":85931383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.975952,19.209791,72.975952,19.209791],
-  "geometry": {"coordinates":[72.975952,19.209791],"type":"Point"}
+  "bbox": [
+    72.975952,
+    19.209791,
+    72.975952,
+    19.209791
+],
+  "geometry": {"coordinates":[72.97595200000001,19.209791],"type":"Point"}
 }

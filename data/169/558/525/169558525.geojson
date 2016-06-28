@@ -2,13 +2,14 @@
   "id": 169558525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.812263,30.739353,76.812263,30.739353",
     "geom:latitude":30.739353,
     "geom:longitude":76.812263,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"E-99, Sec-vi,",
     "sg:city":"Noida",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169558525,
-    "wof:lastmodified":1449033583,
+    "wof:lastmodified":1466288728,
     "wof:name":"Bpt Polymers",
     "wof:parent_id":85931857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [76.812263,30.739353,76.812263,30.739353],
+  "bbox": [
+    76.812263,
+    30.739353,
+    76.812263,
+    30.739353
+],
   "geometry": {"coordinates":[76.812263,30.739353],"type":"Point"}
 }

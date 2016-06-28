@@ -2,13 +2,14 @@
   "id": 169560059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"75.782898,26.906893,75.782898,26.906893",
     "geom:latitude":26.906893,
     "geom:longitude":75.782898,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"67-1-8, Ashok Nagar,",
     "sg:city":"Kakinada",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169560059,
-    "wof:lastmodified":1449035179,
+    "wof:lastmodified":1466288703,
     "wof:name":"Decon Engineers",
     "wof:parent_id":85934491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "processing"
     ]
 },
-  "bbox": [75.782898,26.906893,75.782898,26.906893],
+  "bbox": [
+    75.782898,
+    26.906893,
+    75.782898,
+    26.906893
+],
   "geometry": {"coordinates":[75.782898,26.906893],"type":"Point"}
 }

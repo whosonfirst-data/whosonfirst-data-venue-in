@@ -2,13 +2,14 @@
   "id": 169576727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.30294,10.06975,76.30294,10.06975",
     "geom:latitude":10.06975,
     "geom:longitude":76.30294,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Eloor, Udyogamandal,",
     "sg:city":"Kochi",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169576727,
-    "wof:lastmodified":1449035195,
+    "wof:lastmodified":1466288770,
     "wof:name":"Fertilisers & Chemicals Travancore Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [76.30294,10.06975,76.30294,10.06975],
-  "geometry": {"coordinates":[76.30294,10.06975],"type":"Point"}
+  "bbox": [
+    76.30294,
+    10.06975,
+    76.30294,
+    10.06975
+],
+  "geometry": {"coordinates":[76.30294000000001,10.06975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169528379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.912666,19.092699,72.912666,19.092699",
     "geom:latitude":19.092699,
     "geom:longitude":72.912666,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B-616, Bhaveshwar Arcade, L.b.s. Marg, Ghatkoper (east),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169528379,
-    "wof:lastmodified":1449033569,
+    "wof:lastmodified":1466288684,
     "wof:name":"Neelkanth Exim",
     "wof:parent_id":85931531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supply"
     ]
 },
-  "bbox": [72.912666,19.092699,72.912666,19.092699],
+  "bbox": [
+    72.912666,
+    19.092699,
+    72.912666,
+    19.092699
+],
   "geometry": {"coordinates":[72.912666,19.092699],"type":"Point"}
 }

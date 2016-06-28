@@ -2,13 +2,14 @@
   "id": 169536167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.850029,19.1019,72.850029,19.1019",
     "geom:latitude":19.1019,
     "geom:longitude":72.850029,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Prarthana Samaj,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169536167,
-    "wof:lastmodified":1449034660,
+    "wof:lastmodified":1466288873,
     "wof:name":"Babubhai Jagjivandas",
     "wof:parent_id":85931483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.850029,19.1019,72.850029,19.1019],
-  "geometry": {"coordinates":[72.850029,19.1019],"type":"Point"}
+  "bbox": [
+    72.850029,
+    19.1019,
+    72.850029,
+    19.1019
+],
+  "geometry": {"coordinates":[72.85002900000001,19.1019],"type":"Point"}
 }

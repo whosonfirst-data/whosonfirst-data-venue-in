@@ -2,13 +2,14 @@
   "id": 169576661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.181641,28.707069,77.181641,28.707069",
     "geom:latitude":28.707069,
     "geom:longitude":77.181641,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"A-18, G.t. Karnal Road, Industrial Area,",
     "sg:city":"Delhi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169576661,
-    "wof:lastmodified":1449035198,
+    "wof:lastmodified":1466288766,
     "wof:name":"Farm Manufacturing Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [77.181641,28.707069,77.181641,28.707069],
+  "bbox": [
+    77.181641,
+    28.707069,
+    77.181641,
+    28.707069
+],
   "geometry": {"coordinates":[77.181641,28.707069],"type":"Point"}
 }

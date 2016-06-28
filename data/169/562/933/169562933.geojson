@@ -2,13 +2,14 @@
   "id": 169562933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"76.944923,11.007905,76.944923,11.007905",
     "geom:latitude":11.007905,
     "geom:longitude":76.944923,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Thadagam Road, R S Puram",
     "sg:city":"Coimbatore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169562933,
-    "wof:lastmodified":1449034434,
+    "wof:lastmodified":1466288727,
     "wof:name":"Sumka Sons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [76.944923,11.007905,76.944923,11.007905],
+  "bbox": [
+    76.944923,
+    11.007905,
+    76.944923,
+    11.007905
+],
   "geometry": {"coordinates":[76.944923,11.007905],"type":"Point"}
 }

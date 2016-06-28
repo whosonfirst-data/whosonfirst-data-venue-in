@@ -2,13 +2,14 @@
   "id": 169532215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.876656,19.123783,72.876656,19.123783",
     "geom:latitude":19.123783,
     "geom:longitude":72.876656,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"W.i.c.e.l., E-4, Plot No. 15, 1st Floor, Opp. Seepz, M.i.d.c., Andheri (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169532215,
-    "wof:lastmodified":1449033795,
+    "wof:lastmodified":1466288861,
     "wof:name":"Rst Jewels Pvt. Ltd.",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "diamond"
     ]
 },
-  "bbox": [72.876656,19.123783,72.876656,19.123783],
+  "bbox": [
+    72.876656,
+    19.123783,
+    72.876656,
+    19.123783
+],
   "geometry": {"coordinates":[72.876656,19.123783],"type":"Point"}
 }

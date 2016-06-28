@@ -2,13 +2,14 @@
   "id": 169583177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.188065,17.753113,73.188065,17.753113",
     "geom:latitude":17.753113,
     "geom:longitude":73.188065,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"House No. 18, Dapali Harnai Road, Tal. Dapoli,",
     "sg:city":"Ratnagiri",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169583177,
-    "wof:lastmodified":1449035270,
+    "wof:lastmodified":1466288781,
     "wof:name":"Kokan Synthetics & Chemicals Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "intermediate"
     ]
 },
-  "bbox": [73.188065,17.753113,73.188065,17.753113],
-  "geometry": {"coordinates":[73.188065,17.753113],"type":"Point"}
+  "bbox": [
+    73.188065,
+    17.753113,
+    73.188065,
+    17.753113
+],
+  "geometry": {"coordinates":[73.18806499999999,17.753113],"type":"Point"}
 }

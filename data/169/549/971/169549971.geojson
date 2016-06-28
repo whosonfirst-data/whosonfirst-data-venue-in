@@ -2,13 +2,14 @@
   "id": 169549971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.759079,23.833054,78.759079,23.833054",
     "geom:latitude":23.833054,
     "geom:longitude":78.759079,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"492, 493, Bharat Chowk,",
     "sg:city":"Ulhasnagar",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169549971,
-    "wof:lastmodified":1449033593,
+    "wof:lastmodified":1466288888,
     "wof:name":"Shree Satyanarayan Masala",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "spice"
     ]
 },
-  "bbox": [78.759079,23.833054,78.759079,23.833054],
+  "bbox": [
+    78.759079,
+    23.833054,
+    78.759079,
+    23.833054
+],
   "geometry": {"coordinates":[78.759079,23.833054],"type":"Point"}
 }

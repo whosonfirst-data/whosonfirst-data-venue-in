@@ -2,13 +2,14 @@
   "id": 169629901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.130714,8.792871,78.130714,8.792871",
     "geom:latitude":8.792871,
     "geom:longitude":78.130714,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"169 - Bryant Nagar,",
     "sg:city":"Madurai",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169629901,
-    "wof:lastmodified":1449035183,
+    "wof:lastmodified":1466288842,
     "wof:name":"Sterlite Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [78.130714,8.792871,78.130714,8.792871],
+  "bbox": [
+    78.130714,
+    8.792871,
+    78.130714,
+    8.792871
+],
   "geometry": {"coordinates":[78.130714,8.792871],"type":"Point"}
 }

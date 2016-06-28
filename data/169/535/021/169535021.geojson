@@ -2,13 +2,14 @@
   "id": 169535021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.866837,19.042019,72.866837,19.042019",
     "geom:latitude":19.042019,
     "geom:longitude":72.866837,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit No.13, Plot No.105, Champaklal Industrial Estate, Sion(e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169535021,
-    "wof:lastmodified":1449033286,
+    "wof:lastmodified":1466288869,
     "wof:name":"Industrial Compnents Corporation Ind. Estate",
     "wof:parent_id":85903847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electronic"
     ]
 },
-  "bbox": [72.866837,19.042019,72.866837,19.042019],
+  "bbox": [
+    72.866837,
+    19.042019,
+    72.866837,
+    19.042019
+],
   "geometry": {"coordinates":[72.866837,19.042019],"type":"Point"}
 }

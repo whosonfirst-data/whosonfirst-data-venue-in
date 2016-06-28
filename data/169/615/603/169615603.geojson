@@ -2,13 +2,14 @@
   "id": 169615603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.32589,22.538437,88.32589,22.538437",
     "geom:latitude":22.538437,
     "geom:longitude":88.32589,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"22-a, Mansatala Row,",
     "sg:city":"Kolkata",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169615603,
-    "wof:lastmodified":1449033733,
+    "wof:lastmodified":1466288828,
     "wof:name":"Sand Chain Industries",
     "wof:parent_id":85931957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "gel"
     ]
 },
-  "bbox": [88.32589,22.538437,88.32589,22.538437],
+  "bbox": [
+    88.32589,
+    22.538437,
+    88.32589,
+    22.538437
+],
   "geometry": {"coordinates":[88.32589,22.538437],"type":"Point"}
 }

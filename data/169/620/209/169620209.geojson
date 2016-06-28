@@ -2,13 +2,14 @@
   "id": 169620209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.963287,20.820829,72.963287,20.820829",
     "geom:latitude":20.820829,
     "geom:longitude":72.963287,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"B\\\\502, S.l.tower, Apposite, A.p.street,",
     "sg:city":"Vidyanagar",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169620209,
-    "wof:lastmodified":1449035675,
+    "wof:lastmodified":1466288824,
     "wof:name":"Shivam Chemicals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pharmaceutical"
     ]
 },
-  "bbox": [72.963287,20.820829,72.963287,20.820829],
-  "geometry": {"coordinates":[72.963287,20.820829],"type":"Point"}
+  "bbox": [
+    72.963287,
+    20.820829,
+    72.963287,
+    20.820829
+],
+  "geometry": {"coordinates":[72.96328699999999,20.820829],"type":"Point"}
 }

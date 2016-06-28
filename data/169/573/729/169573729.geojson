@@ -2,13 +2,14 @@
   "id": 169573729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"88.309349,22.497808,88.309349,22.497808",
     "geom:latitude":22.497808,
     "geom:longitude":88.309349,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Behala",
     "sg:city":"Kolkata",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169573729,
-    "wof:lastmodified":1449035112,
+    "wof:lastmodified":1466288766,
     "wof:name":"Wood Surgical's",
     "wof:parent_id":85903801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [88.309349,22.497808,88.309349,22.497808],
+  "bbox": [
+    88.309349,
+    22.497808,
+    88.309349,
+    22.497808
+],
   "geometry": {"coordinates":[88.309349,22.497808],"type":"Point"}
 }

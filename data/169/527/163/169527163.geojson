@@ -2,13 +2,14 @@
   "id": 169527163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.854469,19.161274,72.854469,19.161274",
     "geom:latitude":19.161274,
     "geom:longitude":72.854469,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"8, Bhola Bhagwan Indl. Estate, J.b. Patel Road, Goregaon (e),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169527163,
-    "wof:lastmodified":1449035279,
+    "wof:lastmodified":1466288622,
     "wof:name":"Graphite & Carbon Corp. (india)",
     "wof:parent_id":85931563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "/"
     ]
 },
-  "bbox": [72.854469,19.161274,72.854469,19.161274],
-  "geometry": {"coordinates":[72.854469,19.161274],"type":"Point"}
+  "bbox": [
+    72.854469,
+    19.161274,
+    72.854469,
+    19.161274
+],
+  "geometry": {"coordinates":[72.85446899999999,19.161274],"type":"Point"}
 }

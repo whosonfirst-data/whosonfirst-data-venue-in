@@ -2,13 +2,14 @@
   "id": 169538705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.623787,12.995189,77.623787,12.995189",
     "geom:latitude":12.995189,
     "geom:longitude":77.623787,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"92, Ramakrishnappa Road, Cox Town,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169538705,
-    "wof:lastmodified":1449033100,
+    "wof:lastmodified":1466288663,
     "wof:name":"Li & Fung",
     "wof:parent_id":85930871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.623787,12.995189,77.623787,12.995189],
-  "geometry": {"coordinates":[77.623787,12.995189],"type":"Point"}
+  "bbox": [
+    77.623787,
+    12.995189,
+    77.623787,
+    12.995189
+],
+  "geometry": {"coordinates":[77.62378699999999,12.995189],"type":"Point"}
 }

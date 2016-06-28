@@ -2,13 +2,14 @@
   "id": 169618231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.557365,13.038153,77.557365,13.038153",
     "geom:latitude":13.038153,
     "geom:longitude":77.557365,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"#1, Msr Indl. Estate, Gokula,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169618231,
-    "wof:lastmodified":1449034737,
+    "wof:lastmodified":1466288823,
     "wof:name":"Shah Polymers",
     "wof:parent_id":85930923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.557365,13.038153,77.557365,13.038153],
+  "bbox": [
+    77.557365,
+    13.038153,
+    77.557365,
+    13.038153
+],
   "geometry": {"coordinates":[77.557365,13.038153],"type":"Point"}
 }

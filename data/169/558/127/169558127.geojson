@@ -2,13 +2,14 @@
   "id": 169558127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.5084,17.424379,78.5084,17.424379",
     "geom:latitude":17.424379,
     "geom:longitude":78.5084,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sardar Patel Road",
     "sg:city":"Secunderabad",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169558127,
-    "wof:lastmodified":1449033583,
+    "wof:lastmodified":1466288701,
     "wof:name":"Vijay Textiles Ltd",
     "wof:parent_id":85930701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.5084,17.424379,78.5084,17.424379],
-  "geometry": {"coordinates":[78.5084,17.424379],"type":"Point"}
+  "bbox": [
+    78.5084,
+    17.424379,
+    78.5084,
+    17.424379
+],
+  "geometry": {"coordinates":[78.50839999999999,17.424379],"type":"Point"}
 }

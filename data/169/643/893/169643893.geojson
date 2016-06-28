@@ -2,13 +2,14 @@
   "id": 169643893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"79.071564,21.148373,79.071564,21.148373",
     "geom:latitude":21.148373,
     "geom:longitude":79.071564,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"16/40, Civil Lines,",
     "sg:city":"Kanpur",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169643893,
-    "wof:lastmodified":1449035524,
+    "wof:lastmodified":1466288850,
     "wof:name":"Vinay W Poly Product Pvt Ltd.",
     "wof:parent_id":85933709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "polymer"
     ]
 },
-  "bbox": [79.071564,21.148373,79.071564,21.148373],
+  "bbox": [
+    79.071564,
+    21.148373,
+    79.071564,
+    21.148373
+],
   "geometry": {"coordinates":[79.071564,21.148373],"type":"Point"}
 }

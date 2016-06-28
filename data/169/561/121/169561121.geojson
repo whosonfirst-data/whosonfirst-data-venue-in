@@ -2,13 +2,14 @@
   "id": 169561121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.838799,18.995945,72.838799,18.995945",
     "geom:latitude":18.995945,
     "geom:longitude":72.838799,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Peninsula Centre, S.s. Rao Road, Parel,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169561121,
-    "wof:lastmodified":1449035021,
+    "wof:lastmodified":1466288706,
     "wof:name":"Engichem Specialities Pvt. Ltd.",
     "wof:parent_id":85903941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "coating"
     ]
 },
-  "bbox": [72.838799,18.995945,72.838799,18.995945],
-  "geometry": {"coordinates":[72.838799,18.995945],"type":"Point"}
+  "bbox": [
+    72.838799,
+    18.995945,
+    72.838799,
+    18.995945
+],
+  "geometry": {"coordinates":[72.83879899999999,18.995945],"type":"Point"}
 }

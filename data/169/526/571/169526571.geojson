@@ -2,13 +2,14 @@
   "id": 169526571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.925827,19.119278,72.925827,19.119278",
     "geom:latitude":19.119278,
     "geom:longitude":72.925827,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"A-1, Veena Nagar, L.b.s. Marg, Mulund (west),",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169526571,
-    "wof:lastmodified":1449033703,
+    "wof:lastmodified":1466288626,
     "wof:name":"Sheetal Medicare Prods. Pvt. Ltd.",
     "wof:parent_id":85931627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.925827,19.119278,72.925827,19.119278],
+  "bbox": [
+    72.925827,
+    19.119278,
+    72.925827,
+    19.119278
+],
   "geometry": {"coordinates":[72.925827,19.119278],"type":"Point"}
 }

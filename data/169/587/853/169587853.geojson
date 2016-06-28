@@ -2,13 +2,14 @@
   "id": 169587853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.230118,28.650675,77.230118,28.650675",
     "geom:latitude":28.650675,
     "geom:longitude":77.230118,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"93/144, Nai Sarak,",
     "sg:city":"Kanpur",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169587853,
-    "wof:lastmodified":1449033820,
+    "wof:lastmodified":1466288797,
     "wof:name":"Maruti Traders",
     "wof:parent_id":85928095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.230118,28.650675,77.230118,28.650675],
+  "bbox": [
+    77.230118,
+    28.650675,
+    77.230118,
+    28.650675
+],
   "geometry": {"coordinates":[77.230118,28.650675],"type":"Point"}
 }

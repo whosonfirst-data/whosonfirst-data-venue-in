@@ -2,13 +2,14 @@
   "id": 169614793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.31575,28.597759,77.31575,28.597759",
     "geom:latitude":28.597759,
     "geom:longitude":77.31575,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"21, Anupam Apartments, Vasundhra Enclave,",
     "sg:city":"Delhi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169614793,
-    "wof:lastmodified":1449036059,
+    "wof:lastmodified":1466288830,
     "wof:name":"Sai Gr Impex Pvt. Ltd.",
     "wof:parent_id":85928167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [77.31575,28.597759,77.31575,28.597759],
-  "geometry": {"coordinates":[77.31575,28.597759],"type":"Point"}
+  "bbox": [
+    77.31575,
+    28.597759,
+    77.31575,
+    28.597759
+],
+  "geometry": {"coordinates":[77.31574999999999,28.597759],"type":"Point"}
 }

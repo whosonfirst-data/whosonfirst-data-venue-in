@@ -2,13 +2,14 @@
   "id": 169653491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.242671,28.570569,77.242671,28.570569",
     "geom:latitude":28.570569,
     "geom:longitude":77.242671,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"J4-B, Lajpat Nagar II, New Delhi",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":169653491,
-    "wof:lastmodified":1449032915,
+    "wof:lastmodified":1466288896,
     "wof:name":"Candid-Software",
     "wof:parent_id":85927997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "candid-software"
     ]
 },
-  "bbox": [77.242671,28.570569,77.242671,28.570569],
+  "bbox": [
+    77.242671,
+    28.570569,
+    77.242671,
+    28.570569
+],
   "geometry": {"coordinates":[77.242671,28.570569],"type":"Point"}
 }

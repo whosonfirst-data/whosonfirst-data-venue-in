@@ -2,13 +2,14 @@
   "id": 169598053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"78.449081,17.415102,78.449081,17.415102",
     "geom:latitude":17.415102,
     "geom:longitude":78.449081,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"503, City Centre, The Mall,",
     "sg:city":"Kanpur",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169598053,
-    "wof:lastmodified":1449032858,
+    "wof:lastmodified":1466288893,
     "wof:name":"Pan East Exim (p) Ltd.",
     "wof:parent_id":85930765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [78.449081,17.415102,78.449081,17.415102],
-  "geometry": {"coordinates":[78.449081,17.415102],"type":"Point"}
+  "bbox": [
+    78.449081,
+    17.415102,
+    78.449081,
+    17.415102
+],
+  "geometry": {"coordinates":[78.44908100000001,17.415102],"type":"Point"}
 }

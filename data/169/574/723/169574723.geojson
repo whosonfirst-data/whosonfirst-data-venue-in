@@ -2,13 +2,14 @@
   "id": 169574723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.83268,19.060101,72.83268,19.060101",
     "geom:latitude":19.060101,
     "geom:longitude":72.83268,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"23 / 28th Road, Bandra (w)",
     "sg:city":"Mumbai",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169574723,
-    "wof:lastmodified":1449032663,
+    "wof:lastmodified":1466288773,
     "wof:name":"Royal Lifters & Excavators Pvt Ltd",
     "wof:parent_id":85931581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.83268,19.060101,72.83268,19.060101],
+  "bbox": [
+    72.83268,
+    19.060101,
+    72.83268,
+    19.060101
+],
   "geometry": {"coordinates":[72.83268,19.060101],"type":"Point"}
 }

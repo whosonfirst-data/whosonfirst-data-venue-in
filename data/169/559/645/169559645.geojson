@@ -2,13 +2,14 @@
   "id": 169559645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.193085,28.705605,77.193085,28.705605",
     "geom:latitude":28.705605,
     "geom:longitude":77.193085,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"52, Tagore Park, Model Town,",
     "sg:city":"Delhi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169559645,
-    "wof:lastmodified":1449035236,
+    "wof:lastmodified":1466288743,
     "wof:name":"Cooperation Overseas Private Limited",
     "wof:parent_id":85928585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical"
     ]
 },
-  "bbox": [77.193085,28.705605,77.193085,28.705605],
+  "bbox": [
+    77.193085,
+    28.705605,
+    77.193085,
+    28.705605
+],
   "geometry": {"coordinates":[77.193085,28.705605],"type":"Point"}
 }

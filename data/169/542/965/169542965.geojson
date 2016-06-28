@@ -2,13 +2,14 @@
   "id": 169542965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.597412,12.907539,77.597412,12.907539",
     "geom:latitude":12.907539,
     "geom:longitude":77.597412,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 63-b, 13th Cross, Jp Nagar, 3rd Phase,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169542965,
-    "wof:lastmodified":1449035222,
+    "wof:lastmodified":1466288881,
     "wof:name":"Keytronix",
     "wof:parent_id":85931061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "telecommunication"
     ]
 },
-  "bbox": [77.597412,12.907539,77.597412,12.907539],
-  "geometry": {"coordinates":[77.597412,12.907539],"type":"Point"}
+  "bbox": [
+    77.597412,
+    12.907539,
+    77.597412,
+    12.907539
+],
+  "geometry": {"coordinates":[77.59741200000001,12.907539],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169545989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"75.782898,26.906893,75.782898,26.906893",
     "geom:latitude":26.906893,
     "geom:longitude":75.782898,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"58/1, Lakshmi Nagar,",
     "sg:city":"Tiruppur",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169545989,
-    "wof:lastmodified":1449033486,
+    "wof:lastmodified":1466288676,
     "wof:name":"Zeebra Hosieries",
     "wof:parent_id":85934491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hosiery"
     ]
 },
-  "bbox": [75.782898,26.906893,75.782898,26.906893],
+  "bbox": [
+    75.782898,
+    26.906893,
+    75.782898,
+    26.906893
+],
   "geometry": {"coordinates":[75.782898,26.906893],"type":"Point"}
 }

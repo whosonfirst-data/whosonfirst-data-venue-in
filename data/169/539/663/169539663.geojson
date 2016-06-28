@@ -2,13 +2,14 @@
   "id": 169539663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.606621,12.908905,77.606621,12.908905",
     "geom:latitude":12.908905,
     "geom:longitude":77.606621,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"# 9, 7th Main, Btm Layout, Ns. Palaya,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169539663,
-    "wof:lastmodified":1449036039,
+    "wof:lastmodified":1466288648,
     "wof:name":"Apm Technologies",
     "wof:parent_id":85931061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.606621,12.908905,77.606621,12.908905],
+  "bbox": [
+    77.606621,
+    12.908905,
+    77.606621,
+    12.908905
+],
   "geometry": {"coordinates":[77.606621,12.908905],"type":"Point"}
 }

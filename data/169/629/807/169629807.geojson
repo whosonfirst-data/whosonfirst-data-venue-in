@@ -2,13 +2,14 @@
   "id": 169629807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.233261,28.662571,77.233261,28.662571",
     "geom:latitude":28.662571,
     "geom:longitude":77.233261,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"1-2-271, Opp. Minerva House, S.d. Road,",
     "sg:city":"Secunderabad",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169629807,
-    "wof:lastmodified":1449035182,
+    "wof:lastmodified":1466288840,
     "wof:name":"Sudarshan Industries",
     "wof:parent_id":85928195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acid"
     ]
 },
-  "bbox": [77.233261,28.662571,77.233261,28.662571],
+  "bbox": [
+    77.233261,
+    28.662571,
+    77.233261,
+    28.662571
+],
   "geometry": {"coordinates":[77.233261,28.662571],"type":"Point"}
 }

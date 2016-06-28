@@ -2,13 +2,14 @@
   "id": 169527409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.853477,18.522858,73.853477,18.522858",
     "geom:latitude":18.522858,
     "geom:longitude":73.853477,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Congress House Building, 410, V.p. Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169527409,
-    "wof:lastmodified":1449035277,
+    "wof:lastmodified":1466288630,
     "wof:name":"S. Nanak Singh & Sons",
     "wof:parent_id":85931327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bearing"
     ]
 },
-  "bbox": [73.853477,18.522858,73.853477,18.522858],
+  "bbox": [
+    73.853477,
+    18.522858,
+    73.853477,
+    18.522858
+],
   "geometry": {"coordinates":[73.853477,18.522858],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169528737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.803802,18.968084,72.803802,18.968084",
     "geom:latitude":18.968084,
     "geom:longitude":72.803802,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"G-27, Sagar Darshan, 81-b, Bhulabhai Desai Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169528737,
-    "wof:lastmodified":1449033570,
+    "wof:lastmodified":1466288688,
     "wof:name":"Tejus Jewellers",
     "wof:parent_id":85903835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "silver"
     ]
 },
-  "bbox": [72.803802,18.968084,72.803802,18.968084],
+  "bbox": [
+    72.803802,
+    18.968084,
+    72.803802,
+    18.968084
+],
   "geometry": {"coordinates":[72.803802,18.968084],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169552887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"85.387642,26.130562,85.387642,26.130562",
     "geom:latitude":26.130562,
     "geom:longitude":85.387642,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Nr. Krishna Cinema,",
     "sg:city":"Vadodara",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169552887,
-    "wof:lastmodified":1449034056,
+    "wof:lastmodified":1466288890,
     "wof:name":"L.g. Mistry & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fixture"
     ]
 },
-  "bbox": [85.387642,26.130562,85.387642,26.130562],
+  "bbox": [
+    85.387642,
+    26.130562,
+    85.387642,
+    26.130562
+],
   "geometry": {"coordinates":[85.387642,26.130562],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169535183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.865875,19.017241,72.865875,19.017241",
     "geom:latitude":19.017241,
     "geom:longitude":72.865875,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"A-33, Shriram I/e, Wadala,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169535183,
-    "wof:lastmodified":1449033286,
+    "wof:lastmodified":1466288871,
     "wof:name":"Gala International",
     "wof:parent_id":85903993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "embroidery"
     ]
 },
-  "bbox": [72.865875,19.017241,72.865875,19.017241],
+  "bbox": [
+    72.865875,
+    19.017241,
+    72.865875,
+    19.017241
+],
   "geometry": {"coordinates":[72.865875,19.017241],"type":"Point"}
 }

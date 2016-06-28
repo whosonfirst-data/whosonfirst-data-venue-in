@@ -2,13 +2,14 @@
   "id": 169585835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.530952,12.975378,77.530952,12.975378",
     "geom:latitude":12.975378,
     "geom:longitude":77.530952,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 40, G.i.d.c. Estate, Chitra,",
     "sg:city":"Bhavnagar",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169585835,
-    "wof:lastmodified":1449034883,
+    "wof:lastmodified":1466288795,
     "wof:name":"Madhu Silica Pvt. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "silicon"
     ]
 },
-  "bbox": [77.530952,12.975378,77.530952,12.975378],
+  "bbox": [
+    77.530952,
+    12.975378,
+    77.530952,
+    12.975378
+],
   "geometry": {"coordinates":[77.530952,12.975378],"type":"Point"}
 }

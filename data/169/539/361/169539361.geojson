@@ -2,13 +2,14 @@
   "id": 169539361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.863045,19.259623,72.863045,19.259623",
     "geom:latitude":19.259623,
     "geom:longitude":72.863045,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"109, J.m. Road, Laxmi Complex,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169539361,
-    "wof:lastmodified":1449036038,
+    "wof:lastmodified":1466288877,
     "wof:name":"Nakoda Silk Mills",
     "wof:parent_id":85931553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [72.863045,19.259623,72.863045,19.259623],
+  "bbox": [
+    72.863045,
+    19.259623,
+    72.863045,
+    19.259623
+],
   "geometry": {"coordinates":[72.863045,19.259623],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169576797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"72.839729,19.101631,72.839729,19.101631",
     "geom:latitude":19.101631,
     "geom:longitude":72.839729,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"501, Kapadia Apartment, 39, S.v. Road, Vile Parle (w),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169576797,
-    "wof:lastmodified":1449035198,
+    "wof:lastmodified":1466288772,
     "wof:name":"Formachem",
     "wof:parent_id":85931603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "raw"
     ]
 },
-  "bbox": [72.839729,19.101631,72.839729,19.101631],
-  "geometry": {"coordinates":[72.839729,19.101631],"type":"Point"}
+  "bbox": [
+    72.839729,
+    19.101631,
+    72.839729,
+    19.101631
+],
+  "geometry": {"coordinates":[72.83972900000001,19.101631],"type":"Point"}
 }

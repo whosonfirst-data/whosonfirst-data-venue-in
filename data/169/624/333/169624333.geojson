@@ -2,13 +2,14 @@
   "id": 169624333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.273148,28.707514,77.273148,28.707514",
     "geom:latitude":28.707514,
     "geom:longitude":77.273148,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"D/66, Street No. 4, Bhajanpura,",
     "sg:city":"Delhi",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169624333,
-    "wof:lastmodified":1449034959,
+    "wof:lastmodified":1466288832,
     "wof:name":"Sigmaa Rubber Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [77.273148,28.707514,77.273148,28.707514],
-  "geometry": {"coordinates":[77.273148,28.707514],"type":"Point"}
+  "bbox": [
+    77.273148,
+    28.707514,
+    77.273148,
+    28.707514
+],
+  "geometry": {"coordinates":[77.27314800000001,28.707514],"type":"Point"}
 }

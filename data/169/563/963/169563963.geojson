@@ -2,13 +2,14 @@
   "id": 169563963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.419632,28.641432,77.419632,28.641432",
     "geom:latitude":28.641432,
     "geom:longitude":77.419632,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Sarvodaya Nagar",
     "sg:city":"Kanpur",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169563963,
-    "wof:lastmodified":1449032730,
+    "wof:lastmodified":1466288727,
     "wof:name":"Nikhil Techno Chem Pvt Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [77.419632,28.641432,77.419632,28.641432],
-  "geometry": {"coordinates":[77.419632,28.641432],"type":"Point"}
+  "bbox": [
+    77.419632,
+    28.641432,
+    77.419632,
+    28.641432
+],
+  "geometry": {"coordinates":[77.41963199999999,28.641432],"type":"Point"}
 }

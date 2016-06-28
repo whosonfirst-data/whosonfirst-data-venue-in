@@ -2,13 +2,14 @@
   "id": 169549777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"74.635681,26.457375,74.635681,26.457375",
     "geom:latitude":26.457375,
     "geom:longitude":74.635681,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"240, Madar Gate,",
     "sg:city":"Ujjain",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169549777,
-    "wof:lastmodified":1449033592,
+    "wof:lastmodified":1466288887,
     "wof:name":"National Refrigeration",
     "wof:parent_id":85934435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [74.635681,26.457375,74.635681,26.457375],
-  "geometry": {"coordinates":[74.635681,26.457375],"type":"Point"}
+  "bbox": [
+    74.635681,
+    26.457375,
+    74.635681,
+    26.457375
+],
+  "geometry": {"coordinates":[74.63568100000001,26.457375],"type":"Point"}
 }

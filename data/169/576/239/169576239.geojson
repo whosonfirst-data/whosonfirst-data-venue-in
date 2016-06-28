@@ -2,13 +2,14 @@
   "id": 169576239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.543404,13.011591,77.543404,13.011591",
     "geom:latitude":13.011591,
     "geom:longitude":77.543404,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot No. 65, 1st Main, 2nd Phase, Peenya Industrial Area,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169576239,
-    "wof:lastmodified":1449035194,
+    "wof:lastmodified":1466288752,
     "wof:name":"Bharathi Enterprises",
     "wof:parent_id":85930919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [77.543404,13.011591,77.543404,13.011591],
+  "bbox": [
+    77.543404,
+    13.011591,
+    77.543404,
+    13.011591
+],
   "geometry": {"coordinates":[77.543404,13.011591],"type":"Point"}
 }

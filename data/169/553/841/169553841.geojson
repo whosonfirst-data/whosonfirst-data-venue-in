@@ -2,13 +2,14 @@
   "id": 169553841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"73.202072,22.308929,73.202072,22.308929",
     "geom:latitude":22.308929,
     "geom:longitude":73.202072,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Nagarwada,",
     "sg:city":"Vadodara",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169553841,
-    "wof:lastmodified":1449032706,
+    "wof:lastmodified":1466288703,
     "wof:name":"Harihar Industries",
     "wof:parent_id":85933525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [73.202072,22.308929,73.202072,22.308929],
+  "bbox": [
+    73.202072,
+    22.308929,
+    73.202072,
+    22.308929
+],
   "geometry": {"coordinates":[73.202072,22.308929],"type":"Point"}
 }

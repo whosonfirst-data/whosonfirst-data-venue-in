@@ -2,13 +2,14 @@
   "id": 169557197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"80.233971,13.044302,80.233971,13.044302",
     "geom:latitude":13.044302,
     "geom:longitude":80.233971,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"Murugesan Road, T Nagar",
     "sg:city":"Chennai",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169557197,
-    "wof:lastmodified":1449035037,
+    "wof:lastmodified":1466288701,
     "wof:name":"Hindustan Crucibles",
     "wof:parent_id":85903981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [80.233971,13.044302,80.233971,13.044302],
+  "bbox": [
+    80.233971,
+    13.044302,
+    80.233971,
+    13.044302
+],
   "geometry": {"coordinates":[80.233971,13.044302],"type":"Point"}
 }

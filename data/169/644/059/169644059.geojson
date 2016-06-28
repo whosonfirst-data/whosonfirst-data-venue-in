@@ -2,13 +2,14 @@
   "id": 169644059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.180855,28.650986,77.180855,28.650986",
     "geom:latitude":28.650986,
     "geom:longitude":77.180855,
     "iso:country":"IN",
+    "mz:hierarchy_label":1,
     "sg:address":"12-a, Heavy Ind. Area,",
     "sg:city":"Jodhpur",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169644059,
-    "wof:lastmodified":1449034575,
+    "wof:lastmodified":1466288843,
     "wof:name":"Vinayak Arts",
     "wof:parent_id":85903883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acid"
     ]
 },
-  "bbox": [77.180855,28.650986,77.180855,28.650986],
-  "geometry": {"coordinates":[77.180855,28.650986],"type":"Point"}
+  "bbox": [
+    77.180855,
+    28.650986,
+    77.180855,
+    28.650986
+],
+  "geometry": {"coordinates":[77.18085499999999,28.650986],"type":"Point"}
 }
