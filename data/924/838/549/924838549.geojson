@@ -1,0 +1,63 @@
+{
+  "id": 924838549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"78.451751709,17.4572982788,78.451751709,17.4572982788",
+    "geom:latitude":17.457298,
+    "geom:longitude":78.451752,
+    "iso:country":"IN",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fathenagar",
+    "sg:city":"Hyderabad",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 40 2377 8132",
+    "sg:postcode":"500018",
+    "sg:province":"Andhra Pradesh",
+    "sg:website":"http://www.vseximast.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930831,
+        102191569,
+        85632469,
+        102030059,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a2aaKz4Z0XaSxUpA8GIbS_17.457298_78.451752@1306269787"
+    },
+    "wof:country":"IN",
+    "wof:created":1471986900,
+    "wof:geomhash":"7c9f33b202730d9c3a00bca53d53d7c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "locality_id":102030059,
+            "neighbourhood_id":85930831,
+            "region_id":85672141,
+            "venue_id":924838549
+        }
+    ],
+    "wof:id":924838549,
+    "wof:lastmodified":1471986900,
+    "wof:name":"V S Eximast",
+    "wof:parent_id":85930831,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.451751709,
+    17.4572982788,
+    78.451751709,
+    17.4572982788
+],
+  "geometry": {"coordinates":[78.45175170900001,17.4572982788],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 924838553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"88.3453292847,22.5733070374,88.3453292847,22.5733070374",
+    "geom:latitude":22.573307,
+    "geom:longitude":88.345329,
+    "iso:country":"IN",
+    "mz:hierarchy_label":1,
+    "sg:address":"28, Strand Road, 2nd Floor,",
+    "sg:city":"Kolkata",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+91 33 2220 7971",
+    "sg:postcode":"700001",
+    "sg:tags":[
+        "additive",
+        "flavour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85931969,
+        102191569,
+        85632469,
+        102030585,
+        85672219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xEnPxiNoC1rFHuwBReBhx_22.573307_88.345329@1306269788"
+    },
+    "wof:country":"IN",
+    "wof:created":1471986900,
+    "wof:geomhash":"62fc580389f1d0b48dcb1df2ec07929d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "locality_id":102030585,
+            "neighbourhood_id":85931969,
+            "region_id":85672219,
+            "venue_id":924838553
+        }
+    ],
+    "wof:id":924838553,
+    "wof:lastmodified":1471986900,
+    "wof:name":"Sangita Bio-chem Ltd.",
+    "wof:parent_id":85931969,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "additive",
+        "flavour"
+    ]
+},
+  "bbox": [
+    88.3453292847,
+    22.5733070374,
+    88.3453292847,
+    22.5733070374
+],
+  "geometry": {"coordinates":[88.3453292847,22.5733070374],"type":"Point"}
+}
