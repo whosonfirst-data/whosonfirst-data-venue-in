@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.135574,28.631302,77.135574,28.631302",
     "geom:latitude":28.631302,
     "geom:longitude":77.135574,
@@ -28,10 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85927871,
+        85672123,
+        102191569,
         85632469,
         102029189,
-        85672123
+        1108695773,
+        85927871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,9 @@
     "wof:geomhash":"f9e11ad24ee23d64bebf00369f9b128e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":1108695773,
             "locality_id":102029189,
             "neighbourhood_id":85927871,
             "region_id":85672123,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":169631449,
-    "wof:lastmodified":1466288837,
+    "wof:lastmodified":1491935642,
     "wof:name":"Super Products Company",
     "wof:parent_id":85927871,
     "wof:placetype":"venue",

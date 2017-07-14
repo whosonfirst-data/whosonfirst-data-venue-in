@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.840744,19.18601,72.840744,19.18601",
     "geom:latitude":19.18601,
     "geom:longitude":72.840744,
@@ -30,10 +31,12 @@
     "sg:website":"http://www.navrang.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931619,
+        85672171,
+        102191569,
         85632469,
         102030609,
-        85672171
+        890503073,
+        85931619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,9 @@
     "wof:geomhash":"1a8963cf75d4e678e704fb981c64b646",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85931619,
             "region_id":85672171,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":169527315,
-    "wof:lastmodified":1466288629,
+    "wof:lastmodified":1491924349,
     "wof:name":"Ankur Bathfitt Pvt. Ltd.",
     "wof:parent_id":85931619,
     "wof:placetype":"venue",

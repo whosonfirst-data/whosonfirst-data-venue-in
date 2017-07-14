@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.134773,28.630911,77.134773,28.630911",
     "geom:latitude":28.630911,
     "geom:longitude":77.134773,
@@ -27,10 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85927871,
+        85672123,
+        102191569,
         85632469,
         102029189,
-        85672123
+        1108695773,
+        85927871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +43,9 @@
     "wof:geomhash":"d6b54b66770b1718b9c5340d71a3342d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":1108695773,
             "locality_id":102029189,
             "neighbourhood_id":85927871,
             "region_id":85672123,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":169619585,
-    "wof:lastmodified":1466288827,
+    "wof:lastmodified":1491935642,
     "wof:name":"Shine Traders",
     "wof:parent_id":85927871,
     "wof:placetype":"venue",

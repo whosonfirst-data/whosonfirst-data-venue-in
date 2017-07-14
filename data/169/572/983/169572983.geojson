@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.820526,18.914452,72.820526,18.914452",
     "geom:latitude":18.914452,
     "geom:longitude":72.820526,
@@ -20,9 +21,12 @@
     "sg:website":"http://www.ramanewsprint.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85903829,
+        85672171,
+        102191569,
         85632469,
-        102030609
+        102030609,
+        890503073,
+        85903829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,16 +36,17 @@
     "wof:geomhash":"cd2c596ad96f00cc191e666ca8f38855",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85903829,
-            "region_id":-1,
+            "region_id":85672171,
             "venue_id":169572983
         }
     ],
     "wof:id":169572983,
-    "wof:lastmodified":1466288779,
+    "wof:lastmodified":1491921944,
     "wof:name":"Rama Newsprint & Papers Ltd",
     "wof:parent_id":85903829,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.297554,28.618889,77.297554,28.618889",
     "geom:latitude":28.618889,
     "geom:longitude":77.297554,
@@ -28,10 +29,12 @@
     "sg:website":"http://www.indiamart.com/hitechrubberindia/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928053,
+        85672123,
+        102191569,
         85632469,
         102030425,
-        85672123
+        890507423,
+        85928053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,9 @@
     "wof:geomhash":"b414b48086dde8f137d9d42f7384c32c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890507423,
             "locality_id":102030425,
             "neighbourhood_id":85928053,
             "region_id":85672123,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":169578673,
-    "wof:lastmodified":1466288797,
+    "wof:lastmodified":1491938299,
     "wof:name":"Hi Tech Rubber Industries",
     "wof:parent_id":85928053,
     "wof:placetype":"venue",

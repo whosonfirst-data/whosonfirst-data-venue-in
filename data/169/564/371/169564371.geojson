@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.832367,18.927502,72.832367,18.927502",
     "geom:latitude":18.927502,
     "geom:longitude":72.832367,
@@ -20,8 +21,12 @@
     "sg:website":"http://www.lemuir.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931609,
-        102030609
+        85672171,
+        102191569,
+        85632469,
+        102030609,
+        890503073,
+        85931609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -31,16 +36,17 @@
     "wof:geomhash":"8813aa979ce5818d184d481804454443",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85931609,
-            "region_id":-1,
+            "region_id":85672171,
             "venue_id":169564371
         }
     ],
     "wof:id":169564371,
-    "wof:lastmodified":1466288712,
+    "wof:lastmodified":1491893084,
     "wof:name":"Lee & Muirhead Ltd",
     "wof:parent_id":85931609,
     "wof:placetype":"venue",

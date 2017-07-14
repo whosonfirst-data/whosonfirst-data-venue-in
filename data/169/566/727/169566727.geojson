@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.188057,28.568233,77.188057,28.568233",
     "geom:latitude":28.568233,
     "geom:longitude":77.188057,
@@ -19,10 +20,12 @@
     "sg:province":"Delhi",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928651,
+        85672123,
+        102191569,
         85632469,
         102029189,
-        85672123
+        1108695773,
+        85928651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,8 +35,9 @@
     "wof:geomhash":"35076c06a80ebb3929eaeec7c3b9a924",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":1108695773,
             "locality_id":102029189,
             "neighbourhood_id":85928651,
             "region_id":85672123,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":169566727,
-    "wof:lastmodified":1466288728,
+    "wof:lastmodified":1491888683,
     "wof:name":"Arunachal Cargo Pvt Ltd",
     "wof:parent_id":85928651,
     "wof:placetype":"venue",

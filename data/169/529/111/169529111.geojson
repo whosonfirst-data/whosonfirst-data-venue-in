@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.832512,18.923603,72.832512,18.923603",
     "geom:latitude":18.923603,
     "geom:longitude":72.832512,
@@ -19,8 +20,12 @@
     "sg:postcode":"400001",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931609,
-        102030609
+        85672171,
+        102191569,
+        85632469,
+        102030609,
+        890503073,
+        85931609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -30,16 +35,17 @@
     "wof:geomhash":"cc305a65627f85a39f0d79a6c373afd0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85931609,
-            "region_id":-1,
+            "region_id":85672171,
             "venue_id":169529111
         }
     ],
     "wof:id":169529111,
-    "wof:lastmodified":1466288693,
+    "wof:lastmodified":1491893084,
     "wof:name":"Kashmir Novelties",
     "wof:parent_id":85931609,
     "wof:placetype":"venue",

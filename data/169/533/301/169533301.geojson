@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.817444,18.954645,72.817444,18.954645",
     "geom:latitude":18.954645,
     "geom:longitude":72.817444,
@@ -27,10 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931463,
+        85672171,
+        102191569,
         85632469,
         102030609,
-        85672171
+        890503073,
+        85931463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +43,9 @@
     "wof:geomhash":"1d2a6b75771fc0971d713f8444fe2679",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85931463,
             "region_id":85672171,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":169533301,
-    "wof:lastmodified":1466288866,
+    "wof:lastmodified":1491903550,
     "wof:name":"Jagdish C. Mody Exports",
     "wof:parent_id":85931463,
     "wof:placetype":"venue",

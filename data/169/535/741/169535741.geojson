@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.86776,19.107151,72.86776,19.107151",
     "geom:latitude":19.107151,
     "geom:longitude":72.86776,
@@ -28,7 +29,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931605,
+        102555685,
+        85931483,
+        102191569,
         85632469,
         102030609,
         85672171
@@ -41,18 +44,19 @@
     "wof:geomhash":"7020ab80e2c5d192431e96a621153efb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102555685,
+            "continent_id":102191569,
             "country_id":85632469,
             "locality_id":102030609,
-            "neighbourhood_id":85931605,
+            "neighbourhood_id":85931483,
             "region_id":85672171,
             "venue_id":169535741
         }
     ],
     "wof:id":169535741,
-    "wof:lastmodified":1466288633,
+    "wof:lastmodified":1491902350,
     "wof:name":"Onesource Enterprises",
-    "wof:parent_id":85931605,
+    "wof:parent_id":102555685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],

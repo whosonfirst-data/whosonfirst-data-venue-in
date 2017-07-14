@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.815231,18.956123,72.815231,18.956123",
     "geom:latitude":18.956123,
     "geom:longitude":72.815231,
@@ -30,10 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931463,
+        85672171,
+        102191569,
         85632469,
         102030609,
-        85672171
+        890503073,
+        85931463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,9 @@
     "wof:geomhash":"190c0dd368b1d6b0e803866870ee7abc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85931463,
             "region_id":85672171,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":169526431,
-    "wof:lastmodified":1466288625,
+    "wof:lastmodified":1491903556,
     "wof:name":"Melauto Engineers Pvt. Ltd.",
     "wof:parent_id":85931463,
     "wof:placetype":"venue",

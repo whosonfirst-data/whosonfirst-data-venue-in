@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.845245,18.964659,72.845245,18.964659",
     "geom:latitude":18.964659,
     "geom:longitude":72.845245,
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85903927,
+        85672171,
+        102191569,
         85632469,
-        102030609
+        102030609,
+        890503073,
+        85903927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,17 @@
     "wof:geomhash":"450fe286f9a88a4ad84f9f7fb950ec07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85903927,
-            "region_id":-1,
+            "region_id":85672171,
             "venue_id":169541843
         }
     ],
     "wof:id":169541843,
-    "wof:lastmodified":1466288678,
+    "wof:lastmodified":1491935417,
     "wof:name":"Deccan Traders",
     "wof:parent_id":85903927,
     "wof:placetype":"venue",

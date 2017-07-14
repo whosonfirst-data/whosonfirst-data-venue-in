@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.975952,19.209791,72.975952,19.209791",
     "geom:latitude":19.209791,
     "geom:longitude":72.975952,
@@ -21,6 +22,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85931383,
+        102191569,
         85632469,
         102028465,
         85672171
@@ -33,7 +35,7 @@
     "wof:geomhash":"2a0e6e6859f8b4656f3d844d7eccfc37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
             "locality_id":102028465,
             "neighbourhood_id":85931383,
@@ -42,7 +44,7 @@
         }
     ],
     "wof:id":169535669,
-    "wof:lastmodified":1466288875,
+    "wof:lastmodified":1491892909,
     "wof:name":"Advanced Biochemicals Ltd.",
     "wof:parent_id":85931383,
     "wof:placetype":"venue",

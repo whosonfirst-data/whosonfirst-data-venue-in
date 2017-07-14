@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.98204,19.211187,72.98204,19.211187",
     "geom:latitude":19.211187,
     "geom:longitude":72.98204,
@@ -29,6 +30,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85931383,
+        102191569,
         85632469,
         102028465,
         85672171
@@ -41,7 +43,7 @@
     "wof:geomhash":"70aaa8248fab5552c8d01d1f18324581",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
             "locality_id":102028465,
             "neighbourhood_id":85931383,
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":169559399,
-    "wof:lastmodified":1466288726,
+    "wof:lastmodified":1491892909,
     "wof:name":"Clariant Colour Chem Ltd.",
     "wof:parent_id":85931383,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.881363,19.119831,72.881363,19.119831",
     "geom:latitude":19.119831,
     "geom:longitude":72.881363,
@@ -29,10 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931605,
+        85672171,
+        102191569,
         85632469,
         102030609,
-        85672171
+        890503073,
+        85931605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,9 @@
     "wof:geomhash":"17a3b201518312a08a6d495cfe5f1540",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85931605,
             "region_id":85672171,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":169526779,
-    "wof:lastmodified":1466288627,
+    "wof:lastmodified":1491902345,
     "wof:name":"Sri Balaji Creations",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",

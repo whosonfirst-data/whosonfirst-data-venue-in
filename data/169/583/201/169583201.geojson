@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.308693,28.584785,77.308693,28.584785",
     "geom:latitude":28.584785,
     "geom:longitude":77.308693,
@@ -27,10 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928529,
+        85672205,
+        102191569,
         85632469,
         102031133,
-        85672205
+        890508371,
+        85928529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +43,9 @@
     "wof:geomhash":"3d8489edce73bdc8875f454a84532ad1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890508371,
             "locality_id":102031133,
             "neighbourhood_id":85928529,
             "region_id":85672205,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":169583201,
-    "wof:lastmodified":1466288783,
+    "wof:lastmodified":1491901114,
     "wof:name":"Kota Oxygen Pvt. Ltd.",
     "wof:parent_id":85928529,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.198837,28.660297,77.198837,28.660297",
     "geom:latitude":28.660297,
     "geom:longitude":77.198837,
@@ -20,10 +21,12 @@
     "sg:website":"http://www.indiamart.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85903953,
+        85672123,
+        102191569,
         85632469,
         102030425,
-        85672123
+        890507423,
+        85903953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,8 +36,9 @@
     "wof:geomhash":"181d68d923ca0675a52177c57725515d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890507423,
             "locality_id":102030425,
             "neighbourhood_id":85903953,
             "region_id":85672123,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":169565235,
-    "wof:lastmodified":1466288712,
+    "wof:lastmodified":1491899697,
     "wof:name":"Dola International Trade",
     "wof:parent_id":85903953,
     "wof:placetype":"venue",

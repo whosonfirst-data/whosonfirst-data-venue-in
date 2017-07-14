@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.304443,28.468817,77.304443,28.468817",
     "geom:latitude":28.468817,
     "geom:longitude":77.304443,
@@ -28,10 +29,12 @@
     "sg:website":"http://www.almexinda.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928379,
+        85672133,
+        102191569,
         85632469,
         102030289,
-        85672133
+        890507901,
+        85928379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,9 @@
     "wof:geomhash":"bf537b820df2456c7ee34d74475649aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890507901,
             "locality_id":102030289,
             "neighbourhood_id":85928379,
             "region_id":85672133,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":169619009,
-    "wof:lastmodified":1466288894,
+    "wof:lastmodified":1491929453,
     "wof:name":"Shaw Almex India Pvt. Ltd.",
     "wof:parent_id":85928379,
     "wof:placetype":"venue",

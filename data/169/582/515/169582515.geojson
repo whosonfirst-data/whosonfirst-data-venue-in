@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.241974,28.621124,77.241974,28.621124",
     "geom:latitude":28.621124,
     "geom:longitude":77.241974,
@@ -26,10 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85927907,
+        85672123,
+        102191569,
         85632469,
         102029189,
-        85672123
+        1108695773,
+        85927907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,8 +42,9 @@
     "wof:geomhash":"098e910448855dc93884c32c22a9e5d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":1108695773,
             "locality_id":102029189,
             "neighbourhood_id":85927907,
             "region_id":85672123,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":169582515,
-    "wof:lastmodified":1466288789,
+    "wof:lastmodified":1491916088,
     "wof:name":"Kemfin Chemicals (p) Ltd.",
     "wof:parent_id":85927907,
     "wof:placetype":"venue",

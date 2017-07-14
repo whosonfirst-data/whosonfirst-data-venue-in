@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.819054,18.915291,72.819054,18.915291",
     "geom:latitude":18.915291,
     "geom:longitude":72.819054,
@@ -28,9 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85903829,
+        85672171,
+        102191569,
         85632469,
-        102030609
+        102030609,
+        890503073,
+        85903829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,17 @@
     "wof:geomhash":"55f7469114ba29ce937145a9593cd996",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85903829,
-            "region_id":-1,
+            "region_id":85672171,
             "venue_id":169530733
         }
     ],
     "wof:id":169530733,
-    "wof:lastmodified":1466288688,
+    "wof:lastmodified":1491921945,
     "wof:name":"Sheth Impex",
     "wof:parent_id":85903829,
     "wof:placetype":"venue",

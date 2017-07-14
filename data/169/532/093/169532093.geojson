@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.830025,18.918604,72.830025,18.918604",
     "geom:latitude":18.918604,
     "geom:longitude":72.830025,
@@ -27,8 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931609,
-        102030609
+        85672171,
+        102191569,
+        85632469,
+        102030609,
+        890503073,
+        85931609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +43,17 @@
     "wof:geomhash":"ba0f343f92758829cb75d2bc80ef97a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85931609,
-            "region_id":-1,
+            "region_id":85672171,
             "venue_id":169532093
         }
     ],
     "wof:id":169532093,
-    "wof:lastmodified":1466288861,
+    "wof:lastmodified":1491893084,
     "wof:name":"Diamond Impex",
     "wof:parent_id":85931609,
     "wof:placetype":"venue",

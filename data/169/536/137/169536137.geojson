@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.865791,19.117825,72.865791,19.117825",
     "geom:latitude":19.117825,
     "geom:longitude":72.865791,
@@ -25,10 +26,12 @@
     "sg:website":"http://www.osakaeuro.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931605,
+        85672171,
+        102191569,
         85632469,
         102030609,
-        85672171
+        890503073,
+        85931605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +41,9 @@
     "wof:geomhash":"5f5bb1fc5f1b771b952cbf25c9ca06c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85931605,
             "region_id":85672171,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":169536137,
-    "wof:lastmodified":1466288872,
+    "wof:lastmodified":1491902349,
     "wof:name":"Osaka Exports",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",

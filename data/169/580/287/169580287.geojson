@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.27356,28.567049,77.27356,28.567049",
     "geom:latitude":28.567049,
     "geom:longitude":77.27356,
@@ -29,10 +30,12 @@
     "sg:website":"http://www.jperrot.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928007,
+        85672123,
+        102191569,
         85632469,
         102029189,
-        85672123
+        1108695773,
+        85928007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,9 @@
     "wof:geomhash":"33b1174353fa72d68712911f6ff2d791",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":1108695773,
             "locality_id":102029189,
             "neighbourhood_id":85928007,
             "region_id":85672123,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":169580287,
-    "wof:lastmodified":1466288787,
+    "wof:lastmodified":1491894448,
     "wof:name":"J. Perrot Enterprises Pvt. Ltd.",
     "wof:parent_id":85928007,
     "wof:placetype":"venue",

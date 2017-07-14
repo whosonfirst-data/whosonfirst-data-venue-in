@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.879021,19.11132,72.879021,19.11132",
     "geom:latitude":19.11132,
     "geom:longitude":72.879021,
@@ -29,10 +30,12 @@
     "sg:website":"http://www.anithagroups.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931605,
+        85672171,
+        102191569,
         85632469,
         102030609,
-        85672171
+        890503073,
+        85931605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,9 @@
     "wof:geomhash":"ad330a838d29dd0157935ac7d54a2f71",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85931605,
             "region_id":85672171,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":169530135,
-    "wof:lastmodified":1466288668,
+    "wof:lastmodified":1491902351,
     "wof:name":"Anitha Enterprises",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",

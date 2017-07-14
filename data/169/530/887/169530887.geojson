@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.843521,18.96841,72.843521,18.96841",
     "geom:latitude":18.96841,
     "geom:longitude":72.843521,
@@ -29,9 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85903927,
+        85672171,
+        102191569,
         85632469,
-        102030609
+        102030609,
+        890503073,
+        85903927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,17 @@
     "wof:geomhash":"a7400f11305b2168d589ca8b977dc7e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85903927,
-            "region_id":-1,
+            "region_id":85672171,
             "venue_id":169530887
         }
     ],
     "wof:id":169530887,
-    "wof:lastmodified":1466288690,
+    "wof:lastmodified":1491935417,
     "wof:name":"Merew",
     "wof:parent_id":85903927,
     "wof:placetype":"venue",

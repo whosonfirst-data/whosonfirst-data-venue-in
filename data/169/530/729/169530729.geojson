@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.826439,19.20808,72.826439,19.20808",
     "geom:latitude":19.20808,
     "geom:longitude":72.826439,
@@ -28,10 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931623,
+        85672171,
+        102191569,
         85632469,
         102030609,
-        85672171
+        890503073,
+        85931623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,9 @@
     "wof:geomhash":"e22af88caf099fa99fbc5fd91981adae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85931623,
             "region_id":85672171,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":169530729,
-    "wof:lastmodified":1466288688,
+    "wof:lastmodified":1491933274,
     "wof:name":"Vijay Bangle Works",
     "wof:parent_id":85931623,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.834328,18.922504,72.834328,18.922504",
     "geom:latitude":18.922504,
     "geom:longitude":72.834328,
@@ -30,8 +31,12 @@
     "sg:website":"http://www.mecpltd.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931609,
-        102030609
+        85672171,
+        102191569,
+        85632469,
+        102030609,
+        890503073,
+        85931609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +46,17 @@
     "wof:geomhash":"2efef9293b50c3f055f3695b388d7d48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85931609,
-            "region_id":-1,
+            "region_id":85672171,
             "venue_id":169528901
         }
     ],
     "wof:id":169528901,
-    "wof:lastmodified":1466288691,
+    "wof:lastmodified":1491893084,
     "wof:name":"Mahindra Engineering & Chemical Products Ltd.",
     "wof:parent_id":85931609,
     "wof:placetype":"venue",

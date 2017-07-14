@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-07-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.607947,35.201649,-106.607947,35.201649",
     "geom:latitude":35.201649,
     "geom:longitude":-106.607947,
     "iso:country":"IN",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2nd Floor, NM 4&5, OLD DLF Sector 14",
     "sg:city":"Gurgaon",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_7Lg2gPf20lxJlvCBoGJvAH_35.201649_-106.607947@1308163241"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f3d1fd29ae9c5d096adb385e7d61836d",
+    "wof:geomhash":"194e739f0f282b0d4e7f8829ad7a88d8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":169652677,
-    "wof:lastmodified":1466288855,
+    "wof:lastmodified":1500054185,
     "wof:name":"Sagacious Softwares",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

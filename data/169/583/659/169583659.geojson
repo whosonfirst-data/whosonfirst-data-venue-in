@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.203148,28.733789,77.203148,28.733789",
     "geom:latitude":28.733789,
     "geom:longitude":77.203148,
@@ -27,10 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928119,
+        85672123,
+        102191569,
         85632469,
         102030425,
-        85672123
+        890507423,
+        85928119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +43,9 @@
     "wof:geomhash":"d71640cede7f703b0ecd0129bb073070",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890507423,
             "locality_id":102030425,
             "neighbourhood_id":85928119,
             "region_id":85672123,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":169583659,
-    "wof:lastmodified":1466288792,
+    "wof:lastmodified":1491892041,
     "wof:name":"Kumar Rubber Moulding Works",
     "wof:parent_id":85928119,
     "wof:placetype":"venue",

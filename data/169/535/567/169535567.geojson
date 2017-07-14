@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.914101,19.101273,72.914101,19.101273",
     "geom:latitude":19.101273,
     "geom:longitude":72.914101,
@@ -29,10 +30,12 @@
     "sg:website":"http://www.easy2source/jayconcast",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931627,
+        85672171,
+        102191569,
         85632469,
         102030609,
-        85672171
+        890503073,
+        85931627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,9 @@
     "wof:geomhash":"3227b0797e4f01d3bf0a8065992f38a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85931627,
             "region_id":85672171,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":169535567,
-    "wof:lastmodified":1466288875,
+    "wof:lastmodified":1491906047,
     "wof:name":"Jay Concast Corporation",
     "wof:parent_id":85931627,
     "wof:placetype":"venue",

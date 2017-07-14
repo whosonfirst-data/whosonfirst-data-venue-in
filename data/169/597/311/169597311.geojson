@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.881149,19.100191,72.881149,19.100191",
     "geom:latitude":19.100191,
     "geom:longitude":72.881149,
@@ -27,10 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931605,
+        85672171,
+        102191569,
         85632469,
         102030609,
-        85672171
+        890503073,
+        85931605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +43,9 @@
     "wof:geomhash":"7ede167b2beaa8b559f96eeec489a70e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85931605,
             "region_id":85672171,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":169597311,
-    "wof:lastmodified":1466288808,
+    "wof:lastmodified":1491902348,
     "wof:name":"P. I. Industries Limited",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.31234,28.468845,77.31234,28.468845",
     "geom:latitude":28.468845,
     "geom:longitude":77.31234,
@@ -28,10 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928379,
+        85672133,
+        102191569,
         85632469,
         102030289,
-        85672133
+        890507901,
+        85928379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,9 @@
     "wof:geomhash":"e06c64cd92a31c3c5207c483928b0914",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890507901,
             "locality_id":102030289,
             "neighbourhood_id":85928379,
             "region_id":85672133,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":169619659,
-    "wof:lastmodified":1466288827,
+    "wof:lastmodified":1491929453,
     "wof:name":"Shiv Enterprises",
     "wof:parent_id":85928379,
     "wof:placetype":"venue",

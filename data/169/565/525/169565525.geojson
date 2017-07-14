@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.82724,18.935801,72.82724,18.935801",
     "geom:latitude":18.935801,
     "geom:longitude":72.82724,
@@ -19,10 +20,12 @@
     "sg:province":"Maharashtra",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85903879,
+        85672171,
+        102191569,
         85632469,
         102030609,
-        85672171
+        890503073,
+        85903879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,8 +35,9 @@
     "wof:geomhash":"fe0082711104844d7adbd9138398951c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85903879,
             "region_id":85672171,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":169565525,
-    "wof:lastmodified":1466288718,
+    "wof:lastmodified":1491924332,
     "wof:name":"Associate Cement Company",
     "wof:parent_id":85903879,
     "wof:placetype":"venue",

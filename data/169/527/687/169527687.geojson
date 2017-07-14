@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.818497,18.91408,72.818497,18.91408",
     "geom:latitude":18.91408,
     "geom:longitude":72.818497,
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85903829,
+        85672171,
+        102191569,
         85632469,
-        102030609
+        102030609,
+        890503073,
+        85903829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +43,17 @@
     "wof:geomhash":"6bde5f7f510b07e9571442feb7c00b2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85903829,
-            "region_id":-1,
+            "region_id":85672171,
             "venue_id":169527687
         }
     ],
     "wof:id":169527687,
-    "wof:lastmodified":1466288633,
+    "wof:lastmodified":1491921945,
     "wof:name":"Texool Corporation Ltd.",
     "wof:parent_id":85903829,
     "wof:placetype":"venue",

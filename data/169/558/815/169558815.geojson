@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.82579,18.935062,72.82579,18.935062",
     "geom:latitude":18.935062,
     "geom:longitude":72.82579,
@@ -20,10 +21,12 @@
     "sg:website":"http://www.kjelectronics.trade-india.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85903879,
+        85672171,
+        102191569,
         85632469,
         102030609,
-        85672171
+        890503073,
+        85903879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,8 +36,9 @@
     "wof:geomhash":"c19d4b5cb1d747a297c1dd50b3147eb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85903879,
             "region_id":85672171,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":169558815,
-    "wof:lastmodified":1466288749,
+    "wof:lastmodified":1491924332,
     "wof:name":"Kj Electronics Pvt Ltd",
     "wof:parent_id":85903879,
     "wof:placetype":"venue",

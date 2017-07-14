@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-07-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"70.317535,28.405279,70.317535,28.405279",
     "geom:latitude":28.405279,
     "geom:longitude":70.317535,
     "iso:country":"IN",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"B-278, Ground Floor, C.r. Park,",
     "sg:city":"New Delhi",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_2FcFS3ebfHnrqdGij1irAX_28.405279_70.317535@1306269788"
     },
     "wof:country":"IN",
-    "wof:geomhash":"26e626fc3c95d350345d9eff1ccf8722",
+    "wof:geomhash":"5fc93065c828d925d511b58ad0e7fb48",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":169628325,
-    "wof:lastmodified":1466288834,
+    "wof:lastmodified":1500054178,
     "wof:name":"Sri Nath Ji Exports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

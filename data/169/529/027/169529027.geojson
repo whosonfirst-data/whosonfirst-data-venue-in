@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.831902,18.918819,72.831902,18.918819",
     "geom:latitude":18.918819,
     "geom:longitude":72.831902,
@@ -20,8 +21,12 @@
     "sg:website":"http://www.carpetsindia.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931609,
-        102030609
+        85672171,
+        102191569,
+        85632469,
+        102030609,
+        890503073,
+        85931609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -31,16 +36,17 @@
     "wof:geomhash":"62af7e2edb53e950bf02c29739e64ae6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85931609,
-            "region_id":-1,
+            "region_id":85672171,
             "venue_id":169529027
         }
     ],
     "wof:id":169529027,
-    "wof:lastmodified":1466288683,
+    "wof:lastmodified":1491893084,
     "wof:name":"I. H. C. Overseas",
     "wof:parent_id":85931609,
     "wof:placetype":"venue",

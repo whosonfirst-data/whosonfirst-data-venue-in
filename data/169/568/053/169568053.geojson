@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.896721,19.053493,72.896721,19.053493",
     "geom:latitude":19.053493,
     "geom:longitude":72.896721,
@@ -19,10 +20,12 @@
     "sg:province":"Maharashtra",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931489,
+        85672171,
+        102191569,
         85632469,
         102030609,
-        85672171
+        890503073,
+        85931489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,8 +35,9 @@
     "wof:geomhash":"a54fd9e8eacaaeb20295d6caa0915dbb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85931489,
             "region_id":85672171,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":169568053,
-    "wof:lastmodified":1466288730,
+    "wof:lastmodified":1491894471,
     "wof:name":"Sakhi Chem Tech (i) Pvt Ltd",
     "wof:parent_id":85931489,
     "wof:placetype":"venue",

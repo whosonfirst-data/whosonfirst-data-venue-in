@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.249855,28.589896,77.249855,28.589896",
     "geom:latitude":28.589896,
     "geom:longitude":77.249855,
@@ -29,10 +30,12 @@
     "sg:website":"http://www.autsun.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928065,
+        85672123,
+        102191569,
         85632469,
         102029189,
-        85672123
+        1108695773,
+        85928065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,9 @@
     "wof:geomhash":"f16af371f354ad53f08b4f93f59892a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":1108695773,
             "locality_id":102029189,
             "neighbourhood_id":85928065,
             "region_id":85672123,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":169649885,
-    "wof:lastmodified":1466288857,
+    "wof:lastmodified":1491923952,
     "wof:name":"AUTSUN.COM",
     "wof:parent_id":85928065,
     "wof:placetype":"venue",

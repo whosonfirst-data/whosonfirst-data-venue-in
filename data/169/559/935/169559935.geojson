@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.247337,28.549141,77.247337,28.549141",
     "geom:latitude":28.549141,
     "geom:longitude":77.247337,
@@ -28,10 +29,12 @@
     "sg:website":"http://www.dagaglobal.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928369,
+        85672123,
+        102191569,
         85632469,
         102029189,
-        85672123
+        1108695773,
+        85928369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,9 @@
     "wof:geomhash":"2689f3e5bbb79ecd26f0587d2f2af701",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":1108695773,
             "locality_id":102029189,
             "neighbourhood_id":85928369,
             "region_id":85672123,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":169559935,
-    "wof:lastmodified":1466288764,
+    "wof:lastmodified":1491913412,
     "wof:name":"Daga Global Chemicals Ltd.",
     "wof:parent_id":85928369,
     "wof:placetype":"venue",

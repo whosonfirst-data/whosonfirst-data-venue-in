@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.826805,18.935812,72.826805,18.935812",
     "geom:latitude":18.935812,
     "geom:longitude":72.826805,
@@ -29,10 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85903879,
+        85672171,
+        102191569,
         85632469,
         102030609,
-        85672171
+        890503073,
+        85903879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,9 @@
     "wof:geomhash":"be6b8d61adba414d8852b9cbc6f04b26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85903879,
             "region_id":85672171,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":169590309,
-    "wof:lastmodified":1466288803,
+    "wof:lastmodified":1491924331,
     "wof:name":"Mm Agrichem Pvt. Ltd.",
     "wof:parent_id":85903879,
     "wof:placetype":"venue",

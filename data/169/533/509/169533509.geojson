@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.248802,28.619921,77.248802,28.619921",
     "geom:latitude":28.619921,
     "geom:longitude":77.248802,
@@ -27,10 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85927907,
+        85672123,
+        102191569,
         85632469,
         102029189,
-        85672123
+        1108695773,
+        85927907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +43,9 @@
     "wof:geomhash":"e1eb97b6ff1c1003c00980189b87379e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":1108695773,
             "locality_id":102029189,
             "neighbourhood_id":85927907,
             "region_id":85672123,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":169533509,
-    "wof:lastmodified":1466288867,
+    "wof:lastmodified":1491916088,
     "wof:name":"Top Diamonds Ltd.",
     "wof:parent_id":85927907,
     "wof:placetype":"venue",

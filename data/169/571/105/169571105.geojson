@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.861748,19.116144,72.861748,19.116144",
     "geom:latitude":19.116144,
     "geom:longitude":72.861748,
@@ -19,10 +20,12 @@
     "sg:province":"Maharashtra",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931605,
+        85672171,
+        102191569,
         85632469,
         102030609,
-        85672171
+        890503073,
+        85931605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,8 +35,9 @@
     "wof:geomhash":"68598701500f2180114b00db9f866059",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85931605,
             "region_id":85672171,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":169571105,
-    "wof:lastmodified":1466288740,
+    "wof:lastmodified":1491902346,
     "wof:name":"Mital Footwear",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.203262,28.659006,77.203262,28.659006",
     "geom:latitude":28.659006,
     "geom:longitude":77.203262,
@@ -19,10 +20,12 @@
     "sg:province":"Delhi",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85903953,
+        85672123,
+        102191569,
         85632469,
         102030425,
-        85672123
+        890507423,
+        85903953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,8 +35,9 @@
     "wof:geomhash":"c93254d4cf52eecde7dae2b3d536c345",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890507423,
             "locality_id":102030425,
             "neighbourhood_id":85903953,
             "region_id":85672123,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":169557791,
-    "wof:lastmodified":1466288727,
+    "wof:lastmodified":1491899696,
     "wof:name":"Jbd Books Distributors",
     "wof:parent_id":85903953,
     "wof:placetype":"venue",

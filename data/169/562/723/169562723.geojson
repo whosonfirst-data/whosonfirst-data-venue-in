@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.247467,28.58186,77.247467,28.58186",
     "geom:latitude":28.58186,
     "geom:longitude":77.247467,
@@ -19,10 +20,12 @@
     "sg:province":"Delhi",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928001,
+        85672123,
+        102191569,
         85632469,
         102029189,
-        85672123
+        1108695773,
+        85928001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,8 +35,9 @@
     "wof:geomhash":"33b9759616ff6ea34c7a5b9c78b157cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":1108695773,
             "locality_id":102029189,
             "neighbourhood_id":85928001,
             "region_id":85672123,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":169562723,
-    "wof:lastmodified":1466288722,
+    "wof:lastmodified":1491911750,
     "wof:name":"Inter Exports",
     "wof:parent_id":85928001,
     "wof:placetype":"venue",

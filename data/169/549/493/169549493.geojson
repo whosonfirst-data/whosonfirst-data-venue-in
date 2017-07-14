@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-07-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"74.201347,31.267502,74.201347,31.267502",
     "geom:latitude":31.267502,
     "geom:longitude":74.201347,
     "iso:country":"IN",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13/471, Sunderwas (south),",
     "sg:city":"Udaipur",
     "sg:classifiers":[
@@ -35,7 +38,7 @@
         "sg:id":"SG_5PuUBS4MTbDPN8fv8Egu0b_31.267502_74.201347@1306269786"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a931fef71041e459de527122009460fa",
+    "wof:geomhash":"e4443f66c1857ac962cb56cf0866598f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":169549493,
-    "wof:lastmodified":1466288884,
+    "wof:lastmodified":1500054181,
     "wof:name":"Sheetal Market Links",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

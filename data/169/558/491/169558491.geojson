@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.249855,28.554041,77.249855,28.554041",
     "geom:latitude":28.554041,
     "geom:longitude":77.249855,
@@ -29,11 +30,13 @@
     "sg:website":"http://www.bonditindia.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928369,
+        85672123,
+        102191569,
         85632469,
         102029189,
-        85672123,
-        85928361
+        1108695773,
+        85928361,
+        85928369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,26 +46,28 @@
     "wof:geomhash":"31ac679297602519b88616443e4442c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":1108695773,
             "locality_id":102029189,
-            "neighbourhood_id":85928369,
+            "neighbourhood_id":85928361,
             "region_id":85672123,
             "venue_id":169558491
         },
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":1108695773,
             "locality_id":102029189,
-            "neighbourhood_id":85928361,
+            "neighbourhood_id":85928369,
             "region_id":85672123,
             "venue_id":169558491
         }
     ],
     "wof:id":169558491,
-    "wof:lastmodified":1466288724,
+    "wof:lastmodified":1491913411,
     "wof:name":"Bondit Construction Chemicals Pvt. Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],

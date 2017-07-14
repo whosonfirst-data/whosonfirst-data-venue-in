@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.195962,28.565402,77.195962,28.565402",
     "geom:latitude":28.565402,
     "geom:longitude":77.195962,
@@ -32,10 +33,12 @@
     "sg:website":"http://www.citeman.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928651,
+        85672123,
+        102191569,
         85632469,
         102029189,
-        85672123
+        1108695773,
+        85928651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +48,9 @@
     "wof:geomhash":"ce0d5703dd7dbfb4ee73f478c303b007",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":1108695773,
             "locality_id":102029189,
             "neighbourhood_id":85928651,
             "region_id":85672123,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":169651393,
-    "wof:lastmodified":1466288896,
+    "wof:lastmodified":1491888683,
     "wof:name":"CiteMan Network",
     "wof:parent_id":85928651,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.86412,19.110233,72.86412,19.110233",
     "geom:latitude":19.110233,
     "geom:longitude":72.86412,
@@ -27,7 +28,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931605,
+        102555685,
+        85931483,
+        102191569,
         85632469,
         102030609,
         85672171
@@ -40,18 +43,19 @@
     "wof:geomhash":"123cf64b9acf48bbf999267179dcca56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102555685,
+            "continent_id":102191569,
             "country_id":85632469,
             "locality_id":102030609,
-            "neighbourhood_id":85931605,
+            "neighbourhood_id":85931483,
             "region_id":85672171,
             "venue_id":169527961
         }
     ],
     "wof:id":169527961,
-    "wof:lastmodified":1466288636,
+    "wof:lastmodified":1491902344,
     "wof:name":"Steel Case (i) Pvt. Ltd.",
-    "wof:parent_id":85931605,
+    "wof:parent_id":102555685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],

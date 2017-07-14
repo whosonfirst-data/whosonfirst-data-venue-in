@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.271912,28.531528,77.271912,28.531528",
     "geom:latitude":28.531528,
     "geom:longitude":77.271912,
@@ -28,10 +29,12 @@
     "sg:website":"http://www.mardanauto.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85927991,
+        85672123,
+        102191569,
         85632469,
         102029189,
-        85672123
+        1108695773,
+        85927991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,9 @@
     "wof:geomhash":"60a02d034f33719a2cc38e992920abe0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":1108695773,
             "locality_id":102029189,
             "neighbourhood_id":85927991,
             "region_id":85672123,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":169587415,
-    "wof:lastmodified":1466288790,
+    "wof:lastmodified":1491929389,
     "wof:name":"Mardan Industrial Corp.",
     "wof:parent_id":85927991,
     "wof:placetype":"venue",

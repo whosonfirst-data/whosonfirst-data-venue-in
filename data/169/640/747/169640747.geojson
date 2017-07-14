@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"73.011749,19.045317,73.011749,19.045317",
     "geom:latitude":19.045317,
     "geom:longitude":73.011749,
@@ -28,6 +29,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85931401,
+        102191569,
         85632469,
         102029191,
         85672171
@@ -40,7 +42,7 @@
     "wof:geomhash":"0ecaaaea629d1f681feb359f3174aeaa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
             "locality_id":102029191,
             "neighbourhood_id":85931401,
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":169640747,
-    "wof:lastmodified":1466288849,
+    "wof:lastmodified":1491922336,
     "wof:name":"V. K. Rubber Products",
     "wof:parent_id":85931401,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.310188,28.58271,77.310188,28.58271",
     "geom:latitude":28.58271,
     "geom:longitude":77.310188,
@@ -27,10 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928529,
+        85672205,
+        102191569,
         85632469,
         102031133,
-        85672205
+        890508371,
+        85928529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +43,9 @@
     "wof:geomhash":"bb8d606bed8cbdec9e94214cebb4cf36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890508371,
             "locality_id":102031133,
             "neighbourhood_id":85928529,
             "region_id":85672205,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":169601263,
-    "wof:lastmodified":1466288815,
+    "wof:lastmodified":1491901113,
     "wof:name":"Pioneer Saltpetre Industries",
     "wof:parent_id":85928529,
     "wof:placetype":"venue",

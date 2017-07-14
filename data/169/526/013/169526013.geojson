@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.870903,19.113882,72.870903,19.113882",
     "geom:latitude":19.113882,
     "geom:longitude":72.870903,
@@ -29,10 +30,12 @@
     "sg:website":"http://www.krishnaengineering.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931605,
+        85672171,
+        102191569,
         85632469,
         102030609,
-        85672171
+        890503073,
+        85931605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,9 @@
     "wof:geomhash":"9366beb5dfea1d31936176b29d4eb37f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85931605,
             "region_id":85672171,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":169526013,
-    "wof:lastmodified":1466288618,
+    "wof:lastmodified":1491902349,
     "wof:name":"Krishna Metal Industries",
     "wof:parent_id":85931605,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.165054,28.578938,77.165054,28.578938",
     "geom:latitude":28.578938,
     "geom:longitude":77.165054,
@@ -29,10 +30,12 @@
     "sg:website":"http://www.thegeyer.de",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928343,
+        85672123,
+        102191569,
         85632469,
         102029189,
-        85672123
+        1108695773,
+        85928343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,9 @@
     "wof:geomhash":"c1eff0f1e6b141e40e8da711d05d69e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":1108695773,
             "locality_id":102029189,
             "neighbourhood_id":85928343,
             "region_id":85672123,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":169635661,
-    "wof:lastmodified":1466288844,
+    "wof:lastmodified":1491885065,
     "wof:name":"The Geyer",
     "wof:parent_id":85928343,
     "wof:placetype":"venue",

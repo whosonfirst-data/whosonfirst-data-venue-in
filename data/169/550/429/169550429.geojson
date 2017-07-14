@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.211311,28.645542,77.211311,28.645542",
     "geom:latitude":28.645542,
     "geom:longitude":77.211311,
@@ -30,10 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85903937,
+        85672123,
+        102191569,
         85632469,
         102029189,
-        85672123
+        1108695773,
+        85903937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,9 @@
     "wof:geomhash":"0e3eb69cf2e70b47a0ba9cf03c4820db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":1108695773,
             "locality_id":102029189,
             "neighbourhood_id":85903937,
             "region_id":85672123,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":169550429,
-    "wof:lastmodified":1466288684,
+    "wof:lastmodified":1491905449,
     "wof:name":"Precicomp",
     "wof:parent_id":85903937,
     "wof:placetype":"venue",

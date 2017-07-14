@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-07-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"139.605025,35.929723,139.605025,35.929723",
     "geom:latitude":35.929723,
     "geom:longitude":139.605025,
     "iso:country":"IN",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2 & 3,21st main BSK 2nd stage",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -34,7 +37,7 @@
         "sg:id":"SG_6pCuRRapIsqigaekiwhedx_35.929723_139.605025@1308163237"
     },
     "wof:country":"IN",
-    "wof:geomhash":"88ccc370f35edf944f2ae2d1e3d519af",
+    "wof:geomhash":"1bb1d73df303217d02fc77c479f56fe8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":169648577,
-    "wof:lastmodified":1466288855,
+    "wof:lastmodified":1500054183,
     "wof:name":"Yulop",
     "wof:parent_id":85909259,
     "wof:placetype":"venue",

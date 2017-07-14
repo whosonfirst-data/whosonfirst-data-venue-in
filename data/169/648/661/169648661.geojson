@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.198911,28.559421,77.198911,28.559421",
     "geom:latitude":28.559421,
     "geom:longitude":77.198911,
@@ -29,10 +30,12 @@
     "sg:website":"http://www.toufee.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928219,
+        85672123,
+        102191569,
         85632469,
         102029189,
-        85672123
+        1108695773,
+        85928219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,9 @@
     "wof:geomhash":"3a7dbbc98574ea23b822b6cbe320dd74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":1108695773,
             "locality_id":102029189,
             "neighbourhood_id":85928219,
             "region_id":85672123,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":169648661,
-    "wof:lastmodified":1466288856,
+    "wof:lastmodified":1491893452,
     "wof:name":"Toufee",
     "wof:parent_id":85928219,
     "wof:placetype":"venue",

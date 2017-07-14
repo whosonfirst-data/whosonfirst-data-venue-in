@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.828407,19.213198,72.828407,19.213198",
     "geom:latitude":19.213198,
     "geom:longitude":72.828407,
@@ -24,10 +25,12 @@
     "sg:postcode":"400067",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931623,
+        85672171,
+        102191569,
         85632469,
         102030609,
-        85672171
+        890503073,
+        85931623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,8 +40,9 @@
     "wof:geomhash":"fc69d6c4167fd607723a14a12ec904e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85931623,
             "region_id":85672171,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":169536045,
-    "wof:lastmodified":1466288624,
+    "wof:lastmodified":1491933274,
     "wof:name":"S. G. Synthetics Pvt. Ltd.",
     "wof:parent_id":85931623,
     "wof:placetype":"venue",

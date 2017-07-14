@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.845222,19.098072,72.845222,19.098072",
     "geom:latitude":19.098072,
     "geom:longitude":72.845222,
@@ -18,10 +19,12 @@
     "sg:phone":"+91 22 2610 0608",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931603,
+        85672171,
+        102191569,
         85632469,
         102030609,
-        85672171
+        890503073,
+        85931603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -31,8 +34,9 @@
     "wof:geomhash":"3ae307dd2431c5e995267b299a0ff379",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
             "neighbourhood_id":85931603,
             "region_id":85672171,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":169530677,
-    "wof:lastmodified":1466288687,
+    "wof:lastmodified":1491893588,
     "wof:name":"Janata Sales Corp.",
     "wof:parent_id":85931603,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.206498,28.662365,77.206498,28.662365",
     "geom:latitude":28.662365,
     "geom:longitude":77.206498,
@@ -33,10 +34,12 @@
     "sg:website":"http://www.worldwideadvertisingnetwork.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85903953,
+        85672123,
+        102191569,
         85632469,
         102030425,
-        85672123
+        890507423,
+        85903953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +49,9 @@
     "wof:geomhash":"7088d43bf93e9c00e795458a6c7504d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890507423,
             "locality_id":102030425,
             "neighbourhood_id":85903953,
             "region_id":85672123,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":169654079,
-    "wof:lastmodified":1466288852,
+    "wof:lastmodified":1491899696,
     "wof:name":"WorldWide Advertising Network Private Ltd",
     "wof:parent_id":85903953,
     "wof:placetype":"venue",

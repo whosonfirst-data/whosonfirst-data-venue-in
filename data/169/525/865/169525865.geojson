@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.835533,19.170605,72.835533,19.170605",
     "geom:latitude":19.170605,
     "geom:longitude":72.835533,
@@ -29,11 +30,13 @@
     "sg:website":"www.sumanauto.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931563,
+        85672171,
+        102191569,
         85632469,
         102030609,
-        85672171,
-        85931619
+        890503073,
+        85931619,
+        85931563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,26 +46,28 @@
     "wof:geomhash":"6f9230f40e6ff81561c73871defc2b20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
-            "neighbourhood_id":85931563,
+            "neighbourhood_id":85931619,
             "region_id":85672171,
             "venue_id":169525865
         },
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
-            "neighbourhood_id":85931619,
+            "neighbourhood_id":85931563,
             "region_id":85672171,
             "venue_id":169525865
         }
     ],
     "wof:id":169525865,
-    "wof:lastmodified":1466288620,
+    "wof:lastmodified":1491924349,
     "wof:name":"Technik Engineers",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],

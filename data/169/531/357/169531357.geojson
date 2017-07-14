@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.88884,19.109495,72.88884,19.109495",
     "geom:latitude":19.109495,
     "geom:longitude":72.88884,
@@ -29,11 +30,13 @@
     "sg:website":"http://www.eveslynk.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85931519,
+        85672171,
+        102191569,
         85632469,
         102030609,
-        85672171,
-        85931605
+        890503073,
+        85931605,
+        85931519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,26 +46,28 @@
     "wof:geomhash":"0709a695732828b016853edc52941957",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
-            "neighbourhood_id":85931519,
+            "neighbourhood_id":85931605,
             "region_id":85672171,
             "venue_id":169531357
         },
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
-            "neighbourhood_id":85931605,
+            "neighbourhood_id":85931519,
             "region_id":85672171,
             "venue_id":169531357
         }
     ],
     "wof:id":169531357,
-    "wof:lastmodified":1466288857,
+    "wof:lastmodified":1491902347,
     "wof:name":"Eveslynk Industries",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.213211,28.64109,77.213211,28.64109",
     "geom:latitude":28.64109,
     "geom:longitude":77.213211,
@@ -29,10 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85903937,
+        85672123,
+        102191569,
         85632469,
         102029189,
-        85672123
+        1108695773,
+        85903937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,9 @@
     "wof:geomhash":"16d1e17e56c1b2da1a6956d1ffcdcae7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":1108695773,
             "locality_id":102029189,
             "neighbourhood_id":85903937,
             "region_id":85672123,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":169588451,
-    "wof:lastmodified":1466288794,
+    "wof:lastmodified":1491905449,
     "wof:name":"Meenakshi Art & Crafts",
     "wof:parent_id":85903937,
     "wof:placetype":"venue",

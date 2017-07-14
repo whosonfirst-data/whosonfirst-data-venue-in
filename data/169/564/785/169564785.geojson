@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.243027,28.583153,77.243027,28.583153",
     "geom:latitude":28.583153,
     "geom:longitude":77.243027,
@@ -20,10 +21,12 @@
     "sg:website":"http://www.bushfoods.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928001,
+        85672123,
+        102191569,
         85632469,
         102029189,
-        85672123
+        1108695773,
+        85928001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,8 +36,9 @@
     "wof:geomhash":"8fb6e6d38444e24057d3df697e25e31b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":1108695773,
             "locality_id":102029189,
             "neighbourhood_id":85928001,
             "region_id":85672123,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":169564785,
-    "wof:lastmodified":1466288721,
+    "wof:lastmodified":1491911750,
     "wof:name":"Bush Foods",
     "wof:parent_id":85928001,
     "wof:placetype":"venue",

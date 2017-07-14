@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.242668,28.553358,77.242668,28.553358",
     "geom:latitude":28.553358,
     "geom:longitude":77.242668,
@@ -19,10 +20,12 @@
     "sg:province":"Delhi",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928369,
+        85672123,
+        102191569,
         85632469,
         102029189,
-        85672123
+        1108695773,
+        85928369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,8 +35,9 @@
     "wof:geomhash":"85fcb5711319d6a148374d6f2ee03c72",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":1108695773,
             "locality_id":102029189,
             "neighbourhood_id":85928369,
             "region_id":85672123,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":169556125,
-    "wof:lastmodified":1466288890,
+    "wof:lastmodified":1491913411,
     "wof:name":"Ruia Cotex Ltd",
     "wof:parent_id":85928369,
     "wof:placetype":"venue",

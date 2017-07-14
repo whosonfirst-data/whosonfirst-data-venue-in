@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.207458,28.649654,77.207458,28.649654",
     "geom:latitude":28.649654,
     "geom:longitude":77.207458,
@@ -28,10 +29,12 @@
     "sg:website":"http://www.teknosgroup.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85903937,
+        85672123,
+        102191569,
         85632469,
         102029189,
-        85672123
+        1108695773,
+        85903937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,9 @@
     "wof:geomhash":"4a5d9f53a6306c50189e9bdcf6d290c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":1108695773,
             "locality_id":102029189,
             "neighbourhood_id":85903937,
             "region_id":85672123,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":169588279,
-    "wof:lastmodified":1466288791,
+    "wof:lastmodified":1491905449,
     "wof:name":"Mccoy Silicones Limited",
     "wof:parent_id":85903937,
     "wof:placetype":"venue",

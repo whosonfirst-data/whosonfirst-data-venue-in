@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-07-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"74.30687,31.558502,74.30687,31.558502",
     "geom:latitude":31.558502,
     "geom:longitude":74.30687,
     "iso:country":"IN",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"University Road, V.v.nagar,",
     "sg:city":"Anand",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_5dVJUIlsA6qrFeHuonQdnU_31.558502_74.306870@1306269787"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2a885db0def5a317469fb8487b02da79",
+    "wof:geomhash":"23508d582946df64b7e1cd9fa89c3cc6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":169558829,
-    "wof:lastmodified":1466288750,
+    "wof:lastmodified":1500054179,
     "wof:name":"Ccube Pvt. Ltd.",
     "wof:parent_id":85903679,
     "wof:placetype":"venue",

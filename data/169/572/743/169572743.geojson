@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.822906,18.930225,72.822906,18.930225",
     "geom:latitude":18.930225,
     "geom:longitude":72.822906,
@@ -19,11 +20,13 @@
     "sg:province":"Maharashtra",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85903879,
+        85672171,
+        102191569,
         85632469,
         102030609,
-        85672171,
-        85931461
+        890503073,
+        85931461,
+        85903879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,26 +36,28 @@
     "wof:geomhash":"fb70798d38a4cde194c327a77d90b0e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
-            "neighbourhood_id":85903879,
+            "neighbourhood_id":85931461,
             "region_id":85672171,
             "venue_id":169572743
         },
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890503073,
             "locality_id":102030609,
-            "neighbourhood_id":85931461,
+            "neighbourhood_id":85903879,
             "region_id":85672171,
             "venue_id":169572743
         }
     ],
     "wof:id":169572743,
-    "wof:lastmodified":1466288767,
+    "wof:lastmodified":1491924331,
     "wof:name":"Pg International",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],

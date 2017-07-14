@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.205055,28.661795,77.205055,28.661795",
     "geom:latitude":28.661795,
     "geom:longitude":77.205055,
@@ -20,10 +21,12 @@
     "sg:website":"http://www.welcogm.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85903953,
+        85672123,
+        102191569,
         85632469,
         102030425,
-        85672123
+        890507423,
+        85903953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,8 +36,9 @@
     "wof:geomhash":"8a9c54b302e2c8c6453a8b031868d5d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890507423,
             "locality_id":102030425,
             "neighbourhood_id":85903953,
             "region_id":85672123,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":169574279,
-    "wof:lastmodified":1466288750,
+    "wof:lastmodified":1491899696,
     "wof:name":"Welco Garments Machinery",
     "wof:parent_id":85903953,
     "wof:placetype":"venue",

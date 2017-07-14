@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"73.014236,19.044382,73.014236,19.044382",
     "geom:latitude":19.044382,
     "geom:longitude":73.014236,
@@ -29,6 +30,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85931401,
+        102191569,
         85632469,
         102029191,
         85672171
@@ -41,7 +43,7 @@
     "wof:geomhash":"fc93afa54c33935926666651727319c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
             "locality_id":102029191,
             "neighbourhood_id":85931401,
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":169581313,
-    "wof:lastmodified":1466288784,
+    "wof:lastmodified":1491922336,
     "wof:name":"K. S. International",
     "wof:parent_id":85931401,
     "wof:placetype":"venue",

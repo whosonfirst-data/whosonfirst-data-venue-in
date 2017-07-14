@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.307562,28.586492,77.307562,28.586492",
     "geom:latitude":28.586492,
     "geom:longitude":77.307562,
@@ -36,10 +37,12 @@
     "sg:website":"http://www.seopackages.net/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85928529,
+        85672205,
+        102191569,
         85632469,
         102031133,
-        85672205
+        890508371,
+        85928529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,8 +52,9 @@
     "wof:geomhash":"92e268706c7333381a536296739075aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890508371,
             "locality_id":102031133,
             "neighbourhood_id":85928529,
             "region_id":85672205,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":169651187,
-    "wof:lastmodified":1466288853,
+    "wof:lastmodified":1491901114,
     "wof:name":"SEOPackages.net",
     "wof:parent_id":85928529,
     "wof:placetype":"venue",

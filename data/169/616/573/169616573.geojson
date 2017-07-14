@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"73.020607,19.041838,73.020607,19.041838",
     "geom:latitude":19.041838,
     "geom:longitude":73.020607,
@@ -28,6 +29,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85931651,
+        102191569,
         85632469,
         102029191,
         85672171
@@ -40,7 +42,7 @@
     "wof:geomhash":"df6f6c2e31f52f10a996c8591f4d988a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632469,
             "locality_id":102029191,
             "neighbourhood_id":85931651,
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":169616573,
-    "wof:lastmodified":1466288827,
+    "wof:lastmodified":1491903461,
     "wof:name":"Sariman Chemical Corp.",
     "wof:parent_id":85931651,
     "wof:placetype":"venue",
