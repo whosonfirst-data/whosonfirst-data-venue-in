@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.838097,19.113432,72.838097,19.113432",
     "geom:latitude":19.113432,
     "geom:longitude":72.838097,
     "iso:country":"IN",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"25, Radheshyam Appt., Juhu Lane, \nAndheri (west),",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -35,7 +38,7 @@
         "sg:id":"SG_1E7u6ej2c7DHKNu3Scj8FU_19.113432_72.838097@1306269787"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2c571aaee5f749904bae9cd208829e8e",
+    "wof:geomhash":"79ab9d207652dd9e85956856ec301de7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,13 +50,18 @@
         }
     ],
     "wof:id":169560845,
-    "wof:lastmodified":1466288761,
+    "wof:lastmodified":1510941823,
     "wof:name":"Eastern Chemical",
     "wof:parent_id":85931479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-in",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        169560853,
+        169560863
+    ],
+    "wof:supersedes":[
+        169560839
+    ],
     "wof:tags":[
         "pharmaceutical"
     ]

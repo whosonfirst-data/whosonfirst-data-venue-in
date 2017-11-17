@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"79.135506,10.760727,79.135506,10.760727",
     "geom:latitude":10.760727,
     "geom:longitude":79.135506,
     "iso:country":"IN",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"68, Teachers' Colony, Third West Street,",
     "sg:city":"Tuticorin",
     "sg:classifiers":[
@@ -36,7 +38,7 @@
         "sg:id":"SG_5sTZZcaOtOwTyeARuTXHcf_10.760727_79.135506@1306269786"
     },
     "wof:country":"IN",
-    "wof:geomhash":"223731b52b594119f7dde81ee6eba20a",
+    "wof:geomhash":"97d577523cb72fb00a5ad78daa4ada81",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,13 +50,24 @@
         }
     ],
     "wof:id":169548649,
-    "wof:lastmodified":1466288685,
+    "wof:lastmodified":1510941477,
     "wof:name":"Ica Exports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        169548325,
+        169548305,
+        169548477,
+        169548459,
+        169548629,
+        169548367,
+        169548425,
+        169548729,
+        169548569,
+        169548753
+    ],
     "wof:tags":[
         "rice"
     ]

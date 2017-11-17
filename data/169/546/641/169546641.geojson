@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.33358,11.12476,77.33358,11.12476",
     "geom:latitude":11.12476,
     "geom:longitude":77.33358,
     "iso:country":"IN",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"No-13, First Street, Asher Nagar, Gandhinagar P.o,",
     "sg:city":"Tirupur",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_1hhzEbFs3pSwpvhvxox3Ic_11.124760_77.333580@1306269786"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6c53bfa5b97ca41753e1e3fc0a233f52",
+    "wof:geomhash":"636ccc8b6865e3790fb35a2f5cea4dff",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -41,13 +44,32 @@
         }
     ],
     "wof:id":169546641,
-    "wof:lastmodified":1466288879,
+    "wof:lastmodified":1510941696,
     "wof:name":"Olio International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-in",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        169546863,
+        169547583,
+        169547617,
+        169547669,
+        169547713,
+        169547771,
+        169547907,
+        169547557,
+        169546981,
+        169547855
+    ],
+    "wof:supersedes":[
+        169547071,
+        169546499,
+        169546525,
+        169546487,
+        169547181,
+        169546379,
+        169546307
+    ],
     "wof:tags":[]
 },
   "bbox": [

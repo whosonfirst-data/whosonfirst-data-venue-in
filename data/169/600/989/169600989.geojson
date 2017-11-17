@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.220764,28.658045,77.220764,28.658045",
     "geom:latitude":28.658045,
     "geom:longitude":77.220764,
     "iso:country":"IN",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"313/314, Tilak Bazar,",
     "sg:city":"Delhi",
     "sg:classifiers":[
@@ -37,7 +39,7 @@
         "sg:id":"SG_46I8rVUJO4H6wb5XAThXYk_28.658045_77.220764@1306269788"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3bd3bfd19c9499d60409fb06c9d3989b",
+    "wof:geomhash":"d10fc071940eb513e840f5b92b2fa6e8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,13 +51,22 @@
         }
     ],
     "wof:id":169600989,
-    "wof:lastmodified":1466288822,
+    "wof:lastmodified":1510942548,
     "wof:name":"Pioneer In-organics",
     "wof:parent_id":85928087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        169601071,
+        169600947,
+        169601219,
+        169601135,
+        169600915,
+        169601077,
+        169601123,
+        169601163
+    ],
     "wof:tags":[
         "fine"
     ]

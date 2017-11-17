@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"80.225388,13.049193,80.225388,13.049193",
     "geom:latitude":13.049193,
     "geom:longitude":80.225388,
     "iso:country":"IN",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"35, Muthu Nagar, 3rd Street,",
     "sg:city":"Tiruppur",
     "sg:classifiers":[
@@ -38,7 +40,7 @@
         "sg:id":"SG_6MckB0UQIvX7mFsTtN2So8_13.049193_80.225388@1306269786"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9f94bf29f436a5ade5a14900faef73e3",
+    "wof:geomhash":"230c90f94203e04ada3593c4ee426fff",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,13 +52,24 @@
         }
     ],
     "wof:id":169545963,
-    "wof:lastmodified":1466288675,
+    "wof:lastmodified":1510941312,
     "wof:name":"V. L. Associates",
     "wof:parent_id":85903935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        169546011,
+        169546087,
+        169545931,
+        169545939,
+        169546119,
+        169546259,
+        169546295,
+        169546207,
+        169546151,
+        169546215
+    ],
     "wof:tags":[
         "cover",
         "cushion"

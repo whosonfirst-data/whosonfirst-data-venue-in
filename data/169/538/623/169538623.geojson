@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.57148,13.001358,77.57148,13.001358",
     "geom:latitude":13.001358,
     "geom:longitude":77.57148,
     "iso:country":"IN",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"#455/1, Sampige Road, \nMalleswaram,",
     "sg:city":"Bangalore",
     "sg:classifiers":[],
@@ -29,7 +32,7 @@
         "sg:id":"SG_4eIBy0vYREOrBbqhKSQEDJ_13.001358_77.571480@1306269786"
     },
     "wof:country":"IN",
-    "wof:geomhash":"284d460c601d4a08959a34730622675c",
+    "wof:geomhash":"602f6f02041b30cb273c959ae63ec9bc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -41,13 +44,17 @@
         }
     ],
     "wof:id":169538623,
-    "wof:lastmodified":1466288659,
+    "wof:lastmodified":1510943270,
     "wof:name":"Oor Pee Exports",
     "wof:parent_id":85903915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-in",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        169538997
+    ],
+    "wof:supersedes":[
+        169539379
+    ],
     "wof:tags":[]
 },
   "bbox": [

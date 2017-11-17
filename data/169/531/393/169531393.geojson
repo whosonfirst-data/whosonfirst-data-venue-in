@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.829842,18.969574,72.829842,18.969574",
     "geom:latitude":18.969574,
     "geom:longitude":72.829842,
     "iso:country":"IN",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"82/84, Clare Road,",
     "sg:city":"Mumbai",
     "sg:classifiers":[
@@ -35,7 +38,7 @@
         "sg:id":"SG_0c3nilZaemdF62AS9IoJR7_18.969574_72.829842@1306269785"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7ca78b7d046da9d892331a48e683df86",
+    "wof:geomhash":"be1da3b2b37f7b66fe8cc1bc39aa0931",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":169531393,
-    "wof:lastmodified":1466288857,
+    "wof:lastmodified":1510941310,
     "wof:name":"Aaattarwala & Co. Pvt. Ltd.",
     "wof:parent_id":85931453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169531277
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

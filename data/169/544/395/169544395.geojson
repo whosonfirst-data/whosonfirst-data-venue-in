@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.590858,12.910249,77.590858,12.910249",
     "geom:latitude":12.910249,
     "geom:longitude":77.590858,
     "iso:country":"IN",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"# 1754, 9th Cross, 18th Main  J.p. Nagar, \n2nd Phase,",
     "sg:city":"Bangalore",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
         "sg:id":"SG_3wPlwuRLflkYMUIiOwkZ2x_12.910249_77.590858@1306269786"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a2582bfe916b31ba67b2bb1f0fb575ef",
+    "wof:geomhash":"e2009af07a7095171bf1ad8a7a65d567",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,13 +53,15 @@
         }
     ],
     "wof:id":169544395,
-    "wof:lastmodified":1466288658,
+    "wof:lastmodified":1510943795,
     "wof:name":"Powernet Solutions Pvt. Ltd.",
     "wof:parent_id":85931065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        169544105
+    ],
     "wof:tags":[
         "voltage",
         "stabilizer"

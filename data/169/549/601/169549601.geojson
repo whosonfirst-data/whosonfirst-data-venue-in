@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"88.355553,22.567356,88.355553,22.567356",
     "geom:latitude":22.567356,
     "geom:longitude":88.355553,
     "iso:country":"IN",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14, Lalghat,",
     "sg:city":"Udaipur",
     "sg:classifiers":[
@@ -35,7 +37,7 @@
         "sg:id":"SG_6hZWZ4KgfJNktdl5nds2SS_22.567356_88.355553@1306269786"
     },
     "wof:country":"IN",
-    "wof:geomhash":"355ff9ecf3687051d8ea9ab761f4d638",
+    "wof:geomhash":"3d440f68ef3f0128d87b89ee38ddf178",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,13 +49,24 @@
         }
     ],
     "wof:id":169549601,
-    "wof:lastmodified":1466288885,
+    "wof:lastmodified":1510941595,
     "wof:name":"Mystique Textiles & Handicrafts",
     "wof:parent_id":85931943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        169549545,
+        169548821,
+        169548815,
+        169549519,
+        169549523,
+        169548943,
+        169549613,
+        169549607,
+        169548839,
+        169549231
+    ],
     "wof:tags":[]
 },
   "bbox": [

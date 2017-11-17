@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.323433,11.131086,77.323433,11.131086",
     "geom:latitude":11.131086,
     "geom:longitude":77.323433,
     "iso:country":"IN",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"24/64, Asher Nagar, 60 Feet Road, Gandhi Nagar\n(p.o),",
     "sg:city":"Tirupur",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_66uTtMcXURSC1V3qYZ3iYK_11.131086_77.323433@1306269786"
     },
     "wof:country":"IN",
-    "wof:geomhash":"091b4d41985c3a3dc2beff8085eb0b58",
+    "wof:geomhash":"a598da7be49312b513449328ca26d6b7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":169547165,
-    "wof:lastmodified":1466288658,
+    "wof:lastmodified":1510941466,
     "wof:name":"International Trading Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169547465
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "others"
